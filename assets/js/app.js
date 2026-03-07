@@ -1,4 +1,8 @@
-const DATA_URL = "standalone-policy-journal-tracker/data/policy_tracker.json";
+const DATA_PATHS = [
+  "standalone-policy-journal-tracker/data/policy_tracker.json",
+  "./standalone-policy-journal-tracker/data/policy_tracker.json",
+  "/frontier_papers/standalone-policy-journal-tracker/data/policy_tracker.json",
+];
 
 const state = {
   data: null,
@@ -159,17 +163,34 @@ function clearError() {
 }
 
 async function loadData(showLoadingText = true) {
+  if (window.location.protocol === "file:") {
+    els.updateTime.textContent = "本地 file:// 模式";
+    showError("你当前是直接打开本地 index.html。浏览器会拦截本地 fetch。请用 `python -m http.server 8000` 后访问 `http://localhost:8000/`，或直接使用 GitHub Pages 链接。");
+    return;
+  }
+
   if (showLoadingText) {
     els.updateTime.textContent = "加载中...";
   }
   clearError();
 
   try {
-    const response = await fetch(`${DATA_URL}?t=${Date.now()}`, {
-      cache: "no-store",
-    });
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
+    let response = null;
+    let lastStatus = "";
+    for (const path of DATA_PATHS) {
+      const url = new URL(path, window.location.href).toString();
+      const candidate = await fetch(`${url}${url.includes("?") ? "&" : "?"}t=${Date.now()}`, {
+        cache: "no-store",
+      });
+      if (candidate.ok) {
+        response = candidate;
+        break;
+      }
+      lastStatus = `HTTP ${candidate.status} @ ${url}`;
+    }
+
+    if (!response) {
+      throw new Error(lastStatus || "No reachable data URL.");
     }
 
     const payload = await response.json();

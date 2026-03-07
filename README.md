@@ -36,3 +36,13 @@
 ```powershell
 python standalone-policy-journal-tracker/scripts/update_policy_tracker.py
 ```
+
+本地预览前端页面时，不要直接双击 `index.html`（`file://` 会拦截 fetch）。请用：
+
+```powershell
+python -m http.server 8000
+```
+
+然后打开：
+
+- `http://localhost:8000/`
