@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-07 16:22:21",
+  "updated_at": "2026-03-07 20:58:58",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 265,
+    "success_count": 8,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -685,94 +685,11 @@
         "query_name": "Journal of Development Economics",
         "issn": "0304-3878",
         "resolved_name": "Journal of Development Economics",
-        "issue_title": "Published 2026-04",
+        "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 8,
-        "total_in_issue": 29,
-        "papers": [
-          {
-            "title_en": "Participatory teaching improves learning outcomes: Evidence from a field experiment in Tanzania",
-            "title_zh": "参与式教学提高学习成果：来自坦桑尼亚实地实验的证据",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103742",
-            "abstract_en": "While participatory teaching methods have been shown to be more successful than traditional rote learning in high-income countries, it is less clear if they can help address the learning crisis in low- and middle-income countries, where classes tend to be large and teachers have fewer resources at their disposal. Based on a field experiment with 440 teachers from 220 schools in Tanzania, we use official standardized student examinations to assess the impact of a pedagogy-centered intervention. A five-day in-service teacher training on participatory and practice-based methods improved students’ test scores 18 months later by 0.13 σ . The additional provision of laptops with a learning software allowing a random subset of teachers to refresh their content knowledge did not yield further learning gains for students. We also find limited evidence of spillover effects on indirectly exposed teachers and their students, even though knowledge-sharing activities were a key component of the program. Complementary findings from participant surveys and interviews suggest that the program was highly appreciated by different stakeholders, but that participants were unable to assess its impact along different dimensions, giving equally positive evaluations of its successful and its unsuccessful elements. • Large-scale RCT with 440 teachers and 25,000+ students in Tanzania. • Participatory teaching training increased student math scores by 0.13 σ on national exams. • Computer-assisted learning for teacher content knowledge showed no additional gains. • Only limited evidence for peer spillovers despite program design targeting knowledge-sharing. • Evidence of cross-subject spillovers to other subjects taught by same teachers.",
-            "abstract_zh": "虽然参与式教学方法已被证明比传统的机械记忆学习在高收入国家更成功，但它们是否能帮助解决低收入和中等收入国家的学业危机尚不清楚，这些国家的班级往往规模较大，教师可利用的资源也较少。基于在坦桑尼亚220所学校的440名教师中进行的实地实验，我们使用官方标准化学生考试来评估以教学为中心的干预措施的影响。为期五天的在职教师培训，关于参与式和实践基础的方法，提高了学生18个月后的考试成绩0.13个标准差。额外提供笔记本电脑和学习软件，允许随机选择的教师子集更新他们的内容知识，并没有为学生带来进一步的学习收益。我们还发现，尽管知识共享活动是该计划的关键组成部分，但对间接暴露的教师及其学生的影响证据有限。来自参与者调查和访谈的补充发现表明，该计划受到了不同利益相关者的高度重视，但参与者无法从不同维度评估其影响，对其成功和不成功的部分给出了同样积极的评估。• 在坦桑尼亚进行的大规模随机对照试验，涉及440名教师和25,000多名学生。• 参与式教学培训使学生的数学成绩在国家考试中提高了0.13个标准差。• 针对教师内容知识的计算机辅助学习没有显示出额外的收益。• 尽管项目设计针对知识共享，但对同行溢出效应的证据有限。• 有证据表明跨学科溢出效应影响到同一教师教授的其他科目。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "When the fire ends: Straw burning, regulation, and pollution substitution",
-            "title_zh": "秸秆焚烧、规制与污染替代",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103727",
-            "abstract_en": "Environmental regulations can trigger unintended pollution externalities if they lack well-designed economic incentives or fail to account for the responses of polluters. This paper examines the effectiveness and unintended consequences of the Universal Prohibition on Straw Burning (UPSB) policy in China. By exploiting a generalized difference-in-differences design, we find that the UPSB policy significantly reduces agricultural fires and air pollution through top-down campaign-style enforcement. However, as straw burning is commonly used to kill pests and fertilize the soil, the UPSB policy also increases the use of chemical fertilizers and pesticides, leading to magnified water pollution. Cost-benefit analysis suggests that much of the health benefit from improved air quality is offset by the health cost from degraded water quality. Our findings highlight the importance of considering the potential responses of individuals subject to the regulation when conducting policy evaluation. • This paper examines the effectiveness and unintended consequences of the straw burning regulation in China. • We find that the policy significantly reduces agricultural fires and thereby air pollution through top-down campaign-style enforcement. • However, as straw burning is commonly used to kill pests and fertilize the soil, the straw burning regulation policy also increases the use of chemical fertilizers and pesticides. • Unintendedly, the policy leads to increased water pollution. • Cost-benefit analysis suggests that, when taking the potential consequences of water pollution into account, the cost of the policy exceeds its benefit.",
-            "abstract_zh": "环境规制如果缺乏精心设计的经济激励或未能考虑污染者的反应，可能会引发意外的污染外部性。本文考察了中国全面禁止秸秆焚烧（UPSB）政策的有效性和意外后果。通过利用广义差异-差异设计，我们发现UPSB政策通过自上而下的战役式执法显著减少了农业火灾和空气污染。然而，由于秸秆焚烧通常用于杀虫和施肥，UPSB政策也增加了化肥和农药的使用，导致水污染加剧。成本效益分析表明，改善空气质量带来的健康效益在很大程度上被水质恶化带来的健康成本所抵消。我们的发现强调了在进行政策评估时考虑受规制个体可能反应的重要性。•本文考察了中国秸秆焚烧规制的有效性和意外后果。•我们发现，该政策通过自上而下的战役式执法显著减少了农业火灾，从而减少了空气污染。•然而，由于秸秆焚烧通常用于杀虫和施肥，秸秆焚烧规制政策也增加了化肥和农药的使用。•意外地，该政策导致水污染增加。•成本效益分析表明，当考虑到水污染的潜在后果时，政策的成本超过了其收益。",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "‘Made in Dignity’: The redistributive impact of Fair Trade",
-            "title_zh": "“尊严制造”：公平贸易的再分配影响",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103746",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "NAFTA and drug-related violence in Mexico",
-            "title_zh": "北美自由贸易协定与墨西哥的毒品暴力",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103719",
-            "abstract_en": "We study how NAFTA changed the geography of violence in Mexico. We propose that this open border policy increased trafficking profits of Mexican cartels, resulting in violent competition among them. We test this hypothesis by comparing changes in drug-related homicides after NAFTA’s introduction in 1994 across municipalities with and without drug-trafficking routes. Routes are predicted least cost paths connecting municipalities with a recent history of detected drug trafficking with U.S. land ports of entry. On these routes, homicides increase by 2.1 per 100,000 inhabitants, which is equivalent to 26% of the pre-NAFTA mean. These results cannot be explained by changes in worker’s opportunity costs of using violence resulting from the trade shock. • NAFTA increases drug-related homicides along trafficking routes in Mexico. • Trade liberalization raises cartel profits, fueling violent competition over routes. • Violence rises most on routes to high-volume U.S. trade ports after NAFTA. • Violence concentrates near routes, while it declines in more remote locations. • Labor market shocks do not explain the violence increase along trafficking routes.",
-            "abstract_zh": "我们研究了北美自由贸易协定（NAFTA）如何改变了墨西哥的暴力地理分布。我们提出，这一开放边境政策增加了墨西哥贩毒集团的贩毒利润，导致它们之间发生了激烈的暴力竞争。我们通过比较1994年NAFTA引入后，有和没有贩毒路线的市镇中与毒品相关的凶杀案变化来测试这一假设。这些路线是连接有近期侦测到毒品贩运历史的市镇与美国陆地入境口岸的最低成本路径。在这些路线上，凶杀案增加了每10万居民2.1起，相当于NAFTA前平均水平的26%。这些结果不能用贸易冲击导致的工人使用暴力的机会成本变化来解释。• NAFTA增加了墨西哥贩毒路线上的毒品相关凶杀案。• 贸易自由化提高了贩毒集团的利润，加剧了对路线的暴力竞争。• NAFTA之后，通往美国高流量贸易港口的路线上的暴力事件增加最多。• 暴力集中在路线附近，而在更偏远地区则有所下降。• 劳动力市场冲击并不能解释贩毒路线上暴力事件的增加。",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Social information, advice and altruistic behavior by underprivileged children: Experimental evidence from Colombia",
-            "title_zh": "社会信息、建议与弱势儿童的利他行为：来自哥伦比亚的实验证据",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103750",
-            "abstract_en": "We conduct a lab-in-the-field experiment to investigate how parents’, teachers’, and peers’ behavior and advice affect children’s altruism in disadvantaged neighborhoods in Colombia. Elementary school children choose how much to help a child-in-need in a real-effort task before and after learning about their parents’, teachers’, or peers’ decisions or receiving their advice. We find that both information and advice from these sources enhance children’s willingness to share. Their sharing increases after observing others’ decisions, except when it is costly to access information about parents’ behavior. However, when children must incur a small cost to observe others’ behavior, their sharing responds substantially more to their teachers’ and peers’ behavior than to their parents’. By contrast, advice from all sources—parents, teachers, peers, and high-status peers—consistently enhances sharing. Our findings highlight the crucial role of children’s social environments and shed light on multiple policy-relevant channels for fostering altruism among underprivileged children. • Impact of parents’, teachers’, and peers’ behavior or advice on poor kids’ altruism • The impact of advice on children’s altruism is positive for all sources • The impact of information depends on its source and cost • Interventions from parents, teachers, and peers are comparable in effectiveness",
-            "abstract_zh": "我们进行了一项实地实验室实验，以研究在哥伦比亚贫困地区，父母、教师和同伴的行为及建议如何影响儿童的利他主义。在了解父母、教师或同伴的决定或接受他们的建议之前和之后，小学生选择在一项真实努力任务中帮助一个需要帮助的孩子多少。我们发现，来自这些来源的信息和建议都能增强儿童的分享意愿。在观察他人的决定后，他们的分享增加，除非获取关于父母行为的信息成本很高。然而，当儿童必须承担小成本来观察他人的行为时，他们的分享对教师和同伴的行为的反应比对父母的要大得多。相比之下，来自所有来源的建议——父母、教师、同伴和高地位同伴——都能一致增强分享。我们的发现强调了儿童社会环境的关键作用，并揭示了促进贫困儿童利他主义的多个政策相关渠道。• 父母、教师和同伴的行为或建议对贫困儿童利他主义的影响• 所有来源的建议对儿童利他主义的影响都是积极的• 信息的影响取决于其来源和成本• 父母、教师和同伴的干预在效果上是可比的",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Labor market effects of exporter pricing behavior: Evidence from a developing economy",
-            "title_zh": "出口商定价行为对劳动力市场的影响：来自发展中经济体的证据",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103723",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "A few good masks: Mask manufacturing and supply networks in Rwanda during the COVID-19 pandemic",
-            "title_zh": "几副好口罩：卢旺达在COVID-19大流行期间的口罩制造和供应网络",
-            "url": "https://doi.org/10.1016/j.jdeveco.2025.103715",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Higher education expansion and the rural–urban gap in secondary schooling and labor outcomes: Evidence from China’s 1999 reform",
-            "title_zh": "高等教育扩张与农村-城市在中等教育和劳动结果上的差距：来自中国1999年改革的证据",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103721",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 2,
+        "papers": [],
         "error": null
       },
       {
@@ -1298,14 +1215,13 @@
             ]
           },
           {
-            "title_en": "Market Design Choices, Racial Discrimination, and Equitable Microentrepreneurship in Digital Marketplaces",
-            "title_zh": "市场设计选择、种族歧视与数字市场中的公平微型创业",
-            "url": "https://doi.org/10.1287/mnsc.2023.01717",
-            "abstract_en": "This study investigates the potential of market design choices, specifically quality certification, to mitigate racial discrimination in digital marketplaces. Using a regression discontinuity design (RDD) that exploits the discontinuity in Airbnb’s Superhost assignment, we find that Black hosts benefit 1.5 times more from the quality certification than other hosts. Moreover, we find compelling evidence that this disproportionate increase does not come at the expense of non-Superhost Black hosts. This suggests that quality certification can effectively reduce discrimination and promote equitable outcomes. Further, our analysis utilizing a doubly robust machine learning approach reveals that the effectiveness of quality certification persists even in the prominent presence of consumer reviews, a widely used market feature and a credible user-generated quality signal. Our research underscores the judicious use of market design in fostering equity for minority entrepreneurs in digital marketplaces. This paper was accepted by Hemant Bhargava, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01717 .",
-            "abstract_zh": "本研究探讨了市场设计选择，特别是质量认证，对减轻数字市场中种族歧视的潜力。利用回归不连续设计（RDD），我们利用Airbnb超级房东分配中的不连续性，发现黑人房东从质量认证中获益比其他房东多1.5倍。此外，我们发现有力证据表明，这种不成比例的增加并没有以牺牲非超级房东黑人房东为代价。这表明质量认证可以有效减少歧视，促进公平结果。进一步地，我们利用双重稳健的机器学习方法进行的分析揭示，即使在消费者评论这一广泛使用且可信的用户生成质量信号的显著存在下，质量认证的有效性仍然持续存在。我们的研究强调了在数字市场中促进少数族裔企业家公平的审慎市场设计使用。本文由Hemant Bhargava，信息系统接受。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.01717 查阅。",
+            "title_en": "A Method for Asynchronous Time Series Analysis with Marketing Applications",
+            "title_zh": "一种具有营销应用的异步时间序列分析方法",
+            "url": "https://doi.org/10.1287/mnsc.2024.04336",
+            "abstract_en": "Many time series data evolve asynchronously. In marketing, for example, we observe ad liking every second, hourly clickstreams, daily sales, weekly brand awareness, or monthly ad expenditures. Thus, the question arises: how to estimate dynamic models when metrics evolve at different frequencies? To this end, we develop a new method for estimation and inference of state space models for asynchronous data. In contrast to existing approaches, the proposed method does not require any data preprocessing to align frequencies. We derive the optimal gain factor from first principles and demonstrate in three simulation studies that the new method recovers model parameters as accurately as the full-information Kalman filter as if all data were available. This finding holds across various degrees of noise levels and data sparsity. More importantly, we show that ignoring data asynchronicity results in substantially biased parameter estimates. Empirically, we illustrate the efficacy of the new method via two applications: copy testing of an advertisement and a marketing mix model, both with asynchronous data. It yields meaningful results compared with those obtained by aligning asynchronous data to the slowest frequency (i.e., data aggregation). In the marketing mix application, for example, data aggregation produces erroneously insignificant estimates of sales carryover and TV effectiveness, and these become significant when we apply the new method. These biased estimates can have serious managerial consequences. Thus, the proposed method paves the way to analyze asynchronous time series data: slow- or fast-moving dependent variables, slow- or fast-moving independent variables, and all of them at equal or unequal frequencies. This paper was accepted by Eric Anderson, marketing. Funding: This work was supported by the Marketing Science Institute [Grant 4-1959]. P. A. Naik acknowledges the financial support received from the University of California Davis travel and small research grants program across 2015–2024. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04336 .",
+            "abstract_zh": "许多时间序列数据以异步方式演变。例如，在市场营销中，我们观察到每秒的广告点赞、每小时的点击流、每日销售、每周品牌意识或每月广告支出。因此，问题出现了：当指标以不同频率演变时，如何估计动态模型？为此，我们开发了一种新的方法，用于估计和推断异步数据的状态空间模型。与现有方法不同，所提出的方法不需要任何数据预处理来对齐频率。我们从基本原理出发推导出最优增益因子，并在三项模拟研究中证明，新方法恢复模型参数的准确性与全信息卡尔曼滤波器一样，就好像所有数据都可用一样。这一发现适用于各种噪声水平和数据稀疏度。更重要的是，我们展示了忽略数据异步性会导致参数估计的显著偏差。从实证上，我们通过两个应用来说明新方法的有效性：广告副本测试和市场营销组合模型，两者都包含异步数据。与将异步数据对齐到最慢频率（即数据聚合）所获得的结果相比，它产生了有意义的结果。例如，在市场营销组合应用中，数据聚合产生了销售延续和电视效果的错误不显著估计，而当我们应用新方法时，这些变得显著。这些有偏估计可能会产生严重的管理后果。因此，所提出的方法为分析异步时间序列数据铺平了道路：慢速或快速移动的因变量、慢速或快速移动的自变量，以及它们以相等或不相等的频率出现。本文由埃里克·安德森接受，市场营销。资金：这项工作得到了市场营销科学研究所[Grant 4-1959]的支持。P.A. Naik感谢加州大学戴维斯分校在2015-2024年期间提供的旅行和小额研究资助计划的财政支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2024.04336找到。",
             "matched_topics": [
-              "企业创新",
-              "创新药"
+              "国际贸易"
             ]
           },
           {
@@ -1319,13 +1235,14 @@
             ]
           },
           {
-            "title_en": "A Method for Asynchronous Time Series Analysis with Marketing Applications",
-            "title_zh": "一种具有营销应用的异步时间序列分析方法",
-            "url": "https://doi.org/10.1287/mnsc.2024.04336",
-            "abstract_en": "Many time series data evolve asynchronously. In marketing, for example, we observe ad liking every second, hourly clickstreams, daily sales, weekly brand awareness, or monthly ad expenditures. Thus, the question arises: how to estimate dynamic models when metrics evolve at different frequencies? To this end, we develop a new method for estimation and inference of state space models for asynchronous data. In contrast to existing approaches, the proposed method does not require any data preprocessing to align frequencies. We derive the optimal gain factor from first principles and demonstrate in three simulation studies that the new method recovers model parameters as accurately as the full-information Kalman filter as if all data were available. This finding holds across various degrees of noise levels and data sparsity. More importantly, we show that ignoring data asynchronicity results in substantially biased parameter estimates. Empirically, we illustrate the efficacy of the new method via two applications: copy testing of an advertisement and a marketing mix model, both with asynchronous data. It yields meaningful results compared with those obtained by aligning asynchronous data to the slowest frequency (i.e., data aggregation). In the marketing mix application, for example, data aggregation produces erroneously insignificant estimates of sales carryover and TV effectiveness, and these become significant when we apply the new method. These biased estimates can have serious managerial consequences. Thus, the proposed method paves the way to analyze asynchronous time series data: slow- or fast-moving dependent variables, slow- or fast-moving independent variables, and all of them at equal or unequal frequencies. This paper was accepted by Eric Anderson, marketing. Funding: This work was supported by the Marketing Science Institute [Grant 4-1959]. P. A. Naik acknowledges the financial support received from the University of California Davis travel and small research grants program across 2015–2024. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04336 .",
-            "abstract_zh": "许多时间序列数据以异步方式演变。例如，在市场营销中，我们观察到每秒的广告点赞、每小时的点击流、每日销售、每周品牌意识或每月广告支出。因此，问题出现了：当指标以不同频率演变时，如何估计动态模型？为此，我们开发了一种新的方法，用于估计和推断异步数据的状态空间模型。与现有方法不同，所提出的方法不需要任何数据预处理来对齐频率。我们从基本原理出发推导出最优增益因子，并在三项模拟研究中证明，新方法恢复模型参数的准确性与全信息卡尔曼滤波器一样，就好像所有数据都可用一样。这一发现适用于各种噪声水平和数据稀疏度。更重要的是，我们展示了忽略数据异步性会导致参数估计的显著偏差。从实证上，我们通过两个应用来说明新方法的有效性：广告副本测试和市场营销组合模型，两者都包含异步数据。与将异步数据对齐到最慢频率（即数据聚合）所获得的结果相比，它产生了有意义的结果。例如，在市场营销组合应用中，数据聚合产生了销售延续和电视效果的错误不显著估计，而当我们应用新方法时，这些变得显著。这些有偏估计可能会产生严重的管理后果。因此，所提出的方法为分析异步时间序列数据铺平了道路：慢速或快速移动的因变量、慢速或快速移动的自变量，以及它们以相等或不相等的频率出现。本文由埃里克·安德森接受，市场营销。资金：这项工作得到了市场营销科学研究所[Grant 4-1959]的支持。P.A. Naik感谢加州大学戴维斯分校在2015-2024年期间提供的旅行和小额研究资助计划的财政支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2024.04336找到。",
+            "title_en": "Market Design Choices, Racial Discrimination, and Equitable Microentrepreneurship in Digital Marketplaces",
+            "title_zh": "市场设计选择、种族歧视与数字市场中的公平微型创业",
+            "url": "https://doi.org/10.1287/mnsc.2023.01717",
+            "abstract_en": "This study investigates the potential of market design choices, specifically quality certification, to mitigate racial discrimination in digital marketplaces. Using a regression discontinuity design (RDD) that exploits the discontinuity in Airbnb’s Superhost assignment, we find that Black hosts benefit 1.5 times more from the quality certification than other hosts. Moreover, we find compelling evidence that this disproportionate increase does not come at the expense of non-Superhost Black hosts. This suggests that quality certification can effectively reduce discrimination and promote equitable outcomes. Further, our analysis utilizing a doubly robust machine learning approach reveals that the effectiveness of quality certification persists even in the prominent presence of consumer reviews, a widely used market feature and a credible user-generated quality signal. Our research underscores the judicious use of market design in fostering equity for minority entrepreneurs in digital marketplaces. This paper was accepted by Hemant Bhargava, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01717 .",
+            "abstract_zh": "本研究探讨了市场设计选择，特别是质量认证，对减轻数字市场中种族歧视的潜力。利用回归不连续设计（RDD），我们利用Airbnb超级房东分配中的不连续性，发现黑人房东从质量认证中获益比其他房东多1.5倍。此外，我们发现有力证据表明，这种不成比例的增加并没有以牺牲非超级房东黑人房东为代价。这表明质量认证可以有效减少歧视，促进公平结果。进一步地，我们利用双重稳健的机器学习方法进行的分析揭示，即使在消费者评论这一广泛使用且可信的用户生成质量信号的显著存在下，质量认证的有效性仍然持续存在。我们的研究强调了在数字市场中促进少数族裔企业家公平的审慎市场设计使用。本文由Hemant Bhargava，信息系统接受。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.01717 查阅。",
             "matched_topics": [
-              "国际贸易"
+              "企业创新",
+              "创新药"
             ]
           },
           {
@@ -1424,14 +1341,13 @@
             ]
           },
           {
-            "title_en": "Debiasing entrepreneurial careers: A field experiment on female role model effects on entrepreneurial self-efficacy and early-stage career choices",
-            "title_zh": "消除创业职业偏见：关于女性榜样对创业自我效能感和早期职业选择影响的现场实验",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106582",
-            "abstract_en": "Women remain underrepresented not only as founders but also as employees – or “joiners” – in young and small firms, limiting their exposure to entrepreneurial environments that often serve as critical pathways to venture creation. To address this gap, we investigate whether introducing female entrepreneur role models in educational settings can shape young women's entrepreneurial self-efficacy and early career choices. Drawing on role congruity theory and social cognitive career theory (SCCT), we conducted a field experiment involving over 430 university students and 98 early-stage entrepreneurs. Using a pre-test/post-test design and longitudinal tracking of early career choices, we explore the causal effects of exogenously assigned female role models on students' decisions to join a young or small firm. We find that exposure to social interactions with female entrepreneurs significantly boosts female students' entrepreneurial self-efficacy. More importantly, women who were paired with a female entrepreneur were over 10% more likely to join a young firm after graduation compared to those assigned to a male entrepreneur. Mediation analysis confirms that entrepreneurial self-efficacy is a key mechanism linking exposure to same-sex role models with women's decision to join a young firm. These findings highlight the potential of targeted role model interventions to reduce gender disparities in entrepreneurial entry pathways and expand the diversity of entrepreneurial ecosystems.",
-            "abstract_zh": "女性不仅在创始人中代表性不足，而且在年轻和小型企业中作为员工——或“加入者”——的代表性也不足，这限制了她们接触创业环境的机会，而这些环境往往是创业创建的关键途径。为了解决这一差距，我们研究在教育环境中引入女性企业家榜样是否能够塑造年轻女性的创业自我效能和早期职业选择。基于角色一致性理论和社会认知职业理论（SCCT），我们进行了一项涉及430多名大学生和98名早期创业者的现场实验。通过使用前测/后测设计和对早期职业选择的纵向跟踪，我们探索了外生分配的女性榜样对学生决定加入年轻或小型企业的因果效应。我们发现，与女性企业家的社会互动接触显著提高了女学生的创业自我效能。更重要的是，与女性企业家配对的女性在毕业后加入年轻公司的可能性比那些分配给男性企业家的女性高出10%以上。中介分析证实，创业自我效能是将同性榜样接触与女性加入年轻公司的决定联系起来的关键机制。这些发现突出了有针对性的榜样干预措施在减少创业进入途径中的性别差异和扩大创业生态系统多样性方面的潜力。",
+            "title_en": "The power of consumer solidarity framing in scaling up social impact",
+            "title_zh": "消费者团结框架在扩大社会影响力中的力量",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106579",
+            "abstract_en": "We study how a French social venture helped scale up social impact by selling fair-priced milk. Besides market success, the venture became a symbol of fair pricing for farmers, influencing public discourse and inspiring new laws. We develop a process model where energized consumer solidarity framing serves as a catalyst for mobilizing ecosystem actors, leading to the widespread adoption of the venture's solution to an economic and social crisis. This distributed process of scaling up social impact unfolds outside the venture's direct control, relying on community enactment as well as engagement and energizing from the media, incumbent retailers and competitors, as well as politicians. We contribute to research on scaling up social impact by explaining how and why entrepreneurial framing can mobilize diverse ecosystem actors. We also advance entrepreneurial framing research by offering a social-emotional explanation of how framing can enable change. • French co-op helping farmers scaled up social impact with limited resources • Social entrepreneur used energized consumer solidarity framing to engage ecosystem actors • Diagnostic, prognostic, and motivational frames mobilized ecosystem actors • Continuous energizing between the entrepreneur and ecosystem actors enabled scaling up • Positive and negative emotions can be regulated in entrepreneurial framing",
+            "abstract_zh": "我们研究了一个法国社会企业如何通过销售价格公道的牛奶来扩大其社会影响力。除了市场成功外，该企业还成为了农民公平定价的象征，影响了公共话语并激发了新法律的产生。我们开发了一个过程模型，其中充满活力的消费者团结框架作为催化剂，动员生态系统参与者，导致企业解决方案在经济和社会危机中的广泛采用。这种扩大社会影响的分布式过程在企业直接控制之外展开，依赖于社区的实施以及媒体、现有零售商和竞争对手以及政治家的参与和激励。我们通过解释创业框架如何动员多样化的生态系统参与者，以及为什么能够这样做，为扩大社会影响的研究做出了贡献。我们还通过提供框架如何使变革成为可能的社会情感解释，推进了创业框架研究。• 法国合作社帮助农民用有限的资源扩大了社会影响• 社会企业家使用充满活力的消费者团结框架来吸引生态系统参与者• 诊断性、预测性和激励性框架动员了生态系统参与者• 企业家和生态系统参与者之间的持续激励使扩大成为可能• 创业框架中可以调节积极和消极情绪",
             "matched_topics": [
-              "国际贸易",
-              "创新药"
+              "产业经济"
             ]
           },
           {
@@ -1493,8 +1409,8 @@
             "title_en": "Public perception, government support, and the formation of AI startups: An institution-based view",
             "title_zh": "公众认知、政府支持与人工智能初创企业的形成：基于制度视角的分析",
             "url": "https://doi.org/10.1016/j.technovation.2026.103523",
-            "abstract_en": "",
-            "abstract_zh": "",
+            "abstract_en": "This study investigates cross-country differences in artificial intelligence (AI) startup formation through an institution-based view. Public perception of science and technology (S&T) is conceptualised as an informal institution influencing societal acceptance of innovation, while government AI strategies are framed as formal institutions shaping policy, resources, and regulation. Using data from 40 developed and emerging economies, and controlling for macroeconomic, innovation, and talent-related factors, multiple regression analyses show higher startup activity in countries with more positive public views of S&T and stronger, well-resourced AI strategies. Spiritual concerns about S&T have a stronger negative relationship with AI entrepreneurship than material concerns, highlighting the role of cultural influences in technology adoption. The findings suggest that alignment between formal and informal institutions is essential for entrepreneurial success in frontier technologies. Policy implications include fostering public trust through education and ethical governance, and strengthening AI ecosystems through targeted investments in talent, infrastructure, and enabling regulation. • Informal and formal institutions jointly shape AI startup formation across countries. • Negative public perceptions of science and technology reduce AI startup activity. • Government AI strategies are positively associated with national AI startup formation. • Spiritual concerns about science inhibit AI entrepreneurship more than material concerns.",
+            "abstract_zh": "本研究通过基于制度的视角，探讨了不同国家人工智能（AI）创业公司形成的差异。将公众对科学技术（S&T）的看法概念化为影响社会对创新接受度的非正式制度，而政府的AI战略则被视为塑造政策、资源和监管的正式制度。利用来自40个发达和新兴经济体的数据，并控制宏观经济、创新和人才相关因素，多元回归分析显示，在公众对S&T持更积极看法和拥有更强大、资源充足的AI战略的国家中，创业活动更为活跃。对S&T的精神性关切与AI创业之间的负面关系比物质性关切更强，突出了文化影响在技术采纳中的作用。研究结果表明，正式和非正式制度之间的一致性对于前沿技术领域的创业成功至关重要。政策含义包括通过教育和伦理治理培养公众信任，并通过有针对性的人才、基础设施和监管投资加强AI生态系统。• 非正式和正式制度共同塑造了各国AI创业公司的形成。• 公众对科学技术的负面看法减少了AI创业活动。• 政府AI战略与国家AI创业形成呈正相关。• 对科学的灵性关切比物质关切更抑制AI创业。",
             "matched_topics": [
               "企业创新",
               "创新药"
@@ -1534,10 +1450,11 @@
             "title_en": "Governing innovation: How technology maturity shapes R&amp;D contracts",
             "title_zh": "治理创新：技术成熟度如何塑造研发合同",
             "url": "https://doi.org/10.1016/j.technovation.2026.103521",
-            "abstract_en": "",
-            "abstract_zh": "",
+            "abstract_en": "Firms investing in market-upstream R&D face governance challenges that vary systematically with the stage of technological development. This study examines how technology maturity shapes the design of interfirm R&D contracts, particularly in balancing appropriation and coordination concerns. Drawing on Transaction Cost Economics (TCE) and incomplete contracting theory, we view contracts as inherently incomplete and use the discriminating alignment principle as a lens to investigate which governance mechanisms are most effective at different levels of technology maturity. Leveraging a large-scale, unique dataset of R&D contracts in the semiconductor industry, we apply a correlated topic model (CTM) to systematically analyze and compare contractual mechanisms across multiple levels of technology maturity. We find that appropriation mechanisms are more prominent at low to intermediate maturity levels, where knowledge remains tacit and appropriation concerns are high. Conversely, coordination mechanisms become increasingly critical at intermediate and high maturity levels, where demands related to integration, execution, and commercialization intensify. We also demonstrate that different levels of technology maturity are associated with distinct framings of key contractual elements—such as intellectual property rights and project management clauses. By introducing the technology readiness level (TRL) framework as an empirical lens for studying contract design, this study advances alliance governance and incomplete contracting theory by revealing stage-contingent variation in contractual governance across the innovation process. • Technology maturity systematically shapes the design of interfirm R&D contracts. • We investigated a unique set of R&D contracts using correlated topic modelling. • The extent of appropriation and coordination mechanisms varies across the stages. • But also the framing of key contractual clauses evolves with technology maturity. • Technology Readiness Levels offer a structured basis for explaining stage-contingent governance needs.",
+            "abstract_zh": "投资于市场上游研发的企业面临随着技术发展阶段系统变化的治理挑战。本研究考察了技术成熟度如何塑造企业间研发合同的设计，特别是在平衡收益分配和协调问题方面。借鉴交易成本经济学（TCE）和不完全契约理论，我们将合同视为本质上不完整的，并使用区分对齐原则作为透镜来调查在不同技术成熟度水平下哪些治理机制最为有效。利用半导体行业研发合同的大规模、独特数据集，我们应用相关主题模型（CTM）系统地分析和比较不同技术成熟度水平下的合同机制。我们发现，在技术成熟度低至中等水平，知识仍然隐性且收益分配问题高的情况下，收益分配机制更为突出。相反，在技术成熟度中等和高水平，与整合、执行和商业化相关的需求加剧时，协调机制变得越来越关键。我们还证明，不同技术成熟度水平与关键合同要素的不同框架相关联，例如知识产权权利和项目管理条款。通过引入技术准备水平（TRL）框架作为研究合同设计的实证透镜，本研究通过揭示创新过程中合同治理的阶段性变化，推进了联盟治理和不完全契约理论。• 技术成熟度系统地塑造了企业间研发合同的设计。• 我们使用相关主题建模调查了一组独特的研发合同。• 收益分配和协调机制的程度在不同阶段有所不同。• 但关键合同条款的框架也随着技术成熟度而演变。• 技术准备水平为解释阶段性治理需求提供了结构化基础。",
             "matched_topics": [
-              "企业创新"
+              "企业创新",
+              "创新药"
             ]
           },
           {
@@ -1733,7 +1650,7 @@
             "title_en": "The value of a park in crises: Quantifying the health and wellbeing benefits of green spaces using exogenous variations in use values",
             "title_zh": "危机中的公园价值：利用使用价值的外生变化量化绿地的健康与福祉效益",
             "url": "https://doi.org/10.1016/j.jhealeco.2026.103123",
-            "abstract_en": "Most people consider parks important for their quality of life, yet systematic causal evidence is missing. We exploit exogenous variations in their use values to estimate causal effects. Using a representative household panel with precise geographical coordinates of households linked to satellite images of green spaces with a nationwide coverage, we employ a spatial difference-in-differences design, comparing within-individual changes between residents living close to a green space with those living further away. We exploit Covid-19 as exogenous shock. We find that green spaces raised overall life satisfaction while reducing symptoms of anxiety (feelings of nervousness and worry) and depression. There is also suggestive evidence for reduced loneliness. Given the number of people in their surroundings, a compensating-surplus calculation suggests that parks added substantial benefits during the period studied.",
+            "abstract_en": "Most people consider parks important for their quality of life, yet systematic causal evidence is missing. We exploit exogenous variations in their use values to estimate causal effects. Using a representative household panel with precise geographical coordinates of households linked to satellite images of green spaces with a nationwide coverage, we employ a spatial difference-in-differences design, comparing within-individual changes between residents living close to a green space with those living further away. We exploit Covid-19 as an exogenous shock. We find that green spaces raised overall life satisfaction while reducing symptoms of anxiety (feelings of nervousness and worry) and depression. There is also suggestive evidence for reduced loneliness. Given the number of people in their surroundings, a compensating-surplus calculation suggests that parks added substantial benefits during the period studied.",
             "abstract_zh": "大多数人认为公园对他们的生活质量很重要，但缺乏系统的因果证据。我们利用其使用价值的外生变化来估计因果效应。我们使用一个具有代表性的家庭面板，将家庭的精确地理坐标与全国覆盖的绿地卫星图像联系起来，采用空间差异-差异设计，比较居住在绿地附近的居民与居住在更远地方的居民之间的个体内部变化。我们利用Covid-19作为外生冲击。我们发现，绿地提高了整体生活满意度，同时减少了焦虑（紧张和担忧的感觉）和抑郁症状。还有迹象表明孤独感有所减少。考虑到他们周围人数，补偿剩余计算表明，在研究期间，公园增加了大量好处。",
             "matched_topics": [
               "国际贸易"
@@ -1776,12 +1693,13 @@
         "total_in_issue": 9,
         "papers": [
           {
-            "title_en": "Development of Cardiovascular Risk Equations in People with Overweight or Obesity and Established Cardiovascular Disease Without Diabetes Based on the SELECT Trial",
-            "title_zh": "基于SELECT试验的超重或肥胖且已确诊心血管疾病非糖尿病患者心血管风险方程的开发",
-            "url": "https://doi.org/10.1007/s40273-025-01580-2",
-            "abstract_en": "These novel, treatment-specific, trial-derived risk equations are the first to predict the risk of secondary cardiovascular events in people with overweight or obesity and established cardiovascular disease but without diabetes. Incorporating these risk equations into health economic models may improve the accuracy of economic evaluations in this population.",
-            "abstract_zh": "这些新颖的、针对特定治疗的、来自试验的风险方程是首次预测超重或肥胖且已确诊心血管疾病但无糖尿病人群的继发性心血管事件风险。将这些风险方程纳入卫生经济模型可能提高这一人群经济评估的准确性。",
+            "title_en": "EQ-5D(-Y) Valuation from Adult and Child Perspectives: Where Does the Empirical Evidence Leave Us and How Should We Proceed?",
+            "title_zh": "EQ-5D(-Y) 成人与儿童视角下的评估：实证证据将我们引向何方，我们应如何进行？",
+            "url": "https://doi.org/10.1007/s40273-026-01589-1",
+            "abstract_en": "Valuing pediatric health-related quality of life (HRQOL) is essential for economic evaluations in child healthcare. Instruments like EQ-5D-Y were developed for this purpose. A key methodological innovation-though controversial-has been the use of the child perspective for valuation of EQ-5D-Y health states, where adults value health states imagining a 10-year-old child. This paper critically reviews empirical findings on this approach, examines potential biases, assesses alignment with stakeholder views, and explores alternatives. We relied on a targeted review of empirical literature, including studies comparing adults valuing their own health (adult perspective) and using child perspectives, as well as stakeholder opinion studies. Findings were synthesized into ten key learnings: (1) Child-perspective valuations are typically higher than adult ones for the same health states. (2) Adults prioritize pain/discomfort and being sad/unhappy differently for children. (3) Child age has minimal impact. Mechanisms contributing to differences between adult and child perspectives include (4) discomfort with child death, (5) different valuations of life duration, (6) psychological distance, (7) emotional difficulty deciding for others, and (8) external goals influencing results. Stakeholder engagement shows that (9) the effects of using child perspectives do not align well with societal preferences, and (10) stakeholders express a preference for approaches that directly involve children and adolescents in valuation tasks. We conclude that relying on child perspectives may introduce systematic biases, potentially undermining the validity of pediatric health utilities. A re-evaluation of current valuation methods for EQ-5D-Y may be warranted, with greater consideration for direct child involvement, mapping techniques, and group-based deliberative approaches.",
+            "abstract_zh": "评估儿童健康相关的生活质量（HRQOL）对于儿童医疗保健的经济评估至关重要。为此目的开发了EQ-5D-Y等工具。一个关键的方法论创新——尽管有争议——是使用儿童视角对EQ-5D-Y健康状况进行估值，即成年人在想象一个10岁儿童时对健康状况进行估值。本文批判性地回顾了这种方法的经验性发现，检查了潜在的偏见，评估了与利益相关者观点的一致性，并探索了替代方案。我们依赖于对实证文献的针对性审查，包括比较成年人评估自己健康（成人视角）和使用儿童视角的研究，以及利益相关者意见研究。研究结果综合为十个关键教训：（1）儿童视角的估值通常高于成人对相同健康状况的估值。（2）成年人对儿童的疼痛/不适和悲伤/不快乐有不同的优先级。（3）儿童年龄影响最小。导致成人和儿童视角差异的机制包括（4）对儿童死亡的不适，（5）对生命持续时间的不同估值，（6）心理距离，（7）为他人做决定时的情感困难，以及（8）影响结果的外部目标。利益相关者参与表明（9）使用儿童视角的效果与社会偏好不一致，（10）利益相关者表示更倾向于直接涉及儿童和青少年参与估值任务的方法。我们得出结论，依赖儿童视角可能会引入系统性偏见，可能破坏儿童健康效用的效度。可能需要重新评估EQ-5D-Y当前的估值方法，更多考虑直接儿童参与、映射技术和基于群体的审议方法。",
             "matched_topics": [
+              "企业创新",
               "创新药"
             ]
           },
@@ -1799,13 +1717,10 @@
             "title_en": "Practical Considerations for Incorporating Equity More Explicitly in Australian Health Technology Assessment Processes",
             "title_zh": "在澳大利亚卫生技术评估过程中更明确地纳入公平性的实用考虑",
             "url": "https://doi.org/10.1007/s40273-025-01568-y",
-            "abstract_en": "Globally, advances in methods to examine equity alongside economic evaluations are being considered for application in health technology assessment (HTA) processes which inform decisions to publicly fund pharmaceuticals and medical services. In this practical application, we focus on the Australian context and explore how several of these methods might be used to incorporate equity more explicitly in HTA decisions. Specifically, we describe distributional cost-effectiveness analysis, extended cost-effectiveness analysis, equity weighting, multi-criteria decision analysis, mathematical programming and other quantitative approaches. We consider the feasibility and suitability of each method considering contextual factors, highlight challenges, describe current use in Australia and make recommendations for their application. We argue that there are opportunities to use aspects of several different methods in the Australian context which would illuminate how costs (including out of pocket costs) and benefits are distributed across the population, how normative concerns for equity influence the calculated social value of a new technology, how equity criteria complement other measures of value and how the technology impacts non-health outcomes. However, some of the stated requirements for the methods, such as using the same social groupings for all analyses, applying cost-effectiveness thresholds and the application of algorithms may restrict the usefulness of the evidence generated in a context where there are many priority populations of interest, several aspects of equity are considered important and there is a well-established deliberative approach to decision-making. We recommend that the equity implications of new health technologies should be universally evaluated. However, a tailored and transparent approach should be taken whereby specific equity analyses consider the context of the technology and the chosen methods are well justified.",
-            "abstract_zh": "在全球范围内，正在考虑将考察公平性的方法与经济评估相结合，应用于卫生技术评估（HTA）流程中，这些流程为公共资助药品和医疗服务的决策提供信息。在这一实际应用中，我们关注澳大利亚的背景，并探讨如何使用这些方法中的几种来更明确地将公平性纳入HTA决策中。具体来说，我们描述了分配成本效益分析、扩展成本效益分析、公平性加权、多标准决策分析、数学规划以及其他定量方法。我们考虑了每种方法的可行性和适用性，考虑了背景因素，突出了挑战，描述了在澳大利亚的当前使用情况，并提出了应用建议。我们认为，在澳大利亚的背景下，有机会使用几种不同方法的各个方面，这将揭示成本（包括自付成本）和利益如何在人群中分配，对公平性的规范性关注如何影响新技术计算出的社会价值，公平性标准如何补充其他价值衡量标准，以及技术如何影响非健康结果。然而，这些方法的一些要求，如对所有分析使用相同的社会群体、应用成本效益阈值和算法的应用，可能会限制在有许多优先考虑的人群、几个公平性方面被认为重要以及有一个成熟审议决策方法的背景下产生的证据的有用性。我们建议，新健康技术的公平性影响应该被普遍评估。然而，应该采取一种量身定制和透明的途径，其中特定的公平性分析考虑技术的背景，并且选择的方法得到了很好的理由。",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
-              "医药产业",
-              "医疗创新",
-              "创新药"
+              "医疗创新"
             ]
           }
         ],
@@ -1846,10 +1761,11 @@
             "title_en": "Mapping Methodologies for Economic Evaluation of Digital Health Technologies: A Scoping Review",
             "title_zh": "数字健康技术经济评价的映射方法：范围综述",
             "url": "https://doi.org/10.1016/j.jval.2025.09.012",
-            "abstract_en": "",
-            "abstract_zh": "",
+            "abstract_en": "Current frameworks lack standardization and are not fully adapted to the characteristics of DHTs. Future development should prioritize flexible, lifecycle-aligned evaluation models and standardized guidance to support evidence-based digital health decision making.",
+            "abstract_zh": "当前框架缺乏标准化，并未完全适应分布式哈希表（DHTs）的特点。未来的发展应优先考虑灵活的、与生命周期对齐的评估模型和标准化指导，以支持基于证据的数字健康决策。",
             "matched_topics": [
-              "医疗创新"
+              "医疗创新",
+              "创新药"
             ]
           },
           {
