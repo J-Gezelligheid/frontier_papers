@@ -197,6 +197,7 @@ async function loadData(showLoadingText = true) {
     const econ = payload.econ_tracker || {};
     const journals = Array.isArray(econ.journals) ? econ.journals : [];
     const topics = Array.isArray(econ.topics) ? econ.topics : [];
+    const t = payload.translation || {};
 
     state.data = payload;
     state.journals = journals;
@@ -207,7 +208,10 @@ async function loadData(showLoadingText = true) {
     renderJournals();
 
     const updatedAt = payload.updated_at ? `${payload.updated_at} UTC` : "未知";
-    els.updateTime.textContent = `数据更新时间：${updatedAt}`;
+    const translationStatus = t.enabled
+      ? `翻译已启用（success=${t.success_count ?? "N/A"}, fail=${t.fail_count ?? "N/A"}）`
+      : "翻译未启用（缺少 KIMI_API_KEY）";
+    els.updateTime.textContent = `数据更新时间：${updatedAt} | ${translationStatus}`;
   } catch (error) {
     els.updateTime.textContent = "数据加载失败";
     showError(`无法加载数据：${error.message}`);

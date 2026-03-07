@@ -32,6 +32,9 @@ GitHub Actions 工作流：
 
 - `KIMI_API_KEY`
 
+其中经济学扩展工作流已启用强制翻译检查（`REQUIRE_KIMI_TRANSLATION=true`）。
+如果 Secret 未配置，工作流会失败并阻止写入“未翻译”的新数据。
+
 ## 本地运行
 
 ```powershell

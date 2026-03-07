@@ -33,6 +33,7 @@ jobs:
         env:
           KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
           KIMI_MODEL: moonshot-v1-8k
+          REQUIRE_KIMI_TRANSLATION: "true"
           MAX_ECON_PAPERS_PER_JOURNAL: "12"
         run: |
           python standalone-econ-frontier-tracker/scripts/update_econ_tracker.py
