@@ -1,0 +1,50 @@
+name: Update Econ Frontier Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "43 */4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-econ-frontier
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      - name: Run updater
+        env:
+          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+          KIMI_MODEL: moonshot-v1-8k
+          MAX_ECON_PAPERS_PER_JOURNAL: "12"
+        run: |
+          python standalone-econ-frontier-tracker/scripts/update_econ_tracker.py
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet -- standalone-econ-frontier-tracker/data/econ_tracker.json; then
+            echo "No data change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add standalone-econ-frontier-tracker/data/econ_tracker.json
+          git commit -m "chore: update econ frontier data"
+          git push

@@ -1,7 +1,7 @@
 const DATA_PATHS = [
-  "standalone-policy-journal-tracker/data/policy_tracker.json",
-  "./standalone-policy-journal-tracker/data/policy_tracker.json",
-  "/frontier_papers/standalone-policy-journal-tracker/data/policy_tracker.json",
+  "standalone-econ-frontier-tracker/data/econ_tracker.json",
+  "./standalone-econ-frontier-tracker/data/econ_tracker.json",
+  "/frontier_papers/standalone-econ-frontier-tracker/data/econ_tracker.json",
 ];
 
 const state = {
@@ -194,9 +194,9 @@ async function loadData(showLoadingText = true) {
     }
 
     const payload = await response.json();
-    const policy = payload.policy_tracker || {};
-    const journals = Array.isArray(policy.journals) ? policy.journals : [];
-    const topics = Array.isArray(policy.topics) ? policy.topics : [];
+    const econ = payload.econ_tracker || {};
+    const journals = Array.isArray(econ.journals) ? econ.journals : [];
+    const topics = Array.isArray(econ.topics) ? econ.topics : [];
 
     state.data = payload;
     state.journals = journals;

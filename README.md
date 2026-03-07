@@ -1,33 +1,34 @@
 # frontier_papers
 
-独立期刊追踪仓库，聚焦：
+独立期刊追踪仓库，现包含两个页面：
 
-- 房地产
-- 城市治理
-- 公共政策
+- 政策主题追踪页：`/frontier_papers/`
+- 经济学扩展追踪页：`/frontier_papers/econ-frontier.html`
 
-## 在线页面
+## 页面入口
 
-启用 GitHub Pages 后，页面入口为：
+启用 GitHub Pages 后访问：
 
 - `https://j-gezelligheid.github.io/frontier_papers/`
+- `https://j-gezelligheid.github.io/frontier_papers/econ-frontier.html`
 
-页面会读取：
+## 数据模块
 
-- `standalone-policy-journal-tracker/data/policy_tracker.json`
+- 政策期刊追踪：
+  - 脚本：`standalone-policy-journal-tracker/scripts/update_policy_tracker.py`
+  - 数据：`standalone-policy-journal-tracker/data/policy_tracker.json`
+- 经济学扩展追踪：
+  - 脚本：`standalone-econ-frontier-tracker/scripts/update_econ_tracker.py`
+  - 数据：`standalone-econ-frontier-tracker/data/econ_tracker.json`
 
-## 自动更新数据
+## 自动更新
 
-已提供 GitHub Actions 工作流：
+GitHub Actions 工作流：
 
 - `.github/workflows/update_policy_tracker.yml`
+- `.github/workflows/update_econ_tracker.yml`
 
-更新策略：
-
-- 每 6 小时自动运行一次
-- 支持手动触发（Actions -> Update Policy Tracker Data -> Run workflow）
-
-如果你希望自动中文翻译，在仓库 Secrets 里添加：
+如果要启用中文翻译，在仓库 Secrets 中添加：
 
 - `KIMI_API_KEY`
 
@@ -35,9 +36,10 @@
 
 ```powershell
 python standalone-policy-journal-tracker/scripts/update_policy_tracker.py
+python standalone-econ-frontier-tracker/scripts/update_econ_tracker.py
 ```
 
-本地预览前端页面时，不要直接双击 `index.html`（`file://` 会拦截 fetch）。请用：
+本地预览前端不要直接双击 `index.html`（`file://` 会拦截 fetch），请用：
 
 ```powershell
 python -m http.server 8000
@@ -46,3 +48,4 @@ python -m http.server 8000
 然后打开：
 
 - `http://localhost:8000/`
+- `http://localhost:8000/econ-frontier.html`
