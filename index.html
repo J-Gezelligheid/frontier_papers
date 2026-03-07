@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Frontier Papers Tracker</title>
+  <meta name="description" content="实时追踪房地产、城市治理、公共政策相关期刊论文">
+  <link rel="stylesheet" href="assets/css/site.css">
+  <script src="assets/js/app.js" defer></script>
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <p class="hero-kicker">Frontier Papers Tracker</p>
+      <h1>房地产 · 城市治理 · 公共政策</h1>
+      <p class="hero-subtitle">
+        自动追踪 10 本期刊最新一期目录，并按主题筛选相关论文。
+      </p>
+      <div class="hero-meta">
+        <span id="update-time">加载中...</span>
+        <button id="refresh-btn" type="button">刷新数据</button>
+        <a href="standalone-policy-journal-tracker/data/policy_tracker.json" target="_blank" rel="noopener">查看原始 JSON</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls">
+      <label class="control">
+        <span>主题</span>
+        <select id="topic-filter">
+          <option value="">全部主题</option>
+        </select>
+      </label>
+
+      <label class="control">
+        <span>期刊</span>
+        <select id="journal-filter">
+          <option value="">全部期刊</option>
+        </select>
+      </label>
+
+      <label class="control control-search">
+        <span>关键词</span>
+        <input id="search-input" type="search" placeholder="例如 housing / land / governance">
+      </label>
+    </section>
+
+    <section id="summary-cards" class="summary-cards" aria-live="polite"></section>
+    <section id="error-box" class="error-box" hidden></section>
+    <section id="journal-list" class="journal-list" aria-live="polite"></section>
+  </main>
+</body>
+</html>
