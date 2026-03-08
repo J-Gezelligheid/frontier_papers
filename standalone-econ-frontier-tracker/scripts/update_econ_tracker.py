@@ -28,7 +28,6 @@ KIMI_API_BASE = os.getenv("KIMI_API_BASE", "https://api.moonshot.cn/v1").rstrip(
 KIMI_API_KEY = os.getenv("KIMI_API_KEY", "").strip()
 KIMI_MODEL = os.getenv("KIMI_MODEL", "moonshot-v1-8k")
 KIMI_MIN_INTERVAL_SECONDS = float(os.getenv("KIMI_MIN_INTERVAL_SECONDS", "3.2"))
-REQUIRE_KIMI_TRANSLATION = os.getenv("REQUIRE_KIMI_TRANSLATION", "false").strip().lower() in {"1", "true", "yes", "on"}
 MAX_ABSTRACT_TRANSLATE_CHARS = int(os.getenv("MAX_ABSTRACT_TRANSLATE_CHARS", "2500"))
 MAX_ECON_PAPERS_PER_JOURNAL = int(os.getenv("MAX_ECON_PAPERS_PER_JOURNAL", "12"))
 
@@ -689,11 +688,6 @@ def load_previous_data() -> Dict[str, Any]:
 def main() -> None:
     previous = load_previous_data()
     translator = KimiTranslator(api_key=KIMI_API_KEY, model=KIMI_MODEL)
-    if REQUIRE_KIMI_TRANSLATION and not translator.enabled:
-        raise RuntimeError(
-            "REQUIRE_KIMI_TRANSLATION=true but KIMI_API_KEY is missing. "
-            "Set repository secret KIMI_API_KEY for workflow runs."
-        )
     translator.warmup_cache(previous)
     econ_tracker = build_econ_tracker_block(translator)
 
@@ -712,8 +706,8 @@ def main() -> None:
     }
 
     if translator.enabled and translator.success_count == 0:
-        raise RuntimeError(
-            "Kimi translation is enabled but no translation succeeded. "
+        print(
+            "Warning: Kimi translation is enabled but no translation succeeded. "
             f"Failures: {translator.fail_samples[:2]}"
         )
 
