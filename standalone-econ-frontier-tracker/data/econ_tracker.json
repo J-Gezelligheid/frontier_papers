@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-08 06:53:40",
+  "updated_at": "2026-03-15 05:00:11",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 0,
+    "success_count": 34,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -675,9 +675,31 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-05",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 0,
-        "total_in_issue": 1,
-        "papers": [],
+        "matched_count": 2,
+        "total_in_issue": 6,
+        "papers": [
+          {
+            "title_en": "The US-China trade war creates jobs (elsewhere)",
+            "title_zh": "美中贸易战创造（其他地方的）就业",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104249",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Exports and intergenerational mobility",
+            "title_zh": "出口与代际流动性",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104239",
+            "abstract_en": "Using eight rounds of the Vietnam Household Living Standards Surveys spanning 16 years and exploiting the US-Vietnam Bilateral Trade Agreement (BTA) in 2001, we investigate the impact of this large export shock on intergenerational occupational mobility. The BTA has, on average, led to greater upward absolute occupational mobility among sons and daughters, with effects following roughly a U-shape by age for sons and an inverse-U for daughters. However, relative occupational mobility, inversely related to the gradient of the child’s occupational rank as a function of the parent’s, decreased on average as a result of the BTA, with this effect also varying across age groups. While the BTA improved occupational mobility for an average child, children born to top-ranked parents benefited disproportionately. Also, the BTA increased human capital investment in college education across genders and vocational training for sons. Furthermore, higher individual and initial province-level human capital facilitated this mobility.",
+            "abstract_zh": "利用历时16年的八轮越南家庭生活水平调查数据，并利用2001年美越双边贸易协定（BTA），我们研究了这一大规模出口冲击对代际职业流动性的影响。BTA平均而言，导致子女的职业绝对流动性更大，对儿子的影响大致呈U形随年龄变化，对女儿则呈倒U形。然而，相对职业流动性，与孩子职业排名作为父母职业排名函数的梯度成反比，平均而言由于BTA而减少，这种效应也因年龄组而异。尽管BTA提高了普通儿童的职业流动性，但出生在排名最高的父母家庭的儿童受益更多。此外，BTA还增加了跨性别的大学教育人力资本投资，以及对儿子的职业培训。此外，更高水平的个人和初始省级人力资本促进了这种流动性。",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -687,9 +709,40 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 0,
-        "total_in_issue": 2,
-        "papers": [],
+        "matched_count": 3,
+        "total_in_issue": 7,
+        "papers": [
+          {
+            "title_en": "The art of not being chocked: Environmental awareness, residents' responses and land transactions in China",
+            "title_zh": "不被“窒息”的艺术：环境意识、居民响应与中国土地交易",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103757",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "C'est la vie!: Mixed impacts of an edutainment television series in West Africa",
+            "title_zh": "这就是生活！：西非一个教育娱乐电视系列的混合影响",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103748",
+            "abstract_en": "Edutainment is a promising tool for changing behavior at scale, yet little is known about how to maximize impacts. We undertake an experimental evaluation of a popular West African television series, C’est la vie!, delivered through film clubs targeted at adolescent girls and young women in rural Senegal. We examine impacts on violence against women and girls and sexual and reproductive health. Results show C’est la vie! improved knowledge on both domains three months after film clubs ended, as well as violence-related attitudes nine months later, however, had no impact on behaviors. We investigate design components intended to strengthen impacts, generally finding no additional impacts from post-screening discussions, engaging men, and podcasts. Our findings suggest that edutainment is an engaging way to reach viewers on sensitive themes, however more evidence is needed on how to effectively deliver edutainment content for sustained behavior change at scale. • Using a cluster randomized control trial, we evaluate a popular West African TV series. • We examine impacts on violence against women and girls (VAWG) and sexual and reproductive health (SRH). • We find short term knowledge gains in both domains and improved medium term VAWG attitudes. • We find no impact on behaviors. • We find no additional impacts from post-screening discussions, engaging men, and podcasts.",
+            "abstract_zh": "教育娱乐是改变大规模行为的有前途的工具，但如何最大化影响却鲜为人知。我们对西非流行的电视剧《这就是生活！》进行了实验性评估，该剧通过针对塞内加尔农村少女和年轻女性的电影节俱乐部进行传播。我们检验了对针对妇女和女童的暴力行为以及性和生殖健康的影响。结果显示，《这就是生活！》在电影节结束后三个月提高了两个领域的知识，九个月后改善了与暴力相关的态度，但对行为没有影响。我们调查了旨在加强影响的设计要素，通常发现放映后讨论、吸引男性和播客没有额外影响。我们的发现表明，教育娱乐是吸引观众关注敏感主题的有趣方式，但需要更多证据来了解如何有效地传播教育娱乐内容，以实现大规模的持续行为改变。• 我们使用集群随机对照试验评估了一部流行的西非电视剧。• 我们检验了对针对妇女和女童的暴力行为（VAWG）和性和生殖健康（SRH）的影响。• 我们发现在两个领域都有短期知识收益和中期VAWG态度的改善。• 我们发现对行为没有影响。• 我们发现放映后讨论、吸引男性和播客没有额外影响。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Trade, storage, and climate extremes: Theory and evidence from Sub-Saharan Africa",
+            "title_zh": "贸易、储存与极端气候：来自撒哈拉以南非洲的理论与证据",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103761",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -840,50 +893,52 @@
         "query_name": "Journal of Industrial Economics",
         "issn": "0022-1821",
         "resolved_name": "Journal of Industrial Economics",
-        "issue_title": "Volume 73, Issue 4",
+        "issue_title": "Volume 74, Issue 1",
         "issue_url": "https://onlinelibrary.wiley.com/journal/14676451",
         "matched_count": 4,
-        "total_in_issue": 8,
+        "total_in_issue": 9,
         "papers": [
           {
-            "title_en": "Inconspicuous Personalized Pricing",
-            "title_zh": "不显眼的个性化定价",
-            "url": "https://doi.org/10.1111/joie.70006",
-            "abstract_en": "ABSTRACT Emerging tracking data enable precise predictions of individuals' reservation values. However, firms may be reluctant to overtly adopt personalized pricing. This paper proposes a strategy that embeds personalization within a dynamic pricing framework, tailoring prices privately while committing to infrequent adjustments to obscure its use. Simulation analyses based on both theoretical and empirically estimated distributions of consumer valuations reveal that profits rise most when consumer arrivals are moderately frequent. Increasing the precision of individual‐level demand estimates broadens the range of products for which this strategy is profitable. These findings suggest the approach may be an auspicious strategy for online platforms.",
-            "abstract_zh": "摘要：新兴的追踪数据使得对个人保留价值的精确预测成为可能。然而，企业可能不愿意公开采用个性化定价。本文提出了一种策略，将个性化嵌入到动态定价框架中，在私下定制价格的同时承诺不频繁调整以掩盖其使用。基于理论和经验估计的消费者估值分布的模拟分析显示，当消费者到达频率适中时，利润最高。提高个体层面需求估计的精确度，扩大了这种策略有利可图的产品范围。这些发现表明，这种方法可能是在线平台的一个吉祥策略。",
+            "title_en": "Unobserved Wholesale Contracts",
+            "title_zh": "未观察到的批发合同",
+            "url": "https://doi.org/10.1111/joie.70014",
+            "abstract_en": "ABSTRACT A manufacturer with private information about product quality sells through a retailer to end consumers. By hiding wholesale pricing contracts from end consumers, the manufacturer can hide his private information, eliminate signaling distortions and earn higher (expected) profit compared to observable wholesale pricing as well as direct selling; consumers may also earn higher surplus under such contracts even though they do not learn true product quality. Policies that mandate disclosure of quality or of upstream contracts can reduce welfare relative to the equilibrium with hidden contracts. We formalize this interaction as a class of intermediated signaling games—distinct from standard signaling models because of the hidden interaction with the intermediary—and introduce a new belief refinement, IC‐I, tailored to such games and analogous to the Intuitive Criterion.",
+            "abstract_zh": "摘要：一个对产品质量有私有信息的制造商通过零售商向最终消费者销售产品。通过向最终消费者隐藏批发定价合同，制造商可以隐藏其私有信息，消除信号扭曲，并与可观察的批发定价以及直接销售相比获得更高的（预期）利润；即使消费者无法了解真实的产品质量，他们也可能在此类合同下获得更高的消费者剩余。强制披露质量或上游合同的政策可能会降低相对于隐藏合同均衡的福利。我们将这种互动形式化为一类中介信号博弈——由于与中介的隐藏互动而与标准信号模型不同——并引入一种新的信仰细化，IC-I，专为这类博弈量身定制，类似于直观标准。",
             "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Ramsey Pricing Revisited: Natural Monopoly Regulation With Evaders",
-            "title_zh": "拉姆齐定价再审视：对逃费者的自然垄断规制",
-            "url": "https://doi.org/10.1111/joie.70004",
-            "abstract_en": "ABSTRACT We consider a model featuring a single‐product natural monopoly, which faces evaders, that is, individuals who may not pay the price. By exerting costly effort, the firm can deter evasion. To maximize total surplus, a regulator sets the price, the level of deterrence effort, and socially costly transfers to ensure the monopoly's participation. We obtain a modified Ramsey formula, which clearly shows that the mere existence of evaders dampens the use of the price as a means to finance the firm's deficit. The regulated price is always below the monopoly price and, under sufficient conditions, also below marginal cost. We find conditions under which the regulated price decreases if society departs from fully crediting evaders' utilities to welfare. Then, we generalize the model to incorporate moral hazard.",
-            "abstract_zh": "摘要 我们考虑了一个单一产品自然垄断模型，该模型面临逃费者，即可能不支付价格的个体。通过付出成本高昂的努力，企业可以阻止逃费行为。为了最大化总剩余，监管者设定价格、威慑努力水平以及社会成本高昂的转移支付，以确保垄断企业的参与。我们得到了一个修改后的拉姆齐公式，该公式清楚地表明，逃费者的存在仅仅抑制了使用价格作为融资企业赤字的手段。受管制的价格总是低于垄断价格，并且在充分条件下，也低于边际成本。我们找到了在社会从完全将逃费者的效用计入福利中偏离时，受管制价格下降的条件。然后，我们将模型推广以纳入道德风险。",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Revisiting the Omitted Price Bias in the Estimation of Production Functions",
-            "title_zh": "重新审视生产函数估计中的遗漏价格偏差",
-            "url": "https://doi.org/10.1111/joie.70001",
-            "abstract_en": "ABSTRACT The lack of information on quantities presents significant challenges for estimating production functions. As shown by Klette and Griliches in 1996, deflating nominal variables using aggregate price indices leads to biased estimators. In this paper, we show that a similar problem arises when firm‐specific prices are recovered from reported firm‐specific price changes via a recursive formula. This recursion formula depends on an initial condition given by the unobserved price level in the base year, which then appears in the empirical production function as a firm‐specific fixed effect. The standard practice is to ignore these fixed effects by setting the firm‐specific prices in the base year to a constant value common to all firms, usually unity (zero in logs). We show that this practice generates biased estimators. We examine this bias via Monte Carlo simulations and with an empirical application. Solving this problem is not straightforward and requires further assumptions because these fixed effects generate nonlinear measurement errors.",
-            "abstract_zh": "摘要：信息量的缺乏对估计生产函数提出了重大挑战。正如Klette和Griliches在1996年所展示的，使用总体价格指数对名义变量进行平减会导致估计器有偏。在本文中，我们展示了当通过递归公式从报告的特定企业价格变化中恢复特定企业价格时，会出现一个类似的问题。这个递归公式依赖于一个由基年未观察到的价格水平给出的初始条件，然后这个条件以特定企业固定效应的形式出现在实证生产函数中。标准做法是忽略这些固定效应，将基年的特定企业价格设定为所有企业共同的常数值，通常是1（对数为0）。我们展示这种做法会产生有偏估计器。我们通过蒙特卡洛模拟和实证应用来检验这种偏差。解决这个问题并不直接，需要进一步的假设，因为这些固定效应产生了非线性的测量误差。",
-            "matched_topics": [
+              "产业经济",
               "创新药"
             ]
           },
           {
-            "title_en": "Upward Pricing Pressure in Mergers Where Prices Are Determined Through Joint Bargaining",
-            "title_zh": "合并中通过联合谈判确定价格时的价格上涨压力",
-            "url": "https://doi.org/10.1111/joie.70002",
-            "abstract_en": "ABSTRACT We develop an upward pricing pressure metric for evaluating mergers when prices are negotiated through bilateral bargaining. Our framework is based on deriving the marginal cost reduction required to just offset a price increase due to a horizontal merger in a Nash‐in‐Nash bargaining equilibrium assuming suppliers negotiate with buyers using an all‐or‐nothing strategy. We assess the accuracy of our framework by applying it to a hospital merger setting, where we conduct Monte Carlo simulations and compare to observed price changes from consummated mergers. We find that our metric offers important advantages over alternative methods and only requires information that is readily available in merger investigations.",
-            "abstract_zh": "摘要 我们开发了一个向上定价压力指标，用于在价格通过双边谈判确定时评估合并。我们的框架基于推导出在纳什-对-纳什谈判均衡中，供应商使用全有或全无策略与买方谈判时，抵消水平合并导致价格上涨所需的边际成本降低。我们通过将其应用于医院合并案例，进行蒙特卡洛模拟，并与已完成合并的观察到的价格变化进行比较，来评估我们框架的准确性。我们发现，与替代方法相比，我们的指标提供了重要优势，并且仅需要在合并调查中容易获得的信息。",
+            "title_en": "The Productivity Effect of Public–Private Partnership",
+            "title_zh": "公私合作伙伴关系的生产率效应",
+            "url": "https://doi.org/10.1111/joie.70013",
+            "abstract_en": "ABSTRACT Public–Private partnerships (PPPs) are often employed by public authorities to deliver infrastructure and public services through contracts bundling construction, operation, and maintenance over extended periods. Using a novel dataset covering the universe of Italian district heating plants (DHs) from 2007 to 2014, I show that PPP improves firm‐level productivity by incentivizing investments in higher capital quality. Capital quality—proxied by a thermal density index derived from the characteristics of the DH pipeline network—significantly improves productivity only when combined with PPP procurement. A structural production function approach reveals that a one‐unit increase in capital quality raises output by 19% in PPP firms, with negligible effects in non‐PPP firms. Counterfactual calculations suggest that enforcing PPP‐like quality standards across all plants would increase average output by 3266 MWh and reduce CO 2 emissions by 1568 tons per plant per year. The results are robust to selection bias, measurement error, and functional form misspecification. While this paper provides the first evidence that PPPs enhance productivity in network utilities by internalizing technological externalities between construction and operation, whether these gains fully translate into welfare improvements through pricing and Value for Money remains an open question for future research.",
+            "abstract_zh": "摘要 公私合作伙伴关系（PPP）常被公共当局用来通过合同捆绑建设、运营和维护，长期提供基础设施和公共服务。利用覆盖2007至2014年意大利区域供热厂（DH）全样本的新数据集，我展示了PPP通过激励对更高资本质量的投资，提高了企业层面的生产率。资本质量——由DH管网特性衍生的热密度指数代理——只有在与PPP采购结合时才显著提高生产率。结构生产函数方法揭示，在PPP企业中，资本质量每增加一个单位，产出增加19%，而非PPP企业的影响微不足道。反事实计算表明，强制所有工厂执行类似PPP的质量标准，将使平均产出增加3266兆瓦时，每厂每年减少1568吨二氧化碳排放。结果对选择偏差、测量误差和函数形式误设具有鲁棒性。虽然本文首次提供了PPP通过内部化建设与运营之间的技术外部性来提高网络公用事业生产率的证据，但这些收益是否完全转化为通过定价和物有所值带来的福利改善，仍是未来研究的开放问题。",
             "matched_topics": [
-              "国际贸易",
-              "产业经济"
+              "产业经济",
+              "医药产业",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Financial Incentives for the Development of Blockchain‐Based Platforms",
+            "title_zh": "基于区块链平台发展的财政激励措施",
+            "url": "https://doi.org/10.1111/joie.70010",
+            "abstract_en": "ABSTRACT I develop a theoretical model showing that an entrepreneur prefers to create a decentralized digital platform with a crypto‐token as its internal currency (rather than a traditional platform) when the total surplus from trade is low relative to the dollar value of transactions. I then study inefficiencies in the development of such platforms. When external funding is not required, effort may be above or below its efficient level. When external funding is required, multiple Pareto‐ranked equilibria arise: in each, with strictly positive probability, the entrepreneur liquidates his tokens and halts development.",
+            "abstract_zh": "摘要：我构建了一个理论模型，表明当贸易产生的总剩余相对于交易的美元价值较低时，企业家更倾向于创建一个以加密代币为内部货币的去中心化数字平台（而不是传统平台）。然后，我研究了这类平台开发中的效率问题。当不需要外部融资时，努力水平可能高于或低于其有效水平。当需要外部融资时，会出现多个帕累托排序的均衡：在每个均衡中，以严格正的概率，企业家清算其代币并停止开发。",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Transparency and Innovation in Organizations",
+            "title_zh": "组织透明度与创新",
+            "url": "https://doi.org/10.1111/joie.70011",
+            "abstract_en": "ABSTRACT We study how transparency—the observability of interim performance measures—affects innovation incentives. In each of two periods, an agent selects either a new or well‐established idea and exerts effort to implement that idea into products or services. Transparency promotes idea exploration by allowing idea switching in response to negative signals. However, this can become counterproductive by wasting the knowledge acquired through implementation effort and reducing effort incentives if the output relies heavily on implementation effort rather than idea quality. Paradoxically, transparency can be further counterproductive if (1) the acquired knowledge becomes less idea‐specific, (2) the variance in idea quality increases, or (3) the interim performance measure becomes more precise.",
+            "abstract_zh": "摘要 我们研究透明度——中间绩效指标的可观察性——如何影响创新激励。在两个时期中，代理人选择一个新想法或一个成熟的想法，并努力将该想法实施到产品或服务中。透明度通过允许在收到负面信号时切换想法来促进想法探索。然而，如果产出严重依赖于实施努力而不是想法质量，这可能会适得其反，浪费通过实施努力获得的知识，并减少努力激励。矛盾的是，如果（1）获得的知识变得不那么特定于想法，（2）想法质量的方差增加，或（3）中间绩效指标变得更加精确，透明度可能会进一步适得其反。",
+            "matched_topics": [
+              "企业创新"
             ]
           }
         ],
@@ -1049,8 +1104,8 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 5",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 1,
-        "total_in_issue": 1,
+        "matched_count": 2,
+        "total_in_issue": 2,
         "papers": [
           {
             "title_en": "Disruptive sustainability through digital innovations: Overcoming information asymmetries to benefit small-scale producers",
@@ -1060,6 +1115,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "Did the defend trade secrets act spur the reliance on trade secrets?",
+            "title_zh": "《保护商业秘密法案》是否促进了对商业秘密的依赖？",
+            "url": "https://doi.org/10.1016/j.respol.2026.105474",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
             ]
           }
         ],
@@ -1215,13 +1280,14 @@
             ]
           },
           {
-            "title_en": "A Method for Asynchronous Time Series Analysis with Marketing Applications",
-            "title_zh": "一种具有营销应用的异步时间序列分析方法",
-            "url": "https://doi.org/10.1287/mnsc.2024.04336",
-            "abstract_en": "Many time series data evolve asynchronously. In marketing, for example, we observe ad liking every second, hourly clickstreams, daily sales, weekly brand awareness, or monthly ad expenditures. Thus, the question arises: how to estimate dynamic models when metrics evolve at different frequencies? To this end, we develop a new method for estimation and inference of state space models for asynchronous data. In contrast to existing approaches, the proposed method does not require any data preprocessing to align frequencies. We derive the optimal gain factor from first principles and demonstrate in three simulation studies that the new method recovers model parameters as accurately as the full-information Kalman filter as if all data were available. This finding holds across various degrees of noise levels and data sparsity. More importantly, we show that ignoring data asynchronicity results in substantially biased parameter estimates. Empirically, we illustrate the efficacy of the new method via two applications: copy testing of an advertisement and a marketing mix model, both with asynchronous data. It yields meaningful results compared with those obtained by aligning asynchronous data to the slowest frequency (i.e., data aggregation). In the marketing mix application, for example, data aggregation produces erroneously insignificant estimates of sales carryover and TV effectiveness, and these become significant when we apply the new method. These biased estimates can have serious managerial consequences. Thus, the proposed method paves the way to analyze asynchronous time series data: slow- or fast-moving dependent variables, slow- or fast-moving independent variables, and all of them at equal or unequal frequencies. This paper was accepted by Eric Anderson, marketing. Funding: This work was supported by the Marketing Science Institute [Grant 4-1959]. P. A. Naik acknowledges the financial support received from the University of California Davis travel and small research grants program across 2015–2024. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04336 .",
-            "abstract_zh": "许多时间序列数据以异步方式演变。例如，在市场营销中，我们观察到每秒的广告点赞、每小时的点击流、每日销售、每周品牌意识或每月广告支出。因此，问题出现了：当指标以不同频率演变时，如何估计动态模型？为此，我们开发了一种新的方法，用于估计和推断异步数据的状态空间模型。与现有方法不同，所提出的方法不需要任何数据预处理来对齐频率。我们从基本原理出发推导出最优增益因子，并在三项模拟研究中证明，新方法恢复模型参数的准确性与全信息卡尔曼滤波器一样，就好像所有数据都可用一样。这一发现适用于各种噪声水平和数据稀疏度。更重要的是，我们展示了忽略数据异步性会导致参数估计的显著偏差。从实证上，我们通过两个应用来说明新方法的有效性：广告副本测试和市场营销组合模型，两者都包含异步数据。与将异步数据对齐到最慢频率（即数据聚合）所获得的结果相比，它产生了有意义的结果。例如，在市场营销组合应用中，数据聚合产生了销售延续和电视效果的错误不显著估计，而当我们应用新方法时，这些变得显著。这些有偏估计可能会产生严重的管理后果。因此，所提出的方法为分析异步时间序列数据铺平了道路：慢速或快速移动的因变量、慢速或快速移动的自变量，以及它们以相等或不相等的频率出现。本文由埃里克·安德森接受，市场营销。资金：这项工作得到了市场营销科学研究所[Grant 4-1959]的支持。P.A. Naik感谢加州大学戴维斯分校在2015-2024年期间提供的旅行和小额研究资助计划的财政支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2024.04336找到。",
+            "title_en": "Market Design Choices, Racial Discrimination, and Equitable Microentrepreneurship in Digital Marketplaces",
+            "title_zh": "市场设计选择、种族歧视与数字市场中的公平微型创业",
+            "url": "https://doi.org/10.1287/mnsc.2023.01717",
+            "abstract_en": "This study investigates the potential of market design choices, specifically quality certification, to mitigate racial discrimination in digital marketplaces. Using a regression discontinuity design (RDD) that exploits the discontinuity in Airbnb’s Superhost assignment, we find that Black hosts benefit 1.5 times more from the quality certification than other hosts. Moreover, we find compelling evidence that this disproportionate increase does not come at the expense of non-Superhost Black hosts. This suggests that quality certification can effectively reduce discrimination and promote equitable outcomes. Further, our analysis utilizing a doubly robust machine learning approach reveals that the effectiveness of quality certification persists even in the prominent presence of consumer reviews, a widely used market feature and a credible user-generated quality signal. Our research underscores the judicious use of market design in fostering equity for minority entrepreneurs in digital marketplaces. This paper was accepted by Hemant Bhargava, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01717 .",
+            "abstract_zh": "本研究探讨了市场设计选择，特别是质量认证，对减轻数字市场中种族歧视的潜力。利用回归不连续设计（RDD），我们利用Airbnb超级房东分配中的不连续性，发现黑人房东从质量认证中获益比其他房东多1.5倍。此外，我们发现有力证据表明，这种不成比例的增加并没有以牺牲非超级房东黑人房东为代价。这表明质量认证可以有效减少歧视，促进公平结果。进一步地，我们利用双重稳健的机器学习方法进行的分析揭示，即使在消费者评论这一广泛使用且可信的用户生成质量信号的显著存在下，质量认证的有效性仍然持续存在。我们的研究强调了在数字市场中促进少数族裔企业家公平的审慎市场设计使用。本文由Hemant Bhargava，信息系统接受。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.01717 查阅。",
             "matched_topics": [
-              "国际贸易"
+              "企业创新",
+              "创新药"
             ]
           },
           {
@@ -1235,14 +1301,13 @@
             ]
           },
           {
-            "title_en": "Market Design Choices, Racial Discrimination, and Equitable Microentrepreneurship in Digital Marketplaces",
-            "title_zh": "市场设计选择、种族歧视与数字市场中的公平微型创业",
-            "url": "https://doi.org/10.1287/mnsc.2023.01717",
-            "abstract_en": "This study investigates the potential of market design choices, specifically quality certification, to mitigate racial discrimination in digital marketplaces. Using a regression discontinuity design (RDD) that exploits the discontinuity in Airbnb’s Superhost assignment, we find that Black hosts benefit 1.5 times more from the quality certification than other hosts. Moreover, we find compelling evidence that this disproportionate increase does not come at the expense of non-Superhost Black hosts. This suggests that quality certification can effectively reduce discrimination and promote equitable outcomes. Further, our analysis utilizing a doubly robust machine learning approach reveals that the effectiveness of quality certification persists even in the prominent presence of consumer reviews, a widely used market feature and a credible user-generated quality signal. Our research underscores the judicious use of market design in fostering equity for minority entrepreneurs in digital marketplaces. This paper was accepted by Hemant Bhargava, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01717 .",
-            "abstract_zh": "本研究探讨了市场设计选择，特别是质量认证，对减轻数字市场中种族歧视的潜力。利用回归不连续设计（RDD），我们利用Airbnb超级房东分配中的不连续性，发现黑人房东从质量认证中获益比其他房东多1.5倍。此外，我们发现有力证据表明，这种不成比例的增加并没有以牺牲非超级房东黑人房东为代价。这表明质量认证可以有效减少歧视，促进公平结果。进一步地，我们利用双重稳健的机器学习方法进行的分析揭示，即使在消费者评论这一广泛使用且可信的用户生成质量信号的显著存在下，质量认证的有效性仍然持续存在。我们的研究强调了在数字市场中促进少数族裔企业家公平的审慎市场设计使用。本文由Hemant Bhargava，信息系统接受。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.01717 查阅。",
+            "title_en": "A Method for Asynchronous Time Series Analysis with Marketing Applications",
+            "title_zh": "一种具有营销应用的异步时间序列分析方法",
+            "url": "https://doi.org/10.1287/mnsc.2024.04336",
+            "abstract_en": "Many time series data evolve asynchronously. In marketing, for example, we observe ad liking every second, hourly clickstreams, daily sales, weekly brand awareness, or monthly ad expenditures. Thus, the question arises: how to estimate dynamic models when metrics evolve at different frequencies? To this end, we develop a new method for estimation and inference of state space models for asynchronous data. In contrast to existing approaches, the proposed method does not require any data preprocessing to align frequencies. We derive the optimal gain factor from first principles and demonstrate in three simulation studies that the new method recovers model parameters as accurately as the full-information Kalman filter as if all data were available. This finding holds across various degrees of noise levels and data sparsity. More importantly, we show that ignoring data asynchronicity results in substantially biased parameter estimates. Empirically, we illustrate the efficacy of the new method via two applications: copy testing of an advertisement and a marketing mix model, both with asynchronous data. It yields meaningful results compared with those obtained by aligning asynchronous data to the slowest frequency (i.e., data aggregation). In the marketing mix application, for example, data aggregation produces erroneously insignificant estimates of sales carryover and TV effectiveness, and these become significant when we apply the new method. These biased estimates can have serious managerial consequences. Thus, the proposed method paves the way to analyze asynchronous time series data: slow- or fast-moving dependent variables, slow- or fast-moving independent variables, and all of them at equal or unequal frequencies. This paper was accepted by Eric Anderson, marketing. Funding: This work was supported by the Marketing Science Institute [Grant 4-1959]. P. A. Naik acknowledges the financial support received from the University of California Davis travel and small research grants program across 2015–2024. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04336 .",
+            "abstract_zh": "许多时间序列数据以异步方式演变。例如，在市场营销中，我们观察到每秒的广告点赞、每小时的点击流、每日销售、每周品牌意识或每月广告支出。因此，问题出现了：当指标以不同频率演变时，如何估计动态模型？为此，我们开发了一种新的方法，用于估计和推断异步数据的状态空间模型。与现有方法不同，所提出的方法不需要任何数据预处理来对齐频率。我们从基本原理出发推导出最优增益因子，并在三项模拟研究中证明，新方法恢复模型参数的准确性与全信息卡尔曼滤波器一样，就好像所有数据都可用一样。这一发现适用于各种噪声水平和数据稀疏度。更重要的是，我们展示了忽略数据异步性会导致参数估计的显著偏差。从实证上，我们通过两个应用来说明新方法的有效性：广告副本测试和市场营销组合模型，两者都包含异步数据。与将异步数据对齐到最慢频率（即数据聚合）所获得的结果相比，它产生了有意义的结果。例如，在市场营销组合应用中，数据聚合产生了销售延续和电视效果的错误不显著估计，而当我们应用新方法时，这些变得显著。这些有偏估计可能会产生严重的管理后果。因此，所提出的方法为分析异步时间序列数据铺平了道路：慢速或快速移动的因变量、慢速或快速移动的自变量，以及它们以相等或不相等的频率出现。本文由埃里克·安德森接受，市场营销。资金：这项工作得到了市场营销科学研究所[Grant 4-1959]的支持。P.A. Naik感谢加州大学戴维斯分校在2015-2024年期间提供的旅行和小额研究资助计划的财政支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2024.04336找到。",
             "matched_topics": [
-              "企业创新",
-              "创新药"
+              "国际贸易"
             ]
           },
           {
@@ -1371,8 +1436,8 @@
         "resolved_name": "Technovation",
         "issue_title": "Published 2026-05",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 11,
-        "total_in_issue": 15,
+        "matched_count": 12,
+        "total_in_issue": 17,
         "papers": [
           {
             "title_en": "Bridging micro–macro dynamics in nanotechnology commercialisation: How governance and absorptive capacity shape innovation performance",
@@ -1393,6 +1458,17 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "Digital transformation through innovation: The human-AI decision spectrum",
+            "title_zh": "数字化转型与创新：人机AI决策谱系",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103524",
+            "abstract_en": "The rapidly changing and increasingly complex processes enabled by artificial intelligence (AI) applications challenge the conventional concepts of innovation. In contrast to a general perception that AI adoption can augment innovation output, managers still lack empirical guidance on how to structure innovation processes with human-AI interaction across time and space. Drawing on observations from case studies in the aerospace, heavy engineering, information technology, and pharmaceutical sectors, this paper presents the development of a conceptual model for digital innovation to represent (<i>i</i>) <i>Learning Processes (LPs) focusing on knowledge creation and knowledge reuse and</i> (<i>ii</i>) <i>Product Development Processes (PDPs) leading to radical and incremental changes</i>. <i>The conceptual model is inductively developed based on</i> a theory building approach using multiple case studies. A set of transformative characteristics centralized on Originality, Reliability, Transferability, and Adaptability (ORTA) are identified to guide decision-making along multi-stage and cross-layer innovation processes involving cyclical handoffs between humans and machine agents. These ORTA characteristics form a base for strategic decision-making along the Human and AI decision spectrum suited to prepare companies for survival and prosperity in their journeys of digital transformation.",
+            "abstract_zh": "快速变化和日益复杂的人工智能（AI）应用过程挑战了传统的创新概念。与普遍认为AI采用可以增强创新产出的看法不同，管理者仍然缺乏关于如何在时间和空间上构建涉及人机交互的创新过程的经验指导。本文基于航空、重工业、信息技术和制药行业的案例研究观察，提出了一个数字创新的概念模型，以表示（<i>i</i>）<i>学习过程（LPs）专注于知识创造和知识重用</i>和（<i>ii</i>）<i>产品开发过程（PDPs）导致根本性和增量性变化</i>。<i>该概念模型是基于</i>使用多个案例研究的理论构建方法归纳发展而来。识别出一组以原创性、可靠性、可转移性和适应性（ORTA）为中心的变革性特征，以指导涉及人机代理之间循环交接的多阶段和跨层创新过程的决策。这些ORTA特征构成了沿着人与AI决策谱进行战略决策的基础，适合于为公司在数字化转型的旅程中生存和繁荣做好准备。",
+            "matched_topics": [
+              "企业创新",
+              "医药产业"
             ]
           },
           {
@@ -1437,6 +1513,16 @@
             ]
           },
           {
+            "title_en": "Does AI catalyze novelty? Generative AI, resource allocation novelty, and innovation quality of high-performing manufacturing enterprises in emerging markets",
+            "title_zh": "人工智能是否催化创新？生成性人工智能、资源配置创新性与新兴市场中高绩效制造企业的创新质量",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103525",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "In and out: The relationship between university in-licensing and out-licensing by firms in therapeutic biotechnology",
             "title_zh": "进出之间：大学在治疗性生物技术领域内许可与企业外许可之间的关系",
             "url": "https://doi.org/10.1016/j.technovation.2026.103518",
@@ -1450,17 +1536,6 @@
             "title_en": "Governing innovation: How technology maturity shapes R&amp;D contracts",
             "title_zh": "治理创新：技术成熟度如何塑造研发合同",
             "url": "https://doi.org/10.1016/j.technovation.2026.103521",
-            "abstract_en": "Firms investing in market-upstream R&D face governance challenges that vary systematically with the stage of technological development. This study examines how technology maturity shapes the design of interfirm R&D contracts, particularly in balancing appropriation and coordination concerns. Drawing on Transaction Cost Economics (TCE) and incomplete contracting theory, we view contracts as inherently incomplete and use the discriminating alignment principle as a lens to investigate which governance mechanisms are most effective at different levels of technology maturity. Leveraging a large-scale, unique dataset of R&D contracts in the semiconductor industry, we apply a correlated topic model (CTM) to systematically analyze and compare contractual mechanisms across multiple levels of technology maturity. We find that appropriation mechanisms are more prominent at low to intermediate maturity levels, where knowledge remains tacit and appropriation concerns are high. Conversely, coordination mechanisms become increasingly critical at intermediate and high maturity levels, where demands related to integration, execution, and commercialization intensify. We also demonstrate that different levels of technology maturity are associated with distinct framings of key contractual elements—such as intellectual property rights and project management clauses. By introducing the technology readiness level (TRL) framework as an empirical lens for studying contract design, this study advances alliance governance and incomplete contracting theory by revealing stage-contingent variation in contractual governance across the innovation process. • Technology maturity systematically shapes the design of interfirm R&D contracts. • We investigated a unique set of R&D contracts using correlated topic modelling. • The extent of appropriation and coordination mechanisms varies across the stages. • But also the framing of key contractual clauses evolves with technology maturity. • Technology Readiness Levels offer a structured basis for explaining stage-contingent governance needs.",
-            "abstract_zh": "投资于市场上游研发的企业面临随着技术发展阶段系统变化的治理挑战。本研究考察了技术成熟度如何塑造企业间研发合同的设计，特别是在平衡收益分配和协调问题方面。借鉴交易成本经济学（TCE）和不完全契约理论，我们将合同视为本质上不完整的，并使用区分对齐原则作为透镜来调查在不同技术成熟度水平下哪些治理机制最为有效。利用半导体行业研发合同的大规模、独特数据集，我们应用相关主题模型（CTM）系统地分析和比较不同技术成熟度水平下的合同机制。我们发现，在技术成熟度低至中等水平，知识仍然隐性且收益分配问题高的情况下，收益分配机制更为突出。相反，在技术成熟度中等和高水平，与整合、执行和商业化相关的需求加剧时，协调机制变得越来越关键。我们还证明，不同技术成熟度水平与关键合同要素的不同框架相关联，例如知识产权权利和项目管理条款。通过引入技术准备水平（TRL）框架作为研究合同设计的实证透镜，本研究通过揭示创新过程中合同治理的阶段性变化，推进了联盟治理和不完全契约理论。• 技术成熟度系统地塑造了企业间研发合同的设计。• 我们使用相关主题建模调查了一组独特的研发合同。• 收益分配和协调机制的程度在不同阶段有所不同。• 但关键合同条款的框架也随着技术成熟度而演变。• 技术准备水平为解释阶段性治理需求提供了结构化基础。",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Knowledge spillovers from green technologies",
-            "title_zh": "绿色技术的知识溢出",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103526",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1468,12 +1543,14 @@
             ]
           },
           {
-            "title_en": "Value co-creation in B2B industrial digital platforms: A platform-native perspective under service-dominant logic",
-            "title_zh": "B2B工业数字平台中的价值共创：基于服务主导逻辑的平台原生视角",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103516",
-            "abstract_en": "Emerging B2B industrial digital platforms (IDPs) are vital enablers of digital transformation in traditional manufacturing. However, existing research has predominantly focused on IDPs led by industrial incumbents, leaving a gap in understanding IDPs led by platform-native firms. For such non-industrial network technology firms built around a platform business model from the start, value co-creation with industrial users possessing domain knowledge is essential to develop IDPs. Through the theoretical lens of service-dominant logic, we conducted a longitudinal, exploratory case study of Alibaba's Taofactory Platform. The study explores the dynamic process through which platform natives, as cross-boundary entrants in the B2B industrial market, develop IDPs via value co-creation. Our analysis reveals that, driven by evolving service foci across stages, the platform owner orchestrates three core value co-creation strategies: resource integration, service exchange, and institutional arrangements. This orchestration fosters the evolution of value co-creation modes from connection-based to interaction-based and finally to collaboration-based, which in turn shapes the evolution of platform types from an industrial transaction platform to an industrial solution platform, and ultimately to an industrial platform ecosystem. This study offers a theoretical framework that advances research on digital platform development, value co-creation, and service-dominant logic. It also provides practical insights for platform natives aiming to enter the B2B industrial market. • Examines development process of industrial digital platforms led by platform natives. • Demarcates platform types: industrial transaction platform, industrial solution platform, industrial platform ecosystem. • Identifies three value co-creation modes: connection-based, interaction-based, collaboration-based. • Focuses on how platform natives develop industrial digital platforms through orchestrating value co-creation among actors.",
-            "abstract_zh": "新兴的B2B工业数字平台（IDPs）是传统制造业数字化转型的关键推动者。然而，现有研究主要关注由工业现有企业领导的IDPs，留下了对由平台原生企业领导的IDPs理解的空白。对于这些从一开始就围绕平台商业模式构建的非工业网络技术公司来说，与拥有领域知识的工业用户共同创造价值对于发展IDPs至关重要。通过服务主导逻辑的理论视角，我们对阿里巴巴的淘工厂平台进行了纵向的探索性案例研究。该研究探讨了平台原生企业作为B2B工业市场的跨界进入者，通过价值共创发展IDPs的动态过程。我们的分析揭示了，在服务焦点不断演变的推动下，平台所有者协调了三种核心价值共创策略：资源整合、服务交换和制度安排。这种协调促进了价值共创模式从基于连接的到基于互动的，最终到基于协作的演变，这反过来又塑造了平台类型从工业交易平台到工业解决方案平台，最终到工业平台生态系统的演变。本研究提供了一个理论框架，推进了数字平台发展、价值共创和服务主导逻辑的研究。它还为旨在进入B2B工业市场的平台原生企业提供了实际洞见。• 考察了由平台原生企业领导的工业数字平台的发展过程。• 划分平台类型：工业交易平台、工业解决方案平台、工业平台生态系统。• 识别了三种价值共创模式：基于连接的、基于互动的、基于协作的。• 专注于平台原生企业如何通过协调参与者之间的价值共创来发展工业数字平台。",
+            "title_en": "Knowledge spillovers from green technologies",
+            "title_zh": "绿色技术的知识溢出",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103526",
+            "abstract_en": "This paper analyses and compares the morphology of knowledge spillover networks based on green versus non-green technologies to assess whether one of the two domains diffuses more widely, travels farther in the geographical space, and connects more extensively otherwise distant technological fields. We employ various metrics based on forward citations to measure knowledge spillovers from patented technologies. Our sample includes bibliometric data of 3,809,214 patent applications filed at the European Patent Office from 1981 to 2020, of which 316,897 (8.32%) are classified as green. Results show that green patents receive more citations – both directly and indirectly – from follow-on inventions than non-green ones, thus contributing to a greater knowledge diffusion throughout the entire spillover network. We also find that the spectrum of sectors to which a green knowledge spillover network is targeted tends to be broader. Lastly, the inherent nature of green technologies, along with their potential to act as boundary spanners, results in knowledge transmission within the green do-main being less geographically localized than for non-green technologies. • We compare spillover network morphology for green versus non-green patents. • We use metrics based on forward citations to proxy spillovers and patent importance. • Green patents receive more forward citations, directly and indirectly. • The spectrum of sectors targeted by green patents tends to be broader. • Green-patent knowledge flows are less geographically localized than non-green ones.",
+            "abstract_zh": "本文分析并比较了基于绿色与非绿色技术的溢出网络形态，以评估这两个领域中哪一个扩散更广泛、在地理空间中传播更远、以及是否更广泛地连接了其他技术领域。我们采用基于前向引用的各种指标来衡量专利技术的知识溢出。样本包括1981年至2020年在欧洲专利局提交的3,809,214项专利申请的文献计量数据，其中316,897项（8.32%）被归类为绿色。结果显示，绿色专利比非绿色专利获得更多直接和间接的后续发明引用，从而促进了整个溢出网络中的知识扩散。我们还发现，绿色知识溢出网络所针对的行业范围往往更广。最后，绿色技术的本质特性，以及它们作为边界跨越者的潜力，导致绿色领域内的知识传播比非绿色技术更少地局限于地理区域。•我们比较了绿色与非绿色专利的溢出网络形态。•我们使用基于前向引用的指标来代理溢出和专利重要性。•绿色专利获得更多前向引用，直接和间接的。•绿色专利所针对的行业范围往往更广。•绿色专利的知识流动比非绿色专利更少地局限于地理区域。",
             "matched_topics": [
+              "国际贸易",
+              "企业创新",
               "创新药"
             ]
           },
@@ -1644,7 +1721,7 @@
         "issue_title": "Published 2026-05",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
         "matched_count": 1,
-        "total_in_issue": 2,
+        "total_in_issue": 3,
         "papers": [
           {
             "title_en": "The value of a park in crises: Quantifying the health and wellbeing benefits of green spaces using exogenous variations in use values",
@@ -1664,19 +1741,51 @@
         "query_name": "Health Economics",
         "issn": "1057-9230",
         "resolved_name": "Health Economics",
-        "issue_title": "Volume 35, Issue 3",
+        "issue_title": "Volume 35, Issue 4",
         "issue_url": "https://onlinelibrary.wiley.com/journal/10991050",
-        "matched_count": 1,
-        "total_in_issue": 9,
+        "matched_count": 4,
+        "total_in_issue": 6,
         "papers": [
           {
-            "title_en": "The Generational Gift: The Effects of Grandparental Care on the Next Generations' Health and Well‐Being",
-            "title_zh": "代际馈赠：祖辈照料对下一代健康和福祉的影响",
-            "url": "https://doi.org/10.1002/hec.70054",
-            "abstract_en": "ABSTRACT Health and well‐being in the family context can be affected by care giving arrangements. Following parental care and daycare, grandparents are the third most important care givers for children in many Western societies. Despite the relevance of grandparental care, there is little evidence on the causal effects of this care mode on the next generations' health and well‐being. In this paper, we fill this gap by investigating the causal impact of regular grandparental care on the self‐reported health and (domain‐specific) satisfaction of both parents and children. To do so, we exploit geographic distance to grandparents as a source of arguably exogenous variation and use representative German panel data for families with children under the age of 11. Our results suggest positive effects on parental satisfaction with the child care situation, as well as mothers' satisfaction with their leisure time. However, we also find negative effects on children's health, particularly for elementary school aged children and for boys.",
-            "abstract_zh": "摘要：家庭环境中的健康和幸福感可能受到照顾安排的影响。在许多西方社会中，祖父母是继父母照顾和日托之后的第三大儿童照顾者。尽管祖父母照顾的重要性，但关于这种照顾方式对下一代健康和幸福感的因果效应的证据很少。本文通过研究定期祖父母照顾对父母和儿童自报健康和（特定领域）满意度的因果影响，填补了这一空白。为此，我们利用与祖父母之间的地理距离作为外生变化的来源，并使用代表德国家庭的面板数据，这些家庭的孩子年龄在11岁以下。我们的研究结果表明，祖父母照顾对父母对儿童照顾情况的满意度以及母亲对休闲时间的满意度有积极影响。然而，我们也发现对儿童健康有负面影响，特别是对小学生和男孩。",
+            "title_en": "Do Fossil Fuel Subsidies Crowd Out Health Expenditure? A Country‐Level Longitudinal Analysis",
+            "title_zh": "化石燃料补贴是否挤出了卫生支出？一项国家层面的纵向分析",
+            "url": "https://doi.org/10.1002/hec.70074",
+            "abstract_en": "ABSTRACT Annually, countries allocate hundreds of millions of dollars to subsidize fossil fuels, often at the expense of public health and environmental sustainability. This undermines progress toward Sustainable Development Goals (SDG) 3 (Good Health and Well‐Being) and 13 (Climate Action). Despite this, the impact of fossil fuel subsidies (FFS) on social protection expenditure, including health, remains poorly quantified. This study aimed to determine whether FFS crowd out health expenditure globally, using panel data from 126 countries covering the period 2015–2019. An instrumental variable approach, relying on countries' exposure to international energy trade and fluctuations in crude oil price, was employed to capture exogenous variation in FFS and estimate a causal relationship. The analyses revealed that in 2019, 17 countries spent more than five percent of GDP on FFS, with FFS expenditure exceeding health expenditure in 15 of those countries. Specifically, a 1% increase in FFS per capita, driven by rising international oil prices and weighted by countries' exposure to international energy trade, led to a 0.05% (95% CI −0.08% to −0.02%) decrease in domestic health expenditure per capita. These findings underscore the detrimental impact of FFS on health expenditure, presenting another reason to eliminate FFS to achieve SDG3 in addition to avoiding further dangerous climate heating.",
+            "abstract_zh": "摘要：各国每年分配数亿美元用于补贴化石燃料，常常以牺牲公共卫生和环境可持续性为代价。这削弱了实现可持续发展目标（SDG）3（良好健康与福祉）和13（气候行动）的进展。尽管如此，化石燃料补贴（FFS）对社会保护支出，包括健康支出的影响，仍然缺乏量化。本研究旨在确定FFS是否在全球范围内挤出健康支出，使用2015-2019年期间覆盖126个国家的面板数据。采用工具变量方法，依赖于国家对国际能源贸易的暴露程度和原油价格波动，以捕捉FFS的外生变化，并估计因果关系。分析显示，在2019年，有17个国家的FFS支出超过GDP的5%，在这些国家中，有15个国家的FFS支出超过了健康支出。具体来说，FFS人均支出每增加1%，由国际油价上涨驱动，并由国家对国际能源贸易的暴露程度加权，导致国内人均健康支出减少0.05%（95%CI -0.08%至-0.02%）。这些发现强调了FFS对健康支出的不利影响，提出了消除FFS以实现SDG3的另一个理由，除了避免进一步危险的气候变暖。",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Disability Insurance as a Complement to Labor Income: Evidence From Italian Administrative Data",
+            "title_zh": "标题：作为劳动收入补充的残疾保险：来自意大利行政数据的证据",
+            "url": "https://doi.org/10.1002/hec.70072",
+            "abstract_en": "ABSTRACT We investigate how disability insurance (DI) generosity affects DI take‐up and labor market participation in a setting where benefits can be cumulated with substantial labor earnings. Using rich administrative data on Italian private‐sector workers and a Regression Discontinuity in Time design, we find a large behavioral response to DI generosity, with an elasticity of 1.26 in DI take‐up, while employment effects are minor and concentrated among immigrants. Our identification strategy exploits a major social security reform that reduced the expected DI replacement rate and generated a clear income effect. To address unobserved heterogeneity and the unobservability of underlying disability, we focus on individuals affected by acute cardiovascular shocks whose DI eligibility is plausibly exogenous. Overall, our results suggest that when earnings cumulability is extensive, DI is widely perceived as a complement to labor income. This has important implications for the design of labor‐inclusive DI schemes.",
+            "abstract_zh": "摘要 我们研究了在福利可以与大量劳动收入累积的情况下，残疾保险（DI）的慷慨程度如何影响DI的接受度和劳动市场参与度。利用意大利私营部门工人的丰富行政数据和时间上的回归不连续性设计，我们发现对DI慷慨度有较大的行为反应，DI接受度的弹性为1.26，而就业效应较小，且主要集中在移民中。我们的识别策略利用了一项主要的社会保障改革，该改革降低了预期的DI替代率，并产生了明确的收入效应。为了解决未观察到的异质性和潜在残疾的不可观察性，我们关注那些受到急性心血管冲击影响的个体，他们的DI资格是合理外生的。总体而言，我们的结果表明，当收入累积性广泛时，DI被广泛视为劳动收入的补充。这对于设计包含劳动的DI计划具有重要意义。",
             "matched_topics": [
               "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Physician Agency and the Zero‐Markup Drug Policy in China: Evidence From a Structural Model",
+            "title_zh": "中国医生代理与零加成药品政策：来自结构模型的证据",
+            "url": "https://doi.org/10.1002/hec.70073",
+            "abstract_en": "ABSTRACT This paper quantifies physician agency in China's prescription drug market by exploiting the structural shift created by the Zero‐Markup Drug Policy. We find that physicians' prescribing decisions are about three times more sensitive to the hospital's profit margin than to the retail price faced by patients. The study provides several key findings. First, government policy exerts a strong influence on drug prices. Second, branded drugs are generally preferred over generics and display lower price elasticity. Third, the policy accounts for more than half of the observed decline in average wholesale prices. Finally, while the policy improves patient welfare, it reduces pharmaceutical firms' sales and profits, and a partial restoration of drug markups could increase overall social welfare.",
+            "abstract_zh": "摘要 本文通过利用零差率药品政策所创造的结构性转变，量化了中国处方药市场中医生的代理行为。我们发现，医生的处方决策对医院利润率的敏感性大约是患者面临的零售价格的三倍。研究提供了几个关键发现。首先，政府政策对药品价格有强烈影响。其次，品牌药通常比仿制药更受青睐，并且显示出更低的价格弹性。第三，该政策占观察到的平均批发价格下降的一半以上。最后，尽管该政策提高了患者福利，但它降低了制药公司的销售和利润，部分恢复药品加价可能会增加总体社会福利。",
+            "matched_topics": [
+              "医药产业",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Minimum Wages, the Earned Income Tax Credit, and Mental Health Around Pregnancy",
+            "title_zh": "最低工资、劳动所得税抵免与孕期心理健康",
+            "url": "https://doi.org/10.1002/hec.70071",
+            "abstract_en": "ABSTRACT This study estimates the effects on perinatal mental health of the state's minimum wage and earned income tax credit (EITC), controlling for other policies and state‐level factors. Using data from the Pregnancy Risk Assessment Monitoring System for 2012–2018 births we find robust evidence that minimum wages and EITC levels reduce depression before pregnancy and suggestive evidence of minimum wages reducing postpartum depression, at least for married respondents. Our estimates suggest that a one dollar increase in the minimum wage ($100 increase in the state EITC) reduces pre‐pregnancy depression by roughly 8.5% (1.5%). These findings stand up to standard robustness and falsification tests, including event study analyses, a wide array of alternative specifications, and finding no effect for those unlikely to benefit (e.g., college‐educated respondents). A supplementary analysis using data from the Behavioral Risk Factor Surveillance System suggests that state EITC levels may reduce mental distress during pregnancy. We investigate possible mechanisms by providing a descriptive analysis of the income and work behavior of such households, which shows the wide reach of these policies, and investigating a broad set of outcomes from the PRAMS, such as financial stressors, health insurance and birth outcomes.",
+            "abstract_zh": "摘要 本研究估计了州最低工资和劳动所得税抵免（EITC）对围产期心理健康的影响，同时控制了其他政策和州级因素。利用2012-2018年出生的孕产妇风险评估监测系统数据，我们发现强有力的证据表明最低工资和EITC水平降低了怀孕前的抑郁，并有迹象表明最低工资降低了产后抑郁，至少对已婚受访者而言。我们的估计表明，最低工资每增加一美元（州EITC增加100美元）可将怀孕前抑郁降低约8.5%（1.5%）。这些发现通过了标准的稳健性和证伪测试，包括事件研究分析、多种替代规范，以及对不太可能受益的人群（例如，大学教育受访者）没有影响。使用行为风险因素监测系统数据的补充分析表明，州EITC水平可能降低了怀孕期间的心理痛苦。我们通过提供这些家庭收入和工作行为的描述性分析来探讨可能的机制，这显示了这些政策的广泛影响，并从PRAMS调查中调查了一系列广泛的结果，如财务压力、健康保险和出生结果。",
+            "matched_topics": [
+              "创新药"
             ]
           }
         ],
@@ -1689,20 +1798,9 @@
         "resolved_name": "PharmacoEconomics",
         "issue_title": "Volume 44, Issue 3",
         "issue_url": "https://link.springer.com/journal/40273",
-        "matched_count": 3,
+        "matched_count": 2,
         "total_in_issue": 9,
         "papers": [
-          {
-            "title_en": "EQ-5D(-Y) Valuation from Adult and Child Perspectives: Where Does the Empirical Evidence Leave Us and How Should We Proceed?",
-            "title_zh": "EQ-5D(-Y) 成人与儿童视角下的评估：实证证据将我们引向何方，我们应如何进行？",
-            "url": "https://doi.org/10.1007/s40273-026-01589-1",
-            "abstract_en": "Valuing pediatric health-related quality of life (HRQOL) is essential for economic evaluations in child healthcare. Instruments like EQ-5D-Y were developed for this purpose. A key methodological innovation-though controversial-has been the use of the child perspective for valuation of EQ-5D-Y health states, where adults value health states imagining a 10-year-old child. This paper critically reviews empirical findings on this approach, examines potential biases, assesses alignment with stakeholder views, and explores alternatives. We relied on a targeted review of empirical literature, including studies comparing adults valuing their own health (adult perspective) and using child perspectives, as well as stakeholder opinion studies. Findings were synthesized into ten key learnings: (1) Child-perspective valuations are typically higher than adult ones for the same health states. (2) Adults prioritize pain/discomfort and being sad/unhappy differently for children. (3) Child age has minimal impact. Mechanisms contributing to differences between adult and child perspectives include (4) discomfort with child death, (5) different valuations of life duration, (6) psychological distance, (7) emotional difficulty deciding for others, and (8) external goals influencing results. Stakeholder engagement shows that (9) the effects of using child perspectives do not align well with societal preferences, and (10) stakeholders express a preference for approaches that directly involve children and adolescents in valuation tasks. We conclude that relying on child perspectives may introduce systematic biases, potentially undermining the validity of pediatric health utilities. A re-evaluation of current valuation methods for EQ-5D-Y may be warranted, with greater consideration for direct child involvement, mapping techniques, and group-based deliberative approaches.",
-            "abstract_zh": "评估儿童健康相关的生活质量（HRQOL）对于儿童医疗保健的经济评估至关重要。为此目的开发了EQ-5D-Y等工具。一个关键的方法论创新——尽管有争议——是使用儿童视角对EQ-5D-Y健康状况进行估值，即成年人在想象一个10岁儿童时对健康状况进行估值。本文批判性地回顾了这种方法的经验性发现，检查了潜在的偏见，评估了与利益相关者观点的一致性，并探索了替代方案。我们依赖于对实证文献的针对性审查，包括比较成年人评估自己健康（成人视角）和使用儿童视角的研究，以及利益相关者意见研究。研究结果综合为十个关键教训：（1）儿童视角的估值通常高于成人对相同健康状况的估值。（2）成年人对儿童的疼痛/不适和悲伤/不快乐有不同的优先级。（3）儿童年龄影响最小。导致成人和儿童视角差异的机制包括（4）对儿童死亡的不适，（5）对生命持续时间的不同估值，（6）心理距离，（7）为他人做决定时的情感困难，以及（8）影响结果的外部目标。利益相关者参与表明（9）使用儿童视角的效果与社会偏好不一致，（10）利益相关者表示更倾向于直接涉及儿童和青少年参与估值任务的方法。我们得出结论，依赖儿童视角可能会引入系统性偏见，可能破坏儿童健康效用的效度。可能需要重新评估EQ-5D-Y当前的估值方法，更多考虑直接儿童参与、映射技术和基于群体的审议方法。",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
           {
             "title_en": "The Importance of Structured Expert Elicitation to Inform Outcomes Following Treatment Discontinuation: Evidence Assessment Group Perspective",
             "title_zh": "结构化专家征询在治疗中断后结果信息中的重要性：证据评估小组视角",
@@ -1731,61 +1829,50 @@
         "query_name": "Value in Health",
         "issn": "1098-3015",
         "resolved_name": "Value in Health",
-        "issue_title": "Volume 29, Issue 2",
+        "issue_title": "Volume 29, Issue 3",
         "issue_url": "https://www.valueinhealthjournal.com/",
-        "matched_count": 5,
-        "total_in_issue": 21,
+        "matched_count": 4,
+        "total_in_issue": 22,
         "papers": [
           {
-            "title_en": "Should Early-Stage NIH Funding Influence Pharmaceutical Drug Pricing?",
-            "title_zh": "早期NIH资助是否应影响药品定价？",
-            "url": "https://doi.org/10.1016/j.jval.2025.09.3065",
-            "abstract_en": "",
-            "abstract_zh": "",
+            "title_en": "Comparative Responsiveness of Preference-Based Health-Related Quality of Life, Social Care, and Well-Being Measures in the Context of Multiple Sclerosis",
+            "title_zh": "多系统萎缩背景下基于偏好的健康相关生活质量、社会护理和福祉度量的综合响应性比较",
+            "url": "https://doi.org/10.1016/j.jval.2025.09.3063",
+            "abstract_en": "The ICECAP-A, ASCOT, and MSIS-8D were more responsive than the EQ-5D-3L in the context of MS when compared using standardized scores. The increased responsiveness of EQ-5D-3L when absolute values were used seems an artefact of the wide-ranging scale of this measure. This illustrates how the maximum potential range of values for a given PBM tariff could influence whether an intervention is found to be cost-effective.",
+            "abstract_zh": "ICECAP-A、ASCOT和MSIS-8D在多发性硬化症（MS）背景下比EQ-5D-3L更具反应性，这一点在使用标准化分数进行比较时得到了证实。当使用绝对值时，EQ-5D-3L的反应性增加似乎是一种由于该测量工具广泛的量表范围而产生的假象。这表明，给定患者基础健康状态（PBM）关税的最大潜在值范围如何影响干预措施是否被认为具有成本效益。",
             "matched_topics": [
-              "产业经济",
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "What Costs and Benefits Should be Counted in Health Technology Assessments and Guidelines? The NICE Perspective",
-            "title_zh": "健康技术评估和指南中应考虑哪些成本和效益？NICE的观点",
-            "url": "https://doi.org/10.1016/j.jval.2025.09.003",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医疗创新"
-            ]
-          },
-          {
-            "title_en": "Mapping Methodologies for Economic Evaluation of Digital Health Technologies: A Scoping Review",
-            "title_zh": "数字健康技术经济评价的映射方法：范围综述",
-            "url": "https://doi.org/10.1016/j.jval.2025.09.012",
-            "abstract_en": "Current frameworks lack standardization and are not fully adapted to the characteristics of DHTs. Future development should prioritize flexible, lifecycle-aligned evaluation models and standardized guidance to support evidence-based digital health decision making.",
-            "abstract_zh": "当前框架缺乏标准化，并未完全适应分布式哈希表（DHTs）的特点。未来的发展应优先考虑灵活的、与生命周期对齐的评估模型和标准化指导，以支持基于证据的数字健康决策。",
-            "matched_topics": [
-              "医疗创新",
+              "国际贸易",
               "创新药"
             ]
           },
           {
-            "title_en": "Preferences for Adopting Artificial Intelligence in Radiation Therapy Treatment: A Discrete Choice Experiment",
-            "title_zh": "标题：在放射治疗中采用人工智能的偏好：一项离散选择实验",
-            "url": "https://doi.org/10.1016/j.jval.2025.09.013",
-            "abstract_en": "This study provides important information about Australian general public preferences for AI in treatment planning and can be used to inform future research on economic evaluations and implementation of AI-driven technologies in radiation therapy.",
-            "abstract_zh": "本研究提供了有关澳大利亚公众对人工智能在治疗计划中的偏好的重要信息，可用于指导未来关于经济评估和实施放射治疗中人工智能驱动技术的研究。",
+            "title_en": "The Uneven Path of Psychological Distress: How Socioeconomic Status Shapes Distress Transitions in Australian Adults",
+            "title_zh": "标题：心理痛苦的不平等路径：社会经济地位如何塑造澳大利亚成年人的痛苦转变",
+            "url": "https://doi.org/10.1016/j.jval.2025.10.005",
+            "abstract_en": "The estimated transition probabilities can be used in health economic evaluations, designed to support reimbursement decision for interventions.",
+            "abstract_zh": "估算的转移概率可用于健康经济评估中，旨在支持干预措施的报销决策。",
             "matched_topics": [
-              "国际贸易"
+              "医药产业"
             ]
           },
           {
-            "title_en": "EQ-5D-5L in Multiple Sclerosis: Estimated Utility Values, Minimal (Clinically) Important Changes, and Direct and Indirect Influences Over Time",
-            "title_zh": "EQ-5D-5L在多发性硬化症中的应用：估算效用值、最小（临床）重要变化及随时间的直接和间接影响",
-            "url": "https://doi.org/10.1016/j.jval.2025.07.019",
-            "abstract_en": "Health utility values for MS were consistently lower than those found in the English population and were influenced by factors amenable to clinical intervention. Anchor-based MIC varied by subtype and relapse history, showing that when assessing the significance of changing health status from the perspective of those with MS, a uniform MIC should not be used.",
-            "abstract_zh": "多发性硬化症（MS）的健康效用值始终低于英国人口中发现的值，并且受到可以临床干预的因素影响。基于锚点的最小重要变化（MIC）因亚型和复发史而异，表明在从MS患者的角度评估健康状况变化的重要性时，不应使用统一的MIC。",
+            "title_en": "Patient-Reported Outcome Measures in Clinical Trials: An Analysis of Trends From 2008 to 2023",
+            "title_zh": "2008至2023年临床试验中患者报告结果测量的趋势分析",
+            "url": "https://doi.org/10.1016/j.jval.2025.10.017",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
-              "国际贸易"
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Estimating the Willingness-to-Pay per Quality-Adjusted Life-Year to Aid Health Technology Assessment in India",
+            "title_zh": "估算印度每质量调整生命年支付意愿以辅助健康技术评估",
+            "url": "https://doi.org/10.1016/j.jval.2025.10.007",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新"
             ]
           }
         ],
