@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-15 04:41:47",
+  "updated_at": "2026-03-22 04:28:26",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 16,
+    "success_count": 3,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -360,16 +360,6 @@
         "total_in_issue": 18,
         "papers": [
           {
-            "title_en": "Courts in the Global South",
-            "title_zh": "全球南方国家的法院",
-            "url": "https://doi.org/10.1146/annurev-polisci-040623-113225",
-            "abstract_en": "Research on judicial politics has advanced considerably over the past few decades, particularly in the global South, a geopolitical region that has long been subjected to imbalanced relationships with more industrialized countries in the global North. The unique challenges confronting global South countries, including political and economic instabilities, limited state authority, and dilemmas of social integration, have shaped both the form and function of courts in these regions. We explore these implications in four key areas where a critical mass of scholarship has generated new insights and opportunities for future research: courts and stateness, courts in authoritarian regimes, courts in unstable democracies, and courts and social transformation. We show that in these areas, courts are often effective for a variety of purposes and according to standards different from those in the global North. We conclude with reflections on knowledge-building in this region and implications for future theorization and empirical inquiry.",
-            "abstract_zh": "过去几十年来，司法政治研究取得了显著进展，特别是在长期与全球北方工业化国家存在不平衡关系的全球南方地区。全球南方国家面临的政治和经济不稳定、国家权威有限以及社会融合困境等独特挑战，塑造了这些地区法院的形式和功能。我们在四个关键领域探讨了这些影响，这些领域积累了大量学术成果，为未来研究提供了新的见解和机会：法院与国家性、威权体制下的法院、不稳定民主体制下的法院以及法院与社会转型。我们表明，在这些领域，法院往往根据不同于全球北方的标准和目的而有效。最后，我们反思了该地区的知识构建以及对未来理论化和实证研究的影响。",
-            "matched_topics": [
-              "房地产"
-            ]
-          },
-          {
             "title_en": "AI as Governance",
             "title_zh": "人工智能治理",
             "url": "https://doi.org/10.1146/annurev-polisci-040723-013245",
@@ -378,6 +368,16 @@
             "matched_topics": [
               "房地产",
               "公共政策"
+            ]
+          },
+          {
+            "title_en": "Courts in the Global South",
+            "title_zh": "全球南方国家的法院",
+            "url": "https://doi.org/10.1146/annurev-polisci-040623-113225",
+            "abstract_en": "Research on judicial politics has advanced considerably over the past few decades, particularly in the global South, a geopolitical region that has long been subjected to imbalanced relationships with more industrialized countries in the global North. The unique challenges confronting global South countries, including political and economic instabilities, limited state authority, and dilemmas of social integration, have shaped both the form and function of courts in these regions. We explore these implications in four key areas where a critical mass of scholarship has generated new insights and opportunities for future research: courts and stateness, courts in authoritarian regimes, courts in unstable democracies, and courts and social transformation. We show that in these areas, courts are often effective for a variety of purposes and according to standards different from those in the global North. We conclude with reflections on knowledge-building in this region and implications for future theorization and empirical inquiry.",
+            "abstract_zh": "过去几十年来，司法政治研究取得了显著进展，特别是在长期与全球北方工业化国家存在不平衡关系的全球南方地区。全球南方国家面临的政治和经济不稳定、国家权威有限以及社会融合困境等独特挑战，塑造了这些地区法院的形式和功能。我们在四个关键领域探讨了这些影响，这些领域积累了大量学术成果，为未来研究提供了新的见解和机会：法院与国家性、威权体制下的法院、不稳定民主体制下的法院以及法院与社会转型。我们表明，在这些领域，法院往往根据不同于全球北方的标准和目的而有效。最后，我们反思了该地区的知识构建以及对未来理论化和实证研究的影响。",
+            "matched_topics": [
+              "房地产"
             ]
           },
           {
@@ -693,6 +693,16 @@
         "total_in_issue": 13,
         "papers": [
           {
+            "title_en": "Self‐Reported Motives for Immobility or Constraints to Moving: A Review and Assessment of Ten Survey Measures",
+            "title_zh": "自我报告的不移动动机或搬迁限制：对十项调查测量的回顾与评估",
+            "url": "https://doi.org/10.1002/psp.70240",
+            "abstract_en": "ABSTRACT Self‐reported motives for residential immobility are important for understanding why people remain in place, yet existing survey measures vary widely and suffer from a lack of standardisation. We review self‐report measures about motives for immobility or constraints to moving—measured with survey items asking what made it difficult for respondents to relocate—in ten existing surveys. We report several advantages and disadvantages of different approaches and provide recommendations for future questionnaire design. Based on descriptive statistics from available survey measures and on the wording of the questions and response options, we pinpoint situations where questionnaire design rather than respondents' true motivations might influence answer patterns. We provide eight recommendations to guide future research design, focusing on question wording, sample selection, and response options and structure. This review provides a starting point for standardizing the measurement of immobility motives, enabling future researchers to make informed research design decisions and improve cross‐study comparability.",
+            "abstract_zh": "摘要：自报的居住不动性动机对于理解人们为何留在原地至关重要，然而现有的调查测量方法差异很大，且缺乏标准化。我们回顾了十个现有调查中关于不动性动机或搬迁限制的自报测量方法——这些调查项目询问了什么因素使得受访者难以搬迁。我们报告了不同方法的若干优点和缺点，并为未来的问卷设计提供了建议。基于现有调查测量的描述性统计数据以及问题措辞和回应选项，我们指出了问卷设计而非受访者真实动机可能影响答案模式的情况。我们提供了八项建议，以指导未来的研究设计，重点关注问题措辞、样本选择以及回应选项和结构。本综述为标准化不动性动机的测量提供了起点，使未来的研究者能够做出明智的研究设计决策，并提高跨研究的可比性。",
+            "matched_topics": [
+              "房地产"
+            ]
+          },
+          {
             "title_en": "Migrants on the Property Ladder: The Role of Location in Shaping Housing Wealth Disparities in Urban China",
             "title_zh": "中国城市移民的房产阶梯：位置在塑造城市住房财富差异中的作用",
             "url": "https://doi.org/10.1002/psp.70237",
@@ -806,16 +816,6 @@
             "matched_topics": [
               "城市治理"
             ]
-          },
-          {
-            "title_en": "Time and Precarity in ‘South−South’ Academic Mobility: A 2019−2023 Longitudinal Study of Pakistani PhD Students and Recent Graduates in China",
-            "title_zh": "“南南”学术交流中的时间和不稳定性：2019-2023年巴基斯坦博士生和中国新近毕业生的纵向研究",
-            "url": "https://doi.org/10.1002/psp.70227",
-            "abstract_en": "ABSTRACT China's rise as an education hub introduces a new dynamic to the current framework for understanding international academic mobility. This paper presents longitudinal case studies of Pakistani PhD students and recent graduates in China, comparing their imagined mobility in 2019 with their actual trajectories by 2023. Using a time‐sensitive approach, this study unpacks the individual‐institutional temporal entanglement against the macro‐level socioeconomic changes in China and Pakistan between 2019 and 2023. Shifting from study to work, Pakistani PhD graduates face age‐based discrimination, temporary contracts and lack of permanent residency prospect in China. Meanwhile, deteriorating conditions in Pakistan's academic sector, over time, further constrained options. Despite aspirations to reach the ‘Global North’, participants experienced reversed migration decision driven by precarity rather than advancement. This study highlights the limitations within ‘South−South’ academic mobility and the difficulty for highly educated migrants to align their mobility strategies with an increasingly uncertain global socioeconomic environment.",
-            "abstract_zh": "摘要：中国作为教育中心的崛起为理解当前国际学术流动的框架引入了新的动力。本文通过纵向案例研究，比较了2019年巴基斯坦博士生和新近毕业生在中国的预期流动性与2023年的实际轨迹。采用时间敏感的方法，本研究揭示了2019年至2023年间中国和巴基斯坦宏观层面社会经济变化背景下个体与机构的时间纠缠。从学习转向工作，巴基斯坦博士毕业生在中国面临基于年龄的歧视、临时合同以及缺乏永久居留前景。与此同时，随着时间的推移，巴基斯坦学术部门条件的恶化进一步限制了选择。尽管有达到“全球北方”的愿望，参与者却经历了由不稳定而非进步驱动的反向迁移决策。本研究突出了“南南”学术流动的局限性，以及高等教育移民在日益不确定的全球社会经济环境中调整其流动策略的困难。",
-            "matched_topics": [
-              "房地产"
-            ]
           }
         ],
         "error": null
@@ -921,7 +921,7 @@
             "title_zh": "精简治理：如何通过“一事一议”倡议减轻城市行政负担并优化监管环境",
             "url": "https://doi.org/10.1177/00208523251381187",
             "abstract_en": "Administrative burden has emerged as a critical lens for understanding the unintended consequences of public service delivery and regulatory practices. While the concept has been extensively applied to analyze citizen–state interactions, less attention has been paid to how administrative burden affects private actors. This study addresses this gap by extending administrative burden theory to the domain of public–private partnerships, with a focus on how “one matter initiatives” in developing countries can alleviate regulatory barriers. Drawing on firm-level data from the World Bank Enterprise Survey, we examine whether and how streamlining governance reduces administrative burden and improves the regulatory climate. The empirical results show that streamlining governance significantly reduces administrative burden and enhances the regulatory climate. These effects are more pronounced for small and medium-sized enterprises, underscoring the reform's distributional impact. Mediation analysis shows that administrative burden serves as a key mechanism through which reform initiatives influence business perceptions of government performance. The findings highlight the relevance of administrative burden theory in non-Western governance contexts and demonstrate the value of incorporating business perspectives into public administration research. By offering empirical evidence from China’s “One Matter Initiative”, this study contributes to a more global and nuanced understanding of how streamlining governance can foster a more enabling environment for enterprise development. Points for practitioners This study highlights that streamlining administrative procedures through initiatives like China’s “One Matter Initiative” significantly reduces administrative burden. For practitioners, the findings suggest that procedural simplification can effectively improve public–private partnerships, particularly in non-Western governance systems. Focusing on service coordination and reducing transaction friction is key to responsive and business-oriented public administration. Megacity Governance in China shows how reform-driven streamlining governance can reshape regulatory practices. The “One Matter Initiative” demonstrates that reducing administrative burden is not only a technical efficiency but also a strategic step toward building good city governance. For practitioners, the key lesson is that coordinated service delivery and burden reduction carry broader significance: they reinforce city governance capacity and offer a replicable model for reform in other contexts.",
-            "abstract_zh": "行政负担已成为理解公共服务交付和监管实践意外后果的关键视角。尽管这一概念已广泛应用于分析公民与国家之间的互动，但对于行政负担如何影响私人行为者的关注较少。本研究通过将行政负担理论扩展到公私合作伙伴关系领域，填补了这一空白，重点关注发展中国家的“一事一议”倡议如何减轻监管障碍。利用世界银行企业调查的公司层面数据，我们检验了简化治理是否以及如何减少行政负担并改善监管环境。实证结果表明，简化治理显著减少了行政负担并增强了监管环境。这些效应在中小企业中更为明显，强调了改革的分配影响。中介分析显示，行政负担是改革举措影响企业对政府绩效感知的关键机制。研究结果突出了行政负担理论在非西方治理环境中的相关性，并证明了将商业视角纳入公共行政研究的价值。通过提供中国“一事一议”倡议的实证证据，本研究有助于更全面、细致地理解简化治理如何促进企业更有利的发展环境。实践者要点：本研究强调，通过中国“一事一议”等倡议简化行政程序显著减少了行政负担。对于实践者来说，研究结果表明，程序简化可以有效改善公私合作伙伴关系，特别是在非西方治理体系中。专注于服务协调和减少交易摩擦是响应迅速、以业务为导向的公共行政的关键。中国的超大城市治理展示了改革驱动的简化治理如何重塑监管实践。“一事一议”倡议表明，减少行政负担不仅是技术效率问题，也是建设良好城市治理的战略步骤。对于实践者来说，关键教训是协调服务交付和负担减轻具有更广泛的意义：...",
+            "abstract_zh": "行政负担已成为理解公共服务交付和监管实践意外后果的关键视角。尽管这一概念已广泛应用于分析公民与国家之间的互动，但对于行政负担如何影响私人行为者的关注较少。本研究通过将行政负担理论扩展到公私合作伙伴关系领域，填补了这一空白，重点关注发展中国家的“一事一议”倡议如何减轻监管障碍。利用世界银行企业调查的公司层面数据，我们检验了简化治理是否以及如何减少行政负担并改善监管环境。实证结果表明，简化治理显著减少了行政负担并增强了监管环境。这些效应在中小企业中更为明显，突显了改革的分配影响。中介分析显示，行政负担是改革举措影响企业对政府绩效感知的关键机制。研究结果强调了行政负担理论在非西方治理环境中的相关性，并证明了将商业视角纳入公共行政研究的价值。本研究通过提供中国“一事一议”倡议的实证证据，为理解简化治理如何促进企业更有利发展环境提供了更全球性和细致的理解。实践者要点：本研究强调，通过中国“一事一议”等倡议简化行政程序显著减少了行政负担。对于实践者来说，研究结果表明，程序简化可以有效改善公私合作伙伴关系，特别是在非西方治理体系中。专注于服务协调和减少交易摩擦是响应迅速且以业务为导向的公共行政的关键。中国的超大城市治理展示了改革驱动的简化治理如何重塑监管实践。“一事一议”倡议表明，减少行政负担不仅是技术效率问题，也是建设良好城市治理的战略步骤。对于实践者来说，关键教训是协调服务交付和负担减轻具有更广泛的意义：...",
             "matched_topics": [
               "城市治理",
               "公共政策"
