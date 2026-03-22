@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-15 05:00:11",
+  "updated_at": "2026-03-22 04:38:16",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 34,
+    "success_count": 32,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -340,19 +340,19 @@
         "query_name": "Journal of Political Economy",
         "issn": "0022-3808",
         "resolved_name": "Journal of Political Economy",
-        "issue_title": "Volume 134, Issue 2",
+        "issue_title": "Volume 134, Issue 3",
         "issue_url": "https://www.journals.uchicago.edu/journals/jpe",
         "matched_count": 1,
-        "total_in_issue": 10,
+        "total_in_issue": 8,
         "papers": [
           {
-            "title_en": "Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock",
-            "title_zh": "标题：名义刚性下的贸易：理解中国冲击对失业和福利的影响",
-            "url": "https://doi.org/10.1086/738344",
-            "abstract_en": "We present a dynamic quantitative trade and migration model that incorporates downward nominal wage rigidities and show how this framework can generate changes in unemployment and labor participation that match those uncovered by the empirical literature studying the “China shock.” We find that the China shock leads to average welfare increases in most U.S. states, including many that experience unemployment during the transition. However, nominal rigidities reduce the overall U.S. gains by around two thirds. In addition, there are 18 states that experience welfare losses in the presence of downward nominal wage rigidity that would have experienced gains without it.",
-            "abstract_zh": "我们提出了一个包含名义工资向下刚性的动态定量贸易和迁移模型，并展示了这一框架如何能够产生与实证文献研究“中国冲击”所揭示的相匹配的失业和劳动参与变化。我们发现，中国冲击导致大多数美国州的平均福利增加，包括许多在过渡期间经历失业的州。然而，名义刚性将美国的总体收益减少了约三分之二。此外，有18个州在存在名义工资向下刚性的情况下经历了福利损失，如果没有这种刚性，它们本应获得收益。",
+            "title_en": "Mandated versus Voluntary Adaptation to Natural Disasters: The Case of US Wildfires",
+            "title_zh": "强制性与自愿性适应自然灾害：以美国野火为例",
+            "url": "https://doi.org/10.1086/739331",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
-              "国际贸易"
+              "创新药"
             ]
           }
         ],
@@ -676,7 +676,7 @@
         "issue_title": "Published 2026-05",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 2,
-        "total_in_issue": 6,
+        "total_in_issue": 7,
         "papers": [
           {
             "title_en": "The US-China trade war creates jobs (elsewhere)",
@@ -709,8 +709,8 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 3,
-        "total_in_issue": 7,
+        "matched_count": 4,
+        "total_in_issue": 11,
         "papers": [
           {
             "title_en": "The art of not being chocked: Environmental awareness, residents' responses and land transactions in China",
@@ -740,6 +740,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
+            ]
+          },
+          {
+            "title_en": "The phantom menace in agriculture: How lagged droughts distort input decisions and create environmental deadweight loss",
+            "title_zh": "农业中的幽灵威胁：滞后干旱如何扭曲投入决策并造成环境无谓损失",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103781",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           }
         ],
@@ -1104,9 +1114,19 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 5",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 2,
-        "total_in_issue": 2,
+        "matched_count": 6,
+        "total_in_issue": 8,
         "papers": [
+          {
+            "title_en": "Did the defend trade secrets act spur the reliance on trade secrets?",
+            "title_zh": "《保护商业秘密法案》是否促进了对商业秘密的依赖？",
+            "url": "https://doi.org/10.1016/j.respol.2026.105474",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
           {
             "title_en": "Disruptive sustainability through digital innovations: Overcoming information asymmetries to benefit small-scale producers",
             "title_zh": "数字创新实现颠覆性可持续性：克服信息不对称以惠及小规模生产者",
@@ -1118,13 +1138,44 @@
             ]
           },
           {
-            "title_en": "Did the defend trade secrets act spur the reliance on trade secrets?",
-            "title_zh": "《保护商业秘密法案》是否促进了对商业秘密的依赖？",
-            "url": "https://doi.org/10.1016/j.respol.2026.105474",
+            "title_en": "Abstract patents and startup funding: Evidence from Alice v. CLS Bank",
+            "title_zh": "抽象专利与初创企业融资：来自Alice诉CLS银行案的证据",
+            "url": "https://doi.org/10.1016/j.respol.2026.105462",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易"
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Political, economic and research disintegration: The impact of geopolitical uncertainty on innovation and cross-border R&amp;D collaborations",
+            "title_zh": "政治、经济与研究的解体：地缘政治不确定性对创新和跨境研发合作的影响",
+            "url": "https://doi.org/10.1016/j.respol.2026.105471",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际经济",
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Unlocking firm innovation under regional disadvantage: Can psychological openness compensate?",
+            "title_zh": "标题：在区域劣势下激发企业创新：心理开放性能否补偿？",
+            "url": "https://doi.org/10.1016/j.respol.2026.105463",
+            "abstract_en": "Firm innovation is strongly shaped by regional endowment – defined here as regional supply- and demand-side conditions for innovation – yet many regions are disadvantaged by having low levels of such endowment. While recent research increasingly emphasizes the role of regional soft factors , such as psychological openness, we still know relatively little about how such factors influence firm innovation under conditions of low structural endowment. Theoretically, we draw on Schmookler's scissors metaphor to conceptualize regional supply and demand conditions as hard, structural endowments of regions. We argue that favorable regional soft conditions – specifically psychological openness – can partially offset these structural constraints, but only for firms that possess sufficient absorptive capacity to recognize, absorb, and exploit such favorable regional conditions. Using longitudinal firm-level data on Swedish firms from 2004 to 2018, we show that regional psychological openness does not have a universal positive effect on product innovation. Instead, our results indicate that the benefits of regional openness are concentrated among firms with higher absorptive capacity operating in regions with low endowment, while firms in regions with higher endowment do not benefit in the same way. Implications for research and policymaking are discussed. • Regional soft factors are associated with firm innovation outcomes. • Regional psychological openness may offset regional structural disadvantages. • Firms need absorptive capacity to benefit from regional psychological openness. • Hard and soft factors at firm and region levels jointly shape firm innovation. • In high-endowment regions, psychological openness may coincide with lower innovation.",
+            "abstract_zh": "企业创新在很大程度上受到区域禀赋的影响——这里定义为区域创新的供给和需求条件——然而许多区域因禀赋水平低而处于不利地位。尽管最近的研究越来越强调区域软因素的作用，如心理开放性，我们对这些因素如何在低结构禀赋条件下影响企业创新仍然知之甚少。从理论上讲，我们借鉴施穆克勒的剪刀隐喻，将区域供给和需求条件概念化为区域的硬性、结构性禀赋。我们认为，有利的区域软条件——特别是心理开放性——可以部分抵消这些结构性约束，但仅限于那些拥有足够吸收能力以识别、吸收和利用这些有利区域条件的企业。利用2004年至2018年瑞典企业的纵向企业级数据，我们表明区域心理开放性对产品创新没有普遍的积极影响。相反，我们的结果表明，区域开放性的好处集中在拥有更高吸收能力的企业中，这些企业在禀赋较低的区域运营，而在禀赋较高的区域的企业并没有以相同的方式受益。讨论了对研究和政策制定的影响。•区域软因素与企业创新成果相关。•区域心理开放性可能抵消区域结构性劣势。•企业需要吸收能力才能从区域心理开放性中受益。•企业层面和区域层面的硬性和软性因素共同塑造企业创新。•在高禀赋区域，心理开放性可能与较低的创新相吻合。",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Understanding working of patents: Empirical evidence based on India.",
+            "title_zh": "理解专利运作：基于印度的实证证据。",
+            "url": "https://doi.org/10.1016/j.respol.2026.105464",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
             ]
           }
         ],
@@ -1135,95 +1186,71 @@
         "query_name": "Strategic Management Journal",
         "issn": "0143-2095",
         "resolved_name": "Strategic Management Journal",
-        "issue_title": "Volume 47, Issue 3",
+        "issue_title": "Volume 47, Issue 4",
         "issue_url": "https://onlinelibrary.wiley.com/journal/10970266",
-        "matched_count": 8,
-        "total_in_issue": 11,
+        "matched_count": 6,
+        "total_in_issue": 9,
         "papers": [
           {
-            "title_en": "When should firms watch for cross‐industry competition? A demand‐side perspective",
-            "title_zh": "企业何时应警惕跨行业竞争？从需求侧的视角",
-            "url": "https://doi.org/10.1002/smj.70034",
-            "abstract_en": "Abstract Research Summary Research on competitor identification has primarily focused on intra‐industry competition. However, cross‐industry competitive threats are prevalent and consequential. We adopt a consumer‐oriented perspective to examine how consumer perceptions shape de facto competition across industry boundaries. Drawing from social cognition theories, we introduce two mechanisms—cultural embeddedness and social salience—that lead consumers to perceive products in an emerging industry as viable substitutes for those in an established industry, thereby intensifying competitive pressures on established firms. We further hypothesize that the impact of these mechanisms varies across heterogeneous customer groups, specifically with respect to income, education, and immigration status. Event history analyses of Illinois movie theater failures during television's rise in 1944–1962 support our theorizing. Managerial Summary Identifying competitors can be a complex managerial task. While it often suffices to monitor only within‐industry competitors, unexpected cross‐industry rivals selling seemingly different products can create competitive blind spots. To identify cross‐industry competitive threats, we propose a demand‐based view to complement managerial perceptions: Do your customers view your offerings as interchangeable with emerging products? We find that when an emerging industry's products embody cultural elements borrowed from the established industry's offerings or resonate better with public discourse, customers are likely to perceive substitutability and switch to the emerging products. However, this tendency varies among customers with different profiles, making it essential to recognize which customer segments are more vulnerable when facing cross‐industry competition.",
-            "abstract_zh": "摘要 研究总结 竞争对手识别研究主要集中在行业内竞争。然而，跨行业竞争威胁普遍存在且具有重大影响。我们采用以消费者为导向的视角，考察消费者感知如何塑造跨行业界限的实际竞争。借鉴社会认知理论，我们引入了两种机制——文化嵌入和社会显著性——导致消费者将新兴行业的产品视为对成熟行业产品的可行替代品，从而加剧了对成熟企业的竞争压力。我们进一步假设这些机制的影响在不同客户群体中有所不同，特别是与收入、教育和移民身份有关。1944-1962年电视兴起期间伊利诺伊州电影院倒闭的事件历史分析支持了我们的理论。管理总结 识别竞争对手可能是一个复杂的管理任务。虽然通常只需监控行业内竞争对手就足够了，但销售看似不同产品的意外跨行业竞争对手可能会造成竞争盲点。为了识别跨行业竞争威胁，我们提出了一个基于需求的观点来补充管理感知：你的客户是否认为你的产品与新兴产品可以互换？我们发现，当新兴行业的产品体现了从成熟行业产品中借鉴的文化元素，或更好地与公共话语产生共鸣时，客户可能会感知到可替代性并转向新兴产品。然而，这种倾向在不同客户档案中有所不同，这使得认识到哪些客户细分在面对跨行业竞争时更脆弱变得至关重要。",
+            "title_en": "Political alignment in entrepreneurial teams: Homophily in venture formation and associations with startup success",
+            "title_zh": "创业团队中的政治立场一致性：创业团队形成中的同质性及其与创业成功的关系",
+            "url": "https://doi.org/10.1002/smj.70044",
+            "abstract_en": "Abstract Research Summary We examine political affiliation's role in venture team formation and success. Using data from Crunchbase and L2 on 1125 US‐based startups, we investigate political homophily in team assembly and its association with startup outcomes. Our analysis reveals strong political homogeneity in founding teams: teams with similar political views form more frequently than diverse teams, even after controlling for founders' gender, age, location, and industry. This political homophily relates to venture performance. Startups with politically heterogeneous founding teams are more likely to shut down. Across additional performance measures (capital funding, employee size, Crunchbase rankings), we observe directionally consistent associations with worse outcomes, though these secondary findings vary in robustness. These findings highlight the dual role of founders' political affiliations: their relationship with team composition and startup performance. Managerial Summary Our study examines political diversity's association with startup team formation and venture success. Analyzing data from 1125 US‐based startups, we discovered a strong tendency for teams to form based on political similarity. Individuals with similar political views prefer starting companies together, even when accounting for age, gender, location, and industry. Startups with politically diverse founding teams are more likely to shut down. These teams also tend to receive less funding, have fewer employees, and exhibit worse Crunchbase rankings, although these patterns are less consistent than the survival effect. For entrepreneurs and investors, these findings highlight the need to balance team cohesion against diverse perspectives. Business practitioners should be aware of these dynamics when forming teams or developing management strategies, particularly in a politically charged environment.",
+            "abstract_zh": "摘要研究总结 我们研究了政治归属在创业团队形成和成功中的作用。利用Crunchbase和L2的数据，我们对1125家美国初创企业进行了调查，研究了团队组建中的政治同质性及其与初创企业结果的关联。我们的分析揭示了创始团队中强烈的政治同质性：具有相似政治观点的团队比多样化团队更频繁地形成，即使在控制了创始人的性别、年龄、地点和行业之后也是如此。这种政治同质性与风险投资表现有关。政治上异质的创始团队更有可能关闭。在其他绩效指标（资本融资、员工规模、Crunchbase排名）上，我们观察到与更差结果一致的关联，尽管这些次要发现的稳健性各不相同。这些发现突出了创始人政治归属的双重作用：它们与团队构成和初创企业绩效的关系。管理总结 我们的研究考察了政治多样性与创业团队形成和风险投资成功的关系。分析了1125家美国初创企业的数据，我们发现团队基于政治相似性形成的趋势很强。具有相似政治观点的个体更愿意一起创业，即使在考虑年龄、性别、地点和行业之后也是如此。政治上多样化的创始团队更有可能关闭。这些团队也倾向于获得较少的资金，拥有较少的员工，并表现出更差的Crunchbase排名，尽管这些模式不如生存效应一致。对于企业家和投资者来说，这些发现强调了在团队凝聚力和多样化视角之间取得平衡的必要性。商业从业者在组建团队或制定管理策略时，特别是在政治紧张的环境中，应该意识到这些动态。",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Navigating uncertainty in a nascent ecosystem: How shifting cognitive frames influence an incumbent firm's platform scope strategies",
+            "title_zh": "在新兴生态系统中驾驭不确定性：认知框架转变如何影响在位企业的平台范围策略",
+            "url": "https://doi.org/10.1002/smj.70040",
+            "abstract_en": "Abstract Research Summary We examine how an incumbent firm navigates internal and external uncertainties when entering a nascent platform ecosystem. Drawing on a longitudinal study of a large telecommunication firm's transition into an evolving IoT ecosystem, we advance a cognitive perspective on platform strategy. We explain how managers' cognitive frames shape platform scope decisions based on shifting assumptions and interpretations of ecosystem dynamics and internal capabilities. Our process model shows how deviations between expected and actual developments trigger changes in managers' attitudes toward uncertainty, thereby shifting their cognitive frames and prompting them to modify platform scope strategies, leading to oscillation between shaping and adapting strategic postures. Our theorization sheds light on the cognitive foundations of platform strategy and the dynamics of incumbent platform transitions in a nascent ecosystem. Managerial Summary Incumbents often enter nascent digital ecosystems by introducing a platform, yet uncertainty complicates decisions about the appropriate platform scope. Our nine‐year study of TELECO’s IoT platform reveals three takeaways. First, scope is not a one‐off decision; it evolves as managers revisit assumptions about opportunities and constraints. Second, scope decision rarely move linearly; firms oscillate between broad and calibrated scopes, creating episodes of overreach and retrenchment. Third, interpretations of uncertainty steer these shifts: reading uncertainty as an opportunity supports shaping bets, whereas interpreting it as a constraint encourages adaptation and selective coopetition. Overall, platform decisions in uncertain ecosystems reflect organizational tensions as firms balance ambitions for dominance against market realities and the actions of ecosystem members.",
+            "abstract_zh": "摘要研究总结 我们研究了一家在位企业在进入新兴平台生态系统时如何驾驭内部和外部的不确定性。基于对一家大型电信公司转型进入不断发展的物联网生态系统的纵向研究，我们提出了一个关于平台战略的认知视角。我们解释了管理者的认知框架如何基于对生态系统动态和内部能力的不断变化的假设和解释来塑造平台范围决策。我们的流程模型展示了预期与实际发展之间的偏差如何触发管理者对不确定性态度的变化，从而改变他们的认知框架，并促使他们修改平台范围战略，导致在塑造和适应战略姿态之间产生振荡。我们的理论阐释揭示了平台战略的认知基础以及在新兴生态系统中在位平台转型的动态。管理总结 在位企业通常通过引入平台进入新兴数字生态系统，但不确定性使关于适当平台范围的决策变得复杂。我们对TELECO的物联网平台进行了为期九年的研究，得出了三个结论。首先，范围不是一次性决策；随着管理者重新审视关于机会和限制的假设，它不断发展。其次，范围决策很少线性移动；企业在广泛和校准范围之间振荡，创造了过度扩张和收缩的时期。第三，对不确定性的解释指导了这些变化：将不确定性视为机会支持塑造赌注，而将其解释为限制则鼓励适应和选择性合作。总体而言，在不确定的生态系统中，平台决策反映了组织紧张，因为企业在对主导地位的抱负与市场现实和生态系统成员的行动之间寻求平衡。",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "A new organizational structure database: Examining structure through top management team compositions",
-            "title_zh": "新型组织结构数据库：通过高层管理团队构成审视结构",
-            "url": "https://doi.org/10.1002/smj.70029",
-            "abstract_en": "Abstract Research Summary Studies using archival organizational structure data are not as prevalent as one might expect for such a critical strategy topic. We seek to facilitate more studies in this domain by introducing a novel, hand‐collected dataset of top management team compositions of S&P 500 firms between 1993 and 2020. Alongside providing the original role titles, we use generative Artificial Intelligence (AI) to categorize executives' titles into 6 role groups and 12 hierarchical levels, enabling easier comparisons of structures across and within firms. Our findings not only align with prior research but also offer insights into industry‐specific structural changes, functional distributions within organizations, and the evolution of executive roles. This work also highlights the potential of generative AI as a tool to empirically investigate key strategy questions. Managerial Summary One of the most important decisions senior managers make pertains to defining their firms' organizational structures. However, obtaining data on firms' structures can be challenging due to difficulties in accessing data and comparing structures across firms. In this paper, we develop a novel dataset of top management team compositions of S&P 500 firms between 1993 and 2020. Alongside providing the original names and job titles, we use generative Artificial Intelligence (AI) to categorize executives' titles into 6 role groups and 12 hierarchical levels, allowing easier comparisons of structures across and within firms. We hope that this new dataset will spur greater scholarly interest in organizational structure, offering insights into how firms are structured and the implications of these structures.",
-            "abstract_zh": "摘要研究总结 使用档案组织结构数据的研究并不像人们预期的那样普遍，尽管这是一个关键的战略话题。我们希望通过引入一个新的、手工收集的1993年至2020年间标准普尔500强公司高层管理团队组成的数据集，促进这一领域的更多研究。除了提供原始的职务头衔外，我们使用生成性人工智能（AI）将高管头衔归类为6个角色组和12个层级，便于比较不同公司及公司内部的结构。我们的发现不仅与先前的研究一致，还提供了行业特定结构变化、组织内职能分布以及高管角色演变的洞见。这项工作还突出了生成性AI作为实证调查关键战略问题的潜力。管理总结 高级经理做出的最重要的决策之一是定义公司的组织结构。然而，由于获取公司结构数据存在困难，比较不同公司的结构可能具有挑战性。在本文中，我们开发了一个1993年至2020年间标准普尔500强公司高层管理团队组成的新数据集。除了提供原始的姓名和职务头衔外，我们使用生成性人工智能（AI）将高管头衔归类为6个角色组和12个层级，允许更容易地比较不同公司及公司内部的结构。我们希望这个新数据集将激发对组织结构的更大学术兴趣，提供公司结构及其结构影响的洞见。",
+            "title_en": "Location choice in global patent litigation: Does the landscape matter?",
+            "title_zh": "全球专利诉讼地点选择：地理环境重要吗？",
+            "url": "https://doi.org/10.1002/smj.70037",
+            "abstract_en": "Abstract Research Summary Firms asserting their patents globally face a dilemma: a legal verdict is binding only in the country of litigation, and yet litigating country by country is prohibitively expensive. Thus, firms have to be strategic in deciding where to sue. In this paper, we argue that global patent litigation is not only about winning a case, but also about making a case, that is, leveraging litigation in one country to shape expectations on litigation outcomes elsewhere. Our analyses on patent litigation in 50 countries over 13 years show that firms tend to concentrate litigation in few countries when the relevant markets historically share similar litigation outcomes, so litigation in one country can effectively inform the litigants of future trajectories, reducing the need for repetitive litigation across countries. Managerial Summary While legal enforcement of intellectual property (IP) rights remains national, the battleground for IP has become increasingly global, especially for firms competing across countries. In this paper, we argue that the location choice for global patent litigation depends not only on country characteristics, such as market size and competition intensity, but also on the relationships across countries, that is, how similar or different the IP regimes are. When the relevant countries historically share similar litigation outcomes, firms can use litigation in one country to influence the expectations of litigants and potential infringers in other markets, which reduces the need for repetitive litigation. Thus, examining the global landscape of patent litigation as a whole can provide insight beyond the sum of IP strategies in individual countries.",
+            "abstract_zh": "摘要研究总结：在全球范围内主张其专利的公司面临一个困境：法律裁决仅在诉讼国家具有约束力，然而逐个国家进行诉讼的费用高得令人望而却步。因此，公司必须在决定在哪里提起诉讼时采取战略性考虑。在本文中，我们认为全球专利诉讼不仅仅是为了赢得案件，而是为了建立案例，即利用一个国家的诉讼来塑造对其他地方诉讼结果的预期。我们对50个国家13年的专利诉讼分析表明，当相关市场历史上共享类似的诉讼结果时，公司倾向于在少数几个国家集中诉讼，因此一个国家的诉讼可以有效告知诉讼当事人未来的趋势，减少在不同国家重复诉讼的需求。管理总结：尽管知识产权（IP）权利的法律执行仍然是国家性的，但知识产权的战场已经变得越来越全球化，特别是对于那些在不同国家竞争的公司。在本文中，我们认为全球专利诉讼的地点选择不仅取决于国家特征，如市场规模和竞争强度，还取决于国家之间的关系，即知识产权制度的相似性或差异性。当相关国家历史上共享类似的诉讼结果时，公司可以利用一个国家的诉讼来影响其他市场诉讼当事人和潜在侵权者的预期，这减少了重复诉讼的需求。因此，将全球专利诉讼的整体格局作为整体进行考察，可以提供超越个别国家知识产权策略总和的洞见。",
             "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Performance feedback and change in R&amp;D alliance portfolio breadth: The moderating role of economic conditions",
-            "title_zh": "绩效反馈与研发联盟组合宽度的变化：经济条件的调节作用",
-            "url": "https://doi.org/10.1002/smj.70030",
-            "abstract_en": "Abstract Research Summary We investigate how firm performance feedback and economic conditions (upturns and downturns) impact changes in the breadth of partner types within a firm's R&D alliance portfolio (R&D AP breadth). We theorize that economic conditions moderate firms' motivation to change R&D AP breadth in response to social and historical performance‐aspiration discrepancies, and shape whether they respond more strongly to social or historical aspirations. Using cross‐industry data on Swiss firms (1999–2020), we find that firms performing below social aspiration are more likely to expand R&D AP breadth during downturns but less likely to do so during upturns. Performance below historical aspiration shows no significant effect once economic conditions are considered. Managerial Summary We examine how firms adjust their range of business partners in response to past performance and economic conditions. Analyzing Swiss firms from 1999 to 2020, we find that firms strategically adjust the number of partnership types in response to economic climates. During tough economic times, firms tend to broaden their R&D partnership types when they fall short of peer performance benchmarks. They tend not to do so in prosperous periods under similar performance conditions. We found no consistent effects when performance is benchmarked against the firm's history. These insights help managers strategically navigate alliances under fluctuating economic conditions and underscore the importance of peer‐relative performance benchmarks.",
-            "abstract_zh": "摘要研究总结 我们研究了公司绩效反馈和经济状况（上升期和衰退期）如何影响公司研发联盟组合中合作伙伴类型的广度（研发AP广度）的变化。我们假设经济状况调节公司改变研发AP广度的动机，以响应社会和历史绩效-抱负差异，并塑造它们是否对社会或历史抱负做出更强烈的反应。利用瑞士公司（1999-2020年）的跨行业数据，我们发现绩效低于社会抱负的公司在经济衰退期更有可能扩大研发AP广度，但在经济上升期不太可能这样做。一旦考虑经济状况，低于历史抱负的绩效没有显著影响。管理总结 我们检查公司如何根据过去的绩效和经济状况调整其业务范围。分析1999年至2020年的瑞士公司，我们发现公司根据经济气候战略性地调整合作伙伴类型的数量。在经济困难时期，公司倾向于在未能达到同行绩效基准时扩大其研发合作伙伴类型。在类似的绩效条件下，它们在繁荣时期通常不会这样做。当绩效与公司历史进行基准比较时，我们没有发现一致的影响。这些见解帮助管理者在经济状况波动下战略性地导航联盟，并强调了相对同行绩效基准的重要性。",
-            "matched_topics": [
-              "国际贸易",
               "企业创新"
             ]
           },
           {
-            "title_en": "Launch support: Managing complementor bottlenecks in the disruptive innovation of small satellites",
-            "title_zh": "启动支持：管理小型卫星颠覆性创新中的互补者瓶颈",
-            "url": "https://doi.org/10.1002/smj.70021",
-            "abstract_en": "Abstract Research Summary Through both qualitative and quantitative analyses of large‐rocket providers' support for small‐satellite manufacturers before the emergence of small rockets, we examine how disruptors to an incumbent ecosystem gain support from complementors of the incumbent technology. Our analyses illuminate the incumbent complementors' adjustment costs arising from cospecialization with specific incumbent technology designs and resource dependency on major incumbent technology customers. These adjustment costs disincentivize incumbent complementors from supporting the disruptors. In addition, we demonstrate that strategies adopted by the disruptors, such as technological standardization and forward integration, help mitigate these adjustment costs and incentivize incumbent complementors to support the disruptive innovation. Managerial Summary Small satellites represent a disruptive innovation that significantly reduces the time and cost of satellite production and launch. Despite the large number of small satellites launched today, initially, they were viewed as “second‐class launch citizens,” with incumbent large‐rocket companies resisting launching them. This paper examines how small‐satellite manufacturers overcame this resistance before their dedicated small‐satellite ecosystem was established. We identify the adjustment costs that caused resistance from large‐rocket companies and examine two specific strategies implemented by disruptors—technological standardization and forward integration—to mitigate these costs and gain support from large‐rocket companies.",
-            "abstract_zh": "摘要研究总结：通过对小火箭出现之前大型火箭供应商对小型卫星制造商的支持进行定性和定量分析，我们研究了在位生态系统的颠覆者如何从在位技术的补充者那里获得支持。我们的分析揭示了在位补充者因与特定在位技术设计共同专业化和对主要在位技术客户的资源依赖而产生的调整成本。这些调整成本阻碍了在位补充者支持颠覆者。此外，我们展示了颠覆者采取的策略，如技术标准化和前向整合，有助于减轻这些调整成本，并激励在位补充者支持颠覆性创新。管理总结：小型卫星代表了一种颠覆性创新，显著降低了卫星生产和发射的时间和成本。尽管今天发射了大量小型卫星，但最初它们被视为“二等发射公民”，在位的大型火箭公司抵制发射它们。本文研究了小型卫星制造商在建立专用小型卫星生态系统之前如何克服这种抵制。我们识别了导致大型火箭公司抵制的调整成本，并检验了颠覆者实施的两种具体策略——技术标准化和前向整合——以减轻这些成本并获得大型火箭公司的支持。",
+            "title_en": "Firm growth and stagnation in the United States: Key trends and new data opportunities",
+            "title_zh": "美国企业增长与停滞：关键趋势与新数据机遇",
+            "url": "https://doi.org/10.1002/smj.70035",
+            "abstract_en": "Abstract Research Summary Using administrative data from the US Census Bureau, we introduce a new public‐use dataset (“Business Dynamics Statistics—High Growth” [BDS‐HG]) that captures the full distribution of firm growth in the United States between 1978 and 2021. BDS‐HG enables researchers to analyze not only high‐growth firms but also stagnant and shrinking firms, disaggregated by firm maturity, size, industry, region, and year. We begin by documenting two key trends: (1) a significant decline in the share of high‐growth firms—especially among young and small firms and (2) a marked rise in stagnant firms. To help illustrate the dataset's usefulness, we provide three empirical applications and highlight research opportunities across major areas of strategic management. In addition to supporting new analyses, BDS‐HG can be used to benchmark research samples and assess their generalizability. Managerial Summary The US economy has seen two major shifts in firm growth dynamics: a steady decline in the share of high‐growth firms—especially among startups—and a notable rise in firms that exhibit no growth. We document these patterns using BDS‐HG, a new public‐use dataset from the US Census Bureau that tracks employment growth across all US employer businesses from 1978 to 2021. The data are disaggregated by firm age, size, industry, geography, and year, enabling users to examine growth trends across sectors and regions. BDS‐HG offers a valuable resource for researchers, policymakers, and analysts seeking to understand long‐term business dynamism. It can also be used to benchmark research samples against national patterns, helping users assess how representative their data or findings are.",
+            "abstract_zh": "摘要研究总结：利用美国人口普查局的行政数据，我们引入了一个新的公共使用数据集（“商业动态统计—高增长”[BDS-HG]），该数据集捕捉了1978年至2021年间美国企业增长的完整分布。BDS-HG使研究人员能够分析不仅是高增长企业，还有停滞和萎缩企业，按企业成熟度、规模、行业、地区和年份进行细分。我们首先记录了两个关键趋势：（1）高增长企业的份额显著下降，特别是在年轻和小型企业中；（2）停滞企业的显著增加。为了帮助说明数据集的用途，我们提供了三个实证应用，并强调了战略管理主要领域的研究机会。除了支持新的分析，BDS-HG还可以用来对研究样本进行基准测试，并评估其普遍性。管理总结：美国经济在企业增长动态方面经历了两个主要变化：高增长企业的份额持续下降，特别是在初创企业中，以及没有增长的企业显著增加。我们使用BDS-HG记录了这些模式，这是美国人口普查局的一个新公共使用数据集，追踪了1978年至2021年所有美国雇主企业的就业增长。数据按企业年龄、规模、行业、地理和年份进行细分，使用户能够检查各行业和地区的增长趋势。BDS-HG为寻求理解长期商业活力的研究人员、政策制定者和分析师提供了宝贵的资源。它还可以用来将研究样本与全国模式进行基准测试，帮助用户评估他们的数据或发现的代表性。",
             "matched_topics": [
-              "企业创新",
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Pollution havens versus gates of hell: Environmental pollution and multinationals' foreign investment",
+            "title_zh": "污染避难所与地狱之门：环境污染与跨国公司的对外投资",
+            "url": "https://doi.org/10.1002/smj.70039",
+            "abstract_en": "Abstract Research Summary This study investigates an under‐explored cost of operating in pollution havens: the pollution‐induced operational cost , or the increased labor costs and material supply constraints resulting from host countries' environmental pollution. Environmental degradation can thus turn “pollution havens,” where lax compliance beckons institutional arbitrage and attracts investments from foreign firms, into “gates of hell,” where ecological damage heightens the costs for business operations and discourages foreign investments. We find evidence in a panel of US multinational corporations from 2007 to 2020. A firm's investment in a host country is decreasing in the host country's environmental pollution, especially if the firm faces heightened constraints in finding alternative labor inputs and material supplies or is highly dependent on these resources. Managerial Summary Our findings offer practical insights for multinational corporate managers and policymakers. First, managers need to evaluate the opportunity of arbitrage against the cost of operation associated with environmental pollution, especially considering their firm's labor and material supply constraints. Second, policymakers should consider the price of relaxing environmental regulations to attract foreign investments. While weak environmental policies may spur investment from arbitraging firms into a (developing) country, unregulated destruction of the natural environment will inflict inevitable operational costs to destroy broader business opportunities, as the crucial resources (e.g., labor inputs and material supplies) become degraded by pollution.",
+            "abstract_zh": "摘要研究总结 本研究探讨了在污染避难所运营的一个未充分探讨的成本：污染引起的运营成本，即东道国环境污染导致的劳动力成本增加和物资供应限制。环境退化因此可能将“污染避难所”——在这些地方，宽松的合规吸引制度套利并吸引外国公司投资——变成“地狱之门”，在这些地方，生态破坏增加了商业运营的成本并抑制了外国投资。我们在2007年至2020年的美国跨国公司面板数据中发现了证据。一家公司在东道国的投资随着东道国环境污染的增加而减少，特别是如果该公司在寻找替代劳动力投入和物资供应方面面临更高的限制，或者高度依赖这些资源。管理总结 我们的发现为跨国公司经理和政策制定者提供了实际的洞见。首先，经理需要评估套利机会与环境污染相关的运营成本，特别是考虑到他们公司的劳动力和物资供应限制。其次，政策制定者应该考虑放松环境法规以吸引外国投资的代价。虽然薄弱的环境政策可能会刺激套利公司投资进入一个（发展中）国家，但对自然环境的无监管破坏将不可避免地增加运营成本，破坏更广泛的商业机会，因为关键资源（例如，劳动力投入和物资供应）因污染而退化。",
+            "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Founders' pre‐entry knowledge and the heterogeneous returns to accelerator participation",
-            "title_zh": "创始人的先前知识与加速器参与的异质性回报",
-            "url": "https://doi.org/10.1002/smj.70032",
-            "abstract_en": "Abstract Research Summary While startup accelerators often benefit founders and their ventures, these gains may not be uniform. We examine how founders' pre‐entry knowledge—the cumulative education, industry experience, and entrepreneurial exposure that teams acquire prior to launching their startups—shapes the heterogeneous returns to accelerator participation. We propose two potential mechanisms driving these returns: knowledge compensation , whereby accelerators fill gaps in basic knowledge and competencies, and knowledge complementarity , whereby accelerators amplify the absorption and deployment of expert knowledge. Using data from 6723 startups and their founding teams, we find evidence in support of the complementarity mechanism. Our findings also suggest that the returns to accelerator participation are contingent on the alignment between founders' pre‐entry knowledge and program design. Managerial Summary While startup accelerators aim to level the entrepreneurial playing field, we find that founders with substantial pre‐entry knowledge and experience tend to gain more from participation in these programs than novice entrepreneurs, potentially widening startup performance gaps. Program design also appears to play a key role. While specialized and unstructured programs offer value for seasoned entrepreneurs by building complementary knowledge, structured and generalist programs offer some, albeit limited, opportunities for less‐experienced teams to build foundational skills. These findings underscore the need for tailored programming that aligns with participants' learning needs. For program designers and policymakers, these findings suggest investing in diverse formats to support varied founder profiles. For entrepreneurs, they highlight the importance of selecting programs that complement and build upon their team's prior knowledge.",
-            "abstract_zh": "摘要研究总结 尽管创业加速器通常对创始人及其企业有益，但这些收益可能并不均匀。我们研究了创始人的先前知识——团队在启动创业之前获得的累积教育、行业经验和创业曝光——如何塑造对加速器参与的异质性回报。我们提出了两个潜在的机制来推动这些回报：知识补偿，即加速器填补基本知识和能力的差距；知识互补性，即加速器增强专业知识的吸收和部署。利用来自6723家初创公司及其创始团队的数据，我们发现证据支持互补性机制。我们的研究还表明，加速器参与的回报取决于创始人的先前知识与项目设计的一致性。管理总结 尽管创业加速器旨在平衡创业竞争环境，我们发现具有大量先前知识和经验的创始人往往比新手创业者从这些项目的参与中获得更多收益，可能会扩大初创公司绩效差距。项目设计似乎也发挥着关键作用。虽然专业化和非结构化项目通过构建互补知识为经验丰富的企业家提供价值，但结构化和通用项目为经验较少的团队提供了一些（尽管有限）的机会来构建基础技能。这些发现强调了需要与参与者的学习需求一致的定制化编程。对于项目设计者和政策制定者来说，这些发现表明投资于多样化的格式以支持不同的创始人档案。对于企业家来说，它们强调了选择补充和建立在团队先前知识基础上的项目的重要性。",
+            "title_en": "Bottom‐up effects of female strategic leadership: Firm performance effects through employees",
+            "title_zh": "女性战略领导的自下而上效应：通过员工对公司绩效的影响",
+            "url": "https://doi.org/10.1002/smj.70038",
+            "abstract_en": "Abstract Research Summary Scholars have found that female representation in strategic leadership is often positively associated with firm performance, though the underlying mechanisms remain unclear. Prior explanations emphasize top‐down effects, considering how female leaders shape strategic decision‐making or influence legitimacy. We propose a complementary, bottom‐up view: female top managers foster employee participation, which is positively associated with firm performance. Using a unique panel dataset from South Korea, we find that female representation in top management is linked to higher employee participation, which mediates its relationship with firm performance. The benefits of employee participation are especially pronounced in firms with innovation‐oriented or labor‐intensive strategies. By integrating micro‐level employee behaviors with macro‐level firm outcomes, our study shows how female strategic leaders contribute to firm performance through a top‐enabled, bottom‐up process. Managerial Summary Why do firms with more women in top management perform better? Our study suggests that one important pathway lies in how female executives may foster employee participation. Drawing on a unique panel dataset from South Korea, we find that organizations with more women in top management tend to have higher levels of employee participation in decision‐making, and that such participation is associated with stronger performance outcomes. This effect is especially evident in firms that depend on innovation or human capital, where employee input and commitment are particularly valuable. By highlighting how female strategic leaders help create conditions that elevate employee voice, our findings reveal a bottom‐up process through which strategic leadership diversity may support improved organizational performance.",
+            "abstract_zh": "摘要研究总结 学者们发现，女性在战略领导层的代表性通常与公司绩效正相关，尽管其背后的机制尚不清楚。先前的解释强调自上而下的影响，考虑女性领导者如何塑造战略决策或影响合法性。我们提出了一个补充性的自下而上的视角：女性高层管理者促进员工参与，这与公司绩效正相关。利用韩国独特的面板数据集，我们发现高层管理中女性代表性与员工参与度更高有关，这种参与度在公司绩效关系中起到了中介作用。在以创新为导向或劳动密集型的公司中，员工参与的好处尤为明显。通过将微观层面的员工行为与宏观层面的公司结果相结合，我们的研究表明，女性战略领导者通过自上而下、自下而上的过程促进公司绩效。管理总结 为什么高层管理中女性更多的公司表现更好？我们的研究表明，一个重要的途径可能在于女性高管如何促进员工参与。基于韩国独特的面板数据集，我们发现高层管理中女性更多的组织往往在决策中拥有更高水平的员工参与度，这种参与度与更强的绩效结果相关。在依赖创新或人力资本的公司中，这种效应尤为明显，员工的投入和承诺特别有价值。通过强调女性战略领导者如何帮助创造提升员工声音的条件，我们的发现揭示了战略领导多样性可能支持提高组织绩效的自下而上的过程。",
             "matched_topics": [
               "国际贸易",
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The use of <scp>LLMs</scp> to annotate data in management research: Foundational guidelines and warnings",
-            "title_zh": "标题：在管理研究中使用大型语言模型标注数据：基础指南与警示",
-            "url": "https://doi.org/10.1002/smj.70023",
-            "abstract_en": "Abstract Research Summary The emergence of large language models (LLMs) offers new opportunities for AI integration in research, particularly for data annotation and text classification. However, researchers lack guidance on implementation best practices, as the benefits and risks of these tools remain poorly understood. We develop a foundational framework for effective LLM implementation in management research, providing structured guidance on key decisions throughout the research process. We illustrate this framework through an empirical application: classifying sustainability claims in crowdfunding projects. While LLMs can match or exceed traditional methods' performance at lower cost, we find that variations in prompt design can significantly affect results and downstream analyses. We develop procedures for sensitivity analysis and provide detailed documentation to help researchers implement robustness while maintaining methodological integrity. Managerial Summary Large language models (LLMs) offer powerful new tools for business research, especially for analyzing and categorizing text data. However, managers and researchers lack clear guidance on how to use these tools effectively and reliably. This study creates a practical framework for implementing LLMs in management research, covering key decisions from model selection to result validation. Using a real‐world example of analyzing sustainability claims in crowdfunding campaigns, we demonstrate that LLMs can match traditional methods while being faster and cheaper. However, small changes in how you instruct the AI can significantly alter results and business conclusions. We provide systematic procedures for testing result reliability and offer practical tools to help managers implement AI‐powered analysis while maintaining rigorous standards and avoiding misleading findings.",
-            "abstract_zh": "摘要研究总结：大型语言模型（LLMs）的出现为人工智能在研究中的整合提供了新的机会，特别是在数据标注和文本分类方面。然而，研究人员缺乏关于实施最佳实践的指导，因为这些工具的好处和风险仍然不为人所充分理解。我们为管理研究中有效的LLM实施开发了一个基础框架，提供了研究过程中关键决策的结构化指导。我们通过一个实证应用来说明这个框架：对众筹项目中的可持续性声明进行分类。虽然LLMs可以在较低成本下匹配或超越传统方法的性能，但我们发现提示设计的变化可以显著影响结果和下游分析。我们开发了敏感性分析的程序，并提供了详细文档，以帮助研究人员在保持方法论完整性的同时实现稳健性。管理总结：大型语言模型（LLMs）为商业研究提供了强大的新工具，特别是用于分析和分类文本数据。然而，管理者和研究人员缺乏如何有效可靠地使用这些工具的明确指导。本研究创建了一个实用的框架，用于在管理研究中实施LLMs，涵盖了从模型选择到结果验证的关键决策。利用分析众筹活动中的可持续性声明这一现实世界的例子，我们展示了LLMs可以匹配传统方法，同时更快、更便宜。然而，对AI的指令方式的微小变化可以显著改变结果和商业结论。我们提供了测试结果可靠性的系统程序，并提供了实用工具，以帮助管理者在保持严格标准和避免误导性发现的同时，实施人工智能驱动的分析。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "<scp>TRIPS</scp> and knowledge diffusion from low‐ and middle‐income countries",
-            "title_zh": "《与贸易有关的知识产权协定》与中低收入国家的知识传播",
-            "url": "https://doi.org/10.1002/smj.70026",
-            "abstract_en": "Abstract Research Summary We examine a significant yet underappreciated effect of IPR implementation: the dissemination after TRIPS implementation of established scientific knowledge from low‐ and middle‐income countries (LMICs) into the global scientific system of pharmaceutical development. The staggered implementation of the policy allows identification of increased diffusion of pre‐existing LMIC knowledge on global diseases into the global corporate invention pipeline. For neglected diseases, the uptake remains in academic science. Other results demonstrate institutional effects in the scientific communities in LMICs through increases in scientific productivity, cross‐border collaborations, and scientist mobility. These and other results recast TRIPS’ impact as sensitive to the incentives of global corporations and institutionally significant for LMICs. We discuss implications for research on innovation strategy. Managerial Summary The implementation in an LMIC of an intellectual‐property system (e.g., of patents) carries implications for dissemination of pre‐existing scientific knowledge from the implementing country into the global scientific system. Corporate invention more intensively incorporates pre‐existing LMIC knowledge when the subject is global diseases such as cardiovascular conditions and cancer. However, when the subject is neglected diseases such as infectious conditions, the significant uptake remains in academic science. Overall, this research suggests that the implementation of patent and other intellectual‐property protections influences the integration of LMIC science into the global system differentially based on the relevance for global commercialization.",
-            "abstract_zh": "摘要研究总结 我们检验了知识产权实施的一个重大但被低估的影响：在《与贸易有关的知识产权协定》（TRIPS）实施后，来自低收入和中等收入国家（LMICs）的既定科学知识在全球药品开发科学体系中的传播。政策的分阶段实施使我们能够识别出全球企业发明管道中对全球疾病相关的LMICs既有知识的增加扩散。对于被忽视的疾病，吸收仍然在学术科学中。其他结果表明，通过增加科学生产力、跨境合作和科学家流动性，LMICs的科学界出现了制度效应。这些以及其他结果将TRIPS的影响重新塑造为对全球公司的激励敏感，对LMICs具有制度重要性。我们讨论了对创新战略研究的影响。管理总结 在LMICs实施知识产权体系（例如，专利）对从实施国家传播既有科学知识进入全球科学体系具有影响。当主题是全球疾病，如心血管疾病和癌症时，企业发明更密集地整合了LMICs既有的知识。然而，当主题是被忽视的疾病，如传染病时，重大的吸收仍然在学术科学中。总体而言，这项研究表明，专利和其他知识产权保护的实施根据对全球商业化的关联性，不同程度地影响LMICs科学融入全球体系。",
-            "matched_topics": [
-              "企业创新",
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "Beyond the front page: In‐text citations to patents as traces of inventor knowledge",
-            "title_zh": "超越首页：作为发明者知识痕迹的文中专利引用",
-            "url": "https://doi.org/10.1002/smj.70027",
-            "abstract_en": "Abstract Research Summary This study introduces in‐text patent‐to‐patent citations—references embedded in the body of patent documents—as a novel data source to trace knowledge flows. Unlike front‐page citations, which often reflect legal requirements, in‐text citations are more likely to originate from inventors and signal meaningful technological linkages. We show that they exhibit stronger geographic and semantic proximity, greater self‐referentiality, and closer alignment with inventor knowledge. Though less frequent than front‐page citations, they yield robust results in models of knowledge diffusion. We release a validated dataset and reproducible code to support future research. Our findings offer new opportunities for scholars interested in the microfoundations of innovation, the geography of knowledge flows, and the role of inventors in shaping firms' knowledge trajectories. Managerial Summary This study introduces in‐text patent citations—references embedded in the technical description of patent documents—as a new way to trace how knowledge flows among inventors and firms. Unlike traditional front‐page citations, which often reflect legal formalities or examiner input, in‐text citations originate more directly from inventors and thus capture genuine technological linkages. Using large‐scale U.S. patent data, we show that in‐text citations connect geographically and thematically closer inventions and are more likely to involve the same firms or inventors. The dataset, released as open data, enables more accurate analyses of innovation dynamics and firm knowledge strategies. Managers can use these insights to better understand how ideas diffuse and where valuable inventive knowledge resides.",
-            "abstract_zh": "摘要研究总结 本研究引入了专利文件正文中的专利引用——嵌入在专利文件正文中的引用——作为一种新的数据来源，用以追踪知识流动。与通常反映法律要求的首页引用不同，正文引用更有可能源自发明者，表明有意义的技术联系。我们展示出它们表现出更强的地理和语义接近性、更大的自引用性，以及与发明者知识的更紧密对齐。尽管正文引用不如首页引用频繁，但它们在知识扩散模型中产生了稳健的结果。我们发布了一个经过验证的数据集和可复现的代码，以支持未来的研究。我们的发现为对创新的微观基础、知识流动的地理学以及发明者在塑造企业知识轨迹中的作用感兴趣的学者提供了新的机会。管理总结 本研究引入了专利文件技术描述中的专利引用——嵌入在专利文件技术描述中的引用——作为追踪发明者和企业间知识流动的新方式。与传统的首页引用不同，后者通常反映法律形式或审查员输入，正文引用更直接地源自发明者，因此捕捉到真正的技术联系。利用大规模的美国专利数据，我们展示出正文引用连接了地理和主题上更接近的发明，并且更有可能涉及相同的企业或发明者。作为开放数据发布的数据集，使得对创新动态和企业知识策略的分析更加准确。管理者可以利用这些洞见，更好地理解思想如何传播以及宝贵的发明知识位于何处。",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
+              "企业创新"
             ]
           }
         ],
@@ -1280,14 +1307,13 @@
             ]
           },
           {
-            "title_en": "Market Design Choices, Racial Discrimination, and Equitable Microentrepreneurship in Digital Marketplaces",
-            "title_zh": "市场设计选择、种族歧视与数字市场中的公平微型创业",
-            "url": "https://doi.org/10.1287/mnsc.2023.01717",
-            "abstract_en": "This study investigates the potential of market design choices, specifically quality certification, to mitigate racial discrimination in digital marketplaces. Using a regression discontinuity design (RDD) that exploits the discontinuity in Airbnb’s Superhost assignment, we find that Black hosts benefit 1.5 times more from the quality certification than other hosts. Moreover, we find compelling evidence that this disproportionate increase does not come at the expense of non-Superhost Black hosts. This suggests that quality certification can effectively reduce discrimination and promote equitable outcomes. Further, our analysis utilizing a doubly robust machine learning approach reveals that the effectiveness of quality certification persists even in the prominent presence of consumer reviews, a widely used market feature and a credible user-generated quality signal. Our research underscores the judicious use of market design in fostering equity for minority entrepreneurs in digital marketplaces. This paper was accepted by Hemant Bhargava, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01717 .",
-            "abstract_zh": "本研究探讨了市场设计选择，特别是质量认证，对减轻数字市场中种族歧视的潜力。利用回归不连续设计（RDD），我们利用Airbnb超级房东分配中的不连续性，发现黑人房东从质量认证中获益比其他房东多1.5倍。此外，我们发现有力证据表明，这种不成比例的增加并没有以牺牲非超级房东黑人房东为代价。这表明质量认证可以有效减少歧视，促进公平结果。进一步地，我们利用双重稳健的机器学习方法进行的分析揭示，即使在消费者评论这一广泛使用且可信的用户生成质量信号的显著存在下，质量认证的有效性仍然持续存在。我们的研究强调了在数字市场中促进少数族裔企业家公平的审慎市场设计使用。本文由Hemant Bhargava，信息系统接受。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.01717 查阅。",
+            "title_en": "A Method for Asynchronous Time Series Analysis with Marketing Applications",
+            "title_zh": "一种具有营销应用的异步时间序列分析方法",
+            "url": "https://doi.org/10.1287/mnsc.2024.04336",
+            "abstract_en": "Many time series data evolve asynchronously. In marketing, for example, we observe ad liking every second, hourly clickstreams, daily sales, weekly brand awareness, or monthly ad expenditures. Thus, the question arises: how to estimate dynamic models when metrics evolve at different frequencies? To this end, we develop a new method for estimation and inference of state space models for asynchronous data. In contrast to existing approaches, the proposed method does not require any data preprocessing to align frequencies. We derive the optimal gain factor from first principles and demonstrate in three simulation studies that the new method recovers model parameters as accurately as the full-information Kalman filter as if all data were available. This finding holds across various degrees of noise levels and data sparsity. More importantly, we show that ignoring data asynchronicity results in substantially biased parameter estimates. Empirically, we illustrate the efficacy of the new method via two applications: copy testing of an advertisement and a marketing mix model, both with asynchronous data. It yields meaningful results compared with those obtained by aligning asynchronous data to the slowest frequency (i.e., data aggregation). In the marketing mix application, for example, data aggregation produces erroneously insignificant estimates of sales carryover and TV effectiveness, and these become significant when we apply the new method. These biased estimates can have serious managerial consequences. Thus, the proposed method paves the way to analyze asynchronous time series data: slow- or fast-moving dependent variables, slow- or fast-moving independent variables, and all of them at equal or unequal frequencies. This paper was accepted by Eric Anderson, marketing. Funding: This work was supported by the Marketing Science Institute [Grant 4-1959]. P. A. Naik acknowledges the financial support received from the University of California Davis travel and small research grants program across 2015–2024. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04336 .",
+            "abstract_zh": "许多时间序列数据以异步方式演变。例如，在市场营销中，我们观察到每秒的广告点赞、每小时的点击流、每日销售、每周品牌意识或每月广告支出。因此，问题出现了：当指标以不同频率演变时，如何估计动态模型？为此，我们开发了一种新的方法，用于估计和推断异步数据的状态空间模型。与现有方法不同，所提出的方法不需要任何数据预处理来对齐频率。我们从基本原理出发推导出最优增益因子，并在三项模拟研究中证明，新方法恢复模型参数的准确性与全信息卡尔曼滤波器一样，就好像所有数据都可用一样。这一发现适用于各种噪声水平和数据稀疏度。更重要的是，我们展示了忽略数据异步性会导致参数估计的显著偏差。从实证上，我们通过两个应用来说明新方法的有效性：广告副本测试和市场营销组合模型，两者都包含异步数据。与将异步数据对齐到最慢频率（即数据聚合）所获得的结果相比，它产生了有意义的结果。例如，在市场营销组合应用中，数据聚合产生了销售延续和电视效果的错误不显著估计，而当我们应用新方法时，这些变得显著。这些有偏估计可能会产生严重的管理后果。因此，所提出的方法为分析异步时间序列数据铺平了道路：慢速或快速移动的因变量、慢速或快速移动的自变量，以及它们以相等或不相等的频率出现。本文由埃里克·安德森接受，市场营销。资金：这项工作得到了市场营销科学研究所[Grant 4-1959]的支持。P.A. Naik感谢加州大学戴维斯分校在2015-2024年期间提供的旅行和小额研究资助计划的财政支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2024.04336找到。",
             "matched_topics": [
-              "企业创新",
-              "创新药"
+              "国际贸易"
             ]
           },
           {
@@ -1301,13 +1327,14 @@
             ]
           },
           {
-            "title_en": "A Method for Asynchronous Time Series Analysis with Marketing Applications",
-            "title_zh": "一种具有营销应用的异步时间序列分析方法",
-            "url": "https://doi.org/10.1287/mnsc.2024.04336",
-            "abstract_en": "Many time series data evolve asynchronously. In marketing, for example, we observe ad liking every second, hourly clickstreams, daily sales, weekly brand awareness, or monthly ad expenditures. Thus, the question arises: how to estimate dynamic models when metrics evolve at different frequencies? To this end, we develop a new method for estimation and inference of state space models for asynchronous data. In contrast to existing approaches, the proposed method does not require any data preprocessing to align frequencies. We derive the optimal gain factor from first principles and demonstrate in three simulation studies that the new method recovers model parameters as accurately as the full-information Kalman filter as if all data were available. This finding holds across various degrees of noise levels and data sparsity. More importantly, we show that ignoring data asynchronicity results in substantially biased parameter estimates. Empirically, we illustrate the efficacy of the new method via two applications: copy testing of an advertisement and a marketing mix model, both with asynchronous data. It yields meaningful results compared with those obtained by aligning asynchronous data to the slowest frequency (i.e., data aggregation). In the marketing mix application, for example, data aggregation produces erroneously insignificant estimates of sales carryover and TV effectiveness, and these become significant when we apply the new method. These biased estimates can have serious managerial consequences. Thus, the proposed method paves the way to analyze asynchronous time series data: slow- or fast-moving dependent variables, slow- or fast-moving independent variables, and all of them at equal or unequal frequencies. This paper was accepted by Eric Anderson, marketing. Funding: This work was supported by the Marketing Science Institute [Grant 4-1959]. P. A. Naik acknowledges the financial support received from the University of California Davis travel and small research grants program across 2015–2024. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04336 .",
-            "abstract_zh": "许多时间序列数据以异步方式演变。例如，在市场营销中，我们观察到每秒的广告点赞、每小时的点击流、每日销售、每周品牌意识或每月广告支出。因此，问题出现了：当指标以不同频率演变时，如何估计动态模型？为此，我们开发了一种新的方法，用于估计和推断异步数据的状态空间模型。与现有方法不同，所提出的方法不需要任何数据预处理来对齐频率。我们从基本原理出发推导出最优增益因子，并在三项模拟研究中证明，新方法恢复模型参数的准确性与全信息卡尔曼滤波器一样，就好像所有数据都可用一样。这一发现适用于各种噪声水平和数据稀疏度。更重要的是，我们展示了忽略数据异步性会导致参数估计的显著偏差。从实证上，我们通过两个应用来说明新方法的有效性：广告副本测试和市场营销组合模型，两者都包含异步数据。与将异步数据对齐到最慢频率（即数据聚合）所获得的结果相比，它产生了有意义的结果。例如，在市场营销组合应用中，数据聚合产生了销售延续和电视效果的错误不显著估计，而当我们应用新方法时，这些变得显著。这些有偏估计可能会产生严重的管理后果。因此，所提出的方法为分析异步时间序列数据铺平了道路：慢速或快速移动的因变量、慢速或快速移动的自变量，以及它们以相等或不相等的频率出现。本文由埃里克·安德森接受，市场营销。资金：这项工作得到了市场营销科学研究所[Grant 4-1959]的支持。P.A. Naik感谢加州大学戴维斯分校在2015-2024年期间提供的旅行和小额研究资助计划的财政支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2024.04336找到。",
+            "title_en": "Market Design Choices, Racial Discrimination, and Equitable Microentrepreneurship in Digital Marketplaces",
+            "title_zh": "市场设计选择、种族歧视与数字市场中的公平微型创业",
+            "url": "https://doi.org/10.1287/mnsc.2023.01717",
+            "abstract_en": "This study investigates the potential of market design choices, specifically quality certification, to mitigate racial discrimination in digital marketplaces. Using a regression discontinuity design (RDD) that exploits the discontinuity in Airbnb’s Superhost assignment, we find that Black hosts benefit 1.5 times more from the quality certification than other hosts. Moreover, we find compelling evidence that this disproportionate increase does not come at the expense of non-Superhost Black hosts. This suggests that quality certification can effectively reduce discrimination and promote equitable outcomes. Further, our analysis utilizing a doubly robust machine learning approach reveals that the effectiveness of quality certification persists even in the prominent presence of consumer reviews, a widely used market feature and a credible user-generated quality signal. Our research underscores the judicious use of market design in fostering equity for minority entrepreneurs in digital marketplaces. This paper was accepted by Hemant Bhargava, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01717 .",
+            "abstract_zh": "本研究探讨了市场设计选择，特别是质量认证，对减轻数字市场中种族歧视的潜力。利用回归不连续设计（RDD），我们利用Airbnb超级房东分配中的不连续性，发现黑人房东从质量认证中获益比其他房东多1.5倍。此外，我们发现有力证据表明，这种不成比例的增加并没有以牺牲非超级房东黑人房东为代价。这表明质量认证可以有效减少歧视，促进公平结果。进一步地，我们利用双重稳健的机器学习方法进行的分析揭示，即使在消费者评论这一广泛使用且可信的用户生成质量信号的显著存在下，质量认证的有效性仍然持续存在。我们的研究强调了在数字市场中促进少数族裔企业家公平的审慎市场设计使用。本文由Hemant Bhargava，信息系统接受。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.01717 查阅。",
             "matched_topics": [
-              "国际贸易"
+              "企业创新",
+              "创新药"
             ]
           },
           {
@@ -1370,63 +1397,11 @@
         "query_name": "Journal of Business Venturing",
         "issn": "0883-9026",
         "resolved_name": "Journal of Business Venturing",
-        "issue_title": "Volume 41, Issue 3",
+        "issue_title": "Volume 41, Issue 4",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
-        "matched_count": 5,
-        "total_in_issue": 14,
-        "papers": [
-          {
-            "title_en": "Permission to play: Trying on entrepreneurship in times of crisis",
-            "title_zh": "许可去尝试：危机时期试水创业",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106583",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Scale, scope, speed, and customization (pick two): Resourcing drives trade-offs in local compassion venturing effectiveness",
-            "title_zh": "规模、范围、速度和定制化（任选两项）：资源配置推动地方同情创业效能的权衡",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106580",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Emancipatory entrepreneurship by a stigmatized social group",
-            "title_zh": "解放性创业：被污名化社会群体的创业实践",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106578",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "The power of consumer solidarity framing in scaling up social impact",
-            "title_zh": "消费者团结框架在扩大社会影响力中的力量",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106579",
-            "abstract_en": "We study how a French social venture helped scale up social impact by selling fair-priced milk. Besides market success, the venture became a symbol of fair pricing for farmers, influencing public discourse and inspiring new laws. We develop a process model where energized consumer solidarity framing serves as a catalyst for mobilizing ecosystem actors, leading to the widespread adoption of the venture's solution to an economic and social crisis. This distributed process of scaling up social impact unfolds outside the venture's direct control, relying on community enactment as well as engagement and energizing from the media, incumbent retailers and competitors, as well as politicians. We contribute to research on scaling up social impact by explaining how and why entrepreneurial framing can mobilize diverse ecosystem actors. We also advance entrepreneurial framing research by offering a social-emotional explanation of how framing can enable change. • French co-op helping farmers scaled up social impact with limited resources • Social entrepreneur used energized consumer solidarity framing to engage ecosystem actors • Diagnostic, prognostic, and motivational frames mobilized ecosystem actors • Continuous energizing between the entrepreneur and ecosystem actors enabled scaling up • Positive and negative emotions can be regulated in entrepreneurial framing",
-            "abstract_zh": "我们研究了一个法国社会企业如何通过销售价格公道的牛奶来扩大其社会影响力。除了市场成功外，该企业还成为了农民公平定价的象征，影响了公共话语并激发了新法律的产生。我们开发了一个过程模型，其中充满活力的消费者团结框架作为催化剂，动员生态系统参与者，导致企业解决方案在经济和社会危机中的广泛采用。这种扩大社会影响的分布式过程在企业直接控制之外展开，依赖于社区的实施以及媒体、现有零售商和竞争对手以及政治家的参与和激励。我们通过解释创业框架如何动员多样化的生态系统参与者，以及为什么能够这样做，为扩大社会影响的研究做出了贡献。我们还通过提供框架如何使变革成为可能的社会情感解释，推进了创业框架研究。• 法国合作社帮助农民用有限的资源扩大了社会影响• 社会企业家使用充满活力的消费者团结框架来吸引生态系统参与者• 诊断性、预测性和激励性框架动员了生态系统参与者• 企业家和生态系统参与者之间的持续激励使扩大成为可能• 创业框架中可以调节积极和消极情绪",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Rewards-based crowdfunding as an institutional carrier: The cross-border backing of environmental projects",
-            "title_zh": "基于回报的众筹作为制度载体：环境项目的跨境支持",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106586",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际经济",
-              "创新药"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 2,
+        "papers": [],
         "error": null
       },
       {
@@ -1437,14 +1412,46 @@
         "issue_title": "Published 2026-05",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
         "matched_count": 12,
-        "total_in_issue": 17,
+        "total_in_issue": 12,
         "papers": [
+          {
+            "title_en": "May I have your attention - Designers’ issue selling processes in design integration",
+            "title_zh": "设计师注意了——设计整合中的问题销售流程",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103534",
+            "abstract_en": "The benefits of design for innovation and organizations are becoming well-documented. However, integrating design in technology-driven companies remains challenging. While past research has focused on how design can be organized and supported on an organizational level, we adopt an attention-based view to design integration to explore the actor-level issue selling actions through which design is sought to be integrated into the daily operational decision-making and repertoire of technology organizations. Examining the issue selling strategies of the design workforce at a large, international technology company, we identify three interconnected genres of issue-selling process strategies – seeding, involving, and funneling. The study shows how these process strategy genres are applied in parallel and sequences, distributed across actors and time in seeking to gain and sustain attention to design across the company. As such, the results contribute to understanding collective pathways to integrating new approaches like design into dispersed organizational decision-making in technology organizations. • Designers initiate and sustain attention to design through issue selling. • They use three different, interconnected issue selling strategy process genres. • Seeding, involving and funneling strategies are combined to broaden attention. • Collective efforts through multiple pathways contribute to design integration.",
+            "abstract_zh": "设计对创新和组织的好处正日益得到充分记录。然而，在技术驱动的公司中整合设计仍然具有挑战性。虽然过去的研究集中在设计如何在组织层面被组织和支持，我们采用基于注意力的设计整合视角来探索行动者层面的问题销售行为，通过这些行为设计被寻求整合到技术组织的日常工作运营决策和曲目中。通过检查一家大型国际技术公司设计人员的问题销售策略，我们识别出三个相互关联的问题销售过程策略类型——播种、涉及和引导。研究表明，这些过程策略类型是如何并行和顺序应用，分布在行动者和时间上，以寻求在公司内获得和维持对设计的注意力。因此，结果有助于理解集体路径，将新方法如设计整合到技术组织的分散组织决策中。• 设计师通过问题销售启动和维持对设计的注意力。• 他们使用三种不同的、相互关联的问题销售策略过程类型。• 结合播种、涉及和引导策略以扩大注意力。• 通过多条路径的集体努力有助于设计整合。",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "The impact investment relationship builder: A new artifact to improve market coordination in social innovation",
+            "title_zh": "社会创新中市场协调的新型工具：影响力投资关系构建者",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103543",
+            "abstract_en": "Social ventures hold great promise for addressing complex societal and environmental challenges, with impact investors reportedly willing to back them with over US$1.571 trillion in assets to scale social innovation. Yet, despite this growth, many social ventures struggle to translate ambitious impact commitments into sustained investment relationships, risking the collapse of an already fragile bridge between social innovators and impact-oriented capital. This challenge reflects a deeper coordination problem in impact investing, where ventures and investors operate with different evaluative logics, evidentiary expectations, and temporal horizons. Drawing on a design science approach, this paper develops and tests the impact investment relationship builder , a relational coordination artifact designed to support alignment between social ventures and impact investors over time. The artifact structures interaction across three interdependent domains - impact, accountability, and revenue - and guides actors through staged episodes of relational alignment. Rather than treating investability as a fixed threshold or screening outcome, the artifact frames investment allocation as a generative, relational process through which expectations, evidence, and trust are progressively constructed and reassessed. The study contributes to impact investing, entrepreneurial finance, and design science by advancing a relational understanding of investment allocation under conditions of uncertainty and hybrid value creation. • Introduces a relational coordination artifact to support alignment between social ventures and impact investors • Reframes impact investing as a process of ongoing relational alignment rather than a one-off readiness assessment • Identifies five design principles explaining how investability is progressively constructed under uncertainty • Demonstrates how impact, accountability, and revenue co-evolve across investment relationships • Offers a transferable design science contribution for coordinating hybrid value creation in entrepreneurial finance",
+            "abstract_zh": "社会企业在解决复杂的社会和环境挑战方面具有巨大潜力，据报道，影响力投资者愿意用超过1.571万亿美元的资产支持它们，以扩大社会创新。然而，尽管有所增长，许多社会企业仍难以将雄心勃勃的影响承诺转化为持续的投资关系，冒着已经脆弱的社会创新者与以影响力为导向的资本之间的桥梁崩溃的风险。这一挑战反映了影响力投资中更深层次的协调问题，其中企业与投资者以不同的评估逻辑、证据预期和时间范围运作。本文采用设计科学方法，开发并测试了影响力投资关系构建器，这是一种旨在支持社会企业与影响力投资者之间随时间对齐的关系协调工具。该工具在三个相互依赖的领域——影响、问责和收入——中构建互动，并引导参与者通过阶段性的关系对齐。该工具不是将投资可行性视为一个固定的阈值或筛选结果，而是将投资分配框架化为一个生成性的关系过程，通过这一过程，预期、证据和信任被逐步构建和重新评估。该研究通过推进在不确定性和混合价值创造条件下的投资分配关系理解，为影响力投资、创业金融和设计科学做出了贡献。• 引入了一种关系协调工具，以支持社会企业与影响力投资者之间的对齐• 将影响力投资重新框架化为持续关系对齐的过程，而不是一次性的准备评估• 确定了五个设计原则，解释了在不确定性下投资可行性是如何逐步构建的• 展示了影响、问责和收入在投资关系中的共同演变• 提供了一个可转移的设计科学贡献，用于协调创业金融中的混合价值创造",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
           {
             "title_en": "Bridging micro–macro dynamics in nanotechnology commercialisation: How governance and absorptive capacity shape innovation performance",
             "title_zh": "纳米技术商业化中的微观-宏观动态桥梁：治理和吸收能力如何塑造创新绩效",
             "url": "https://doi.org/10.1016/j.technovation.2026.103520",
             "abstract_en": "Despite the transformative promise of nanotechnology, its commercialisation across Europe remains constrained by a persistent gap between micro-level organisational dynamics and macro-level contextual influences. This study integrates the resource-based view (RBV) with a dynamic capabilities perspective to examine how internal governance structures and absorptive capacity interact with regional policies and geographical proximity to shape innovation performance in collaborative R&D partnerships. Using a mixed-methods design across 12 European countries, we combine panel data from 250 nanotechnology firms (sourced from Orbis and World Bank databases) with 30 in-depth interviews and 97 survey responses. Fixed-effects regression models reveal that decentralised governance structures foster intellectual property generation and enhance long-term profitability. Furthermore, absorptive capacity amplifies these effects under supportive regional policy environments. Dense value networks, however, can inhibit new product development due to coordination overload – an effect mitigated by geographical proximity. These findings refine the RBV by highlighting the contingent nature of internal–external synergies in volatile, high-technology sectors. The study provides actionable insights for R&D managers and EU policymakers seeking to align governance flexibility and absorptive capacity with the evolving goals of Horizon Europe. • The study uncovers the micro–macro dynamics shaping the commercialisation of nanotechnology R&D across Europe. • We investigate how governance mechanisms and absorptive capacity jointly drive commercialisation outcomes in collaborative R&D initiatives. • The results show that decentralised governance structures strengthen intellectual property creation and improve long-term profitability. • Absorptive capacity further amplifies these gains under supportive regional policy environments; meanwhile, dense value networks can hinder new product development unless offset by geographic proximity. • By linking firm-level strategies to regional innovation policies through a multi-country European analysis, the study addresses a key gap in the nanotechnology commercialisation literature.",
             "abstract_zh": "尽管纳米技术具有变革性的前景，但其在欧洲的商业化仍受到微观组织动态与宏观环境影响之间持续存在的差距的制约。本研究将基于资源的观点（RBV）与动态能力视角相结合，以检验内部治理结构和吸收能力如何与区域政策和地理邻近性相互作用，以塑造协作研发伙伴关系中的创新绩效。我们采用12个欧洲国家的混合方法设计，结合来自Orbis和世界银行数据库的250家纳米技术公司的面板数据、30次深入访谈和97份调查问卷。固定效应回归模型揭示，分散的治理结构促进了知识产权的产生并增强了长期盈利能力。此外，在支持性的区域政策环境下，吸收能力放大了这些效应。然而，密集的价值网络可能会因协调过载而阻碍新产品开发——这种效应可以通过地理邻近性来缓解。这些发现通过强调在动荡的高技术领域内部-外部协同作用的情境性质，完善了RBV。该研究为寻求将治理灵活性和吸收能力与欧洲地平线计划不断演变的目标对齐的研发经理和欧盟政策制定者提供了可行的见解。• 该研究揭示了塑造欧洲纳米技术研发商业化的微观-宏观动态。• 我们调查了治理机制和吸收能力如何共同推动协作研发计划中的商业化成果。• 结果表明，分散的治理结构加强了知识产权的创造并改善了长期盈利能力。• 在支持性的区域政策环境下，吸收能力进一步放大了这些收益；同时，密集的价值网络可能会阻碍新产品开发，除非通过地理邻近性来抵消。• 通过多国欧洲分析将公司层面的策略与区域创新政策联系起来，该研究填补了纳米技术商业化文献中的一个重要空白。",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Investing in the future: Evaluating technology ventures on sustainability impact in venture capital",
+            "title_zh": "投资未来：在风险资本中评估技术创业项目对可持续性的影响",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103536",
+            "abstract_en": "Venture capital firms (VCs) play a unique role in fostering the transition to a sustainable society by financing and supporting technology ventures that contribute to long-term societal and environmental goals. However, the sustainability promise of technology ventures is typically not clear at the early stages of development, requiring critical evaluation and continuous monitoring. VCs thus require an approach for sustainability impact assessment to assess and monitor the sustainability impact of technology ventures and guide sustainable investment decisions – even more so in light of emerging regulatory requirements, such as the European Sustainable Finance Disclosure Regulation. Despite this need, limited research exists on sustainability impact assessment in the venture capital context. This study addresses this gap by investigating how VCs can assess the sustainability impact of technology ventures. Employing a design science research approach, we develop and evaluate a novel sustainability impact assessment framework tailored to the unique characteristics of VC investment. The framework adopts a Design Science (DS) approach, combining insights from a systematic literature review with findings from an in-depth qualitative study with VCs. Our contribution is twofold. First, we propose a set of design principles that enable VCs to conceptualize, assess, and monitor the sustainability impact and risks of their portfolio ventures. Second, we develop a framework for developing and validating design principles in highly contextual and emergent domains such as sustainable venture capital. The resulting design principles and framework integrate perspectives from entrepreneurial finance and technology entrepreneurship, aiming to inform both academic discourse and venture capital practice by positioning sustainability impact assessment as a central criterion in investment decision-making and venture support. • Develops and evaluates a novel sustainability impact assessment framework for venture capital firms. • Integrates theoretical insights and empirical evidence through a systematic design science approach. • Provides eight design principles to guide sustainability impact and risk assessment of early-stage technology ventures. • Demonstrates practical applicability through implementation and evaluation in a European VC fund and thereby addresses the growing need for sustainability impact assessment in venture capital under EU SFDR regulations. • Offers actionable guidelines for integrating sustainability into VC investment decision-making and monitoring processes.",
+            "abstract_zh": "风险投资公司（VCs）通过为技术创业公司提供资金和支持，促进向可持续社会的转型，这些技术创业公司有助于实现长期的社会和环境目标。然而，在技术创业公司的早期发展阶段，其可持续性承诺通常并不明确，需要进行关键评估和持续监控。因此，VCs需要一种可持续性影响评估方法，以评估和监控技术创业公司的可持续性影响，并指导可持续投资决策——尤其是在欧洲可持续金融披露法规等新兴监管要求的背景下更是如此。尽管存在这种需求，但在风险投资背景下关于可持续性影响评估的研究却非常有限。本研究通过调查VCs如何评估技术创业公司的可持续性影响，填补了这一空白。我们采用设计科学研究方法，开发并评估了一种针对VC投资独特特征量身定制的新型可持续性影响评估框架。该框架采用设计科学（DS）方法，将系统文献综述的见解与对VCs进行的深入定性研究的发现结合起来。我们的贡献是双重的。首先，我们提出了一套设计原则，使VCs能够概念化、评估和监控其投资组合创业公司的可持续性影响和风险。其次，我们为在高度情境化和新兴领域（如可持续风险投资）开发和验证设计原则，构建了一个框架。得出的设计原则和框架整合了创业金融和技术创业的观点，旨在通过将可持续性影响评估定位为投资决策和创业支持的核心标准，为学术讨论和风险投资实践提供信息。•为风险投资公司开发并评估了一种新型的可持续性影响评估框架。•通过系统的设计科学方法整合理论见解和实证证据。•提供八项设计原则，指导早期技术创业公司的可持续性影响和风险评估。•通过在欧洲VC基金中的实施和评估，展示了实际的适用性，从而满足了在欧盟SFDR法规下风险投资中日益增长的可持续性影响评估需求。•提供...",
             "matched_topics": [
               "企业创新",
               "创新药"
@@ -1477,6 +1484,16 @@
             "url": "https://doi.org/10.1016/j.technovation.2026.103517",
             "abstract_en": "",
             "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Moving forward while swaying left and right: How to govern national innovation systems-catalysed innovation ecosystems?",
+            "title_zh": "左右摇摆中前行：如何治理国家创新系统催化的创新生态系统？",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103539",
+            "abstract_en": "There is a burgeoning literature arguing that addressing grand challenges, such as de-globalization, requires a set of complementary actors to build innovation ecosystems (IE), which are also strategically integrated into the national innovation system (NIS). We conceptualize this specific systemic phenomenon as a new type of IE—NIS-catalysed IE—whose sustainable growth is said to be constantly hindered by dependent yet opposing tensions. The current literature provides fruitful insights into governing paradoxical tensions; however, some taken-for-granted theoretical assumptions within it are problematic when examining the relationship between salient paradoxes embodied in NIS-catalysed IE and effective governance mechanisms. Drawing on a single longitudinal case study of Baidu-led autonomous driving IE in China (2013-2024), we revealed that the NIS-catalysed AD IE has been successfully navigated over three stages despite the overarching efficiency-security paradox. To that end, three corresponding governance/response mechanisms proved effective: 1) technological platformization, 2) institutional diversification, and 3) market marginalization. We integrated our novel findings of three virtuous circles (trigger → paradox → response) into an oscillating model of NIS-catalysed IE governance. Overall, our study contributes to the theoretical nexus of NIS and IE, paradox governance at the ecosystem level, and the ecosystem-as-structure paradigm. • Defines the National Innovation Systems-catalysed Innovation Ecosystems (NIS-catalysed IEs). • Reveals how NIS-catalysed AD IEs navigate the enduring efficiency-security paradox. • Identifies platformization, institutional diversification, market marginalization. • Proposes an oscillating governance model linking triggers, paradoxes and responses. • Advances theoretical insights connecting NIS, IEs and paradox governance literature.",
+            "abstract_zh": "摘要： 越来越多的文献认为，应对去全球化等重大挑战需要一系列互补的参与者来构建创新生态系统（IE），这些生态系统也被战略性地整合到国家创新体系（NIS）中。我们将这种特定的系统现象概念化为一种新型的IE——NIS催化的IE，其可持续增长据说不断受到依赖但又对立的紧张关系的阻碍。当前文献为治理悖论性紧张关系提供了有益的见解；然而，其中一些被视为理所当然的理论假设在考察NIS催化的IE中体现的显著悖论与有效治理机制之间的关系时存在问题。通过对中国百度领导的自动驾驶IE（2013-2024年）的单一纵向案例研究，我们揭示了尽管存在总体效率-安全悖论，NIS催化的自动驾驶IE已成功地经历了三个阶段。为此，三个相应的治理/响应机制被证明是有效的：1）技术平台化，2）制度多样化，3）市场边缘化。我们将三个良性循环（触发因素→悖论→响应）的新发现整合到NIS催化的IE治理的振荡模型中。总体而言，我们的研究为NIS和IE的理论联系、生态系统层面的悖论治理以及生态系统作为结构范式做出了贡献。•定义了国家创新体系催化的创新生态系统（NIS催化的IE）。•揭示了NIS催化的自动驾驶IE如何驾驭持久的效率-安全悖论。•识别了平台化、制度多样化、市场边缘化。•提出了一个将触发因素、悖论和响应联系起来的振荡治理模型。•推进了将NIS、IE和悖论治理文献联系起来的理论见解。",
             "matched_topics": [
               "企业创新"
             ]
@@ -1520,49 +1537,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
-            ]
-          },
-          {
-            "title_en": "In and out: The relationship between university in-licensing and out-licensing by firms in therapeutic biotechnology",
-            "title_zh": "进出之间：大学在治疗性生物技术领域内许可与企业外许可之间的关系",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103518",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "Governing innovation: How technology maturity shapes R&amp;D contracts",
-            "title_zh": "治理创新：技术成熟度如何塑造研发合同",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103521",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Knowledge spillovers from green technologies",
-            "title_zh": "绿色技术的知识溢出",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103526",
-            "abstract_en": "This paper analyses and compares the morphology of knowledge spillover networks based on green versus non-green technologies to assess whether one of the two domains diffuses more widely, travels farther in the geographical space, and connects more extensively otherwise distant technological fields. We employ various metrics based on forward citations to measure knowledge spillovers from patented technologies. Our sample includes bibliometric data of 3,809,214 patent applications filed at the European Patent Office from 1981 to 2020, of which 316,897 (8.32%) are classified as green. Results show that green patents receive more citations – both directly and indirectly – from follow-on inventions than non-green ones, thus contributing to a greater knowledge diffusion throughout the entire spillover network. We also find that the spectrum of sectors to which a green knowledge spillover network is targeted tends to be broader. Lastly, the inherent nature of green technologies, along with their potential to act as boundary spanners, results in knowledge transmission within the green do-main being less geographically localized than for non-green technologies. • We compare spillover network morphology for green versus non-green patents. • We use metrics based on forward citations to proxy spillovers and patent importance. • Green patents receive more forward citations, directly and indirectly. • The spectrum of sectors targeted by green patents tends to be broader. • Green-patent knowledge flows are less geographically localized than non-green ones.",
-            "abstract_zh": "本文分析并比较了基于绿色与非绿色技术的溢出网络形态，以评估这两个领域中哪一个扩散更广泛、在地理空间中传播更远、以及是否更广泛地连接了其他技术领域。我们采用基于前向引用的各种指标来衡量专利技术的知识溢出。样本包括1981年至2020年在欧洲专利局提交的3,809,214项专利申请的文献计量数据，其中316,897项（8.32%）被归类为绿色。结果显示，绿色专利比非绿色专利获得更多直接和间接的后续发明引用，从而促进了整个溢出网络中的知识扩散。我们还发现，绿色知识溢出网络所针对的行业范围往往更广。最后，绿色技术的本质特性，以及它们作为边界跨越者的潜力，导致绿色领域内的知识传播比非绿色技术更少地局限于地理区域。•我们比较了绿色与非绿色专利的溢出网络形态。•我们使用基于前向引用的指标来代理溢出和专利重要性。•绿色专利获得更多前向引用，直接和间接的。•绿色专利所针对的行业范围往往更广。•绿色专利的知识流动比非绿色专利更少地局限于地理区域。",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Managerial decision-making and AI: A taxonomy of AI collaboration orientations and strategic integration",
-            "title_zh": "管理决策与人工智能：人工智能协作取向与战略整合的分类",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103519",
-            "abstract_en": "Artificial intelligence (AI) holds significant promise for enhancing business decision-making, yet managers differ in their perceptions and approaches to collaborating with AI systems. Organizations thus face a managerial challenge: how to account for individual AI collaboration orientations to maximize the benefits of human–AI collaboration while addressing fears of replacement. This study develops a taxonomy of AI collaboration orientations among marketing decision-makers, based on survey data from 472 professionals. A person-centered analysis reveals four distinct profiles: AI Trailblazers, who view AI as a strategic partner; AI Strategists, who balance AI insights with human judgement; Pragmatic Adopters, who value efficiency but remain cautious; and AI Skeptics, who express concerns over sense of control and transparency. These orientations are shaped by collaboration preferences, sense of control, explainability, and organisational support. We also find that managers in organizations that promote AI experimentation report greater satisfaction with market performance. This study advances research on AI trust, human–AI collaboration, and managerial technology adoption. The taxonomy offers firms a practical tool to assess and support AI collaboration readiness and to develop adaptive leadership in an evolving digital environment. • Managerial differences in approaching AI collaboration remain underexplored. • Four distinct AI collaboration orientations emerge among marketing decision-makers. • AI Trailblazers and AI Strategists show the highest levels of strategic engagement. • Collaboration preferences, agency, and transparency shape adoption mindsets. • Organizational support for AI experimentation boosts performance satisfaction.",
-            "abstract_zh": "人工智能（AI）在提升商业决策方面具有巨大潜力，然而管理者在与AI系统合作的看法和方法上存在差异。因此，组织面临管理挑战：如何在考虑个体AI合作倾向的同时，最大化人-AI合作的益处，并解决被替代的担忧。本研究基于472名专业人士的调查数据，开发了营销决策者AI合作倾向的分类体系。以人为中心的分析揭示了四种不同的特征：AI先锋者，将AI视为战略伙伴；AI策略家，平衡AI洞察与人类判断；实用采纳者，重视效率但保持谨慎；AI怀疑者，对控制感和透明度表示担忧。这些倾向受到合作偏好、控制感、可解释性和组织支持的影响。我们还发现，在促进AI实验的组织中，管理者对市场表现的满意度更高。本研究推进了AI信任、人-AI合作和管理技术采纳的研究。分类体系为企业提供了一个实用工具，以评估和支持AI合作准备度，并在不断演变的数字环境中发展适应性领导力。• 管理者在AI合作方法上的差异尚未充分探索。• 在营销决策者中出现了四种不同的AI合作倾向。• AI先锋者和AI策略家显示出最高水平的战略参与度。• 合作偏好、代理和透明度塑造了采纳心态。• 组织对AI实验的支持提高了绩效满意度。",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
             ]
           }
         ],
@@ -1721,7 +1695,7 @@
         "issue_title": "Published 2026-05",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
         "matched_count": 1,
-        "total_in_issue": 3,
+        "total_in_issue": 4,
         "papers": [
           {
             "title_en": "The value of a park in crises: Quantifying the health and wellbeing benefits of green spaces using exogenous variations in use values",
@@ -1798,9 +1772,30 @@
         "resolved_name": "PharmacoEconomics",
         "issue_title": "Volume 44, Issue 3",
         "issue_url": "https://link.springer.com/journal/40273",
-        "matched_count": 2,
+        "matched_count": 4,
         "total_in_issue": 9,
         "papers": [
+          {
+            "title_en": "EQ-5D(-Y) Valuation from Adult and Child Perspectives: Where Does the Empirical Evidence Leave Us and How Should We Proceed?",
+            "title_zh": "EQ-5D(-Y) 成人与儿童视角下的评估：实证证据将我们引向何方，我们应如何进行？",
+            "url": "https://doi.org/10.1007/s40273-026-01589-1",
+            "abstract_en": "Valuing pediatric health-related quality of life (HRQOL) is essential for economic evaluations in child healthcare. Instruments like EQ-5D-Y were developed for this purpose. A key methodological innovation-though controversial-has been the use of the child perspective for valuation of EQ-5D-Y health states, where adults value health states imagining a 10-year-old child. This paper critically reviews empirical findings on this approach, examines potential biases, assesses alignment with stakeholder views, and explores alternatives. We relied on a targeted review of empirical literature, including studies comparing adults valuing their own health (adult perspective) and using child perspectives, as well as stakeholder opinion studies. Findings were synthesized into ten key learnings: (1) Child-perspective valuations are typically higher than adult ones for the same health states. (2) Adults prioritize pain/discomfort and being sad/unhappy differently for children. (3) Child age has minimal impact. Mechanisms contributing to differences between adult and child perspectives include (4) discomfort with child death, (5) different valuations of life duration, (6) psychological distance, (7) emotional difficulty deciding for others, and (8) external goals influencing results. Stakeholder engagement shows that (9) the effects of using child perspectives do not align well with societal preferences, and (10) stakeholders express a preference for approaches that directly involve children and adolescents in valuation tasks. We conclude that relying on child perspectives may introduce systematic biases, potentially undermining the validity of pediatric health utilities. A re-evaluation of current valuation methods for EQ-5D-Y may be warranted, with greater consideration for direct child involvement, mapping techniques, and group-based deliberative approaches.",
+            "abstract_zh": "评估儿童健康相关的生活质量（HRQOL）对于儿童医疗保健的经济评估至关重要。为此目的开发了EQ-5D-Y等工具。一个关键的方法论创新——尽管有争议——是使用儿童视角来评估EQ-5D-Y健康状况，即成年人在评估健康状况时想象一个10岁儿童。本文批判性地回顾了这种方法的实证发现，检查潜在的偏见，评估与利益相关者观点的一致性，并探索替代方案。我们依赖于针对性的实证文献综述，包括比较成年人评估自己健康（成人视角）和使用儿童视角的研究，以及利益相关者意见研究。研究结果综合为十个关键教训：（1）儿童视角的评估通常高于成人对相同健康状况的评估。（2）成年人对儿童的疼痛/不适和悲伤/不快乐有不同的优先级。（3）儿童年龄影响最小。导致成人和儿童视角差异的机制包括（4）对儿童死亡的不适，（5）对生命持续时间的不同评估，（6）心理距离，（7）为他人做决定时的情感困难，以及（8）影响结果的外部目标。利益相关者参与表明（9）使用儿童视角的效果与社会偏好不一致，（10）利益相关者倾向于直接涉及儿童和青少年参与评估任务的方法。我们得出结论，依赖儿童视角可能会引入系统性偏见，可能破坏儿童健康效用的效度。可能需要重新评估EQ-5D-Y当前的评估方法，更多考虑直接儿童参与、映射技术和基于群体的审议方法。",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Development of Cardiovascular Risk Equations in People with Overweight or Obesity and Established Cardiovascular Disease Without Diabetes Based on the SELECT Trial",
+            "title_zh": "基于SELECT试验的超重或肥胖且已确诊心血管疾病非糖尿病患者心血管风险方程的开发",
+            "url": "https://doi.org/10.1007/s40273-025-01580-2",
+            "abstract_en": "These novel, treatment-specific, trial-derived risk equations are the first to predict the risk of secondary cardiovascular events in people with overweight or obesity and established cardiovascular disease but without diabetes. Incorporating these risk equations into health economic models may improve the accuracy of economic evaluations in this population.",
+            "abstract_zh": "这些新颖的、针对特定治疗方法的、从试验中得出的风险方程是首次预测超重或肥胖且已确诊心血管疾病但无糖尿病人群的二次心血管事件风险。将这些风险方程纳入卫生经济模型，可能会提高这一人群经济评估的准确性。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
           {
             "title_en": "The Importance of Structured Expert Elicitation to Inform Outcomes Following Treatment Discontinuation: Evidence Assessment Group Perspective",
             "title_zh": "结构化专家征询在治疗中断后结果信息中的重要性：证据评估小组视角",
@@ -1815,10 +1810,13 @@
             "title_en": "Practical Considerations for Incorporating Equity More Explicitly in Australian Health Technology Assessment Processes",
             "title_zh": "在澳大利亚卫生技术评估过程中更明确地纳入公平性的实用考虑",
             "url": "https://doi.org/10.1007/s40273-025-01568-y",
-            "abstract_en": "",
-            "abstract_zh": "",
+            "abstract_en": "Globally, advances in methods to examine equity alongside economic evaluations are being considered for application in health technology assessment (HTA) processes which inform decisions to publicly fund pharmaceuticals and medical services. In this practical application, we focus on the Australian context and explore how several of these methods might be used to incorporate equity more explicitly in HTA decisions. Specifically, we describe distributional cost-effectiveness analysis, extended cost-effectiveness analysis, equity weighting, multi-criteria decision analysis, mathematical programming and other quantitative approaches. We consider the feasibility and suitability of each method considering contextual factors, highlight challenges, describe current use in Australia and make recommendations for their application. We argue that there are opportunities to use aspects of several different methods in the Australian context which would illuminate how costs (including out of pocket costs) and benefits are distributed across the population, how normative concerns for equity influence the calculated social value of a new technology, how equity criteria complement other measures of value and how the technology impacts non-health outcomes. However, some of the stated requirements for the methods, such as using the same social groupings for all analyses, applying cost-effectiveness thresholds and the application of algorithms may restrict the usefulness of the evidence generated in a context where there are many priority populations of interest, several aspects of equity are considered important and there is a well-established deliberative approach to decision-making. We recommend that the equity implications of new health technologies should be universally evaluated. However, a tailored and transparent approach should be taken whereby specific equity analyses consider the context of the technology and the chosen methods are well justified.",
+            "abstract_zh": "在全球范围内，正在考虑将考察公平性的方法与经济评估相结合，应用于卫生技术评估（HTA）流程中，这些流程为公共资助药品和医疗服务的决策提供信息。在这一实际应用中，我们关注澳大利亚的背景，并探讨如何使用这些方法中的几种来更明确地将公平性纳入HTA决策中。具体来说，我们描述了分配成本效益分析、扩展成本效益分析、公平性加权、多标准决策分析、数学规划以及其他定量方法。我们考虑了每种方法的可行性和适用性，考虑了背景因素，突出了挑战，描述了在澳大利亚的当前使用情况，并提出了应用建议。我们认为，在澳大利亚背景下，有机会使用几种不同方法的各个方面，这将揭示成本（包括自付成本）和利益如何在人群中分配，对公平性的规范关注如何影响新技术计算出的社会价值，公平性标准如何补充其他价值衡量标准，以及技术如何影响非健康结果。然而，这些方法的一些要求，如对所有分析使用相同的社会群体、应用成本效益阈值和算法的应用，可能会限制在有许多优先考虑的人群、几个公平性方面被认为重要以及有一个成熟审议决策方法的背景下产生的证据的有用性。我们建议，新健康技术的公平性影响应该被普遍评估。然而，应该采取一种量身定制和透明的途径，其中特定的公平性分析考虑技术的背景，并且选择的方法得到了很好的论证。",
             "matched_topics": [
-              "医疗创新"
+              "国际贸易",
+              "医药产业",
+              "医疗创新",
+              "创新药"
             ]
           }
         ],
@@ -1939,21 +1937,21 @@
             ]
           },
           {
-            "title_en": "Practice Pattern Changes After Adoption Of Diagnostic AI Tool Used In Conjunction With Cardiac Imaging",
-            "title_zh": "诊断人工智能工具与心脏成像联合使用后实践模式的变化",
-            "url": "https://doi.org/10.1377/hlthaff.2025.00929",
-            "abstract_en": "In 2018, Medicare established coverage and reimbursement for its first service using artificial intelligence (AI): computed tomography (CT) fractional flow reserve (FFR<sub>CT</sub>). FFR<sub>CT</sub> is used in conjunction with cardiac imaging to diagnose coronary artery disease. Medicare reimbursement provides the opportunity to observe clinicians' adoption of FFR<sub>CT</sub> and examine changes in utilization, spending, clinician productivity, and patient outcomes associated with its use. In this study, we exploited variation in the timing of FFR<sub>CT</sub> adoption by clinicians, quantifying changes in practice patterns before and after adoption compared with nonadopters. We found that use of the underlying coronary artery disease test required for FFR<sub>CT</sub> increased after the adoption of FFR<sub>CT</sub>, whereas invasive test use declined. On net, per patient diagnostic spending for coronary artery disease increased. We found no evidence that adopting FFR<sub>CT</sub> facilitated earlier diagnosis of coronary artery disease, although clinicians saw a larger share of patients with coronary artery disease after adoption, and clinician productivity (that is, total visit count) increased. After clinicians adopted FFR<sub>CT</sub>, we observed a decrease in rates of cardiac-related adverse events among their patients.",
-            "abstract_zh": "2018年，医疗保险首次为使用人工智能（AI）的服务建立了覆盖和报销：计算机断层扫描（CT）分数流量储备（FFR<sub>CT</sub>）。FFR<sub>CT</sub>与心脏成像一起使用，以诊断冠状动脉疾病。医疗保险报销提供了观察临床医生采用FFR<sub>CT</sub>的机会，并检查与其使用相关的使用、支出、临床医生生产力和患者结果的变化。在这项研究中，我们利用了临床医生采用FFR<sub>CT</sub>的时间变化，量化了采用前后与非采用者相比的实践模式的变化。我们发现，在采用FFR<sub>CT</sub>之后，需要进行FFR<sub>CT</sub>的潜在冠状动脉疾病测试的使用增加了，而侵入性测试的使用下降了。总的来说，每位患者的冠状动脉疾病诊断支出增加了。我们没有发现采用FFR<sub>CT</sub>有助于更早地诊断冠状动脉疾病的证据，尽管临床医生在采用后看到了更大比例的冠状动脉疾病患者，并且临床医生的生产力（即总访问次数）增加了。在临床医生采用FFR<sub>CT</sub>后，我们观察到他们患者中与心脏相关的不良事件的比率有所下降。",
-            "matched_topics": [
-              "医药产业"
-            ]
-          },
-          {
             "title_en": "List Price Reductions Among Brand-Name ICS-LABA Inhalers In 2024 Were Associated With Increased Generic Uptake",
             "title_zh": "2024年品牌名ICS-LABA吸入剂的定价降低与仿制药使用增加相关",
             "url": "https://doi.org/10.1377/hlthaff.2025.01309",
             "abstract_en": "Inhaled corticosteroid-long-acting beta-agonist (ICS-LABA) inhalers are widely prescribed for asthma and chronic obstructive pulmonary disease. ICS-LABAs are largely interchangeable within the class; however, the use of brand-name versions has remained high in the US even though generic versions have been marketed since 2017. Effective in January 2024, the American Rescue Plan Act of 2021 imposed new penalties for prior list price increases in Medicaid, prompting manufacturers of some ICS-LABAs to reduce list prices for these drugs. In an interrupted time series analysis, we used US nationwide prescription dispensing data to assess changes in generic uptake of ICS-LABAs after the brand-name list price reductions. Use of generic ICS-LABAs increased by 23 percentage points at the start of 2024, driven by changes in commercial plans (33 percentage points) and Medicare (24 percentage points). List price reductions may have limited the capacity for brand-name firms to offer large rebates to pharmacy benefit managers, blunting existing financial incentives that had favored brand-name over generic ICS-LABAs. These findings demonstrate how changes in list prices can promote generic competition and improve affordability for patients and payers.",
             "abstract_zh": "吸入性皮质类固醇-长效β2受体激动剂（ICS-LABA）吸入器被广泛用于哮喘和慢性阻塞性肺病的治疗。ICS-LABA在该类别内大部分可以互换；然而，即使自2017年以来已有仿制药上市，在美国使用品牌药版本的比例仍然很高。2024年1月生效的2021年美国救援计划法案对医疗补助计划中先前的清单价格增长施加了新的处罚，促使一些ICS-LABA制造商降低了这些药物的清单价格。在一项中断时间序列分析中，我们使用了美国全国范围内的处方配药数据，以评估品牌药清单价格降低后仿制药ICS-LABA的接受度变化。2024年初，仿制药ICS-LABA的使用增加了23个百分点，这一增长由商业计划（33个百分点）和医疗保险（24个百分点）的变化推动。清单价格降低可能限制了品牌药公司向药房福利管理者提供大额回扣的能力，削弱了现有的财务激励，这些激励曾有利于品牌药而非仿制药ICS-LABA。这些发现展示了清单价格变化如何促进仿制药竞争，改善患者和支付者的可负担性。",
+            "matched_topics": [
+              "医药产业"
+            ]
+          },
+          {
+            "title_en": "Practice Pattern Changes After Adoption Of Diagnostic AI Tool Used In Conjunction With Cardiac Imaging",
+            "title_zh": "诊断人工智能工具与心脏成像联合使用后实践模式的变化",
+            "url": "https://doi.org/10.1377/hlthaff.2025.00929",
+            "abstract_en": "In 2018, Medicare established coverage and reimbursement for its first service using artificial intelligence (AI): computed tomography (CT) fractional flow reserve (FFR<sub>CT</sub>). FFR<sub>CT</sub> is used in conjunction with cardiac imaging to diagnose coronary artery disease. Medicare reimbursement provides the opportunity to observe clinicians' adoption of FFR<sub>CT</sub> and examine changes in utilization, spending, clinician productivity, and patient outcomes associated with its use. In this study, we exploited variation in the timing of FFR<sub>CT</sub> adoption by clinicians, quantifying changes in practice patterns before and after adoption compared with nonadopters. We found that use of the underlying coronary artery disease test required for FFR<sub>CT</sub> increased after the adoption of FFR<sub>CT</sub>, whereas invasive test use declined. On net, per patient diagnostic spending for coronary artery disease increased. We found no evidence that adopting FFR<sub>CT</sub> facilitated earlier diagnosis of coronary artery disease, although clinicians saw a larger share of patients with coronary artery disease after adoption, and clinician productivity (that is, total visit count) increased. After clinicians adopted FFR<sub>CT</sub>, we observed a decrease in rates of cardiac-related adverse events among their patients.",
+            "abstract_zh": "2018年，医疗保险首次为使用人工智能（AI）的服务建立了覆盖和报销：计算机断层扫描（CT）分数流量储备（FFR<sub>CT</sub>）。FFR<sub>CT</sub>与心脏成像一起使用，以诊断冠状动脉疾病。医疗保险报销提供了观察临床医生采用FFR<sub>CT</sub>的机会，并检查与其使用相关的使用、支出、临床医生生产力和患者结果的变化。在这项研究中，我们利用了临床医生采用FFR<sub>CT</sub>的时间变化，量化了采用前后与非采用者相比的实践模式的变化。我们发现，在采用FFR<sub>CT</sub>之后，需要进行FFR<sub>CT</sub>的潜在冠状动脉疾病测试的使用增加了，而侵入性测试的使用下降了。总的来说，每位患者的冠状动脉疾病诊断支出增加了。我们没有发现采用FFR<sub>CT</sub>有助于更早地诊断冠状动脉疾病的证据，尽管临床医生在采用后看到了更大比例的冠状动脉疾病患者，并且临床医生的生产力（即总访问次数）增加了。在临床医生采用FFR<sub>CT</sub>后，我们观察到他们患者中与心脏相关的不良事件的比率有所下降。",
             "matched_topics": [
               "医药产业"
             ]
