@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-22 04:38:16",
+  "updated_at": "2026-03-29 05:08:59",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 32,
+    "success_count": 70,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -363,61 +363,90 @@
         "query_name": "Econometrica",
         "issn": "0012-9682",
         "resolved_name": "Econometrica",
-        "issue_title": "Volume 94, Issue 1",
+        "issue_title": "Volume 94, Issue 2",
         "issue_url": "https://onlinelibrary.wiley.com/journal/14680262",
-        "matched_count": 5,
-        "total_in_issue": 16,
+        "matched_count": 8,
+        "total_in_issue": 14,
         "papers": [
           {
-            "title_en": "The Hitchhiker's Guide to Markup Estimation: Assessing Estimates From Financial Data",
-            "title_zh": "搭便车指南：评估金融数据中的标记估计",
-            "url": "https://doi.org/10.3982/ecta22733",
-            "abstract_en": "Macroeconomic outcomes depend on the distribution of markups across firms and over time, making firm‐level markup estimates key for macroeconomic analysis. Methods to obtain these estimates require data on the prices that firms charge. Firm‐level data with wide coverage, however, primarily come from financial statements, which lack information on prices. We use an analytical framework to show that trends in markups over time or the dispersion of markups across firms can still be well‐measured with such data. Measuring the average level of the markup does require pricing data, and we propose a consistent estimator for such settings. We validate the analytical results using simulations of a quantitative macroeconomic model and offer supporting evidence from firm‐level administrative production and pricing data. Our analysis supports the use of financial data to measure trends in aggregate markups.",
-            "abstract_zh": "宏观经济结果取决于企业间及随时间变化的加成率分布，这使得企业层面的加成率估计对宏观经济分析至关重要。获取这些估计值的方法需要企业收费价格的数据。然而，具有广泛覆盖范围的企业层面数据主要来自财务报表，这些报表缺乏价格信息。我们使用一个分析框架来展示，即使使用这些数据，也可以很好地测量加成率随时间的趋势或企业间的分散程度。测量加成率的平均水平确实需要定价数据，我们为此提出了一个一致的估计器。我们通过模拟一个定量宏观经济模型来验证分析结果，并提供来自企业层面行政生产和定价数据的支持性证据。我们的分析支持使用财务数据来测量总体加成率的趋势。",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Equilibrium Existence in First‐Price Auctions With Private Values",
-            "title_zh": "一价拍卖中私人价值的均衡存在",
-            "url": "https://doi.org/10.3982/ecta22570",
-            "abstract_en": "We provide sufficient conditions for equilibrium existence in first‐price auctions with private values that accommodate non quasi‐linear utilities and value‐distributions that contain atoms and exhibit positive or negative correlation. These conditions show that equilibrium existence often turns on properties of a single statistic of the joint distribution of values, namely, the minimum value in the support of the high‐value distribution (the mHV). We also show that modifying the standard tie‐breaking rule only at the mHV is enough to guarantee equilibrium existence without our sufficient conditions. Our results also apply to Bertrand price competition when each firm's constant marginal cost is private information.",
-            "abstract_zh": "我们提供了在具有私人价值的第一价格拍卖中存在均衡的充分条件，这些条件可以容纳非准线性效用以及包含原子和表现出正相关或负相关的价值分布。这些条件表明，均衡存在往往取决于价值联合分布的一个单一统计量的性质，即高价值分布支持中的最小值（mHV）。我们还表明，仅在mHV处修改标准平局决胜规则就足以保证在没有我们充分条件的情况下均衡存在。我们的结果也适用于贝特朗价格竞争，当每个公司的恒定边际成本是私有信息时。",
+            "title_en": "Monotonicity and Robust Implementation Under Forward‐Induction Reasoning",
+            "title_zh": "单调性与前向归纳推理下的鲁棒实施",
+            "url": "https://doi.org/10.3982/ecta23709",
+            "abstract_en": "In sequential games, the set of paths consistent with rationality and forward‐induction reasoning may change nonmonotonically when adding transparent restrictions on players' beliefs. Yet, we prove that—in an incomplete‐information environment—predictions become sharper when the restrictions only concern initial beliefs about types. Thus, strong rationalizability for games with payoff uncertainty characterizes the path predictions of forward‐induction reasoning across all possible restrictions on players' hierarchies of exogenous beliefs. With this, we can solve an open problem: the implementation of social choice functions through sequential mechanisms under forward‐induction reasoning—which considerably expands the realm of implementable functions compared with simultaneous mechanisms (Müller (2016))—is indeed robust in the sense of Bergemann and Morris (2009).",
+            "abstract_zh": "在序贯博弈中，当对玩家信念的透明限制增加时，与理性和前向归纳推理一致的路径集合可能会非单调变化。然而，我们证明了——在不完全信息环境中——当限制只涉及对类型的初始信念时，预测变得更加精确。因此，在具有收益不确定性的博弈中，强合理性表征了前向归纳推理的路径预测，跨越了对玩家外生信念层次结构的所有可能限制。通过这一点，我们可以解决一个开放问题：通过序贯机制在前向归纳推理下实施社会选择函数——与同时机制（Müller 2016）相比，这显著扩展了可实施函数的范围——确实是Bergemann和Morris（2009）意义上的稳健的。",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "A Framework for Geoeconomics",
-            "title_zh": "地缘经济框架",
-            "url": "https://doi.org/10.3982/ecta23206",
-            "abstract_en": "Governments use their countries' economic strength from financial and trade relationships to achieve geopolitical and economic goals. We provide a model of the sources of geoeconomic power and how it is wielded. The source of this power is the ability of a hegemonic country to coordinate threats across disparate economic relationships as a means of enforcement on foreign entities. The hegemon wields this power to demand costly actions out of the targeted entities, including mark‐ups, import restrictions, tariffs, and political concessions. The hegemon uses its power to change targeted entities' activities to manipulate the global equilibrium in its favor and increase its power. A sector is strategic either in helping the hegemon form threats or in manipulating the world equilibrium via input‐output amplification. The hegemon acts a global enforcer, thus adding value to the world economy, but destroys value by distorting the equilibrium in its favor.",
-            "abstract_zh": "政府利用其国家在金融和贸易关系中的经济实力来实现地缘政治和经济目标。我们提供了一个模型，用以解释地缘经济力量的来源及其运用方式。这种力量的来源是一个霸权国家协调不同经济关系中的威胁能力，作为一种对外国实体的执行手段。霸权国家运用这种力量要求目标实体采取代价高昂的行动，包括提高价格、进口限制、关税和政治让步。霸权国家利用其力量改变目标实体的活动，操纵全球均衡以利于自己，并增加自身力量。一个部门之所以具有战略性，要么是因为它帮助霸权国家形成威胁，要么是因为它通过投入产出放大作用操纵世界均衡。霸权国家充当全球执行者，从而为世界经济增加价值，但通过扭曲均衡以利于自己而破坏价值。",
+            "title_en": "Empirical Bayes When Estimation Precision Predicts Parameters",
+            "title_zh": "经验贝叶斯：当估计精度预测参数时",
+            "url": "https://doi.org/10.3982/ecta22935",
+            "abstract_en": "Gaussian empirical Bayes methods usually maintain a precision independence assumption: The unknown parameters of interest are independent from the known standard errors of the estimates. This assumption is often theoretically questionable and empirically rejected. This paper proposes to model the conditional distribution of the parameter given the standard errors as a flexibly parameterized location‐scale family of distributions, leading to a family of methods that we call close . The close framework unifies and generalizes several proposals under precision dependence. We argue that the most flexible member of the close family is a minimalist and computationally efficient default for accounting for precision dependence. We analyze this method and show that it is competitive in terms of the regret of subsequent decision rules. Empirically, using close leads to sizable gains for selecting high‐mobility Census tracts.",
+            "abstract_zh": "高斯经验贝叶斯方法通常保持一个精度独立假设：感兴趣的未知参数与估计值的已知标准误差是独立的。这个假设在理论上常常是值得怀疑的，在实证上也被拒绝。本文提出将参数的条件分布建模为给定标准误差的灵活参数化的定位-尺度分布族，从而得到我们称之为“紧密”的方法族。紧密框架统一并概括了精度依赖下的几种提议。我们认为，紧密家族中最灵活的成员是一个最小化且计算效率高的默认方法，用于考虑精度依赖。我们分析了这种方法，并表明它在后续决策规则的遗憾方面具有竞争力。从实证上看，使用紧密方法可以显著提高选择高流动性人口普查地区的收益。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "The Complexity of Multidimensional Learning in Agriculture",
+            "title_zh": "农业中多维学习的复杂性",
+            "url": "https://doi.org/10.3982/ecta22974",
+            "abstract_en": "Studies on agricultural technology adoption often focus on one input, practice, or package, which is analytically useful, but may overlook the complexities involved with multidimensional learning needed for a lot of agricultural decisions. In Kenya, we study farmers' dynamic learning (from oneself and others) and adoption decisions over six seasons after randomly inviting them to participate in agronomic research trials, comparing different combinations of inputs during three consecutive seasons. As a response to the trials, adoption increases steadily despite the absence of positive profits multiple seasons after exposure to the trials. Know‐how increases rapidly and faster for high skill farmers who experiment the most, at the cost of making new mistakes. The findings are consistent with a theoretical model with multidimensionality of input and practice decisions and differential learning from one's own experience by skills, where complementarities imply that adoption of an input requires finding how to re‐optimize other dimensions, which adds to the cost of adoption.",
+            "abstract_zh": "研究农业技术采纳往往关注单一投入、实践或一揽子方案，这在分析上是有用的，但可能忽视了农业决策中多维学习所需的复杂性。在肯尼亚，我们研究了农民在随机邀请参与农艺研究试验后六个季节的动态学习（从自己和他人）和采纳决策，比较了三个连续季节中不同投入组合的效果。作为对试验的响应，尽管在接触试验后多个季节没有获得正利润，采纳仍然稳步增加。知识增长迅速，对于技能较高的农民来说增长更快，他们进行的实验最多，但代价是犯新错误。这些发现与一个理论模型一致，该模型具有投入和实践决策的多维性，以及根据技能从自己的经验中进行差异化学习，其中互补性意味着采纳一种投入需要找到如何重新优化其他维度的方法，这增加了采纳的成本。",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Dynamic Incentives in Incompletely Specified Environments",
+            "title_zh": "不完全指定环境中的动态激励",
+            "url": "https://doi.org/10.3982/ecta23373",
+            "abstract_en": "Consider a repeated interaction where it is unknown which of various stage games will be played each period. This framework separates the basic logic of intertemporal incentives from the requirement that any given strategy profile yields a well‐defined payoff vector. A natural solution concept is ex post perfect equilibrium: strategies must form a subgame‐perfect equilibrium for any realization of the sequence of stage games. When there is one long‐run player and others are short‐run, and public randomization is available, we can adapt the standard recursive approach to determine the maximum feasible gap between reward and punishment for the long‐run player. This allows us to identify which actions can be played in equilibrium and, assuming perfect monitoring, to fully characterize what outcome paths can arise. With multiple long‐run players or no public randomization, the approach fails; a diagnostic of this failure is that optimal penal codes may no longer exist.",
+            "abstract_zh": "考虑一个重复互动，其中每个时期的具体阶段游戏是未知的。这个框架将跨时期的激励基本逻辑与任何给定策略组合必须产生一个明确定义的收益向量的要求分离开来。一个自然的解决方案概念是事后完美均衡：对于阶段游戏序列的任何实现，策略必须形成一个子博弈完美均衡。当有一个长期参与者而其他人是短期参与者，并且公共随机化可用时，我们可以适应标准的递归方法来确定长期参与者奖励和惩罚之间最大可行的差距。这使我们能够识别哪些行动可以在均衡中被玩，并且假设有完美的监控，可以完全描述可能出现的结果路径。如果有多个长期参与者或没有公共随机化，这种方法就会失败；这种失败的诊断是最优惩罚代码可能不再存在。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Trade and Domestic Distortions: The Case of Informality",
+            "title_zh": "贸易与国内扭曲：非正规经济案例",
+            "url": "https://doi.org/10.3982/ecta19378",
+            "abstract_en": "We examine the effects of international trade in the presence of a set of domestic distortions giving rise to informality, a prevalent phenomenon in developing countries. In our quantitative model, the informal sector arises from burdensome taxes and regulations that are imperfectly enforced by the government. In equilibrium, smaller, less productive firms face fewer distortions than larger, more productive ones, potentially leading to substantial misallocation. We show that in settings with a large informal sector, the gains from trade are significantly amplified, as reductions in trade barriers imply a reallocation of resources from initially less distorted to more distorted firms. We confirm findings from earlier reduced‐form studies that the informal sector mitigates the impact of negative labor demand shocks on unemployment. Nonetheless, the informal sector can exacerbate the adverse real income effects of economic downturns, amplifying misallocation. Last, our research sheds light on the relationship between trade openness and cross‐firm wage inequality.",
+            "abstract_zh": "我们研究了在存在导致非正规性的一系列国内扭曲的情况下国际贸易的影响，非正规性是发展中国家普遍存在的现象。在我们的定量模型中，非正规部门是由政府不完全执行的繁重税收和法规产生的。在均衡状态下，规模较小、生产率较低的企业面临的扭曲比规模较大、生产率较高的企业要少，可能导致严重的资源错配。我们展示了在非正规部门较大的背景下，贸易收益显著增加，因为贸易壁垒的降低意味着资源从最初扭曲较小的企业重新分配到扭曲较大的企业。我们证实了早期简化形式研究的发现，即非正规部门减轻了负面劳动力需求冲击对失业的影响。尽管如此，非正规部门可能加剧经济衰退对实际收入的不利影响，放大错配。最后，我们的研究揭示了贸易开放度与企业间工资不平等之间的关系。",
             "matched_topics": [
               "国际贸易",
               "创新药"
             ]
           },
           {
-            "title_en": "Coordination and Commitment in International Climate Action: Evidence From Palm Oil",
-            "title_zh": "国际气候行动中的协调与承诺：来自棕榈油的证据",
-            "url": "https://doi.org/10.3982/ecta20608",
-            "abstract_en": "Weak environmental regulation has global consequences. When domestic regulation fails, the international community can target emitters with trade policy. I develop a dynamic empirical framework for evaluating trade policy as a substitute for domestic regulation, and I apply the framework to the market for palm oil, a major driver of deforestation and global CO 2 emissions. Relative to business as usual, a domestic production tax of 50% reduces CO 2 emissions by 7.4 Gt from 1988 to 2016, amounting to 0.26 Gt annually. Coordinated, committed import tariffs of similar magnitude reduce emissions by 5.4 Gt over the same period. The cost of these import tariffs is only $15 per ton of CO 2 , even accounting for compensating transfers that recognize welfare losses for producing countries. Without coordination and commitment, import tariffs have more limited effects. Alternative policies include domestic export taxes, which are fiscally appealing independent of emission concerns, and a carbon border adjustment mechanism, which encourages domestic regulation.",
-            "abstract_zh": "环境监管不力对全球产生影响。当国内监管失败时，国际社会可以通过贸易政策针对排放者。我开发了一个动态实证框架，用以评估贸易政策作为国内监管的替代品，并将该框架应用于棕榈油市场，这是导致森林砍伐和全球二氧化碳排放的主要因素。与现状相比，50%的国内生产税从1988年到2016年减少了7.4千兆吨二氧化碳排放，相当于每年减少0.26千兆吨。协调一致的进口关税在相同时期内减少了5.4千兆吨排放。即使考虑到对生产国福利损失的补偿转移，这些进口关税的成本仅为每吨二氧化碳15美元。没有协调和承诺，进口关税的效果更加有限。其他政策包括国内出口税，无论是否考虑排放问题，从财政角度来看都很吸引人；以及碳边境调节机制，这鼓励国内监管。",
+            "title_en": "Optimally‐Transported Generalized Method of Moments",
+            "title_zh": "最优传输广义矩估计法",
+            "url": "https://doi.org/10.3982/ecta22486",
+            "abstract_en": "We propose a novel optimal transport‐based version of the Generalized Method of Moment (GMM). Instead of handling overidentification by reweighting the data to satisfy the moment conditions (as in Generalized Empirical Likelihood methods), this method proceeds by allowing for errors in the variables of the least mean‐square magnitude necessary to simultaneously satisfy all moment conditions. This approach, based on the notions of optimal transport and Wasserstein metric, aims to address the problem of assigning a logical interpretation to GMM results even when overidentification tests reject the null, a situation that cannot always be avoided in applications. We illustrate the method by revisiting Duranton, Morrow and Turner's (2014) study of the relationship between a city's exports and the extent of its transportation infrastructure. Our results corroborate theirs under weaker assumptions and provide insight into the error structure of the variables.",
+            "abstract_zh": "我们提出了一种基于最优传输的广义矩估计（GMM）新版本。与通过重新加权数据以满足矩条件来处理过度识别问题（如在广义经验似然方法中）不同，这种方法通过允许变量误差以最小二乘幅度同时满足所有矩条件。这种方法基于最优传输和Wasserstein度量的概念，旨在解决即使在过度识别检验拒绝零假设时，为GMM结果赋予逻辑解释的问题，这种情况在应用中并不总是可以避免的。我们通过重新审视Duranton、Morrow和Turner（2014）关于城市出口与交通基础设施范围之间关系的研究来说明这种方法。我们的结果在更弱的假设下证实了他们的发现，并提供了对变量误差结构的见解。",
             "matched_topics": [
-              "国际贸易",
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Food Policy in a Warming World",
+            "title_zh": "全球变暖下的食品政策",
+            "url": "https://doi.org/10.3982/ecta23125",
+            "abstract_en": "This paper studies how governments intervene in agricultural markets to reshape the economic consequences of climate extremes. We construct a global dataset of agricultural policies and extreme heat exposure by country and crop since 1980. Extreme heat shocks to domestic production lead to policies that assist consumers by lowering domestic food prices. This effect is persistent, primarily implemented via border policies, and stronger during election years. Shocks to foreign production induce the opposite response: policies that assist producers by raising prices. These findings can be rationalized by a model in which governments use agricultural policy to redistribute among domestic interest groups. Our estimates imply that policy responses shield domestic consumers, while exacerbating losses for domestic producers and foreign consumers. Policy responses have regressive consequences globally, disproportionately harming poor and heat‐exposed countries.",
+            "abstract_zh": "本文研究了政府如何干预农业市场以重塑气候极端事件的经济后果。我们构建了一个自1980年以来按国家和作物划分的全球农业政策和极端热暴露数据集。国内生产受到极端热冲击导致的政策会通过降低国内食品价格来帮助消费者。这种效应是持久的，主要通过边境政策实施，并在选举年更为强烈。外国生产受到的冲击则引起相反的反应：通过提高价格来帮助生产者的政策。这些发现可以通过一个模型来合理化，其中政府使用农业政策在国内利益集团之间重新分配。我们的估计意味着政策反应保护了国内消费者，同时加剧了国内生产者和外国消费者的损失。政策反应在全球范围内产生了倒退性后果，不成比例地伤害了贫困和受热暴露的国家。",
+            "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Choosing Who Chooses: Selection‐Driven Targeting in Energy Rebate Programs",
-            "title_zh": "选择谁选择：能源退税计划中的选择驱动目标定位",
-            "url": "https://doi.org/10.3982/ecta21180",
-            "abstract_en": "We develop an optimal policy assignment rule that integrates two distinctive approaches commonly used in economics—targeting by observables and targeting through self‐selection . Our method can be used with experimental or quasi‐experimental data to identify who should be treated, be untreated, and self‐select to achieve a policymaker's objective. Applying this method to a randomized controlled trial on a residential energy rebate program, we find that targeting that optimally exploits both observable data and self‐selection outperforms conventional targeting. We use the Local Average Treatment Effect (LATE) framework (Imbens and Angrist (1994)) to investigate the mechanism in our approach. By estimating several key LATEs based on the random variation created by our experiment, we demonstrate how our method allows policymakers to identify whose self‐selection would be valuable and harmful to social welfare.",
-            "abstract_zh": "我们开发了一种最优政策分配规则，该规则整合了经济学中常用的两种不同方法——通过可观测变量进行目标定位和通过自我选择进行目标定位。我们的方法可以与实验性或准实验性数据一起使用，以识别谁应该接受治疗、不接受治疗以及自我选择，以实现政策制定者的目标。将这种方法应用于住宅能源退税计划的随机对照试验，我们发现，最优地利用可观测数据和自我选择的目标定位优于传统目标定位。我们使用局部平均处理效应（LATE）框架（Imbens和Angrist，1994年）来研究我们方法中的机制。通过基于我们实验创造的随机变化估计几个关键的LATE，我们展示了我们的方法如何使政策制定者能够识别谁的自我选择对社会福利有价值和有害。",
+            "title_en": "An Experimental Evaluation of Deferred Acceptance: Evidence From Over 100 Army Officer Labor Markets",
+            "title_zh": "标题：延迟接受机制的实验评估：来自100多个军官劳动市场的证据",
+            "url": "https://doi.org/10.3982/ecta22160",
+            "abstract_en": "Internal labor markets are increasingly important for matching workers to jobs within organizations. We present evidence from a randomized trial that compares matching workers to jobs using the deferred acceptance (DA) algorithm to the traditional manager‐directed matching process. Our setting is the U.S. Army's internal labor market, which matches over 14,000 officers to units annually. We find that DA reduces administrative burden and increases match quality as measured by reduced justified envy, increased truthful preference reporting, and officers' and units' preferences over their matches. The overall impact of DA on officer retention and performance in the two years after officers started their new jobs is limited by strategic preference coordination between officers and units. However, DA leads to significant improvements in officer retention and promotions in markets with inexperienced managers. Our findings suggest that cross‐market communication between agents in internal labor markets can attenuate the benefits of strategyproof matching algorithms.",
+            "abstract_zh": "内部劳动市场在组织内匹配工人和工作方面越来越重要。我们提供了一项随机试验的证据，该试验比较了使用延迟接受（DA）算法匹配工人和工作与传统的经理指导匹配过程。我们的研究背景是美国军队的内部劳动市场，该市场每年将超过14,000名军官匹配到单位。我们发现，DA减少了行政负担，并通过减少合理的嫉妒、增加真实的偏好报告以及军官和单位对他们匹配的偏好来提高匹配质量。DA对军官在开始新工作后两年内的留存和表现的整体影响受到军官和单位之间策略性偏好协调的限制。然而，DA在有经验不足经理的市场中导致军官留存和晋升的显著改善。我们的发现表明，内部劳动市场中跨市场沟通可以在一定程度上削弱策略证明匹配算法的好处。",
             "matched_topics": [
-              "创新药"
+              "国际贸易"
             ]
           }
         ],
@@ -555,51 +584,59 @@
         "query_name": "American Economic Journal: Applied Economics",
         "issn": "1945-7782",
         "resolved_name": "American Economic Journal Applied Economics",
-        "issue_title": "Volume 18, Issue 1",
+        "issue_title": "Volume 18, Issue 2",
         "issue_url": "https://www.aeaweb.org/journals/app",
-        "matched_count": 4,
-        "total_in_issue": 9,
+        "matched_count": 5,
+        "total_in_issue": 13,
         "papers": [
           {
-            "title_en": "Divine Policy: The Impact of Religion in Government",
-            "title_zh": "神策：宗教对政府的影响",
-            "url": "https://doi.org/10.1257/app.20240018",
-            "abstract_en": "Can policies shape personal values and beliefs? To examine, we exploit the staggered introduction of faith-based initiatives across US states. Our difference-in-differences analysis reveals that the initiatives strengthened religiosity and conservative-religious social views, such as attitudes against homosexuals. The evidence points to causal effects; we find no systematic differences prior to implementation, the results are robust to restricting comparison to contiguous counties and to conducting triple-differences estimation exploiting treatment heterogeneity. A key explanation, in line with standard models of religion and supported by data on nonprofit organizations, is that the initiatives facilitated the establishment of faith-based organizations. (JEL D72, L31, Z12, Z13)",
-            "abstract_zh": "政策能否塑造个人价值观和信仰？为了检验这一点，我们利用了基于信仰的倡议在美国各州的错开引入。我们的差异-差异分析揭示了这些倡议加强了宗教性和社会保守宗教观点，例如对同性恋的态度。证据指向因果效应；我们发现在实施前没有系统性差异，结果对限制比较到相邻县和进行三重差异估计利用处理异质性都是稳健的。一个关键的解释，符合标准的宗教模型，并得到非营利组织数据的支持，是这些倡议促进了基于信仰的组织的建立。（JEL D72, L31, Z12, Z13）",
+            "title_en": "The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement",
+            "title_zh": "种族隔离对代际流动性的影响：来自历史铁路布局的证据",
+            "url": "https://doi.org/10.1257/app.20240271",
+            "abstract_en": "This paper provides new evidence on the causal impacts of citywide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for antipoverty policies, and increases racially conservative attitudes among White residents. (JEL I38, J13, J15, J62, N32, N72, R30)",
+            "abstract_zh": "本文提供了关于城市范围内种族隔离对代际流动性因果影响的新证据。我们采用了一种工具变量方法，该方法依赖于19世纪铁路轨道布局导致的种族隔离的外生变化。我们的分析发现，更高的隔离程度降低了黑人儿童和低收入家庭白人儿童的向上流动性。此外，隔离降低了学术成就，同时增加了监禁率和青少年生育率。对机制的分析表明，隔离减少了政府支出，削弱了对反贫困政策的支持，并增加了白人居民中的种族保守态度。（JEL I38, J13, J15, J62, N32, N72, R30）",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Highway to Hitler",
-            "title_zh": "通往希特勒之路",
-            "url": "https://doi.org/10.1257/app.20180816",
-            "abstract_en": "We show that the building of the Autobahn network in Nazi Germany boosted popular support for Adolf Hitler, helping to entrench the Nazi dictatorship. Direct local economic benefits are unlikely to explain the effect. Instead, it reflects successful propaganda: The regime portrayed the Autobahn as a symbol of recovery and the end of austerity. Support rose particularly strongly where highway construction coincided with greater radio availability and in politically unstable regions. Our findings suggest that visible infrastructure projects can raise support for autocratic regimes when voters are led to associate them with economic progress and an end to political instability. (JEL D72, E32, H54, N44, N94, R42, R53)",
-            "abstract_zh": "我们表明，在纳粹德国建设高速公路网络增强了对阿道夫·希特勒的民众支持，帮助巩固了纳粹独裁统治。直接的地方经济利益不太可能解释这种效应。相反，它反映了成功的宣传：该政权将高速公路描绘为复苏和结束紧缩的象征。在高速公路建设与更大的无线电可用性以及政治不稳定地区重合的地方，支持尤其强烈。我们的发现表明，当选民被引导将它们与经济进步和政治不稳定的结束联系起来时，可见的基础设施项目可以提高对独裁政权的支持。（JEL D72, E32, H54, N44, N94, R42, R53）",
+            "title_en": "Release, Detain, or Surveil? The Effect of Electronic Monitoring on Defendant Outcomes",
+            "title_zh": "释放、拘留还是监控？电子监控对被告人结果的影响",
+            "url": "https://doi.org/10.1257/app.20240517",
+            "abstract_en": "This paper studies the effect of pretrial electronic monitoring (EM) relative to both pretrial release and pretrial detention (jail). EM often involves a defendant wearing an electronic bracelet, which aims to reduce pretrial misconduct at a low cost. Using the quasi-random assignment of bond court judges, I estimate the effect of EM versus release and EM versus detention on pretrial misconduct, case outcomes, future recidivism, and aggregate total costs. Results indicate that EM reduces overall costs relative to detention. However, EM does not prevent enough high-cost crime to justify its use relative to release. (JEL K14, K41, K42)",
+            "abstract_zh": "本文研究了审前电子监控（EM）相对于审前释放和审前拘留（监狱）的效果。EM通常涉及被告佩戴电子手环，旨在以低成本减少审前不当行为。利用债券法院法官的准随机分配，我估计了EM与释放相比以及EM与拘留相比对审前不当行为、案件结果、未来再犯和总成本的影响。结果表明，与拘留相比，EM降低了总体成本。然而，EM未能防止足够的高成本犯罪，以证明其相对于释放的使用是合理的。（JEL K14，K41，K42）",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Disadvantaging Rivals: Vertical Integration in the Pharmaceutical Market",
-            "title_zh": "削弱对手：制药市场的纵向整合",
-            "url": "https://doi.org/10.1257/app.20240011",
-            "abstract_en": "The pharmaceutical market has experienced a wave of vertical integration between pharmacy benefit managers (PBMs) and insurers in recent years. Using a unique dataset on insurer-PBM contracts, we document increasing vertical integration in Medicare Part D. Next, we evaluate the effects of a large insurer-PBM merger in 2015, assessing the trade-offs of vertical integration—harms to competition on the one hand and improved efficiency on the other. We find premium increases for rival insurers post-merger, consistent with vertically integrated PBMs raising costs through input foreclosure. We find no evidence of benefits to consumers of the merged firm from lower premiums. (JEL G22, G34, I13, I18, L22, L65)",
-            "abstract_zh": "近年来，药品市场经历了药房福利管理机构（PBMs）和保险公司之间的垂直整合浪潮。利用关于保险公司-PBM合同的独特数据集，我们记录了在Medicare Part D中垂直整合的增加。接下来，我们评估了2015年大型保险公司-PBM合并的影响，评估垂直整合的权衡——一方面对竞争的伤害，另一方面是效率的提高。我们发现合并后竞争对手保险公司的保费增加，这与垂直整合的PBMs通过输入封锁提高成本一致。我们没有发现合并公司对消费者从较低保费中获得好处的证据。（JEL G22, G34, I13, I18, L22, L65）",
-            "matched_topics": [
-              "国际贸易",
-              "产业经济",
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "Direct and Indirect Effects of Vaccines: Evidence from COVID-19",
-            "title_zh": "疫苗的直接和间接效应：来自COVID-19的证据",
-            "url": "https://doi.org/10.1257/app.20230717",
-            "abstract_en": "We estimate direct and indirect vaccine effectiveness and assess how far the infection-reducing externality extends from the vaccinated, a key input to policy decisions. Our empirical strategy uses nearly universal microdata from a single state and relies on the six-month delay between 12- and 11-year-old COVID vaccine eligibility. Vaccination reduces cases by 80 percent, the direct effect. This protection spills over to close contacts, producing a household-level indirect effect about three-fourths as large as the direct effect. However, indirect effects do not extend to schoolmates. Our results highlight vaccine reach as important to consider when designing policy for infectious disease. (JEL D62, H51, H75, I12, I18, J13)",
-            "abstract_zh": "我们估计了疫苗的直接和间接效果，并评估了感染减少的外部性从接种者延伸多远，这是政策决策的关键输入。我们的实证策略使用了单一州几乎普遍的微观数据，并依赖于12岁和11岁儿童COVID疫苗资格之间六个月的延迟。疫苗接种减少了80%的病例，这是直接效果。这种保护溢出到密切接触者，产生了大约是直接效果四分之三的家庭层面的间接效果。然而，间接效果并未延伸到同学。我们的结果强调，在设计传染病政策时，考虑疫苗的覆盖范围是重要的。（JEL D62, H51, H75, I12, I18, J13）",
+            "title_en": "Ethnic Diversity, Historical Economic Exchange, and Development: Evidence from Andean Peru",
+            "title_zh": "种族多样性、历史经济交流与发展：来自安第斯山脉秘鲁的证据",
+            "url": "https://doi.org/10.1257/app.20240281",
+            "abstract_en": "Is ethnic diversity good or bad for economic development? Most studies find corrosive effects. This paper shows that historical exposure to economic exchange can mitigate these effects in the long run. I collect data from a natural experiment of Peru's colonial history: the forced resettlement of native populations in the sixteenth century. Where the resettlement concentrated ethnically diverse populations with a history of internal crop exchange, contemporary populations perform better systematically. Additional evidence suggests that prior experience with mutually beneficial crop exchange shaped more open attitudes toward out-group members. Economic complementarities helped sustain long-run, market-oriented cooperation and local trade. (JEL F54, J15, N16, N36, N56, O15, Q12)",
+            "abstract_zh": "种族多样性对经济发展是好是坏？大多数研究发现其具有腐蚀性影响。本文表明，历史上的经济交流接触可以在长期内减轻这些影响。我收集了秘鲁殖民历史的自然实验数据：16世纪对土著人口的强制重新安置。在重新安置集中了具有内部作物交换历史的种族多样性人口的地方，当代人口的表现系统性地更好。额外的证据表明，先前的经验与互惠互利的作物交换塑造了对外部群体成员更开放的态度。经济互补性有助于维持长期的、面向市场的合作和地方贸易。（JEL F54, J15, N16, N36, N56, O15, Q12）",
             "matched_topics": [
               "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Wealth, Marriage, and Sex Selection",
+            "title_zh": "财富、婚姻与性别选择",
+            "url": "https://doi.org/10.1257/app.20220361",
+            "abstract_en": "Two mechanisms have been proposed to explain sex selection in India: son preference, in which parents desire a male heir, and daughter aversion, in which dowry payments make parents worse off with girls. Our model incorporates both mechanisms, providing microfoundations, based on the organization of the marriage institution, for daughter aversion. Marital matching, sex selection, and dowries are jointly determined in the model, whose implications are tested on a representative sample of rural households. Simulations of the model indicate that existing policies targeting daughter aversion might exacerbate the problem, while identifying other policies that could be effective. (JEL D31, G51, J12, J16, O12, O18, Z13)",
+            "abstract_zh": "提出了两种机制来解释印度的性别选择：儿子偏好，即父母希望有男性继承人，以及女儿厌恶，即嫁妆支付使父母因有女儿而境况更糟。我们的模型结合了这两种机制，基于婚姻制度的组织提供了女儿厌恶的微观基础。在模型中，婚姻匹配、性别选择和嫁妆是共同决定的，其含义在代表性的农村家庭样本上进行了测试。对模型的模拟表明，针对女儿厌恶的现有政策可能加剧问题，同时识别了其他可能有效的政策。（JEL D31, G51, J12, J16, O12, O18, Z13）",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "The Long-Term Impacts of Mixing the Rich and Poor: Evidence from Conscript Dorms",
+            "title_zh": "贫富混合的长期影响：来自征兵宿舍的证据",
+            "url": "https://doi.org/10.1257/app.20240173",
+            "abstract_en": "To what extent is economic success determined by with whom individuals interact socially? We tackle this question by exploiting a large-scale natural experiment in the Finnish conscription. Our research design is based on the alphabetization of dorms, which is shown to induce as good as random variation in peer composition. Dormmates from high-income families have a positive impact on earnings, with the largest effect among individuals from high-income families. For them, a one standard deviation increase in dormmates' parental income increases long-term earnings by 5.7 percent. The results support labor market networks among the rich as the key mechanism. (JEL D12, D31, G51, I32, J31, J45)",
+            "abstract_zh": "个人在社会交往中与谁互动在多大程度上决定了经济成功？我们通过利用芬兰征兵中的大规模自然实验来解决这个问题。我们的研究设计基于宿舍的字母排序，这被证明可以引起同伴组成的随机变化。来自高收入家庭的室友对收入有积极影响，其中对来自高收入家庭的个体影响最大。对他们来说，室友父母收入每增加一个标准差，长期收入就增加5.7%。结果支持富人之间的劳动市场网络是关键机制。（JEL D12, D31, G51, I32, J31, J45）",
+            "matched_topics": [
+              "创新药"
             ]
           }
         ],
@@ -675,9 +712,39 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-05",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 2,
-        "total_in_issue": 7,
+        "matched_count": 6,
+        "total_in_issue": 11,
         "papers": [
+          {
+            "title_en": "Multinational investment activity under policy uncertainty in host and competing countries",
+            "title_zh": "东道国和竞争国家政策不确定性下的跨国投资活动",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104252",
+            "abstract_en": "This paper examines how economic policy uncertainty (EPU) in host and competing countries reshapes U.S. multinationals’ greenfield foreign direct investment (FDI). Using firm-destination level data from 2003 to 2021, we show that while host-country EPU deters investment, EPU in competing destinations attracts it through a spillover effect. We document a structural shift around 2015: as global EPU rose unevenly, the spillover effect from competitors became the dominant driver of investment decisions, supplanting the direct effect of host-country policy instability. Our findings indicate that in an era of heightened global uncertainty and risk, FDI allocation is governed by relative, not just absolute, policy stability. • Host-country policy uncertainty deters FDI, while competitor uncertainty attracts it. • Relative policy stability, rather than absolute levels, governs FDI flows recently. • A structural shift after 2015 made competitor uncertainty the dominant driver of FDI.",
+            "abstract_zh": "本文研究了东道国和竞争国家的经济政策不确定性（EPU）如何重塑美国跨国公司的绿地外国直接投资（FDI）。利用2003至2021年的企业-目的地层面数据，我们发现东道国EPU抑制了投资，而竞争目的地的EPU通过溢出效应吸引了投资。我们记录了2015年左右的结构性转变：随着全球EPU的不均衡上升，来自竞争者的溢出效应成为投资决策的主要驱动力，取代了东道国政策不稳定的直接影响。我们的发现表明，在全球化不确定性和风险加剧的时代，FDI配置由相对而非绝对政策稳定性决定。•东道国政策不确定性抑制FDI，而竞争者不确定性吸引FDI。•相对政策稳定性而非绝对水平，最近决定了FDI流动。•2015年后的结构性转变使竞争者不确定性成为FDI的主要驱动力。",
+            "matched_topics": [
+              "国际经济"
+            ]
+          },
+          {
+            "title_en": "Agricultural imports, labor mobility, and welfare",
+            "title_zh": "农业进口、劳动力流动性与福利",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104256",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Structural change in sub-Saharan Africa: An open economy perspective",
+            "title_zh": "标题：撒哈拉以南非洲的结构性变革：开放经济视角",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104248",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际经济"
+            ]
+          },
           {
             "title_en": "The US-China trade war creates jobs (elsewhere)",
             "title_zh": "美中贸易战创造（其他地方的）就业",
@@ -698,6 +765,18 @@
               "国际贸易",
               "创新药"
             ]
+          },
+          {
+            "title_en": "Estimating export-productivity cutoff contours with profit data: A novel threshold estimation approach",
+            "title_zh": "利用利润数据估算出口-生产率临界轮廓：一种新的阈值估计方法",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104254",
+            "abstract_en": "This paper develops a novel method to estimate firm-specific market-entry thresholds in international economics, allowing fixed costs to vary across firms alongside productivity. Our framework models market entry as an interaction between productivity and observable fixed-cost measures, extending traditional single-threshold models to ones with set-valued thresholds. Applying this approach to Chinese firm data, we estimate export-market entry thresholds as functions of domestic sales and surrogate variables for fixed costs. The results reveal substantial heterogeneity and threshold contours, challenging conventional single-threshold-point assumptions. These findings offer new insights into firm behavior and provide a foundation for further theoretical and empirical advancements in trade research.",
+            "abstract_zh": "本文提出了一种新的方法来估计国际经济学中企业特定的市场进入门槛，允许固定成本和生产率在不同企业之间变化。我们的框架将市场进入建模为生产率和可观察的固定成本度量之间的相互作用，将传统的单一阈值模型扩展到具有集合值阈值的模型。将这种方法应用于中国企业数据，我们估计出口市场进入门槛作为国内销售和固定成本替代变量的函数。结果揭示了巨大的异质性和阈值轮廓，挑战了传统的单一阈值点假设。这些发现为理解企业行为提供了新的见解，并为贸易研究的进一步理论和实证进展奠定了基础。",
+            "matched_topics": [
+              "国际贸易",
+              "国际经济",
+              "创新药"
+            ]
           }
         ],
         "error": null
@@ -709,8 +788,8 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 4,
-        "total_in_issue": 11,
+        "matched_count": 6,
+        "total_in_issue": 16,
         "papers": [
           {
             "title_en": "The art of not being chocked: Environmental awareness, residents' responses and land transactions in China",
@@ -729,6 +808,28 @@
             "abstract_en": "Edutainment is a promising tool for changing behavior at scale, yet little is known about how to maximize impacts. We undertake an experimental evaluation of a popular West African television series, C’est la vie!, delivered through film clubs targeted at adolescent girls and young women in rural Senegal. We examine impacts on violence against women and girls and sexual and reproductive health. Results show C’est la vie! improved knowledge on both domains three months after film clubs ended, as well as violence-related attitudes nine months later, however, had no impact on behaviors. We investigate design components intended to strengthen impacts, generally finding no additional impacts from post-screening discussions, engaging men, and podcasts. Our findings suggest that edutainment is an engaging way to reach viewers on sensitive themes, however more evidence is needed on how to effectively deliver edutainment content for sustained behavior change at scale. • Using a cluster randomized control trial, we evaluate a popular West African TV series. • We examine impacts on violence against women and girls (VAWG) and sexual and reproductive health (SRH). • We find short term knowledge gains in both domains and improved medium term VAWG attitudes. • We find no impact on behaviors. • We find no additional impacts from post-screening discussions, engaging men, and podcasts.",
             "abstract_zh": "教育娱乐是改变大规模行为的有前途的工具，但如何最大化影响却鲜为人知。我们对西非流行的电视剧《这就是生活！》进行了实验性评估，该剧通过针对塞内加尔农村少女和年轻女性的电影节俱乐部进行传播。我们检验了对针对妇女和女童的暴力行为以及性和生殖健康的影响。结果显示，《这就是生活！》在电影节结束后三个月提高了两个领域的知识，九个月后改善了与暴力相关的态度，但对行为没有影响。我们调查了旨在加强影响的设计要素，通常发现放映后讨论、吸引男性和播客没有额外影响。我们的发现表明，教育娱乐是吸引观众关注敏感主题的有趣方式，但需要更多证据来了解如何有效地传播教育娱乐内容，以实现大规模的持续行为改变。• 我们使用集群随机对照试验评估了一部流行的西非电视剧。• 我们检验了对针对妇女和女童的暴力行为（VAWG）和性和生殖健康（SRH）的影响。• 我们发现在两个领域都有短期知识收益和中期VAWG态度的改善。• 我们发现对行为没有影响。• 我们发现放映后讨论、吸引男性和播客没有额外影响。",
             "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "It will rain: The effect of information on flood preparedness in urban Mozambique",
+            "title_zh": "洪水将至：信息对城市莫桑比克洪水准备的影响",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103787",
+            "abstract_en": "Floods are among the costliest and most recurring natural hazards. Many governments provide disaster preparedness information, but there is limited evidence of its effectiveness. Using a randomized experiment across 300 urban communities in Mozambique, I show that providing information on flood risk increased the implementation of suggested mitigation strategies, measured objectively (using a machine learning-based algorithm to detect solid waste, a major flood hazard, in over 25,000 photos) and through self-reported behaviors. Sending flood preparedness text messages proved to be at least as effective as more resource-intensive interventions that involved household visits and video screenings. Risk perception increased, particularly in lower-risk areas, suggesting that information and past experiences contribute to community preparedness by shaping perceived flood risk. These findings highlight the importance of communication in mobilizing communities for disaster risk management, even in contexts where flood risks are presumably already well-known, and underscore the potential of low-cost, scalable communication tools. • Flood preparedness information raised mitigation behavior in urban Mozambique. • Text messages were as effective as costlier video interventions. • Solid waste near drainage canals fell by 6–13 percentage points. • Machine learning from 25k photos provided objective behavior measures. • Low-cost communication tools can enhance urban climate resilience.",
+            "abstract_zh": "洪水是最昂贵且最频繁发生的自然灾害之一。许多政府提供灾害准备信息，但关于其有效性的证据有限。通过在莫桑比克300个城市社区进行的随机实验，我展示了提供洪水风险信息增加了实施建议的减灾策略，这些策略通过客观测量（使用基于机器学习的算法在超过25,000张照片中检测固体废物，这是主要的洪水危害）和自我报告的行为来衡量。发送洪水准备短信被证明至少与涉及家庭访问和视频放映的更资源密集的干预措施一样有效。风险感知增加，特别是在低风险地区，这表明信息和过去的经历通过塑造感知的洪水风险，有助于社区准备。这些发现强调了沟通在动员社区进行灾害风险管理中的重要性，即使在洪水风险被认为已经众所周知的背景下，也强调了低成本、可扩展的沟通工具的潜力。• 洪水准备信息提高了莫桑比克城市地区的减灾行为。• 短信与成本更高的视频干预一样有效。• 排水渠附近的固体废物减少了6-13个百分点。• 从25k张照片中进行的机器学习提供了客观的行为测量。• 低成本的沟通工具可以增强城市气候韧性。",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Foreign interventions and community cohesion in times of conflict",
+            "title_zh": "外干预与冲突时期的社区凝聚力",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103751",
+            "abstract_en": "The success of foreign interventions critically depends on cohesion within local communities, which serve as relevant partners in counterinsurgency and reconstruction efforts. Using unique data on military base locations and counterinsurgency aid in Afghanistan, I show that the presence of the International Security Assistance Force (ISAF) negatively affects social cohesion, measured by support within communities, engagement with community institutions, and trust. I leverage a geographic regression discontinuity design to estimate effects of ISAF’s geographic mandate enlargement, complemented by a panel analysis that covers its operational intensification. These findings do not appear to reflect crowding-out of informal institutions by formal provision; rather, they coincide with higher insecurity and reduced confidence in local institutions, offering a plausible explanation for the observed erosion of community cohesion. These findings carry important implications for foreign policy, particularly in settings where communities compensate for gaps in formal institutional provision. • The study uses geocoded data on foreign military bases and counterinsurgency aid. • Geographic RD and panel evidence identify effects of expansion and intensity. • Foreign military presence weakened social cohesion in Afghanistan (2005–2010). • No evidence of crowding out; results linked to higher insecurity and lower confidence. • Results align with qualitative evidence from post-intervention “lessons learned”",
+            "abstract_zh": "外国干预的成功在很大程度上取决于当地社区的凝聚力，这些社区在反叛乱和重建努力中扮演着相关伙伴的角色。利用阿富汗军事基地位置和反叛乱援助的独特数据，我展示了国际安全援助部队（ISAF）的存在对社会凝聚力产生了负面影响，这种凝聚力通过社区内的支持、与社区机构的参与以及信任来衡量。我利用地理回归不连续设计来估计ISAF地理任务扩大的效果，并辅以涵盖其行动强度化的面板分析。这些发现似乎并不反映非正式机构被正式提供挤出；相反，它们与更高的不安全感和对当地机构信心的降低相吻合，为观察到的社区凝聚力的侵蚀提供了一个合理的解释。这些发现对外交政策具有重要意义，特别是在社区补偿正式制度提供缺口的背景下。• 研究使用了外国军事基地和反叛乱援助的地理编码数据。• 地理RD和面板证据识别了扩张和强度的效果。• 外国军事存在削弱了阿富汗的社会凝聚力（2005-2010年）。• 没有挤出的证据；结果与更高的不安全感和更低的信心相关。• 结果与干预后“经验教训”的定性证据一致。",
+            "matched_topics": [
+              "国际贸易",
               "创新药"
             ]
           },
@@ -959,124 +1060,101 @@
         "query_name": "RAND Journal of Economics",
         "issn": "0741-6261",
         "resolved_name": "The RAND Journal of Economics",
-        "issue_title": "Volume 56, Issue 4",
+        "issue_title": "Volume 57, Issue 1",
         "issue_url": "https://onlinelibrary.wiley.com/journal/17562171",
-        "matched_count": 11,
-        "total_in_issue": 18,
+        "matched_count": 9,
+        "total_in_issue": 14,
         "papers": [
           {
-            "title_en": "A Dynamic Model of Predation",
-            "title_zh": "动态捕食模型",
-            "url": "https://doi.org/10.1111/1756-2171.70027",
-            "abstract_en": "ABSTRACT We study the feasibility and profitability of predation in a dynamic environment, using a parsimonious infinite‐horizon, complete information setting in which an incumbent repeatedly faces potential entry. When a rival enters, the incumbent chooses whether to accommodate or predate it; the entrant then decides whether to stay or exit. We show that there always exists a Markov perfect equilibrium, which can be of three types: accommodation, monopolization, and recurrent predation. We then analyze and compare the welfare effects of different antitrust policies, accounting for the possibility that recurrent predation may be welfare improving.",
-            "abstract_zh": "摘要 我们研究了在动态环境中掠夺行为的可行性和盈利性，使用了一个节俭的无限期、完全信息的设置，其中在位企业反复面临潜在进入。当对手进入时，在位企业选择是容纳还是掠夺；进入者随后决定是留下还是退出。我们展示了总是存在一个马尔可夫完美均衡，它可以是三种类型：容纳、垄断和反复掠夺。然后我们分析并比较了不同反垄断政策的福利效应，考虑到反复掠夺可能是福利改善的。",
-            "matched_topics": [
-              "产业经济",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Opportunism in Vertical Contracting: A Dynamic Perspective",
-            "title_zh": "垂直契约中的投机行为：动态视角",
-            "url": "https://doi.org/10.1111/1756-2171.70023",
-            "abstract_en": "ABSTRACT This article proposes a dynamic approach to modeling opportunism in bilateral vertical contracting between an upstream monopolist and competing downstream firms. Unlike previous literature on opportunism which has focused on games in which the upstream firm makes simultaneous secret offers to the downstream firms, we model opportunism as a consequence of asynchronous recontracting in an infinite‐horizon continuous‐time model. We find that the degree of opportunism depends on the absolute and relative reaction speeds of the different bilateral upstream–downstream firm pairs and on the firms' discount rate. Patience, fast reaction speeds, and asymmetries in reaction speeds across upstream–downstream pairs are shown to alleviate opportunism. Our results are relevant for vertical merger policy and for competition policy on vertical restraints.",
-            "abstract_zh": "摘要 本文提出了一种动态方法来模拟上游垄断者与下游竞争企业之间双边纵向合同中的投机行为。与以往关注上游企业同时秘密向下游企业提出要约的投机游戏文献不同，我们在一个无限期连续时间模型中将投机行为建模为异步重新签约的结果。我们发现，投机行为的程度取决于不同双边上游-下游企业对的绝对和相对反应速度以及企业的贴现率。耐心、快速反应速度以及上游-下游对之间反应速度的不对称性被证明可以减轻投机行为。我们的结果与纵向合并政策和纵向限制竞争政策相关。",
+            "title_en": "Fossil Fuels and Renewable Energy: Mix or Match?",
+            "title_zh": "化石燃料与可再生能源：混合还是匹配？",
+            "url": "https://doi.org/10.1111/1756-2171.70044",
+            "abstract_en": "ABSTRACT This article investigates the influence of technological ownership on pricing strategies and productive efficiency. Our motivation comes from the evolving landscape of electricity markets where firms are transitioning from diversified to specialized portfolios, focusing on renewable energy or fossil fuels. Our theoretical model demonstrates that diversified firms compete more vigorously than their specialized counterparts. Conversely, specialized firms exhibit higher productive efficiency but only when thermal sources dominate. The magnitude of our theoretical predictions is assessed through simulations using data from the Spanish electricity market. Methodologically, our analysis offers novel insights for studying multi‐unit auctions with cost heterogeneity and privately known capacities.",
+            "abstract_zh": "摘要 本文研究了技术所有权对定价策略和生产效率的影响。我们的研究动机来自于电力市场不断演变的格局，企业正从多元化转向专注于可再生能源或化石燃料的专业组合。我们的理论模型表明，多元化公司比专业化公司竞争更为激烈。相反，专业化公司表现出更高的生产效率，但仅在热源占主导地位时。我们通过使用西班牙电力市场的数据进行模拟来评估我们理论预测的幅度。从方法论上讲，我们的分析为研究具有成本异质性和私人已知容量的多单位拍卖提供了新的见解。",
             "matched_topics": [
               "产业经济"
             ]
           },
           {
-            "title_en": "Estimating Complementarity With Large Choice Sets: An Application to Mergers",
-            "title_zh": "估计大选择集的互补性：并购应用",
-            "url": "https://doi.org/10.1111/1756-2171.70024",
-            "abstract_en": "ABSTRACT Standard discrete choice demand models assume that all products are substitutes. Merger analyses based on these models may overstate consumer harm. We develop an estimator that identifies demand complementarity and remains computationally feasible with large choice sets. We apply this estimator to the chips and soda market and find a high degree of complementarity between these product groups. We show that a counterfactual merger ignoring complementarity between PepsiCo/Frito‐Lay and Dr. Pepper generates price increases for soda that are 33% larger than a model with complementarity, and that post‐merger chip prices decrease when accounting for complementarity.",
-            "abstract_zh": "摘要：标准的离散选择需求模型假设所有产品都是替代品。基于这些模型的合并分析可能会高估对消费者的伤害。我们开发了一种估计器，能够识别需求互补性，并且在面对大型选择集时仍具有计算可行性。我们将这种估计器应用于薯片和苏打水市场，发现这些产品组之间存在高度的互补性。我们展示了一个忽略百事公司/菲多利与Dr. Pepper之间互补性的反事实合并，会导致苏打水价格上涨33%，比考虑互补性的模型要大，并且在考虑互补性的情况下，合并后薯片价格会下降。",
+            "title_en": "Search and Competition in Expert Markets",
+            "title_zh": "专家市场中的搜寻与竞争",
+            "url": "https://doi.org/10.1111/1756-2171.70049",
+            "abstract_en": "ABSTRACT We analyze a model where consumers sequentially search experts for treatment recommendations and prices, facing either zero or a positive search cost, whereas experts simultaneously compete in these two dimensions. In equilibrium, experts may “cheat” by overstating the severity of a consumer's problem and recommending an unnecessary treatment, prices follow distributions depending on the problem type and the treatment, and consumers employ Bayesian belief updating about their problem types during search. Paradoxically, as search cost decreases, expert cheating and prices can both increase stochastically. However, if search cost is sufficiently small, competition will force all experts to behave honestly.",
+            "abstract_zh": "摘要 我们分析了一个模型，其中消费者依次搜索专家以获取治疗建议和价格，面临零或正的搜索成本，而专家同时在这两者上进行竞争。在均衡状态下，专家可能会通过夸大消费者问题的严重性并推荐不必要的治疗来“作弊”，价格遵循取决于问题类型和治疗的分布，消费者在搜索过程中使用贝叶斯信念更新来了解他们的问题类型。矛盾的是，随着搜索成本的降低，专家作弊和价格都可能随机增加。然而，如果搜索成本足够小，竞争将迫使所有专家诚实行事。",
             "matched_topics": [
-              "产业经济",
               "创新药"
             ]
           },
           {
-            "title_en": "Auctioning Off Budgets in Procurement",
-            "title_zh": "拍卖预算在采购中的应用",
-            "url": "https://doi.org/10.1111/1756-2171.70028",
-            "abstract_en": "ABSTRACT This article investigates a multi‐unit pay‐as‐bid procurement auction where the auctioneer fixes total spending and maximizes the quantity procured with their predetermined, secret budget. Previous literature has analyzed fixed‐quantity auctions, where the traded quantity is fixed but unknown to the bidders. Compared to such auctions, budget auctions lower the auctioneer's costs by introducing an additional interaction between a bidder's bids; bidders not only weigh a higher profit margin on a unit against a lower probability of supplying that unit; a higher margin on some unit also reduces the probability that the budget suffices to procure more units from the bidder.",
-            "abstract_zh": "摘要 本文研究了一种多单位支付-出价采购拍卖，其中拍卖人固定总支出，并利用其预定的秘密预算最大化采购数量。先前文献分析了固定数量拍卖，其中交易数量是固定的但对竞拍者来说是未知的。与此类拍卖相比，预算拍卖通过引入竞拍者出价之间的额外互动来降低拍卖人的成本；竞拍者不仅权衡单位利润率的提高与供应该单位的概率降低；某些单位上更高的利润率也降低了预算足以从竞拍者那里采购更多单位的概率。",
+            "title_en": "Horizontal Mergers and Incremental Innovation",
+            "title_zh": "水平并购与渐进式创新",
+            "url": "https://doi.org/10.1111/1756-2171.70045",
+            "abstract_en": "ABSTRACT We study the impact of horizontal mergers on the incentives of merging firms to invest in incremental innovation. We provide a decomposition of this impact that clarifies the various forces at work and the differences between demand‐enhancing and cost‐reducing innovation. Moreover, we derive sufficient conditions for a merger to either reduce or raise the merging firms' incentives to innovate, and show that the comparison of the price diversion ratio and the innovation diversion ratio can help screen mergers. We also uncover a useful connection between the level of production synergies induced by a merger and its impact on innovation.",
+            "abstract_zh": "摘要 我们研究了水平合并对合并企业投资于渐进式创新的激励的影响。我们提供了这种影响的分解，阐明了各种作用力以及需求增强型创新和成本降低型创新之间的差异。此外，我们推导出了合并减少或提高合并企业创新激励的充分条件，并表明价格转移比率与创新转移比率的比较可以帮助筛选合并。我们还揭示了由合并引起的生产协同效应水平与其对创新影响之间的有用联系。",
             "matched_topics": [
-              "国际贸易"
+              "产业经济",
+              "企业创新"
             ]
           },
           {
-            "title_en": "Content‐Hosting Platforms: Discovery, Membership, Or Both?",
-            "title_zh": "内容托管平台：发现、会员制还是两者兼有？",
-            "url": "https://doi.org/10.1111/1756-2171.70029",
-            "abstract_en": "ABSTRACT Our model classifies platforms in the “creator economy” —for example, Youtube, Patreon, and Twitch—into three business models: pure discovery (helping consumers search for creators); pure membership (enabling direct creator–consumer monetization); and hybrid (combining both). Creators respond to platforms' decisions by choosing their content design along a broad‐niche spectrum, trading off between viewership size and per‐viewer monetization. With a monopoly platform, moving from pure discovery to hybrid increases profit while inducing a more niche content design; moving from pure membership to hybrid can reduce platform profit while inducing a broader content design. We show how intense platform competition reverses these trade‐offs.",
-            "abstract_zh": "摘要 我们的模型将“创作者经济”中的平台——例如YouTube、Patreon和Twitch——分为三种商业模式：纯粹的发现（帮助消费者寻找创作者）；纯粹的会员制（使创作者与消费者之间的直接货币化成为可能）；以及混合型（结合了两者）。创作者通过在广泛-小众内容设计谱系中选择自己的内容设计来响应平台的决策，权衡观众规模和每位观众的货币化。在垄断平台的情况下，从纯粹的发现转向混合型可以增加利润，同时促使内容设计更加小众化；从纯粹的会员制转向混合型可能会减少平台利润，同时促使内容设计更加广泛化。我们展示了激烈的平台竞争如何逆转这些权衡。",
+            "title_en": "Stable Price Dispersion under Heterogeneous Buyer Consideration",
+            "title_zh": "异质性买家考虑下的稳定价格离散",
+            "url": "https://doi.org/10.1111/1756-2171.70018",
+            "abstract_en": "ABSTRACT We study the pricing of homogeneous products sold to customers who consider different sets of suppliers. We identify prices that are stable in the sense that no firm wishes to undercut a rival or to raise its price when rivals are able to respond by offering special deals. We derive stable and dispersed prices across several price‐consideration specifications. We contrast the implications against those of conventional approaches.",
+            "abstract_zh": "摘要 我们研究了向考虑不同供应商集合的顾客销售同质产品的定价问题。我们确定了稳定的价格，即没有公司希望在竞争对手能够通过提供特殊交易来回应时，降低价格以削弱对手或提高价格。我们推导出了几种价格考虑规范下的稳定和分散的价格。我们将这些含义与传统方法的含义进行了对比。",
             "matched_topics": [
-              "国际贸易"
+              "产业经济"
             ]
           },
           {
-            "title_en": "Rx‐to‐OTC Switch, Market Exclusivity, and Consumer Welfare: A Study of the US Anti‐Ulcer Drug Markets",
-            "title_zh": "处方药转非处方药、市场独占权与消费者福利：美国抗溃疡药市场研究",
-            "url": "https://doi.org/10.1111/1756-2171.70034",
-            "abstract_en": "ABSTRACT We study the US Anti‐Ulcer Drug market, where market exclusivity is granted to the first over‐the‐counter (OTC) drug independent of prescription drugs' patent expiry. We show that due to the interplay of incentives in the prescription and OTC drug markets, compared to a world with no market exclusivity policy, the status quo design reduces consumer welfare by 1.6 billion USD, as it causes many firms to delay entry into the OTC drug market until prescription drug patents expire. An alternative policy linking OTC exclusivity provision to prescription drug patent expiry dates improves drug access and increases consumer welfare by 3.4 billion USD.",
-            "abstract_zh": "摘要 我们研究了美国抗溃疡药物市场，该市场授予首个非处方（OTC）药物市场独占权，而不考虑处方药的专利到期。我们表明，由于处方药和OTC药物市场激励的相互作用，与没有市场独占政策的世界相比，当前的设计减少了16亿美元的消费者福利，因为它导致许多公司推迟进入OTC药物市场，直到处方药专利到期。将OTC独占权规定与处方药专利到期日相联系的替代政策可以改善药物获取并增加34亿美元的消费者福利。",
+            "title_en": "Network Competition in the Airline Industry: An Empirical Framework",
+            "title_zh": "航空业网络竞争：一个实证框架",
+            "url": "https://doi.org/10.1111/1756-2171.70031",
+            "abstract_en": "ABSTRACT This article proposes an empirical framework and a novel equilibrium concept to analyze network competition in the airline industry. A two‐stage entry model links direct and indirect flights, using a technological relationship estimated from data to mimic the hub‐and‐spoke network. It employs revealed‐preference arguments to bound fixed cost parameters, estimated using state‐of‐the‐art econometric methods. Ignoring network externality undervalues the benefits of additional flights by 13.2% and leads to 21.5% fewer one‐stop flights. A hypothetical merger between Alaska and Virgin in 2014 could increase consumer surplus as the merged airline would offer more flights with muted post‐merger prices.",
+            "abstract_zh": "摘要 本文提出了一个实证框架和一个新的均衡概念，用以分析航空业中的网络竞争。一个两阶段进入模型将直飞和转机联系起来，利用从数据中估计出的技术关系来模拟枢纽-辐射网络。它采用显示偏好论点来界定固定成本参数，这些参数是使用最先进的计量经济学方法估计的。忽视网络外部性会低估额外航班的好处13.2%，并导致转机航班减少21.5%。2014年阿拉斯加和维珍航空之间的假设合并可能会增加消费者剩余，因为合并后的航空公司会提供更多航班，并且合并后的价格会有所抑制。",
             "matched_topics": [
-              "企业创新",
-              "医药产业"
+              "产业经济"
             ]
           },
           {
-            "title_en": "Price Setting on a Network",
-            "title_zh": "网络定价",
-            "url": "https://doi.org/10.1111/1756-2171.70035",
-            "abstract_en": "ABSTRACT I study price setting within a network of interconnected monopolists. Some firms possess stronger commitment or bargaining power than others, enabling them to influence the pricing decisions of other firms. Although it is well‐understood that multiple marginalization reduces both total profits and social welfare, I show that strategic interactions within the network exacerbate the marginalization problem. Individual profits are proportional to a new measure of network centrality, defined by the equilibrium characterization. The results underscore the importance of network structure in policy considerations, such as mergers or trade policies.",
-            "abstract_zh": "摘要：我研究了相互连接的垄断者网络中的价格设定问题。一些公司比其他公司具有更强的承诺力或议价能力，使它们能够影响其他公司的价格决策。尽管众所周知多重边际化会降低总利润和社会福利，但我展示了网络内的战略互动加剧了边际化问题。个体利润与网络中心性的新度量成正比，该度量由均衡特征定义。结果强调了在政策考虑中，如合并或贸易政策，网络结构的重要性。",
+            "title_en": "Optimal Job Design and Information Elicitation",
+            "title_zh": "最优工作设计和信息引出",
+            "url": "https://doi.org/10.1111/1756-2171.70037",
+            "abstract_en": "ABSTRACT When managers rely on their subordinates for local information but cannot commit to how such information is used, the incentives for effort and information elicitation become intertwined. This incentive problem influences the firm's job design decision, that is, whether to assign all tasks in a job to one worker (“individual assignment”) or split those among a group (“team assignment”). Team assignment facilitates information elicitation but suffers from diseconomies of scope in incentive provision. The optimal job design is driven by the workers' likelihood of being informed (about local conditions) and the noise in the performance measure used to reward them.",
+            "abstract_zh": "摘要：当管理者依赖下属提供当地信息，但又无法承诺如何使用这些信息时，努力激励和信息激励就变得相互交织。这种激励问题影响着公司的工作设计决策，即是否将所有任务分配给一个工人（“个人分配”）还是将任务分配给一个团队（“团队分配”）。团队分配有助于信息激励，但在激励提供上存在范围不经济。最优的工作设计取决于工人被告知（关于当地条件）的可能性以及用于奖励他们的绩效衡量中的噪声。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Ad Valorem Taxation in a Multiproduct Monopoly",
+            "title_zh": "多产品垄断下的从价税制",
+            "url": "https://doi.org/10.1111/1756-2171.70025",
+            "abstract_en": "ABSTRACT We study the pass‐through of ad valorem taxes with a multiproduct monopolist. We characterize two mechanisms whereby an ad valorem tax on one good reduces all prices (Edgeworth's paradox), depending on the goods being substitutes or complements. We also find that the tax can increase the supply of all goods. Hence, consumer surplus and welfare can increase even when the goods are underprovided compared to the social optimum. We provide several applications where these results hold. Our findings indicate that in a multiproduct setting the effects of unit and ad valorem taxes on market outcomes and welfare are fundamentally different.",
+            "abstract_zh": "摘要 我们研究了多产品垄断者对从价税的传递效应。我们描述了两种机制，即对一种商品征收从价税会降低所有商品的价格（埃奇沃斯悖论），这取决于商品是替代品还是互补品。我们还发现，税收可以增加所有商品的供应量。因此，即使商品供应量低于社会最优水平，消费者剩余和福利也可能增加。我们提供了几个这些结果成立的应用实例。我们的发现表明，在多产品设置中，单位税和从价税对市场结果和福利的影响是根本不同的。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Multi‐Product Monopolist and Information Design",
+            "title_zh": "多产品垄断者与信息设计",
+            "url": "https://doi.org/10.1111/1756-2171.70033",
+            "abstract_en": "ABSTRACT We study the information design and pricing decision of a multi‐product monopolist who faces a buyer with unit demand. Under omniscient disclosure, we show that one profit‐maximizing menu reveals the identity of the highest quality product and allocates that product, provided a type‐specific quality threshold is met. This menu remains optimal under private disclosure if the buyer's value has constant differences in quality and type, or if the value has non‐decreasing differences in quality and type and the threshold type is independent of quality. We also characterize the conditions under which an ex‐ante and non‐discriminatory posted price mechanism is optimal.",
+            "abstract_zh": "摘要 我们研究了一个面对单一需求买家的多产品垄断者的信息设计和定价决策。在全知披露下，我们展示了一个利润最大化的菜单揭示了最高品质产品的身份，并分配了该产品，前提是满足特定类型的质量阈值。如果买家的价值在质量和类型上具有恒定差异，或者价值在质量和类型上具有非递减差异，并且阈值类型与质量无关，则该菜单在私下披露下仍然保持最优。我们还描述了事前和非歧视性的挂牌价格机制最优的条件。",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Purchase History and Product Personalization",
+            "title_zh": "购买历史与产品个性化",
+            "url": "https://doi.org/10.1111/1756-2171.70007",
+            "abstract_en": "ABSTRACT Product personalization opens the door to price discrimination. A rich product line allows firms to better tailor products to consumers' tastes, but the mere choice of a product carries valuable information about consumers that can be leveraged for price discrimination. We study this trade‐off in an upstream ‐ downstream model, where a consumer buys a good of variable quality upstream, followed by an indivisible good downstream. The downstream firm's use of the consumer's purchase history for price discrimination introduces a novel distortion: The upstream firm offers a subset of the products that it would offer if, instead, it could jointly design its product line and downstream pricing. By controlling the degree of product personalization the upstream firm curbs ratcheting forces that result from the consumer facing downstream price discrimination.",
+            "abstract_zh": "摘要：产品个性化为价格歧视打开了大门。丰富的产品线使企业能够更好地根据消费者的口味定制产品，但产品选择本身提供了有关消费者的有价值信息，这些信息可以被用来进行价格歧视。我们在一个上游-下游模型中研究了这种权衡，在这个模型中，消费者首先购买上游的可变质量商品，然后购买下游的不可分割商品。下游企业利用消费者的购买历史进行价格歧视，引入了一种新的扭曲：上游企业提供了它本会提供的产品的子集，如果它能够联合设计其产品线和下游定价的话。通过控制产品个性化的程度，上游企业抑制了由于消费者面临下游价格歧视而产生的棘轮效应。",
             "matched_topics": [
               "国际贸易",
               "产业经济"
-            ]
-          },
-          {
-            "title_en": "The Timing of New Technology Adoption: The Case of MRI",
-            "title_zh": "新技术采纳的时机：以磁共振成像（MRI）为例",
-            "url": "https://doi.org/10.1111/1756-2171.70022",
-            "abstract_en": "ABSTRACT This paper studies the adoption of nuclear magnetic resonance imaging (MRI) by US hospitals. I consider a timing game of new technology adoption. The dynamic game takes timing decisions and strategic interaction into account. Using a panel data set of US hospitals, cross sectional variation in adoption times, market structure and demand is exploited to recover the profit and cost parameters. In counterfactuals, I quantify to what extent the timing of adoption is caused by a preemptive motive. I find a small but significant effect of preemptive motives, which are weakened by firm asymmetry.",
-            "abstract_zh": "摘要 本文研究了美国医院采用核磁共振成像（MRI）的情况。我考虑了一个新技术采用的时间博弈。动态博弈考虑了时机决策和战略互动。利用美国医院的面板数据集，利用采用时间、市场结构和需求的横截面变化来恢复利润和成本参数。在反事实分析中，我量化了采用时机在多大程度上是由先发制人的动机引起的。我发现先发制人的动机有小但显著的影响，这种影响被企业不对称性所削弱。",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Contingent Prizes in Dynamic Contests",
-            "title_zh": "动态竞赛中的或有奖励",
-            "url": "https://doi.org/10.1111/1756-2171.70019",
-            "abstract_en": "ABSTRACT Firms and government agencies increasingly use online contests to find solutions to problems. These contests allow players to make multiple attempts, and their progress is tracked on a real‐time public leaderboard. Although the contests are dynamic , contest sponsors miss the opportunity to dynamically shape players' incentives, as they award the entire prize pool based only on players' final rankings. We propose the use of contingent prizes that depend on the game's history to incentivize players throughout the contest. We present evidence from two methodologies—a structural model and an RCT—showing that contingent prizes can significantly improve contest outcomes.",
-            "abstract_zh": "摘要：企业和政府机构越来越多地使用在线竞赛来寻找问题的解决方案。这些竞赛允许参与者进行多次尝试，并且他们的进步会在实时公共排行榜上被跟踪。尽管竞赛是动态的，但竞赛赞助商错过了动态塑造参与者激励的机会，因为他们仅根据参与者的最终排名来分配整个奖金池。我们提出使用依赖于游戏历史的或有奖金来激励整个竞赛过程中的参与者。我们从两种方法论——结构模型和随机对照试验（RCT）——提供的证据表明，或有奖金可以显著改善竞赛结果。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Drip Pricing When Consumers Have Limited Foresight: Evidence from Driving School Fees",
-            "title_zh": "消费者有限远见下的滴灌定价：来自驾校费用的证据",
-            "url": "https://doi.org/10.1111/1756-2171.70011",
-            "abstract_en": "ABSTRACT This article empirically examines the “drip” pricing behavior of firms, where consumers purchase a base product and may later buy an add‐on, often without anticipating the need for it. A loss leader pricing strategy emerges, with firms pricing the base product below, and the add‐on above, standalone levels. Using data from the Portuguese driving instruction market, we find that base course prices decrease with competition, while prices for add‐on repeat courses do not. A survey reveals that at least 25% of students are inattentive to repeat fees, driven by underestimating failure rates and being unaware of repeat test costs.",
-            "abstract_zh": "摘要 本文实证检验了企业的“滴灌”定价行为，即消费者购买基础产品，并可能在之后购买附加产品，通常没有预见到对附加产品的需求。出现了一种亏损领导者定价策略，企业将基础产品的价格定在低于独立水平，而将附加产品的价格定在高于独立水平。利用葡萄牙驾驶指导市场的数据，我们发现基础课程的价格随着竞争而降低，而附加重复课程的价格则没有。一项调查显示，至少有25%的学生对重复费用不够关注，这是由于他们低估了失败率，并且不了解重复测试的成本。",
-            "matched_topics": [
-              "产业经济",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Endogenous Technology Spillovers in R&amp;D Collaboration Networks",
-            "title_zh": "内生技术溢出在研发合作网络中的作用",
-            "url": "https://doi.org/10.1111/1756-2171.70010",
-            "abstract_en": "ABSTRACT We introduce an R&D network formation model where firms choose both R&D efforts and collaboration partners. Neighbors in the network benefit from each other's R&D through technology spillovers, and there exists competition effects reflecting strategic substitutability in R&D. We provide a complete equilibrium characterization, and develop an estimation method that is computationally feasible for large networks. We then conduct an analysis of R&D collaboration subsidies, and find that a subsidy scheme targeting specific R&D collaborations can be more effective than a uniform subsidy, with a welfare gain up to five times larger than the cost of the subsidy.",
-            "abstract_zh": "摘要 我们引入了一个研发网络形成模型，其中企业既选择研发投入，也选择合作伙伴。网络中的邻居通过技术溢出从彼此的研发中获益，并且存在反映研发中战略可替代性的竞争效应。我们提供了一个完整的均衡特征描述，并开发了一种对大型网络计算可行的估计方法。然后，我们对研发合作补贴进行了分析，发现针对特定研发合作的补贴计划可能比统一补贴更有效，其福利收益高达补贴成本的五倍。",
-            "matched_topics": [
-              "企业创新"
             ]
           }
         ],
@@ -1114,9 +1192,20 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 5",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 6,
-        "total_in_issue": 8,
+        "matched_count": 8,
+        "total_in_issue": 10,
         "papers": [
+          {
+            "title_en": "Specialisation and the career outcomes of inventors",
+            "title_zh": "专业化与发明家的职业成果",
+            "url": "https://doi.org/10.1016/j.respol.2026.105477",
+            "abstract_en": "Recent years have seen a reorganisation of innovation production to favour groups of collaborators, and increasingly specialised individual inventors. In this paper I construct a panel of highly prolific inventors, whom I observe frequently throughout their career. I develop a simple setting whereby inventors face a trade-off between acquiring knowledge depth and knowledge breadth. Empirically, I provide suggestive evidence that after conditioning upon the selection of inventors into specialised careers in certain technological fields, specialisation is associated with a lower probability of contributing to a top-cited invention over the remainder of their career. This suggestive evidence is consistent with a mechanism where specialised inventors are vulnerable to knowledge obsolescence in the late stages of their career. The negative relationship between specialisation and highly cited inventions is concerning given the disproportionate value of such inventions to society. • I create a novel dataset on the careers of prolific inventors. • I integrate career cycle effects into the study of specialisation and productivity. • I develop a measure of specialisation at the inventor-field-year level. • I find specialisation is negatively linked to contributing to top-cited inventions. • I present evidence that this is consistent with a knowledge obsolescence mechanism.",
+            "abstract_zh": "近年来，创新生产经历了重组，更倾向于支持合作者群体和日益专业化的个体发明家。在本文中，我构建了一个高产发明家面板，我在整个职业生涯中频繁观察他们。我发展了一个简单的环境，发明家在获取知识深度和知识广度之间面临权衡。从实证上，我提供了暗示性证据，表明在控制发明家选择进入某些技术领域的专业化职业后，专业化与在剩余职业生涯中贡献于顶级引用发明的概率较低相关。这种暗示性证据与专业化发明家在职业生涯后期易受知识过时影响的机制一致。考虑到这些发明对社会的不成比例价值，专业化与高度引用发明之间的负相关关系令人担忧。•我创建了一个关于高产发明家职业生涯的新数据集。•我将职业周期效应整合到专业化和生产力的研究中。•我开发了一种在发明家-领域-年份层面的专业化度量方法。•我发现专业化与贡献于顶级引用发明之间存在负相关。•我提出了证据，表明这与知识过时机制一致。",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
+            ]
+          },
           {
             "title_en": "Did the defend trade secrets act spur the reliance on trade secrets?",
             "title_zh": "《保护商业秘密法案》是否促进了对商业秘密的依赖？",
@@ -1135,6 +1224,17 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "Managing alliance portfolio interdependencies for innovation: The role of governance choice in new alliances",
+            "title_zh": "管理创新联盟组合的相互依赖性：新联盟中治理选择的作用",
+            "url": "https://doi.org/10.1016/j.respol.2026.105475",
+            "abstract_en": "Firms can govern their alliances through contractual agreements or equity joint ventures, the latter involving the shared ownership of a newly formed legal entity. This paper argues that the governance choice in a new alliance can be a lever for a firm to manage interdependencies in its alliance portfolio. We examine two related ideas. The first is that the choice of governance structure for a new alliance depends on the composition of a firm's alliance portfolio. The second is that this governance choice has implications for the nature of the firm's innovation outputs. Using data on U.S.-listed dedicated biotechnology firms, we find that firms are more likely to govern a new alliance through a contractual agreement when the accessed resources are similar to the resources available in their existing alliance portfolio. This choice also increases innovation in these similar resource domains. In contrast, firms are more likely to choose an equity joint venture when the accessed resources are complementary to their existing alliance portfolio, a choice that increases innovation in these complementary resource domains. Our findings extend the alliance-portfolio perspective by linking portfolio interdependencies to the governance choices in new alliances and their implications for innovation. • Firms use governance choice in new alliances to manage alliance portfolio interdependencies. • Contracts are preferred when accessing resources similar as in existing alliances. • Joint ventures are preferred when accessing resources complementary to existing alliances. • Governance choice influences the types of innovation outputs the firm achieves. • Contracts foster innovation in similar domains and JVs in complementary domains.",
+            "abstract_zh": "企业可以通过合同协议或股权合资企业来管理其联盟，后者涉及新成立的法人实体的共同所有权。本文认为，在新联盟中的治理选择可以成为企业管理其联盟组合中相互依赖性的杠杆。我们检验了两个相关的观点。第一个是，新联盟的治理结构选择取决于企业联盟组合的构成。第二个是，这种治理选择对企业创新产出的性质有影响。利用美国上市的专门生物技术公司的数据，我们发现，当获取的资源与现有联盟组合中可用的资源相似时，企业更有可能通过合同协议来管理新联盟。这种选择还增加了这些相似资源领域的创新。相比之下，当获取的资源与现有联盟组合互补时，企业更有可能选择股权合资企业，这种选择增加了这些互补资源领域的创新。我们的发现扩展了联盟组合视角，将组合相互依赖性与新联盟中的治理选择及其对创新的影响联系起来。• 企业在新联盟中使用治理选择来管理联盟组合的相互依赖性。• 当获取的资源与现有联盟相似时，更倾向于选择合同。• 当获取的资源与现有联盟互补时，更倾向于选择合资企业。• 治理选择影响企业实现的创新产出类型。• 合同促进相似领域的创新，而合资企业促进互补领域的创新。",
+            "matched_topics": [
+              "企业创新",
+              "医药产业"
             ]
           },
           {
@@ -1307,13 +1407,14 @@
             ]
           },
           {
-            "title_en": "A Method for Asynchronous Time Series Analysis with Marketing Applications",
-            "title_zh": "一种具有营销应用的异步时间序列分析方法",
-            "url": "https://doi.org/10.1287/mnsc.2024.04336",
-            "abstract_en": "Many time series data evolve asynchronously. In marketing, for example, we observe ad liking every second, hourly clickstreams, daily sales, weekly brand awareness, or monthly ad expenditures. Thus, the question arises: how to estimate dynamic models when metrics evolve at different frequencies? To this end, we develop a new method for estimation and inference of state space models for asynchronous data. In contrast to existing approaches, the proposed method does not require any data preprocessing to align frequencies. We derive the optimal gain factor from first principles and demonstrate in three simulation studies that the new method recovers model parameters as accurately as the full-information Kalman filter as if all data were available. This finding holds across various degrees of noise levels and data sparsity. More importantly, we show that ignoring data asynchronicity results in substantially biased parameter estimates. Empirically, we illustrate the efficacy of the new method via two applications: copy testing of an advertisement and a marketing mix model, both with asynchronous data. It yields meaningful results compared with those obtained by aligning asynchronous data to the slowest frequency (i.e., data aggregation). In the marketing mix application, for example, data aggregation produces erroneously insignificant estimates of sales carryover and TV effectiveness, and these become significant when we apply the new method. These biased estimates can have serious managerial consequences. Thus, the proposed method paves the way to analyze asynchronous time series data: slow- or fast-moving dependent variables, slow- or fast-moving independent variables, and all of them at equal or unequal frequencies. This paper was accepted by Eric Anderson, marketing. Funding: This work was supported by the Marketing Science Institute [Grant 4-1959]. P. A. Naik acknowledges the financial support received from the University of California Davis travel and small research grants program across 2015–2024. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04336 .",
-            "abstract_zh": "许多时间序列数据以异步方式演变。例如，在市场营销中，我们观察到每秒的广告点赞、每小时的点击流、每日销售、每周品牌意识或每月广告支出。因此，问题出现了：当指标以不同频率演变时，如何估计动态模型？为此，我们开发了一种新的方法，用于估计和推断异步数据的状态空间模型。与现有方法不同，所提出的方法不需要任何数据预处理来对齐频率。我们从基本原理出发推导出最优增益因子，并在三项模拟研究中证明，新方法恢复模型参数的准确性与全信息卡尔曼滤波器一样，就好像所有数据都可用一样。这一发现适用于各种噪声水平和数据稀疏度。更重要的是，我们展示了忽略数据异步性会导致参数估计的显著偏差。从实证上，我们通过两个应用来说明新方法的有效性：广告副本测试和市场营销组合模型，两者都包含异步数据。与将异步数据对齐到最慢频率（即数据聚合）所获得的结果相比，它产生了有意义的结果。例如，在市场营销组合应用中，数据聚合产生了销售延续和电视效果的错误不显著估计，而当我们应用新方法时，这些变得显著。这些有偏估计可能会产生严重的管理后果。因此，所提出的方法为分析异步时间序列数据铺平了道路：慢速或快速移动的因变量、慢速或快速移动的自变量，以及它们以相等或不相等的频率出现。本文由埃里克·安德森接受，市场营销。资金：这项工作得到了市场营销科学研究所[Grant 4-1959]的支持。P.A. Naik感谢加州大学戴维斯分校在2015-2024年期间提供的旅行和小额研究资助计划的财政支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2024.04336找到。",
+            "title_en": "Market Design Choices, Racial Discrimination, and Equitable Microentrepreneurship in Digital Marketplaces",
+            "title_zh": "市场设计选择、种族歧视与数字市场中的公平微型创业",
+            "url": "https://doi.org/10.1287/mnsc.2023.01717",
+            "abstract_en": "This study investigates the potential of market design choices, specifically quality certification, to mitigate racial discrimination in digital marketplaces. Using a regression discontinuity design (RDD) that exploits the discontinuity in Airbnb’s Superhost assignment, we find that Black hosts benefit 1.5 times more from the quality certification than other hosts. Moreover, we find compelling evidence that this disproportionate increase does not come at the expense of non-Superhost Black hosts. This suggests that quality certification can effectively reduce discrimination and promote equitable outcomes. Further, our analysis utilizing a doubly robust machine learning approach reveals that the effectiveness of quality certification persists even in the prominent presence of consumer reviews, a widely used market feature and a credible user-generated quality signal. Our research underscores the judicious use of market design in fostering equity for minority entrepreneurs in digital marketplaces. This paper was accepted by Hemant Bhargava, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01717 .",
+            "abstract_zh": "本研究探讨了市场设计选择，特别是质量认证，对减轻数字市场中种族歧视的潜力。利用回归不连续设计（RDD），我们利用Airbnb超级房东分配中的不连续性，发现黑人房东从质量认证中获益比其他房东多1.5倍。此外，我们发现有力证据表明，这种不成比例的增加并没有以牺牲非超级房东黑人房东为代价。这表明质量认证可以有效减少歧视，促进公平结果。进一步地，我们利用双重稳健的机器学习方法进行的分析揭示，即使在消费者评论这一广泛使用且可信的用户生成质量信号的显著存在下，质量认证的有效性仍然持续存在。我们的研究强调了在数字市场中促进少数族裔企业家公平的审慎市场设计使用。本文由Hemant Bhargava，信息系统接受。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.01717 查阅。",
             "matched_topics": [
-              "国际贸易"
+              "企业创新",
+              "创新药"
             ]
           },
           {
@@ -1327,14 +1428,13 @@
             ]
           },
           {
-            "title_en": "Market Design Choices, Racial Discrimination, and Equitable Microentrepreneurship in Digital Marketplaces",
-            "title_zh": "市场设计选择、种族歧视与数字市场中的公平微型创业",
-            "url": "https://doi.org/10.1287/mnsc.2023.01717",
-            "abstract_en": "This study investigates the potential of market design choices, specifically quality certification, to mitigate racial discrimination in digital marketplaces. Using a regression discontinuity design (RDD) that exploits the discontinuity in Airbnb’s Superhost assignment, we find that Black hosts benefit 1.5 times more from the quality certification than other hosts. Moreover, we find compelling evidence that this disproportionate increase does not come at the expense of non-Superhost Black hosts. This suggests that quality certification can effectively reduce discrimination and promote equitable outcomes. Further, our analysis utilizing a doubly robust machine learning approach reveals that the effectiveness of quality certification persists even in the prominent presence of consumer reviews, a widely used market feature and a credible user-generated quality signal. Our research underscores the judicious use of market design in fostering equity for minority entrepreneurs in digital marketplaces. This paper was accepted by Hemant Bhargava, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01717 .",
-            "abstract_zh": "本研究探讨了市场设计选择，特别是质量认证，对减轻数字市场中种族歧视的潜力。利用回归不连续设计（RDD），我们利用Airbnb超级房东分配中的不连续性，发现黑人房东从质量认证中获益比其他房东多1.5倍。此外，我们发现有力证据表明，这种不成比例的增加并没有以牺牲非超级房东黑人房东为代价。这表明质量认证可以有效减少歧视，促进公平结果。进一步地，我们利用双重稳健的机器学习方法进行的分析揭示，即使在消费者评论这一广泛使用且可信的用户生成质量信号的显著存在下，质量认证的有效性仍然持续存在。我们的研究强调了在数字市场中促进少数族裔企业家公平的审慎市场设计使用。本文由Hemant Bhargava，信息系统接受。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.01717 查阅。",
+            "title_en": "A Method for Asynchronous Time Series Analysis with Marketing Applications",
+            "title_zh": "一种具有营销应用的异步时间序列分析方法",
+            "url": "https://doi.org/10.1287/mnsc.2024.04336",
+            "abstract_en": "Many time series data evolve asynchronously. In marketing, for example, we observe ad liking every second, hourly clickstreams, daily sales, weekly brand awareness, or monthly ad expenditures. Thus, the question arises: how to estimate dynamic models when metrics evolve at different frequencies? To this end, we develop a new method for estimation and inference of state space models for asynchronous data. In contrast to existing approaches, the proposed method does not require any data preprocessing to align frequencies. We derive the optimal gain factor from first principles and demonstrate in three simulation studies that the new method recovers model parameters as accurately as the full-information Kalman filter as if all data were available. This finding holds across various degrees of noise levels and data sparsity. More importantly, we show that ignoring data asynchronicity results in substantially biased parameter estimates. Empirically, we illustrate the efficacy of the new method via two applications: copy testing of an advertisement and a marketing mix model, both with asynchronous data. It yields meaningful results compared with those obtained by aligning asynchronous data to the slowest frequency (i.e., data aggregation). In the marketing mix application, for example, data aggregation produces erroneously insignificant estimates of sales carryover and TV effectiveness, and these become significant when we apply the new method. These biased estimates can have serious managerial consequences. Thus, the proposed method paves the way to analyze asynchronous time series data: slow- or fast-moving dependent variables, slow- or fast-moving independent variables, and all of them at equal or unequal frequencies. This paper was accepted by Eric Anderson, marketing. Funding: This work was supported by the Marketing Science Institute [Grant 4-1959]. P. A. Naik acknowledges the financial support received from the University of California Davis travel and small research grants program across 2015–2024. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04336 .",
+            "abstract_zh": "许多时间序列数据以异步方式演变。例如，在市场营销中，我们观察到每秒的广告点赞、每小时的点击流、每日销售、每周品牌意识或每月广告支出。因此，问题出现了：当指标以不同频率演变时，如何估计动态模型？为此，我们开发了一种新的方法，用于估计和推断异步数据的状态空间模型。与现有方法不同，所提出的方法不需要任何数据预处理来对齐频率。我们从基本原理出发推导出最优增益因子，并在三项模拟研究中证明，新方法恢复模型参数的准确性与全信息卡尔曼滤波器一样，就好像所有数据都可用一样。这一发现适用于各种噪声水平和数据稀疏度。更重要的是，我们展示了忽略数据异步性会导致参数估计的显著偏差。从实证上，我们通过两个应用来说明新方法的有效性：广告副本测试和市场营销组合模型，两者都包含异步数据。与将异步数据对齐到最慢频率（即数据聚合）所获得的结果相比，它产生了有意义的结果。例如，在市场营销组合应用中，数据聚合产生了销售延续和电视效果的错误不显著估计，而当我们应用新方法时，这些变得显著。这些有偏估计可能会产生严重的管理后果。因此，所提出的方法为分析异步时间序列数据铺平了道路：慢速或快速移动的因变量、慢速或快速移动的自变量，以及它们以相等或不相等的频率出现。本文由埃里克·安德森接受，市场营销。资金：这项工作得到了市场营销科学研究所[Grant 4-1959]的支持。P.A. Naik感谢加州大学戴维斯分校在2015-2024年期间提供的旅行和小额研究资助计划的财政支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2024.04336找到。",
             "matched_topics": [
-              "企业创新",
-              "创新药"
+              "国际贸易"
             ]
           },
           {
@@ -1379,14 +1479,13 @@
             ]
           },
           {
-            "title_en": "Information Technology in Banking and Entrepreneurship",
-            "title_zh": "信息技术在银行与创业中的应用",
-            "url": "https://doi.org/10.1287/mnsc.2023.02555",
-            "abstract_en": "We study the importance of information technology (IT) in banking for entrepreneurship. Guided by a parsimonious model, we establish that job creation by young firms is stronger in U.S. counties more exposed to banks with greater IT adoption. We present evidence consistent with banks’ IT adoption spurring entrepreneurship through a collateral channel: entrepreneurship increases by more in IT-exposed counties when house prices rise. Further analysis suggests that IT improves banks’ ability to determine collateral values, in particular when collateral appraisal is more complex. IT also reduces the time and cost of disbursing collateralized loans. This paper was accepted by Bo Becker, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02555 .",
-            "abstract_zh": "我们研究了信息技术（IT）在银行业对创业的重要性。在简约模型的指导下，我们确定，在美国更多接触采用IT较多的银行的县份中，年轻公司创造的就业机会更强。我们提供的证据与银行采用IT通过抵押品渠道促进创业一致：当房价上涨时，IT接触较多的县份中创业增加得更多。进一步分析表明，IT提高了银行确定抵押品价值的能力，特别是在抵押品评估更加复杂时。IT还减少了发放抵押贷款所需的时间和成本。本文由Bo Becker接受，财务。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.02555找到。",
+            "title_en": "Long-Run Returns to Private Equity in Emerging Markets",
+            "title_zh": "新兴市场中私募股权的长期回报",
+            "url": "https://doi.org/10.1287/mnsc.2023.03313",
+            "abstract_en": "We provide the first evidence on the long-run returns to private equity in emerging and frontier markets using the cash flows from every equity investment made by the International Finance Corporation across 130 countries over 58 years. Risk-adjusted returns are comparable to the S&P 500, at least from 1961 until 2010. Returns improve with economic growth but decline as banking systems deepen and countries relax capital controls. These results are consistent with the thesis that financial frictions have prevented the flow of capital from rich to poor countries and that the persistence of impact investors’ performance may rely on identifying or creating new markets that lack access to capital. This paper was accepted by Agostino Capponi, finance. Conflict of Interest Statement: Shawn Cole served five days as a “Short Term Consultant” to the IFC in 2018–19 and in a non-compensated advisory role for Y Analytics, a subsidiary of impact investor TPG/Rise. Martin Melecky, Florian Mölders, and Tristan Reed are employees of the World Bank Group. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03313 .",
+            "abstract_zh": "我们首次提供了有关新兴市场和前沿市场私募股权长期回报的证据，使用了国际金融公司在58年间对130个国家进行的每一次股权投资的现金流。经风险调整后的回报与标准普尔500指数相当，至少从1961年到2010年是这样。随着经济增长，回报有所提高，但随着银行体系的深化和国家放松资本控制，回报有所下降。这些结果与金融摩擦阻碍了资本从富裕国家流向贫穷国家的论点一致，并且影响投资者绩效的持续性可能依赖于识别或创造缺乏资本获取渠道的新市场。本文已被Agostino Capponi接受，金融学。利益冲突声明：Shawn Cole在2018-19年担任国际金融公司“短期顾问”五天，并且以非补偿性咨询角色为影响投资者TPG/Rise的子公司Y Analytics提供服务。Martin Melecky、Florian Mölders和Tristan Reed是世界银行集团的员工。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.03313找到。",
             "matched_topics": [
-              "国际贸易",
-              "企业创新"
+              "国际经济"
             ]
           }
         ],
@@ -1399,9 +1498,31 @@
         "resolved_name": "Journal of Business Venturing",
         "issue_title": "Volume 41, Issue 4",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
-        "matched_count": 0,
-        "total_in_issue": 2,
-        "papers": [],
+        "matched_count": 2,
+        "total_in_issue": 5,
+        "papers": [
+          {
+            "title_en": "Founders for hire? The role of venture studios in breaking the individual-opportunity nexus",
+            "title_zh": "雇佣创始人？风险工作室在打破个体-机会关系中的作用",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106600",
+            "abstract_en": "Entrepreneurship theory has often posited the founder as the central agent of venture creation; from identifying opportunities, to mobilizing resources, and driving execution. We examine how venture studios – organizations that systematically create new ventures by taking over traditionally founder-led processes – challenge this assumption. Drawing on an inductive multiple case study of 16 venture studios with 50 primary and secondary interviews, we reveal how venture studios develop and validate ideas independently from founders prior to recruiting them, and how they coordinate the entrepreneurial process when these functions are separated. Our findings contribute to the literature on the individual-opportunity nexus, the entrepreneurial process and open the research agenda on venture studios as a new phenomenon in entrepreneurship. • Venture studios challenge the assumption that founder and idea are connected. • We provide qualitative evidence from 16 venture studios using 50 interviews. • Venture studios disentangle opportunity discovery from venture creation. • They coordinate the entrepreneurial process through managerial mechanisms. • Venture studios shift entrepreneurial agency from individual to the organization.",
+            "abstract_zh": "创业理论常常将创始人视为创业的核心主体；从识别机会，到动员资源，再到推动执行。我们研究了创业工作室——这些组织通过接管传统上由创始人领导的过程来系统地创造新企业——如何挑战这一假设。基于对16家创业工作室的归纳性多案例研究以及50次主要和次要访谈，我们揭示了创业工作室如何在招募创始人之前独立开发和验证想法，以及当这些功能被分离时，它们如何协调创业过程。我们的发现为个体-机会关系、创业过程的文献做出了贡献，并开启了将创业工作室作为创业新现象的研究议程。• 创业工作室挑战了创始人与想法相连的假设。• 我们提供了来自16家创业工作室的50次访谈的定性证据。• 创业工作室将机会发现与创业创造分开。• 它们通过管理机制协调创业过程。• 创业工作室将创业主体从个体转移到组织。",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Unchained from land: Property rights reforms and farmers' entrepreneurship in an emerging economy",
+            "title_zh": "摆脱土地束缚：新兴经济体中的产权改革与农民创业",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106602",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -1412,7 +1533,7 @@
         "issue_title": "Published 2026-05",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
         "matched_count": 12,
-        "total_in_issue": 12,
+        "total_in_issue": 13,
         "papers": [
           {
             "title_en": "May I have your attention - Designers’ issue selling processes in design integration",
@@ -1451,7 +1572,7 @@
             "title_zh": "投资未来：在风险资本中评估技术创业项目对可持续性的影响",
             "url": "https://doi.org/10.1016/j.technovation.2026.103536",
             "abstract_en": "Venture capital firms (VCs) play a unique role in fostering the transition to a sustainable society by financing and supporting technology ventures that contribute to long-term societal and environmental goals. However, the sustainability promise of technology ventures is typically not clear at the early stages of development, requiring critical evaluation and continuous monitoring. VCs thus require an approach for sustainability impact assessment to assess and monitor the sustainability impact of technology ventures and guide sustainable investment decisions – even more so in light of emerging regulatory requirements, such as the European Sustainable Finance Disclosure Regulation. Despite this need, limited research exists on sustainability impact assessment in the venture capital context. This study addresses this gap by investigating how VCs can assess the sustainability impact of technology ventures. Employing a design science research approach, we develop and evaluate a novel sustainability impact assessment framework tailored to the unique characteristics of VC investment. The framework adopts a Design Science (DS) approach, combining insights from a systematic literature review with findings from an in-depth qualitative study with VCs. Our contribution is twofold. First, we propose a set of design principles that enable VCs to conceptualize, assess, and monitor the sustainability impact and risks of their portfolio ventures. Second, we develop a framework for developing and validating design principles in highly contextual and emergent domains such as sustainable venture capital. The resulting design principles and framework integrate perspectives from entrepreneurial finance and technology entrepreneurship, aiming to inform both academic discourse and venture capital practice by positioning sustainability impact assessment as a central criterion in investment decision-making and venture support. • Develops and evaluates a novel sustainability impact assessment framework for venture capital firms. • Integrates theoretical insights and empirical evidence through a systematic design science approach. • Provides eight design principles to guide sustainability impact and risk assessment of early-stage technology ventures. • Demonstrates practical applicability through implementation and evaluation in a European VC fund and thereby addresses the growing need for sustainability impact assessment in venture capital under EU SFDR regulations. • Offers actionable guidelines for integrating sustainability into VC investment decision-making and monitoring processes.",
-            "abstract_zh": "风险投资公司（VCs）通过为技术创业公司提供资金和支持，促进向可持续社会的转型，这些技术创业公司有助于实现长期的社会和环境目标。然而，在技术创业公司的早期发展阶段，其可持续性承诺通常并不明确，需要进行关键评估和持续监控。因此，VCs需要一种可持续性影响评估方法，以评估和监控技术创业公司的可持续性影响，并指导可持续投资决策——尤其是在欧洲可持续金融披露法规等新兴监管要求的背景下更是如此。尽管存在这种需求，但在风险投资背景下关于可持续性影响评估的研究却非常有限。本研究通过调查VCs如何评估技术创业公司的可持续性影响，填补了这一空白。我们采用设计科学研究方法，开发并评估了一种针对VC投资独特特征量身定制的新型可持续性影响评估框架。该框架采用设计科学（DS）方法，将系统文献综述的见解与对VCs进行的深入定性研究的发现结合起来。我们的贡献是双重的。首先，我们提出了一套设计原则，使VCs能够概念化、评估和监控其投资组合创业公司的可持续性影响和风险。其次，我们为在高度情境化和新兴领域（如可持续风险投资）开发和验证设计原则，构建了一个框架。得出的设计原则和框架整合了创业金融和技术创业的观点，旨在通过将可持续性影响评估定位为投资决策和创业支持的核心标准，为学术讨论和风险投资实践提供信息。•为风险投资公司开发并评估了一种新型的可持续性影响评估框架。•通过系统的设计科学方法整合理论见解和实证证据。•提供八项设计原则，指导早期技术创业公司的可持续性影响和风险评估。•通过在欧洲VC基金中的实施和评估，展示了实际的适用性，从而满足了在欧盟SFDR法规下风险投资中日益增长的可持续性影响评估需求。•提供...",
+            "abstract_zh": "风险投资公司（VCs）通过资助和支持有助于实现长期社会和环境目标的技术创业企业，在促进向可持续社会转型中扮演着独特角色。然而，在技术创业企业的早期发展阶段，其可持续性承诺通常并不明确，需要进行关键评估和持续监控。因此，VCs需要一种可持续性影响评估方法，以评估和监控技术创业企业的可持续性影响，并指导可持续投资决策——尤其是在欧洲可持续金融披露法规等新兴监管要求的背景下更是如此。尽管存在这种需求，但在风险投资背景下关于可持续性影响评估的研究却非常有限。本研究通过调查VCs如何评估技术创业企业的可持续性影响，填补了这一空白。我们采用设计科学研究方法，开发并评估了一个针对VC投资独特特征量身定制的新型可持续性影响评估框架。该框架采用设计科学（DS）方法，将系统文献综述的见解与对VCs进行的深入定性研究的结果相结合。我们的贡献是双重的。首先，我们提出了一套设计原则，使VCs能够概念化、评估和监控其投资组合企业的可持续性影响和风险。其次，我们为在高度情境化和新兴领域（如可持续风险投资）开发和验证设计原则，构建了一个框架。得出的设计原则和框架整合了创业金融和技术创业的观点，旨在通过将可持续性影响评估定位为投资决策和创业支持的核心标准，为学术讨论和风险投资实践提供信息。•为风险投资公司开发并评估了一种新型的可持续性影响评估框架。•通过系统的设计科学方法整合理论见解和实证证据。•提供八项设计原则，指导早期技术创业企业的可持续性影响和风险评估。•通过在欧洲VC基金中的实施和评估，展示了实际的适用性，从而满足了在欧盟SFDR法规下风险投资中日益增长的可持续性影响评估需求。•提供...",
             "matched_topics": [
               "企业创新",
               "创新药"
@@ -1770,52 +1891,39 @@
         "query_name": "PharmacoEconomics",
         "issn": "1170-7690",
         "resolved_name": "PharmacoEconomics",
-        "issue_title": "Volume 44, Issue 3",
+        "issue_title": "Volume 44, Issue 4",
         "issue_url": "https://link.springer.com/journal/40273",
-        "matched_count": 4,
-        "total_in_issue": 9,
+        "matched_count": 3,
+        "total_in_issue": 10,
         "papers": [
           {
-            "title_en": "EQ-5D(-Y) Valuation from Adult and Child Perspectives: Where Does the Empirical Evidence Leave Us and How Should We Proceed?",
-            "title_zh": "EQ-5D(-Y) 成人与儿童视角下的评估：实证证据将我们引向何方，我们应如何进行？",
-            "url": "https://doi.org/10.1007/s40273-026-01589-1",
-            "abstract_en": "Valuing pediatric health-related quality of life (HRQOL) is essential for economic evaluations in child healthcare. Instruments like EQ-5D-Y were developed for this purpose. A key methodological innovation-though controversial-has been the use of the child perspective for valuation of EQ-5D-Y health states, where adults value health states imagining a 10-year-old child. This paper critically reviews empirical findings on this approach, examines potential biases, assesses alignment with stakeholder views, and explores alternatives. We relied on a targeted review of empirical literature, including studies comparing adults valuing their own health (adult perspective) and using child perspectives, as well as stakeholder opinion studies. Findings were synthesized into ten key learnings: (1) Child-perspective valuations are typically higher than adult ones for the same health states. (2) Adults prioritize pain/discomfort and being sad/unhappy differently for children. (3) Child age has minimal impact. Mechanisms contributing to differences between adult and child perspectives include (4) discomfort with child death, (5) different valuations of life duration, (6) psychological distance, (7) emotional difficulty deciding for others, and (8) external goals influencing results. Stakeholder engagement shows that (9) the effects of using child perspectives do not align well with societal preferences, and (10) stakeholders express a preference for approaches that directly involve children and adolescents in valuation tasks. We conclude that relying on child perspectives may introduce systematic biases, potentially undermining the validity of pediatric health utilities. A re-evaluation of current valuation methods for EQ-5D-Y may be warranted, with greater consideration for direct child involvement, mapping techniques, and group-based deliberative approaches.",
-            "abstract_zh": "评估儿童健康相关的生活质量（HRQOL）对于儿童医疗保健的经济评估至关重要。为此目的开发了EQ-5D-Y等工具。一个关键的方法论创新——尽管有争议——是使用儿童视角来评估EQ-5D-Y健康状况，即成年人在评估健康状况时想象一个10岁儿童。本文批判性地回顾了这种方法的实证发现，检查潜在的偏见，评估与利益相关者观点的一致性，并探索替代方案。我们依赖于针对性的实证文献综述，包括比较成年人评估自己健康（成人视角）和使用儿童视角的研究，以及利益相关者意见研究。研究结果综合为十个关键教训：（1）儿童视角的评估通常高于成人对相同健康状况的评估。（2）成年人对儿童的疼痛/不适和悲伤/不快乐有不同的优先级。（3）儿童年龄影响最小。导致成人和儿童视角差异的机制包括（4）对儿童死亡的不适，（5）对生命持续时间的不同评估，（6）心理距离，（7）为他人做决定时的情感困难，以及（8）影响结果的外部目标。利益相关者参与表明（9）使用儿童视角的效果与社会偏好不一致，（10）利益相关者倾向于直接涉及儿童和青少年参与评估任务的方法。我们得出结论，依赖儿童视角可能会引入系统性偏见，可能破坏儿童健康效用的效度。可能需要重新评估EQ-5D-Y当前的评估方法，更多考虑直接儿童参与、映射技术和基于群体的审议方法。",
+            "title_en": "Discrete-Event Simulation Modeling Framework for Cancer Interventions and Population Health in R (DESCIPHR): An Open-Source Pipeline",
+            "title_zh": "R语言中的癌症干预与人群健康离散事件模拟建模框架（DESCIPHR）：一个开源流程",
+            "url": "https://doi.org/10.1007/s40273-025-01571-3",
+            "abstract_en": "Simulation models inform health policy decisions by integrating data from multiple sources and forecasting outcomes when there is a lack of comprehensive evidence from empirical studies. Such models have long supported health policy for cancer, the first or second leading cause of death in over 100 countries. Discrete-event simulation (DES) and Bayesian calibration have gained traction in the field of decision science because they enable flexible modeling of complex health conditions and produce estimates of model parameters that reflect real-world disease epidemiology and data uncertainty given model constraints. This uncertainty is then propagated to model-generated outputs, enabling decision-makers to assess confidence in recommendations and estimate the value of collecting additional information. However, there is limited end-to-end guidance on structuring a DES model for cancer progression, estimating its parameters using Bayesian calibration, and applying the calibration outputs to policy evaluation. To fill this gap, we introduce the DES Modeling Framework for Cancer Interventions and Population Health in R (DESCIPHR), an open-source codebase integrating a flexible DES model for the natural history of cancer, Bayesian calibration for parameter estimation, and an example application of screening strategy evaluation. To illustrate the framework, we apply DESCIPHR to calibrate bladder and colorectal cancer models to real-world cancer registry targets. We also introduce an automated method for generating data-informed parameter prior distributions and increase the functionality of a neural network emulator-based Bayesian calibration algorithm. We anticipate that the adaptable DESCIPHR modeling template will facilitate the construction of future decision models evaluating the risks and benefits of health interventions.",
+            "abstract_zh": "模拟模型通过整合多源数据并预测在缺乏全面实证研究证据时的结果，为卫生政策决策提供信息。这些模型长期以来一直支持癌症卫生政策，癌症是100多个国家的首要或第二大死亡原因。离散事件模拟（DES）和贝叶斯校准在决策科学领域越来越受欢迎，因为它们能够灵活地模拟复杂的健康状况，并产生反映现实世界疾病流行病学和给定模型约束下数据不确定性的模型参数估计。这种不确定性随后被传播到模型生成的输出中，使决策者能够评估对建议的信心，并估计收集额外信息的价值。然而，目前对于构建癌症进展的DES模型、使用贝叶斯校准估计其参数以及将校准输出应用于政策评估的端到端指导有限。为了填补这一空白，我们介绍了R语言中的癌症干预和人群健康离散事件模拟框架（DESCIPHR），这是一个集成了灵活的癌症自然史DES模型、贝叶斯校准参数估计和筛查策略评估示例应用的开源代码库。为了说明该框架，我们将DESCIPHR应用于校准膀胱癌和结直肠癌模型以符合现实世界癌症登记目标。我们还引入了一种自动化方法，用于生成数据驱动的参数先验分布，并增强了基于神经网络仿真器的贝叶斯校准算法的功能。我们预计，可适应的DESCIPHR建模模板将有助于构建未来评估健康干预风险和益处的决策模型。",
             "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Development of Cardiovascular Risk Equations in People with Overweight or Obesity and Established Cardiovascular Disease Without Diabetes Based on the SELECT Trial",
-            "title_zh": "基于SELECT试验的超重或肥胖且已确诊心血管疾病非糖尿病患者心血管风险方程的开发",
-            "url": "https://doi.org/10.1007/s40273-025-01580-2",
-            "abstract_en": "These novel, treatment-specific, trial-derived risk equations are the first to predict the risk of secondary cardiovascular events in people with overweight or obesity and established cardiovascular disease but without diabetes. Incorporating these risk equations into health economic models may improve the accuracy of economic evaluations in this population.",
-            "abstract_zh": "这些新颖的、针对特定治疗方法的、从试验中得出的风险方程是首次预测超重或肥胖且已确诊心血管疾病但无糖尿病人群的二次心血管事件风险。将这些风险方程纳入卫生经济模型，可能会提高这一人群经济评估的准确性。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The Importance of Structured Expert Elicitation to Inform Outcomes Following Treatment Discontinuation: Evidence Assessment Group Perspective",
-            "title_zh": "结构化专家征询在治疗中断后结果信息中的重要性：证据评估小组视角",
-            "url": "https://doi.org/10.1007/s40273-025-01570-4",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Practical Considerations for Incorporating Equity More Explicitly in Australian Health Technology Assessment Processes",
-            "title_zh": "在澳大利亚卫生技术评估过程中更明确地纳入公平性的实用考虑",
-            "url": "https://doi.org/10.1007/s40273-025-01568-y",
-            "abstract_en": "Globally, advances in methods to examine equity alongside economic evaluations are being considered for application in health technology assessment (HTA) processes which inform decisions to publicly fund pharmaceuticals and medical services. In this practical application, we focus on the Australian context and explore how several of these methods might be used to incorporate equity more explicitly in HTA decisions. Specifically, we describe distributional cost-effectiveness analysis, extended cost-effectiveness analysis, equity weighting, multi-criteria decision analysis, mathematical programming and other quantitative approaches. We consider the feasibility and suitability of each method considering contextual factors, highlight challenges, describe current use in Australia and make recommendations for their application. We argue that there are opportunities to use aspects of several different methods in the Australian context which would illuminate how costs (including out of pocket costs) and benefits are distributed across the population, how normative concerns for equity influence the calculated social value of a new technology, how equity criteria complement other measures of value and how the technology impacts non-health outcomes. However, some of the stated requirements for the methods, such as using the same social groupings for all analyses, applying cost-effectiveness thresholds and the application of algorithms may restrict the usefulness of the evidence generated in a context where there are many priority populations of interest, several aspects of equity are considered important and there is a well-established deliberative approach to decision-making. We recommend that the equity implications of new health technologies should be universally evaluated. However, a tailored and transparent approach should be taken whereby specific equity analyses consider the context of the technology and the chosen methods are well justified.",
-            "abstract_zh": "在全球范围内，正在考虑将考察公平性的方法与经济评估相结合，应用于卫生技术评估（HTA）流程中，这些流程为公共资助药品和医疗服务的决策提供信息。在这一实际应用中，我们关注澳大利亚的背景，并探讨如何使用这些方法中的几种来更明确地将公平性纳入HTA决策中。具体来说，我们描述了分配成本效益分析、扩展成本效益分析、公平性加权、多标准决策分析、数学规划以及其他定量方法。我们考虑了每种方法的可行性和适用性，考虑了背景因素，突出了挑战，描述了在澳大利亚的当前使用情况，并提出了应用建议。我们认为，在澳大利亚背景下，有机会使用几种不同方法的各个方面，这将揭示成本（包括自付成本）和利益如何在人群中分配，对公平性的规范关注如何影响新技术计算出的社会价值，公平性标准如何补充其他价值衡量标准，以及技术如何影响非健康结果。然而，这些方法的一些要求，如对所有分析使用相同的社会群体、应用成本效益阈值和算法的应用，可能会限制在有许多优先考虑的人群、几个公平性方面被认为重要以及有一个成熟审议决策方法的背景下产生的证据的有用性。我们建议，新健康技术的公平性影响应该被普遍评估。然而，应该采取一种量身定制和透明的途径，其中特定的公平性分析考虑技术的背景，并且选择的方法得到了很好的论证。",
-            "matched_topics": [
-              "国际贸易",
               "医药产业",
-              "医疗创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Beyond the States: Developing a Discrete Event Simulation Model Using R",
+            "title_zh": "超越国家：使用R开发离散事件仿真模型",
+            "url": "https://doi.org/10.1007/s40273-025-01560-6",
+            "abstract_en": "This illustration uses the Scottish Cardiovascular Disease (CVD) Policy Model as a case study to provide a comprehensive, step-by-step guide to building a discrete event simulation (DES) model in R. It is specifically designed for practitioners who are familiar with constructing Markov models in R and wish to transition their theoretical knowledge of DES into practical implementation. The Scottish CVD Policy Model was originally developed as an Excel-based Markov model with a sophisticated structure: a primary Markov model for first events and nested sub-Markov models for subsequent events. Later replicated in R by Xin, Yiqiao et al., the model's source code was made publicly available on GitHub, underscoring its potential as a teaching tool. The intricate structure of this model presents several challenges in health economic modeling, making it an ideal candidate for demonstrating how DES techniques can address such complexities effectively. In this illustration, we deliberately avoid using R packages developed specifically for DES to enhance transparency. Instead, we rely on base R functions, and the tidyverse package for tidy data wrangling. This approach ensures that every step of the DES implementation is clear and reproducible. In addition to covering fundamental topics such as how to simulate a time to event according to an assumed distribution, and continuous discounting, the illustration also provides solutions to more advanced modeling challenges, such as handling piecewise-modeled cost and utility. By discussing both general principles and complex scenarios, this paper equips readers with the practical tools needed to transition from Markov to DES frameworks, enhancing the accuracy and flexibility of health economic evaluations.",
+            "abstract_zh": "本文以苏格兰心血管疾病（CVD）政策模型为案例研究，提供了一个全面的、分步骤的指南，用于在R中构建离散事件模拟（DES）模型。它特别适用于熟悉在R中构建马尔可夫模型并希望将DES的理论知识转化为实际应用的从业者。苏格兰CVD政策模型最初是作为一个基于Excel的马尔可夫模型开发的，具有复杂的结构：一个用于首次事件的主马尔可夫模型和用于后续事件的嵌套子马尔可夫模型。后来由Xin, Yiqiao等人在R中复制，模型的源代码在GitHub上公开可用，强调了其作为教学工具的潜力。这个模型的复杂结构在卫生经济建模中提出了几个挑战，使其成为展示DES技术如何有效解决这些复杂性的理想候选。在本例中，我们故意避免使用专门为DES开发的R包以增强透明度。相反，我们依赖于基本的R函数和用于整洁数据操作的tidyverse包。这种方法确保DES实施的每一步都是清晰和可复制的。除了涵盖如何根据假设的分布模拟事件发生时间以及连续贴现等基本主题外，本文还提供了处理分段建模成本和效用等更高级建模挑战的解决方案。通过讨论一般原则和复杂场景，本文为读者提供了从马尔可夫到DES框架过渡所需的实用工具，提高了卫生经济评估的准确性和灵活性。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Microsimulation Modeling for Health Decision Sciences Using C++: A Tutorial",
+            "title_zh": "使用C++进行健康决策科学微观模拟建模：教程",
+            "url": "https://doi.org/10.1007/s40273-025-01526-8",
+            "abstract_en": "Microsimulation models have become increasingly common in the field of decision modeling for health. Because microsimulation models are computationally more demanding than traditional Markov cohort models, the use of computer programming languages in their development has become more common. C++ is a programming language that has gained widespread recognition in computationally intensive fields, including systems modeling and performance-critical applications. It offers powerful tools for building high-performance microsimulation models, outpacing many traditional modeling software solutions, such as native R, in terms of speed and control over memory management. However, there is limited accessible guidance for implementing microsimulation models in C++. This tutorial offers a step-by-step approach to constructing microsimulation models in C++ and demonstrates its application through simplified but adaptable example decision models. We walk the reader through essential steps and provide generic C++ code that is flexible and suitable for adapting to a range of models. Finally, we present the standalone C++ models and their Rcpp counterparts run within R, and compare their performance to equivalent R implementations in terms of speed and memory efficiency.",
+            "abstract_zh": "微模拟模型在健康决策建模领域变得越来越普遍。由于微模拟模型在计算上比传统的马尔可夫队列模型要求更高，因此在其开发中使用计算机编程语言变得越来越普遍。C++是一种在计算密集型领域，包括系统建模和性能关键应用中获得广泛认可的编程语言。它提供了构建高性能微模拟模型的强大工具，在速度和内存管理控制方面超越了许多传统的建模软件解决方案，如原生R。然而，目前对于在C++中实现微模拟模型的可访问指导有限。本教程提供了一种构建C++微模拟模型的逐步方法，并通过简化但可适应的示例决策模型展示其应用。我们引导读者了解关键步骤，并提供灵活且适用于各种模型的通用C++代码。最后，我们展示了独立的C++模型及其在R中运行的Rcpp对应模型，并比较了它们与等效R实现在速度和内存效率方面的性能。",
+            "matched_topics": [
               "创新药"
             ]
           }
