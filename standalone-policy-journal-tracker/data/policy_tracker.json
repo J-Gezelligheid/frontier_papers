@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-29 04:44:51",
+  "updated_at": "2026-04-05 04:45:14",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 3,
+    "success_count": 9,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -360,6 +360,16 @@
         "total_in_issue": 18,
         "papers": [
           {
+            "title_en": "Courts in the Global South",
+            "title_zh": "全球南方国家的法院",
+            "url": "https://doi.org/10.1146/annurev-polisci-040623-113225",
+            "abstract_en": "Research on judicial politics has advanced considerably over the past few decades, particularly in the global South, a geopolitical region that has long been subjected to imbalanced relationships with more industrialized countries in the global North. The unique challenges confronting global South countries, including political and economic instabilities, limited state authority, and dilemmas of social integration, have shaped both the form and function of courts in these regions. We explore these implications in four key areas where a critical mass of scholarship has generated new insights and opportunities for future research: courts and stateness, courts in authoritarian regimes, courts in unstable democracies, and courts and social transformation. We show that in these areas, courts are often effective for a variety of purposes and according to standards different from those in the global North. We conclude with reflections on knowledge-building in this region and implications for future theorization and empirical inquiry.",
+            "abstract_zh": "过去几十年来，司法政治研究取得了显著进展，特别是在长期与全球北方工业化国家存在不平衡关系的全球南方地区。全球南方国家面临的政治和经济不稳定、国家权威有限以及社会融合困境等独特挑战，塑造了这些地区法院的形式和功能。我们在四个关键领域探讨了这些影响，这些领域积累了大量学术成果，为未来研究提供了新的见解和机会：法院与国家性、威权体制下的法院、不稳定民主体制下的法院以及法院与社会转型。我们表明，在这些领域，法院往往根据不同于全球北方的标准和目的而有效。最后，我们反思了该地区的知识构建以及对未来理论化和实证研究的影响。",
+            "matched_topics": [
+              "房地产"
+            ]
+          },
+          {
             "title_en": "AI as Governance",
             "title_zh": "人工智能治理",
             "url": "https://doi.org/10.1146/annurev-polisci-040723-013245",
@@ -368,16 +378,6 @@
             "matched_topics": [
               "房地产",
               "公共政策"
-            ]
-          },
-          {
-            "title_en": "Courts in the Global South",
-            "title_zh": "全球南方国家的法院",
-            "url": "https://doi.org/10.1146/annurev-polisci-040623-113225",
-            "abstract_en": "Research on judicial politics has advanced considerably over the past few decades, particularly in the global South, a geopolitical region that has long been subjected to imbalanced relationships with more industrialized countries in the global North. The unique challenges confronting global South countries, including political and economic instabilities, limited state authority, and dilemmas of social integration, have shaped both the form and function of courts in these regions. We explore these implications in four key areas where a critical mass of scholarship has generated new insights and opportunities for future research: courts and stateness, courts in authoritarian regimes, courts in unstable democracies, and courts and social transformation. We show that in these areas, courts are often effective for a variety of purposes and according to standards different from those in the global North. We conclude with reflections on knowledge-building in this region and implications for future theorization and empirical inquiry.",
-            "abstract_zh": "过去几十年来，司法政治研究取得了显著进展，特别是在长期与全球北方工业化国家存在不平衡关系的全球南方地区。全球南方国家面临的政治和经济不稳定、国家权威有限以及社会融合困境等独特挑战，塑造了这些地区法院的形式和功能。我们在四个关键领域探讨了这些影响，这些领域积累了大量学术成果，为未来研究提供了新的见解和机会：法院与国家性、威权体制下的法院、不稳定民主体制下的法院以及法院与社会转型。我们表明，在这些领域，法院往往根据不同于全球北方的标准和目的而有效。最后，我们反思了该地区的知识构建以及对未来理论化和实证研究的影响。",
-            "matched_topics": [
-              "房地产"
             ]
           },
           {
@@ -602,25 +602,15 @@
         "query_name": "Housing Policy Debate",
         "issn": "1051-1482",
         "resolved_name": "Housing Policy Debate",
-        "issue_title": "Volume 36, Issue 1",
+        "issue_title": "Volume 36, Issue 2",
         "issue_url": "https://www.tandfonline.com/journals/rhpd20",
-        "matched_count": 7,
-        "total_in_issue": 8,
+        "matched_count": 6,
+        "total_in_issue": 7,
         "papers": [
           {
-            "title_en": "The Politics of Counting Homelessness: The Case of Ireland",
-            "title_zh": "统计无家可归现象的政治学：以爱尔兰为例",
-            "url": "https://doi.org/10.1080/10511482.2025.2599125",
-            "abstract_en": "International audience",
-            "abstract_zh": "国际受众",
-            "matched_topics": [
-              "房地产"
-            ]
-          },
-          {
-            "title_en": "Understanding Patterns of Response to Rising Homelessness: Perspectives from Two Western Communities",
-            "title_zh": "理解对日益增长的无家可归现象的反应模式：来自两个西方社区的视角",
-            "url": "https://doi.org/10.1080/10511482.2025.2521269",
+            "title_en": "“It’s a Process—But It Shouldn’t Take This Long”: The Psychological Burden of Waiting for Rental Assistance",
+            "title_zh": "“这是一个过程——但不应该这么久”：等待租房援助的心理负担",
+            "url": "https://doi.org/10.1080/10511482.2026.2622683",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -628,9 +618,9 @@
             ]
           },
           {
-            "title_en": "Assessing the Reliability of SPDAT Homelessness Vulnerability Tools and the Impact of Assessor Consistency and Changes to Homeless Vulnerability Over Time",
-            "title_zh": "评估SPDAT无家可归脆弱性工具的可靠性以及评估者一致性对无家可归脆弱性随时间变化的影响",
-            "url": "https://doi.org/10.1080/10511482.2025.2500094",
+            "title_en": "Economic Mobility or Safety Net? Examining Employment Status and Wage Trajectories of Housing Choice Voucher Recipients",
+            "title_zh": "经济流动性还是安全网？考察住房选择券领取者的就业状况和工资轨迹",
+            "url": "https://doi.org/10.1080/10511482.2025.2591667",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -638,43 +628,41 @@
             ]
           },
           {
-            "title_en": "“Especially Being Homeless, They Just Think You’re Infected with COVID or Something”: A Qualitative Exploration of the COVID-19 Pandemic’s Impact on People Experiencing Homelessness With a History of Injection Drug Use in Baltimore, Maryland",
-            "title_zh": "“尤其是无家可归者，他们只是认为你感染了新冠病毒或类似的东西”：对马里兰州巴尔的摩市有注射药物使用史的无家可归者在COVID-19大流行影响下的定性探索",
-            "url": "https://doi.org/10.1080/10511482.2024.2378807",
-            "abstract_en": "People experiencing homelessness with a substance use disorder are a highly structurally vulnerable population, facing a unique burden of compounding stigma, discrimination, and adverse health outcomes. Evidence remains mixed on best practices for housing interventions designed to best meet the needs of this population. Ten people with a history of injection drug use experiencing homelessness during the COVID-19 pandemic were interviewed between July, 2021 and February, 2022 in Baltimore, Maryland. Thematic analysis was used to characterize the pandemic's impact on resource access, housing, and substance use among these participants. Participants highlighted substantial challenges resulting from structural changes during the pandemic, including limits on income-generating opportunities and resource access, and increases in experiences of stigma and discrimination. However, several individuals reported decreased substance use in response to changes to their housing status, with those placed in secure housing attributing their decreased use to this change. These accounts can help guide housing and social support interventions best suited to meet the unique needs of people experiencing homelessness with substance use disorders.",
-            "abstract_zh": "体验无家可归并伴有药物使用障碍的人群是一个高度结构性脆弱的群体，面临着复合污名、歧视和不利健康结果的独特负担。关于旨在最好满足这一群体需求的住房干预措施的最佳实践，证据仍然混杂。2021年7月至2022年2月，在马里兰州巴尔的摩，对10名有注射药物使用史的无家可归者进行了访谈。使用主题分析来描述大流行对这些参与者获取资源、住房和药物使用的影响。参与者强调了大流行期间结构变化带来的重大挑战，包括限制创收机会和资源获取，以及增加的污名和歧视经历。然而，一些人报告说，由于他们的住房状况变化，药物使用减少，那些被安置在安全住房中的人将他们减少的使用归因于这一变化。这些账户可以帮助指导最适合满足无家可归并伴有药物使用障碍人群独特需求的住房和社会支持干预措施。",
+            "title_en": "Mitigating the Stress of Housing Instability: The Impact of Housing Choice Vouchers on Social Supports, Behavioral Health, and Criminal Justice Involvement",
+            "title_zh": "缓解住房不稳定的压力：住房选择券对社会支持、行为健康和刑事司法涉入的影响",
+            "url": "https://doi.org/10.1080/10511482.2025.2578944",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
               "房地产"
             ]
           },
           {
-            "title_en": "A Shelter by Any Other Name? Delivering Homeless Crisis Accommodation Services in a Hotel",
-            "title_zh": "酒店中的避风港？提供无家可归危机住宿服务",
-            "url": "https://doi.org/10.1080/10511482.2024.2362633",
-            "abstract_en": "How to shelter people who are experiencing homelessness is a pressing social problem. A substantive literature critiques the congregate shelter model that is often coupled with paternalistic service delivery, bringing the relationship of service delivery and the built environment into focus. The COVID-19 pandemic forced a fast overhaul of the delivery of crisis accommodation, and saw homeless shelters replaced with commercial hotels. We conducted a 12-month ethnography in a hotel for people experiencing homelessness located in South-East Queensland, Australia. We critically analyze the implications of operating a homelessness shelter in a hotel for service delivery and residents' experiences of living in this repurposed built environment. Our findings highlight how homeless support practices were both enabled and constrained by the built environment. We identify a tension between residents' appreciation of single occupancy rooms as fostering dignity and privacy, and their continued experience of hotel accommodation as (yet) another shelter. We discuss policy implications of using hotels as crisis accommodation within the context of a housing crisis.",
-            "abstract_zh": "如何为无家可归者提供庇护是一个紧迫的社会问题。大量文献批评了常与家长式服务交付相结合的集中庇护模式，将服务交付与建筑环境的关系置于焦点。COVID-19大流行迫使危机住宿的交付迅速改革，无家可归者庇护所被商业酒店所取代。我们在澳大利亚昆士兰东南部为无家可归者提供服务的酒店进行了为期12个月的民族志研究。我们批判性地分析了在酒店运营无家可归者庇护所对服务交付和居民在这种重新利用的建筑环境中生活体验的影响。我们的发现强调了建筑环境如何既促进又限制了无家可归者支持实践。我们识别了居民对单人入住房间作为促进尊严和隐私的欣赏与他们继续将酒店住宿体验为（又一个）庇护所之间的紧张关系。我们讨论了在住房危机背景下使用酒店作为危机住宿的政策含义。",
+            "title_en": "Evaluating Rent Control Intensity in California Cities, 2010–2019",
+            "title_zh": "2010-2019年加州城市租金控制强度评估",
+            "url": "https://doi.org/10.1080/10511482.2025.2582717",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
-              "房地产",
-              "公共政策"
+              "房地产"
             ]
           },
           {
-            "title_en": "Learning More From Homeless Point-in-Time Counts",
-            "title_zh": "从无家可归者时点统计中获取更多信息",
-            "url": "https://doi.org/10.1080/10511482.2024.2306607",
-            "abstract_en": "Previous research has found that patterns of sheltered homelessness and characteristics of people who use shelters vary between pointprevalence and period-prevalence tallies, but there are no comparable data for unsheltered homelessness. We derive a three-year period-prevalence measure of unsheltered homelessness from data collected in a point-in-time count, by weighting individuals by the inverse number of months, out of the last 36, that they report being homeless. We illustrate using data from the 2022 Point-in-Time Count in Nashville/ Davidson County Tennessee, which found 634 unsheltered people. We estimate that the three-year prevalence of unsheltered homelessness would be at least 3.5 times the one-night count, but that far fewer people would meet the US Department of Housing and Urban Development's definition of chronic homelessness. Over half of people sampled outdoors, especially those living with household members and pets, report never using shelter. Point-in-time counts can yield far more information useful for planning than the simple count itself.",
-            "abstract_zh": "先前研究发现，庇护性无家可归的模式和使用庇护所的人群特征在点时流行率和期间流行率统计之间存在差异，但未对无庇护无家可归进行类似数据比较。我们通过将个体按过去36个月中报告无家可归月份的倒数加权，从点时统计收集的数据中推导出无庇护无家可归的三年期间流行率指标。我们使用2022年田纳西州纳什维尔/戴维森县点时统计的数据进行说明，该统计发现634名无庇护者。我们估计，无庇护无家可归的三年流行率至少是一夜统计的3.5倍，但符合美国住房和城市发展部对长期无家可归定义的人数要少得多。超过一半的户外抽样人群，特别是那些与家庭成员和宠物一起生活的人，报告从未使用过庇护所。点时统计可以提供比简单统计本身更有用的信息，以用于规划。",
+            "title_en": "Rent and Eviction Filing at Enterprise-Backed Rental Properties",
+            "title_zh": "企业支持的租赁房产中的租金和驱逐申请",
+            "url": "https://doi.org/10.1080/10511482.2025.2581673",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
-              "房地产",
-              "城市治理"
+              "房地产"
             ]
           },
           {
-            "title_en": "Quantifying the Impact of Evictions and Eviction Filings on Homelessness Rates in the United States",
-            "title_zh": "量化美国驱逐和驱逐申请对无家可归率的影响",
-            "url": "https://doi.org/10.1080/10511482.2023.2186749",
-            "abstract_en": "A causal relationship between eviction rates and homelessness rates has long been hypothesized, but there is little empirical evidence to support its existence. We address this gap by estimating the extent to which rates of eviction filings and eviction judgments are associated with subsequent rates of U.S. homelessness. We align community-level homelessness rates with county-level rates of eviction filings and eviction judgments from 2007 to 2017 and use fixed-effects regression models to assess relationships between eviction filings and eviction judgments and rates of homelessness. We find a positive association between the eviction filing rate and the rate of sheltered homelessness, but do not observe significant associations between eviction judgments and rates of homelessness. Although the community-level relationship between evictions and homelessness is significant, it is more nuanced than previously hypothesized. Findings corroborate the harms of eviction proceedings and suggest a need to intercede before an eviction judgment has been issued.",
-            "abstract_zh": "长期以来，人们一直假设驱逐率与无家可归率之间存在因果关系，但缺乏实证证据支持其存在。我们通过估计驱逐申请率和驱逐判决率与随后美国无家可归率之间的关联程度来填补这一空白。我们将社区层面的无家可归率与2007年至2017年县级的驱逐申请率和驱逐判决率对齐，并使用固定效应回归模型评估驱逐申请和驱逐判决与无家可归率之间的关系。我们发现驱逐申请率与庇护所无家可归率之间存在正相关，但未观察到驱逐判决与无家可归率之间存在显著关联。尽管社区层面的驱逐与无家可归之间的关系是显著的，但它比先前假设的更为微妙。研究结果证实了驱逐程序的危害，并表明需要在发出驱逐判决之前进行干预。",
+            "title_en": "State Affordable Housing Tax Credits and Renter Outcomes: Evidence from Illinois",
+            "title_zh": "州级经济适用房税收抵免与租户结果：来自伊利诺伊州的证据",
+            "url": "https://doi.org/10.1080/10511482.2025.2578166",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
               "房地产"
             ]
@@ -689,9 +677,19 @@
         "resolved_name": "Population Space and Place",
         "issue_title": "Volume 32, Issue 3",
         "issue_url": "https://onlinelibrary.wiley.com/journal/15448452",
-        "matched_count": 1,
-        "total_in_issue": 2,
+        "matched_count": 2,
+        "total_in_issue": 3,
         "papers": [
+          {
+            "title_en": "Long‐Term Impacts of Canada's Two‐Step Immigration Selection in Metropolitan Areas",
+            "title_zh": "加拿大两步移民选拔在大都市地区的长期影响",
+            "url": "https://doi.org/10.1002/psp.70238",
+            "abstract_en": "ABSTRACT This study assesses how Canada's two‐step immigration selection process, from non‐permanent to permanent residency, impacts population distribution across Census Metropolitan Areas (CMAs). We use a demographic approach incorporating fertility, mortality, international migration and inter‐regional mobility to produce sub‐provincial population projections based on scenarios of future immigrants transitioning from non‐permanent to permanent residency. The results suggest that increasing the share of permanent residents selected from the existing pool of temporary residents decreases overall population levels due to fewer new arrivals from abroad, while encouraging settlement in traditional gateway CMAs of Montreal, Toronto and Vancouver. Even with the higher selection rate, Canada will continue to experience aging in traditional and non‐traditional gateway CMAs, and working‐age and young immigrants will continue to choose to settle in those traditional CMAs.",
+            "abstract_zh": "摘要 本研究评估了加拿大从非永久居民到永久居民的两步移民选择过程对人口在普查大都市区（CMAs）分布的影响。我们采用一种结合生育、死亡、国际移民和区域间流动性的人口学方法，基于未来移民从非永久居民转变为永久居民的情景，制作省级以下人口预测。结果表明，增加从现有临时居民池中选择的永久居民比例会因来自海外的新移民减少而降低总体人口水平，同时鼓励在传统的门户CMAs蒙特利尔、多伦多和温哥华定居。即使在更高的选择率下，加拿大在传统和非传统门户CMAs将继续经历人口老龄化，而工作年龄和年轻移民将继续选择在这些传统CMAs定居。",
+            "matched_topics": [
+              "城市治理"
+            ]
+          },
           {
             "title_en": "Neighbouring in Present‐Day Sweden: The Role of Neighbourhood Type, Housing and Personality",
             "title_zh": "当代瑞典的邻里关系：邻里类型、住房与个性的作用",
@@ -723,32 +721,11 @@
         "query_name": "International Public Management Journal",
         "issn": "1096-7494",
         "resolved_name": "International Public Management Journal",
-        "issue_title": "Volume 28, Issue 6",
+        "issue_title": "Volume 29, Issue 1",
         "issue_url": "https://www.tandfonline.com/journals/upmj20",
-        "matched_count": 2,
-        "total_in_issue": 7,
-        "papers": [
-          {
-            "title_en": "Understanding the nomological network of red tape: Synthesis and research agenda",
-            "title_zh": "理解繁文缛节的法则网络：综合与研究议程",
-            "url": "https://doi.org/10.1080/10967494.2025.2482599",
-            "abstract_en": "Due to the exponential increase of publications about red tape over the past two decades, an integrative review is needed to lay the jigsaw puzzle on empirical red tape research and identify blind spots in the literature. This study addresses this issue by reviewing 139 empirical studies across social science disciplines and mapping the nomological network of red tape (i.e. antecedents, measurements, outcomes, moderators and mediators). Findings indicate several blind spots, namely a lack of studies from the Global South, from non-local government organizations (including companies and nonprofits), and using comparative, multilevel, qualitative, or mixed-method designs. A range of antecedents, moderators and mediators at the individual, organizational, institutional and across levels are also identified. In conclusion, a nomological network is constructed and a research agenda is formulated aimed at understanding the complex causalities surrounding red tape, and the impact specific conditions have on its emergence or consequences.<br/><br/>© 2025 The Author(s)",
-            "abstract_zh": "由于过去二十年关于繁文缛节的出版物呈指数级增长，需要进行综合性综述，以拼凑实证繁文缛节研究的拼图，并识别文献中的盲点。本研究通过回顾社会科学学科中的139项实证研究，并绘制繁文缛节的法理网络（即前因、测量、结果、调节变量和中介变量），来解决这一问题。研究结果表明存在几个盲点，即缺乏来自全球南方、非地方政府组织（包括公司和非营利组织）的研究，以及使用比较、多层次、定性或混合方法设计的研究。还识别了一系列在个体、组织、制度以及跨层次的前因、调节变量和中介变量。总之，构建了一个法理网络，并制定了一个研究议程，旨在理解围绕繁文缛节的复杂因果关系，以及特定条件对其出现或后果的影响。© 2025 作者",
-            "matched_topics": [
-              "城市治理"
-            ]
-          },
-          {
-            "title_en": "Public value co-creation and sense of belonging: Evidence from local government annual reports",
-            "title_zh": "公共价值共创与归属感：来自地方政府年度报告的证据",
-            "url": "https://doi.org/10.1080/10967494.2025.2479034",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "城市治理"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 6,
+        "papers": [],
         "error": null
       },
       {
@@ -807,7 +784,7 @@
             "title_zh": "精简治理：如何通过“一事一议”倡议减轻城市行政负担并优化监管环境",
             "url": "https://doi.org/10.1177/00208523251381187",
             "abstract_en": "Administrative burden has emerged as a critical lens for understanding the unintended consequences of public service delivery and regulatory practices. While the concept has been extensively applied to analyze citizen–state interactions, less attention has been paid to how administrative burden affects private actors. This study addresses this gap by extending administrative burden theory to the domain of public–private partnerships, with a focus on how “one matter initiatives” in developing countries can alleviate regulatory barriers. Drawing on firm-level data from the World Bank Enterprise Survey, we examine whether and how streamlining governance reduces administrative burden and improves the regulatory climate. The empirical results show that streamlining governance significantly reduces administrative burden and enhances the regulatory climate. These effects are more pronounced for small and medium-sized enterprises, underscoring the reform's distributional impact. Mediation analysis shows that administrative burden serves as a key mechanism through which reform initiatives influence business perceptions of government performance. The findings highlight the relevance of administrative burden theory in non-Western governance contexts and demonstrate the value of incorporating business perspectives into public administration research. By offering empirical evidence from China’s “One Matter Initiative”, this study contributes to a more global and nuanced understanding of how streamlining governance can foster a more enabling environment for enterprise development. Points for practitioners This study highlights that streamlining administrative procedures through initiatives like China’s “One Matter Initiative” significantly reduces administrative burden. For practitioners, the findings suggest that procedural simplification can effectively improve public–private partnerships, particularly in non-Western governance systems. Focusing on service coordination and reducing transaction friction is key to responsive and business-oriented public administration. Megacity Governance in China shows how reform-driven streamlining governance can reshape regulatory practices. The “One Matter Initiative” demonstrates that reducing administrative burden is not only a technical efficiency but also a strategic step toward building good city governance. For practitioners, the key lesson is that coordinated service delivery and burden reduction carry broader significance: they reinforce city governance capacity and offer a replicable model for reform in other contexts.",
-            "abstract_zh": "行政负担已成为理解公共服务交付和监管实践意外后果的关键视角。尽管这一概念已广泛应用于分析公民与国家之间的互动，但对于行政负担如何影响私人行为者的关注较少。本研究通过将行政负担理论扩展到公私合作伙伴关系领域，填补了这一空白，重点关注发展中国家的“一事一议”倡议如何减轻监管障碍。利用世界银行企业调查的公司层面数据，我们检验了简化治理是否以及如何减少行政负担并改善监管环境。实证结果表明，简化治理显著减少了行政负担并增强了监管环境。这些效应在中小企业中更为明显，突显了改革的分配影响。中介分析显示，行政负担是改革举措影响企业对政府绩效感知的关键机制。研究结果强调了行政负担理论在非西方治理环境中的相关性，并证明了将商业视角纳入公共行政研究的价值。本研究通过提供中国“一事一议”倡议的实证证据，为理解简化治理如何促进企业更有利发展环境提供了更全球性和细致的理解。实践者要点：本研究强调，通过中国“一事一议”等倡议简化行政程序显著减少了行政负担。对于实践者来说，研究结果表明，程序简化可以有效改善公私合作伙伴关系，特别是在非西方治理体系中。专注于服务协调和减少交易摩擦是响应迅速和以业务为导向的公共行政的关键。中国的超大城市治理展示了改革驱动的简化治理如何重塑监管实践。“一事一议”倡议表明，减少行政负担不仅是技术效率问题，也是建设良好城市治理的战略步骤。对于实践者来说，关键教训是协调服务交付和负担减轻具有更广泛的意义：...",
+            "abstract_zh": "行政负担已成为理解公共服务交付和监管实践意外后果的关键视角。尽管这一概念已广泛应用于分析公民与国家之间的互动，但对于行政负担如何影响私人行为者的关注较少。本研究通过将行政负担理论扩展到公私合作伙伴关系的领域，填补了这一空白，重点关注发展中国家的“一事一议”倡议如何减轻监管障碍。利用世界银行企业调查的公司层面数据，我们检验了简化治理是否以及如何减少行政负担并改善监管环境。实证结果表明，简化治理显著减少了行政负担并增强了监管环境。这些效应在中小企业中更为明显，突显了改革的分配影响。中介分析显示，行政负担是改革举措影响企业对政府绩效感知的关键机制。研究结果强调了行政负担理论在非西方治理环境中的相关性，并证明了将商业视角纳入公共行政研究的价值。本研究通过提供中国“一事一议”倡议的实证证据，为理解简化治理如何促进企业更有利发展环境提供了更全球性和细致的理解。实践者要点：本研究强调，通过中国“一事一议”等倡议简化行政程序显著减少了行政负担。对于实践者来说，研究结果表明，程序简化可以有效改善公私合作伙伴关系，特别是在非西方治理体系中。专注于服务协调和减少交易摩擦是响应迅速且以业务为导向的公共行政的关键。中国的超大城市治理展示了改革驱动的简化治理如何重塑监管实践。“一事一议”倡议表明，减少行政负担不仅是技术效率问题，也是建设良好城市治理的战略步骤。对于实践者来说，关键教训是协调服务交付和负担减轻具有更广泛的意义：...",
             "matched_topics": [
               "城市治理",
               "公共政策"
