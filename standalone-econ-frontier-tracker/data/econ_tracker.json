@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-29 05:08:59",
+  "updated_at": "2026-04-05 05:10:15",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 70,
+    "success_count": 73,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -160,59 +160,72 @@
         "query_name": "American Economic Review",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 3",
+        "issue_title": "Volume 116, Issue 4",
         "issue_url": "https://www.aeaweb.org/journals/aer",
-        "matched_count": 5,
+        "matched_count": 6,
         "total_in_issue": 11,
         "papers": [
           {
-            "title_en": "Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics",
-            "title_zh": "临时解雇、召回损失与周期性失业动态",
-            "url": "https://doi.org/10.1257/aer.20220749",
-            "abstract_en": "We revisit the role of temporary layoffs in the business cycle. While some have emphasized a stabilizing effect due to recall hiring, we quantify from the data an important countercyclical destabilizing effect due to “loss-of-recall,” whereby workers in temporary-layoff unemployment lose their job permanently. We develop a quantitative model allowing for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures both pre- and post-pandemic unemployment dynamics, including the contractionary role of loss-of-recall. We use our structural model to show that the Paycheck Protection Program generated sizable employment gains, in part by significantly reducing loss-of-recall. (JEL E24, E32, I12, J41, J63, J64)",
-            "abstract_zh": "我们重新审视了临时裁员在商业周期中的作用。尽管有些人强调了召回雇佣的稳定效应，但我们从数据中量化了一个重要的反周期的破坏性效应，即“失去召回”，在这种情况下，临时裁员失业的工人永久失去了工作。我们开发了一个定量模型，允许工人在就业和临时裁员失业以及无业失业之间进行内生流动。该模型捕捉了大流行前后的失业动态，包括失去召回的收缩作用。我们使用我们的结构模型来展示，工资保护计划产生了相当大的就业增长，部分原因是显著减少了失去召回。（JEL E24, E32, I12, J41, J63, J64）",
+            "title_en": "Market Power and Capital Constraints",
+            "title_zh": "市场势力与资本约束",
+            "url": "https://doi.org/10.1257/aer.20231202",
+            "abstract_en": "We explore how traders’ equity capitalization influences asset prices in a framework that accounts for market power. In our model, traders with capital constraints engage in transactions in an imperfectly competitive market. We demonstrate that looser capital constraints elevate both asset prices and price impact, the latter diminishing market liquidity. Using Canadian Treasury auction data, we illustrate how to apply our model to quantify these effects. We estimate the shadow costs of capital constraints by leveraging a temporary policy exemption during 2020–2021. We show that while these constraints are only infrequently binding, their relative impact when activated can be sizable. (JEL E63, G12, G14, G23, G41, L13)",
+            "abstract_zh": "我们探讨了在考虑市场力量的框架下，交易者的股本资本化如何影响资产价格。在我们的模型中，有资本约束的交易者在不完全竞争的市场中进行交易。我们证明，较宽松的资本约束会提高资产价格和价格影响，后者降低了市场流动性。利用加拿大国库拍卖数据，我们展示了如何应用我们的模型来量化这些效应。我们通过利用2020-2021年期间的临时政策豁免来估计资本约束的影子成本。我们表明，尽管这些约束很少被激活，但当激活时它们的相对影响可能是巨大的。（JEL E63, G12, G14, G23, G41, L13）",
             "matched_topics": [
-              "国际贸易"
+              "国际贸易",
+              "产业经济"
             ]
           },
           {
-            "title_en": "Immigration, Innovation, and Growth",
-            "title_zh": "移民、创新与增长",
-            "url": "https://doi.org/10.1257/aer.20211601",
-            "abstract_en": "We propose a novel identification strategy to isolate exogenous immigration shocks across US counties, by interacting quasi-random variations in the composition of ancestry across counties with the contemporaneous inflow of migrants from different countries. We show a positive causal impact of immigration on local innovation and wages at the five-year horizon. The positive dynamic impact of immigration on innovation and wages dominates the short-run negative impact of increased labor supply. A structural estimation of a model of endogenous growth and migrations suggests the increased immigration to the United States since 1965 may have increased innovation and wages by 5 percent. (JEL J15, J22, J31, J61, O31, R11, R23)",
-            "abstract_zh": "我们提出了一种新的识别策略，通过将各县祖先成分的准随机变化与不同国家移民的同时流入相交互，来分离美国各县的外生移民冲击。我们展示了移民对当地创新和工资在五年时间范围内的积极因果影响。移民对创新和工资的积极动态影响主导了增加劳动力供应的短期负面影响。对一个内生增长和迁移模型的结构估计表明，自1965年以来美国移民的增加可能使创新和工资提高了5%。（JEL J15, J22, J31, J61, O31, R11, R23）",
+            "title_en": "A Long and a Short Leg Make for a Wobbly Equilibrium",
+            "title_zh": "长短腿导致不稳定的平衡",
+            "url": "https://doi.org/10.1257/aer.20211548",
+            "abstract_en": "We provide a model to explain how the interaction between the spot and lending markets for stocks can lead to abrupt changes in short selling activity. Furthermore, rational short sellers may choose to abandon the market even as mispricing widens. We document empirically that the dynamics of short selling are fat tailed and subject to abrupt changes, especially for the stocks that the model identifies as susceptible to such dynamics. (JEL G11, G12, G14, G41)",
+            "abstract_zh": "我们提供了一个模型来解释股票现货市场和借贷市场之间的互动如何导致做空活动突然变化。此外，理性的做空者甚至可能选择退出市场，尽管定价错误扩大。我们从实证上记录了做空动态是厚尾的，并且容易突然变化，特别是对于模型识别为容易受到这种动态影响的股票。（JEL G11, G12, G14, G41）",
             "matched_topics": [
-              "企业创新"
+              "产业经济"
             ]
           },
           {
-            "title_en": "Zero-Sum Thinking and the Roots of US Political Differences",
-            "title_zh": "零和思维与美国政治分歧的根源",
-            "url": "https://doi.org/10.1257/aer.20240692",
-            "abstract_en": "We investigate the origins and implications of zero-sum thinking: the belief that gains for one individual or group tend to come at the cost of others. Using a new survey of 20,400 US residents, we measure zero-sum thinking, political preferences, policy views, and a rich array of ancestral information spanning four generations. We find that a more zero-sum mindset is strongly associated with more support for government redistribution, race- and gender-based affirmative action, and more restrictive immigration policies. Zero-sum thinking can be traced back to the experiences of both the individual and their ancestors, encompassing factors such as the degree of intergenerational upward mobility they experienced, whether they immigrated to the United States or lived in a location with more immigrants, and whether they were enslaved or lived in a location with more enslavement. (JEL C83, D72, D91, H23, J15, J16, Z13)",
-            "abstract_zh": "我们研究了零和思维的起源和影响：认为一个人或群体的收益往往以牺牲他人为代价的信念。利用对20,400名美国居民的新调查，我们测量了零和思维、政治偏好、政策观点以及跨越四代的丰富祖源信息。我们发现，更强烈的零和心态与更支持政府再分配、基于种族和性别的平权行动以及更严格的移民政策密切相关。零和思维可以追溯到个人及其祖先的经历，包括他们经历的代际向上流动程度、是否移民到美国或生活在移民较多的地区，以及是否被奴役或生活在奴役较多的地区。（JEL C83, D72, D91, H23, J15, J16, Z13）",
+            "title_en": "Spillovers in State Capacity Building: Evidence from the Digitization of Land Records in Pakistan",
+            "title_zh": "国家能力建设中的溢出效应：来自巴基斯坦土地记录数字化的证据",
+            "url": "https://doi.org/10.1257/aer.20240880",
+            "abstract_en": "Digitization reforms have been hailed as an effective way of strengthening state capacity. However, digitization can also fundamentally reshape the organization of bureaucracies. Using a unique administrative dataset on agricultural taxation and surveys of local bureaucrats from Punjab, Pakistan, we show that digitization reforms can have unintended consequences for state capacity. We exploit the staggered rollout of the digitization of land records in Punjab to show that digitization had a negative effect on tax collection. The fall in taxes was not due to a decrease in the tax base. Instead, digitization affected the bureaucrats’ capacity to collect taxes. (JEL D73, H11, H71, O12, O17)",
+            "abstract_zh": "数字化改革被誉为加强国家能力的有效途径。然而，数字化也可能从根本上重塑官僚机构的组织结构。利用巴基斯坦旁遮普省农业税收的独特行政数据集和对当地官僚的调查，我们展示了数字化改革可能对国家能力产生意外后果。我们利用旁遮普省土地记录数字化的分阶段推出，表明数字化对税收征收产生了负面影响。税收下降并非由于税基减少。相反，数字化影响了官僚征税的能力。（JEL D73, H11, H71, O12, O17）",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "The Price of War",
-            "title_zh": "战争的代价",
-            "url": "https://doi.org/10.1257/aer.20241355",
-            "abstract_en": "We assemble a new dataset spanning 150 years and 60 countries to study the economic toll of war. A war of average intensity is associated with an output drop of close to 10 percent in the war-site economy, while consumer prices rise by approximately 20 percent. The capital stock, total factor productivity, and equity returns all decline sharply. The economic ramifications of war are not confined to the war site. The evidence points to adverse economic outcomes in other belligerent and third-party countries if they are exposed to the war site through trade linkages or share a common border. (JEL D74, E23, E32, F43, F51, N40)",
-            "abstract_zh": "我们构建了一个涵盖150年和60个国家的新数据集，以研究战争的经济代价。一场平均强度的战争与战争发生地经济产出下降近10%有关，而消费价格上涨约20%。资本存量、全要素生产率和股本回报均大幅下降。战争的经济影响不仅限于战争发生地。证据表明，如果其他交战国和第三方国家通过贸易联系暴露于战争发生地或共享共同边界，它们也会遭受不利的经济后果。（JEL D74, E23, E32, F43, F51, N40）",
+            "title_en": "Similarity of Information and Collective Action",
+            "title_zh": "信息的相似性与集体行动",
+            "url": "https://doi.org/10.1257/aer.20241056",
+            "abstract_en": "We study a canonical collective action game with incomplete information. Individuals attempt to coordinate to achieve a shared goal, while also facing a temptation to free-ride. More similar information can help them coordinate, but it can also exacerbate free-riding. Our main result shows that more similar information facilitates (impedes) achieving the common goal when it is sufficiently challenging (easy). We apply this insight to show why less powerful authoritarian governments may face larger protests if they restrict press freedom, when committee diversity is beneficial in costly voting, and when a more diverse community contributes more to public good provision. (JEL C71, D71, D72, D81, D82, D83, H41)",
+            "abstract_zh": "我们研究了一个具有不完全信息的经典集体行动博弈。个体试图协调以实现共同目标，同时也面临着搭便车的诱惑。更相似的信息可以帮助他们协调，但也可能加剧搭便车行为。我们的主要结果表明，当共同目标足够具有挑战性（容易）时，更相似的信息有助于（阻碍）实现共同目标。我们将这一见解应用于解释为什么权力较小的威权政府如果限制新闻自由可能会面临更大的抗议，当委员会多样性在成本投票中有益时，以及当更多样化的社区对公共产品供给贡献更多时。（JEL C71, D71, D72, D81, D82, D83, H41）",
             "matched_topics": [
-              "国际贸易"
+              "创新药"
             ]
           },
           {
-            "title_en": "Why Is Workplace Sexual Harassment Underreported? The Value of Outside Options amid the Threat of Retaliation",
-            "title_zh": "为何职场性骚扰被低估？面对报复威胁时外部选择的价值",
-            "url": "https://doi.org/10.1257/aer.20221703",
-            "abstract_en": "Why is workplace sexual harassment chronically underreported? We hypothesize that employers coerce victims into silence through the threat of a retaliatory firing. To test this, we estimate how two external shocks that reduce workers’ outside options—unemployment rate increases and sharp cuts to unemployment insurance benefits—affect the selectivity of sexual harassment charges filed with the Equal Employment Opportunity Commission. We find that both shocks increase selectivity, which implies an increase in underreporting. Bolstering these findings, anonymous Google searches for “sexual harassment in the workplace” (total prevalence) spike relative to charges filed (reported prevalence) during the Great Recession. (JEL J71, J78)",
-            "abstract_zh": "为什么职场性骚扰经常被低报？我们假设雇主通过威胁报复性解雇来迫使受害者保持沉默。为了测试这一点，我们估计两种外部冲击——失业率上升和失业保险福利的大幅削减——如何影响向平等就业机会委员会提交的性骚扰指控的选择性。我们发现这两种冲击都增加了选择性，这意味着低报现象的增加。支持这些发现的是，在大萧条期间，“职场性骚扰”（总体流行度）的匿名谷歌搜索量相对于提交的指控（报告流行度）激增。（JEL J71, J78）",
+            "title_en": "Abundance from Abroad: Migrant Income and Long-Run Economic Development",
+            "title_zh": "海外丰盈：移民收入与长期经济发展",
+            "url": "https://doi.org/10.1257/aer.20241465",
+            "abstract_en": "We study how international migrant income prospects affect long-run development in origin areas. We leverage the 1997 Asian Financial Crisis exchange rate shocks in a shift-share identification strategy across Philippine provinces. Initial migrant income shocks are magnified six-fold over time, increasing domestic income, education levels, migrant skills, and high-skilled migration. Remarkably, 74.9 percent of long-run income gains come from domestic rather than migrant income. Trade driven impacts of exchange rate shocks are orthogonal to effects via migrant income. A structural model reveals that 19.7 percent of long-run income gains stem from educational investments. International migration fosters broad economic development in origin communities. (JEL F22, F31, G01, J24, J82, O15, O16)",
+            "abstract_zh": "我们研究国际移民的收入前景如何影响原籍地区的长期发展。我们利用1997年亚洲金融危机汇率冲击，在菲律宾各省份采用份额变化识别策略。初始移民收入冲击随时间放大六倍，提高了国内收入、教育水平、移民技能和高技能移民。值得注意的是，74.9%的长期收入增长来自国内而非移民收入。汇率冲击通过贸易驱动的影响与通过移民收入的影响是正交的。一个结构模型揭示，19.7%的长期收入增长来自教育投资。国际移民促进了原籍社区的广泛经济发展。（JEL F22, F31, G01, J24, J82, O15, O16）",
             "matched_topics": [
-              "国际经济"
+              "国际贸易",
+              "国际经济",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Games on Multiplex Networks",
+            "title_zh": "多路复用网络上的游戏",
+            "url": "https://doi.org/10.1257/aer.20240763",
+            "abstract_en": "We develop a simple multilayer network model in which agents allocate effort across layers with heterogeneous structures, subject to an aggregate effort constraint. Incentives are shaped by agents’ network positions within each layer, and equilibrium behavior reflects both within- and cross-layer interactions. We analyze how shocks propagate through the network and characterize optimal targeting interventions. Our results show that effective policy design must account for effort allocation across layers. We also demonstrate that predictions from monolayer models can diverge sharply from those of multilayer models, underscoring the importance of accounting for network complexity in both empirical and policy analyses. (JEL C70, D78, D82, D85, H41, Z13)",
+            "abstract_zh": "我们构建了一个简单的多层网络模型，其中个体在具有异质结构的层之间分配努力，受到总体努力约束的限制。激励机制由个体在每一层网络中的位置塑造，均衡行为反映了层内和跨层的互动。我们分析了冲击如何在网络中传播，并描述了最优的定向干预措施。我们的结果显示，有效的政策设计必须考虑跨层的努力分配。我们还证明了单层模型的预测可能与多层模型的预测大相径庭，强调了在实证和政策分析中考虑网络复杂性的重要性。（JEL C70, D78, D82, D85, H41, Z13）",
+            "matched_topics": [
+              "国际贸易"
             ]
           }
         ],
@@ -389,16 +402,6 @@
             ]
           },
           {
-            "title_en": "The Complexity of Multidimensional Learning in Agriculture",
-            "title_zh": "农业中多维学习的复杂性",
-            "url": "https://doi.org/10.3982/ecta22974",
-            "abstract_en": "Studies on agricultural technology adoption often focus on one input, practice, or package, which is analytically useful, but may overlook the complexities involved with multidimensional learning needed for a lot of agricultural decisions. In Kenya, we study farmers' dynamic learning (from oneself and others) and adoption decisions over six seasons after randomly inviting them to participate in agronomic research trials, comparing different combinations of inputs during three consecutive seasons. As a response to the trials, adoption increases steadily despite the absence of positive profits multiple seasons after exposure to the trials. Know‐how increases rapidly and faster for high skill farmers who experiment the most, at the cost of making new mistakes. The findings are consistent with a theoretical model with multidimensionality of input and practice decisions and differential learning from one's own experience by skills, where complementarities imply that adoption of an input requires finding how to re‐optimize other dimensions, which adds to the cost of adoption.",
-            "abstract_zh": "研究农业技术采纳往往关注单一投入、实践或一揽子方案，这在分析上是有用的，但可能忽视了农业决策中多维学习所需的复杂性。在肯尼亚，我们研究了农民在随机邀请参与农艺研究试验后六个季节的动态学习（从自己和他人）和采纳决策，比较了三个连续季节中不同投入组合的效果。作为对试验的响应，尽管在接触试验后多个季节没有获得正利润，采纳仍然稳步增加。知识增长迅速，对于技能较高的农民来说增长更快，他们进行的实验最多，但代价是犯新错误。这些发现与一个理论模型一致，该模型具有投入和实践决策的多维性，以及根据技能从自己的经验中进行差异化学习，其中互补性意味着采纳一种投入需要找到如何重新优化其他维度的方法，这增加了采纳的成本。",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
             "title_en": "Dynamic Incentives in Incompletely Specified Environments",
             "title_zh": "不完全指定环境中的动态激励",
             "url": "https://doi.org/10.3982/ecta23373",
@@ -406,6 +409,16 @@
             "abstract_zh": "考虑一个重复互动，其中每个时期的具体阶段游戏是未知的。这个框架将跨时期的激励基本逻辑与任何给定策略组合必须产生一个明确定义的收益向量的要求分离开来。一个自然的解决方案概念是事后完美均衡：对于阶段游戏序列的任何实现，策略必须形成一个子博弈完美均衡。当有一个长期参与者而其他人是短期参与者，并且公共随机化可用时，我们可以适应标准的递归方法来确定长期参与者奖励和惩罚之间最大可行的差距。这使我们能够识别哪些行动可以在均衡中被玩，并且假设有完美的监控，可以完全描述可能出现的结果路径。如果有多个长期参与者或没有公共随机化，这种方法就会失败；这种失败的诊断是最优惩罚代码可能不再存在。",
             "matched_topics": [
               "创新药"
+            ]
+          },
+          {
+            "title_en": "The Complexity of Multidimensional Learning in Agriculture",
+            "title_zh": "农业中多维学习的复杂性",
+            "url": "https://doi.org/10.3982/ecta22974",
+            "abstract_en": "Studies on agricultural technology adoption often focus on one input, practice, or package, which is analytically useful, but may overlook the complexities involved with multidimensional learning needed for a lot of agricultural decisions. In Kenya, we study farmers' dynamic learning (from oneself and others) and adoption decisions over six seasons after randomly inviting them to participate in agronomic research trials, comparing different combinations of inputs during three consecutive seasons. As a response to the trials, adoption increases steadily despite the absence of positive profits multiple seasons after exposure to the trials. Know‐how increases rapidly and faster for high skill farmers who experiment the most, at the cost of making new mistakes. The findings are consistent with a theoretical model with multidimensionality of input and practice decisions and differential learning from one's own experience by skills, where complementarities imply that adoption of an input requires finding how to re‐optimize other dimensions, which adds to the cost of adoption.",
+            "abstract_zh": "研究农业技术采纳往往关注单一投入、实践或一揽子方案，这在分析上是有用的，但可能忽视了农业决策中多维学习所需的复杂性。在肯尼亚，我们研究了农民在随机邀请参与农艺研究试验后六个季节的动态学习（从自己和他人）和采纳决策，比较了三个连续季节中不同投入组合的效果。作为对试验的响应，尽管在接触试验后多个季节没有获得正利润，采纳仍然稳步增加。知识增长迅速，对于技能较高的农民来说增长更快，他们进行的实验最多，但代价是犯新错误。这些发现与一个理论模型一致，该模型具有投入和实践决策的多维性，以及根据技能从自己的经验中进行差异化学习，其中互补性意味着采纳一种投入需要找到如何重新优化其他维度的方法，这增加了采纳的成本。",
+            "matched_topics": [
+              "企业创新"
             ]
           },
           {
@@ -712,8 +725,8 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-05",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 6,
-        "total_in_issue": 11,
+        "matched_count": 10,
+        "total_in_issue": 16,
         "papers": [
           {
             "title_en": "Multinational investment activity under policy uncertainty in host and competing countries",
@@ -721,6 +734,46 @@
             "url": "https://doi.org/10.1016/j.jinteco.2026.104252",
             "abstract_en": "This paper examines how economic policy uncertainty (EPU) in host and competing countries reshapes U.S. multinationals’ greenfield foreign direct investment (FDI). Using firm-destination level data from 2003 to 2021, we show that while host-country EPU deters investment, EPU in competing destinations attracts it through a spillover effect. We document a structural shift around 2015: as global EPU rose unevenly, the spillover effect from competitors became the dominant driver of investment decisions, supplanting the direct effect of host-country policy instability. Our findings indicate that in an era of heightened global uncertainty and risk, FDI allocation is governed by relative, not just absolute, policy stability. • Host-country policy uncertainty deters FDI, while competitor uncertainty attracts it. • Relative policy stability, rather than absolute levels, governs FDI flows recently. • A structural shift after 2015 made competitor uncertainty the dominant driver of FDI.",
             "abstract_zh": "本文研究了东道国和竞争国家的经济政策不确定性（EPU）如何重塑美国跨国公司的绿地外国直接投资（FDI）。利用2003至2021年的企业-目的地层面数据，我们发现东道国EPU抑制了投资，而竞争目的地的EPU通过溢出效应吸引了投资。我们记录了2015年左右的结构性转变：随着全球EPU的不均衡上升，来自竞争者的溢出效应成为投资决策的主要驱动力，取代了东道国政策不稳定的直接影响。我们的发现表明，在全球化不确定性和风险加剧的时代，FDI配置由相对而非绝对政策稳定性决定。•东道国政策不确定性抑制FDI，而竞争者不确定性吸引FDI。•相对政策稳定性而非绝对水平，最近决定了FDI流动。•2015年后的结构性转变使竞争者不确定性成为FDI的主要驱动力。",
+            "matched_topics": [
+              "国际经济"
+            ]
+          },
+          {
+            "title_en": "Domestic wedges and the (in)sensitivity of CPI to exchange rates",
+            "title_zh": "国内楔子与CPI对汇率的（不）敏感性",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104237",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际经济"
+            ]
+          },
+          {
+            "title_en": "Real exchange rate dynamics beyond business cycles",
+            "title_zh": "实际汇率动态超越商业周期",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104258",
+            "abstract_en": "We examine the determinants of medium-term movements in real exchange rates. Using US-UK data over the past 200 years, we find that the real exchange rate co-moves with GDP and the co-movements are significantly affected by banking crises. This relationship can be rationalized by an extension of the IRBC model with persistent productivity shocks and incomplete markets. Using a new global solution method, we demonstrate that the transmission of productivity shocks depends critically on the proximity of a national economy to its international borrowing limit. The mechanism differs from the Harrod-Balassa-Samuelson effect which does not generate these state dependent responses.",
+            "abstract_zh": "我们研究了实际汇率中期变动的决定因素。利用过去200年的美国-英国数据，我们发现实际汇率与GDP共同变动，且这种共同变动受到银行危机的显著影响。这种关系可以通过扩展包含持久性生产率冲击和不完全市场的IRBC模型来合理化。使用一种新的全球解决方案方法，我们证明生产率冲击的传导在很大程度上取决于一个国家经济接近其国际借款限额的程度。这种机制与不产生这些状态依赖反应的哈罗德-巴拉斯-萨缪尔森效应不同。",
+            "matched_topics": [
+              "国际经济"
+            ]
+          },
+          {
+            "title_en": "Trade in appliances, household production, and labor force participation",
+            "title_zh": "家电贸易、家庭生产与劳动力参与",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104241",
+            "abstract_en": "We examine how trade influences female labor supply through reductions in the prices of household appliances that substitute for domestic labor. Using a comprehensive data set from 1981 to 2017, which includes four population censuses, household surveys, and customs records from Peru, we show that labor force participation rose at the same time that appliance import prices fell. We then develop and estimate a dynamic general equilibrium model of trade and household production, to quantitatively evaluate the aggregate impact of declining appliance prices. We find that the reduction in appliance prices during the sample period leads to an increase in female labor force participation that explains one tenth of the total rise in female labor participation in Peru over the past 30 years.",
+            "abstract_zh": "我们研究了贸易如何通过降低替代家庭劳动的家用电器价格来影响女性劳动力供给。利用1981年至2017年的全面数据集，包括秘鲁的四次人口普查、家庭调查和海关记录，我们展示了劳动力参与率的上升与家用电器进口价格的下降是同步的。然后，我们开发并估计了一个贸易和家庭生产的动态一般均衡模型，以定量评估家用电器价格下降的总体影响。我们发现，在样本期间家用电器价格的降低导致女性劳动力参与率的增加，这一增加解释了过去30年秘鲁女性劳动力参与率总上升的十分之一。",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "The global network of liquidity lines",
+            "title_zh": "全球流动性网络",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104255",
+            "abstract_en": "At the end of 2025, there were 177 cross-border liquidity lines between central banks connecting countries that accounted for 81% of world GDP. This paper maps the evolution of these arrangements since 2000. We show that the lines form a network through which banks can indirectly obtain access to the USD even when their central bank has no agreement with the Federal Reserve. These indirect connections give the People’s Bank of China a central role and show the fragility of liquidity provision to geopolitical tensions. We present cross-country evidence that the indirect connections reduce CIP deviations at the tails, and causal evidence that liquidity lines are substitutes to FX reserves. • A new comprehensive dataset of central bank cross-border liquidity lines 2000-25. • A historical account of the evolution of liquidity lines across time and countries. • A country can indirectly access foreign liquidity even without a direct line to the source. • Indirect connections through the network are associated with lower CIP deviations. • Improvement in network access to foreign liquidity causally lowers FX reserves.",
+            "abstract_zh": "到2025年底，中央银行之间共有177条跨境流动性线路，连接了占全球GDP 81%的国家。本文绘制了自2000年以来这些安排的演变。我们展示了这些线路形成了一个网络，银行即使在它们的中央银行与美联储没有协议的情况下，也可以间接获得美元。这些间接联系使中国人民银行发挥了中心作用，并显示了流动性供应对地缘政治紧张局势的脆弱性。我们提供了跨国证据，表明间接联系减少了尾部的CIP偏差，并提供了因果证据，表明流动性线路是外汇储备的替代品。• 2000-2025年中央银行跨境流动性线路的新综合数据集。• 流动性线路随时间和国家演变的历史记录。• 即使没有直接线路到源头，一个国家也可以间接获得外国流动性。• 通过网络的间接联系与较低的CIP偏差相关联。• 网络获取外国流动性的改善，因果地降低了外汇储备。",
             "matched_topics": [
               "国际经济"
             ]
@@ -788,8 +841,8 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 6,
-        "total_in_issue": 16,
+        "matched_count": 8,
+        "total_in_issue": 19,
         "papers": [
           {
             "title_en": "The art of not being chocked: Environmental awareness, residents' responses and land transactions in China",
@@ -830,6 +883,26 @@
             "abstract_zh": "外国干预的成功在很大程度上取决于当地社区的凝聚力，这些社区在反叛乱和重建努力中扮演着相关伙伴的角色。利用阿富汗军事基地位置和反叛乱援助的独特数据，我展示了国际安全援助部队（ISAF）的存在对社会凝聚力产生了负面影响，这种凝聚力通过社区内的支持、与社区机构的参与以及信任来衡量。我利用地理回归不连续设计来估计ISAF地理任务扩大的效果，并辅以涵盖其行动强度化的面板分析。这些发现似乎并不反映非正式机构被正式提供挤出；相反，它们与更高的不安全感和对当地机构信心的降低相吻合，为观察到的社区凝聚力的侵蚀提供了一个合理的解释。这些发现对外交政策具有重要意义，特别是在社区补偿正式制度提供缺口的背景下。• 研究使用了外国军事基地和反叛乱援助的地理编码数据。• 地理RD和面板证据识别了扩张和强度的效果。• 外国军事存在削弱了阿富汗的社会凝聚力（2005-2010年）。• 没有挤出的证据；结果与更高的不安全感和更低的信心相关。• 结果与干预后“经验教训”的定性证据一致。",
             "matched_topics": [
               "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Parental mental health and the economic preferences of the next generation",
+            "title_zh": "父母心理健康与下一代的经济偏好",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103785",
+            "abstract_en": "This paper provides the first evidence that children's economic preferences vary systematically with parental mental health. Using experimentally elicited measures of economic preferences from more than 4,500 children in Bangladesh, we document that children of parents with indications of mental illness are less prosocial but more patient than their peers with mentally healthy parents. Attitudes toward risk remain unchanged. We discuss potential pathways through which parental mental health may influence the formation of children's preferences, documenting that children of parents with indication of mental illness assume greater responsibilities within the family, experience less parental involvement, and are exposed to a more adverse home environment.",
+            "abstract_zh": "本文首次提供了儿童经济偏好与父母心理健康系统性变化的证据。利用来自孟加拉国4500多名儿童的经济偏好实验性测量数据，我们记录了有精神健康问题迹象的父母的孩子比心理健康的父母的孩子更不亲社会但更有耐心。对风险的态度保持不变。我们讨论了父母心理健康可能影响儿童偏好形成的潜在途径，记录了有精神健康问题迹象的父母的孩子在家庭中承担更多责任，经历较少的父母参与，并暴露于更不利的家庭环境。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "From childhood abduction to adulthood: Enduring consequences for women in Uganda",
+            "title_zh": "从童年绑架到成年：对乌干达女性持久的影响",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103766",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
               "创新药"
             ]
           },
@@ -1167,9 +1240,19 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 1,
-        "total_in_issue": 2,
+        "matched_count": 2,
+        "total_in_issue": 3,
         "papers": [
+          {
+            "title_en": "Causal evidence of antitrust damages in the car manufacturers’ cartel in Spain",
+            "title_zh": "西班牙汽车制造商卡特尔反垄断损害的因果证据",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103285",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
           {
             "title_en": "Legalization and innovation in the cannabis market",
             "title_zh": "大麻市场的合法化与创新",
@@ -1192,8 +1275,8 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 5",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 8,
-        "total_in_issue": 10,
+        "matched_count": 11,
+        "total_in_issue": 13,
         "papers": [
           {
             "title_en": "Specialisation and the career outcomes of inventors",
@@ -1259,12 +1342,44 @@
             ]
           },
           {
+            "title_en": "The duality of duality: Generative and disruptive climate configurations for innovation",
+            "title_zh": "双重性的双重性：创新的生成性和破坏性气候配置",
+            "url": "https://doi.org/10.1016/j.respol.2026.105479",
+            "abstract_en": "Organizational climate is seen as a key driver of organizational performance, including sustained innovation. However, there is limited work on the effects of climate duality on innovation. The co-existence of two distinct climate dimensions (duality) in an organization creates the potential for both generative and disruptive dualities. By dividing the innovation process into an idea generation stage and an innovation implementation stage, we develop a theory linking climate duality and the generative–disruptive dichotomy at each stage of the innovation process. In particular, we argue that climate duality should be generative at the idea stage and disruptive at the implementation stage. Using data from the 2018 Australian Public Service Employee Census ( N = 59,870), we test the distinct effects of climate duality at each stage. We conclude with a discussion of the implications of these findings for theories of work climate and innovation. • Advance workplace climate research with a configurational approach examining interactions among multiple workplace climates • Theorize relationship between duality (co-existence of go-getter and inclusive climates) and stages of innovation process • Use Australian Public Service Employee Census to show climate duality benefits idea generation (a divergent process) • Find climate duality hinders implementation (a convergent process), revealing paradoxical effects on innovation • Extend theories of climate duality and innovation to public organizations, contributing to cross-sector understanding",
+            "abstract_zh": "组织氛围被视为组织绩效的关键驱动因素，包括持续创新。然而，关于气候二元性对创新影响的研究工作有限。一个组织中两个不同气候维度（二元性）的共存创造了生成性和破坏性二元性的潜力。通过将创新过程划分为创意生成阶段和创新实施阶段，我们发展了一种理论，将气候二元性与创新过程中每个阶段的生成性-破坏性二分法联系起来。特别是，我们认为气候二元性在创意阶段应该是生成性的，在实施阶段应该是破坏性的。利用2018年澳大利亚公共服务员工普查的数据（N=59870），我们测试了气候二元性在每个阶段的不同效应。我们以对工作气候和创新理论的影响讨论作为结论。•采用配置方法推进工作气候研究，检验多种工作气候之间的相互作用•理论化二元性（进取和包容气候的共存）与创新过程阶段之间的关系•利用澳大利亚公共服务员工普查显示气候二元性有利于创意生成（一个发散过程）•发现气候二元性阻碍实施（一个收敛过程），揭示了对创新的矛盾效应•将气候二元性和创新理论扩展到公共组织，有助于跨部门理解",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "Unlocking firm innovation under regional disadvantage: Can psychological openness compensate?",
             "title_zh": "标题：在区域劣势下激发企业创新：心理开放性能否补偿？",
             "url": "https://doi.org/10.1016/j.respol.2026.105463",
             "abstract_en": "Firm innovation is strongly shaped by regional endowment – defined here as regional supply- and demand-side conditions for innovation – yet many regions are disadvantaged by having low levels of such endowment. While recent research increasingly emphasizes the role of regional soft factors , such as psychological openness, we still know relatively little about how such factors influence firm innovation under conditions of low structural endowment. Theoretically, we draw on Schmookler's scissors metaphor to conceptualize regional supply and demand conditions as hard, structural endowments of regions. We argue that favorable regional soft conditions – specifically psychological openness – can partially offset these structural constraints, but only for firms that possess sufficient absorptive capacity to recognize, absorb, and exploit such favorable regional conditions. Using longitudinal firm-level data on Swedish firms from 2004 to 2018, we show that regional psychological openness does not have a universal positive effect on product innovation. Instead, our results indicate that the benefits of regional openness are concentrated among firms with higher absorptive capacity operating in regions with low endowment, while firms in regions with higher endowment do not benefit in the same way. Implications for research and policymaking are discussed. • Regional soft factors are associated with firm innovation outcomes. • Regional psychological openness may offset regional structural disadvantages. • Firms need absorptive capacity to benefit from regional psychological openness. • Hard and soft factors at firm and region levels jointly shape firm innovation. • In high-endowment regions, psychological openness may coincide with lower innovation.",
             "abstract_zh": "企业创新在很大程度上受到区域禀赋的影响——这里定义为区域创新的供给和需求条件——然而许多区域因禀赋水平低而处于不利地位。尽管最近的研究越来越强调区域软因素的作用，如心理开放性，我们对这些因素如何在低结构禀赋条件下影响企业创新仍然知之甚少。从理论上讲，我们借鉴施穆克勒的剪刀隐喻，将区域供给和需求条件概念化为区域的硬性、结构性禀赋。我们认为，有利的区域软条件——特别是心理开放性——可以部分抵消这些结构性约束，但仅限于那些拥有足够吸收能力以识别、吸收和利用这些有利区域条件的企业。利用2004年至2018年瑞典企业的纵向企业级数据，我们表明区域心理开放性对产品创新没有普遍的积极影响。相反，我们的结果表明，区域开放性的好处集中在拥有更高吸收能力的企业中，这些企业在禀赋较低的区域运营，而在禀赋较高的区域的企业并没有以相同的方式受益。讨论了对研究和政策制定的影响。•区域软因素与企业创新成果相关。•区域心理开放性可能抵消区域结构性劣势。•企业需要吸收能力才能从区域心理开放性中受益。•企业层面和区域层面的硬性和软性因素共同塑造企业创新。•在高禀赋区域，心理开放性可能与较低的创新相吻合。",
             "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Automation, trade and multinational activity: Micro evidence from Spain",
+            "title_zh": "自动化、贸易与跨国活动：来自西班牙的微观证据",
+            "url": "https://doi.org/10.1016/j.respol.2026.105472",
+            "abstract_en": "We use a rich dataset of Spanish manufacturing firms from 1990 to 2016 to shed light on how automation in a high-income country affects trade and multinational activity involving lower-income countries. We exploit variation in firm exposure to robotics inventions over time, as measured using ex ante task specialization and the tasks described in new robotics patents. We show that the deployment of robots in Spanish firms had a positive impact on their offshoring to lower-income countries. For firms that had not yet offshored production to lower-income countries, robot adoption caused them to start newly doing so. By contrast, for firms that were already offshoring to lower-income countries, robot adoption had no effect on their offshoring. • The deployment of robots in Spanish firms had a positive impact on offshoring to developing countries. • Firms that adopted robots started newly offshoring production. • Firms that were already offshoring saw no effect on their offshoring. • Robot adoption had no impact on offshoring to advanced economies.",
+            "abstract_zh": "我们利用1990年至2016年西班牙制造业企业丰富的数据集，来阐明一个高收入国家中的自动化如何影响涉及低收入国家的贸易和跨国活动。我们利用企业对机器人发明暴露度随时间的变化，使用新机器人专利中描述的任务专业化和任务来衡量。我们表明，西班牙企业中机器人的部署对其向低收入国家的外包产生了积极影响。对于那些尚未向低收入国家外包生产的企业，采用机器人导致它们开始这样做。相比之下，对于那些已经向低收入国家外包的企业，采用机器人对其外包没有影响。• 西班牙企业中机器人的部署对向发展中国家外包产生了积极影响。• 采用机器人的企业开始新的外包生产。• 已经外包的企业对其外包没有影响。• 采用机器人对向发达经济体外包没有影响。",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Dinosaurs of the organizational landscape facing technological disruption: Liability of aging and exaptation in monastic orders",
+            "title_zh": "组织景观中的恐龙：面对技术颠覆的老化负担与修道会的适应性再利用",
+            "url": "https://doi.org/10.1016/j.respol.2026.105480",
+            "abstract_en": "Some organizations remain adaptable across centuries while others struggle to evolve and ultimately fade into irrelevance. Only a handful of theories can explain this extraordinary adaptability. We test two competing theoretical perspectives in imprinting research: Liability of aging suggests that older organizations are at greater risk of disruption by modern technologies, but older organizations can also repurpose their imprinted structures and processes to their advantage in a process termed exaptation. To resolve this contradiction, we analyze Catholic religious orders and their monasteries. They represent the oldest extant organizations, were founded in various historical eras, and are facing contemporary challenges posed by digitalization. Our quantitative and qualitative findings indicate that the orders with historically decentralized imprints show higher adaptability in embracing digital innovation. Our results confirm that long-term adaptability is increased in organizations whose imprinted decentralized logics provide a propensity for exaptation. However, these long-standing organizations are also more wary of the negative effects of digital disruption and appear to shield their organizational core more strongly. We contribute to imprinting research by shedding light on the intricate relationship between historically imprinted organizational logics and contemporary organizational practice and highlight the often-underappreciated importance of exaptation for long-term adaptability. • Imprinting theory implies that aging organizations are less able to react to changes. • However, structures adapted for initial conditions may be repurposed. • We test both these assumptions in the organizational logics of Catholic orders. • Catholic orders were founded in diverse eras and face challenges with digitalization. • Historically decentralized organizational logics adapt best to digital innovation.",
+            "abstract_zh": "一些组织能够跨越世纪保持适应性，而其他组织则难以进化，最终变得无关紧要。只有少数理论能够解释这种非凡的适应能力。我们在印记研究中测试了两种竞争的理论视角：老化责任理论认为，较老的组织更有可能被现代技术所破坏，但较老的组织也可以将他们印记的结构和流程重新用于他们的优势，这一过程被称为“适者生存”。为了解决这一矛盾，我们分析了天主教宗教团体及其修道院。它们代表了现存最古老的组织，成立于不同的历史时期，并且正面临数字化带来的当代挑战。我们的定量和定性发现表明，历史上去中心化的印记显示出更高的适应性，以拥抱数字创新。我们的结果证实，那些印记去中心化逻辑为适者生存提供倾向的组织，其长期适应性得到了增强。然而，这些长期存在的组织也更加警惕数字破坏的负面影响，并且似乎更强烈地保护他们的组织核心。我们通过揭示历史上印记的组织逻辑与当代组织实践之间复杂的关系，为印记研究做出了贡献，并强调了适者生存对长期适应性的经常被低估的重要性。• 印记理论意味着老化的组织对变化的反应能力较差。• 然而，为初始条件调整的结构可以被重新利用。• 我们在天主教团体的组织逻辑中测试了这两种假设。• 天主教团体成立于不同的时代，面临数字化的挑战。• 历史上去中心化的组织逻辑最能适应数字创新。",
+            "matched_topics": [
+              "国际贸易",
               "企业创新"
             ]
           },
@@ -1498,9 +1613,19 @@
         "resolved_name": "Journal of Business Venturing",
         "issue_title": "Volume 41, Issue 4",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
-        "matched_count": 2,
-        "total_in_issue": 5,
+        "matched_count": 3,
+        "total_in_issue": 6,
         "papers": [
+          {
+            "title_en": "Beyond “uncertainty”: How distinct types of perceived uncertainties catalyze or paralyze firm innovation",
+            "title_zh": "超越“不确定性”：不同类型感知不确定性如何催化或瘫痪企业创新",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106605",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
           {
             "title_en": "Founders for hire? The role of venture studios in breaking the individual-opportunity nexus",
             "title_zh": "雇佣创始人？风险工作室在打破个体-机会关系中的作用",
@@ -1530,134 +1655,52 @@
         "query_name": "Technovation",
         "issn": "0166-4972",
         "resolved_name": "Technovation",
-        "issue_title": "Published 2026-05",
+        "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 12,
-        "total_in_issue": 13,
+        "matched_count": 4,
+        "total_in_issue": 5,
         "papers": [
           {
-            "title_en": "May I have your attention - Designers’ issue selling processes in design integration",
-            "title_zh": "设计师注意了——设计整合中的问题销售流程",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103534",
-            "abstract_en": "The benefits of design for innovation and organizations are becoming well-documented. However, integrating design in technology-driven companies remains challenging. While past research has focused on how design can be organized and supported on an organizational level, we adopt an attention-based view to design integration to explore the actor-level issue selling actions through which design is sought to be integrated into the daily operational decision-making and repertoire of technology organizations. Examining the issue selling strategies of the design workforce at a large, international technology company, we identify three interconnected genres of issue-selling process strategies – seeding, involving, and funneling. The study shows how these process strategy genres are applied in parallel and sequences, distributed across actors and time in seeking to gain and sustain attention to design across the company. As such, the results contribute to understanding collective pathways to integrating new approaches like design into dispersed organizational decision-making in technology organizations. • Designers initiate and sustain attention to design through issue selling. • They use three different, interconnected issue selling strategy process genres. • Seeding, involving and funneling strategies are combined to broaden attention. • Collective efforts through multiple pathways contribute to design integration.",
-            "abstract_zh": "设计对创新和组织的好处正日益得到充分记录。然而，在技术驱动的公司中整合设计仍然具有挑战性。虽然过去的研究集中在设计如何在组织层面被组织和支持，我们采用基于注意力的设计整合视角来探索行动者层面的问题销售行为，通过这些行为设计被寻求整合到技术组织的日常工作运营决策和曲目中。通过检查一家大型国际技术公司设计人员的问题销售策略，我们识别出三个相互关联的问题销售过程策略类型——播种、涉及和引导。研究表明，这些过程策略类型是如何并行和顺序应用，分布在行动者和时间上，以寻求在公司内获得和维持对设计的注意力。因此，结果有助于理解集体路径，将新方法如设计整合到技术组织的分散组织决策中。• 设计师通过问题销售启动和维持对设计的注意力。• 他们使用三种不同的、相互关联的问题销售策略过程类型。• 结合播种、涉及和引导策略以扩大注意力。• 通过多条路径的集体努力有助于设计整合。",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "The impact investment relationship builder: A new artifact to improve market coordination in social innovation",
-            "title_zh": "社会创新中市场协调的新型工具：影响力投资关系构建者",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103543",
-            "abstract_en": "Social ventures hold great promise for addressing complex societal and environmental challenges, with impact investors reportedly willing to back them with over US$1.571 trillion in assets to scale social innovation. Yet, despite this growth, many social ventures struggle to translate ambitious impact commitments into sustained investment relationships, risking the collapse of an already fragile bridge between social innovators and impact-oriented capital. This challenge reflects a deeper coordination problem in impact investing, where ventures and investors operate with different evaluative logics, evidentiary expectations, and temporal horizons. Drawing on a design science approach, this paper develops and tests the impact investment relationship builder , a relational coordination artifact designed to support alignment between social ventures and impact investors over time. The artifact structures interaction across three interdependent domains - impact, accountability, and revenue - and guides actors through staged episodes of relational alignment. Rather than treating investability as a fixed threshold or screening outcome, the artifact frames investment allocation as a generative, relational process through which expectations, evidence, and trust are progressively constructed and reassessed. The study contributes to impact investing, entrepreneurial finance, and design science by advancing a relational understanding of investment allocation under conditions of uncertainty and hybrid value creation. • Introduces a relational coordination artifact to support alignment between social ventures and impact investors • Reframes impact investing as a process of ongoing relational alignment rather than a one-off readiness assessment • Identifies five design principles explaining how investability is progressively constructed under uncertainty • Demonstrates how impact, accountability, and revenue co-evolve across investment relationships • Offers a transferable design science contribution for coordinating hybrid value creation in entrepreneurial finance",
-            "abstract_zh": "社会企业在解决复杂的社会和环境挑战方面具有巨大潜力，据报道，影响力投资者愿意用超过1.571万亿美元的资产支持它们，以扩大社会创新。然而，尽管有所增长，许多社会企业仍难以将雄心勃勃的影响承诺转化为持续的投资关系，冒着已经脆弱的社会创新者与以影响力为导向的资本之间的桥梁崩溃的风险。这一挑战反映了影响力投资中更深层次的协调问题，其中企业与投资者以不同的评估逻辑、证据预期和时间范围运作。本文采用设计科学方法，开发并测试了影响力投资关系构建器，这是一种旨在支持社会企业与影响力投资者之间随时间对齐的关系协调工具。该工具在三个相互依赖的领域——影响、问责和收入——中构建互动，并引导参与者通过阶段性的关系对齐。该工具不是将投资可行性视为一个固定的阈值或筛选结果，而是将投资分配框架化为一个生成性的关系过程，通过这一过程，预期、证据和信任被逐步构建和重新评估。该研究通过推进在不确定性和混合价值创造条件下的投资分配关系理解，为影响力投资、创业金融和设计科学做出了贡献。• 引入了一种关系协调工具，以支持社会企业与影响力投资者之间的对齐• 将影响力投资重新框架化为持续关系对齐的过程，而不是一次性的准备评估• 确定了五个设计原则，解释了在不确定性下投资可行性是如何逐步构建的• 展示了影响、问责和收入在投资关系中的共同演变• 提供了一个可转移的设计科学贡献，用于协调创业金融中的混合价值创造",
+            "title_en": "The role of AI for sustainability and economic performance: Evidence from the pharmaceutical industry",
+            "title_zh": "人工智能在可持续性与经济绩效中的作用：来自制药行业的证据",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103547",
+            "abstract_en": "In today's rapidly evolving business landscape, organizations across industries are increasingly seeking to capitalize on the opportunities offered by digital transformation, particularly through Artificial Intelligence (AI). Yet, many organizations struggle to fully harness the potential of these emerging technologies. This study contributes to the ongoing discourse on the organizational factors that drive effective AI adoption, focusing on how organizational readiness influences AI adoption and performance. Specifically, we explore the relationship between Strategic and Cognitive readiness and AI adoption, examining their roles in advancing Sustainability and Economic outcomes. Using data from 511 employees in the pharmaceutical industry and employing Structural Equation Modeling, our analysis reveals that (i) strategic and cognitive readiness positively influence AI adoption; (ii) AI adoption mediates the positive relation between strategic and cognitive readiness and SDG performance; (iii) SDGs attainment mediates the relationship between AI adoption and economic performance; (iv) SDGs performance enhances economic performance; and that (v) this relationship is more pronounced in smaller organizations. Our findings contribute to the ongoing research on the organizational determinants of effective AI adoption and highlight the critical role of this technology in supporting both SDGs achievement and economic viability. • Organizational readiness for digital innovation leads to enhanced AI adoption levels. • AI adoption leads to enhanced Economic Performance, mediated by SDGs attainment. • SDGs attainment leads to enhanced Economic Performance. • Small Organizational Size moderates the effect between SDGs and Economic outcomes.",
+            "abstract_zh": "在当今快速变化的商业环境中，各行各业的组织越来越寻求利用数字化转型提供的机会，特别是通过人工智能（AI）。然而，许多组织难以充分发挥这些新兴技术的潜力。本研究为关于推动有效AI采纳的组织因素的持续讨论做出贡献，重点关注组织准备度如何影响AI采纳和绩效。具体来说，我们探讨了战略和认知准备度与AI采纳之间的关系，检验它们在推进可持续性发展和经济成果方面的作用。利用来自制药行业511名员工的数据，并采用结构方程模型，我们的分析揭示了：（i）战略和认知准备度对AI采纳有积极影响；（ii）AI采纳在战略和认知准备度与可持续发展目标（SDG）绩效之间起中介作用；（iii）SDG绩效在AI采纳与经济绩效之间起中介作用；（iv）SDG绩效增强了经济绩效；以及（v）这种关系在小型组织中更为明显。我们的发现为关于有效AI采纳的组织决定因素的持续研究做出贡献，并强调了这项技术在支持SDGs实现和经济可行性方面的关键作用。• 数字创新的组织准备度导致AI采纳水平提高。• AI采纳通过SDGs绩效的中介作用增强了经济绩效。• SDGs绩效增强了经济绩效。• 组织规模小调节了SDGs与经济成果之间的关系。",
             "matched_topics": [
               "企业创新",
+              "医药产业",
               "创新药"
             ]
           },
           {
-            "title_en": "Bridging micro–macro dynamics in nanotechnology commercialisation: How governance and absorptive capacity shape innovation performance",
-            "title_zh": "纳米技术商业化中的微观-宏观动态桥梁：治理和吸收能力如何塑造创新绩效",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103520",
-            "abstract_en": "Despite the transformative promise of nanotechnology, its commercialisation across Europe remains constrained by a persistent gap between micro-level organisational dynamics and macro-level contextual influences. This study integrates the resource-based view (RBV) with a dynamic capabilities perspective to examine how internal governance structures and absorptive capacity interact with regional policies and geographical proximity to shape innovation performance in collaborative R&D partnerships. Using a mixed-methods design across 12 European countries, we combine panel data from 250 nanotechnology firms (sourced from Orbis and World Bank databases) with 30 in-depth interviews and 97 survey responses. Fixed-effects regression models reveal that decentralised governance structures foster intellectual property generation and enhance long-term profitability. Furthermore, absorptive capacity amplifies these effects under supportive regional policy environments. Dense value networks, however, can inhibit new product development due to coordination overload – an effect mitigated by geographical proximity. These findings refine the RBV by highlighting the contingent nature of internal–external synergies in volatile, high-technology sectors. The study provides actionable insights for R&D managers and EU policymakers seeking to align governance flexibility and absorptive capacity with the evolving goals of Horizon Europe. • The study uncovers the micro–macro dynamics shaping the commercialisation of nanotechnology R&D across Europe. • We investigate how governance mechanisms and absorptive capacity jointly drive commercialisation outcomes in collaborative R&D initiatives. • The results show that decentralised governance structures strengthen intellectual property creation and improve long-term profitability. • Absorptive capacity further amplifies these gains under supportive regional policy environments; meanwhile, dense value networks can hinder new product development unless offset by geographic proximity. • By linking firm-level strategies to regional innovation policies through a multi-country European analysis, the study addresses a key gap in the nanotechnology commercialisation literature.",
-            "abstract_zh": "尽管纳米技术具有变革性的前景，但其在欧洲的商业化仍受到微观组织动态与宏观环境影响之间持续存在的差距的制约。本研究将基于资源的观点（RBV）与动态能力视角相结合，以检验内部治理结构和吸收能力如何与区域政策和地理邻近性相互作用，以塑造协作研发伙伴关系中的创新绩效。我们采用12个欧洲国家的混合方法设计，结合来自Orbis和世界银行数据库的250家纳米技术公司的面板数据、30次深入访谈和97份调查问卷。固定效应回归模型揭示，分散的治理结构促进了知识产权的产生并增强了长期盈利能力。此外，在支持性的区域政策环境下，吸收能力放大了这些效应。然而，密集的价值网络可能会因协调过载而阻碍新产品开发——这种效应可以通过地理邻近性来缓解。这些发现通过强调在动荡的高技术领域内部-外部协同作用的情境性质，完善了RBV。该研究为寻求将治理灵活性和吸收能力与欧洲地平线计划不断演变的目标对齐的研发经理和欧盟政策制定者提供了可行的见解。• 该研究揭示了塑造欧洲纳米技术研发商业化的微观-宏观动态。• 我们调查了治理机制和吸收能力如何共同推动协作研发计划中的商业化成果。• 结果表明，分散的治理结构加强了知识产权的创造并改善了长期盈利能力。• 在支持性的区域政策环境下，吸收能力进一步放大了这些收益；同时，密集的价值网络可能会阻碍新产品开发，除非通过地理邻近性来抵消。• 通过多国欧洲分析将公司层面的策略与区域创新政策联系起来，该研究填补了纳米技术商业化文献中的一个重要空白。",
+            "title_en": "Knowledge spillovers from local innovative industrial clusters: A business group network perspective",
+            "title_zh": "来自本地创新产业集群的知识溢出：企业集团网络视角",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103545",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
-              "企业创新",
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Artificial intelligence in trauma and emergency surgery: A quantitative study of perceived technology acceptance",
+            "title_zh": "创伤和急诊外科中的人工智能：对感知技术接受度的定量研究",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103548",
+            "abstract_en": "Artificial Intelligence (AI) is a transformative technology capable of driving the United Nations Sustainable Development Goals (SDGs) implementation across various industries. It can play a crucial role in the healthcare sector, especially in highly specialized fields such as trauma and emergency surgery, where its potential to assist in clinical decision-making is gaining widespread recognition. When appropriately designed and governed, AI applications in surgery can contribute to SDG 3 by improving health outcomes and promoting well-being. Moreover, clearly defined accountability and responsibility frameworks for AI in healthcare support SDG 16 by enabling auditability, clarifying responsibility allocation, and fostering institutional trust through transparent governance mechanisms. Despite these opportunities, ethical and governance-related concerns remain central to AI adoption and significantly shape the attitudes of medical professionals, patients, technology providers, developers, and policymakers. This exploratory study investigates surgeons' perceptions regarding AI adoption through a framework informed by the Unified Theory of Acceptance and Use of Technology (UTAUT). While grounded in UTAUT, the study incorporates context-specific constructs that capture the unique challenges of surgical practice: performance expectancy, perceived diagnostic complexity, patient-centered communication orientation, responsible AI governance climate, and shared accountability perceptions. By examining how responsibility interacts with traditional UTAUT constructs, performance expectancy, effort expectancy, social influence, and facilitating conditions, this research offers a more context-sensitive understanding of AI adoption in high-stakes medical environments. Through a comprehensive survey endorsed by the World Society of Emergency Surgery (WSES), involving 624 physicians from 72 countries, we aim to highlight these concerns and propose a conceptual model that reconciles AI's technological advances with the ethical obligations to protect patients and ensure sustainable healthcare outcomes. • Artificial Intelligence (AI) is a transformative technology capable of driving the United Nations Sustainable Development Goals implementation across various industries. • AI can drive progress in healthcare and surgery, augmenting decision-making. • Ethical concerns can limit the effective use of clinical AI-based tools. • This research offers a more context-sensitive understanding of AI adoption in high-stakes medical environments.",
+            "abstract_zh": "人工智能（AI）是一种变革性技术，能够推动联合国可持续发展目标（SDGs）在各行业的实施。它在医疗保健领域，特别是在创伤和急诊外科等高度专业化领域中，可以发挥关键作用，其在临床决策支持方面的潜力正获得广泛认可。当AI在外科手术中的应用得到适当设计和管理时，可以促进SDG 3目标的实现，通过改善健康结果和促进福祉。此外，为医疗保健中的AI明确定义的问责和责任框架支持SDG 16目标，通过使审计成为可能、明确责任分配，并通过透明的治理机制促进制度信任。尽管存在这些机会，与AI采用相关的伦理和治理问题仍然是核心问题，显著影响医疗专业人员、患者、技术提供商、开发者和政策制定者的态度。本探索性研究通过受统一接受和使用技术理论（UTAUT）指导的框架，调查外科医生对AI采用的看法。虽然基于UTAUT，但研究纳入了特定于上下文的构建，以捕捉外科实践的独特挑战：绩效期望、感知诊断复杂性、以患者为中心的沟通取向、负责任的AI治理氛围和共享问责感知。通过检查责任如何与传统UTAUT构建、绩效期望、努力期望、社会影响和促进条件相互作用，本研究提供了对高风险医疗环境中AI采用更具有上下文敏感性的理解。通过世界急诊外科学会（WSES）支持的全面调查，涉及来自72个国家的624名医生，我们旨在突出这些问题，并提出一个概念模型，将AI的技术进步与保护患者和确保可持续医疗结果的伦理义务相协调。• 人工智能（AI）是一种能够推动联合国可持续发展目标在各行业实施的变革性技术。• AI可以推动医疗保健和外科手术的进步，增强决策制定。• 伦理问题可能限制临床基于AI的工具的有效使用。• 本研究提供了一个更具上下文敏感性的...",
+            "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Investing in the future: Evaluating technology ventures on sustainability impact in venture capital",
-            "title_zh": "投资未来：在风险资本中评估技术创业项目对可持续性的影响",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103536",
-            "abstract_en": "Venture capital firms (VCs) play a unique role in fostering the transition to a sustainable society by financing and supporting technology ventures that contribute to long-term societal and environmental goals. However, the sustainability promise of technology ventures is typically not clear at the early stages of development, requiring critical evaluation and continuous monitoring. VCs thus require an approach for sustainability impact assessment to assess and monitor the sustainability impact of technology ventures and guide sustainable investment decisions – even more so in light of emerging regulatory requirements, such as the European Sustainable Finance Disclosure Regulation. Despite this need, limited research exists on sustainability impact assessment in the venture capital context. This study addresses this gap by investigating how VCs can assess the sustainability impact of technology ventures. Employing a design science research approach, we develop and evaluate a novel sustainability impact assessment framework tailored to the unique characteristics of VC investment. The framework adopts a Design Science (DS) approach, combining insights from a systematic literature review with findings from an in-depth qualitative study with VCs. Our contribution is twofold. First, we propose a set of design principles that enable VCs to conceptualize, assess, and monitor the sustainability impact and risks of their portfolio ventures. Second, we develop a framework for developing and validating design principles in highly contextual and emergent domains such as sustainable venture capital. The resulting design principles and framework integrate perspectives from entrepreneurial finance and technology entrepreneurship, aiming to inform both academic discourse and venture capital practice by positioning sustainability impact assessment as a central criterion in investment decision-making and venture support. • Develops and evaluates a novel sustainability impact assessment framework for venture capital firms. • Integrates theoretical insights and empirical evidence through a systematic design science approach. • Provides eight design principles to guide sustainability impact and risk assessment of early-stage technology ventures. • Demonstrates practical applicability through implementation and evaluation in a European VC fund and thereby addresses the growing need for sustainability impact assessment in venture capital under EU SFDR regulations. • Offers actionable guidelines for integrating sustainability into VC investment decision-making and monitoring processes.",
-            "abstract_zh": "风险投资公司（VCs）通过资助和支持有助于实现长期社会和环境目标的技术创业企业，在促进向可持续社会转型中扮演着独特角色。然而，在技术创业企业的早期发展阶段，其可持续性承诺通常并不明确，需要进行关键评估和持续监控。因此，VCs需要一种可持续性影响评估方法，以评估和监控技术创业企业的可持续性影响，并指导可持续投资决策——尤其是在欧洲可持续金融披露法规等新兴监管要求的背景下更是如此。尽管存在这种需求，但在风险投资背景下关于可持续性影响评估的研究却非常有限。本研究通过调查VCs如何评估技术创业企业的可持续性影响，填补了这一空白。我们采用设计科学研究方法，开发并评估了一个针对VC投资独特特征量身定制的新型可持续性影响评估框架。该框架采用设计科学（DS）方法，将系统文献综述的见解与对VCs进行的深入定性研究的结果相结合。我们的贡献是双重的。首先，我们提出了一套设计原则，使VCs能够概念化、评估和监控其投资组合企业的可持续性影响和风险。其次，我们为在高度情境化和新兴领域（如可持续风险投资）开发和验证设计原则，构建了一个框架。得出的设计原则和框架整合了创业金融和技术创业的观点，旨在通过将可持续性影响评估定位为投资决策和创业支持的核心标准，为学术讨论和风险投资实践提供信息。•为风险投资公司开发并评估了一种新型的可持续性影响评估框架。•通过系统的设计科学方法整合理论见解和实证证据。•提供八项设计原则，指导早期技术创业企业的可持续性影响和风险评估。•通过在欧洲VC基金中的实施和评估，展示了实际的适用性，从而满足了在欧盟SFDR法规下风险投资中日益增长的可持续性影响评估需求。•提供...",
+            "title_en": "Data-driven high-tech entrepreneurship: Empirical evidence from China",
+            "title_zh": "数据驱动的高科技创业：来自中国的实证证据",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103546",
+            "abstract_en": "This study investigates whether and under what conditions open government data (OGD) promotes high-tech entrepreneurship. Drawing on panel data from 259 Chinese cities between 2007 and 2022, and leveraging the staggered rollout of OGD platforms as a quasi-natural experiment, we implement a multi-period difference-in-differences design. The results show that OGD significantly promotes high-tech entrepreneurship, with the most pronounced effect observed among medium-sized startups. These effects are more pronounced in regions with stronger development of digital technology and industrial co-agglomeration, and in regions with lower administrative monopoly and higher labor costs, while also stronger in industries with higher entry barriers, suggesting that OGD may serve as a critical informational resource that empowers startups to overcome resource constraints and entry barriers. • We conceptualize Open Government Data (OGD) as a quasi-public, non-rival production factor. • A multi-period DID exploiting staggered city-level OGD launches identifies causal effects on high-tech entrepreneurship. • OGD lowers entry barriers via a macro-level factor substitution mechanism that reduces reliance on capital-intensive inputs. • Effects are stronger where digital capabilities and industrial co-agglomeration are higher, revealing key boundary conditions. • OGD can act as an \"institutional substitute,\" exerting a stronger pro-entrepreneurship effect in regions with weaker market institutions. • This study bridges the discourse between \"open government\" and \"entrepreneurship,\" offering a new framework to assess the economic performance of digital-era public policies.",
+            "abstract_zh": "本研究探讨了在何种条件下开放政府数据（OGD）能够促进高科技创业。利用2007至2022年间259个中国城市的面板数据，并利用OGD平台的分阶段推出作为准自然实验，我们实施了多期差分-差分设计。结果显示，OGD显著促进了高科技创业，其中中型初创企业的效果最为明显。这些效应在数字技术发展和产业共聚更强的地区更为显著，在行政垄断较低和劳动力成本较高的地区也更强，同时在进入壁垒更高的行业中也更强，表明OGD可能作为一种关键的信息资源，赋予初创企业克服资源限制和进入壁垒的能力。•我们将开放政府数据（OGD）概念化为一种准公共的、非竞争性的生产要素。•多期DID利用分阶段的城市级OGD启动，识别了对高科技创业的因果效应。•OGD通过宏观层面的要素替代机制降低进入壁垒，减少对资本密集型投入的依赖。•在数字能力和产业共聚更高的地方，效应更强，揭示了关键的边界条件。•OGD可以作为一种“制度替代品”，在市场制度较弱的地区发挥更强的促进创业效应。•本研究将“开放政府”与“创业”之间的论述联系起来，为评估数字时代公共政策的经济绩效提供了一个新的框架。",
             "matched_topics": [
               "企业创新",
               "创新药"
-            ]
-          },
-          {
-            "title_en": "Innovation in climate adaptation technologies: A catalyst for financial market dynamics?",
-            "title_zh": "气候适应技术中的创新：金融市场动态的催化剂？",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103514",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Digital transformation through innovation: The human-AI decision spectrum",
-            "title_zh": "数字化转型与创新：人机AI决策谱系",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103524",
-            "abstract_en": "The rapidly changing and increasingly complex processes enabled by artificial intelligence (AI) applications challenge the conventional concepts of innovation. In contrast to a general perception that AI adoption can augment innovation output, managers still lack empirical guidance on how to structure innovation processes with human-AI interaction across time and space. Drawing on observations from case studies in the aerospace, heavy engineering, information technology, and pharmaceutical sectors, this paper presents the development of a conceptual model for digital innovation to represent (<i>i</i>) <i>Learning Processes (LPs) focusing on knowledge creation and knowledge reuse and</i> (<i>ii</i>) <i>Product Development Processes (PDPs) leading to radical and incremental changes</i>. <i>The conceptual model is inductively developed based on</i> a theory building approach using multiple case studies. A set of transformative characteristics centralized on Originality, Reliability, Transferability, and Adaptability (ORTA) are identified to guide decision-making along multi-stage and cross-layer innovation processes involving cyclical handoffs between humans and machine agents. These ORTA characteristics form a base for strategic decision-making along the Human and AI decision spectrum suited to prepare companies for survival and prosperity in their journeys of digital transformation.",
-            "abstract_zh": "快速变化和日益复杂的人工智能（AI）应用过程挑战了传统的创新概念。与普遍认为AI采用可以增强创新产出的看法不同，管理者仍然缺乏关于如何在时间和空间上构建涉及人机交互的创新过程的经验指导。本文基于航空、重工业、信息技术和制药行业的案例研究观察，提出了一个数字创新的概念模型，以表示（<i>i</i>）<i>学习过程（LPs）专注于知识创造和知识重用</i>和（<i>ii</i>）<i>产品开发过程（PDPs）导致根本性和增量性变化</i>。<i>该概念模型是基于</i>使用多个案例研究的理论构建方法归纳发展而来。识别出一组以原创性、可靠性、可转移性和适应性（ORTA）为中心的变革性特征，以指导涉及人机代理之间循环交接的多阶段和跨层创新过程的决策。这些ORTA特征构成了沿着人与AI决策谱进行战略决策的基础，适合于为公司在数字化转型的旅程中生存和繁荣做好准备。",
-            "matched_topics": [
-              "企业创新",
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "Barriers to innovation, coping strategies, and the national context: Evidence from Singapore",
-            "title_zh": "创新障碍、应对策略与国家背景：来自新加坡的证据",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103517",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Moving forward while swaying left and right: How to govern national innovation systems-catalysed innovation ecosystems?",
-            "title_zh": "左右摇摆中前行：如何治理国家创新系统催化的创新生态系统？",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103539",
-            "abstract_en": "There is a burgeoning literature arguing that addressing grand challenges, such as de-globalization, requires a set of complementary actors to build innovation ecosystems (IE), which are also strategically integrated into the national innovation system (NIS). We conceptualize this specific systemic phenomenon as a new type of IE—NIS-catalysed IE—whose sustainable growth is said to be constantly hindered by dependent yet opposing tensions. The current literature provides fruitful insights into governing paradoxical tensions; however, some taken-for-granted theoretical assumptions within it are problematic when examining the relationship between salient paradoxes embodied in NIS-catalysed IE and effective governance mechanisms. Drawing on a single longitudinal case study of Baidu-led autonomous driving IE in China (2013-2024), we revealed that the NIS-catalysed AD IE has been successfully navigated over three stages despite the overarching efficiency-security paradox. To that end, three corresponding governance/response mechanisms proved effective: 1) technological platformization, 2) institutional diversification, and 3) market marginalization. We integrated our novel findings of three virtuous circles (trigger → paradox → response) into an oscillating model of NIS-catalysed IE governance. Overall, our study contributes to the theoretical nexus of NIS and IE, paradox governance at the ecosystem level, and the ecosystem-as-structure paradigm. • Defines the National Innovation Systems-catalysed Innovation Ecosystems (NIS-catalysed IEs). • Reveals how NIS-catalysed AD IEs navigate the enduring efficiency-security paradox. • Identifies platformization, institutional diversification, market marginalization. • Proposes an oscillating governance model linking triggers, paradoxes and responses. • Advances theoretical insights connecting NIS, IEs and paradox governance literature.",
-            "abstract_zh": "摘要： 越来越多的文献认为，应对去全球化等重大挑战需要一系列互补的参与者来构建创新生态系统（IE），这些生态系统也被战略性地整合到国家创新体系（NIS）中。我们将这种特定的系统现象概念化为一种新型的IE——NIS催化的IE，其可持续增长据说不断受到依赖但又对立的紧张关系的阻碍。当前文献为治理悖论性紧张关系提供了有益的见解；然而，其中一些被视为理所当然的理论假设在考察NIS催化的IE中体现的显著悖论与有效治理机制之间的关系时存在问题。通过对中国百度领导的自动驾驶IE（2013-2024年）的单一纵向案例研究，我们揭示了尽管存在总体效率-安全悖论，NIS催化的自动驾驶IE已成功地经历了三个阶段。为此，三个相应的治理/响应机制被证明是有效的：1）技术平台化，2）制度多样化，3）市场边缘化。我们将三个良性循环（触发因素→悖论→响应）的新发现整合到NIS催化的IE治理的振荡模型中。总体而言，我们的研究为NIS和IE的理论联系、生态系统层面的悖论治理以及生态系统作为结构范式做出了贡献。•定义了国家创新体系催化的创新生态系统（NIS催化的IE）。•揭示了NIS催化的自动驾驶IE如何驾驭持久的效率-安全悖论。•识别了平台化、制度多样化、市场边缘化。•提出了一个将触发因素、悖论和响应联系起来的振荡治理模型。•推进了将NIS、IE和悖论治理文献联系起来的理论见解。",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Public perception, government support, and the formation of AI startups: An institution-based view",
-            "title_zh": "公众认知、政府支持与人工智能初创企业的形成：基于制度视角的分析",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103523",
-            "abstract_en": "This study investigates cross-country differences in artificial intelligence (AI) startup formation through an institution-based view. Public perception of science and technology (S&T) is conceptualised as an informal institution influencing societal acceptance of innovation, while government AI strategies are framed as formal institutions shaping policy, resources, and regulation. Using data from 40 developed and emerging economies, and controlling for macroeconomic, innovation, and talent-related factors, multiple regression analyses show higher startup activity in countries with more positive public views of S&T and stronger, well-resourced AI strategies. Spiritual concerns about S&T have a stronger negative relationship with AI entrepreneurship than material concerns, highlighting the role of cultural influences in technology adoption. The findings suggest that alignment between formal and informal institutions is essential for entrepreneurial success in frontier technologies. Policy implications include fostering public trust through education and ethical governance, and strengthening AI ecosystems through targeted investments in talent, infrastructure, and enabling regulation. • Informal and formal institutions jointly shape AI startup formation across countries. • Negative public perceptions of science and technology reduce AI startup activity. • Government AI strategies are positively associated with national AI startup formation. • Spiritual concerns about science inhibit AI entrepreneurship more than material concerns.",
-            "abstract_zh": "本研究通过基于制度的视角，探讨了不同国家人工智能（AI）创业公司形成的差异。将公众对科学技术（S&T）的看法概念化为影响社会对创新接受度的非正式制度，而政府的AI战略则被视为塑造政策、资源和监管的正式制度。利用来自40个发达和新兴经济体的数据，并控制宏观经济、创新和人才相关因素，多元回归分析显示，在公众对S&T持更积极看法和拥有更强大、资源充足的AI战略的国家中，创业活动更为活跃。对S&T的精神性关切与AI创业之间的负面关系比物质性关切更强，突出了文化影响在技术采纳中的作用。研究结果表明，正式和非正式制度之间的一致性对于前沿技术领域的创业成功至关重要。政策含义包括通过教育和伦理治理培养公众信任，并通过有针对性的人才、基础设施和监管投资加强AI生态系统。• 非正式和正式制度共同塑造了各国AI创业公司的形成。• 公众对科学技术的负面看法减少了AI创业活动。• 政府AI战略与国家AI创业形成呈正相关。• 对科学的灵性关切比物质关切更抑制AI创业。",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Divergent temporal dynamics: Capturing the link between AI investment intensity and green innovation volatility",
-            "title_zh": "不同时间动态：捕捉人工智能投资强度与绿色创新波动之间的联系",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103522",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Dynamic Shifts: Understanding the network position as social capital to enhancing the innovation performance of frontier AI labs",
-            "title_zh": "动态转变：理解网络位置作为社会资本以增强前沿人工智能实验室的创新绩效",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103507",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Does AI catalyze novelty? Generative AI, resource allocation novelty, and innovation quality of high-performing manufacturing enterprises in emerging markets",
-            "title_zh": "人工智能是否催化创新？生成性人工智能、资源配置创新性与新兴市场中高绩效制造企业的创新质量",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103525",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
             ]
           }
         ],
@@ -1668,141 +1711,80 @@
         "query_name": "Industrial and Corporate Change",
         "issn": "0960-6491",
         "resolved_name": "Industrial and Corporate Change",
-        "issue_title": "Volume 35, Issue 1",
+        "issue_title": "Volume 35, Issue 2",
         "issue_url": "https://academic.oup.com/icc",
-        "matched_count": 12,
-        "total_in_issue": 13,
+        "matched_count": 7,
+        "total_in_issue": 8,
         "papers": [
           {
-            "title_en": "Balancing spatial equalities by place-based inclusive innovation policy: the cases of Israel and Korea",
-            "title_zh": "基于地域的包容性创新政策平衡空间平等：以色列和韩国的案例",
-            "url": "https://doi.org/10.1093/icc/dtaf056",
-            "abstract_en": "Abstract While innovation-led economies enjoy significant growth rates, they often suffer from rising social inequities. Inclusive innovation policies are government interventions designed to address such inequities, including place-based ones. Because place-based inclusive innovation could have differential effects related to different spatial levels—for example increasing inter-regional but reducing intra-regional equity simultaneously—the impact of innovation-driven place-based policies on three spatial levels should be considered: international, inter-regional, and intra-regional. Furthermore, we contend that to achieve “balanced equalities”—that is to improve equity on both inter- and intra-regional spatial levels—it is necessary to consider not just social equity, but also economic and political perspectives. From a policy standpoint, advancing this goal requires answering the questions of where governments should invest and what to invest in. Employing Israel and South Korea as illustrative case studies, we show that focusing the government’s innovation investment on large, yet peripheral, cities and balanced investment in firms and people are plausible answers to these questions.",
-            "abstract_zh": "摘要：虽然以创新为主导的经济体享有显著的增长率，但它们常常遭受日益严重的社会不平等。包容性创新政策是政府为解决这些不平等问题而设计的干预措施，包括基于地方的措施。由于基于地方的包容性创新可能对不同空间层面产生不同的影响——例如，同时增加区域间但减少区域内的公平——应考虑创新驱动的地方政策对三个空间层面的影响：国际、区域间和区域内。此外，我们认为，要实现“平衡的平等”——即在区域间和区域内空间层面上改善公平——不仅需要考虑社会公平，还需要考虑经济和政治视角。从政策角度来看，推进这一目标需要回答政府应该在哪里投资以及投资什么的问题。以以色列和韩国为例，我们展示了将政府的创新投资集中在大型但边缘的城市，以及在企业和人员之间平衡投资，是这些问题的合理答案。",
+            "title_en": "Wages, profits, inequality: wage-price spirals revisited",
+            "title_zh": "工资、利润、不平等：重新审视工资-价格螺旋",
+            "url": "https://doi.org/10.1093/icc/dtag009",
+            "abstract_en": "Abstract In times of inflation, the fear of so-called wage-price spirals becomes a central motif for policymaking. Yet, empirical studies on this phenomenon of spiraling input costs remain scarce. Lacking altogether is an assessment of the distributional effects of this form of cost-push inflation. Drawing on a standard sector-level cost-push inflation model, we examine the potential first- and second-round effects of a wage-price and wage-price-profit spiral scenario following the 2021 energy price spike as well as their distributional implications across 14 countries of the European Union. Our main results are threefold: first, we observe relatively small second-round effects, casting substantial doubt on the empirical validity of conventional wage-price spirals. Second, if sectors succeed in defending their profit margins while workers continue to defend their real wages, the emerging wage-price-profit adjustments may substantially add to inflationary pressures. Third, for the countries under consideration, wage-induced second-round effects appear to be progressive and substantially more benign than the regressive first-round effects of the energy price increases. This raises the question of whether second-round effects are a price worth paying.",
+            "abstract_zh": "摘要：在通货膨胀时期，对所谓的工资-价格螺旋的担忧成为政策制定的核心主题。然而，关于这种螺旋式投入成本现象的实证研究仍然很少。完全缺乏对这种成本推动型通货膨胀的分配效应的评估。基于一个标准的部门层面成本推动型通货膨胀模型，我们检验了2021年能源价格飙升后工资-价格和工资-价格-利润螺旋情景的潜在第一和第二轮效应及其在14个欧盟国家的分配影响。我们的主要结果有三个方面：首先，我们观察到相对较小的第二轮效应，对传统工资-价格螺旋的经验有效性提出了严重质疑。其次，如果部门成功维护其利润率，而工人继续维护其实质工资，那么新出现的工资-价格-利润调整可能会显著增加通胀压力。第三，对于所考虑的国家，工资诱导的第二轮效应似乎是累进的，并且比能源价格上涨的第一轮效应的累退性要温和得多。这引发了一个问题，即第二轮效应是否值得付出代价。",
             "matched_topics": [
-              "企业创新",
               "创新药"
             ]
           },
           {
-            "title_en": "Workplace governance and labor perceptions of technological risks and benefits",
-            "title_zh": "工作场所治理与劳动力对技术风险和利益的认知",
-            "url": "https://doi.org/10.1093/icc/dtaf059",
-            "abstract_en": "Abstract This paper examines the connection between emerging workplace technologies and workers’ preferences, actions, and mobilization. Some workers organize against innovations in the workplace because they fear that the deployment of emerging technologies could exacerbate inequality. But more often, workers adopt or acquiesce to emerging technologies. Our paper argues that understanding workers’ responses (and non-responses) to technology requires taking the work context seriously. Drawing on interdisciplinary research, it conceptualizes different forms of workplace power that moderate the consequences of technological adoption, connecting these forms of power to various dimensions of workers’ preferences. It then reflects upon the methodological challenges of studying preferences and power. The analysis underscores the need for mid-level theoretical and empirical research of work contexts to advance the agenda on inclusive innovation.",
-            "abstract_zh": "摘要 本文探讨了新兴工作场所技术与工人偏好、行为和动员之间的联系。一些工人反对工作场所的创新，因为他们担心新兴技术的部署可能加剧不平等。但更多时候，工人采用或默许新兴技术。本文认为，要理解工人对技术的反应（和无反应），需要认真考虑工作背景。它借鉴跨学科研究，概念化了不同形式的工作场所权力，这些权力调节技术采纳的后果，并将这些权力形式与工人偏好的各个维度联系起来。然后，它反思了研究偏好和权力的方法论挑战。分析强调了需要对工作背景进行中层理论和实证研究，以推进包容性创新议程。",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Innovation and equity: places and practices an introduction to the special section",
-            "title_zh": "创新与公平：地方与实践——特刊导言",
-            "url": "https://doi.org/10.1093/icc/dtaf060",
-            "abstract_en": "Abstract Can innovation be made more equitable? The papers in this special issue center equity at the heart of a positive research agenda around innovation. This research agenda relates to practices - the routinized behaviors of social actors - in the innovation process. In this introduction, we discuss how these practices focus on a) access to innovative processes, b) targets of innovation, c) the deployment of technology in firms, d) ownership structures, and e) broader governance. Moreover, practices always occur in a specific place, understood as the distinctive social or power relations that shape how practices, and resistance towards them, emerge.",
-            "abstract_zh": "摘要 创新能否变得更加公平？本期特刊中的论文将公平置于创新研究议程的核心。这一研究议程涉及创新过程中的实践——社会行动者的常规化行为。在本文介绍中，我们讨论了这些实践如何关注：a) 进入创新过程的途径，b) 创新的目标，c) 企业中技术的部署，d) 所有权结构，以及 e) 更广泛的治理。此外，实践总是发生在特定的地方，理解为塑造实践及其对实践的抵制如何出现的独特的社会或权力关系。",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "From innovation <i>versus</i> equity to innovation <i>and</i> equity",
-            "title_zh": "从创新“对立”公平到创新“与”公平",
-            "url": "https://doi.org/10.1093/icc/dtaf057",
-            "abstract_en": "Abstract The essays in the special issue reframe the relationship between innovation and equity, not as opposing objectives but as mutually constitutive design choices. Drawing together contributions at the levels of the workplace, city, region, and nation, they emphasize how outcomes depend less on market or technological inevitabilities than on practices situated in places. The essays converge on the insight that innovation systems are inherently political, shaped by institutions, governance, and collective action. Yet they also surface unsettled questions: how equity at one scale may undermine it at another, how to govern multi-actor systems such as data and surveillance, how to stabilize inclusive arrangements over time, and how to measure intangible assets and civic participation alongside wages or GDP. The task ahead is to design across levels, institutions, and metrics to recognize equity not as a constraint but as a source of resilience.",
-            "abstract_zh": "摘要：本期特刊中的文章重新构建了创新与公平之间的关系，不是作为对立的目标，而是作为相互构成的设计选择。它们汇集了工作场所、城市、地区和国家层面的贡献，强调结果更多地取决于地方实践，而不是市场或技术的必然性。文章一致认为，创新系统本质上是政治性的，受制度、治理和集体行动的影响。然而，它们也提出了未解决的问题：一个层面的公平可能破坏另一个层面的公平，如何治理涉及多方参与者的系统，如数据和监控，如何随着时间的推移稳定包容性安排，以及如何衡量无形资产和公民参与，以及工资或GDP。未来的任务是在不同层面、机构和指标之间进行设计，将公平视为韧性的源泉，而不是约束。",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Regulation as opportunity: proactive GDPR compliance in the US financial services industry",
-            "title_zh": "标题：监管即机遇：美国金融服务业主动遵守GDPR",
-            "url": "https://doi.org/10.1093/icc/dtaf031",
-            "abstract_en": "Abstract We study the impact of the EU’s General Data Protection Regulation (GDPR) on US Fortune 500 credit intermediaries and payment networks and find that corporations more exposed to the regulation due to higher market shares in Europe experienced larger increases in revenues and operating incomes after the regulation was introduced. Post-hoc analyses of survey data suggest that firms more exposed to the GDPR have higher levels of data standardization, technical investments in machine learning and artificial intelligence (ML/AI), and revenue-enhancing (but not cost-cutting) ML/AI innovations five years after GDPR introduction. Firms’ investments in GDPR compliance may have catalyzed organization-wide transformation of data systems and routines. Our findings suggest that data regulation may incentivize large old corporations to commit to changing inertial and complex internal processes despite incurring short-run costs, which delivers long-run benefits by enabling more effective ML/AI innovations that rely on high-quality data as inputs.",
-            "abstract_zh": "摘要 我们研究了欧盟通用数据保护条例（GDPR）对美国财富500强信贷中介和支付网络的影响，发现那些在欧洲市场份额更高、因此更受该法规影响的公司，在法规实施后收入和营业收入的增长更大。对调查数据进行事后分析表明，更受GDPR影响的公司在GDPR实施五年后，数据标准化水平更高，对机器学习和人工智能（ML/AI）的技术投资更多，并且拥有更多增加收入（而非降低成本）的ML/AI创新。公司对GDPR合规的投资可能催化了整个组织的数据系统和例行程序的转型。我们的发现表明，数据法规可能激励大型老牌公司致力于改变惯性和复杂的内部流程，尽管这会带来短期成本，但通过实现更有效的依赖高质量数据输入的ML/AI创新，从而带来长期效益。",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "An equity-focused research agenda for workplace surveillance",
-            "title_zh": "以权益为中心的工作场所监控研究议程",
-            "url": "https://doi.org/10.1093/icc/dtaf038",
-            "abstract_en": "Abstract We propose an equity-focused research agenda for workplace surveillance that attends to both historical continuities and contemporary shifts. Contemporary workplace surveillance continues longstanding patterns of managerial oversight present since the Industrial Revolution, but has evolved in important ways. We emphasize three shifts: the extension of surveillance into new work sectors, the network of actors beyond the manager-worker dyad, and a broader accounting of surveillance harms and potential benefits. An equity-focused approach to workplace surveillance should derive with the principle that being seen entails recognition of workers’ well-being.",
-            "abstract_zh": "摘要 我们提出了一个以公平为重点的工作场所监控研究议程，关注历史连续性和当代转变。当代工作场所监控延续了工业革命以来长期存在的管理监督模式，但在重要方面发生了演变。我们强调三个转变：监控扩展到新的工作领域，超越管理者-工人二元关系的行动者网络，以及对监控危害和潜在利益的更广泛核算。以公平为重点的工作场所监控方法应基于被看见意味着承认工人福祉的原则。",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Long-run patterns in the discovery of the adjacent possible",
-            "title_zh": "长期模式在发现相邻可能性中的表现",
-            "url": "https://doi.org/10.1093/icc/dtaf028",
-            "abstract_en": "Abstract The notion of the “adjacent possible” has been advanced to theorize the generation of novelty across many different research domains. This study is an attempt to examine in what way the notion can be made empirically useful for innovation studies. A new theoretical framework is construed based on the notion of innovation as a search process where knowledge is recombined to discover the adjacent possible. The framework makes testable predictions about the rate of innovation, the distribution of innovations across organizations, and the rate of diversification of product portfolios. The empirical section examines how well this framework predicts long-run patterns of new product introductions in Sweden, 1908–2016, and explores the long-run evolution of the product space of Swedish organizations. The results suggest that, remarkably, the rate of innovation depends linearly on cumulative innovations, which explains advantages of incumbent firms but excludes the emergence of winner-take-all distributions. The results also suggest that the rate of development of new types of products follows Heaps’ law, where the share of new product types within organizations declines over time. Finally, the study also demonstrates that the structure of the Swedish product space carries important information about adjacent possible innovations.",
-            "abstract_zh": "摘要 “邻近可能”这一概念已被提出，用以理论化多个不同研究领域中新事物的产生。本研究试图检验这一概念如何能够为创新研究提供实证上的用途。基于创新作为搜索过程的理论框架被构建起来，其中知识被重新组合以发现邻近可能。该框架对创新速率、组织间创新的分布以及产品组合多样化速率做出了可检验的预测。实证部分检验了这一框架如何预测瑞典1908-2016年新产品引入的长期模式，并探讨了瑞典组织产品空间的长期演变。结果表明，令人惊讶的是，创新速率与累积创新呈线性关系，这解释了现有企业的优势，但排除了赢家通吃分布的出现。结果还表明，新类型产品的发展速率遵循Heaps定律，即组织内新类型产品的比例随时间下降。最后，研究还证明，瑞典产品空间的结构携带了关于邻近可能创新的重要信息。",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Fostering creativity through the exploitation of scientific and technological knowledge",
-            "title_zh": "通过开发科技知识促进创造力",
-            "url": "https://doi.org/10.1093/icc/dtaf022",
-            "abstract_en": "Abstract The most creative inventions—i.e., inventions that are both novel and highly valuable—in the lithium-ion battery field are developed by inventors that exploit their own field-specific knowledge base, leveraging scientific and technological knowledge components they previously developed. This observation contrasts with the findings of prior literature, which has argued that exploration driven by inventors new to a field tends to drive novel and breakthrough inventions. We argue that the technological context and characteristics of the recombinant search process underlying technology development provide important theoretical boundaries to these prior findings and should be considered. In a complex and science-driven technology field, we expect an inventor’s own accumulated scientific and technological field-specific knowledge base to play an important role in advancing that technology field and to matter more for generating novel and breakthrough inventions.",
-            "abstract_zh": "摘要：在锂离子电池领域，最具创造力的发明——即既新颖又极具价值的发明——是由利用自身特定领域知识基础的发明者开发的，他们利用之前开发的科学和技术知识要素。这一观察与先前文献的发现形成对比，后者认为，由新进入该领域的发明者驱动的探索倾向于推动新颖和突破性的发明。我们认为，技术发展背后的重组搜索过程的技术背景和特征为这些先前的发现提供了重要的理论界限，应该被考虑。在一个复杂且由科学驱动的技术领域，我们预期发明者自身积累的科学和技术领域特定知识基础在推进该技术领域方面发挥重要作用，并且在产生新颖和突破性发明方面更为重要。",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Patent eligibility uncertainty and the VC financing of novel technologies",
-            "title_zh": "专利资格不确定性与风险资本对新技术的融资",
-            "url": "https://doi.org/10.1093/icc/dtaf024",
-            "abstract_en": "Abstract Patents play an essential part in startups’ success, particularly those developing novel technologies. However, novel technologies face an evolving regulatory context that can raise questions about the eligibility and hence the validity of the granted rights (i.e. patent eligibility uncertainty). We study the effect of patent eligibility uncertainty on startups’ ability to attract venture capital (VC) financing using the context of genomic sequences. Since 1980, the United States Patents and Trademark Office (USPTO) has allowed patents on nucleotide sequences—the building blocks of the genome. This practice was disturbed in 2010 when the court system intervened in The Association for Molecular Pathology v. Myriad Genetics. Between 2010 and 2013, the lower courts issued a series of contradictory rulings based on inconsistent legal reasoning, creating uncertainty about the patent eligibility of thousands of granted patents on nucleotide sequences. We exploit this intervention to investigate the effects of patent eligibility uncertainty on VC investments in new biotech ventures. The court system’s intervention motivates a quasi-experimental approach that allows us to show the negative impact of patent eligibility uncertainty on VC investments in startups owning affected patents.",
-            "abstract_zh": "摘要：专利在初创企业的成功中扮演着至关重要的角色，尤其是那些开发新技术的企业。然而，新技术面临着不断演变的监管环境，这可能会引发关于授权权利（即专利资格）的资格和有效性的问题（即专利资格的不确定性）。我们以基因组序列为背景，研究专利资格不确定性对初创企业吸引风险资本（VC）融资能力的影响。自1980年以来，美国专利商标局（USPTO）一直允许对构成基因组的基本单元核苷酸序列进行专利保护。2010年，法院系统在“分子病理学协会诉Myriad Genetics案”中介入，打破了这一做法。在2010年至2013年期间，下级法院基于不一致的法律推理发布了一系列相互矛盾的裁决，造成了对数千个已授权的核苷酸序列专利资格的不确定性。我们利用这一干预来调查专利资格不确定性对VC投资于新的生物技术企业的影响。法院系统的干预激发了一种准实验方法，使我们能够展示专利资格不确定性对拥有受影响专利的初创企业VC投资的负面影响。",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新",
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "Innovation diffusion uncertainty: incremental and radical innovations compared",
-            "title_zh": "创新扩散的不确定性：渐进式与激进式创新的比较",
-            "url": "https://doi.org/10.1093/icc/dtaf025",
-            "abstract_en": "Abstract Much research on innovations assumes a dichotomy of disruptive radical innovations versus more incremental ones and focuses on the diffusion of radical ones. However, incremental innovations have their own complexities. Some innovations based on incremental technologies may require radical organizational changes to implement while others are more fully incremental, leading to different technological and organizational uncertainties. Because incremental innovations can be consequential for both industries and individual firms, we develop theory on how the resulting diffusion processes differ. We analyze how the airline industry adopted three strategically important innovations with different technical and organizational uncertainty configurations—one purely incremental, one technologically radical, and one requiring radical organizational changes. The findings show information from prior adopters impacts adoption, as commonly demonstrated in diffusion studies, but only for the two innovations that were radical. The purely incremental case had no such effect. This overall suggests that firms rely on information from peer actions and early experiences to reduce both technological and organizational uncertainty similarly.",
-            "abstract_zh": "摘要：许多关于创新的研究假设了颠覆性激进创新与更渐进式创新之间的二分法，并集中于激进创新的扩散。然而，渐进式创新也有其自身的复杂性。一些基于渐进技术的创新可能需要激进的组织变革来实施，而其他创新则更完全地是渐进式的，导致不同的技术和组织不确定性。由于渐进式创新对行业和个别公司都可能产生重大影响，我们发展了关于结果扩散过程如何不同的理论。我们分析了航空业如何采用三种技术与组织不确定性配置不同的战略重要创新——一个纯粹是渐进式的，一个技术上是激进的，一个需要激进的组织变革。研究结果表明，先前采用者的信息影响采用，这在扩散研究中通常被证明，但仅适用于两个激进的创新。纯粹的渐进式案例没有这种影响。这总体表明，公司依赖于同行行动和早期经验的信息来类似地减少技术和组织不确定性。",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Putting intangible inputs and global value chains into work: New sources of manufacturing comparative advantage in global markets",
-            "title_zh": "将无形投入和全球价值链融入工作：全球市场中制造业比较优势的新来源",
-            "url": "https://doi.org/10.1093/icc/dtaf021",
-            "abstract_en": "Abstract This paper studies the contribution of intangible inputs and global value chain (GVC) participation to manufacturing specialization and the creation of comparative advantage in global markets. We use an input–output framework for the quantification of intangibles, which, among others, allows us to distinguish between domestically produced and imported intangible inputs and study disembodied flows of intangibles (knowledge) across domestic and GVCs. This framework is applied to study the determinants of export specialization of a sample of 18 manufacturing sectors from the G7 economies during the period 2000–2014. Our results suggest that intangible inputs are key contributors to the export specialization of the manufacturing sectors of advanced economies, reflecting their role as sources of comparative advantage and the dynamics of the process of servicification as a strategy for enhancing manufacturing specialization. Furthermore, consistent with our theoretical propositions, the results highlight the importance of domestic intangible inputs, but we also identify that imported intangible inputs appear to be non-rivalrous and provide specialization benefits of a lesser magnitude. Backward participation in GVCs is also found to boost export specialization.",
-            "abstract_zh": "摘要 本文研究了无形投入和全球价值链（GVC）参与对制造业专业化以及在全球市场中创造比较优势的贡献。我们使用投入-产出框架来量化无形资产，这使我们能够区分国内生产和进口的无形投入，并研究无形资产（知识）在国内和GVCs中的非物质流动。这一框架被应用于研究2000-2014年期间G7经济体18个制造业部门出口专业化的决定因素。我们的研究结果表明，无形投入是先进经济体制造业部门出口专业化的关键贡献者，反映了它们作为比较优势来源的作用以及服务化进程作为增强制造业专业化战略的动态。此外，与我们的理论命题一致，结果强调了国内无形投入的重要性，但我们也发现进口无形投入似乎是非竞争性的，并提供了较小程度的专业化利益。后向参与GVCs也被发现可以促进出口专业化。",
+            "title_en": "Competitiveness divergence in the euro area: rediscovering Kaldorian cumulative causation",
+            "title_zh": "欧元区竞争力分化：重新发现卡尔多累积因果关系",
+            "url": "https://doi.org/10.1093/icc/dtag010",
+            "abstract_en": "Abstract In recent decades, models of circular and cumulative causation (CC), based on the endogenous relationships between prices, exports, and labor productivity, have lost prominence in explaining economic dynamics, such as the divergence within the euro area. We argue that the combination of price-sensitive exports and the triggering effect of exports on productivity can enable feedback loops, significantly shaping macroeconomic reality in the short-to-medium run. We apply an adapted model of export-led CC to 10 major countries belonging to the euro area, a region characterized by divergent wage growth trajectories, reflected in divergent export competitiveness and a lack of equilibrating mechanisms. Using quarterly data over the period 1995–2020, we estimate a system of equations combining autoregressive distributed lag and instrumental variable techniques to identify causal relationships among key variables. Our findings suggest that the price-export-productivity mechanism has amplified productivity disparities within the euro area, reinforcing divergence. While wages act as a potential trigger through their impact on price competitiveness, they also serve as a central factor that retards the feedback mechanism due to the indirect scale effect of wage-induced domestic demand. Overall, our results affirm the significance of export-led CC while also delineating its limitations.",
+            "abstract_zh": "摘要 近几十年来，基于价格、出口和劳动生产率之间内生关系的循环累积因果（CC）模型在解释经济动态，如欧元区内部的分化现象时已不再突出。我们认为，价格敏感型出口和出口对生产率的触发效应可以形成反馈循环，在短期至中期内显著塑造宏观经济现实。我们将一个调整后的出口导向型CC模型应用于属于欧元区的10个主要国家，该地区以工资增长轨迹的分化为特征，反映在出口竞争力的分化和缺乏均衡机制上。利用1995-2020年期间的季度数据，我们估计了一个结合自回归分布滞后和工具变量技术的方程系统，以识别关键变量之间的因果关系。我们的发现表明，价格-出口-生产率机制放大了欧元区内生产率差异，加强了分化。虽然工资通过其对价格竞争力的影响充当潜在触发因素，但它们也由于工资引发的国内需求的间接规模效应，成为阻碍反馈机制的中心因素。总体而言，我们的结果证实了出口导向型CC的重要性，同时也界定了其局限性。",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Gender gaps in the gig economy: consequences for entrepreneurship in the 21st century",
-            "title_zh": "标题：零工经济中的性别差距：对21世纪创业的影响",
-            "url": "https://doi.org/10.1093/icc/dtaf023",
-            "abstract_en": "Abstract Although the gender gap in entrepreneurship has been well documented, we still know little about gender differences in gig work and freelancing activities, which continue to grow in importance. Using supply- and demand-side explanations, we hypothesize that gender differences will be smaller in the gig economy than in entrepreneurship. The primary reason is that the gig economy provides flexibility, which women find especially attractive relative to men. Using data from the Entrepreneurship in the Population survey, we find partial support for our hypotheses—relative to business ownership and nascent entrepreneurship, the gender gap is smaller for gig work but similar for freelancing. Moreover, if women do own a business or engage in freelancing, they are equally likely as men to remain entrepreneurs. Thus, the gender gap exists in entry but not exit. Our descriptive evidence suggests nonbinary individuals are more likely than men and women to use gig work as their primary job and more likely to remain business owners, but the regression results do not support these findings. We therefore find the gender gap in entrepreneurship is smaller in the gig economy than in other forms of entrepreneurship and smaller in exit.",
-            "abstract_zh": "摘要：尽管有关创业领域的性别差异已有充分记录，但我们对零工工作和自由职业活动中的性别差异知之甚少，而这些活动的重要性仍在不断增长。基于供给和需求侧的解释，我们假设在零工经济中性别差异将小于创业领域。主要原因是零工经济提供了灵活性，女性相对于男性特别看重这一点。利用人口创业调查的数据，我们发现部分支持我们的假设——与企业所有权和初始创业相比，零工工作的性别差距较小，但自由职业的性别差距相似。此外，如果女性确实拥有企业或从事自由职业，她们与男性一样有可能继续成为创业者。因此，性别差距存在于进入市场而非退出市场。我们的描述性证据表明，非二元性别个体比男性和女性更有可能将零工工作作为主要工作，并且更有可能继续成为企业主，但回归结果不支持这些发现。因此，我们发现零工经济中的创业性别差距小于其他形式的创业，并且在退出市场中的性别差距也较小。",
+            "title_en": "Technological trajectories formatting the socio-institutional framework—the case of the addictive empire of the techno-oligarchs",
+            "title_zh": "技术轨迹塑造社会制度框架——技术寡头成瘾帝国案例",
+            "url": "https://doi.org/10.1093/icc/dtaf068",
+            "abstract_en": "Abstract Although the literature on technological change often discusses its social effects, it typically focusses either on the strictly technological dynamics of innovation or on the mismatch and rematch between its trajectory and the dominant socio-institutional framework. The explanation of the rematch is commonly associated with the collapse of the previous social restrictions, given the prevailing institutions’ inability to propel capital accumulation in the key-factor and carrier sectors and therefore to promote the expansion of the new techno-economic paradigm. This paper suggests a reappraisal of that view, exploring how a new technology, hyper-communication and social media, is reshaping the power relations, with the emergence of a techno-oligarchy. We conclude that this is a case of a technology molding the previous social framework through adaptation and creating new institutions and culture, which lead to a deep transformation, including of the status of human agency.",
+            "abstract_zh": "摘要：尽管关于技术变革的文献经常讨论其社会效应，但通常要么关注创新的严格技术动态，要么关注其轨迹与主导社会制度框架之间的不匹配和再匹配。再匹配的解释通常与先前社会限制的崩溃联系在一起，因为占主导地位的制度无法在关键因素和载体部门推动资本积累，因此无法促进新的技术经济范式的扩展。本文建议重新评估这一观点，探讨一项新技术——超通信和社交媒体——如何重塑权力关系，伴随着技术寡头的出现。我们得出结论，这是一个技术通过适应塑造先前社会框架并通过创造新的制度和文化导致深刻转变的案例，包括人类主体地位的转变。",
             "matched_topics": [
-              "国际贸易",
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "Behind the curve: econometric estimation and sectoral decomposition of the Japanese Beveridge curve’s evolution around the COVID-19 pandemic",
+            "title_zh": "疫情背景下的日本贝弗里奇曲线演变：计量经济估计与行业分解",
+            "url": "https://doi.org/10.1093/icc/dtaf049",
+            "abstract_en": "Abstract This paper examines the Japanese Beveridge curve in order to identify a possible structural break prior to the COVID-19 pandemic and uncover its potential causes. We utilize two levels of analysis. First, the relationship for the period January 2000–June 2024 is estimated by means of a vector error correction model, through which we detect a structural break at the end of 2019. Second, we use disaggregated vacancy and unemployment data to analyze the Beveridge curves for subgroups at the occupational, industrial, and contractual levels and carry out an extensive mismatch analysis. We argue that the asymmetric evolution of the different segments of the market, together with tight market conditions, is at the root of the modification in the responsiveness of vacancies to unemployment recorded from the end of 2019. More specifically, the change originated in the services-related sector, which recorded extremely tight market conditions since 2018, leading firms to reduce vacancies without any significant impact on the sector-level unemployment rate. This trend was subsequently compounded by the measures introduced by the government in 2020 in order to support employment during the COVID-19 pandemic.",
+            "abstract_zh": "摘要 本文考察了日本的贝弗里奇曲线，以识别COVID-19大流行前可能存在的结构性断裂，并揭示其潜在原因。我们采用两个层面的分析。首先，通过向量误差修正模型估计了2000年1月至2024年6月期间的关系，我们发现2019年底出现了结构性断裂。其次，我们使用分行业的空缺和失业数据，分析了职业、行业和合同层面的贝弗里奇曲线，并进行了广泛的错配分析。我们认为，市场不同部分的不对称演变，以及市场紧缩状况，是2019年底记录的空缺对失业反应性变化的根本原因。更具体地说，变化起源于与服务业相关的部门，该部门自2018年以来市场状况极为紧张，导致企业减少空缺，而对部门层面的失业率没有显著影响。随后，这一趋势因2020年政府为支持COVID-19大流行期间的就业而采取的措施而加剧。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Stable profit rates in a time of rising market power: the role of financial and intangible assets in the US corporate sector",
+            "title_zh": "标题：市场力量上升时期的稳定利润率：金融和无形资产在美国企业部门的作用",
+            "url": "https://doi.org/10.1093/icc/dtaf016",
+            "abstract_en": "Abstract While the aggregate profit margin (profits to sales) rises almost 50% after 1980, the profit rate (profits to assets) is steady. We reconcile these two pictures of profitability by showing that firms’ sales per dollar of assets fall after 1980, reflecting growth in financial and intangible assets. This result suggests that firms receive lower sales on financial and intangible assets than on fixed capital, and links these asset holdings to competitive strategies that consolidate market power while also inflating asset values.",
+            "abstract_zh": "摘要：尽管1980年后总体利润率（利润对销售额）上升了近50%，但利润率（利润对资产）保持稳定。我们通过展示1980年后公司每美元资产的销售额下降，反映了金融和无形资产的增长，来协调这两种盈利能力的表现。这一结果表明，公司在金融和无形资产上的销售额低于固定资产，并把这些资产持有与巩固市场力量的竞争策略联系起来，同时也推高了资产价值。",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Back to fiscal rules: The insanity of normality, unless the rich pay for it!",
+            "title_zh": "重返财政规则：除非富人买单，否则正常即疯狂！",
+            "url": "https://doi.org/10.1093/icc/dtaf014",
+            "abstract_en": "Abstract With central banks and national governments returning to more conservative monetary and fiscal policies after Covid, the debate about the macroeconomic effects of fiscal rules has revamped. We address this topic via an extended version of the hybrid ABM-SFC model in Botta et al. (2024) that includes a Taylor-type monetary policy rule and a variety of fiscal rules aimed at reducing the public debt-to-GDP ratio. We compare spending-based fiscal rules vastly advocated by international economic institutions with wealth tax-based fiscal policies. We do this in the context of a modern financialized economy where securitization and complex financial products like Asset-Backed Securities (ABS) alter economic dynamics and the effectiveness of monetary policy in controlling inflation. We assume heterogeneous households to track how alternative fiscal strategies affect income and wealth inequality. Our findings are threefold. First, spending-based fiscal rules can reduce the debt-to-GDP ratio in the long term but at the cost of significantly higher unemployment and permanently lower real GDP. Second, wealth tax-based fiscal policies reduce public debt without harming economic performance. Third, perhaps unexpectedly, in a financialized economy, spending-based fiscal austerity may hurt the relative position of rich households in wealth distribution as much as a wealth tax does; this is due to capital losses that spending cuts may eventually induce in households’ financial wealth. In the end, wealth taxes are preferable to spending cuts, and the usual political opposition against them by the rich appears largely unfounded given their potential economic benefits compared to spending-based fiscal austerity.",
+            "abstract_zh": "摘要：在新冠疫情后，各国央行和政府回归更为保守的货币和财政政策，关于财政规则宏观经济效应的讨论再次升温。我们通过扩展Botta等人（2024年）提出的混合ABM-SFC模型来探讨这一主题，该模型包含了泰勒型货币政策规则和旨在降低公共债务与GDP比率的多种财政规则。我们将国际经济机构大力倡导的基于支出的财政规则与基于财富税的财政政策进行比较。这种比较是在现代金融化经济背景下进行的，其中证券化和复杂的金融产品如资产支持证券（ABS）改变了经济动态和货币政策控制通胀的有效性。我们假设家庭异质性，以追踪不同财政策略如何影响收入和财富不平等。我们的发现有三个方面。首先，基于支出的财政规则可以在长期内降低债务与GDP比率，但代价是显著更高的失业率和永久性降低的实际GDP。其次，基于财富税的财政政策可以在不损害经济表现的情况下减少公共债务。第三，或许出人意料的是，在金融化经济中，基于支出的财政紧缩可能与财富税一样损害富裕家庭在财富分配中的相对地位；这是由于支出削减可能最终在家庭金融财富中引起的资本损失。最终，财富税比支出削减更可取，富裕阶层对它们的政治反对在很大程度上是没有根据的，考虑到它们与基于支出的财政紧缩相比的潜在经济利益。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Growth, inequality, and declining business dynamism in a unified Schumpeter Mark I + II model",
+            "title_zh": "标题：统一的熊彼特I+II模型中的增长、不平等和企业活力下降",
+            "url": "https://doi.org/10.1093/icc/dtaf012",
+            "abstract_en": "Abstract I develop a Schumpeterian agent-based model in which the entry and exit of firms, their productivity and markup, the birth of new industries, and the social structure of the population are endogenous. I use this model to study the causes of rising inequality and declining “business dynamism” since the 1980s. My hybrid model combines features of (i) the so-called Schumpeter Mark I (centering around the entrepreneur), (ii) the Mark II model (emphasizing the innovative capacities of firms), and (iii) Cournot competition, with firms using ordinary least squares learning to estimate the market environment and the behavior of their competitors. A scenario that is quantitatively calibrated to US data on growth and inequality replicates a large number of stylized facts regarding the industry life cycle, growth, inequality, and all 10 stylized facts on “declining business dynamism” in the USA proposed by Akcigit and Ates (2021, AEJ: Macroeconomics, 13[1], 257–298). Counterfactual simulations show that antitrust policy is highly effective at combatting inequality and at increasing business dynamism and growth but is subject to a conflict of interest between workers and firm owners, as gross domestic product and wages grow at the expense of profits. I further explore how technological factors interact with “Mark I” and “Mark II” in my model to shape dynamics of growth, inequality, and business dynamism.",
+            "abstract_zh": "摘要：我构建了一个基于施瓦茨曼的代理模型，其中企业的进入和退出、它们的生产率和加成、新产业的诞生以及人口的社会结构都是内生的。我使用这个模型来研究自20世纪80年代以来不平等上升和“商业活力”下降的原因。我的混合模型结合了（i）所谓的施瓦茨曼马克I（以企业家为中心）、（ii）马克II模型（强调企业的创新能力）和（iii）库诺竞争的特点，企业使用普通最小二乘学习来估计市场环境和竞争对手的行为。一个定量校准到美国增长和不平等数据的情景复制了大量关于行业生命周期、增长、不平等以及阿克西吉特和阿特斯（2021年，《美国经济杂志：宏观经济学》，13[1]，257-298）提出的美国“商业活力下降”的所有10个典型事实。反事实模拟表明，反垄断政策在打击不平等和增加商业活力和增长方面非常有效，但受到工人和企业主利益冲突的影响，因为国内生产总值和工资的增长是以牺牲利润为代价的。我进一步探讨了技术因素如何与我的模型中的“马克I”和“马克II”相互作用，以塑造增长、不平等和商业活力的动态。",
+            "matched_topics": [
+              "产业经济",
+              "创新药"
             ]
           }
         ],
@@ -1815,9 +1797,19 @@
         "resolved_name": "Journal of Health Economics",
         "issue_title": "Published 2026-05",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
-        "matched_count": 1,
-        "total_in_issue": 4,
+        "matched_count": 2,
+        "total_in_issue": 5,
         "papers": [
+          {
+            "title_en": "Gender-specific effects of prenatal famine exposure on educational attainment: Accounting for selective mortality",
+            "title_zh": "性别特异的产前饥荒暴露对教育成就的影响：考虑选择性死亡因素",
+            "url": "https://doi.org/10.1016/j.jhealeco.2026.103133",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
           {
             "title_en": "The value of a park in crises: Quantifying the health and wellbeing benefits of green spaces using exogenous variations in use values",
             "title_zh": "危机中的公园价值：利用使用价值的外生变化量化绿地的健康与福祉效益",
@@ -1836,51 +1828,50 @@
         "query_name": "Health Economics",
         "issn": "1057-9230",
         "resolved_name": "Health Economics",
-        "issue_title": "Volume 35, Issue 4",
+        "issue_title": "Volume 35, Issue 5",
         "issue_url": "https://onlinelibrary.wiley.com/journal/10991050",
         "matched_count": 4,
-        "total_in_issue": 6,
+        "total_in_issue": 9,
         "papers": [
           {
-            "title_en": "Do Fossil Fuel Subsidies Crowd Out Health Expenditure? A Country‐Level Longitudinal Analysis",
-            "title_zh": "化石燃料补贴是否挤出了卫生支出？一项国家层面的纵向分析",
-            "url": "https://doi.org/10.1002/hec.70074",
-            "abstract_en": "ABSTRACT Annually, countries allocate hundreds of millions of dollars to subsidize fossil fuels, often at the expense of public health and environmental sustainability. This undermines progress toward Sustainable Development Goals (SDG) 3 (Good Health and Well‐Being) and 13 (Climate Action). Despite this, the impact of fossil fuel subsidies (FFS) on social protection expenditure, including health, remains poorly quantified. This study aimed to determine whether FFS crowd out health expenditure globally, using panel data from 126 countries covering the period 2015–2019. An instrumental variable approach, relying on countries' exposure to international energy trade and fluctuations in crude oil price, was employed to capture exogenous variation in FFS and estimate a causal relationship. The analyses revealed that in 2019, 17 countries spent more than five percent of GDP on FFS, with FFS expenditure exceeding health expenditure in 15 of those countries. Specifically, a 1% increase in FFS per capita, driven by rising international oil prices and weighted by countries' exposure to international energy trade, led to a 0.05% (95% CI −0.08% to −0.02%) decrease in domestic health expenditure per capita. These findings underscore the detrimental impact of FFS on health expenditure, presenting another reason to eliminate FFS to achieve SDG3 in addition to avoiding further dangerous climate heating.",
-            "abstract_zh": "摘要：各国每年分配数亿美元用于补贴化石燃料，常常以牺牲公共卫生和环境可持续性为代价。这削弱了实现可持续发展目标（SDG）3（良好健康与福祉）和13（气候行动）的进展。尽管如此，化石燃料补贴（FFS）对社会保护支出，包括健康支出的影响，仍然缺乏量化。本研究旨在确定FFS是否在全球范围内挤出健康支出，使用2015-2019年期间覆盖126个国家的面板数据。采用工具变量方法，依赖于国家对国际能源贸易的暴露程度和原油价格波动，以捕捉FFS的外生变化，并估计因果关系。分析显示，在2019年，有17个国家的FFS支出超过GDP的5%，在这些国家中，有15个国家的FFS支出超过了健康支出。具体来说，FFS人均支出每增加1%，由国际油价上涨驱动，并由国家对国际能源贸易的暴露程度加权，导致国内人均健康支出减少0.05%（95%CI -0.08%至-0.02%）。这些发现强调了FFS对健康支出的不利影响，提出了消除FFS以实现SDG3的另一个理由，除了避免进一步危险的气候变暖。",
+            "title_en": "Paying for Health Gains Using Patient Reported Outcome Measures",
+            "title_zh": "使用患者报告结果测量支付健康收益",
+            "url": "https://doi.org/10.1002/hec.70086",
+            "abstract_en": "ABSTRACT Payments to healthcare providers are often based on the number of patients with a particular diagnosis or treatment with well known limitations. Payment based on health outcomes, a form of pay‐for‐performance, has long been advocated as a possible solution. We use a contract theory approach and illustrate how it can inform practical implementation of pay‐for‐performance schemes that reward health outcomes. The pricing rule suggests that the bonus should be set to reflect the difference between the provider's marginal cost of a health improvement before the policy intervention and the provider's marginal cost evaluated at the target health set by the purchaser. We provide estimates of the optimal bonus for hip and knee replacement under a range of assumptions about provider cost functions and the value of health improvements.",
+            "abstract_zh": "摘要：对医疗保健提供者的支付通常基于具有特定诊断或治疗的患者数量，存在众所周知的局限性。基于健康结果的支付，即一种绩效支付形式，长期以来一直被提倡作为可能的解决方案。我们采用合同理论方法，并说明它如何能够为奖励健康结果的绩效支付计划的实际实施提供信息。定价规则表明，奖金应该设置为反映政策干预前提供者健康改善的边际成本与购买者设定的目标健康水平下提供者的边际成本之间的差异。我们提供了在一系列关于提供者成本函数和健康改善价值的假设下，髋关节和膝关节置换的最佳奖金估计值。",
             "matched_topics": [
-              "国际贸易",
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Medicare Part D and Hospital Admissions due to Antimicrobial Resistance",
+            "title_zh": "医疗保险D部分与因抗菌素耐药性导致的医院入院",
+            "url": "https://doi.org/10.1002/hec.70080",
+            "abstract_en": "ABSTRACT Antimicrobial resistance (AMR) has been increasing rapidly in the United States despite government efforts to contain its spread. Both under‐utilization and overuse of prescribed antimicrobials contribute to rising resistance. The introduction of Medicare Part D in 2006 expanded prescription drug coverage for the elderly, including coverage for antimicrobial medications. If cost barriers had previously led to under‐utilization of prescriptions, then Medicare Part D could have mitigated AMR by improving access to antimicrobials. However, if Medicare Part D also encouraged excessive antibiotic use, it may have inadvertently contributed to greater resistance. Using data from the Nationwide Inpatient Sample (NIS), Healthcare Cost and Utilization Project (HCUP), Agency for Healthcare Research and Quality for January 2001 to September 2008, I estimate the causal impact of Medicare Part D on AMR‐related hospital discharges using a difference‐in‐differences identification strategy. My findings suggest that Medicare Part D led to a slower increase in AMR‐related inpatient discharges among the Medicare‐eligible population.",
+            "abstract_zh": "摘要 尽管美国政府努力控制其传播，但抗微生物耐药性（AMR）在美国迅速增加。处方抗微生物药物的低使用率和高使用率都导致了耐药性的上升。2006年引入的医疗保险D部分扩大了老年人的处方药覆盖范围，包括抗微生物药物的覆盖。如果成本障碍先前导致了处方药的低使用率，那么医疗保险D部分可以通过改善抗微生物药物的获取来减轻AMR。然而，如果医疗保险D部分也鼓励了过度使用抗生素，它可能无意中导致了更大的耐药性。利用2001年1月至2008年9月全国住院样本（NIS）、医疗保健成本和利用项目（HCUP）以及医疗保健研究和质量局的数据，我使用差异-差异识别策略估计医疗保险D部分对AMR相关住院出院的因果影响。我的发现表明，医疗保险D部分导致了医疗保险合格人群中AMR相关住院出院的增长放缓。",
+            "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Disability Insurance as a Complement to Labor Income: Evidence From Italian Administrative Data",
-            "title_zh": "标题：作为劳动收入补充的残疾保险：来自意大利行政数据的证据",
-            "url": "https://doi.org/10.1002/hec.70072",
-            "abstract_en": "ABSTRACT We investigate how disability insurance (DI) generosity affects DI take‐up and labor market participation in a setting where benefits can be cumulated with substantial labor earnings. Using rich administrative data on Italian private‐sector workers and a Regression Discontinuity in Time design, we find a large behavioral response to DI generosity, with an elasticity of 1.26 in DI take‐up, while employment effects are minor and concentrated among immigrants. Our identification strategy exploits a major social security reform that reduced the expected DI replacement rate and generated a clear income effect. To address unobserved heterogeneity and the unobservability of underlying disability, we focus on individuals affected by acute cardiovascular shocks whose DI eligibility is plausibly exogenous. Overall, our results suggest that when earnings cumulability is extensive, DI is widely perceived as a complement to labor income. This has important implications for the design of labor‐inclusive DI schemes.",
-            "abstract_zh": "摘要 我们研究了在福利可以与大量劳动收入累积的情况下，残疾保险（DI）的慷慨程度如何影响DI的接受度和劳动市场参与度。利用意大利私营部门工人的丰富行政数据和时间上的回归不连续性设计，我们发现对DI慷慨度有较大的行为反应，DI接受度的弹性为1.26，而就业效应较小，且主要集中在移民中。我们的识别策略利用了一项主要的社会保障改革，该改革降低了预期的DI替代率，并产生了明确的收入效应。为了解决未观察到的异质性和潜在残疾的不可观察性，我们关注那些受到急性心血管冲击影响的个体，他们的DI资格是合理外生的。总体而言，我们的结果表明，当收入累积性广泛时，DI被广泛视为劳动收入的补充。这对于设计包含劳动的DI计划具有重要意义。",
+            "title_en": "Return on Returns: Building Scientific Capacity in AIDS Endemic Countries",
+            "title_zh": "回报的回报：在艾滋病流行国家建设科学能力",
+            "url": "https://doi.org/10.1002/hec.70079",
+            "abstract_en": "ABSTRACT We examine public funding for health research through the United States National Institutes of Health Fogarty International Center's AIDS International Training and Research Program, which sought to strengthen scientific capacity in AIDS‐endemic countries by providing African researchers with training opportunities in the U.S. We use a difference‐in‐differences framework with information on scientists who participated in the program and the research activities of African scientists working at their home institutions in adjacent topics of neglected tropical diseases. Relative to comparable scientists, those at institutions with returning trainees subsequently publish more on HIV‐related topics, receive more grant funding, engage in more clinical trials, and their work contributes to a greater number of policy documents. These patterns suggest that following the Fogarty program, research, innovation, and health policy related to the AIDS epidemic in African countries became more active.",
+            "abstract_zh": "摘要 我们通过美国国立卫生研究院福格蒂国际中心的艾滋病国际培训和研究计划来考察公共卫生研究的资金支持，该计划旨在通过为非洲研究人员提供在美国的培训机会来加强艾滋病流行国家的科学能力。我们使用差异-差异框架，结合参与该计划的科学家信息以及在非洲科学家在其本国机构从事的被忽视热带疾病相邻主题的研究活动。与可比科学家相比，那些有归国受训人员的机构随后在HIV相关主题上发表更多论文，获得更多资助，参与更多临床试验，他们的工作对更多政策文件有所贡献。这些模式表明，在福格蒂计划之后，与非洲国家艾滋病流行相关的研究、创新和卫生政策变得更加活跃。",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Exploring Population Heterogeneities in Health Dynamics",
+            "title_zh": "探索健康动态中的人口异质性",
+            "url": "https://doi.org/10.1002/hec.70076",
+            "abstract_en": "ABSTRACT How does individuals' health status evolve over time? Is this evolution characterized by any socio‐economic gradient? To answer these questions, this paper proposes a new intuitive and normatively grounded criterion to assess and compare health dynamics over time accounting for population heterogeneities. Implementing this criterion to European data, this paper provides the first pan‐European evidence on health dynamics and related heterogeneities from 2005 to 2019. It shows that socio‐economic gradients have played an important role in shaping the health dynamics experienced by the European population. These dynamics appear progressive with respect to the pure economic status of individuals determined by their level of income. This feature is reverted when the economic conditions of individuals are widened to include non‐pure monetary aspects such as professional condition and parental background.",
+            "abstract_zh": "摘要 个体健康状况随时间的演变是怎样的？这种演变是否具有任何社会经济梯度特征？为了回答这些问题，本文提出了一个新的直观且具有规范基础的标准，用以评估和比较考虑人口异质性的随时间变化的健康动态。将这一标准应用于欧洲数据，本文提供了2005年至2019年欧洲健康动态及其相关异质性的首个泛欧洲证据。研究表明，社会经济梯度在塑造欧洲人口经历的健康动态中发挥了重要作用。这些动态相对于个体的纯经济地位（由其收入水平决定）呈现出进步性。当个体的经济状况扩展到包括职业状况和家庭背景等非纯货币方面时，这一特征发生了逆转。",
             "matched_topics": [
               "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Physician Agency and the Zero‐Markup Drug Policy in China: Evidence From a Structural Model",
-            "title_zh": "中国医生代理与零加成药品政策：来自结构模型的证据",
-            "url": "https://doi.org/10.1002/hec.70073",
-            "abstract_en": "ABSTRACT This paper quantifies physician agency in China's prescription drug market by exploiting the structural shift created by the Zero‐Markup Drug Policy. We find that physicians' prescribing decisions are about three times more sensitive to the hospital's profit margin than to the retail price faced by patients. The study provides several key findings. First, government policy exerts a strong influence on drug prices. Second, branded drugs are generally preferred over generics and display lower price elasticity. Third, the policy accounts for more than half of the observed decline in average wholesale prices. Finally, while the policy improves patient welfare, it reduces pharmaceutical firms' sales and profits, and a partial restoration of drug markups could increase overall social welfare.",
-            "abstract_zh": "摘要 本文通过利用零差率药品政策所创造的结构性转变，量化了中国处方药市场中医生的代理行为。我们发现，医生的处方决策对医院利润率的敏感性大约是患者面临的零售价格的三倍。研究提供了几个关键发现。首先，政府政策对药品价格有强烈影响。其次，品牌药通常比仿制药更受青睐，并且显示出更低的价格弹性。第三，该政策占观察到的平均批发价格下降的一半以上。最后，尽管该政策提高了患者福利，但它降低了制药公司的销售和利润，部分恢复药品加价可能会增加总体社会福利。",
-            "matched_topics": [
-              "医药产业",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Minimum Wages, the Earned Income Tax Credit, and Mental Health Around Pregnancy",
-            "title_zh": "最低工资、劳动所得税抵免与孕期心理健康",
-            "url": "https://doi.org/10.1002/hec.70071",
-            "abstract_en": "ABSTRACT This study estimates the effects on perinatal mental health of the state's minimum wage and earned income tax credit (EITC), controlling for other policies and state‐level factors. Using data from the Pregnancy Risk Assessment Monitoring System for 2012–2018 births we find robust evidence that minimum wages and EITC levels reduce depression before pregnancy and suggestive evidence of minimum wages reducing postpartum depression, at least for married respondents. Our estimates suggest that a one dollar increase in the minimum wage ($100 increase in the state EITC) reduces pre‐pregnancy depression by roughly 8.5% (1.5%). These findings stand up to standard robustness and falsification tests, including event study analyses, a wide array of alternative specifications, and finding no effect for those unlikely to benefit (e.g., college‐educated respondents). A supplementary analysis using data from the Behavioral Risk Factor Surveillance System suggests that state EITC levels may reduce mental distress during pregnancy. We investigate possible mechanisms by providing a descriptive analysis of the income and work behavior of such households, which shows the wide reach of these policies, and investigating a broad set of outcomes from the PRAMS, such as financial stressors, health insurance and birth outcomes.",
-            "abstract_zh": "摘要 本研究估计了州最低工资和劳动所得税抵免（EITC）对围产期心理健康的影响，同时控制了其他政策和州级因素。利用2012-2018年出生的孕产妇风险评估监测系统数据，我们发现强有力的证据表明最低工资和EITC水平降低了怀孕前的抑郁，并有迹象表明最低工资降低了产后抑郁，至少对已婚受访者而言。我们的估计表明，最低工资每增加一美元（州EITC增加100美元）可将怀孕前抑郁降低约8.5%（1.5%）。这些发现通过了标准的稳健性和证伪测试，包括事件研究分析、多种替代规范，以及对不太可能受益的人群（例如，大学教育受访者）没有影响。使用行为风险因素监测系统数据的补充分析表明，州EITC水平可能降低了怀孕期间的心理痛苦。我们通过提供这些家庭收入和工作行为的描述性分析来探讨可能的机制，这显示了这些政策的广泛影响，并从PRAMS调查中调查了一系列广泛的结果，如财务压力、健康保险和出生结果。",
-            "matched_topics": [
-              "创新药"
             ]
           }
         ],
@@ -1935,48 +1926,101 @@
         "query_name": "Value in Health",
         "issn": "1098-3015",
         "resolved_name": "Value in Health",
-        "issue_title": "Volume 29, Issue 3",
+        "issue_title": "Volume 29, Issue 4",
         "issue_url": "https://www.valueinhealthjournal.com/",
-        "matched_count": 4,
-        "total_in_issue": 22,
+        "matched_count": 9,
+        "total_in_issue": 26,
         "papers": [
           {
-            "title_en": "Comparative Responsiveness of Preference-Based Health-Related Quality of Life, Social Care, and Well-Being Measures in the Context of Multiple Sclerosis",
-            "title_zh": "多系统萎缩背景下基于偏好的健康相关生活质量、社会护理和福祉度量的综合响应性比较",
-            "url": "https://doi.org/10.1016/j.jval.2025.09.3063",
-            "abstract_en": "The ICECAP-A, ASCOT, and MSIS-8D were more responsive than the EQ-5D-3L in the context of MS when compared using standardized scores. The increased responsiveness of EQ-5D-3L when absolute values were used seems an artefact of the wide-ranging scale of this measure. This illustrates how the maximum potential range of values for a given PBM tariff could influence whether an intervention is found to be cost-effective.",
-            "abstract_zh": "ICECAP-A、ASCOT和MSIS-8D在多发性硬化症（MS）背景下比EQ-5D-3L更具反应性，这一点在使用标准化分数进行比较时得到了证实。当使用绝对值时，EQ-5D-3L的反应性增加似乎是一种由于该测量工具广泛的量表范围而产生的假象。这表明，给定患者基础健康状态（PBM）关税的最大潜在值范围如何影响干预措施是否被认为具有成本效益。",
+            "title_en": "Exploring Methods to Include Carbon Emissions Into a Health Technology Assessment: The Case of Remote Patient Monitoring",
+            "title_zh": "探索将碳排放纳入健康技术评估的方法：以远程患者监测为例",
+            "url": "https://doi.org/10.1016/j.jval.2025.11.007",
+            "abstract_en": "Both methods were feasible and, despite RPM's higher carbon emissions, pointed to the same conclusion. Economic evaluation had little impact at current carbon prices, whereas MCDA allowed explicit sustainability considerations but is sensitive to subjective choices. Overall, environmental outcomes may be better addressed through deliberative Health Technology Assessment processes, with broader policy instruments key to reducing healthcare's carbon emissions.",
+            "abstract_zh": "两种方法都是可行的，尽管RPM的碳排放量更高，但得出的结论相同。在当前的碳价格下，经济评估影响甚微，而多标准决策分析（MCDA）允许明确考虑可持续性因素，但对主观选择敏感。总体而言，通过更具包容性的卫生技术评估过程可能更好地解决环境结果问题，而更广泛的政策工具对于减少医疗保健的碳排放至关重要。",
             "matched_topics": [
-              "国际贸易",
+              "医疗创新",
               "创新药"
             ]
           },
           {
-            "title_en": "The Uneven Path of Psychological Distress: How Socioeconomic Status Shapes Distress Transitions in Australian Adults",
-            "title_zh": "标题：心理痛苦的不平等路径：社会经济地位如何塑造澳大利亚成年人的痛苦转变",
-            "url": "https://doi.org/10.1016/j.jval.2025.10.005",
-            "abstract_en": "The estimated transition probabilities can be used in health economic evaluations, designed to support reimbursement decision for interventions.",
-            "abstract_zh": "估算的转移概率可用于健康经济评估中，旨在支持干预措施的报销决策。",
+            "title_en": "Estimating the Shares of the Value of Branded Pharmaceuticals Accruing to Manufacturers and to Patients in the Thai Healthcare System",
+            "title_zh": "泰国医疗系统中品牌药品价值在制造商和患者之间的分配份额估算",
+            "url": "https://doi.org/10.1016/j.jval.2025.10.004",
+            "abstract_en": "Quantification of the lifecycle value of new pharmaceuticals can better inform policies that enhance population health. In Thailand, policies that could improve overall population health include earlier adoption of new pharmaceuticals alongside careful price regulation and expedited generic entry. These approaches could also provide mechanisms to signal research and development priorities effectively.",
+            "abstract_zh": "量化新药的生命周期价值可以更好地指导政策，以增强人口健康。在泰国，能够改善整体人口健康的政策包括更早地采用新药，同时谨慎地进行价格调控和加快仿制药的上市。这些方法还可以提供有效信号，以指示研究和开发的重点。",
             "matched_topics": [
+              "企业创新",
               "医药产业"
             ]
           },
           {
-            "title_en": "Patient-Reported Outcome Measures in Clinical Trials: An Analysis of Trends From 2008 to 2023",
-            "title_zh": "2008至2023年临床试验中患者报告结果测量的趋势分析",
-            "url": "https://doi.org/10.1016/j.jval.2025.10.017",
+            "title_en": "How Good Is Good Enough? A Simulation Study of Adaptive Health Technology Assessment",
+            "title_zh": "多好才算足够好？适应性健康技术评估的模拟研究",
+            "url": "https://doi.org/10.1016/j.jval.2026.01.006",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
+              "医疗创新"
+            ]
+          },
+          {
+            "title_en": "A Forward Agenda for Digital Health Technologies: Evidence That Works for Decisions",
+            "title_zh": "数字健康技术前瞻议程：为决策提供有效证据",
+            "url": "https://doi.org/10.1016/j.jval.2026.02.007",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新",
               "创新药"
             ]
           },
           {
-            "title_en": "Estimating the Willingness-to-Pay per Quality-Adjusted Life-Year to Aid Health Technology Assessment in India",
-            "title_zh": "估算印度每质量调整生命年支付意愿以辅助健康技术评估",
-            "url": "https://doi.org/10.1016/j.jval.2025.10.007",
+            "title_en": "Implications of Incorporating Environmental Sustainability Into Health Technology Assessment for Digital Health Technologies",
+            "title_zh": "将环境可持续性纳入数字健康技术健康技术评估的影响",
+            "url": "https://doi.org/10.1016/j.jval.2026.01.019",
             "abstract_en": "",
             "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Evaluation of Health Technology Assessment Frameworks for In Vivo Diagnostics: Assessing Methodological Gaps and Implications for Market Access",
+            "title_zh": "体内诊断技术评估框架的评估：评估方法学差距及其对市场准入的影响",
+            "url": "https://doi.org/10.1016/j.jval.2025.05.001",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新"
+            ]
+          },
+          {
+            "title_en": "Qini Curves for Potential Impact Assessment of Risk Predictive Models Informing Intervention Policies",
+            "title_zh": "秦尼曲线：评估风险预测模型对干预政策潜在影响",
+            "url": "https://doi.org/10.1016/j.jval.2025.01.024",
+            "abstract_en": "Coverage and disutility capture key value components of prediction-based policies. The method can be used for comparing models or tuning risk thresholds for managing trade-offs between conflicting objectives (eg, clinical benefits, side effects, and healthcare resources).",
+            "abstract_zh": "覆盖范围和不便利性是预测型政策中关键价值组成部分。该方法可用于比较模型或调整风险阈值，以管理相互冲突目标（例如，临床效益、副作用和医疗资源）之间的权衡。",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "From Consensus to Implementation: Advancing Patient-Centered Health Technology Assessment",
+            "title_zh": "从共识到实施：推进以患者为中心的健康技术评估",
+            "url": "https://doi.org/10.1016/j.jval.2025.11.022",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新"
+            ]
+          },
+          {
+            "title_en": "Toward a Harmonized Health Technology Assessment Framework for Digital Health Technologies in Europe",
+            "title_zh": "迈向欧洲数字健康技术统一健康技术评估框架",
+            "url": "https://doi.org/10.1016/j.jval.2025.12.004",
+            "abstract_en": "Stakeholders agreed that a harmonized HTA framework is needed; however, differences persist regarding timing and flexibility of evaluation, evidence types, and stakeholder involvement. The EDiHTA project will address differences through framework piloting, supported by multistakeholder workshops and expert advisory groups.",
+            "abstract_zh": "利益相关者一致认为需要一个协调一致的卫生技术评估（HTA）框架；然而，在评估的时间安排和灵活性、证据类型以及利益相关者参与方面仍存在差异。EDiHTA项目将通过框架试点来解决这些差异，该试点得到多方利益相关者工作坊和专家咨询组的支持。",
             "matched_topics": [
               "医疗创新"
             ]
