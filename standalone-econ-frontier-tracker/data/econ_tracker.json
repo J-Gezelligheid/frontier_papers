@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-05 05:10:15",
+  "updated_at": "2026-04-12 05:21:58",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 73,
+    "success_count": 83,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -353,18 +353,29 @@
         "query_name": "Journal of Political Economy",
         "issn": "0022-3808",
         "resolved_name": "Journal of Political Economy",
-        "issue_title": "Volume 134, Issue 3",
+        "issue_title": "Volume 134, Issue 4",
         "issue_url": "https://www.journals.uchicago.edu/journals/jpe",
-        "matched_count": 1,
+        "matched_count": 2,
         "total_in_issue": 8,
         "papers": [
           {
-            "title_en": "Mandated versus Voluntary Adaptation to Natural Disasters: The Case of US Wildfires",
-            "title_zh": "强制性与自愿性适应自然灾害：以美国野火为例",
-            "url": "https://doi.org/10.1086/739331",
+            "title_en": "How Cultural Diversity Drives Innovation: Surnames and Patents in US History",
+            "title_zh": "文化多样性如何推动创新：美国历史上的姓氏与专利",
+            "url": "https://doi.org/10.1086/739323",
+            "abstract_en": "<p dir=\"ltr\">This paper examines the impact of cultural diversity on innovation. Focusing on the United States from 1850 to 1940, we develop a novel surname-based measure of cultural diversity and combine this with patent data. Leveraging quasi-random variation in counties' surname compositions driven by historical immigration, we find that rising diversity increased both the quantity and quality of innovation within counties and for individual inventors. Examining mechanisms, we provide evidence suggesting that greater surname diversity accelerated innovation both by expanding the range of ideas, skills and perspectives available for recombination and by fostering the diverse social interactions that facilitate idea sharing.",
+            "abstract_zh": "本文研究了文化多样性对创新的影响。以1850年至1940年的美国为研究对象，我们开发了一种基于姓氏的文化多样性新度量方法，并将其与专利数据相结合。利用历史移民导致的县姓氏构成中的准随机变化，我们发现多样性的增加既提高了县内的创新数量，也提高了个体发明家的创新质量。在考察机制时，我们提供的证据表明，更大的姓氏多样性通过扩大可用于重组的想法、技能和视角的范围，以及促进想法共享的多样化社会互动，加速了创新。",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Efficiency and Redistribution in Environmental Policy: An Equilibrium Analysis of Agricultural Supply Chains",
+            "title_zh": "环境政策中的效率与再分配：农业供应链均衡分析",
+            "url": "https://doi.org/10.1086/739325",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
+              "国际贸易",
               "创新药"
             ]
           }
@@ -725,8 +736,8 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-05",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 10,
-        "total_in_issue": 16,
+        "matched_count": 11,
+        "total_in_issue": 19,
         "papers": [
           {
             "title_en": "Multinational investment activity under policy uncertainty in host and competing countries",
@@ -799,6 +810,16 @@
             ]
           },
           {
+            "title_en": "The local-area incidence of exporting",
+            "title_zh": "地区出口发生率",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104257",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
             "title_en": "The US-China trade war creates jobs (elsewhere)",
             "title_zh": "美中贸易战创造（其他地方的）就业",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104249",
@@ -842,7 +863,7 @@
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 8,
-        "total_in_issue": 19,
+        "total_in_issue": 21,
         "papers": [
           {
             "title_en": "The art of not being chocked: Environmental awareness, residents' responses and land transactions in China",
@@ -934,139 +955,116 @@
         "query_name": "Review of International Economics",
         "issn": "0965-7576",
         "resolved_name": "Review of International Economics",
-        "issue_title": "Volume 34, Issue 1",
+        "issue_title": "Volume 34, Issue 2",
         "issue_url": "https://onlinelibrary.wiley.com/journal/14679396",
-        "matched_count": 12,
+        "matched_count": 10,
         "total_in_issue": 13,
         "papers": [
           {
-            "title_en": "Impact of Deep Regional Trade Agreements on Foreign Direct Investment: Evidence From 224 Economies",
-            "title_zh": "深度区域贸易协定对外国直接投资的影响：来自224个经济体的证据",
-            "url": "https://doi.org/10.1111/roie.70025",
-            "abstract_en": "ABSTRACT Following the continuous deepening of Regional Trade Agreements (RTAs), a key question arises: How does the deepening of RTAs reshape the location‐selection logic of Foreign Direct Investment (FDI)? Using panel data for 224 global economies from 2009 to 2022, this study systematically examines the impact of deep RTAs on FDI. The study finds that deep RTAs significantly promote FDI inflows through three mechanisms: optimizing the investment environment, reducing trade costs, and rule competition. Specifically, for every 1% increase in World Trade Organization (WTO) + provisions, WTO‐X provisions, and number of revisions, FDI increases by 0.468%, 0.786%, and 1.031%, respectively. The study reveals significant heterogeneous effects: Key provisions such as “visa and protection” and “institutional framework and transparency” promote FDI significantly, and the promoting effect of cooperation between South–South countries is the strongest. The extended analysis shows that an increase in the number of RTAs generally enhances FDI attractiveness; however, this promoting effect gradually decreases over time, and neighboring countries' RTAs cause an investment transfer effect. In addition, only when the deepening degree of RTAs is in the top 10% can it significantly increase FDI inflows, with an average increase of up to 25.9%. This study provides empirical support for the high‐quality promotion of regional economic and trade cooperation and offers policy references for signing and deepening the path design of RTAs.",
-            "abstract_zh": "摘要：随着区域贸易协定（RTAs）的不断深化，一个关键问题随之产生：RTAs的深化如何重塑外国直接投资（FDI）的选址逻辑？本研究利用2009至2022年224个全球经济体的面板数据，系统考察了深度RTAs对FDI的影响。研究发现，深度RTAs通过三种机制显著促进FDI流入：优化投资环境、降低贸易成本和规则竞争。具体而言，世界贸易组织（WTO）+条款、WTO-X条款和修订次数每增加1%，FDI分别增加0.468%、0.786%和1.031%。研究揭示了显著的异质性效应：\"签证和保护\"和\"制度框架和透明度\"等关键条款显著促进FDI，南南国家合作的促进效应最强。扩展分析表明，RTAs数量的增加通常增强了FDI吸引力；然而，这种促进效应随时间逐渐减弱，邻国RTAs引起了投资转移效应。此外，只有当RTAs的深化程度处于前10%时，才能显著增加FDI流入，平均增加高达25.9%。本研究为高质量促进区域经济和贸易合作提供了实证支持，并为签署和深化RTAs的路径设计提供了政策参考。",
+            "title_en": "Revisiting the Leontief Paradox From a Value‐Added Trade Perspective",
+            "title_zh": "从增加值贸易视角重新审视列昂惕夫悖论",
+            "url": "https://doi.org/10.1111/roie.70037",
+            "abstract_en": "ABSTRACT This study revisits a well‐known thesis in international trade theory—the Leontief paradox—from a value‐added trade perspective within a global industrial linkage framework. Using the Heckscher–Ohlin model as a foundation, this paper employs world input–output tables and socioeconomic accounts compiled by the European Union to calculate the value added embodied in bilateral trade for specific economies. The analysis computes the capital‐to‐labor ratios of all traded goods for these economies from 2000 to 2014, aiming to identify the potential existence of the Leontief paradox. Our findings reveal that the Leontief paradox appears in many instances in the United States, especially within the services sector. However, when the value‐added trade concept is applied, the paradox is observed only in a few bilateral cases in the services sector. By contrast, the Leontief paradox is almost nonexistent in India, as a developing country with an abundant labor endowment, whether from a conventional trade perspective or a value‐added trade one is used.",
+            "abstract_zh": "摘要 本研究从全球产业联系框架中的价值增加贸易视角重新审视国际贸易理论中一个著名的论题——列昂惕夫悖论。本文以赫克歇尔-俄林模型为基础，利用欧盟编制的世界投入产出表和社会经济账户，计算特定经济体双边贸易中所包含的价值增加。分析计算了2000年至2014年这些经济体所有贸易商品的资本-劳动比率，旨在识别列昂惕夫悖论的潜在存在。我们的发现揭示了列昂惕夫悖论在美国许多情况下都会出现，特别是在服务业领域。然而，当应用价值增加贸易概念时，悖论仅在服务业的少数双边案例中被观察到。相比之下，作为一个拥有丰富劳动力禀赋的发展中国家，印度几乎不存在列昂惕夫悖论，无论是从传统贸易视角还是价值增加贸易视角来看。",
             "matched_topics": [
               "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "The Impact of Foreign Direct Investment on Firms' Cash Holdings: Evidence From China",
+            "title_zh": "外商直接投资对企业现金持有的影响：来自中国的证据",
+            "url": "https://doi.org/10.1111/roie.70038",
+            "abstract_en": "ABSTRACT This paper investigates how foreign direct investment (FDI) affects firms' cash holdings in manufacturing sectors by taking the plausibly exogenous shock of FDI liberalization in 2002 as an instrumental variable. Using data from the Chinese annual survey of industrial firms from 1998 to 2007, it is found that a 1% increase in industry‐level FDI decreases firms' cash holdings by 7.10% on average. Two explanations of the effect of FDI, that is, investment squeezing and financial constraint alleviation, are explored. Both mechanisms lead to a decrease in firms' cash holdings. In contrast to the effect of horizontal FDI, vertical FDI sourced from upstream industries exerts a positive effect on firms' cash holdings. Furthermore, heterogeneity analyses suggest that the reduction in cash holdings caused by FDI inflows mainly affects smaller firms, privately owned firms, and firms belonging to competitive industries.",
+            "abstract_zh": "摘要 本文利用2002年外商直接投资（FDI）自由化的外生冲击作为工具变量，研究了FDI如何影响制造业企业现金持有量。利用1998至2007年中国工业企业年度调查数据，发现行业层面FDI每增加1%，企业现金持有量平均减少7.10%。文章探讨了FDI效应的两种解释，即投资挤出效应和金融约束缓解效应，两种机制均导致企业现金持有量减少。与水平FDI不同，来自上游产业的垂直FDI对企业现金持有量产生正面影响。此外，异质性分析表明，FDI流入引起的现金持有量减少主要影响小型企业、私营企业和竞争性行业的企业。",
+            "matched_topics": [
+              "国际经济"
+            ]
+          },
+          {
+            "title_en": "Labor‐Eliminating Technological Progress and Foreign Direct Investment",
+            "title_zh": "劳动替代型技术进步与外商直接投资",
+            "url": "https://doi.org/10.1111/roie.70033",
+            "abstract_en": "ABSTRACT Capital‐scarce emerging economies/developing countries often depend heavily on the inflow of foreign direct investment (FDI) to sustain economic growth. However, if a developing economy experiences labor‐eliminating technological change through the adoption of automating technologies in manufacturing, an inflow of capital may replace labor in manufacturing. This, in turn, may compel policymakers to advocate for a foreign investment tax to restrict the inflow of capital. Contrary to this view, we show that in such an environment, wages will rise, and any policy that restricts the inflow of foreign capital does not benefit workers.",
+            "abstract_zh": "摘要：资本稀缺的新兴经济体/发展中国家往往严重依赖外国直接投资（FDI）流入以维持经济增长。然而，如果一个发展中经济体通过在制造业采用自动化技术经历劳动替代型技术变革，资本流入可能会取代制造业中的劳动力。这反过来可能会迫使政策制定者主张征收外国投资税以限制资本流入。与此观点相反，我们表明，在这种环境下，工资将会上升，任何限制外国资本流入的政策都不会使工人受益。",
+            "matched_topics": [
               "国际经济",
               "创新药"
             ]
           },
           {
-            "title_en": "Trade Shock and Structural Transformation: Evidence From the Phase‐Out of Multifiber Arrangement",
-            "title_zh": "贸易冲击与结构转型：来自多纤维协议退出的证据",
-            "url": "https://doi.org/10.1111/roie.70024",
-            "abstract_en": "ABSTRACT I study the effect of the phase‐out of MFA quota on textile and clothing trade on local economic growth and structural change in China. Leveraging data on spatial variation in the degree of specialization of counties in textile and clothing industries, I find that the MFA quota removal contributed significantly to local economic growth and structural change using both official statistics and night‐time light as measures. Output and employment expanded in the secondary and tertiary sectors and shrank in the primary sector in textile counties, relative to nontextile counties.",
-            "abstract_zh": "摘要：我研究了《多种纤维协定》（MFA）配额取消对中国纺织和服装贸易对地方经济增长和结构变化的影响。利用县级纺织和服装产业专业化程度的空间变化数据，我发现MFA配额取消显著促进了地方经济增长和结构变化，无论是使用官方统计数据还是夜间灯光作为衡量标准。与非纺织县相比，纺织县的第二产业和第三产业的产出和就业扩大，而第一产业则缩小。",
+            "title_en": "Conflict and Knowledge Flows: Evidence From the 9/11 Attacks",
+            "title_zh": "冲突与知识流动：9/11袭击的证据",
+            "url": "https://doi.org/10.1111/roie.70034",
+            "abstract_en": "ABSTRACT We assess how geopolitical conflict affects cross‐border knowledge flows by exploring an unexpected event: the 9/11 attacks. Exploiting cross‐country patent citation, collaboration data from the PATSTAT (1990–2015), patent transaction and grant outcome data from Bureau van Dijk's Orbis (Q1 2001–Q4 2003), we show that the trust ‐erosion shock between ethnic groups significantly reduced knowledge flows between NATO and Muslim‐majority countries, with sharper declines in high‐ trust sectors and patents involving Muslim inventors. Our analysis reveals that trust erosion, rather than conventional economic channels like trade, FDI, or migration serves as the primary mechanism, evidenced by asymmetric knowledge flow patterns, and mitigated effects for Muslim‐majority countries with stronger pre‐existing NATO ties. Our results highlight the enduring impact of geopolitical conflict on knowledge flows, underscoring trust as a critical yet vulnerable component for global knowledge exchange.",
+            "abstract_zh": "摘要 我们通过研究一个意外事件：9/11恐怖袭击，来评估地缘政治冲突如何影响跨境知识流动。利用PATSTAT（1990-2015年）的跨国专利引用和合作数据，以及Bureau van Dijk的Orbis（2001年第一季度至2003年第四季度）的专利交易和授权结果数据，我们发现民族群体间信任侵蚀的冲击显著减少了北约和穆斯林占多数国家之间的知识流动，特别是在高信任部门和涉及穆斯林发明人的专利中下降更为明显。我们的分析揭示，信任侵蚀，而非传统的经济渠道如贸易、外国直接投资或移民，是主要机制，这一点从不对称的知识流动模式和对与北约关系更紧密的穆斯林占多数国家影响较小中得到证明。我们的结果强调了地缘政治冲突对知识流动的持久影响，强调信任是全球知识交换中一个关键但脆弱的组成部分。",
             "matched_topics": [
               "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "From Macroeconomic Uncertainty to FX Returns: The Role of Realized Volatility in Shaping Risk‐Return Dynamics",
-            "title_zh": "从宏观经济不确定性到外汇回报：实际波动率在塑造风险-回报动态中的作用",
-            "url": "https://doi.org/10.1111/roie.70023",
-            "abstract_en": "ABSTRACT The paper proposes a theoretical model with variance‐belief formation to investigate the relationship among macroeconomic uncertainty (abbreviated as MU), the conditional variance of the exchange rate, and exchange rate returns. The model posits a weak, even negative, intertemporal and negative contemporaneous risk‐return or MU‐return relationship if agents possess biased, slow‐moving expectations. The empirical study, which utilizes multi‐currency data, corroborates the negative risk‐return relationship. However, the significance of the MU‐return relationship is contingent upon the extent to which the MU proxy captures the uncertainty surrounding economic fundamentals associated with exchange rates comprehensively. In summary, this study offers more insight into the role of fundamentals in exchange rate movements and the risk‐return relationship in FX markets with a focus on MU.",
-            "abstract_zh": "摘要 本文提出了一个包含方差信念形成的理论研究模型，用以探讨宏观经济不确定性（简称MU）、汇率条件方差和汇率回报之间的关系。该模型假设，如果代理人拥有有偏的、缓慢变动的预期，则存在弱的、甚至是负的跨时风险-回报或MU-回报关系。利用多货币数据进行的实证研究证实了风险-回报关系的负相关性。然而，MU-回报关系的重要性取决于MU代理变量在多大程度上全面捕捉了与汇率相关的经济基本面的不确定性。总之，本研究提供了更多关于基本面在汇率变动中的作用以及外汇市场中风险-回报关系，特别是MU方面的见解。",
-            "matched_topics": [
               "国际经济",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Reputation in International Trade: Evidence From the Fukushima Nuclear Disaster",
-            "title_zh": "国际贸易中的声誉：来自福岛核灾难的证据",
-            "url": "https://doi.org/10.1111/roie.70017",
-            "abstract_en": "ABSTRACT A country's reputation may be an important determinant of its ability to export, but the effect is difficult to isolate from underlying product attributes. We consider the trade impact of the Fukushima nuclear disaster and ask whether damage to the Japanese reputation for food safety played a role in its impact. The disaster led to a large and prolonged reduction in Japanese food export value to the EU by up to 40% immediately following the disaster, compared to products from other East Asian countries, with many products ceasing to be exported for up to four years. Since radiation exposure, capacity destruction, and trade restrictions varied by product and prefecture, we use agricultural production data to identify products unlikely to be affected by these negative supply shocks. Such products still exhibit a sizeable reduction in exports, suggesting that a change in the perceived riskiness of Japanese products in the eyes of foreign consumers could have shaped the trade reaction.",
-            "abstract_zh": "摘要：一个国家的声誉可能是其出口能力的重要决定因素，但这种影响很难从产品属性中分离出来。我们考虑福岛核灾难对贸易的影响，并询问日本食品安全声誉的损害是否在其影响中起了作用。与东亚其他国家的产品相比，这场灾难导致日本对欧盟的食品出口价值在灾难后立即大幅且持续下降高达40%，许多产品在长达四年的时间里停止出口。由于辐射暴露、产能破坏和贸易限制因产品和地区而异，我们使用农业生产数据来识别不太可能受到这些负面供应冲击影响的产品。这些产品仍然显示出出口的大幅减少，这表明外国消费者对日本产品风险感知的变化可能塑造了贸易反应。",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "On the Provision of International Public Goods in Dynamic Open Economies",
-            "title_zh": "动态开放经济中国际公共品的提供",
-            "url": "https://doi.org/10.1111/roie.70022",
-            "abstract_en": "ABSTRACT This study develops a dynamic two‐country model with an international public good, the stock of which positively affects the productivity of the private‐goods sectors in each country, and the evolution of the stock is determined by each country's voluntary contribution in the form of public investment. Two scenarios are examined: A cooperative solution, in which the countries maximize global welfare, and a noncooperative equilibrium, in which each country maximizes its own welfare. This study examines how globalization affects the countries' contribution levels, the stock of the international public good, and welfare. The country that makes more efficient contributions (i.e., higher productivity of public investment) has a comparative advantage in the good that is more sensitive to the stock of the international public good. In the noncooperative equilibrium, free trade leads to a higher steady‐state stock of the international public good than autarky. Furthermore, in both cooperative and noncooperative scenarios, the country with lower contribution efficiency unambiguously benefits from globalization, whereas the country with higher contribution efficiency may experience welfare losses.",
-            "abstract_zh": "摘要 本文构建了一个包含国际公共品的动态两国模型，该国际公共品存量对每个国家的私人产品部门生产率产生积极影响，其演变由各国自愿以公共投资形式的贡献决定。研究考察了两种情景：合作解，即各国最大化全球福利；非合作均衡，即每个国家最大化自己的福利。本文探讨了全球化如何影响各国的贡献水平、国际公共品存量和福利。在公共投资生产率更高（即更有效贡献）的国家，在对国际公共品存量更敏感的领域具有比较优势。在非合作均衡中，自由贸易导致国际公共品存量的稳态水平高于自给自足。此外，在合作和非合作情景下，贡献效率较低的国家无疑从全球化中受益，而贡献效率较高的国家可能会经历福利损失。",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Duration of Capital Market Exclusion: An Empirical Investigation",
-            "title_zh": "资本市场排除持续期：一项实证研究",
-            "url": "https://doi.org/10.1111/roie.70021",
-            "abstract_en": "ABSTRACT This paper investigates the duration of market exclusion following a sovereign default and its resolution. We employ multiple definitions of market access, differentiating between gross and net borrowing and partial and full access, to measure the time it takes for countries to regain entry into international capital markets following a sovereign default and resolution. Our findings indicate that market re‐access can occur immediately under less stringent definitions but may take several years when more demanding criteria are applied. Middle‐income countries typically regain access more quickly than low‐income nations, with significant variation across historical periods. In addition to traditional push‐pull factors, we find that default‐specific characteristics play an important role in the duration of market exclusion. Key factors influencing re‐access include the occurrence of natural disasters prior to the default, the presence of an IMF program, the severity of investor losses, the country's economic outlook, and global liquidity conditions. These findings contribute to the academic literature on sovereign defaults and inform the design of effective post‐default support strategies by policymakers and international financial institutions.",
-            "abstract_zh": "摘要 本文研究了主权违约及其解决后市场排除的持续时间。我们采用多种市场准入的定义，区分毛借款和净借款以及部分和完全准入，以衡量国家在主权违约和解决后重新进入国际资本市场所需的时间。我们的发现表明，在较不严格的定义下，市场重新准入可以立即发生，但在应用更严格的标准时可能需要数年时间。中等收入国家通常比低收入国家更快地重新获得准入，不同历史时期存在显著差异。除了传统的推拉因素外，我们发现违约特定特征在市场排除的持续时间中扮演着重要角色。影响重新准入的关键因素包括违约前自然灾害的发生、IMF计划的存在、投资者损失的严重性、国家的经济前景以及全球流动性状况。这些发现为主权违约的学术文献做出了贡献，并为政策制定者和国际金融机构设计有效的违约后支持策略提供了信息。",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Overseas Chinese Networks and Processing Trade in China",
-            "title_zh": "华侨网络与中国加工贸易",
-            "url": "https://doi.org/10.1111/roie.70016",
-            "abstract_en": "ABSTRACT Processing trade plays a key role in China's trade liberalization since the economic reform in the 1970s. Using a newly collected dataset of county‐country paired overseas Chinese network matched with firm‐country paired trade data, this study empirically shows that overseas Chinese networks significantly increase the processing exports of firms in China. We find that overseas Chinese networks primarily promote processing export by foreign firms and stimulate outsourcing of production from high‐income and middle‐income countries in Europe and Asia to China. We also find that overseas Chinese networks reduce information frictions to promote processing trade. Finally, we find that overseas Chinese networks are effective in generating large initial trade volumes but play a limited role in expanding the size of existing trade relationship over time.",
-            "abstract_zh": "摘要 自20世纪70年代经济改革以来，加工贸易在中国贸易自由化中发挥了关键作用。本研究利用新收集的县级-国家配对的海外华人网络数据与企业-国家配对的贸易数据，实证表明海外华人网络显著增加了中国企业的加工出口。我们发现，海外华人网络主要通过促进外国企业的加工出口，以及刺激来自欧洲和亚洲高收入和中等收入国家的生产企业外包到中国来推动加工出口。我们还发现，海外华人网络减少了信息摩擦，以促进加工贸易。最后，我们发现海外华人网络在产生大量初始贸易量方面是有效的，但在扩大现有贸易关系规模方面的作用有限。",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Foreign Technology Dependence, Competition Pressure and Firm‐Level Innovation Mode Choice: Theory and Evidence From China",
-            "title_zh": "外商技术依赖、竞争压力与企业创新模式选择：来自中国的理论与证据",
-            "url": "https://doi.org/10.1111/roie.70020",
-            "abstract_en": "ABSTRACT In this paper, we first establish a series of stylized facts to demonstrate that collaborative innovation, in which firms diversify their R&D activities by outsourcing R&D activities to other research institutes/universities or importing foreign technologies, exhibits better innovation performance than self‐innovation. When facing more intensified foreign competition, only firms whose R&D capacity belongs to the upper‐middle percentiles diversify their R&D activities, whereas other firms' innovation diversification remains unaffected. We next develop a theoretical model to explain the empirical findings. The model incorporates the sequential choices of heterogeneous firms regarding innovation mode, R&D investment, and optimal markup under foreign competition. In equilibrium, a subset of firms switches from self‐innovation to diversified innovation to improve innovation performance and escape competition. After structurally estimating the model's parameters, we conduct a battery of counterfactual experiments, such as varying the degree of foreign‐technology dependence, to identify the optimal path for enhancing Chinese firms' innovation performance amid rising uncertainty in international markets.",
-            "abstract_zh": "摘要 本文首先建立了一系列风格化事实，以证明企业通过将研发活动外包给其他研究所/大学或引进外国技术来实现研发活动的多样化，其创新表现优于自主创新。在面临更加激烈的外国竞争时，只有研发能力属于上中位数百分位的企业会多样化其研发活动，而其他企业的创新多样化则不受影响。接下来，我们构建了一个理论模型来解释经验发现。该模型结合了异质性企业在外国竞争下关于创新模式、研发投资和最优加成的顺序选择。在均衡状态下，一部分企业从自主创新转向多样化创新，以提高创新表现并逃避竞争。在结构性估计了模型参数之后，我们进行了一系列反事实实验，例如改变对外国技术的依赖程度，以确定在国际市场不确定性上升的情况下，提高中国企业创新表现的最佳路径。",
-            "matched_topics": [
-              "国际贸易",
               "企业创新"
             ]
           },
           {
-            "title_en": "Innovation Convergence",
-            "title_zh": "创新融合",
-            "url": "https://doi.org/10.1111/roie.70018",
-            "abstract_en": "ABSTRACT This paper sheds light on the convergence of innovation (patenting) using data from two‐digit manufacturing industries in 32 countries over the period of 1976–2006. It shows that patenting rates tend to converge over time (patenting growth is faster when initial patents are lower), including within countries (across industries) and within industries (across countries). Notably, the quality (citations and citations per patent) and efficiency (patents per worker) of innovation also exhibit convergence. Convergence is widespread across all countries and industries in our sample, and in all time periods. Country‐level data confirms that patent convergence continued through 2020. Patent convergence is stronger where financial development, international financial integration, and institutional quality are higher, and under the presence of financial policies supportive of financial liberalization. These factors contribute to both within country (across industries) and within industry (across countries) convergence. The results highlight the importance of the financial and institutional environment for the growth of patenting, and ultimately for economic growth and productivity.",
-            "abstract_zh": "摘要 本文利用1976-2006年间32个国家两位数制造业行业的数据，探讨了创新（专利）的收敛性。研究表明，专利申请率随时间趋于收敛（当初始专利较少时，专利增长更快），包括国家内部（不同行业之间）和行业内部（不同国家之间）。值得注意的是，创新的质量（引用次数和每项专利的引用次数）和效率（每名工人的专利数）也表现出收敛性。在我们的样本中，所有国家和行业的所有时期都普遍存在收敛现象。国家层面的数据证实，专利收敛持续到2020年。在金融发展、国际金融一体化和制度质量较高的地方，以及在支持金融自由化的金融政策存在的情况下，专利收敛性更强。这些因素有助于国家内部（不同行业之间）和行业内部（不同国家之间）的收敛。研究结果强调了金融和制度环境对专利增长的重要性，最终对经济增长和生产率至关重要。",
+            "title_en": "Services Liberalization and Manufacturing Imports: Evidence From Chinese Firms",
+            "title_zh": "服务自由化与制造业进口：来自中国企业的证据",
+            "url": "https://doi.org/10.1111/roie.70031",
+            "abstract_en": "ABSTRACT This study investigates how services liberalization influences firm import behavior, leveraging China's 2002 revision of the Catalogue for the Guidance of Foreign Investment Industries (CIFD) as a quasi‐natural experiment. Using Chinese firm‐level panel data, we demonstrate that services liberalization significantly increases imports by alleviating financing constraints, expanding production scale, and enhancing production efficiency. These effects are more pronounced among non‐state‐owned firms, upstream manufacturers, capital‐intensive industries, and exporters. Although services liberalization increases imports of intermediate and capital goods, it exerts no significant impact on consumer goods imports. Sectoral analysis reveals positive effects from liberalizing finance, distribution, and transportation. Furthermore, an analysis employing a region‐industry‐year perspective based on China's post‐WTO commitments under the General Agreement on Trade in Services (GATS) robustly corroborates these findings. Broader conceptual analysis shows that services liberalization also facilitates firms' entry into import markets, expands their imported product baskets, upgrades import quality, accelerates industry‐level import growth, and induces product switching. Finally, we establish that import growth spurred by liberalization enhances firm performance, highlighting its tangible economic benefits.",
+            "abstract_zh": "摘要 本研究利用中国2002年修订的《外商投资产业指导目录》（CIFD）作为准自然实验，探讨服务业自由化如何影响企业的进口行为。利用中国企业层面的面板数据，我们证明服务业自由化通过缓解融资约束、扩大生产规模和提高生产效率显著增加了进口。这些效应在非国有企业、上游制造商、资本密集型行业和出口商中更为明显。尽管服务业自由化增加了中间品和资本货物的进口，但对消费品进口没有显著影响。行业分析显示，金融、分销和运输的自由化产生了积极效应。此外，基于中国加入世界贸易组织（WTO）后在《服务贸易总协定》（GATS）下的承诺，采用地区-行业-年份视角的分析也有力地证实了这些发现。更广泛的概念分析表明，服务业自由化还促进了企业进入进口市场，扩大了它们的进口产品篮子，提高了进口质量，加速了行业层面的进口增长，并引发了产品转换。最后，我们确立了自由化刺激的进口增长提高了企业绩效，突出了其有形的经济利益。",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Nipping Alcohol or Sipping Coffee: Two Tales of Beverages and Their Industrial Growth in the National Cultural Setting",
+            "title_zh": "饮酒还是品咖啡：两种饮品及其在国家文化背景下的产业增长故事",
+            "url": "https://doi.org/10.1111/roie.70027",
+            "abstract_en": "ABSTRACT As global consumption patterns shift, coffee is rising as a productivity‐linked stimulant while alcohol is declining amid public health and cultural transformations. This study tests the hypothesis that coffee consumption substitutes for alcohol consumption and explores how national culture moderates this relationship. At the substitution effect level, we used the competing logic between two beverages. At the moderation level, we used cultural values as contingencies. Using a robust cross‐national dataset of alcohol consumption as the outcome and coffee consumption as the predictor in 112 countries, we used multilevel analysis for the four cultural dimensions: Power Distance, Individualism, Masculinity, and Uncertainty Avoidance. The findings show that the cultural moderators strongly change the relationship between coffee and alcohol consumption levels. The interaction coefficients are significant between models, nested levels, and after reverse causality inclusion. Although the coefficient size and direction of the coefficients vary, the moderation effect of culture remains robust. These results reveal that the global contraction of alcohol consumption is not simply a function of rising coffee demand in universal patterns but is filtered through culturally embedded norms. The findings position national culture as a key institutional layer in shaping industry trajectories and consumer substitution effects, offering novel implications for international economics, public health policy, and cross‐cultural market strategies.",
+            "abstract_zh": "摘要：随着全球消费模式的转变，咖啡作为与生产力相关的刺激剂而崛起，而酒精消费则在公共卫生和文化转型中下降。本研究测试了咖啡消费替代酒精消费的假设，并探讨了国家文化如何调节这种关系。在替代效应层面，我们使用了两种饮料之间的竞争逻辑。在调节层面，我们使用文化价值观作为条件。利用112个国家的酒精消费作为结果和咖啡消费作为预测因子的稳健跨国数据集，我们对四个文化维度：权力距离、个人主义、男性气质和不确定性回避进行了多层次分析。研究结果表明，文化调节因素强烈改变了咖啡和酒精消费水平之间的关系。模型之间、嵌套层次之间以及反向因果关系纳入后的交互系数均显著。尽管系数的大小和方向不同，但文化的调节效应仍然稳健。这些结果揭示了全球酒精消费的收缩不仅仅是普遍模式下咖啡需求上升的函数，而是通过文化内嵌的规范过滤的。这些发现将国家文化定位为塑造行业轨迹和消费者替代效应的关键制度层面，为国际经济学、公共卫生政策和跨文化市场策略提供了新的含义。",
+            "matched_topics": [
+              "国际经济"
+            ]
+          },
+          {
+            "title_en": "Fossil Fuels, Trade Liberalization, and the Environment: Evidence From China",
+            "title_zh": "化石燃料、贸易自由化与环境：来自中国的证据",
+            "url": "https://doi.org/10.1111/roie.70029",
+            "abstract_en": "ABSTRACT This paper examines the environmental impact of trade liberalization on firms through two types of import tariff reductions. We find that lowering import tariffs on intermediate goods reduces both sulfur dioxide (SO 2 ) emissions and emission intensity among Chinese firms. To explore the underlying mechanisms, we incorporate firms' pollution behavior into a procurement model and describe how the reduction in input tariffs decreases pollution by encouraging firms to switch from coal to crude oil in their production processes. Based on our model, we conduct an empirical analysis using detailed micro‐level data on firm pollution in China from 1998 to 2005. We find that the reduction in input tariffs led more firms, especially those previously heavily reliant on coal, to switch to oil, resulting in a decrease in firm‐level pollution. Additionally, we explore and rule out other potential channels that could influence firms' pollution intensity, including the pollution haven effect, entry–exit effect, and abatement investment effect. Overall, the findings of this paper provide new evidence on the environmental impact of trade liberalization in developing countries while also elucidating the underlying mechanisms of the “technique effect.”",
+            "abstract_zh": "摘要 本文通过两种类型的进口关税降低，考察了贸易自由化对企业环境影响。我们发现，降低中间产品的进口关税既减少了中国企业的二氧化硫（SO2）排放，也降低了排放强度。为了探索背后的机制，我们将企业的污染行为纳入采购模型，并描述了输入关税的降低如何通过鼓励企业在生产过程中从煤炭转向原油来减少污染。基于我们的模型，我们使用1998年至2005年中国企业污染的详细微观层面数据进行了实证分析。我们发现，输入关税的降低导致更多企业，特别是那些以前严重依赖煤炭的企业转向石油，从而降低了企业层面的污染。此外，我们还探讨并排除了其他可能影响企业污染强度的潜在渠道，包括污染避难所效应、进入-退出效应和减排投资效应。总体而言，本文的发现为发展中国家贸易自由化的环境影响提供了新的证据，同时也阐明了“技术效应”背后的机制。",
             "matched_topics": [
               "国际贸易",
-              "企业创新",
               "创新药"
             ]
           },
           {
-            "title_en": "Environmental Regulation or Financial Constraint? Estimating the Effect of the Green Credit Guidelines on Trade",
-            "title_zh": "环境规制还是财务约束？估算绿色信贷指引对贸易的影响",
-            "url": "https://doi.org/10.1111/roie.70015",
-            "abstract_en": "ABSTRACT China's rapid economic growth has come at a significant environmental cost, prompting policymakers to balance sustainability with development. To advance sustainable economic development, the China Banking Regulatory Commission implemented the Green Credit Guidelines (GCG) in 2012, establishing standards and principles for green credit in the banking industry. By imposing credit constraints on high‐pollution industries, the GCG could affect not only production but also the imports and exports of high‐pollution products. This study uses credit‐unconstrained products as a comparison group and employs a difference‐in‐difference method to determine whether the promulgation of the GCG altered trade flows of credit‐constrained products. Our difference‐in‐difference estimates indicate that the GCG has inhibitory effects on both imports and exports of credit‐constrained products, as the GCG limits bank loan financing for high‐pollution firms. Firm‐level analysis further shows that pollution‐intensive firms reduced their trade in credit‐constrained products.",
-            "abstract_zh": "摘要：中国快速的经济增长付出了巨大的环境代价，促使政策制定者在可持续发展与发展之间寻求平衡。为了推进可持续的经济发展，中国银监会在2012年实施了《绿色信贷指引》（GCG），为银行业的绿色信贷建立了标准和原则。通过对高污染行业施加信贷限制，GCG不仅可能影响生产，还可能影响高污染产品的进出口。本研究以信贷无限制产品作为对照组，并采用双重差分法来确定GCG的颁布是否改变了信贷限制产品的贸易流量。我们的双重差分估计表明，GCG对信贷限制产品的进出口都有抑制作用，因为GCG限制了对高污染企业的银行贷款融资。企业层面的进一步分析还表明，污染密集型企业减少了信贷限制产品的贸易。",
+            "title_en": "Asymmetric Exchange Rate Pass‐Through",
+            "title_zh": "非对称汇率传递效应",
+            "url": "https://doi.org/10.1111/roie.70030",
+            "abstract_en": "ABSTRACT This article investigates how asymmetric exchange rate pass‐through affects the welfare costs of domestic and foreign productivity shocks. This is achieved by modifying a standard two‐country dynamic general equilibrium model to include an exchange rate pass‐through parameter. This parameter is empirically estimated using the local projections method on a panel of 84 countries, showing that pass‐through is significantly higher during currency depreciations, in periods of higher inflation, and in countries with higher exchange rate volatility. The corresponding welfare simulations suggest that domestic productivity shocks are most costly in cases of currency depreciation, higher inflation, and higher exchange rate volatility, whereas foreign productivity shocks result in significantly greater welfare losses in cases of currency appreciation, lower inflation, and lower exchange rate volatility. These findings imply that to mitigate welfare losses, policymakers should account for asymmetric exchange rate pass‐through, considering both state‐dependent economic conditions and the origin of the shock.",
+            "abstract_zh": "摘要 本文研究了非对称汇率传递对国内外生产率冲击福利成本的影响。通过在标准两国动态一般均衡模型中引入汇率传递参数来实现这一点。该参数使用局部投影方法在84个国家的面板数据上进行实证估计，结果显示，在货币贬值期间、高通胀时期以及汇率波动较大的国家，传递率显著更高。相应的福利模拟表明，在货币贬值、高通胀和高汇率波动的情况下，国内生产率冲击的成本最高，而国外生产率冲击在货币升值、低通胀和低汇率波动的情况下导致显著更大的福利损失。这些发现意味着，为了减轻福利损失，政策制定者应考虑非对称汇率传递，同时考虑依赖于经济状况的状态和冲击的来源。",
+            "matched_topics": [
+              "国际经济",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Extreme Heat and the Domestic Value‐Added Ratio in Exports",
+            "title_zh": "极热天气与出口中的国内增加值比率",
+            "url": "https://doi.org/10.1111/roie.70028",
+            "abstract_en": "ABSTRACT The impact of climate change on economic activities is an issue of widespread global concern. Using firm‐level data from China during 2000–2014, this paper examines how local extreme heat shocks affect firms' participation in global value chains, measured by the domestic value‐added ratio in exports (DVAR). Our results reveal that one additional day with a temperature exceeding 33°C in a given year leads to a decrease of 0.138% in the DVAR of Chinese firms. A back‐of‐the‐envelope calculation for the entire country suggests that each extra day of extremely high temperature was associated with an annual loss of USD 16.19 million in value‐added through export. The underlying mechanisms operate through two main channels: a direct productivity channel, in which extreme heat lowers labor productivity, and an indirect substitution channel, whereby firms increase their reliance on imported intermediate inputs from regions with lower climate risks. These mechanisms suggest that local heat shocks can propagate across supply chains, reshaping international production patterns. By emphasizing how climate risks transmit through production networks, this study provides new evidence that environmental shocks can become important determinants of comparative advantage in global trade.",
+            "abstract_zh": "摘要 气候变化对经济活动的影响是一个全球普遍关注的问题。本文利用2000-2014年中国企业层面数据，检验了当地极端高温冲击如何影响企业参与全球价值链的程度，以出口中的国内增加值比率（DVAR）来衡量。研究结果表明，一年中每增加一天温度超过33°C，中国企业的DVAR就会下降0.138%。对整个国家进行粗略计算表明，每增加一天极端高温，通过出口的增加值年度损失为1619万美元。这些机制通过两个主要渠道发挥作用：一是直接生产率渠道，极端高温降低了劳动生产率；二是间接替代渠道，企业增加了对气候风险较低地区进口中间产品的依赖。这些机制表明，当地热冲击可以通过供应链传播，重塑国际生产模式。通过强调气候风险如何通过生产网络传播，本研究提供了新的证据，表明环境冲击可能成为全球贸易中比较优势的重要决定因素。",
             "matched_topics": [
               "国际贸易",
               "创新药"
             ]
           },
           {
-            "title_en": "Environmental Effects of Green Credit Policy: Evidence From China",
-            "title_zh": "绿色信贷政策的环境效应：来自中国的证据",
-            "url": "https://doi.org/10.1111/roie.70019",
-            "abstract_en": "ABSTRACT This article uses a quasi‐natural test method to study the environmental effects of China's Green Credit Guidelines on high‐polluting enterprises based on firm‐level data. It turns out that the Guidelines have significantly reduced the emission intensity of HPEs, mainly due to the quality improvement of green innovations, changes in the loan structure, assets optimization, and the relaxation of financial constraints. In addition, we also found that the emission reduction effect is more manifest in state‐owned enterprises and in regions with lower levels of marketization and environmental penalties. These conclusions are of great significance for further green credit policies.",
-            "abstract_zh": "摘要 本文利用准自然实验方法，基于企业层面数据研究了中国绿色信贷指引对高污染企业的环保效应。结果表明，指引显著降低了高污染企业的排放强度，主要原因是绿色创新质量的提升、贷款结构的变化、资产优化以及金融约束的放松。此外，我们还发现，排放减少效应在国有企业以及市场化程度较低和环境处罚力度较小的地区更为明显。这些结论对进一步的绿色信贷政策具有重要意义。",
+            "title_en": "Extreme Capital Flow Episodes in Emerging Markets: Incidence and Drivers",
+            "title_zh": "新兴市场中的极端资本流动事件：发生频率与驱动因素",
+            "url": "https://doi.org/10.1111/roie.70026",
+            "abstract_en": "ABSTRACT We update the dataset on extreme capital flow episodes (surges, stops, flight, and retrenchment), originally constructed by Forbes and Warnock, for 29 emerging markets from 1985 to 2020. We also create new datasets on episodes based on the components of capital flows (portfolio, banking, and foreign direct investment [FDI] flows). Using the datasets, we examine how the incidence and drivers of episodes have changed since the Global Financial Crisis (GFC) and how they differ between the various components of capital flows. We find that although the frequency of episodes has, in general, increased since the GFC, they have become more evenly distributed across time. Since the GFC, episodes have become less sensitive to changes in global risk and global growth and more sensitive to changes in oil prices. Finally, episodes based on portfolio and banking flows are correlated with global and domestic factors, while episodes based on FDI flows are more idiosyncratic.",
+            "abstract_zh": "摘要 我们更新了Forbes和Warnock最初构建的1985至2020年间29个新兴市场极端资本流动事件（激增、停止、外逃和缩减）的数据集。我们还创建了基于资本流动组成部分（投资组合、银行和外国直接投资[FDI]流动）的新数据集。利用这些数据集，我们检验了自全球金融危机（GFC）以来事件的发生率和驱动因素如何变化，以及它们在不同资本流动组成部分之间有何不同。我们发现，尽管自GFC以来事件的频率总体上有所增加，但它们在时间上的分布变得更加均匀。自GFC以来，事件对全球风险和全球增长变化的敏感性降低，而对油价变化的敏感性增加。最后，基于投资组合和银行流动的事件与全球和国内因素相关，而基于FDI流动的事件更具特异性。",
             "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The Role of Media in Export Market Selection: Evidence From Chinese Firms",
-            "title_zh": "媒体在出口市场选择中的作用：来自中国企业的证据",
-            "url": "https://doi.org/10.1111/roie.70014",
-            "abstract_en": "ABSTRACT The media plays a significant role in shaping public opinion and consumer choices, sometimes inadvertently fueling suspicion of foreign companies among domestic consumers, which can impact foreign firms' export decisions. Utilizing the Global Database of Events, Language, and Tone (GDELT) data, we constructed a media inclination index based on global media praise and criticism. We examined how this media bias affected Chinese firms' export market selection behavior using data from 2000 to 2014 across 160 countries. Empirical analysis showed a significant correlation between positive media inclination in the export destination country and higher market entry rates for foreign exporters. This favorable media environment enhances local acceptance, reduces export challenges, increases profitability, and alleviates financing constraints for foreign firms. This effect is particularly pronounced for firms exporting consumer goods, engaged in general trade, and non‐foreign‐owned firms. Furthermore, media bias primarily influences export diversion in the initial exploration stage rather than persistent export behavior. These findings provide valuable insights for firms aiming to navigate global markets effectively.",
-            "abstract_zh": "摘要：媒体在塑造公众舆论和消费者选择方面发挥着重要作用，有时无意中加剧了国内消费者对外国公司的怀疑，这可能影响外国公司的出口决策。利用全球事件、语言和语调数据库（GDELT）数据，我们基于全球媒体的赞扬和批评构建了一个媒体倾向指数。我们使用2000年至2014年160个国家的数据，检验了这种媒体偏见如何影响中国公司出口市场选择行为。实证分析显示，出口目的地国家的积极媒体倾向与外国出口商更高的市场进入率之间存在显著相关性。这种有利的媒体环境增强了当地接受度，降低了出口挑战，提高了盈利能力，并缓解了外国公司的融资约束。这种效应对于出口消费品的公司、从事一般贸易的公司以及非外资公司尤为明显。此外，媒体偏见主要影响出口转移的初始探索阶段，而不是持续的出口行为。这些发现为旨在有效导航全球市场的公司提供了宝贵的洞见。",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
+              "国际经济"
             ]
           }
         ],
@@ -1273,127 +1271,11 @@
         "query_name": "Research Policy",
         "issn": "0048-7333",
         "resolved_name": "Research Policy",
-        "issue_title": "Volume 55, Issue 5",
+        "issue_title": "Volume 55, Issue 6",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 11,
-        "total_in_issue": 13,
-        "papers": [
-          {
-            "title_en": "Specialisation and the career outcomes of inventors",
-            "title_zh": "专业化与发明家的职业成果",
-            "url": "https://doi.org/10.1016/j.respol.2026.105477",
-            "abstract_en": "Recent years have seen a reorganisation of innovation production to favour groups of collaborators, and increasingly specialised individual inventors. In this paper I construct a panel of highly prolific inventors, whom I observe frequently throughout their career. I develop a simple setting whereby inventors face a trade-off between acquiring knowledge depth and knowledge breadth. Empirically, I provide suggestive evidence that after conditioning upon the selection of inventors into specialised careers in certain technological fields, specialisation is associated with a lower probability of contributing to a top-cited invention over the remainder of their career. This suggestive evidence is consistent with a mechanism where specialised inventors are vulnerable to knowledge obsolescence in the late stages of their career. The negative relationship between specialisation and highly cited inventions is concerning given the disproportionate value of such inventions to society. • I create a novel dataset on the careers of prolific inventors. • I integrate career cycle effects into the study of specialisation and productivity. • I develop a measure of specialisation at the inventor-field-year level. • I find specialisation is negatively linked to contributing to top-cited inventions. • I present evidence that this is consistent with a knowledge obsolescence mechanism.",
-            "abstract_zh": "近年来，创新生产经历了重组，更倾向于支持合作者群体和日益专业化的个体发明家。在本文中，我构建了一个高产发明家面板，我在整个职业生涯中频繁观察他们。我发展了一个简单的环境，发明家在获取知识深度和知识广度之间面临权衡。从实证上，我提供了暗示性证据，表明在控制发明家选择进入某些技术领域的专业化职业后，专业化与在剩余职业生涯中贡献于顶级引用发明的概率较低相关。这种暗示性证据与专业化发明家在职业生涯后期易受知识过时影响的机制一致。考虑到这些发明对社会的不成比例价值，专业化与高度引用发明之间的负相关关系令人担忧。•我创建了一个关于高产发明家职业生涯的新数据集。•我将职业周期效应整合到专业化和生产力的研究中。•我开发了一种在发明家-领域-年份层面的专业化度量方法。•我发现专业化与贡献于顶级引用发明之间存在负相关。•我提出了证据，表明这与知识过时机制一致。",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Did the defend trade secrets act spur the reliance on trade secrets?",
-            "title_zh": "《保护商业秘密法案》是否促进了对商业秘密的依赖？",
-            "url": "https://doi.org/10.1016/j.respol.2026.105474",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Disruptive sustainability through digital innovations: Overcoming information asymmetries to benefit small-scale producers",
-            "title_zh": "数字创新实现颠覆性可持续性：克服信息不对称以惠及小规模生产者",
-            "url": "https://doi.org/10.1016/j.respol.2026.105459",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Managing alliance portfolio interdependencies for innovation: The role of governance choice in new alliances",
-            "title_zh": "管理创新联盟组合的相互依赖性：新联盟中治理选择的作用",
-            "url": "https://doi.org/10.1016/j.respol.2026.105475",
-            "abstract_en": "Firms can govern their alliances through contractual agreements or equity joint ventures, the latter involving the shared ownership of a newly formed legal entity. This paper argues that the governance choice in a new alliance can be a lever for a firm to manage interdependencies in its alliance portfolio. We examine two related ideas. The first is that the choice of governance structure for a new alliance depends on the composition of a firm's alliance portfolio. The second is that this governance choice has implications for the nature of the firm's innovation outputs. Using data on U.S.-listed dedicated biotechnology firms, we find that firms are more likely to govern a new alliance through a contractual agreement when the accessed resources are similar to the resources available in their existing alliance portfolio. This choice also increases innovation in these similar resource domains. In contrast, firms are more likely to choose an equity joint venture when the accessed resources are complementary to their existing alliance portfolio, a choice that increases innovation in these complementary resource domains. Our findings extend the alliance-portfolio perspective by linking portfolio interdependencies to the governance choices in new alliances and their implications for innovation. • Firms use governance choice in new alliances to manage alliance portfolio interdependencies. • Contracts are preferred when accessing resources similar as in existing alliances. • Joint ventures are preferred when accessing resources complementary to existing alliances. • Governance choice influences the types of innovation outputs the firm achieves. • Contracts foster innovation in similar domains and JVs in complementary domains.",
-            "abstract_zh": "企业可以通过合同协议或股权合资企业来管理其联盟，后者涉及新成立的法人实体的共同所有权。本文认为，在新联盟中的治理选择可以成为企业管理其联盟组合中相互依赖性的杠杆。我们检验了两个相关的观点。第一个是，新联盟的治理结构选择取决于企业联盟组合的构成。第二个是，这种治理选择对企业创新产出的性质有影响。利用美国上市的专门生物技术公司的数据，我们发现，当获取的资源与现有联盟组合中可用的资源相似时，企业更有可能通过合同协议来管理新联盟。这种选择还增加了这些相似资源领域的创新。相比之下，当获取的资源与现有联盟组合互补时，企业更有可能选择股权合资企业，这种选择增加了这些互补资源领域的创新。我们的发现扩展了联盟组合视角，将组合相互依赖性与新联盟中的治理选择及其对创新的影响联系起来。• 企业在新联盟中使用治理选择来管理联盟组合的相互依赖性。• 当获取的资源与现有联盟相似时，更倾向于选择合同。• 当获取的资源与现有联盟互补时，更倾向于选择合资企业。• 治理选择影响企业实现的创新产出类型。• 合同促进相似领域的创新，而合资企业促进互补领域的创新。",
-            "matched_topics": [
-              "企业创新",
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "Abstract patents and startup funding: Evidence from Alice v. CLS Bank",
-            "title_zh": "抽象专利与初创企业融资：来自Alice诉CLS银行案的证据",
-            "url": "https://doi.org/10.1016/j.respol.2026.105462",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Political, economic and research disintegration: The impact of geopolitical uncertainty on innovation and cross-border R&amp;D collaborations",
-            "title_zh": "政治、经济与研究的解体：地缘政治不确定性对创新和跨境研发合作的影响",
-            "url": "https://doi.org/10.1016/j.respol.2026.105471",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际经济",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "The duality of duality: Generative and disruptive climate configurations for innovation",
-            "title_zh": "双重性的双重性：创新的生成性和破坏性气候配置",
-            "url": "https://doi.org/10.1016/j.respol.2026.105479",
-            "abstract_en": "Organizational climate is seen as a key driver of organizational performance, including sustained innovation. However, there is limited work on the effects of climate duality on innovation. The co-existence of two distinct climate dimensions (duality) in an organization creates the potential for both generative and disruptive dualities. By dividing the innovation process into an idea generation stage and an innovation implementation stage, we develop a theory linking climate duality and the generative–disruptive dichotomy at each stage of the innovation process. In particular, we argue that climate duality should be generative at the idea stage and disruptive at the implementation stage. Using data from the 2018 Australian Public Service Employee Census ( N = 59,870), we test the distinct effects of climate duality at each stage. We conclude with a discussion of the implications of these findings for theories of work climate and innovation. • Advance workplace climate research with a configurational approach examining interactions among multiple workplace climates • Theorize relationship between duality (co-existence of go-getter and inclusive climates) and stages of innovation process • Use Australian Public Service Employee Census to show climate duality benefits idea generation (a divergent process) • Find climate duality hinders implementation (a convergent process), revealing paradoxical effects on innovation • Extend theories of climate duality and innovation to public organizations, contributing to cross-sector understanding",
-            "abstract_zh": "组织氛围被视为组织绩效的关键驱动因素，包括持续创新。然而，关于气候二元性对创新影响的研究工作有限。一个组织中两个不同气候维度（二元性）的共存创造了生成性和破坏性二元性的潜力。通过将创新过程划分为创意生成阶段和创新实施阶段，我们发展了一种理论，将气候二元性与创新过程中每个阶段的生成性-破坏性二分法联系起来。特别是，我们认为气候二元性在创意阶段应该是生成性的，在实施阶段应该是破坏性的。利用2018年澳大利亚公共服务员工普查的数据（N=59870），我们测试了气候二元性在每个阶段的不同效应。我们以对工作气候和创新理论的影响讨论作为结论。•采用配置方法推进工作气候研究，检验多种工作气候之间的相互作用•理论化二元性（进取和包容气候的共存）与创新过程阶段之间的关系•利用澳大利亚公共服务员工普查显示气候二元性有利于创意生成（一个发散过程）•发现气候二元性阻碍实施（一个收敛过程），揭示了对创新的矛盾效应•将气候二元性和创新理论扩展到公共组织，有助于跨部门理解",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Unlocking firm innovation under regional disadvantage: Can psychological openness compensate?",
-            "title_zh": "标题：在区域劣势下激发企业创新：心理开放性能否补偿？",
-            "url": "https://doi.org/10.1016/j.respol.2026.105463",
-            "abstract_en": "Firm innovation is strongly shaped by regional endowment – defined here as regional supply- and demand-side conditions for innovation – yet many regions are disadvantaged by having low levels of such endowment. While recent research increasingly emphasizes the role of regional soft factors , such as psychological openness, we still know relatively little about how such factors influence firm innovation under conditions of low structural endowment. Theoretically, we draw on Schmookler's scissors metaphor to conceptualize regional supply and demand conditions as hard, structural endowments of regions. We argue that favorable regional soft conditions – specifically psychological openness – can partially offset these structural constraints, but only for firms that possess sufficient absorptive capacity to recognize, absorb, and exploit such favorable regional conditions. Using longitudinal firm-level data on Swedish firms from 2004 to 2018, we show that regional psychological openness does not have a universal positive effect on product innovation. Instead, our results indicate that the benefits of regional openness are concentrated among firms with higher absorptive capacity operating in regions with low endowment, while firms in regions with higher endowment do not benefit in the same way. Implications for research and policymaking are discussed. • Regional soft factors are associated with firm innovation outcomes. • Regional psychological openness may offset regional structural disadvantages. • Firms need absorptive capacity to benefit from regional psychological openness. • Hard and soft factors at firm and region levels jointly shape firm innovation. • In high-endowment regions, psychological openness may coincide with lower innovation.",
-            "abstract_zh": "企业创新在很大程度上受到区域禀赋的影响——这里定义为区域创新的供给和需求条件——然而许多区域因禀赋水平低而处于不利地位。尽管最近的研究越来越强调区域软因素的作用，如心理开放性，我们对这些因素如何在低结构禀赋条件下影响企业创新仍然知之甚少。从理论上讲，我们借鉴施穆克勒的剪刀隐喻，将区域供给和需求条件概念化为区域的硬性、结构性禀赋。我们认为，有利的区域软条件——特别是心理开放性——可以部分抵消这些结构性约束，但仅限于那些拥有足够吸收能力以识别、吸收和利用这些有利区域条件的企业。利用2004年至2018年瑞典企业的纵向企业级数据，我们表明区域心理开放性对产品创新没有普遍的积极影响。相反，我们的结果表明，区域开放性的好处集中在拥有更高吸收能力的企业中，这些企业在禀赋较低的区域运营，而在禀赋较高的区域的企业并没有以相同的方式受益。讨论了对研究和政策制定的影响。•区域软因素与企业创新成果相关。•区域心理开放性可能抵消区域结构性劣势。•企业需要吸收能力才能从区域心理开放性中受益。•企业层面和区域层面的硬性和软性因素共同塑造企业创新。•在高禀赋区域，心理开放性可能与较低的创新相吻合。",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Automation, trade and multinational activity: Micro evidence from Spain",
-            "title_zh": "自动化、贸易与跨国活动：来自西班牙的微观证据",
-            "url": "https://doi.org/10.1016/j.respol.2026.105472",
-            "abstract_en": "We use a rich dataset of Spanish manufacturing firms from 1990 to 2016 to shed light on how automation in a high-income country affects trade and multinational activity involving lower-income countries. We exploit variation in firm exposure to robotics inventions over time, as measured using ex ante task specialization and the tasks described in new robotics patents. We show that the deployment of robots in Spanish firms had a positive impact on their offshoring to lower-income countries. For firms that had not yet offshored production to lower-income countries, robot adoption caused them to start newly doing so. By contrast, for firms that were already offshoring to lower-income countries, robot adoption had no effect on their offshoring. • The deployment of robots in Spanish firms had a positive impact on offshoring to developing countries. • Firms that adopted robots started newly offshoring production. • Firms that were already offshoring saw no effect on their offshoring. • Robot adoption had no impact on offshoring to advanced economies.",
-            "abstract_zh": "我们利用1990年至2016年西班牙制造业企业丰富的数据集，来阐明一个高收入国家中的自动化如何影响涉及低收入国家的贸易和跨国活动。我们利用企业对机器人发明暴露度随时间的变化，使用新机器人专利中描述的任务专业化和任务来衡量。我们表明，西班牙企业中机器人的部署对其向低收入国家的外包产生了积极影响。对于那些尚未向低收入国家外包生产的企业，采用机器人导致它们开始这样做。相比之下，对于那些已经向低收入国家外包的企业，采用机器人对其外包没有影响。• 西班牙企业中机器人的部署对向发展中国家外包产生了积极影响。• 采用机器人的企业开始新的外包生产。• 已经外包的企业对其外包没有影响。• 采用机器人对向发达经济体外包没有影响。",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Dinosaurs of the organizational landscape facing technological disruption: Liability of aging and exaptation in monastic orders",
-            "title_zh": "组织景观中的恐龙：面对技术颠覆的老化负担与修道会的适应性再利用",
-            "url": "https://doi.org/10.1016/j.respol.2026.105480",
-            "abstract_en": "Some organizations remain adaptable across centuries while others struggle to evolve and ultimately fade into irrelevance. Only a handful of theories can explain this extraordinary adaptability. We test two competing theoretical perspectives in imprinting research: Liability of aging suggests that older organizations are at greater risk of disruption by modern technologies, but older organizations can also repurpose their imprinted structures and processes to their advantage in a process termed exaptation. To resolve this contradiction, we analyze Catholic religious orders and their monasteries. They represent the oldest extant organizations, were founded in various historical eras, and are facing contemporary challenges posed by digitalization. Our quantitative and qualitative findings indicate that the orders with historically decentralized imprints show higher adaptability in embracing digital innovation. Our results confirm that long-term adaptability is increased in organizations whose imprinted decentralized logics provide a propensity for exaptation. However, these long-standing organizations are also more wary of the negative effects of digital disruption and appear to shield their organizational core more strongly. We contribute to imprinting research by shedding light on the intricate relationship between historically imprinted organizational logics and contemporary organizational practice and highlight the often-underappreciated importance of exaptation for long-term adaptability. • Imprinting theory implies that aging organizations are less able to react to changes. • However, structures adapted for initial conditions may be repurposed. • We test both these assumptions in the organizational logics of Catholic orders. • Catholic orders were founded in diverse eras and face challenges with digitalization. • Historically decentralized organizational logics adapt best to digital innovation.",
-            "abstract_zh": "一些组织能够跨越世纪保持适应性，而其他组织则难以进化，最终变得无关紧要。只有少数理论能够解释这种非凡的适应能力。我们在印记研究中测试了两种竞争的理论视角：老化责任理论认为，较老的组织更有可能被现代技术所破坏，但较老的组织也可以将他们印记的结构和流程重新用于他们的优势，这一过程被称为“适者生存”。为了解决这一矛盾，我们分析了天主教宗教团体及其修道院。它们代表了现存最古老的组织，成立于不同的历史时期，并且正面临数字化带来的当代挑战。我们的定量和定性发现表明，历史上去中心化的印记显示出更高的适应性，以拥抱数字创新。我们的结果证实，那些印记去中心化逻辑为适者生存提供倾向的组织，其长期适应性得到了增强。然而，这些长期存在的组织也更加警惕数字破坏的负面影响，并且似乎更强烈地保护他们的组织核心。我们通过揭示历史上印记的组织逻辑与当代组织实践之间复杂的关系，为印记研究做出了贡献，并强调了适者生存对长期适应性的经常被低估的重要性。• 印记理论意味着老化的组织对变化的反应能力较差。• 然而，为初始条件调整的结构可以被重新利用。• 我们在天主教团体的组织逻辑中测试了这两种假设。• 天主教团体成立于不同的时代，面临数字化的挑战。• 历史上去中心化的组织逻辑最能适应数字创新。",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Understanding working of patents: Empirical evidence based on India.",
-            "title_zh": "理解专利运作：基于印度的实证证据。",
-            "url": "https://doi.org/10.1016/j.respol.2026.105464",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 1,
+        "papers": [],
         "error": null
       },
       {
@@ -1401,70 +1283,79 @@
         "query_name": "Strategic Management Journal",
         "issn": "0143-2095",
         "resolved_name": "Strategic Management Journal",
-        "issue_title": "Volume 47, Issue 4",
+        "issue_title": "Volume 47, Issue 5",
         "issue_url": "https://onlinelibrary.wiley.com/journal/10970266",
-        "matched_count": 6,
+        "matched_count": 7,
         "total_in_issue": 9,
         "papers": [
           {
-            "title_en": "Political alignment in entrepreneurial teams: Homophily in venture formation and associations with startup success",
-            "title_zh": "创业团队中的政治立场一致性：创业团队形成中的同质性及其与创业成功的关系",
-            "url": "https://doi.org/10.1002/smj.70044",
-            "abstract_en": "Abstract Research Summary We examine political affiliation's role in venture team formation and success. Using data from Crunchbase and L2 on 1125 US‐based startups, we investigate political homophily in team assembly and its association with startup outcomes. Our analysis reveals strong political homogeneity in founding teams: teams with similar political views form more frequently than diverse teams, even after controlling for founders' gender, age, location, and industry. This political homophily relates to venture performance. Startups with politically heterogeneous founding teams are more likely to shut down. Across additional performance measures (capital funding, employee size, Crunchbase rankings), we observe directionally consistent associations with worse outcomes, though these secondary findings vary in robustness. These findings highlight the dual role of founders' political affiliations: their relationship with team composition and startup performance. Managerial Summary Our study examines political diversity's association with startup team formation and venture success. Analyzing data from 1125 US‐based startups, we discovered a strong tendency for teams to form based on political similarity. Individuals with similar political views prefer starting companies together, even when accounting for age, gender, location, and industry. Startups with politically diverse founding teams are more likely to shut down. These teams also tend to receive less funding, have fewer employees, and exhibit worse Crunchbase rankings, although these patterns are less consistent than the survival effect. For entrepreneurs and investors, these findings highlight the need to balance team cohesion against diverse perspectives. Business practitioners should be aware of these dynamics when forming teams or developing management strategies, particularly in a politically charged environment.",
-            "abstract_zh": "摘要研究总结 我们研究了政治归属在创业团队形成和成功中的作用。利用Crunchbase和L2的数据，我们对1125家美国初创企业进行了调查，研究了团队组建中的政治同质性及其与初创企业结果的关联。我们的分析揭示了创始团队中强烈的政治同质性：具有相似政治观点的团队比多样化团队更频繁地形成，即使在控制了创始人的性别、年龄、地点和行业之后也是如此。这种政治同质性与风险投资表现有关。政治上异质的创始团队更有可能关闭。在其他绩效指标（资本融资、员工规模、Crunchbase排名）上，我们观察到与更差结果一致的关联，尽管这些次要发现的稳健性各不相同。这些发现突出了创始人政治归属的双重作用：它们与团队构成和初创企业绩效的关系。管理总结 我们的研究考察了政治多样性与创业团队形成和风险投资成功的关系。分析了1125家美国初创企业的数据，我们发现团队基于政治相似性形成的趋势很强。具有相似政治观点的个体更愿意一起创业，即使在考虑年龄、性别、地点和行业之后也是如此。政治上多样化的创始团队更有可能关闭。这些团队也倾向于获得较少的资金，拥有较少的员工，并表现出更差的Crunchbase排名，尽管这些模式不如生存效应一致。对于企业家和投资者来说，这些发现强调了在团队凝聚力和多样化视角之间取得平衡的必要性。商业从业者在组建团队或制定管理策略时，特别是在政治紧张的环境中，应该意识到这些动态。",
+            "title_en": "Task co‐use and product improvement: An organization design perspective",
+            "title_zh": "任务共用与产品改进：组织设计视角",
+            "url": "https://doi.org/10.1002/smj.70042",
+            "abstract_en": "Abstract Research Summary Co‐using tasks—using the same task to produce more than one product—promises economies of scope. However, task co‐use also ties products together, changing a firm's task network by introducing cross‐product interdependencies. In light of these interdependencies, we identify an unrecognized downside of task co‐use for product reliability: Cross‐product interdependencies complicate task design and increase the risk of malfunctions. Hence, task co‐use may carry a reliability penalty. Second, we propose that the reliability penalty of task co‐use may shrink with experience as cross‐product interdependencies allow for cross‐improvements and therefore potentially higher improvement rates of task co‐using products. We study the US automotive industry and find our predictions supported, indicating that task co‐use is a critical design parameter with important consequences for reliability and product improvement. Managerial Summary Using the same tasks to produce multiple products can help firms lower costs and achieve economies of scope. However, this practice also links products more tightly together, creating interdependencies across product lines. These interdependencies can make tasks harder to design and manage, increasing the likelihood of errors or malfunctions. As a result, task co‐use may reduce product reliability—an important but often overlooked drawback. At the same time, co‐used tasks can enable portfolio‐wide improvements— improvements across products. As firms gain experience, problems identified in one product can lead to improvements that benefit others using the same tasks. Over time, these cross‐improvements accelerate product improvement for task co‐using products and can reduce the initial reliability disadvantage. Evidence from the U.S. automotive industry supports these arguments. The findings show that task co‐use is a key design decision that involves meaningful trade‐offs between cost savings, reliability, and improvement. For managers, this highlights the importance of carefully evaluating when and how tasks should be co‐used across products, as these choices have lasting implications for product quality and improvement.",
+            "abstract_zh": "摘要研究总结：共同使用任务——使用同一任务生产多个产品——承诺实现范围经济。然而，任务共同使用也将产品捆绑在一起，通过引入跨产品相互依赖性改变公司的工作任务网络。鉴于这些相互依赖性，我们识别出任务共同使用对产品可靠性的一个未被认识到的负面影响：跨产品相互依赖性使任务设计复杂化，并增加了故障风险。因此，任务共同使用可能需要承担可靠性惩罚。其次，我们提出，随着经验的积累，任务共同使用的可靠性惩罚可能会缩小，因为跨产品相互依赖性允许跨产品改进，从而可能提高任务共同使用产品的改进率。我们研究了美国汽车工业，并发现我们的预测得到了支持，表明任务共同使用是一个关键的设计参数，对可靠性和产品改进有重要影响。管理总结：使用相同的任务生产多个产品可以帮助公司降低成本并实现范围经济。然而，这种做法也将产品更紧密地联系在一起，创建跨产品线之间的相互依赖性。这些相互依赖性可能使任务更难设计和管理，增加了错误或故障的可能性。因此，任务共同使用可能会降低产品可靠性——一个重要但经常被忽视的缺点。同时，共同使用的任务可以促进整个产品组合的改进——跨产品的改进。随着公司获得经验，一个产品中识别出的问题可以导致对使用相同任务的其他产品的改进。随着时间的推移，这些跨产品改进加速了任务共同使用产品的改进，并可以减少最初的可靠性劣势。来自美国汽车工业的证据支持这些论点。研究结果表明，任务共同使用是一个关键的设计决策，涉及成本节省、可靠性和改进之间的重大权衡。对于管理者来说，这突出了仔细评估何时以及如何跨产品共同使用任务的重要性，因为这些选择对产品质量和改进有持久的影响。",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Does entrepreneurship narrow the gender earnings gap?",
+            "title_zh": "创业是否缩小了性别收入差距？",
+            "url": "https://doi.org/10.1002/smj.70065",
+            "abstract_en": "Abstract Research Summary Prior research has examined whether individuals earn greater returns in entrepreneurship than in wage work but has paid little attention to gender differences in these returns. Using Swedish employee–employer data from 1990 to 2020, we compare individuals' earnings before and after they transitioned to entrepreneurship. We find that women founders earn less than men, yet this gap is smaller than in wage employment. Additionally, entrepreneurship yields disproportionately greater returns for (a) high‐ability women facing glass ceilings in salaried positions, and (b) women in male‐typed industries who encounter greater barriers to advancement in wage work. Together, these findings show that entrepreneurship can enable women to realize greater returns to their human capital, particularly when they face stronger constraints in paid employment. Managerial Summary This study examines whether entrepreneurship widens or narrows the gender earnings gap compared to wage work. Using comprehensive Swedish data that track individuals before and after founding new businesses, we show that, although women founders earn less than men in absolute terms, they experience substantially larger earnings gains than men when moving from wage work to entrepreneurship. This advantage is most pronounced for high‐ability women and for women in male‐dominated industries, who face stronger barriers to advancement in salaried work. Our findings indicate that entrepreneurship offers women a pathway to realize greater returns to their skills and experience, yielding disproportionately higher earnings compared to remaining in salaried jobs. For organizations, these results highlight how structural constraints in wage employment can push talented women toward entrepreneurship.",
+            "abstract_zh": "摘要研究总结：先前的研究已经检验了个体在创业中是否比在工资工作中获得更高的回报，但很少关注这些回报中的性别差异。利用1990年至2020年的瑞典雇员-雇主数据，我们比较了个体在转向创业前后的收入。我们发现，女性创始人的收入低于男性，但这一差距小于工资就业中的差距。此外，创业对于(a)在工资职位中面临玻璃天花板的高能力女性，以及(b)在男性主导行业中遇到更大晋升障碍的女性，带来了不成比例的更大回报。这些发现共同表明，创业可以使女性实现对其人力资本的更大回报，特别是当她们在有偿就业中面临更强约束时。管理总结：本研究检验了与工资工作相比，创业是否扩大或缩小了性别收入差距。利用全面的瑞典数据追踪个体在创立新企业前后的情况，我们表明，尽管女性创始人在绝对值上的收入低于男性，但她们在从工资工作转向创业时，收入增长幅度远大于男性。这一优势对于高能力女性和在男性主导行业中的女性最为明显，她们在工资工作中面临更强的晋升障碍。我们的发现表明，创业为女性提供了一条实现对其技能和经验更大回报的途径，与继续从事工资工作相比，收入不成比例地更高。对于组织而言，这些结果突出了工资就业中结构性约束如何推动有才华的女性走向创业。",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Beyond feasibility filters: How expertise heterogeneity enables innovation recognition",
+            "title_zh": "超越可行性过滤器：专业知识异质性如何促进创新识别",
+            "url": "https://doi.org/10.1002/smj.70060",
+            "abstract_en": "Abstract Research Summary Organizations often struggle to identify promising innovations that balance novelty and feasibility in multidisciplinary domains, yet how does evaluator expertise heterogeneity shape these assessments? This study examines how evaluator expertise influences innovation evaluation through a field experiment with National Aeronautics and Space Administration's (NASA) Astrobee Robotic Arm Challenge, involving 354 evaluators assessing 101 solutions. Domain‐spanning evaluators assign higher novelty ratings while maintaining similar feasibility ratings compared to domain‐specific evaluators. Domain‐adjacent evaluators show higher ratings on both dimensions. Human‐LLM analysis of 3007 evaluator comments reveals a two‐stage process: feasibility filtering (evaluating minimum viability) followed by integrative assessment (evaluating enhancement potential). Different expertise types serve complementary functions: domain‐spanning evaluators recognize enhancement potential while maintaining rigorous standards; domain‐adjacent evaluators show openness to novel approaches; domain‐specific evaluators ensure technical rigor. These findings suggest effective innovation evaluation depends on strategically combining complementary expertise types rather than identifying optimal individual evaluators. Managerial Summary Organizations often struggle to identify innovations that are both novel and feasible, risking missed breakthroughs or wasted resources. We study how evaluator expertise shapes innovation assessments in a field experiment with NASA, in which 354 evaluators reviewed 101 robotic arm designs. Evaluators with expertise spanning multiple domains recognize more novel yet feasible ideas. Those with single‐domain expertise provide essential technical gatekeeping but overlook cross‐domain improvements, while adjacent‐field experts are more open but less rigorous. Organizations can strengthen innovation selection by strategically combining these complementary expertise types—using domain‐specific experts for initial feasibility screening and domain‐spanning experts to identify integrative opportunities—rather than seeking one “ideal” evaluator.",
+            "abstract_zh": "摘要研究总结：组织常常难以识别在多学科领域中平衡新颖性和可行性的有前景的创新，那么评估者专业知识的异质性如何塑造这些评估呢？本研究通过与美国国家航空航天局（NASA）的Astrobee机器人臂挑战赛进行的现场实验，考察了评估者专业知识如何影响创新评估，涉及354名评估者评估101个解决方案。跨领域评估者在保持相似的可行性评分的同时，给予更高的新颖性评分，而领域特定评估者则相反。领域相邻评估者在两个维度上都显示出更高的评分。对3007条评估者评论的人类-LLM分析揭示了一个两阶段过程：可行性筛选（评估最小可行性）后进行综合评估（评估增强潜力）。不同类型的专业知识发挥互补作用：跨领域评估者在保持严格标准的同时识别增强潜力；领域相邻评估者对新颖方法表现出开放性；领域特定评估者确保技术严谨性。这些发现表明，有效的创新评估取决于策略性地结合互补的专业知识类型，而不是识别最优的个体评估者。管理总结：组织常常难以识别既新颖又可行的创新，冒着错过突破或浪费资源的风险。我们通过与NASA的现场实验研究了评估者专业知识如何塑造创新评估，其中354名评估者审查了101个机器人臂设计。拥有跨多个领域专业知识的评估者能够识别更多新颖且可行的想法。拥有单一领域专业知识的评估者提供必要的技术把关，但忽视了跨领域的改进，而相邻领域专家则更加开放但不够严格。组织可以通过策略性地结合这些互补的专业知识类型来加强创新选择——使用领域特定专家进行初步的可行性筛选，使用跨领域专家识别整合机会——而不是寻找一个“理想”的评估者。",
             "matched_topics": [
               "企业创新",
               "创新药"
             ]
           },
           {
-            "title_en": "Navigating uncertainty in a nascent ecosystem: How shifting cognitive frames influence an incumbent firm's platform scope strategies",
-            "title_zh": "在新兴生态系统中驾驭不确定性：认知框架转变如何影响在位企业的平台范围策略",
-            "url": "https://doi.org/10.1002/smj.70040",
-            "abstract_en": "Abstract Research Summary We examine how an incumbent firm navigates internal and external uncertainties when entering a nascent platform ecosystem. Drawing on a longitudinal study of a large telecommunication firm's transition into an evolving IoT ecosystem, we advance a cognitive perspective on platform strategy. We explain how managers' cognitive frames shape platform scope decisions based on shifting assumptions and interpretations of ecosystem dynamics and internal capabilities. Our process model shows how deviations between expected and actual developments trigger changes in managers' attitudes toward uncertainty, thereby shifting their cognitive frames and prompting them to modify platform scope strategies, leading to oscillation between shaping and adapting strategic postures. Our theorization sheds light on the cognitive foundations of platform strategy and the dynamics of incumbent platform transitions in a nascent ecosystem. Managerial Summary Incumbents often enter nascent digital ecosystems by introducing a platform, yet uncertainty complicates decisions about the appropriate platform scope. Our nine‐year study of TELECO’s IoT platform reveals three takeaways. First, scope is not a one‐off decision; it evolves as managers revisit assumptions about opportunities and constraints. Second, scope decision rarely move linearly; firms oscillate between broad and calibrated scopes, creating episodes of overreach and retrenchment. Third, interpretations of uncertainty steer these shifts: reading uncertainty as an opportunity supports shaping bets, whereas interpreting it as a constraint encourages adaptation and selective coopetition. Overall, platform decisions in uncertain ecosystems reflect organizational tensions as firms balance ambitions for dominance against market realities and the actions of ecosystem members.",
-            "abstract_zh": "摘要研究总结 我们研究了一家在位企业在进入新兴平台生态系统时如何驾驭内部和外部的不确定性。基于对一家大型电信公司转型进入不断发展的物联网生态系统的纵向研究，我们提出了一个关于平台战略的认知视角。我们解释了管理者的认知框架如何基于对生态系统动态和内部能力的不断变化的假设和解释来塑造平台范围决策。我们的流程模型展示了预期与实际发展之间的偏差如何触发管理者对不确定性态度的变化，从而改变他们的认知框架，并促使他们修改平台范围战略，导致在塑造和适应战略姿态之间产生振荡。我们的理论阐释揭示了平台战略的认知基础以及在新兴生态系统中在位平台转型的动态。管理总结 在位企业通常通过引入平台进入新兴数字生态系统，但不确定性使关于适当平台范围的决策变得复杂。我们对TELECO的物联网平台进行了为期九年的研究，得出了三个结论。首先，范围不是一次性决策；随着管理者重新审视关于机会和限制的假设，它不断发展。其次，范围决策很少线性移动；企业在广泛和校准范围之间振荡，创造了过度扩张和收缩的时期。第三，对不确定性的解释指导了这些变化：将不确定性视为机会支持塑造赌注，而将其解释为限制则鼓励适应和选择性合作。总体而言，在不确定的生态系统中，平台决策反映了组织紧张，因为企业在对主导地位的抱负与市场现实和生态系统成员的行动之间寻求平衡。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Location choice in global patent litigation: Does the landscape matter?",
-            "title_zh": "全球专利诉讼地点选择：地理环境重要吗？",
-            "url": "https://doi.org/10.1002/smj.70037",
-            "abstract_en": "Abstract Research Summary Firms asserting their patents globally face a dilemma: a legal verdict is binding only in the country of litigation, and yet litigating country by country is prohibitively expensive. Thus, firms have to be strategic in deciding where to sue. In this paper, we argue that global patent litigation is not only about winning a case, but also about making a case, that is, leveraging litigation in one country to shape expectations on litigation outcomes elsewhere. Our analyses on patent litigation in 50 countries over 13 years show that firms tend to concentrate litigation in few countries when the relevant markets historically share similar litigation outcomes, so litigation in one country can effectively inform the litigants of future trajectories, reducing the need for repetitive litigation across countries. Managerial Summary While legal enforcement of intellectual property (IP) rights remains national, the battleground for IP has become increasingly global, especially for firms competing across countries. In this paper, we argue that the location choice for global patent litigation depends not only on country characteristics, such as market size and competition intensity, but also on the relationships across countries, that is, how similar or different the IP regimes are. When the relevant countries historically share similar litigation outcomes, firms can use litigation in one country to influence the expectations of litigants and potential infringers in other markets, which reduces the need for repetitive litigation. Thus, examining the global landscape of patent litigation as a whole can provide insight beyond the sum of IP strategies in individual countries.",
-            "abstract_zh": "摘要研究总结：在全球范围内主张其专利的公司面临一个困境：法律裁决仅在诉讼国家具有约束力，然而逐个国家进行诉讼的费用高得令人望而却步。因此，公司必须在决定在哪里提起诉讼时采取战略性考虑。在本文中，我们认为全球专利诉讼不仅仅是为了赢得案件，而是为了建立案例，即利用一个国家的诉讼来塑造对其他地方诉讼结果的预期。我们对50个国家13年的专利诉讼分析表明，当相关市场历史上共享类似的诉讼结果时，公司倾向于在少数几个国家集中诉讼，因此一个国家的诉讼可以有效告知诉讼当事人未来的趋势，减少在不同国家重复诉讼的需求。管理总结：尽管知识产权（IP）权利的法律执行仍然是国家性的，但知识产权的战场已经变得越来越全球化，特别是对于那些在不同国家竞争的公司。在本文中，我们认为全球专利诉讼的地点选择不仅取决于国家特征，如市场规模和竞争强度，还取决于国家之间的关系，即知识产权制度的相似性或差异性。当相关国家历史上共享类似的诉讼结果时，公司可以利用一个国家的诉讼来影响其他市场诉讼当事人和潜在侵权者的预期，这减少了重复诉讼的需求。因此，将全球专利诉讼的整体格局作为整体进行考察，可以提供超越个别国家知识产权策略总和的洞见。",
+            "title_en": "How to grow new applications out of old research? Evidence from firm cumulative investments in deep learning",
+            "title_zh": "如何从旧研究中培育新应用？来自企业在深度学习中的累积投资的证据",
+            "url": "https://doi.org/10.1002/smj.70045",
+            "abstract_en": "Abstract Research Summary Firm technological research has the potential to spawn multiple applications. Despite recognizing such potential, past literature disagrees on the process through which firms discover and grow new applications out of their past technological research. I examine this question in the context of deep learning, taking a question‐driven approach. Difference‐in‐difference analysis suggests that firms radically increased cumulative investments in past deep learning research upon signals indicating elevated application potential of deep learning. Furthermore, rather than investing in proprietary efforts, firms disclosed their cumulative development trajectories to engage external innovation efforts from which they learn and build. Grounded in these findings, I propose that the discovery and growth of new applications of past research entails unfolding innovation interdependence which motivates firms to co‐evolve with external innovators. Managerial Summary Firm technological research has the potential to spawn multiple applications. This article examines how firms cumulatively invest in their past technological research to grow new applications in the context of deep learning. Employing a difference‐in‐difference approach, analysis suggests that firms radically increased cumulative investments in deep learning after a shock elevating the application potential of their past deep‐learning research. Furthermore, firms publicly disclosed their cumulative development trajectories to attract innovation efforts from application sectors while actively learning from the attracted efforts to innovate further. These findings suggest that firms engaged, leveraged and co‐evolved with external innovation efforts to discover and grow new applications of their past research.",
+            "abstract_zh": "摘要研究总结：企业技术研究有潜力产生多种应用。尽管认识到这种潜力，但过去的文献对于企业如何发现并从过去的技术研究中发展新应用的过程存在分歧。本文以深度学习为背景，采用问题驱动的方法来探讨这一问题。差异-差异分析表明，企业在收到表明深度学习应用潜力增加的信号后，大幅增加了对过去深度学习研究的累积投资。此外，企业并没有投资于专有努力，而是公开披露了它们的累积发展轨迹，以吸引外部创新努力，从中学习和构建。基于这些发现，我提出，发现和增长过去研究的新应用涉及展开创新相互依赖，这激励企业与外部创新者共同进化。管理总结：企业技术研究有潜力产生多种应用。本文考察了企业如何在深度学习的背景下，通过累积投资过去的技术研究来发展新应用。采用差异-差异方法的分析表明，在提升过去深度学习研究的应用潜力的冲击之后，企业大幅增加了对深度学习的累积投资。此外，企业公开披露了它们的累积发展轨迹，以吸引应用部门的创新努力，同时积极从吸引的努力中学习，以进一步创新。这些发现表明，企业参与、利用并与外部创新努力共同进化，以发现和增长它们过去研究的新应用。",
             "matched_topics": [
               "企业创新"
             ]
           },
           {
-            "title_en": "Firm growth and stagnation in the United States: Key trends and new data opportunities",
-            "title_zh": "美国企业增长与停滞：关键趋势与新数据机遇",
-            "url": "https://doi.org/10.1002/smj.70035",
-            "abstract_en": "Abstract Research Summary Using administrative data from the US Census Bureau, we introduce a new public‐use dataset (“Business Dynamics Statistics—High Growth” [BDS‐HG]) that captures the full distribution of firm growth in the United States between 1978 and 2021. BDS‐HG enables researchers to analyze not only high‐growth firms but also stagnant and shrinking firms, disaggregated by firm maturity, size, industry, region, and year. We begin by documenting two key trends: (1) a significant decline in the share of high‐growth firms—especially among young and small firms and (2) a marked rise in stagnant firms. To help illustrate the dataset's usefulness, we provide three empirical applications and highlight research opportunities across major areas of strategic management. In addition to supporting new analyses, BDS‐HG can be used to benchmark research samples and assess their generalizability. Managerial Summary The US economy has seen two major shifts in firm growth dynamics: a steady decline in the share of high‐growth firms—especially among startups—and a notable rise in firms that exhibit no growth. We document these patterns using BDS‐HG, a new public‐use dataset from the US Census Bureau that tracks employment growth across all US employer businesses from 1978 to 2021. The data are disaggregated by firm age, size, industry, geography, and year, enabling users to examine growth trends across sectors and regions. BDS‐HG offers a valuable resource for researchers, policymakers, and analysts seeking to understand long‐term business dynamism. It can also be used to benchmark research samples against national patterns, helping users assess how representative their data or findings are.",
-            "abstract_zh": "摘要研究总结：利用美国人口普查局的行政数据，我们引入了一个新的公共使用数据集（“商业动态统计—高增长”[BDS-HG]），该数据集捕捉了1978年至2021年间美国企业增长的完整分布。BDS-HG使研究人员能够分析不仅是高增长企业，还有停滞和萎缩企业，按企业成熟度、规模、行业、地区和年份进行细分。我们首先记录了两个关键趋势：（1）高增长企业的份额显著下降，特别是在年轻和小型企业中；（2）停滞企业的显著增加。为了帮助说明数据集的用途，我们提供了三个实证应用，并强调了战略管理主要领域的研究机会。除了支持新的分析，BDS-HG还可以用来对研究样本进行基准测试，并评估其普遍性。管理总结：美国经济在企业增长动态方面经历了两个主要变化：高增长企业的份额持续下降，特别是在初创企业中，以及没有增长的企业显著增加。我们使用BDS-HG记录了这些模式，这是美国人口普查局的一个新公共使用数据集，追踪了1978年至2021年所有美国雇主企业的就业增长。数据按企业年龄、规模、行业、地理和年份进行细分，使用户能够检查各行业和地区的增长趋势。BDS-HG为寻求理解长期商业活力的研究人员、政策制定者和分析师提供了宝贵的资源。它还可以用来将研究样本与全国模式进行基准测试，帮助用户评估他们的数据或发现的代表性。",
+            "title_en": "When do nice guys finish last? Prosociality and the psychological model of <scp>CEO</scp> ‐firm matching",
+            "title_zh": "好人何时会落后？亲社会性与CEO-公司匹配的心理模型",
+            "url": "https://doi.org/10.1002/smj.70046",
+            "abstract_en": "Abstract Research Summary Prosocial CEOs, characterized by greater concern for their employees, enhance employee motivation but incur higher costs when implementing layoffs. We develop a psychological model of CEO‐firm matching wherein negative industry shocks requiring downsizing asymmetrically erode the match quality for prosocial CEOs. Leveraging increases in Chinese import competition, we show that layoff pressures lead to higher rates of both forced and voluntary turnover among prosocial CEOs. They are succeeded by less prosocial CEOs who are externally recruited, use less employee‐friendly language, lean Republican in political orientation, or are less likely to volunteer at charities. Our study highlights psychological characteristics as a key consideration in the executive labor market and draws attention to the “first‐stage” selection dynamics that shape the types of CEOs who lead firms. Managerial Summary Which firms CEOs choose to join and which CEOs are selected or retained by boards depend not only on their skills but also on the fit between their ‘personality’ and the firm's needs. We show that during industry downturns that require aggressive downsizing, prosocial CEOs are more likely to depart voluntarily, and boards actively replace them with low‐prosocial “wartime” CEOs. This dynamic nature of the CEO‐firm fit provides insights into why and when previously effective leadership may become ineffective and empirical grounds for the common distinction between peacetime and wartime CEOs. A key implication is that increasing Chinese import competition has shaped not only firm economic activities but also the psychological profiles of business leaders.",
+            "abstract_zh": "摘要研究总结：以对员工更加关心为特征的亲社会型CEO能够增强员工动力，但在实施裁员时会产生更高的成本。我们构建了一个CEO与公司匹配的心理模型，其中负面行业冲击导致的裁员需求会不对称地侵蚀亲社会型CEO的匹配质量。利用中国进口竞争的增加，我们表明裁员压力导致亲社会型CEO的被迫和自愿离职率更高。他们被较少亲社会的CEO接替，这些CEO通常是外部招聘的，使用较少员工友好的语言，政治倾向偏向共和党，或较少参与慈善志愿活动。我们的研究强调了心理特征在高管劳动市场中的关键考量，并提请注意塑造领导公司类型CEO的“第一阶段”选择动态。管理总结：公司CEO选择加入的公司以及董事会选择或保留的CEO不仅取决于他们的技能，还取决于他们与公司需求之间的“个性”契合度。我们表明，在需要积极裁员的行业低迷时期，亲社会型CEO更有可能自愿离职，董事会积极用低亲社会型“战时”CEO替换他们。CEO与公司契合的这种动态性质为之前有效的领导何时可能变得无效提供了洞见，并为和平时期与战时CEO之间的常见区分提供了经验基础。一个关键含义是，中国进口竞争的增加不仅塑造了公司经济活动，还塑造了商业领袖的心理特征。",
             "matched_topics": [
-              "企业创新"
+              "国际贸易"
             ]
           },
           {
-            "title_en": "Pollution havens versus gates of hell: Environmental pollution and multinationals' foreign investment",
-            "title_zh": "污染避难所与地狱之门：环境污染与跨国公司的对外投资",
-            "url": "https://doi.org/10.1002/smj.70039",
-            "abstract_en": "Abstract Research Summary This study investigates an under‐explored cost of operating in pollution havens: the pollution‐induced operational cost , or the increased labor costs and material supply constraints resulting from host countries' environmental pollution. Environmental degradation can thus turn “pollution havens,” where lax compliance beckons institutional arbitrage and attracts investments from foreign firms, into “gates of hell,” where ecological damage heightens the costs for business operations and discourages foreign investments. We find evidence in a panel of US multinational corporations from 2007 to 2020. A firm's investment in a host country is decreasing in the host country's environmental pollution, especially if the firm faces heightened constraints in finding alternative labor inputs and material supplies or is highly dependent on these resources. Managerial Summary Our findings offer practical insights for multinational corporate managers and policymakers. First, managers need to evaluate the opportunity of arbitrage against the cost of operation associated with environmental pollution, especially considering their firm's labor and material supply constraints. Second, policymakers should consider the price of relaxing environmental regulations to attract foreign investments. While weak environmental policies may spur investment from arbitraging firms into a (developing) country, unregulated destruction of the natural environment will inflict inevitable operational costs to destroy broader business opportunities, as the crucial resources (e.g., labor inputs and material supplies) become degraded by pollution.",
-            "abstract_zh": "摘要研究总结 本研究探讨了在污染避难所运营的一个未充分探讨的成本：污染引起的运营成本，即东道国环境污染导致的劳动力成本增加和物资供应限制。环境退化因此可能将“污染避难所”——在这些地方，宽松的合规吸引制度套利并吸引外国公司投资——变成“地狱之门”，在这些地方，生态破坏增加了商业运营的成本并抑制了外国投资。我们在2007年至2020年的美国跨国公司面板数据中发现了证据。一家公司在东道国的投资随着东道国环境污染的增加而减少，特别是如果该公司在寻找替代劳动力投入和物资供应方面面临更高的限制，或者高度依赖这些资源。管理总结 我们的发现为跨国公司经理和政策制定者提供了实际的洞见。首先，经理需要评估套利机会与环境污染相关的运营成本，特别是考虑到他们公司的劳动力和物资供应限制。其次，政策制定者应该考虑放松环境法规以吸引外国投资的代价。虽然薄弱的环境政策可能会刺激套利公司投资进入一个（发展中）国家，但对自然环境的无监管破坏将不可避免地增加运营成本，破坏更广泛的商业机会，因为关键资源（例如，劳动力投入和物资供应）因污染而退化。",
+            "title_en": "When do firms learn by hiring? How complexity moderates the value of new knowledge",
+            "title_zh": "企业何时通过招聘学习？复杂性如何调节新知识的价值",
+            "url": "https://doi.org/10.1002/smj.70061",
+            "abstract_en": "Abstract Research Summary Organizations often hire employees hoping to acquire new knowledge. While the literature has paid considerable attention to the role of the characteristics of the source of knowledge, the recipient firm, and the knowledge being transferred, it has largely overlooked those of the knowledge being replaced. Using a computational model, we examine how the pre‐existing knowledge of the hiring firm—specifically its degrees of internal and external fit—influences its ability to learn. Our findings suggest that firms with lower internal fit absorb new knowledge more quickly, even when controlling for initial external fit. We identify several mechanisms driving this dynamic, demonstrating how persistent resistance to new knowledge and sudden shifts can emerge solely through mutual learning dynamics between individuals and organizations, independent of social or cognitive constraints. Managerial Summary Companies frequently hire employees from competitors to gain new knowledge and improve performance. We show that success in learning by hiring depends not only on who firms hire but also on the characteristics of their existing knowledge. Our findings reveal two counterintuitive dynamics. First, firms whose practices exhibit a high degree of fit face greater difficulty in absorbing new knowledge. Such extant knowledge is stickier, as incumbent employees find it harder to abandon their old approaches and keep pulling the organization back to the status quo. Second, in complex environments, struggling firms that hire aggressively may learn less effectively, as multiple hires provide conflicting advice. Thus, while such firms stand to learn more from hiring, the internal dynamics of learning within the organization frustrate the firm's effort to absorb the knowledge. We subsequently present and analyze the mechanisms responsible for these outcomes.",
+            "abstract_zh": "摘要研究总结：组织经常雇佣员工以获取新知识。虽然文献对知识源的特征、接收公司和被转移知识的角色给予了相当大的关注，但它们大多忽视了被替代知识的特征。利用计算模型，我们检验了雇佣公司的既有知识——特别是其内部和外部契合度——如何影响其学习能力。我们的发现表明，即使在控制初始外部契合度的情况下，内部契合度较低的公司也能更快地吸收新知识。我们识别了驱动这种动态的几个机制，展示了如何仅通过个体和组织之间的相互学习动态，而不受社会或认知约束的影响，持续抵抗新知识和突然转变就可能出现。管理总结：公司经常从竞争对手那里雇佣员工以获得新知识并提高绩效。我们表明，通过雇佣学习的成功不仅取决于公司雇佣了谁，还取决于他们现有知识的特征。我们的发现揭示了两个违反直觉的动态。首先，实践表现出高度契合度的公司在吸收新知识方面面临更大的困难。这种现有知识更难以改变，因为现有员工发现放弃旧方法更难，并将组织不断拉回到现状。其次，在复杂环境中，积极雇佣的挣扎公司可能学习效果较差，因为多次雇佣提供了相互矛盾的建议。因此，尽管这些公司通过雇佣可以学到更多，但组织内部的学习动态阻碍了公司吸收知识的努力。我们随后提出并分析了这些结果背后的机制。",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Bottom‐up effects of female strategic leadership: Firm performance effects through employees",
-            "title_zh": "女性战略领导的自下而上效应：通过员工对公司绩效的影响",
-            "url": "https://doi.org/10.1002/smj.70038",
-            "abstract_en": "Abstract Research Summary Scholars have found that female representation in strategic leadership is often positively associated with firm performance, though the underlying mechanisms remain unclear. Prior explanations emphasize top‐down effects, considering how female leaders shape strategic decision‐making or influence legitimacy. We propose a complementary, bottom‐up view: female top managers foster employee participation, which is positively associated with firm performance. Using a unique panel dataset from South Korea, we find that female representation in top management is linked to higher employee participation, which mediates its relationship with firm performance. The benefits of employee participation are especially pronounced in firms with innovation‐oriented or labor‐intensive strategies. By integrating micro‐level employee behaviors with macro‐level firm outcomes, our study shows how female strategic leaders contribute to firm performance through a top‐enabled, bottom‐up process. Managerial Summary Why do firms with more women in top management perform better? Our study suggests that one important pathway lies in how female executives may foster employee participation. Drawing on a unique panel dataset from South Korea, we find that organizations with more women in top management tend to have higher levels of employee participation in decision‐making, and that such participation is associated with stronger performance outcomes. This effect is especially evident in firms that depend on innovation or human capital, where employee input and commitment are particularly valuable. By highlighting how female strategic leaders help create conditions that elevate employee voice, our findings reveal a bottom‐up process through which strategic leadership diversity may support improved organizational performance.",
-            "abstract_zh": "摘要研究总结 学者们发现，女性在战略领导层的代表性通常与公司绩效正相关，尽管其背后的机制尚不清楚。先前的解释强调自上而下的影响，考虑女性领导者如何塑造战略决策或影响合法性。我们提出了一个补充性的自下而上的视角：女性高层管理者促进员工参与，这与公司绩效正相关。利用韩国独特的面板数据集，我们发现高层管理中女性代表性与员工参与度更高有关，这种参与度在公司绩效关系中起到了中介作用。在以创新为导向或劳动密集型的公司中，员工参与的好处尤为明显。通过将微观层面的员工行为与宏观层面的公司结果相结合，我们的研究表明，女性战略领导者通过自上而下、自下而上的过程促进公司绩效。管理总结 为什么高层管理中女性更多的公司表现更好？我们的研究表明，一个重要的途径可能在于女性高管如何促进员工参与。基于韩国独特的面板数据集，我们发现高层管理中女性更多的组织往往在决策中拥有更高水平的员工参与度，这种参与度与更强的绩效结果相关。在依赖创新或人力资本的公司中，这种效应尤为明显，员工的投入和承诺特别有价值。通过强调女性战略领导者如何帮助创造提升员工声音的条件，我们的发现揭示了战略领导多样性可能支持提高组织绩效的自下而上的过程。",
+            "title_en": "The technological uniqueness paradox",
+            "title_zh": "技术独特性悖论",
+            "url": "https://doi.org/10.1002/smj.70043",
+            "abstract_en": "Abstract Research summary We establish a new paradox surrounding technological uniqueness, defined as the degree to which a firm's patented technology portfolio differs from its competitors. On the one hand, technological uniqueness acts as a barrier to incoming technology spillovers and impedes firm performance. On the other hand, technological uniqueness reduces outgoing technology spillovers and contributes to a strategic resource that is more costly to imitate. We empirically examine these competing arguments and find evidence that the strategic resource argument dominates for average firms in the data with more technologically unique firms performing better. At the same time, we show that pursuing technological uniqueness is costly, as unique firms indeed benefit less from incoming technology spillovers, are harder to understand by equity analysts and have higher costs of equity capital. Managerial Summary We establish empirically for a sample of public corporations that being technologically unique pays off‐companies with distinctive patent portfolios outperform their peers on average. This uniqueness creates a competitive moat that is difficult for rivals to overcome. But there is a catch: the same uniqueness that protects a company also isolates it. When technology is so different from conventional wisdom, it becomes difficult for outsiders to understand, then a contrarian company will also struggle to learn from others' breakthroughs. We empirically document a double penalty: contrarian companies benefit less from innovations by peer firms and equity analysts can't easily evaluate the business, driving up the cost of capital.",
+            "abstract_zh": "摘要研究总结 我们建立了一个新的悖论，围绕技术独特性展开，即公司专利技术组合与其竞争对手的差异程度。一方面，技术独特性作为进入技术溢出的障碍，阻碍了公司绩效。另一方面，技术独特性减少了外溢技术溢出，并有助于形成更难以模仿的战略资源。我们实证检验了这些相互竞争的观点，并发现对于数据中平均公司而言，战略资源论点占主导地位，技术独特的公司表现更好。同时，我们展示了追求技术独特性是有成本的，因为独特的公司确实从进入技术溢出中受益较少，更难被股权分析师理解，并且股权资本成本更高。 管理总结 我们为一组上市公司的样本实证建立了技术独特性是值得的——拥有独特专利组合的公司平均表现优于同行。这种独特性创造了一个难以克服的竞争护城河。但有一个问题：保护公司的相同独特性也使其孤立。当技术与常规智慧如此不同时，外界很难理解，那么一个逆向公司也将难以从他人的突破中学习。我们实证记录了双重惩罚：逆向公司从同行公司的创新中受益较少，股权分析师无法轻松评估业务，推高了资本成本。",
             "matched_topics": [
-              "国际贸易",
               "企业创新"
             ]
           }
@@ -1476,131 +1367,134 @@
         "query_name": "Management Science",
         "issn": "0025-1909",
         "resolved_name": "Management Science",
-        "issue_title": "Volume 72, Issue 3",
+        "issue_title": "Volume 72, Issue 4",
         "issue_url": "https://pubsonline.informs.org/journal/mnsc",
         "matched_count": 12,
-        "total_in_issue": 13,
+        "total_in_issue": 17,
         "papers": [
           {
-            "title_en": "Firm Commitments",
-            "title_zh": "企业承诺",
-            "url": "https://doi.org/10.1287/mnsc.2024.07298",
-            "abstract_en": "A growing fraction of companies globally have made commitments to reduce their carbon emissions by a certain date. Whereas the companies that make commitments subsequently reduce their emissions, the effect on overall emissions of companies (including those that do not commit) has been small. The companies that commit and those that make the most ambitious commitments tend to have lower emissions; firm commitments are less prevalent in countries where governments have made national commitments. Overall, the commitment movements have been successful in drawing the willing but have found greater resistance from the companies that most need to reduce their emissions. This paper was accepted by Caroline Flammer, sustainability. Funding: This work was supported by Horizon Europe Climate, Energy and Mobility [Grant ERC-AG 885552] from the European Research Council (ERC) under the ERC Advanced Grant program “Investors and Climate Change.” Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07298 .",
-            "abstract_zh": "全球越来越多的公司承诺在特定日期前减少碳排放。尽管做出承诺的公司随后确实减少了排放，但对公司总体排放量（包括那些没有承诺的公司）的影响很小。做出承诺的公司以及那些做出最雄心勃勃承诺的公司往往排放量较低；在政府已做出国家承诺的国家，公司承诺的普及率较低。总体而言，承诺运动成功地吸引了愿意参与的公司，但在那些最需要减少排放的公司中遇到了更大的阻力。本文由卡罗琳·弗拉默（Caroline Flammer）接受，主题为可持续性。资金来源：这项工作得到了欧洲研究委员会（ERC）在“投资者与气候变化”高级资助计划下，由欧洲地平线气候变化、能源和流动性项目[Grant ERC-AG 885552]的支持。补充材料：在线附录和数据文件可在 https://doi.org/10.1287/mnsc.2024.07298 查阅。",
+            "title_en": "Improving Transparency and Verifiability in School Admissions: Theory and Experiment",
+            "title_zh": "提升学校招生的透明度和可验证性：理论与实验",
+            "url": "https://doi.org/10.1287/mnsc.2023.00105",
+            "abstract_en": "Students participating in centralized admissions procedures do not typically have access to the information used to determine their matched school, such as other students’ preferences or school priorities. This can lead to doubts about whether their matches were computed correctly (the “verifiability problem”) or, at a deeper level, whether the promised admissions procedure was even used (the “transparency problem”). In a model that spans many popular applications, we show how these problems can be addressed by providing appropriate feedback to students without disclosing sensitive information like other students’ preferences or school priorities. In particular, we show that the verifiability problem can be solved by (1) publicly communicating “cutoffs” (the minimum scores required to be eligible for each school) or (2) using “single-school” preference elicitation procedures that convey rich “experiential” information. In our main result, we show that the transparency problem can be solved by using cutoffs and single-school elicitation procedures together. We find strong support for these solutions in a laboratory experiment and show how they can be implemented for popular school admissions applications involving top trading cycles, and deferred and immediate acceptance. This paper was accepted by Yan Chen, behavioral economics and decision analysis. Funding: The authors acknowledge financial support from the Swiss National Science Foundation [Project 100018_207722]. Views expressed are personal and do not reflect the views of the organization. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00105 .",
+            "abstract_zh": "参与集中招生程序的学生通常无法获取用于确定他们匹配学校的信息，例如其他学生的偏好或学校的优先级。这可能导致他们对匹配结果是否正确计算（“可验证性问题”）产生怀疑，或者在更深层次上，是否使用了承诺的招生程序（“透明度问题”）。在一个涵盖许多流行应用的模型中，我们展示了如何通过向学生提供适当的反馈来解决这些问题，而无需披露敏感信息，如其他学生的偏好或学校的优先级。特别是，我们展示了可以通过（1）公开传达“分数线”（获得每所学校资格所需的最低分数）或（2）使用“单校”偏好征集程序来传达丰富的“体验性”信息来解决可验证性问题。在我们的主要结果中，我们展示了通过结合使用分数线和单校征集程序可以解决透明度问题。我们在实验室实验中为这些解决方案找到了强有力的支持，并展示了它们如何可以应用于涉及顶级交易周期以及延期和即时接受的流行学校招生应用。本文由Yan Chen接受，行为经济学和决策分析。资金：作者感谢瑞士国家科学基金会[项目100018_207722]的财政支持。表达的观点是个人意见，不代表组织的观点。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.00105找到。",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Does Privacy Regulation Harm Content Providers? A Longitudinal Analysis of the Impact of the GDPR",
-            "title_zh": "隐私法规会损害内容提供商吗？GDPR影响的纵向分析",
-            "url": "https://doi.org/10.1287/mnsc.2022.03186",
-            "abstract_en": "Concerns that the European General Data Protection Regulation (GDPR) would adversely affect the ability of news and media websites to create new quality content have not been thoroughly investigated in the literature. We construct a longitudinal data set of European Union (EU) and U.S. news and media websites to study how online content providers responded to the GDPR over time and whether potential restrictions on online tracking enforced by the regulation affected their downstream outcomes. We find robust evidence that both EU and U.S. news and media websites responded to the regulation by altering their data collection practices, but did so differently, with EU websites reducing tracking and implementing consent mechanisms at higher rates than their U.S. counterparts. Although we detect a reduction in average page views per user on EU relative to U.S. websites, we do not find evidence of negative impacts, in both the short and long term, on EU websites’ provision of new content or on several proxies for quality of that content, such as social media engagement metrics, various traffic measures, and articles’ text analytics. We also find no evidence of differences in survival rates across EU and U.S. news and media websites, and no evidence that monetization strategies changed at higher rates on EU relative to U.S. websites. The analysis suggests that EU online content providers did implement changes to their data collection practices in response to the GDPR but were able to use data minimization and consent mechanism strategies that allowed them to keep producing content and engage audiences at degrees on par with their U.S. counterparts. This paper was accepted by D. J. Wu, information systems. Funding: The authors gratefully acknowledge support from the Alfred P. Sloan Foundation, CARNOT Télécom & Société numérique, DATAIA Convergence Institute (as part of the Programme d’Investissement d’Avenir [Grant ANR-17-CONV-0003] operated by Institut Mines Telecom, Business School Project YPOOG), the French National Research Agency [Grant ANR-21-CE23-0031-02], and the National Science Foundation [Awards 2237327, 2237328, and 2237329]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.03186 .",
-            "abstract_zh": "摘要： 文献中尚未充分研究欧洲通用数据保护条例（GDPR）可能对新闻和媒体网站创造新优质内容能力产生的不利影响。我们构建了一个包含欧盟（EU）和美国新闻及媒体网站的纵向数据集，以研究在线内容提供商如何随时间响应GDPR，以及该条例强制执行的在线跟踪潜在限制是否影响了它们的下游结果。我们发现有力的证据表明，欧盟和美国新闻及媒体网站都通过改变数据收集实践来响应该条例，但方式不同，欧盟网站比美国网站更大幅度地减少了跟踪并实施了同意机制。尽管我们检测到欧盟网站相对于美国网站每用户平均页面浏览量有所减少，但我们没有发现对欧盟网站提供新内容或多个内容质量代理指标（如社交媒体参与度指标、各种流量度量和文章文本分析）在短期和长期内产生负面影响的证据。我们还发现欧盟和美国新闻及媒体网站的生存率没有差异，也没有证据表明欧盟相对于美国网站的货币化策略变化率更高。分析表明，欧盟在线内容提供商确实响应GDPR实施了数据收集实践的变更，但能够使用数据最小化和同意机制策略，使它们能够保持与美国同行相当的生产内容和吸引观众的程度。本文由D. J. Wu，信息系统接受。资金：作者感谢阿尔弗雷德P.斯隆基金会、CARNOT Télécom & Société numérique、DATAIA Convergence Institute（作为Programme d’Investissement d’Avenir [Grant ANR-17-CONV-0003]的一部分，由Institut Mines Telecom运营，Business School Project YPOOG）、法国国家研究署[Grant ANR-21-CE23-0031-02]和国家科学基金会[Awards 2237327、2237328和2237329]的支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2022.03186找到。",
+            "title_en": "Access to Debt and the Provision of Trade Credit",
+            "title_zh": "债务获取与贸易信贷的提供",
+            "url": "https://doi.org/10.1287/mnsc.2023.04090",
+            "abstract_en": "We examine how access to debt markets affects firms’ incentives to provide trade credit. Using hand-collected trade credit data between customer-supplier pairs and two exogenous shocks to firms’ debt capacity, we show that better access to debt reduces firms’ provision of trade credit per dollar of sales. The decline in trade credit is concentrated on ex ante powerful customers, but absent for weak ones, suggesting that better access to debt improves firms’ bargaining position relative to powerful customers. The decline in trade credit leads customers to cut investment, increase leverage, and scale back trade credit provision to firms further downstream. This paper was accepted by Camelia Kuhnen, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04090 .",
+            "abstract_zh": "我们研究了企业获得债务市场融资对其提供贸易信贷的激励有何影响。利用手工收集的顾客-供应商之间的贸易信贷数据以及企业债务能力的两个外生冲击，我们发现更好的债务融资渠道减少了企业每销售一美元提供的贸易信贷。贸易信贷的下降集中在事先具有较强议价能力的顾客身上，而对较弱的顾客则没有影响，这表明更好的债务融资渠道提高了企业相对于强大顾客的议价地位。贸易信贷的下降导致顾客减少投资、增加杠杆，并缩减对下游企业的贸易信贷供应。本文由Camelia Kuhnen审稿，属于财务领域。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.04090 查阅。",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Capital Structure Effects Associated with the New Lease Accounting Standard",
+            "title_zh": "与新租赁会计准则相关的资本结构效应",
+            "url": "https://doi.org/10.1287/mnsc.2024.04447",
+            "abstract_en": "This study finds that the requirement of Accounting Standard Codification (ASC) 842 for firms to capitalize operating leases in financial statements beginning in 2019 resulted in firms affected by the standard reducing the reliance on existing debt (debt not associated with the capitalization of operating leases) by 7%–10% on average relative to unaffected firms. We find that firms with greater operating lease capitalization as a result of implementation of ASC 842 have the largest reductions in the reliance on existing debt. In addition, the relative decrease in existing debt associated with adoption of the standard is concentrated among firms whose debt contracts are less likely to be based on a fixed set of accounting standards, those with a higher likelihood of violating loan covenants, and those whose capital structures are more affected by the standard relative to other firms in their industry. Taken together, these findings suggest that contracting costs play a significant role in firms’ relative decrease in existing debt following implementation of ASC 842. Much of the related literature on ASC 842 documents efforts to reduce the impact of the lease standard prior to adoption. In contrast, our findings suggest that firms were unable to offset completely the increased leverage effects from the adoption of the standard, resulting in affected firms additionally reducing their reliance on existing debt. This paper was accepted by Suraj Srinivasan, accounting. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04447 .",
+            "abstract_zh": "本研究发现，自2019年起会计准则编纂（ASC）842要求企业在财务报表中将经营租赁资本化，导致受该准则影响的企业相对于未受影响企业平均减少了7%至10%对现有债务（与经营租赁资本化无关的债务）的依赖。我们发现，由于实施ASC 842导致经营租赁资本化程度更高的企业，在对现有债务的依赖上降幅最大。此外，与采用该准则相关的现有债务相对减少主要集中在不太可能基于固定会计准则集的债务合同企业、违反贷款契约可能性更高的企业，以及相对于同行业其他企业的资本结构受该准则影响更大的企业。综合这些发现表明，合同成本在企业实施ASC 842后对现有债务的相对减少中扮演了重要角色。关于ASC 842的相关文献大多记录了在采用该租赁准则之前减少其影响的努力。相比之下，我们的发现表明，企业无法完全抵消采用该准则带来的杠杆效应增加，导致受影响的企业进一步减少了对现有债务的依赖。本文由Suraj Srinivasan审稿，会计。补充材料：数据文件可在https://doi.org/10.1287/mnsc.2024.04447获取。",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Dynamic Control of a Make-to-Order System Under Model Uncertainty",
-            "title_zh": "面向订单生产系统在模型不确定性下的动态控制",
-            "url": "https://doi.org/10.1287/mnsc.2023.01820",
-            "abstract_en": "Deriving control policies for a make-to-order manufacturing system is often predicated on a well-specified probabilistic model that governs demand realization. In practice, however, such a model may be a simplification of the actual scenario because of tractability considerations. Consequently, policies obtained under such simplifications may perform poorly if the assumed model does not accurately capture reality. In this paper, we propose a modeling paradigm that can generate control policies based on a simplified model, accounting for possible model errors that may result. The make-to-order system offers multiple products and has an outsourcing mechanism. Our focus is on addressing deliberate model simplification for the demand realization process. We formulate a robust control problem that takes the form of a two-player, zero-sum game. Because the original formulation is not tractable enough, we further develop an approximating problem under the heavy-traffic assumption that effectively results in a stochastic differential game. The solution to this game then translates into an implementable control policy for the original make-to-order system. We supplement the proposed modeling paradigm with a simulation-based method for selecting an appropriate uncertainty set. Numerical experiments expose, among other things, the value of building robustness into decision making. This paper was accepted by Barış Ata, stochastic models and simulation. Funding: X. Zhu’s work is supported by the National Natural Science Foundation of China (NSFC) [Grants 72401124 and 72394363/72394360]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01820 .",
-            "abstract_zh": "为按订单制造系统制定控制策略通常基于一个明确的概率模型，该模型控制需求实现。然而，在实践中，由于可处理性考虑，这样的模型可能是实际场景的简化。因此，如果假设的模型不能准确捕捉现实，那么在这种简化下获得的策略可能表现不佳。在本文中，我们提出了一种建模范式，可以根据简化模型生成控制策略，同时考虑可能导致的模型误差。按订单系统提供多种产品，并具有外包机制。我们的重点是解决需求实现过程中的故意模型简化。我们构建了一个鲁棒控制问题，其形式为两人零和博弈。由于原始表述不够可处理，我们进一步在重流量假设下开发了一个近似问题，有效地导致了一个随机微分博弈。这个博弈的解决方案随后转化为原始按订单系统的可实施控制策略。我们用基于模拟的方法补充了所提出的建模范式，以选择适当的不确定性集。数值实验揭示了在决策中构建鲁棒性的价值等。本文由Barış Ata接受，随机模型和模拟。资金：朱X的工作由中国国家自然科学基金（NSFC）[Grants 72401124和72394363/72394360]支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.01820找到。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Effects of the 2021 Expanded Child Tax Credit",
-            "title_zh": "2021年扩大儿童税收抵免的影响",
-            "url": "https://doi.org/10.1287/mnsc.2023.02254",
-            "abstract_en": "We analyze the impact of the 2021 Child Tax Credit (CTC) expansion using detailed transaction data from nearly two million individuals and difference-in-difference analyses around monthly CTC payments. We find that recipients significantly increase their consumption in the week following the payment versus the prior week, with more pronounced effects for lower-income recipients and those with more children. We also find a significant reduction in liquidity constraints for lower-income recipients, with reductions in overdrafts, use of high-interest payday loans, and use of gig work for supplemental income. Building on these initial findings, our analysis further delves into more nuanced, policy-targeted aspects: We observe a greater alleviation of liquidity constraints from monthly CTC payments compared with annual tax refunds. In addition, monthly payments decrease consumption volatility and increase stability in consumption levels. These results inform considerations for payment frequency. Furthermore, we provide insights into the income thresholds for the policy’s phase-in and phase-out ranges by identifying the most pronounced consumption effects among the lowest-income recipients—who benefit from full refundability under the plan—and noting an absence of significant consumption changes among higher-income recipients. Our results present the first large-scale, transaction-based, empirical archival evidence of the effects stemming from the 2021 CTC amendments and provide insights for policy-related discussions. This paper was accepted by Eric So, accounting. Funding: We acknowledge funding from the Think Forward Initiative and the University of California, Irvine, and the U See I Write initiative at the University of California, Irvine, for focused writing retreats which facilitated the writing of this manuscript. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.02254 .",
-            "abstract_zh": "我们利用近两百万人的详细交易数据和围绕每月儿童税收抵免（CTC）支付的差异-差异分析，分析了2021年儿童税收抵免（CTC）扩展的影响。我们发现，与前一周相比，接受者在支付后的一周内显著增加了消费，对于低收入接受者和有更多孩子的家庭，这种效应更为明显。我们还发现，低收入接受者的流动性约束显著减少，表现为透支减少、高利贷日贷款使用减少以及为补充收入而从事零工工作的减少。在这些初步发现的基础上，我们的分析进一步深入探讨了更微妙、针对性更强的政策方面：我们观察到，与年度退税相比，每月CTC支付对缓解流动性约束的作用更大。此外，每月支付减少了消费波动，增加了消费水平的稳定性。这些结果为支付频率的考虑提供了信息。此外，我们通过识别在计划下完全可退还的最低收入接受者中消费效应最明显，并注意到高收入接受者中没有显著的消费变化，为政策的逐步引入和逐步淘汰范围提供了收入阈值的见解。我们的结果提供了2021年CTC修正案影响的第一项大规模、基于交易的实证档案证据，并为政策相关讨论提供了见解。本文由Eric So接受，会计。资金：我们感谢Think Forward Initiative和加州大学欧文分校以及加州大学欧文分校的U See I Write initiative为集中写作静修提供资金，这有助于撰写本文。补充材料：数据文件可在https://doi.org/10.1287/mnsc.2023.02254找到。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Market Design Choices, Racial Discrimination, and Equitable Microentrepreneurship in Digital Marketplaces",
-            "title_zh": "市场设计选择、种族歧视与数字市场中的公平微型创业",
-            "url": "https://doi.org/10.1287/mnsc.2023.01717",
-            "abstract_en": "This study investigates the potential of market design choices, specifically quality certification, to mitigate racial discrimination in digital marketplaces. Using a regression discontinuity design (RDD) that exploits the discontinuity in Airbnb’s Superhost assignment, we find that Black hosts benefit 1.5 times more from the quality certification than other hosts. Moreover, we find compelling evidence that this disproportionate increase does not come at the expense of non-Superhost Black hosts. This suggests that quality certification can effectively reduce discrimination and promote equitable outcomes. Further, our analysis utilizing a doubly robust machine learning approach reveals that the effectiveness of quality certification persists even in the prominent presence of consumer reviews, a widely used market feature and a credible user-generated quality signal. Our research underscores the judicious use of market design in fostering equity for minority entrepreneurs in digital marketplaces. This paper was accepted by Hemant Bhargava, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01717 .",
-            "abstract_zh": "本研究探讨了市场设计选择，特别是质量认证，对减轻数字市场中种族歧视的潜力。利用回归不连续设计（RDD），我们利用Airbnb超级房东分配中的不连续性，发现黑人房东从质量认证中获益比其他房东多1.5倍。此外，我们发现有力证据表明，这种不成比例的增加并没有以牺牲非超级房东黑人房东为代价。这表明质量认证可以有效减少歧视，促进公平结果。进一步地，我们利用双重稳健的机器学习方法进行的分析揭示，即使在消费者评论这一广泛使用且可信的用户生成质量信号的显著存在下，质量认证的有效性仍然持续存在。我们的研究强调了在数字市场中促进少数族裔企业家公平的审慎市场设计使用。本文由Hemant Bhargava，信息系统接受。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.01717 查阅。",
+            "title_en": "Boardroom Centrality and Systematic Risk of Firms",
+            "title_zh": "董事会中心性与企业系统性风险",
+            "url": "https://doi.org/10.1287/mnsc.2020.01240",
+            "abstract_en": "We find that boardroom centrality increases the market beta of firms. The higher stock returns of firms with high boardroom centrality diminish and turn statistically insignificant after controlling for market betas. The effect can be attributed to a comovement in accounting fundamentals and financial policies. Overall, these findings highlight the fact that the social networks of corporate leaders (i.e., directors of corporate boards) can have a substantial effect on firms’ systematic risk exposure. This paper was accepted by Suraj Srinivasan, accounting. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72272168, 72472169], the Major Project of Key Research Bases of Humanities and Social Sciences of the Ministry of Education [Grant 22JJD790047], the Beijing Natural Science Foundation [Grant 9232020], the Special Project of Humanities in Tsinghua University’s Independent Research Program [2021THZWYY09], the 2024 Special Project for Innovation Oriented Development in the “Double High” Plan of Humanities Construction, and the “Influence Enhancement Plan” project at the School of Economics and Management of Tsinghua University [Grant 2022051006]. The authors also thank China’s Management Accounting Research & Development Center in Central University of Finance and Economics for financial support. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.01240 .",
+            "abstract_zh": "我们发现，董事会中心性提高了公司的市场贝塔系数。在控制市场贝塔系数后，高董事会中心性公司的较高股票回报率降低并变得统计上不显著。这种效应可以归因于会计基础和财务政策的共同变动。总体而言，这些发现突出了企业领导者（即公司董事会成员）的社交网络对公司系统性风险暴露可能产生重大影响的事实。本文由Suraj Srinivasan接受，会计学。资金来源：这项工作得到了中国国家自然科学基金[Grants 72272168, 72472169]、教育部人文社会科学重点研究基地重大项目[Grant 22JJD790047]、北京市自然科学基金[Grant 9232020]、清华大学自主研究计划人文专项[2021THZWYY09]、2024年人文建设“双高”计划创新导向发展专项以及清华大学经济管理学院“影响力提升计划”项目[Grant 2022051006]的支持。作者还感谢中央财经大学管理会计研究与开发中心的财务支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2020.01240找到。",
             "matched_topics": [
               "企业创新",
               "创新药"
             ]
           },
           {
-            "title_en": "Not Good Enough, but Try Again! The Impact of Improved Rejection Communications on Contributor Retention and Performance in Open Knowledge Collaboration",
-            "title_zh": "不够好，但再试一次！改进拒绝沟通对开放知识协作中贡献者留存和表现的影响",
-            "url": "https://doi.org/10.1287/mnsc.2021.02720",
-            "abstract_en": "Producing high-quality content through open knowledge collaboration presents a dilemma. Successful quality control requires rejecting contributions that do not align with the aims of an open knowledge collaboration system, yet rejections demotivate new contributors from attempting further contributions. Building on research on the regulation of behavior in online communities and on organizational selection, we theorize how the way rejections are communicated affect new contributors. We leverage a change to the rejection notices used by the Stack Overflow community question-answering service to study the issue empirically. First, we use a regression discontinuity in time design to construct a natural experiment to estimate the average treatment effect of more informative rejection notices on the retention of initially rejected contributors. The results show that notices that better explain the reason for rejecting a contributor’s initial question—and therefore reduce uncertainty about the outcome if the contributor tries again—increase retention by approximately 21.7 percentage points. Second, we use a mediation model to study mechanisms by which more informative rejection notices affect contributor performance. We find that more informative notices affect contributor performance through selection rather than performance improvement. Additional contributors, who are retained because of the more informative rejection notices, ask more questions, on average, whereas we find no evidence of individual contributors improving their performance in terms of the quality or quantity of their contributions. Overall, the results suggest that rejection communications offer low-cost interventions to mitigate the trade-off between new contributor retention and the quality of contributions in open knowledge collaboration. This paper was accepted by Hemant Bhargava, information systems. Funding: Financial support from the Fox School of Business, Temple University (Young Scholar Interdisciplinary Forum) is gratefully acknowledged. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.02720 .",
-            "abstract_zh": "通过开放知识协作生产高质量内容面临着一个困境。成功的质量控制需要拒绝与开放知识协作系统目标不一致的贡献，但拒绝会降低新贡献者进一步贡献的积极性。基于在线社区行为规范和组织选择的研究，我们理论化了拒绝沟通方式如何影响新贡献者。我们利用Stack Overflow社区问答服务中使用的拒绝通知的变化，实证研究这个问题。首先，我们使用时间上的回归不连续设计构建了一个自然实验，以估计更具信息量的拒绝通知对最初被拒绝贡献者留存的平均处理效应。结果显示，更好地解释拒绝贡献者初始问题原因的通知——因此减少了贡献者再次尝试时对结果的不确定性——将留存率提高了约21.7个百分点。其次，我们使用中介模型研究更具信息量的拒绝通知如何影响贡献者表现的机制。我们发现，更具信息量的通知通过选择而非表现提升影响贡献者表现。由于更具信息量的拒绝通知而保留的额外贡献者平均提出更多的问题，而我们没有发现个别贡献者在贡献质量或数量方面的表现有所提升的证据。总体而言，结果表明，拒绝沟通提供了低成本的干预措施，以缓解开放知识协作中新贡献者留存与贡献质量之间的权衡。本文由Hemant Bhargava，信息系统接受。资金：感谢天普大学福克斯商学院（青年学者跨学科论坛）提供的财政支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2021.02720找到。",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "A Method for Asynchronous Time Series Analysis with Marketing Applications",
-            "title_zh": "一种具有营销应用的异步时间序列分析方法",
-            "url": "https://doi.org/10.1287/mnsc.2024.04336",
-            "abstract_en": "Many time series data evolve asynchronously. In marketing, for example, we observe ad liking every second, hourly clickstreams, daily sales, weekly brand awareness, or monthly ad expenditures. Thus, the question arises: how to estimate dynamic models when metrics evolve at different frequencies? To this end, we develop a new method for estimation and inference of state space models for asynchronous data. In contrast to existing approaches, the proposed method does not require any data preprocessing to align frequencies. We derive the optimal gain factor from first principles and demonstrate in three simulation studies that the new method recovers model parameters as accurately as the full-information Kalman filter as if all data were available. This finding holds across various degrees of noise levels and data sparsity. More importantly, we show that ignoring data asynchronicity results in substantially biased parameter estimates. Empirically, we illustrate the efficacy of the new method via two applications: copy testing of an advertisement and a marketing mix model, both with asynchronous data. It yields meaningful results compared with those obtained by aligning asynchronous data to the slowest frequency (i.e., data aggregation). In the marketing mix application, for example, data aggregation produces erroneously insignificant estimates of sales carryover and TV effectiveness, and these become significant when we apply the new method. These biased estimates can have serious managerial consequences. Thus, the proposed method paves the way to analyze asynchronous time series data: slow- or fast-moving dependent variables, slow- or fast-moving independent variables, and all of them at equal or unequal frequencies. This paper was accepted by Eric Anderson, marketing. Funding: This work was supported by the Marketing Science Institute [Grant 4-1959]. P. A. Naik acknowledges the financial support received from the University of California Davis travel and small research grants program across 2015–2024. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04336 .",
-            "abstract_zh": "许多时间序列数据以异步方式演变。例如，在市场营销中，我们观察到每秒的广告点赞、每小时的点击流、每日销售、每周品牌意识或每月广告支出。因此，问题出现了：当指标以不同频率演变时，如何估计动态模型？为此，我们开发了一种新的方法，用于估计和推断异步数据的状态空间模型。与现有方法不同，所提出的方法不需要任何数据预处理来对齐频率。我们从基本原理出发推导出最优增益因子，并在三项模拟研究中证明，新方法恢复模型参数的准确性与全信息卡尔曼滤波器一样，就好像所有数据都可用一样。这一发现适用于各种噪声水平和数据稀疏度。更重要的是，我们展示了忽略数据异步性会导致参数估计的显著偏差。从实证上，我们通过两个应用来说明新方法的有效性：广告副本测试和市场营销组合模型，两者都包含异步数据。与将异步数据对齐到最慢频率（即数据聚合）所获得的结果相比，它产生了有意义的结果。例如，在市场营销组合应用中，数据聚合产生了销售延续和电视效果的错误不显著估计，而当我们应用新方法时，这些变得显著。这些有偏估计可能会产生严重的管理后果。因此，所提出的方法为分析异步时间序列数据铺平了道路：慢速或快速移动的因变量、慢速或快速移动的自变量，以及它们以相等或不相等的频率出现。本文由埃里克·安德森接受，市场营销。资金：这项工作得到了市场营销科学研究所[Grant 4-1959]的支持。P.A. Naik感谢加州大学戴维斯分校在2015-2024年期间提供的旅行和小额研究资助计划的财政支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2024.04336找到。",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Uncertainty Risk Resolution Before Earnings Announcements",
-            "title_zh": "标题：盈利公告前的不确定性风险化解",
-            "url": "https://doi.org/10.1287/mnsc.2022.03240",
-            "abstract_en": "Data show that 72% of the earnings announcement premium is realized before, rather than after, earnings releases. We propose that uncertainty risk resolution before the announcement leads to large pre-announcement returns and test the uncertainty risk resolution hypothesis in the cross section. Compelling empirical evidence supports this hypothesis: an interquartile increase in the firm’s uncertainty level is associated with a 6.3% greater uncertainty reduction and 0.65% higher market-adjusted returns in the 10-day period before earnings announcements. We also provide evidence that there are two distinct channels for uncertainty risk resolution: information acquisition by investors and information supply by analysts and firm management. This paper was accepted by Lukas Schmid, finance. Funding: X. Zhang acknowledges financial support from the National Natural Science Foundation of China [Grant 72350710220]. Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03240 .",
-            "abstract_zh": "数据显示，72%的盈利公告溢价是在盈利公告之前而非之后实现的。我们提出，在公告前解决不确定性风险会导致公告前的大额回报，并在横截面上检验了不确定性风险解决假设。有力的实证证据支持这一假设：公司不确定性水平的四分位增加与盈利公告前10天内不确定性减少6.3%和市场调整后回报提高0.65%相关。我们还提供了证据，表明存在两个不同的不确定性风险解决渠道：投资者的信息获取和分析师及公司管理层的信息供应。本文由Lukas Schmid负责金融领域的审稿。资金来源：张X承认得到国家自然科学基金的财务支持[Grant 72350710220]。补充材料：互联网附录和数据文件可在https://doi.org/10.1287/mnsc.2022.03240 查阅。",
+            "title_en": "Economic Substance Behind Texas Political Anti-ESG Sanctions",
+            "title_zh": "德克萨斯州反ESG制裁背后的经济实质",
+            "url": "https://doi.org/10.1287/mnsc.2024.05180",
+            "abstract_en": "A stark contrast exists between the stated preferences of politicians in the so-called blue states (Democrats) and those in red states (Republicans) on environmental, social, and governance (ESG) matters. We examine whether these polarized political stances are reflected in the investment strategies of respective states’ pension funds. We examine a Texas directive that the state agencies divest from investment companies that profess a pro-ESG stance and allegedly “boycott” energy stocks. We find that funds banned by the Texas directive, despite carrying ESG-focused titles, are largely indexers with a tilt slightly away from energy stocks and slightly toward technology stocks. Banning such funds would make little difference to Texas pensioners or Texas energy companies, because the returns and stock holdings of banned funds are not meaningfully different from those of size-matched funds that do not proclaim an ESG focus. Pension funds in red states do not act per their politicians’ stance and largely follow market trends in their investment strategies. They have similar exposures to technology and energy stocks, as do pension funds in blue states. We conclude that the vehement pro– and anti–fossil fuel proclamations of blue and red states’ politicians, respectively, are not observed in their own state pension funds’ investment policies over which politicians have better control than on external funds. This paper was accepted by Ranjani Krishnan, accounting. Funding: The authors acknowledge financial support from the Social Sciences and Humanities Research Council of Canada. A. Srivastava acknowledges financial support from the Canada Research Chairs Program of the Government of Canada. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05180 .",
+            "abstract_zh": "在所谓的蓝州（民主党）和红州（共和党）的政治家在环境、社会和治理（ESG）问题上的声明偏好之间存在鲜明对比。我们检验这些两极分化的政治立场是否反映在各自州的养老基金投资策略中。我们检验了德克萨斯州的一项指令，该指令要求州机构从声称支持ESG立场并据称“抵制”能源股的投资公司撤资。我们发现，尽管被德克萨斯州指令禁止的基金带有以ESG为重点的名称，但它们大多是指数基金，只是略微偏离能源股，略微倾向于科技股。禁止这类基金对德克萨斯州的养老金领取者或德克萨斯州的能源公司几乎没有影响，因为被禁止基金的回报和股票持有量与不宣称ESG重点的规模匹配基金没有显著差异。红州的养老基金并不按照其政治家的立场行事，其投资策略主要遵循市场趋势。它们对科技股和能源股的敞口与蓝州的养老基金相似。我们得出结论，蓝州和红州政治家分别对化石燃料的强烈支持和反对声明，并没有在他们自己的州养老基金投资政策中得到体现，政治家对这些政策的控制力度比对外部基金要大。本文已被Ranjani Krishnan接受，会计学。资金来源：作者感谢加拿大社会科学和人文研究委员会的财政支持。A. Srivastava感谢加拿大政府的加拿大研究讲座计划的财政支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2024.05180找到。",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "When Rivalry Backfires: How Individual Skill and Risk of Status Loss Moderate the Effects of Rivalry on Performance",
-            "title_zh": "竞争适得其反：个人技能和地位丧失风险如何调节竞争对绩效的影响",
-            "url": "https://doi.org/10.1287/mnsc.2023.00344",
-            "abstract_en": "Existing rivalry research finds that people try harder and perform better when competing against their rivals. However, are there conditions under which rivalry can harm performance? We integrate rivalry theory with regulatory fit theory to propose two moderators of rivalry: individual skill and situational risk for status change. We test our predictions using data from software programming contests involving more than 4.6 million competitive encounters across 16,846 software developers (“coders”) to examine the causal effects of rivalry and the conditions under which it may backfire. We find that, on average, coders who are randomly assigned to compete against a field of competitors with whom they share a rivalrous history exhibit higher performance, above and beyond other established drivers of performance in competition. Importantly, however, this positive effect of rivalry is moderated by (1) coders’ skill level, such that rivalry is more beneficial for more skilled coders and is harmful for less skilled coders, and (2) coders’ risk of experiencing a status change, such that coders who face a possible status loss exhibit decreased performance when competing against rivals. Thus, we extend research on rivalry by revealing the conditions under which it can harm performance, which is vital to understanding its role in organizations. This paper was accepted by Sameer Srivastava, organizations. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00344 .",
-            "abstract_zh": "现有竞争研究发现，人们在与对手竞争时会加倍努力并表现得更好。然而，在什么条件下竞争可能会损害表现呢？我们将竞争理论与调节适应理论相结合，提出两个竞争的调节变量：个人技能和地位变化的风险情境。我们使用涉及超过468万次竞争性遭遇的16,846名软件开发人员（“编码员”）的软件编程竞赛数据来测试我们的预测，以检验竞争的因果效应以及它可能适得其反的条件。我们发现，平均而言，随机分配与他们有竞争历史的竞争对手竞争的编码员表现出更高的表现，超出了其他已建立的竞争表现驱动因素。然而，重要的是，这种竞争的积极效应受到（1）编码员的技能水平的调节，即竞争对技能更高的编码员更有益，对技能较低的编码员有害，以及（2）编码员经历地位变化的风险的调节，即面临可能地位丧失的编码员在与对手竞争时表现下降。因此，我们通过揭示竞争可能损害表现的条件，扩展了对竞争的研究，这对于理解其在组织中的作用至关重要。本文由Sameer Srivastava，组织接受。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.00344找到。",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "A Separation of Utility and Beliefs Through Betting Consistency",
-            "title_zh": "通过赌注一致性分离效用与信念",
-            "url": "https://doi.org/10.1287/mnsc.2023.01739",
-            "abstract_en": "For standard preferences under uncertainty, minimal requirements are proposed to identify cardinal utility and subjective, potentially nonadditive, beliefs. This is achieved through an application of betting consistency. This preference principle says that outcome midpoints derived from preferences over bets on an event are also midpoints when elicited from bets on a different event. This consistency requirement provides a simplified elicitation tool, while it also serves as a robustness test for utility measurements. An analyst can use betting consistency to identify a client’s cardinal utility index independent of the client’s beliefs. This follows from our simplified foundation for the biseparable utility model, the widely adopted framework for empirical measurements of utility under various sources of uncertainty. As a theoretical tool, betting consistency can be adopted to provide simple and intuitive foundations for new and for existing decision theories. For instance, an event-dependent version of betting consistency, if it is supplemented with Savage’s sure-thing principle or a version of that principle restricted to acts that satisfy Schmeidler’s comonotonicity property, delivers subjective expected utility or Choquet expected utility, as desired. We also demonstrate how models with specific nonadditive beliefs can easily be derived through bespoke formulations of betting consistency. This paper was accepted by Manel Baucells, behavioral economics and decision analysis.",
-            "abstract_zh": "在不确定性下的标准化偏好中，提出了识别基数效用和主观的、可能是非可加的信仰的最小要求。这是通过应用下注一致性来实现的。这一偏好原则表明，从对某一事件的赌注偏好中得出的结果中点，在从不同事件的赌注中引出时也是中点。这种一致性要求提供了一个简化的引出工具，同时它也作为效用测量的鲁棒性测试。分析人员可以使用下注一致性来识别客户的基数效用指数，而与客户的信仰无关。这是基于我们对双可分效用模型的简化基础，这是广泛采用的框架，用于在各种不确定性来源下对效用进行实证测量。作为一个理论工具，下注一致性可以被采用，为新的和现有的决策理论提供简单直观的基础。例如，如果事件依赖版本的下注一致性得到萨维奇的确定事物原则或限制在满足施梅德勒的共同单调性属性的行为上的该原则版本的补充，就可以得到主观期望效用或乔凯特期望效用，如所期望的。我们还展示了如何通过定制的下注一致性公式轻松推导出具有特定非可加信仰的模型。本文由行为经济学和决策分析的Manel Baucells接受。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Nominal Prices, Retail Investor Participation, and Return Momentum",
-            "title_zh": "名义价格、零售投资者参与度与回报动量",
-            "url": "https://doi.org/10.1287/mnsc.2023.01423",
-            "abstract_en": "We employ an identification strategy for retail participation to explore the link between return momentum and investing clientele. This scheme relies on strictly enforced round-lot rules in China, which financially constrain retail investors from participating in stocks with high nominal prices. We find that there is strong momentum in high-priced stocks but no momentum on aggregate. This result supports the idea that noise trades of retail investors mask momentum, whereas other more sophisticated investors contribute to momentum. We validate this notion by showing that retail investors with small (large) portfolios are less (more) prone to participating in stocks with high nominal prices. Further, small investor participation increases and momentum weakens following splits in high-priced stocks. Finally, we find that the positive relation between nominal prices and momentum extends to a considerable majority of international markets with round-lot rules. This paper was accepted by Lukas Schmid, finance. Funding: Y.-J. Liu acknowledges support from the National Natural Science Foundation of China [Grant 72172004]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01423 .",
-            "abstract_zh": "我们采用一种零售参与的识别策略来探索回报动量与投资客户之间的关系。这一方案依赖于中国严格执行的整数股规则，这在财务上限制了零售投资者参与高面值股票。我们发现高面值股票有很强的动量效应，但在总体上没有动量。这一结果支持了零售投资者的噪声交易掩盖了动量效应的观点，而其他更复杂的投资者则有助于动量效应。我们通过展示小（大）投资组合的零售投资者更不（更）可能参与高面值股票来验证这一观点。此外，在高面值股票拆分后，小投资者的参与增加，动量效应减弱。最后，我们发现面值与动量之间的正相关关系扩展到了大多数实行整数股规则的国际市场。本文由Lukas Schmid接受，财务。资金：刘宇军承认得到国家自然科学基金的资助[Grant 72172004]。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.01423找到。",
+            "title_en": "Ultra-Fresh Fashion: Creating Demand with Freshness and Agility",
+            "title_zh": "超新鲜时尚：以新鲜度和敏捷性创造需求",
+            "url": "https://doi.org/10.1287/mnsc.2024.06249",
+            "abstract_en": "Using agile supply chains, fast fashion companies have been viewed as best practice examples in industries. Prior research focuses on how agility can equip such companies with strong sense-and-respond capabilities to identify and fulfill unpredictable customer demands. There is another powerful dimension of agility—the ability to create new products frequently—that has enabled recent market success of companies such as Shein and Temu, labeled by some industry press as ultra-fast fashion. These companies, relying on end-to-end digital technologies, have pushed this dimension of agility to unprecedentedly high levels, launching new products with great frequency and variety. The frequent product launches create freshness, stimulating latent demands of consumers and making these companies “ultra-fresh” fashion, a term we adopt in this paper. We seek to model this dimension of agility as an operational strategy for demand creation. Our model enables us to explore the effects through the lens of profit to the firm, consumer surplus, and environmental impact. Our analysis reveals that frequent product launches, high variety, and low prices—the three salient features of ultra-fresh fashion—are driven by both the product design agility and the customers’ interest for product freshness. The ultra-fresh strategy allows steady profit increase for the firm and benefits consumers in aggregate but may cause negative environmental impact if left unchecked. This paper was accepted by Jay Swaminathan, operations management. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06249 .",
+            "abstract_zh": "使用敏捷供应链，快时尚公司被视为各行业的典范。先前的研究集中于敏捷性如何使这些公司具备强烈的感知和响应能力，以识别和满足不可预测的客户需求。敏捷性的另一个强大维度——频繁创造新产品的能力——使Shein和Temu等公司近期市场成功，一些行业媒体将其称为超快时尚。这些公司依赖端到端数字技术，将这一敏捷维度推向了前所未有的高水平，以极大的频率和多样性推出新产品。频繁的产品推出创造了新鲜感，激发了消费者的潜在需求，使这些公司成为“超新鲜”时尚，这是本文采用的术语。我们试图将这一敏捷维度建模为创造需求的运营策略。我们的模型使我们能够通过公司利润、消费者剩余和环境影响的视角探索效果。我们的分析揭示，频繁的产品推出、高多样性和低价格——超新鲜时尚的三个显著特征——是由产品设计敏捷性和客户对产品新鲜度的兴趣共同驱动的。超新鲜战略使公司利润稳步增长，总体上使消费者受益，但如果不加控制，可能会造成负面环境影响。本文由Jay Swaminathan接受，运营管理。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2024.06249找到。",
             "matched_topics": [
               "国际贸易",
               "创新药"
             ]
           },
           {
-            "title_en": "Long-Run Returns to Private Equity in Emerging Markets",
-            "title_zh": "新兴市场中私募股权的长期回报",
-            "url": "https://doi.org/10.1287/mnsc.2023.03313",
-            "abstract_en": "We provide the first evidence on the long-run returns to private equity in emerging and frontier markets using the cash flows from every equity investment made by the International Finance Corporation across 130 countries over 58 years. Risk-adjusted returns are comparable to the S&P 500, at least from 1961 until 2010. Returns improve with economic growth but decline as banking systems deepen and countries relax capital controls. These results are consistent with the thesis that financial frictions have prevented the flow of capital from rich to poor countries and that the persistence of impact investors’ performance may rely on identifying or creating new markets that lack access to capital. This paper was accepted by Agostino Capponi, finance. Conflict of Interest Statement: Shawn Cole served five days as a “Short Term Consultant” to the IFC in 2018–19 and in a non-compensated advisory role for Y Analytics, a subsidiary of impact investor TPG/Rise. Martin Melecky, Florian Mölders, and Tristan Reed are employees of the World Bank Group. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03313 .",
-            "abstract_zh": "我们首次提供了有关新兴市场和前沿市场私募股权长期回报的证据，使用了国际金融公司在58年间对130个国家进行的每一次股权投资的现金流。经风险调整后的回报与标准普尔500指数相当，至少从1961年到2010年是这样。随着经济增长，回报有所提高，但随着银行体系的深化和国家放松资本控制，回报有所下降。这些结果与金融摩擦阻碍了资本从富裕国家流向贫穷国家的论点一致，并且影响投资者绩效的持续性可能依赖于识别或创造缺乏资本获取渠道的新市场。本文已被Agostino Capponi接受，金融学。利益冲突声明：Shawn Cole在2018-19年担任国际金融公司“短期顾问”五天，并且以非补偿性咨询角色为影响投资者TPG/Rise的子公司Y Analytics提供服务。Martin Melecky、Florian Mölders和Tristan Reed是世界银行集团的员工。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.03313找到。",
+            "title_en": "Dynamic Pricing for Two-Sided Marketplaces with Offer Expiration",
+            "title_zh": "双边市场动态定价与报价失效",
+            "url": "https://doi.org/10.1287/mnsc.2022.00832",
+            "abstract_en": "We consider a two-sided marketplace in which a market operator sells services to clients and buys services from vendors. The market operator determines the prices dynamically for both clients and vendors. Services are transacted in discrete units called jobs, and the jobs are characterized by their types, service deadlines, client prices, and vendor prices. Jobs are submitted by clients to the marketplace, and the market operator then lists the available jobs. Vendors can view the available jobs and choose them based on their preferences. We consider an infinite-horizon long-run average reward Markov decision process (MDP) model of the market operator’s dynamic pricing problem. The MDP consists of the arrival processes on both sides of the marketplace as well as the choice behavior of both clients and vendors. Because solving this MDP directly is impractical for large market sizes, we study a discrete-time fluid approximation of the problem. This approximation results in a simple pricing policy in which each job’s price trajectory depends on the time remaining until the service deadline but does not depend on the other jobs available in the marketplace. We show that this policy is asymptotically optimal with a loss ratio of order [Formula: see text] on the long-run average reward, where [Formula: see text] represents the scale of demand and supply. The performance of the fixed price trajectory policy is compared with other heuristics, including a constant pricing policy and a state-dependent pricing policy. We also extend the model to continuous-time and finite-horizon settings. This paper was accepted by Omar Besbes, revenue management and market analytics. Funding: The work of Y. Cao was partly supported by the National Natural Science Foundation of China [Grant 72201165, 72221001, 72231003, 72331006], and Shanghai Pujiang Program [Grant 22PJC066]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00832 .",
+            "abstract_zh": "我们考虑一个双边市场，其中市场运营商向客户出售服务并向供应商购买服务。市场运营商为双方动态确定价格。服务以离散单位称为作业进行交易，作业以其类型、服务截止日期、客户价格和供应商价格为特征。作业由客户提交到市场，然后市场运营商列出可用作业。供应商可以查看可用作业并根据他们的偏好选择它们。我们考虑一个无限视界长期平均奖励马尔可夫决策过程（MDP）模型，用于市场运营商的动态定价问题。MDP包括市场双方的到达过程以及客户和供应商的选择行为。由于直接解决这个MDP对于大型市场规模是不切实际的，我们研究了问题的离散时间流体近似。这种近似导致了一个简单的定价策略，其中每个作业的价格轨迹取决于服务截止日期前剩余的时间，但不依赖于市场上其他可用的作业。我们展示了这种策略在长期平均奖励上是渐近最优的，损失比率为[公式：见文本]，其中[公式：见文本]代表需求和供应的规模。固定价格轨迹策略的性能与其他启发式方法进行了比较，包括恒定定价策略和状态依赖定价策略。我们还扩展了模型到连续时间和有限视界设置。本文由Omar Besbes接受，收入管理和市场分析。资金：Y. Cao的工作部分由中国国家自然科学基金[Grant 72201165, 72221001, 72231003, 72331006]和上海浦江计划[Grant 22PJC066]支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2022.00832找到。",
             "matched_topics": [
-              "国际经济"
+              "产业经济",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Gender Gap in Startup Recruiting: Evidence from Changes in Termination Costs",
+            "title_zh": "标题：创业招聘中的性别差异：来自终止成本变化的证据",
+            "url": "https://doi.org/10.1287/mnsc.2023.01491",
+            "abstract_en": "Women remain underrepresented not only as startup founders but also as nonfounding employees (“joiners”). Yet there is limited understanding of how to address this disparity. Whereas traditional explanations have emphasized individual employment preferences, we shift the focus to employers’ decision making. We propose that weaker employment protection—which reduces termination costs—increases women’s likelihood relative to men of being hired by startups rather than incumbent firms, as it enhances employers’ flexibility to experiment with traditionally overlooked candidates. We further hypothesize that this effect is less pronounced when information cues counteract stereotypical beliefs about women hires, such as when (a) women have experience as founders, or (b) the focal startup operates in an industry with a higher representation of female employees or female startup employees. Using Portuguese registry data on new hires from 2009 to 2013 and a regression discontinuity in time (RDiT) design, we provide empirical support for these predictions. Our study highlights gender disparities in hiring between startups and incumbent firms and shows that weaker employment protection can help reduce this gender gap. This paper was accepted by Toby Stuart, entrepreneurship and innovation. Funding: R. Conti gratefully acknowledges financial support from the CY Initiative. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01491 .",
+            "abstract_zh": "女性不仅在创业创始人中代表性不足，而且在非创始人员工（“加入者”）中也是如此。然而，如何解决这种差异的理解有限。虽然传统解释强调了个人就业偏好，我们将重点转移到雇主的决策上。我们提出，较弱的就业保护——降低解雇成本——增加了女性相对于男性被初创公司而非现有公司雇佣的可能性，因为它增强了雇主尝试传统上被忽视的候选人的灵活性。我们进一步假设，当信息线索抵消对女性雇佣的刻板印象时，这种效应不太明显，例如，当（a）女性有创始人经验，或（b）焦点初创公司在女性员工或女性初创员工比例较高的行业运营时。利用2009年至2013年葡萄牙注册数据中的新雇员数据和时间回归不连续性（RDiT）设计，我们为这些预测提供了实证支持。我们的研究突出了初创公司和现有公司在招聘中的性别差异，并表明较弱的就业保护可以帮助缩小这一性别差距。本文由Toby Stuart接受，涉及创业和创新。资金：R. Conti感谢CY Initiative的财政支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.01491找到。",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Evaluating the Effect of Soda Taxes Using a Dynamic Model of Rational Addiction",
+            "title_zh": "使用理性成瘾动态模型评估苏打税的影响",
+            "url": "https://doi.org/10.1287/mnsc.2021.02422",
+            "abstract_en": "The obesity rate has grown to epidemic proportions in the United States. Recent scientific studies suggest that excess intake of sugar-sweetened beverages (SSBs) is one of the primary contributors to weight gain. One option to address the growing obesity epidemic is to discourage SSB consumption through fiscal policies such as imposing a soda excise tax. In this paper, we apply the Becker-Murphy model of rational addiction to present evidence that consumers are rationally addicted to the consumption of soda drinks that contain caffeine and/or sugar. Motivated by the evidence, we build a dynamic structural model to quantify the impact of soda taxes on soda purchases and consumption and study the role of addiction in influencing this impact. We extend the canonical rational addiction model by introducing a multidimensional framework of addiction, which allows for the decomposition of addiction in the context of soda consumption into two distinct components: caffeine and sugar. Using the parameter estimates, we conduct counterfactual analyses based on realistic policy scenarios and evaluate how different tax policies would affect soda purchases. For example, one policy experiment indicates that a tax of one cent per ounce only on sugary soda categories would lead to a 50.2% decrease in sugary soda consumption. In addition, we find that sugar seems to play a bigger role in influencing substitution patterns than caffeine. We further investigate how these taxes affect welfare through a change in addiction level and emphasize the importance of addiction by comparing estimation results with and without addiction in the model. To understand the externalities associated with soda taxation, we integrate our counterfactual results with causal estimates from recent medical literature. Our findings suggest that individuals could decrease their medical costs by $642 to $717 per year under various tax schemes. These results underscore the potential of soda taxes to significantly improve public health and reduce obesity-related healthcare costs. This paper was accepted by Raphael Thomadsen, marketing. Funding: This work was supported by a Nanyang Technological University start-up grant [Grant 023220-00001]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.02422 .",
+            "abstract_zh": "美国肥胖率已增长至流行病规模。近期科学研究表明，过量摄入含糖饮料（SSBs）是导致体重增加的主要因素之一。应对日益增长的肥胖流行病的一个选择是通过财政政策，如征收苏打水消费税，来抑制SSB消费。在本文中，我们应用贝克尔-墨菲理性成瘾模型，提出证据表明消费者对含有咖啡因和/或糖的苏打饮料消费是理性成瘾的。受证据启发，我们构建了一个动态结构模型，量化苏打水税收对苏打水购买和消费的影响，并研究成瘾在影响这一影响中的作用。我们通过引入成瘾的多维框架，扩展了规范的理性成瘾模型，这允许我们将苏打水消费中的成瘾分解为两个不同的组成部分：咖啡因和糖。利用参数估计，我们根据现实政策情景进行反事实分析，并评估不同税收政策将如何影响苏打水购买。例如，一个政策实验表明，仅对含糖苏打水类别征收每盎司一分钱的税收，将导致含糖苏打水消费减少50.2%。此外，我们发现糖在影响替代模式中的作用比咖啡因更大。我们进一步研究这些税收如何通过成瘾水平的变化影响福利，并强调成瘾的重要性，通过比较模型中有无成瘾的估计结果。为了理解与苏打水税收相关的外部性，我们将反事实结果与近期医学文献中的因果估计相结合。我们的发现表明，在各种税收方案下，个人每年可以减少642至717美元的医疗费用。这些结果强调了苏打水税收在显著改善公共卫生和减少与肥胖相关的医疗保健成本方面的潜力。本文由拉斐尔·托马森接受，市场营销。资金：这项工作得到了南洋理工大学启动基金[Grant 023220-00001]的支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2021.02422找到。",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Competitive Dynamics in the Political Marketplace: How Donor Firms’ Political Wins Prompt Product-Market Peers to Appoint Politicians to Their Boards",
+            "title_zh": "政治市场中的竞争动态：捐赠企业的政治胜利如何促使产品市场同行任命政治人物进入董事会",
+            "url": "https://doi.org/10.1287/mnsc.2023.02952",
+            "abstract_en": "Using a regression discontinuity design in a sample of U.S. federal special elections, we investigate how donor firms’ political wins impact the adaptive responses of their product-market peers in their political activities, with a particular focus on the appointment of politicians to their boardrooms. By analyzing closely contested special elections, we find that when donor firms had donated to a candidate who narrowly won a special election, their peer firms were 41% more likely to appoint politicians to their boards in the following year than peers of the donor firms that had supported a narrowly defeated candidate. This adaptive response is more pronounced among peer firms facing greater political risks and operating in industries with more intense competition for government sales. Donor firms’ political wins also lead peer firms to increase their product differentiation from those donor firms. We interpret these patterns as evidence of a competitive-dynamics mechanism, where peer firms perceive donor firms’ political wins as a threat that could disadvantage them in the regulatory environment, prompting them to strengthen their boards with political capital to navigate potential regulatory changes and mitigate perceived risks. Our findings enrich scholarly understandings of corporate political activities and director selections. This paper was accepted by Olav Sorenson, organizations. Funding: Z. Wu acknowledges support from the National Social Science Foundation of China [Grant 22&ZD154]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02952 .",
+            "abstract_zh": "利用美国联邦特别选举样本中的回归不连续设计，我们研究了捐赠公司的政治胜利如何影响其产品市场同行在政治活动中的适应性反应，特别关注政治人物被任命到董事会的情况。通过分析竞争激烈的特别选举，我们发现当捐赠公司向以微弱优势赢得特别选举的候选人捐款时，其同行公司在次年任命政治人物到董事会的可能性比支持以微弱劣势落选候选人的捐赠公司同行高出41%。这种适应性反应在面临更大政治风险的同行公司中更为明显，且在政府销售竞争更激烈的行业中尤为突出。捐赠公司的政治胜利还导致同行公司增加与这些捐赠公司的产品差异化。我们将这些模式解释为竞争动态机制的证据，其中同行公司将捐赠公司的政治胜利视为可能使他们在监管环境中处于不利地位的威胁，促使他们加强董事会的政治资本以应对潜在的监管变化和减轻感知到的风险。我们的发现丰富了对企业政治活动和董事选择的学术理解。本文由Olav Sorenson组织接受。资金：Z. Wu感谢中国国家社会科学基金[Grant 22&ZD154]的支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.02952 查阅。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Guaranteed Demand and Corporate R&amp;D",
+            "title_zh": "保障需求与企业研发",
+            "url": "https://doi.org/10.1287/mnsc.2023.00087",
+            "abstract_en": "The U.S. government incentivizes firms to develop innovative technologies by awarding research and development (R&D) contracts that often carry an implicit promise of “guaranteed demand.” Firms that demonstrate strong technological capabilities are rewarded with noncompetitive production contracts for the resulting products and services. Using newly assembled data on $4.2 trillion in government procurement contracts from all federal agencies, matched to U.S. publicly traded firms, we document a “crowding-in” effect, where government R&D contracts lead to increased investment in corporate scientific research. This effect is concentrated in large, vertically integrated firms and limited to upstream R&D. We argue that these patterns are best explained by a guaranteed demand mechanism: Firms co-invest in upstream research when success offers a credible path to future noncompetitive production contracts. We develop a theoretical framework to explain when it is optimal for the government to bundle R&D and production contracts. Our analysis shows that guaranteed demand can produce higher quality at a lower total cost for upstream R&D projects when the R&D firms have production capabilities. Our empirical results support these predictions. Additionally, we find that the crowding-in effect has weakened over time as the government has increasingly decoupled R&D contracts from production contracts. We discuss the potential implications of this decoupling. This paper was accepted by Toby Stuart, entrepreneurship and innovation. Funding: Financial support from the Alfred P. Sloan Foundation [Grant G-2023-21022]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.00087 .",
+            "abstract_zh": "美国政府通过授予研究与开发（R&D）合同来激励企业开发创新技术，这些合同通常隐含着“保证需求”的承诺。展现出强大技术能力的企业会因其产品与服务获得非竞争性生产合同的奖励。利用新汇编的来自所有联邦机构的4.2万亿美元政府采购合同数据，并与美国上市公司匹配，我们记录了一种“挤入”效应，即政府R&D合同导致企业在公司科学研究上的投资增加。这种效应集中在大型、垂直整合的企业中，且仅限于上游R&D。我们认为，这些模式最好由保证需求机制来解释：当成功为未来非竞争性生产合同提供可信路径时，企业会共同投资于上游研究。我们发展了一个理论框架来解释政府何时将R&D和生产合同捆绑在一起是最优的。我们的分析表明，当R&D企业具备生产能力时，保证需求可以在上游R&D项目中以更低的总成本产生更高质量的成果。我们的实证结果支持这些预测。此外，我们发现随着政府越来越多地将R&D合同与生产合同脱钩，挤入效应随时间减弱。我们讨论了这种脱钩的潜在影响。本文由Toby Stuart接受，主题为创业与创新。资助：Alfred P. Sloan基金会[Grant G-2023-21022]提供财政支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2023.00087 查阅。",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Adaptive Data Acquisition for Personalized Recommendations with Optimality Guarantees on Short-Form Video Platforms",
+            "title_zh": "短视屏平台上具有最优性保证的自适应数据采集个性化推荐",
+            "url": "https://doi.org/10.1287/mnsc.2022.01130",
+            "abstract_en": "The recent surge in the popularity of short-form video (SFV) on digital platforms has led to massive numbers of videos and ever-evolving topics. As a result, the task of making personalized recommendations has become increasingly challenging. We introduce a new pure exploration problem on SFV platforms: finding a ([Formula: see text])-optimal set that includes all recommendations within the [Formula: see text]-optimality gap and that excludes those beyond the [Formula: see text]-optimality gap relative to the best arm with a capacity limit of K. To solve this problem, we propose an algorithm called adaptive acquisition tree (AAT). AAT jointly accounts for user preference heterogeneity and high-dimensional product characteristics. It adaptively segments users and then, learns a personalized transductive policy that can be used on partially observed or even unobserved card types to accommodate the dynamic trends on SFV platforms. We derive the sample complexity required to identify a [Formula: see text]-optimal set. Our method’s efficiency is validated through numerical tests using data from the NetEase platform. Our results reveal that the proposed policy performs significantly better than several state-of-the-art benchmarks across four transductive scenarios for both spotlight recommendations (i.e., best-arm identifications) and [Formula: see text]-optimal set recommendations. Compared with the best benchmarks for the best card and [Formula: see text]-optimal set recommendations, our approach can elevate the average rewards (measured by view time) by 30% (to 100%) and 43% (to 56%), respectively. Given the increasing popularity and uniqueness of SFVs and more broadly, user-generated content, our method offers significant academic and practical merit. This paper was accepted by Omar Besbes, revenue management and market analytics. Funding: Y. Leng is supported by the U.S. National Science Foundation (NSF) under [Grant IIS 2153468]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01130 .",
+            "abstract_zh": "近期数字平台上短视频（SFV）的流行度激增，导致视频数量激增和话题不断演变。因此，进行个性化推荐的难度越来越大。我们提出了一个新的纯探索问题：在SFV平台上找到一个包含所有在[公式：见正文]-最优性差距内的推荐，并且排除那些相对于最佳臂超出[公式：见正文]-最优性差距的推荐，且有K的容量限制。为解决这个问题，我们提出了一种名为自适应获取树（AAT）的算法。AAT同时考虑了用户偏好的异质性和高维产品特征。它自适应地对用户进行分段，然后学习一个个性化的归纳策略，该策略可以用于部分观察甚至未观察到的卡片类型，以适应SFV平台上的动态趋势。我们推导出了识别[公式：见正文]-最优集所需的样本复杂性。我们的方法通过使用网易平台的数据进行数值测试来验证其效率。结果表明，我们提出的策略在四个归纳场景中的表现明显优于几个最先进的基准，无论是在聚光灯推荐（即最佳臂识别）还是[公式：见正文]-最优集推荐方面。与最佳卡片和[公式：见正文]-最优集推荐的最好基准相比，我们的方法可以将平均奖励（以观看时间衡量）提高30%（至100%）和43%（至56%）。鉴于SFV的日益普及和独特性，以及更广泛的用户生成内容，我们的方法具有重要的学术和实践价值。本文由Omar Besbes接受，收入管理和市场分析。资金：Y. Leng由美国国家科学基金会（NSF）资助[Grant IIS 2153468]。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2022.01130找到。",
+            "matched_topics": [
+              "创新药"
             ]
           }
         ],
@@ -1657,9 +1551,31 @@
         "resolved_name": "Technovation",
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 4,
-        "total_in_issue": 5,
+        "matched_count": 6,
+        "total_in_issue": 7,
         "papers": [
+          {
+            "title_en": "Mapping artificial intelligence research in the cultural and creative industries: A systematic bibliometric review",
+            "title_zh": "标题：在文化创意产业中绘制人工智能研究：一项系统的文献计量学综述",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103551",
+            "abstract_en": "Artificial intelligence is reshaping creativity, labor, and authorship in the cultural and creative industries (CCIs), yet management and innovation scholarship on this transformation remains fragmented and theoretically underdeveloped. This bibliometric review addresses two interrelated gaps and maps the intellectual structure and thematic evolution of AI research in CCIs from a management and innovation perspective. Empirically, prior reviews focus on technical performance or ethical issues without integrating organizational perspectives. Conceptually, research on creativity, authorship, labor, and ethics remains fragmented and lacks frameworks linking technological capabilities to organizational and cultural implications. Following PRISMA 2020, 135 peer-reviewed journal articles from Scopus and Web of Science (2014-2025) were analyzed using performance analysis, science-mapping techniques, and text-mining-assisted content analysis. Five major clusters were identified: Art and Digital Creativity, Technology and Innovation, Creative Industries Practice, Legal and Intellectual Property, and Cultural Heritage. Output increased sharply, with more than half of the articles published in 2025. Art and Digital Creativity dominates the field, Legal and Intellectual Property shows disproportionate influence, and Cultural Heritage remains underexamined. Bibliographic coupling of 75 connected papers yielded 24 subclusters, indicating conceptual fragmentation and limited theoretical integration. Current scholarship draws heavily on copyright economics and deep learning foundations of generative AI, but remains weakly connected to organizational aesthetics, reflexivity, and identity theory. This review consolidates the knowledge base and provides a roadmap for future research on human-AI co-creativity, ethical governance, and aesthetic labor transformation. • First bibliometric map of AI research across cultural and creative industries. • 135 peer-reviewed articles analyzed from 2014 to 2025. • 52% of publications appeared in 2025, showing reactive scholarship. • 24 clusters across 75 connected papers reveal strong fragmentation. • Research agenda links artistic, legal, organizational, and ethical issues.",
+            "abstract_zh": "人工智能正在重塑文化和创意产业（CCIs）中的创造力、劳动和作者身份，但关于这一转型的管理与创新学术研究仍然支离破碎且理论发展不足。这篇文献计量综述解决了两个相互关联的空白，并从管理和创新的角度绘制了人工智能在CCIs研究的知识结构和主题演变。从实证角度来看，先前的综述侧重于技术性能或伦理问题，没有整合组织视角。从概念上讲，关于创造力、作者身份、劳动和伦理的研究仍然支离破碎，缺乏将技术能力与组织和文化影响联系起来的框架。遵循PRISMA 2020标准，分析了2014-2025年间Scopus和Web of Science中的135篇同行评审期刊文章，使用了绩效分析、科学绘图技术和文本挖掘辅助内容分析。识别出五个主要集群：艺术与数字创造力、技术与创新、创意产业实践、法律与知识产权、文化遗产。产出急剧增加，超过一半的文章在2025年发表。艺术与数字创造力主导了该领域，法律与知识产权显示出不成比例的影响力，而文化遗产仍然未得到充分研究。75篇相关论文的文献耦合产生了24个子集群，表明概念碎片化和有限的理论整合。当前学术研究严重依赖版权经济学和生成性人工智能的深度学习基础，但与组织美学、反思性和身份理论的联系较弱。这篇综述整合了知识基础，并为未来关于人工智能共同创造力、伦理治理和审美劳动转型的研究提供了路线图。• 首次绘制人工智能在文化和创意产业研究的文献计量地图。• 2014至2025年间分析了135篇同行评审文章。• 52%的出版物出现在2025年，显示出反应性学术研究。• 75篇相关论文中的24个集群揭示了强烈的碎片化。• 研究议程将艺术、法律、组织和伦理问题联系起来。",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Unlocking efficiency or missing the mark? evaluating China's supply chain innovation and application policy",
+            "title_zh": "解锁效率还是错失目标？评估中国的供应链创新与应用政策",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103550",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
+            ]
+          },
           {
             "title_en": "The role of AI for sustainability and economic performance: Evidence from the pharmaceutical industry",
             "title_zh": "人工智能在可持续性与经济绩效中的作用：来自制药行业的证据",
@@ -1676,10 +1592,11 @@
             "title_en": "Knowledge spillovers from local innovative industrial clusters: A business group network perspective",
             "title_zh": "来自本地创新产业集群的知识溢出：企业集团网络视角",
             "url": "https://doi.org/10.1016/j.technovation.2026.103545",
-            "abstract_en": "",
-            "abstract_zh": "",
+            "abstract_en": "Transcending the spatial “stickiness” of knowledge is essential for mitigating regional innovation gaps, yet the mechanisms by which localized cluster externalities diffuse across regions remain underexplored. Integrating the organisational embeddedness perspective with agglomeration theory, this study investigates how business group networks internalise and redistribute knowledge generated by local innovative industrial clusters. We exploit China's National Innovative Industrial Cluster Pilot (NIICP) policy as a quasi-experimental policy setting, and leverage a matched panel dataset of Chinese A-share listed firms and their domestic subsidiaries over 2009-2022. The results demonstrate that the development of local innovative industrial clusters generates significant internalised cluster spillovers within business groups, thereby enhancing the innovation performance of affiliated firms. These effects are spatially asymmetric: non-local affiliates benefit substantially, whereas the impact on local affiliates is limited. Mechanism analysis reveals three main channels through which cluster development affects affiliated firms: internal knowledge coordination and integration within business groups, external agglomeration of innovation resources, and competitive crowding-out within clusters. Further analysis shows that the spillover effects are stronger when intra-group linkages are tighter or when host regions of non-local affiliates are characterised by weaker institutional environments. These findings challenge purely geographic views of agglomeration, suggesting that multi-locational organisational networks are critical for overcoming the spatial trap of innovation resources. • China's NIICP cluster pilots provide a quasi-natural experiment. • Business group networks internalise and transmit cluster knowledge. • Cluster policies raise innovation in non-local affiliates more than local ones. • Spillovers operate through internal coordination, external resources and crowding out. • Strong intra-group linkages and weak institutions amplify internalised spillover effects.",
+            "abstract_zh": "超越知识的地域“粘性”对于缩小区域创新差距至关重要，但本地集群外部性如何跨区域扩散的机制尚未充分探索。本研究将组织嵌入视角与集聚理论相结合，探讨企业集团网络如何内部化和重新分配由本地创新产业集群产生的知识。我们利用中国国家创新型产业集群试点（NIICP）政策作为准实验政策环境，并利用2009-2022年中国A股上市公司及其国内子公司的匹配面板数据集。结果表明，本地创新产业集群的发展在企业集团内部产生了显著的内部化集群溢出效应，从而提高了关联企业的创新绩效。这些效应在空间上是不对称的：非本地子公司受益显著，而对本地子公司的影响有限。机制分析揭示了集群发展影响关联企业的三个主要渠道：企业集团内部知识协调和整合、创新资源的外部集聚以及集群内的竞争挤出。进一步分析表明，当集团内部联系更紧密或非本地子公司的东道地区以较弱的制度环境为特征时，溢出效应更强。这些发现挑战了纯粹的地理集聚观，表明多地点组织网络对于克服创新资源的空间陷阱至关重要。•中国的NIICP集群试点提供了一个准自然实验。•企业集团网络内部化和传递集群知识。•集群政策提高了非本地子公司的创新能力，而本地子公司的创新能力提高较少。•溢出效应通过内部协调、外部资源和挤出效应发挥作用。•集团内部联系紧密和制度环境薄弱放大了内部化溢出效应。",
             "matched_topics": [
-              "企业创新"
+              "企业创新",
+              "创新药"
             ]
           },
           {
@@ -1687,7 +1604,7 @@
             "title_zh": "创伤和急诊外科中的人工智能：对感知技术接受度的定量研究",
             "url": "https://doi.org/10.1016/j.technovation.2026.103548",
             "abstract_en": "Artificial Intelligence (AI) is a transformative technology capable of driving the United Nations Sustainable Development Goals (SDGs) implementation across various industries. It can play a crucial role in the healthcare sector, especially in highly specialized fields such as trauma and emergency surgery, where its potential to assist in clinical decision-making is gaining widespread recognition. When appropriately designed and governed, AI applications in surgery can contribute to SDG 3 by improving health outcomes and promoting well-being. Moreover, clearly defined accountability and responsibility frameworks for AI in healthcare support SDG 16 by enabling auditability, clarifying responsibility allocation, and fostering institutional trust through transparent governance mechanisms. Despite these opportunities, ethical and governance-related concerns remain central to AI adoption and significantly shape the attitudes of medical professionals, patients, technology providers, developers, and policymakers. This exploratory study investigates surgeons' perceptions regarding AI adoption through a framework informed by the Unified Theory of Acceptance and Use of Technology (UTAUT). While grounded in UTAUT, the study incorporates context-specific constructs that capture the unique challenges of surgical practice: performance expectancy, perceived diagnostic complexity, patient-centered communication orientation, responsible AI governance climate, and shared accountability perceptions. By examining how responsibility interacts with traditional UTAUT constructs, performance expectancy, effort expectancy, social influence, and facilitating conditions, this research offers a more context-sensitive understanding of AI adoption in high-stakes medical environments. Through a comprehensive survey endorsed by the World Society of Emergency Surgery (WSES), involving 624 physicians from 72 countries, we aim to highlight these concerns and propose a conceptual model that reconciles AI's technological advances with the ethical obligations to protect patients and ensure sustainable healthcare outcomes. • Artificial Intelligence (AI) is a transformative technology capable of driving the United Nations Sustainable Development Goals implementation across various industries. • AI can drive progress in healthcare and surgery, augmenting decision-making. • Ethical concerns can limit the effective use of clinical AI-based tools. • This research offers a more context-sensitive understanding of AI adoption in high-stakes medical environments.",
-            "abstract_zh": "人工智能（AI）是一种变革性技术，能够推动联合国可持续发展目标（SDGs）在各行业的实施。它在医疗保健领域，特别是在创伤和急诊外科等高度专业化领域中，可以发挥关键作用，其在临床决策支持方面的潜力正获得广泛认可。当AI在外科手术中的应用得到适当设计和管理时，可以促进SDG 3目标的实现，通过改善健康结果和促进福祉。此外，为医疗保健中的AI明确定义的问责和责任框架支持SDG 16目标，通过使审计成为可能、明确责任分配，并通过透明的治理机制促进制度信任。尽管存在这些机会，与AI采用相关的伦理和治理问题仍然是核心问题，显著影响医疗专业人员、患者、技术提供商、开发者和政策制定者的态度。本探索性研究通过受统一接受和使用技术理论（UTAUT）指导的框架，调查外科医生对AI采用的看法。虽然基于UTAUT，但研究纳入了特定于上下文的构建，以捕捉外科实践的独特挑战：绩效期望、感知诊断复杂性、以患者为中心的沟通取向、负责任的AI治理氛围和共享问责感知。通过检查责任如何与传统UTAUT构建、绩效期望、努力期望、社会影响和促进条件相互作用，本研究提供了对高风险医疗环境中AI采用更具有上下文敏感性的理解。通过世界急诊外科学会（WSES）支持的全面调查，涉及来自72个国家的624名医生，我们旨在突出这些问题，并提出一个概念模型，将AI的技术进步与保护患者和确保可持续医疗结果的伦理义务相协调。• 人工智能（AI）是一种能够推动联合国可持续发展目标在各行业实施的变革性技术。• AI可以推动医疗保健和外科手术的进步，增强决策制定。• 伦理问题可能限制临床基于AI的工具的有效使用。• 本研究提供了一个更具上下文敏感性的...",
+            "abstract_zh": "人工智能（AI）是一项能够推动联合国可持续发展目标（SDGs）在各行业实施的变革性技术。它在医疗保健领域，尤其是在创伤和急诊外科等高度专业化领域中，可以发挥关键作用，其在临床决策支持方面的潜力正获得广泛认可。当AI在外科手术中得到适当设计和管理时，可以促进SDG 3的实现，通过改善健康结果和促进福祉。此外，为医疗保健中的AI明确定义的问责和责任框架支持SDG 16，通过使审计成为可能、明确责任分配，并通过透明的治理机制促进制度信任。尽管存在这些机会，与AI采用相关的伦理和治理问题仍然是核心问题，显著影响医疗专业人员、患者、技术提供商、开发者和政策制定者的态度。本探索性研究通过受统一接受和使用技术理论（UTAUT）指导的框架，调查外科医生对AI采用的看法。虽然基于UTAUT，但研究纳入了特定于上下文的构建，以捕捉外科实践的独特挑战：绩效期望、感知诊断复杂性、以患者为中心的沟通取向、负责任的AI治理氛围和共享责任感知。通过检查责任如何与传统UTAUT构建、绩效期望、努力期望、社会影响和促进条件相互作用，这项研究提供了对高风险医疗环境中AI采用更敏感于上下文的理解。通过世界急诊外科学会（WSES）支持的全面调查，涉及来自72个国家的624名医生，我们旨在突出这些问题，并提出一个概念模型，将AI的技术进步与保护患者和确保可持续医疗结果的伦理义务相协调。• 人工智能（AI）是一项能够推动联合国可持续发展目标在各行业实施的变革性技术。• AI可以推动医疗保健和外科手术的进步，增强决策制定。• 伦理问题可能限制临床基于AI的工具的有效使用。• 这项研究提供了一个更敏感于上下文的...",
             "matched_topics": [
               "创新药"
             ]
@@ -1798,7 +1715,7 @@
         "issue_title": "Published 2026-05",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
         "matched_count": 2,
-        "total_in_issue": 5,
+        "total_in_issue": 7,
         "papers": [
           {
             "title_en": "Gender-specific effects of prenatal famine exposure on educational attainment: Accounting for selective mortality",
@@ -2033,79 +1950,95 @@
         "query_name": "Health Affairs",
         "issn": "0278-2715",
         "resolved_name": "Health Affairs",
-        "issue_title": "Volume 45, Issue 3",
+        "issue_title": "Volume 45, Issue 4",
         "issue_url": "https://www.healthaffairs.org/journal/hlthaff",
-        "matched_count": 7,
-        "total_in_issue": 15,
+        "matched_count": 8,
+        "total_in_issue": 20,
         "papers": [
           {
-            "title_en": "SSDI Beneficiaries Had Elevated Mortality During The 2-Year Waiting Period For Medicare, 2000–21",
-            "title_zh": "标题： 2000-2021年，社会保障残疾保险受益人在等待医疗保险的2年期间死亡率较高",
-            "url": "https://doi.org/10.1377/hlthaff.2025.00592",
-            "abstract_en": "Most Social Security Disability Insurance (SSDI) beneficiaries face a mandatory two-year waiting period for Medicare eligibility. Because of concerns that lack of health coverage during the waiting period could have life-threatening consequences for some beneficiaries, selected subpopulations are exempt from the waiting period. In 2025, legislation was introduced in Congress to expand the scope of these exemptions. However, there is limited empirical evidence on the twenty-four-month mortality rate of the SSDI beneficiary population, how it compares with that of the general population, how it varies by age and primary impairment, and how it has changed over time. Using 2000-19 Social Security Administration data, we provide a descriptive analysis of mortality rates during the Medicare waiting period. In 2019, the twenty-four-month mortality rate of SSDI beneficiaries was 5.96 percent, whereas the adjusted rate in the general population was 1.25 percent. The mortality rate was highest among beneficiaries with neoplasms, at 39.3 percent. The twenty-four-month mortality rate of SSDI beneficiaries has risen since 2011, reflecting changes in the demographic and impairment characteristics of new beneficiaries. These findings demonstrate the SSDI population's vulnerability and can inform policy conversations about expanding the scope of exemptions from the Medicare waiting period.",
-            "abstract_zh": "大多数社会保障残疾保险（SSDI）受益人面临为期两年的强制等待期，才有资格获得医疗保险。由于担心等待期间缺乏健康保险可能对一些受益人造成生命威胁，特定子群体被免除等待期。2025年，国会引入了立法以扩大这些豁免的范围。然而，关于SSDI受益人群二十四个月死亡率的经验证据有限，包括其与普通人群死亡率的比较、如何因年龄和主要残疾而异，以及随时间的变化情况。利用2000-2019年社会保障管理局的数据，我们提供了在医疗保险等待期间的死亡率描述性分析。2019年，SSDI受益人的二十四个月死亡率为5.96%，而普通人群的调整率为1.25%。在患有肿瘤的受益人中，死亡率最高，达到39.3%。自2011年以来，SSDI受益人的二十四个月死亡率上升，反映了新受益人的人口统计和残疾特征的变化。这些发现显示了SSDI人群的脆弱性，并可以为扩大豁免医疗保险等待期范围的政策讨论提供信息。",
+            "title_en": "‘Most Favored Nation’ Drug Pricing Is An Idea Whose Time Has Come",
+            "title_zh": "“最惠国”药品定价是一个时代来临的想法",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01127",
+            "abstract_en": "The US pays higher drug prices than do peer nations, thereby financing a disproportionate share of global pharmaceutical research and development. President Donald Trump has announced himself willing to do \"whatever it takes\" to compress, if not eliminate, the global disparity. In response, major drug firms have hurried to announce price reductions for at least some patients and some products. \"Most favored nation\" drug pricing as a formal policy faces many political and administrative challenges, but the threat has been effective in driving behavior change by pharmaceutical firms and payers in other nations. This Commentary takes the president seriously, if not literally. It describes the range of instruments available to the administration to pursue its price goals and assesses the tools' potential impact on the rate of investment and innovation in pharmaceuticals. Most favored nation pricing will reduce the revenues available to the industry for research and development, but its impact may be moderated by improved prioritizing of investments and improved efficiency in translating investments into innovation.",
+            "abstract_zh": "美国支付的药品价格高于其他国家，因此承担了全球药品研发的不公平份额。唐纳德·特朗普总统已宣布他愿意“不惜一切代价”来压缩，甚至消除全球差异。作为回应，主要药品公司已急忙宣布至少对一些患者和一些产品降低价格。“最惠国”药品定价作为一项正式政策面临许多政治和行政挑战，但这一威胁已有效地推动了其他国家的制药公司和支付者改变行为。本文认真对待总统的话，但不是字面意义上的。它描述了政府为实现其价格目标而可用的工具范围，并评估了这些工具对药品投资和创新速度的潜在影响。最惠国定价将减少该行业用于研发的收入，但其影响可能因投资优先级的提高和投资转化为创新的效率提高而有所缓解。",
             "matched_topics": [
-              "创新药"
+              "产业经济",
+              "企业创新",
+              "医药产业"
             ]
           },
           {
-            "title_en": "Rapid Disenrollment Rates Tripled For Medicare Advantage Beneficiaries, 2017–22",
-            "title_zh": "2017-22年，医保优势受益人快速退保率增长三倍",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01082",
-            "abstract_en": "Rapid disenrollment, when a beneficiary disenrolls from a new Medicare Advantage (MA) plan within the first three months of the calendar year, could signal enrollees' immediate dissatisfaction with their plan. The proportion of MA enrollees who rapidly disenrolled tripled from 3.5 percent in 2017 to 12.2 percent in 2022. We report on trends in rapid disenrollment to guide future actions.",
-            "abstract_zh": "快速退保，即受益人在日历年的前三个月从新的医疗保险优势（MA）计划中退保，可能表明参保人对其计划的立即不满。从2017年的3.5%增加到2022年的12.2%，快速退保的MA参保人比例增加了三倍。我们报告快速退保的趋势，以指导未来的行动。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Private Equity Acquisition Of Primary Care Practices: Modest Growth In Clinicians Offset By Increased Clinician Exits",
-            "title_zh": "私募股权收购初级保健实践：临床医生的适度增长被增加的临床医生退出所抵消",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01159",
-            "abstract_en": "Private equity (PE) acquisition of primary care practices has raised questions about the effect on the clinician workforce, a key determinant of care continuity and access. We examined workforce changes after PE acquisition of 451 US primary care practices during the period 2018-22, using a difference-in-differences design with 2,241 matched independent control practices. Outcomes included the number of clinicians per practice and clinician exits, stratified by physician and advanced practice provider status. After acquisition, practices experienced a relative increase of 0.39 clinicians per practice, a 12.2 percent rise from the preacquisition mean of 3.2 clinicians per practice. Growth was observed for both the number of physicians (0.21) and the number of advanced practice providers (0.18). Exits increased by 0.22 clinicians per practice, largely driven by turnover among advanced practice providers. PE acquisition was associated with modest growth and higher advanced practice provider turnover, raising important questions about how ownership influences staffing dynamics in primary care, where workforce stability is critical to patient-centered delivery of care.",
-            "abstract_zh": "私募股权（PE）对基础医疗实践的收购引发了关于对临床医生队伍影响的问题，后者是护理连续性和可及性的关键决定因素。我们使用差异-差异设计，以2,241个匹配的独立对照实践为基础，检查了2018-22年期间PE收购451个美国基础医疗实践后的工作队伍变化。结果包括每个实践的临床医生数量和临床医生退出，按医生和高级实践提供者身份分层。收购后，实践每个实践的临床医生数量相对增加了0.39人，比收购前平均每实践3.2名临床医生增加了12.2%。医生（0.21）和高级实践提供者（0.18）的数量都有所增长。退出的临床医生每个实践增加了0.22人，主要是由高级实践提供者的更替推动的。PE收购与适度增长和更高的高级实践提供者更替率相关，这引发了关于所有权如何影响基础医疗人员配置动态的重要问题，其中人员稳定性对以患者为中心的护理交付至关重要。",
+            "title_en": "US National Spending On Mental Health And Substance Use Disorder Treatment Driven By Case Growth, 2000–21",
+            "title_zh": "美国国家心理健康和药物使用障碍治疗支出受病例增长驱动，2000-2021年",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01351",
+            "abstract_en": "Understanding what the US spends to treat mental health and substance use disorders (SUD) is important for understanding spending patterns and informing health policy. In this study, we determined that from 2000 through 2021, mental health and SUD nominal spending grew from $40.9 billion to $139.6 billion. Mental health and SUD accounted for 4.5 percent of all medical services spending in 2000 and 5.5 percent in 2021. Real per capita mental health and SUD spending grew at an average annual rate of 3.27 percent, which was faster than the growth rate for overall medical services (2.21 percent). Our decomposition analysis showed that mental health and SUD spending growth was driven primarily by increases in the number of people receiving treatment (representing 87.3 percent of the growth) and to a much lesser extent by increases in the cost per case (12.7 percent of the growth). However, because disease severity was unobserved, these patterns may partly reflect increased treatment of less severe cases rather than unchanged severity-adjusted treatment costs. During this period, the number of mental health and SUD cases treated grew by 253 percent. In contrast, for spending increases on all diseases, 66.3 percent of the total spending growth resulted from increases in cost per case, and 33.7 percent resulted from more people receiving treatment.",
+            "abstract_zh": "了解美国在治疗精神健康和物质使用障碍（SUD）上的支出对于理解支出模式和指导卫生政策至关重要。在本研究中，我们确定从2000年到2021年，精神健康和SUD的名义支出从409亿美元增长到1396亿美元。2000年，精神健康和SUD占所有医疗服务支出的4.5%，到2021年这一比例上升至5.5%。实际人均精神健康和SUD支出的平均年增长率为3.27%，高于整体医疗服务支出的增长率（2.21%）。我们的分解分析显示，精神健康和SUD支出增长主要由接受治疗的人数增加所驱动（占增长的87.3%），而单位成本增加的影响要小得多（占增长的12.7%）。然而，由于疾病严重性未被观察到，这些模式可能部分反映了对较轻病例治疗的增加，而不是调整严重性后治疗成本的不变。在此期间，接受精神健康和SUD治疗的病例数量增长了253%。相比之下，对于所有疾病支出的增加，66.3%的总支出增长源于单位成本的增加，33.7%源于接受治疗的人数增加。",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Half Of Rural Patients Bypassed Their Local Hospital But Received Lower-Quality Surgical Care Elsewhere, 2016–20",
-            "title_zh": "2016-2020年，一半农村患者绕过当地医院，但在其他地方接受的外科护理质量更低",
-            "url": "https://doi.org/10.1377/hlthaff.2025.00640",
-            "abstract_en": "Hospital bypass, where patients receive care at a more distant hospital rather than their local hospital, has been described in the literature, but little is known about its association with surgical quality. Using data from the Medicare Provider Analysis and Review file and the American Hospital Association Annual Survey, we designed a retrospective cohort study of rural Medicare beneficiaries who underwent appendectomy, cholecystectomy, colectomy, or hernia repair during the period 2016-20, and we compared outcomes between those who bypassed their nearest surgery-capable hospital and those who did not, accounting for patient characteristics, hospital characteristics, and year of surgery. We found that 49 percent of rural beneficiaries bypassed their nearest surgery-capable hospital to receive surgical care elsewhere. Beneficiaries who bypassed had higher rates of in-hospital mortality, serious complications, and thirty-day readmissions, despite going to larger hospitals with more resources. Notably, these findings were preserved when we specifically analyzed both unplanned and elective admissions. These findings have important implications for surgical quality among rural patients and struggling rural hospitals, which may be able to alleviate some of their financial vulnerability by retaining larger proportions of these patients locally.",
-            "abstract_zh": "摘要： 文献中描述了医院绕过现象，即患者选择在更远的医院接受治疗而非当地医院，但关于其与手术质量的关联知之甚少。我们利用Medicare提供者分析和审查文件以及美国医院协会年度调查的数据，设计了一项回顾性队列研究，研究对象为2016-2020年间接受阑尾切除术、胆囊切除术、结肠切除术或疝气修复的农村Medicare受益人，比较了绕过最近手术能力医院与未绕过的患者之间的结果，同时考虑了患者特征、医院特征和手术年份。我们发现，49%的农村受益人绕过了最近的手术能力医院，到其他地方接受外科护理。尽管去了规模更大、资源更多的医院，但绕过的受益人院内死亡率、严重并发症和30天再入院率更高。值得注意的是，当我们特别分析了非计划和选择性入院时，这些发现仍然存在。这些发现对于农村患者的手术质量和挣扎中的农村医院具有重要意义，后者可能通过在当地保留更大比例的这些患者来减轻一些财务脆弱性。",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "State Nursing Home Minimum Staffing Mandates: Increased Staff Levels, Minimal Impact On Finances And Closures, 2010–23",
-            "title_zh": "标题： 国家养老院最低人员配置要求：2010-23年人员水平提高，对财务和关闭影响最小",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01223",
-            "abstract_en": "Higher levels of direct care staffing in nursing homes improve resident outcomes, yet concerns persist that minimum staffing mandates could strain facility finances or lead to closures. Using longitudinal data from the period 2010-23 on 6,849 nursing homes operating across twenty-two states, we estimated the effects of state minimum staffing mandates on staffing levels, financial health, and closures. Staffing mandates increased total direct care staff by 0.18 hours per resident day, or roughly 5 percent, on average, driven by increases in licensed practical nurses (0.06 hours per resident day) and certified nursing assistants (0.13 hours per resident day). Facilities' annual labor expenses rose by about $273,000, but these costs were offset by higher net patient revenues (approximately $546,000), leaving net margins unchanged. Mandates did not increase the likelihood of facility closure. Overall, our findings indicate that minimum staffing mandates can meaningfully raise staffing levels without undermining the financial viability of nursing homes.",
-            "abstract_zh": "护理院中更高水平的直接护理人员配置能够改善居民的护理结果，然而人们担心最低人员配置要求可能会给设施的财务带来压力或导致关闭。利用2010-2023年期间22个州6849家运营中的护理院的纵向数据，我们估计了州最低人员配置要求对人员配置水平、财务健康和关闭情况的影响。人员配置要求平均使每位居民每天的总直接护理人员时间增加了0.18小时，或大约5%，这一增长主要是由执业护士（每位居民每天增加0.06小时）和认证护理助理（每位居民每天增加0.13小时）的增加所驱动。设施的年度劳动费用增加了约273,000美元，但这些成本被更高的净患者收入（约546,000美元）所抵消，使得净利润率保持不变。要求并未增加设施关闭的可能性。总体而言，我们的发现表明，最低人员配置要求可以在不损害护理院财务可行性的情况下，显著提高人员配置水平。",
+            "title_en": "Variation In Medicaid And Medicare Payment Rates To Community Health Centers, 2023",
+            "title_zh": "2023年社区健康中心医疗补助和医疗保险支付率的变化",
+            "url": "https://doi.org/10.1377/hlthaff.2025.00949",
+            "abstract_en": "In recent years, community health centers (CHCs) have struggled to meet the needs of underserved communities because of limited resources and growing demand. Medicaid and Medicare use prospective payment systems (PPSs) to reimburse CHCs at enhanced rates to safeguard their financial stability by providing consistent and predictable payments. However, whether and how these rates vary across centers is unknown. In this study, we conducted the first known analysis of Medicaid and Medicare PPS rates across CHCs by compiling a novel data set from forty-two states and Washington, D.C. We found that Medicaid PPS rates were 23 percent higher, on average, than Medicare PPS rates in 2023. Concerningly, centers that served more patients who identified as non-Hispanic Black, were uninsured, or had more chronic conditions received lower PPS rates. Overall, we observed that payment rates were generally insufficient to offset the average per visit cost of care delivered in CHCs. Standardized policies concerning how public insurance payers reimburse CHCs are needed to promote equity and sustainability in the health care safety net.",
+            "abstract_zh": "近年来，社区卫生中心（CHCs）因资源有限和需求增长而难以满足弱势社区的需求。医疗补助和医疗保险通过预期支付系统（PPSs）以更高的比率向CHCs支付费用，以提供一致和可预测的支付，保障其财务稳定。然而，这些比率是否以及如何在中心之间变化尚不清楚。在这项研究中，我们通过汇编来自四十两个州和华盛顿特区的新数据集，进行了首次已知的医疗补助和医疗保险PPS比率跨CHCs的分析。我们发现，2023年医疗补助PPS比率平均比医疗保险PPS比率高23%。令人担忧的是，服务更多自认非西班牙裔黑人、无保险或有更多慢性病患者的中心收到了更低的PPS比率。总体而言，我们观察到支付比率普遍不足以抵消CHCs中提供的护理的平均每次访问成本。需要制定标准化政策，以规范公共保险支付者如何向CHCs支付费用，以促进医疗安全网的公平性和可持续性。",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "List Price Reductions Among Brand-Name ICS-LABA Inhalers In 2024 Were Associated With Increased Generic Uptake",
-            "title_zh": "2024年品牌名ICS-LABA吸入剂的定价降低与仿制药使用增加相关",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01309",
-            "abstract_en": "Inhaled corticosteroid-long-acting beta-agonist (ICS-LABA) inhalers are widely prescribed for asthma and chronic obstructive pulmonary disease. ICS-LABAs are largely interchangeable within the class; however, the use of brand-name versions has remained high in the US even though generic versions have been marketed since 2017. Effective in January 2024, the American Rescue Plan Act of 2021 imposed new penalties for prior list price increases in Medicaid, prompting manufacturers of some ICS-LABAs to reduce list prices for these drugs. In an interrupted time series analysis, we used US nationwide prescription dispensing data to assess changes in generic uptake of ICS-LABAs after the brand-name list price reductions. Use of generic ICS-LABAs increased by 23 percentage points at the start of 2024, driven by changes in commercial plans (33 percentage points) and Medicare (24 percentage points). List price reductions may have limited the capacity for brand-name firms to offer large rebates to pharmacy benefit managers, blunting existing financial incentives that had favored brand-name over generic ICS-LABAs. These findings demonstrate how changes in list prices can promote generic competition and improve affordability for patients and payers.",
-            "abstract_zh": "吸入性皮质类固醇-长效β2受体激动剂（ICS-LABA）吸入器被广泛用于哮喘和慢性阻塞性肺病的治疗。ICS-LABA在该类别内大部分可以互换；然而，即使自2017年以来已有仿制药上市，在美国使用品牌药版本的比例仍然很高。2024年1月生效的2021年美国救援计划法案对医疗补助计划中先前的清单价格增长施加了新的处罚，促使一些ICS-LABA制造商降低了这些药物的清单价格。在一项中断时间序列分析中，我们使用了美国全国范围内的处方配药数据，以评估品牌药清单价格降低后仿制药ICS-LABA的接受度变化。2024年初，仿制药ICS-LABA的使用增加了23个百分点，这一增长由商业计划（33个百分点）和医疗保险（24个百分点）的变化推动。清单价格降低可能限制了品牌药公司向药房福利管理者提供大额回扣的能力，削弱了现有的财务激励，这些激励曾有利于品牌药而非仿制药ICS-LABA。这些发现展示了清单价格变化如何促进仿制药竞争，改善患者和支付者的可负担性。",
+            "title_en": "Lingering Effects Of The COVID-19 Pandemic On Non-COVID-19 Death Rates In The US, 2020–24",
+            "title_zh": "2020-24年美国非新冠肺炎死亡率受新冠肺炎大流行的持续影响",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01313",
+            "abstract_en": "It is not currently understood whether the COVID-19 pandemic led to a lengthy period of elevated mortality rates or whether rates have returned to prepandemic trends. To examine this, I calculated age-adjusted excess mortality rates and percent excess mortality overall, by cause, and for population subgroups. COVID-19 death rates in the US fell 93 percent from 2021 to 2024, whereas excess non-COVID-19 death rates declined just 48 percent, with sustained excess mortality likely in the future, particularly for many natural causes. Suicide death rates did not rise, drug and homicide death rates jumped initially but declined relatively quickly, and transport death rates grew more moderately but showed greater persistence. Demographic-group differences were pronounced, with substantial lasting effects for females, American Indian/Alaska Native people, and seniors. This reflects heterogeneity in the prepandemic composition of deaths and in cause-specific percent excess mortality rates across groups. These results indicate important clinical and policy challenges, especially for natural causes of death and for groups facing relatively high cause-specific excess mortality rates.",
+            "abstract_zh": "目前尚不清楚COVID-19大流行是否导致了死亡率长期升高，或者是否已经恢复到大流行前的态势。为了检验这一点，我计算了按年龄调整的超额死亡率和总体超额死亡百分比，按原因和人口亚组划分。从2021年到2024年，美国COVID-19死亡率下降了93%，而非COVID-19超额死亡率仅下降了48%，未来很可能会出现持续的超额死亡，特别是对于许多自然原因。自杀死亡率没有上升，毒品和凶杀死亡率最初激增但相对迅速下降，交通死亡率增长较为温和但显示出更大的持续性。不同人口群体之间的差异显著，对女性、美国印第安人/阿拉斯加原住民和老年人的影响持续存在。这反映了大流行前死亡构成的异质性以及不同群体中特定原因的超额死亡率。这些结果表明了重要的临床和政策挑战，特别是对于死亡的自然原因以及面临相对高特定原因超额死亡率的群体。",
             "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Massachusetts Medicaid Housing Supports Reduced Health Care Costs Among Adults With Behavioral Health Conditions",
+            "title_zh": "马萨诸塞州医疗补助住房支持降低患有行为健康问题的成年人的医疗保健成本",
+            "url": "https://doi.org/10.1377/hlthaff.2025.00916",
+            "abstract_en": "In 2020, Massachusetts Medicaid launched the Flexible Services Program (FSP) to fund housing and nutrition assistance services for beneficiaries in accountable care organizations. To evaluate the program's impact on health outcomes for beneficiaries with behavioral health conditions, we compared changes in total health care costs, hospitalizations, emergency department (ED) visits, primary care visits, and hospital readmissions among 6,575 FSP participants enrolled during the period 2020-23 with those of a comparison group of people who were eligible for but did not receive FSP services. We also conducted the analysis with a secondary comparison group of 6,419 similar beneficiaries enrolled in Medicaid managed care organizations that did not offer FSP services. Relative to the primary comparison group, per person health care costs for FSP participants were $2,117 lower six months after beginning the program and $3,260 lower at twelve months. ED visits were 5 percent lower and readmissions were 36 percent lower at twelve months among FSP participants compared with the primary comparison group. Analyses using the secondary comparison group found similar reductions in costs at six months after FSP initiation, larger cost reductions at twelve months, and similar twelve-month declines in readmissions. These findings support the continuation of housing assistance programs for Medicaid beneficiaries with behavioral health conditions.",
+            "abstract_zh": "2020年，马萨诸塞州医疗补助启动了灵活服务计划（FSP），为责任医疗组织中的受益人提供住房和营养援助服务的资金。为了评估该计划对患有行为健康问题的受益人健康结果的影响，我们将2020-23年期间注册的6,575名FSP参与者的总医疗保健成本、住院次数、急诊科（ED）访问次数、初级保健访问次数和医院再入院次数的变化与有资格但未接受FSP服务的对照组人员进行了比较。我们还使用了一个次要对照组，包括6,419名类似的受益人，他们注册了不提供FSP服务的医疗补助管理保健组织。与主要对照组相比，FSP参与者的人均医疗保健成本在开始计划后的六个月内降低了2,117美元，在十二个月内降低了3,260美元。与主要对照组相比，FSP参与者在十二个月内的ED访问次数降低了5%，再入院次数降低了36%。使用次要对照组的分析发现，在FSP启动后的六个月内成本降低类似，十二个月时成本降低更大，十二个月的再入院次数下降也类似。这些发现支持继续为有行为健康问题的医疗补助受益人提供住房援助计划。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "‘Most Favored Nation’ Policies And Value-Based Drug Pricing: A European View",
+            "title_zh": "“最惠国”政策与基于价值的药品定价：欧洲视角",
+            "url": "https://doi.org/10.1377/hlthaff.2026.00115",
+            "abstract_en": "More than two decades of US purchasers essentially allowing pharmaceutical manufacturers to charge whatever they want have resulted in US companies' global leadership in biomedical sciences. President Donald Trump's proposed \"most favored nation\" drug pricing policies are causing a shift, whereby drugs' value stops being a national conversation and becomes a mechanical convergence of prices under US pressure and under coming threat of new, fierce competition. Presumably, the proposed policies could lead to higher drug prices in the European Union (EU), but they will hardly generate more income for US pharmaceutical companies, which might even stay away from European markets to avoid having to disclose their EU net prices, unless they develop global breakthrough competitive strategies. The proposals certainly will change EU manufacturers' investment strategies and are already accelerating the polarization of their national price negotiation goals and methods. Within this new geopolitical context, European nations' policies should be driven by a much more holistic and strategic approach to what \"value\" means.",
+            "abstract_zh": "二十多年来，美国采购者基本上允许制药商随意定价，这使得美国公司在全球生物医学科学领域处于领导地位。唐纳德·特朗普总统提出的“最惠国”药品定价政策正在引发转变，药品的价值不再成为国家对话，而是在美国压力和新激烈竞争威胁下的价格机械趋同。假设这些提议的政策可能会导致欧盟药品价格上涨，但它们几乎不会为美国制药公司带来更多收入，这些公司甚至可能为了避免披露其在欧盟的净价格而远离欧洲市场，除非它们发展出全球突破性的竞争策略。这些提议肯定会改变欧盟制造商的投资策略，并正在加速他们国家价格谈判目标和方法的两极分化。在这个新的地缘政治背景下，欧洲国家的政策应该由对“价值”含义的更全面和战略性的方法来推动。",
+            "matched_topics": [
+              "产业经济",
               "医药产业"
             ]
           },
           {
-            "title_en": "Practice Pattern Changes After Adoption Of Diagnostic AI Tool Used In Conjunction With Cardiac Imaging",
-            "title_zh": "诊断人工智能工具与心脏成像联合使用后实践模式的变化",
-            "url": "https://doi.org/10.1377/hlthaff.2025.00929",
-            "abstract_en": "In 2018, Medicare established coverage and reimbursement for its first service using artificial intelligence (AI): computed tomography (CT) fractional flow reserve (FFR<sub>CT</sub>). FFR<sub>CT</sub> is used in conjunction with cardiac imaging to diagnose coronary artery disease. Medicare reimbursement provides the opportunity to observe clinicians' adoption of FFR<sub>CT</sub> and examine changes in utilization, spending, clinician productivity, and patient outcomes associated with its use. In this study, we exploited variation in the timing of FFR<sub>CT</sub> adoption by clinicians, quantifying changes in practice patterns before and after adoption compared with nonadopters. We found that use of the underlying coronary artery disease test required for FFR<sub>CT</sub> increased after the adoption of FFR<sub>CT</sub>, whereas invasive test use declined. On net, per patient diagnostic spending for coronary artery disease increased. We found no evidence that adopting FFR<sub>CT</sub> facilitated earlier diagnosis of coronary artery disease, although clinicians saw a larger share of patients with coronary artery disease after adoption, and clinician productivity (that is, total visit count) increased. After clinicians adopted FFR<sub>CT</sub>, we observed a decrease in rates of cardiac-related adverse events among their patients.",
-            "abstract_zh": "2018年，医疗保险首次为使用人工智能（AI）的服务建立了覆盖和报销：计算机断层扫描（CT）分数流量储备（FFR<sub>CT</sub>）。FFR<sub>CT</sub>与心脏成像一起使用，以诊断冠状动脉疾病。医疗保险报销提供了观察临床医生采用FFR<sub>CT</sub>的机会，并检查与其使用相关的使用、支出、临床医生生产力和患者结果的变化。在这项研究中，我们利用了临床医生采用FFR<sub>CT</sub>的时间变化，量化了采用前后与非采用者相比的实践模式的变化。我们发现，在采用FFR<sub>CT</sub>之后，需要进行FFR<sub>CT</sub>的潜在冠状动脉疾病测试的使用增加了，而侵入性测试的使用下降了。总的来说，每位患者的冠状动脉疾病诊断支出增加了。我们没有发现采用FFR<sub>CT</sub>有助于更早地诊断冠状动脉疾病的证据，尽管临床医生在采用后看到了更大比例的冠状动脉疾病患者，并且临床医生的生产力（即总访问次数）增加了。在临床医生采用FFR<sub>CT</sub>后，我们观察到他们患者中与心脏相关的不良事件的比率有所下降。",
+            "title_en": "‘Most Favored Nation’ Drug Pricing: An Idea To What End?",
+            "title_zh": "“最惠国”药品定价：这一构想的目的何在？",
+            "url": "https://doi.org/10.1377/hlthaff.2026.00184",
+            "abstract_en": "US prices for brand-name drugs are substantially higher than those in other countries. Recent \"most favored nation\" proposals aim to simultaneously lower US prices through international reference pricing while increasing prices in other countries toward parity with the US. Although most favored nation policies have some merit, the challenge is for the US to establish the point at which they will have succeeded-that is, when the resulting net prices paid for brand-name drugs are \"right\" from a US-focused, value-oriented perspective. Without investments in US health technology assessment research, this crucial endpoint will remain difficult to define.",
+            "abstract_zh": "美国品牌药品的价格远高于其他国家。最近提出的“最惠国待遇”提案旨在通过国际参考定价同时降低美国药品价格，同时提高其他国家的药品价格，使其与美国持平。尽管最惠国政策有一定的优点，但挑战在于美国需要确定他们成功的点——即从以美国为中心、以价值为导向的角度来看，品牌药品支付的净价格何时是“正确的”。如果不投资于美国卫生技术评估研究，这一关键终点将难以定义。",
             "matched_topics": [
-              "医药产业"
+              "产业经济",
+              "医药产业",
+              "医疗创新"
+            ]
+          },
+          {
+            "title_en": "Inflation Reduction Act Changes To Part D Plan Design: Lower Premiums, Higher Deductibles, And Some Smaller Formularies",
+            "title_zh": "通货膨胀降低法案对D部分计划设计的改变：降低保费、提高自付额以及一些更小的药品目录",
+            "url": "https://doi.org/10.1377/hlthaff.2025.00644",
+            "abstract_en": "The Inflation Reduction Act (IRA) of 2022 changed the financing and risk-bearing obligations of Medicare Part D prescription drug plans in 2025. We used the Medicare 2021-25 public use files to construct a counterfactual trend using 2021-24 data to predict 2025 outcomes if the IRA had not implemented substantial benefit changes. We compared actual deductibles, premiums, and utilization management outcomes in 2025 against outcomes predicted by prior trends for both Medicare Advantage prescription drug (MA-PD) plans and Medicare Part D standalone prescription drug plans (PDPs). We found substantial differences between the predicted inflation-adjusted and population-weighted trend and actual deductibles for MA-PD plans (actual mean, $305.42; predicted mean, $187.54) and for PDPs (actual mean, $490.56 per month; predicted mean, $401.42 per month), as well as a decrease in premiums for MA-PD plans (actual mean, $12.76 per month; predicted mean, $15.02 per month) and for PDPs (actual mean, $39.55 per month; predicted mean, $64.07 per month). No changes were observed for prior authorization or step therapy. Formularies became smaller for protected classes and low-tier drugs in 2025 for PDPs relative to prior trend. No changes in the size of the preferred retail pharmacy networks were observed relative to prior trend.",
+            "abstract_zh": "2022年的《通胀削减法案》（IRA）改变了2025年医疗保险D部分处方药计划的融资和风险承担义务。我们使用2021-25年的医疗保险公共使用文件，构建了一个基于2021-24年数据的反事实趋势，以预测如果IRA没有实施重大福利变化，2025年的结果。我们将2025年的实际自付额、保费和利用管理结果与医疗保险优势处方药（MA-PD）计划和医疗保险D部分独立处方药计划（PDPs）的先前趋势预测结果进行了比较。我们发现，对于MA-PD计划（实际平均值，305.42美元；预测平均值，187.54美元）和PDPs（实际平均值，每月490.56美元；预测平均值，每月401.42美元），预测的通胀调整和人口加权趋势与实际自付额之间存在显著差异，同时MA-PD计划的保费有所下降（实际平均值，每月12.76美元；预测平均值，每月15.02美元）和PDPs（实际平均值，每月39.55美元；预测平均值，每月64.07美元）。对于预先授权或阶梯疗法，没有观察到变化。与先前趋势相比，2025年PDPs的受保护类别和低层级药物的药品清单变小了。与先前趋势相比，优选零售药店网络的规模没有变化。",
+            "matched_topics": [
+              "医药产业",
+              "创新药"
             ]
           }
         ],
