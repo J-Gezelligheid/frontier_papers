@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-05 04:45:14",
+  "updated_at": "2026-04-12 05:08:52",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 9,
+    "success_count": 22,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -83,129 +83,99 @@
         "query_name": "American Political Science Review",
         "issn": "0003-0554",
         "resolved_name": "American Political Science Review",
-        "issue_title": "Volume 120, Issue 1",
+        "issue_title": "Volume 120, Issue 2",
         "issue_url": "https://www.cambridge.org/core/journals/american-political-science-review",
-        "matched_count": 12,
-        "total_in_issue": 22,
+        "matched_count": 9,
+        "total_in_issue": 25,
         "papers": [
           {
-            "title_en": "Why Inequalities Persist: Parties’ (Non)Responses to Economic Inequality, 1970–2020",
-            "title_zh": "为何不平等持续存在：1970-2020年政党对经济不平等的（非）回应",
-            "url": "https://doi.org/10.1017/s0003055425100907",
-            "abstract_en": "Do parties respond to inequality? Despite the relevance of inequality and its consequences, existing studies fail to capture parties’ emphasis on economic equality and redistribution or to differentiate between existing levels of inequality and increases in inequality. Based on 850,000 party statements from 12 (Organisation for Economic Co-operation and Development) countries (1970–2020), we introduce a crowd-coded dataset that allows us to distinguish positive references to economic equality and redistribution from upward-trending equal-rights/anti-discrimination rhetoric. We show that responses found in previous studies do not capture economic equality and redistribution. In reassessing the impact of inequality, we argue that low visibility, status quo bias, and turnout effects discourage party responses to high inequality levels , while rising inequality poses a visible status quo change and a threat that left parties respond to. We find that left parties respond to inequality increases (except less tangible gains among the most affluent) but not to (high) inequality levels. This helps to understand why inequality is not self-correcting.",
-            "abstract_zh": "政党是否对不平等做出回应？尽管不平等及其后果具有相关性，但现有研究未能捕捉到政党对经济平等和再分配的重视，也未能区分现有不平等水平和不平等的增加。基于来自12个（经济合作与发展组织）国家的850,000份政党声明（1970-2020年），我们引入了一个众包编码的数据集，使我们能够区分对经济平等和再分配的积极提及与上升趋势的平等权利/反歧视言论。我们表明，先前研究中发现的回应并未捕捉到经济平等和再分配。在重新评估不平等的影响时，我们认为低可见性、现状偏见和投票率效应阻碍了政党对高不平等水平的回应，而不断上升的不平等构成了可见的现状变化和威胁，左翼政党对此做出回应。我们发现，左翼政党对不平等的增加做出回应（除了最富裕群体中不太明显的收益外），但不对（高）不平等水平做出回应。这有助于理解为什么不平等不是自我纠正的。",
+            "title_en": "Ideology and Revolution in Civil Wars: The “Marxist Paradox” –CORRIGENDUM",
+            "title_zh": "标题：内战中的意识形态与革命：“马克思主义悖论”——勘误表",
+            "url": "https://doi.org/10.1017/s0003055425101275",
+            "abstract_en": "T he authors regret that they identified a missingness issue in a few variables in their dataset that capture state capacity, and which was due to an error in the merge code.After fixing this issue, the overall interpretation of the findings or the conclusions of the article remain unchanged.Specifically, the R merge code for the state capacity variables (04_merging_capacity_variables.R) contained errors leading to unnecessary NAs in the cross-sectional (final_cross.dta)and panel (final_panel.dta)final datasets for all the variables that were imported from the Hanson and Sigman (2021) (HS) (Capacity, Pre_ capacity, Post_capacity) and O'Reilly and Murphy (2022) (OM) datasets (Pre_sci_comp, Post_sci_comp).It also led to unnecessary NAs in the cross-sectional dataset (final_cross.dta)for the variable Sci_comp_diff, which is calculated as Post_sci_comp minus Pre_sci_ comp.The authors thank Ula Erdodu for letting them know about unnecessary missing cases in one of the variables, which helped identify the problem in the code.The authors have not identified any other errors in the imported state capacity data-only unnecessary missing values.To fix this problem, they hand coded the values of the HS and OM prewar capacity data in the cross-sectional dataset (Pre_capacity and Pre_sci_comp), and the value of the HS capacity data in the panel dataset (Capacity).They also hand coded the measures of postwar state capacity (Post_capacity and Post_sci_comp).These variables are used to calculate \"state capacity difference\" (Capacity_diff and Sci_comp_diff), a variable included in Table 7 of the main paper (and Table B.7 of the SM).They note that, for these variables, they have hand coded only the relevant cases for these analyses, which are wars that started before 1991 and did not end in rebel victory.The missingness issue impacted the following tables and figures in the paper and SM: Table 6 and Table 7 in the main article; Figure B.1, Table B.2, and Table B.7 in the SM.The rest of tables and figures in the article and",
+            "abstract_zh": "作者们遗憾地表示，他们在数据集中发现了一些捕捉国家能力的变量中存在缺失值问题，这是由于合并代码中的错误造成的。在修复了这个问题之后，文章的总体解释或结论保持不变。具体来说，用于国家能力变量的R合并代码（04_merging_capacity_variables.R）存在错误，导致在所有从Hanson和Sigman（2021）年（HS）（能力、前能力、后能力）和O'Reilly和Murphy（2022）年（OM）数据集（前科学竞争、后科学竞争）导入的变量中，横截面（final_cross.dta）和面板（final_panel.dta）最终数据集中出现了不必要的NA值。这也导致了横截面数据集（final_cross.dta）中变量Sci_comp_diff（计算为后科学竞争减去前科学竞争）出现了不必要的NA值。作者感谢Ula Erdodu告知他们其中一个变量中不必要的缺失案例，这帮助他们识别了代码中的问题。作者们没有在导入的国家能力数据中发现其他错误，只有不必要的缺失值。为了解决这个问题，他们手动编码了横截面数据集中HS和OM战前能力数据（前能力、前科学竞争）的值，以及面板数据集中HS能力数据（能力）的值。他们还手动编码了战后国家能力的度量（后能力、后科学竞争）。这些变量用于计算“国家能力差异”（能力差异和科学竞争差异），这是主论文表7（以及SM表B.7）中包含的一个变量。他们指出，对于这些变量，他们只手动编码了这些分析的相关案例，即1991年之前开始且未以叛军胜利结束的战争。缺失值问题影响了论文和SM中的以下表格和图表：主文章中的表6和表7；SM中的图B.1、表B.2和表B.7。文章和SM中的其余表格和图表",
             "matched_topics": [
-              "房地产"
+              "城市治理"
             ]
           },
           {
-            "title_en": "“They Attend Strictly to Their Own Business”: Disability and the Construction of the Worker-Citizen",
-            "title_zh": "“他们严格只管自己的事”：残疾与工人-公民的构建",
-            "url": "https://doi.org/10.1017/s0003055425100944",
-            "abstract_en": "Contributing to a growing interest in disability in political science, this article makes the case for the central role of disability in upholding the belief in work as requisite for full citizenship. Turning to the nineteenth and early twentieth centuries, it shows how disability and the figure of the disabled worker were used to fortify emergent understandings of work against the changes wrought by industrial capitalism. Focusing on three sites of disabled labor—the school-based workshop, custodial institution, and industrial factory—it reveals the crucial ideological work performed by disability in sustaining the myth of the independent worker-citizen. Where existing scholarship has focused on disability either as an identity category or as a target of rights and policy, this article models an alternative approach, arguing for the relevance of disability as a concept that is integral to, and productive of, the ways we understand citizenship and political belonging.",
-            "abstract_zh": "本文有助于政治学中对残疾问题日益增长的兴趣，论证了残疾在维护工作作为完全公民身份必要条件这一信念中的中心作用。文章回溯到十九世纪和二十世纪初，展示了残疾和残疾工人形象是如何被用来加强工业资本主义变革下对工作的新理解。通过关注残疾人劳动的三个场所——学校工作坊、监护机构和工业工厂——揭示了残疾在维持独立工人-公民神话中所发挥的关键意识形态作用。现有学术研究将残疾要么作为身份类别，要么作为权利和政策的目标来关注，而本文则提出了一种替代方法，主张残疾作为一个概念的相关性，这个概念是理解公民身份和政治归属方式的核心，并且对这些方式具有生产性。",
-            "matched_topics": [
-              "公共政策"
-            ]
-          },
-          {
-            "title_en": "Ecological Personhood: A Bridging Approach",
-            "title_zh": "生态人格：一种桥梁方法",
-            "url": "https://doi.org/10.1017/s0003055425100762",
-            "abstract_en": "Aotearoa New Zealand’s recognition of the Whanganui River as a legal person in 2017 has generated a lively debate. While advocates argue that ascribing personhood to natural entities is a powerful tool for redressing historical injustices against Indigenous peoples and for protecting the environment, critics argue that it is incompatible with Western legal and political systems. In this article, we use Thomas Hobbes’s theory of personhood to develop a novel account of ecological personhood. Hobbes explains how natural entities can be empowered to speak and act through authorized representatives, much as states, corporations, and wards do. Our Hobbesian account has three main payoffs. First, it offers a bridge between different legal orders and ontologies of nature. Second, it explains how “ecoship” is normatively different from corporate personhood and guardianship. Third, it highlights both the transformative potential of ecological persons and the ways in which they can be coopted and subverted.",
-            "abstract_zh": "新西兰在2017年承认怀唐伊河为法人，引发了热烈讨论。支持者认为，将自然实体赋予人格是纠正对原住民历史不公和保护环境的强大工具，而批评者则认为这与西方法律和政治体系不兼容。在本文中，我们利用托马斯·霍布斯的人格理论，发展出一种生态人格的新解释。霍布斯解释了自然实体如何通过授权代表发声和行动，就像国家、公司和受监护人一样。我们的霍布斯式解释有三个主要好处。首先，它提供了不同法律秩序和自然本体论之间的桥梁。其次，它解释了“生态船”在规范上与公司人格和监护权的不同。第三，它突出了生态人格的变革潜力以及它们可能被征用和颠覆的方式。",
-            "matched_topics": [
-              "房地产"
-            ]
-          },
-          {
-            "title_en": "Marketing Taxation? Experimental Evidence on Enforcement and Bargaining in Malawian Markets",
-            "title_zh": "营销税收？马拉维市场执法和讨价还价的实验证据",
-            "url": "https://doi.org/10.1017/s0003055425100774",
-            "abstract_en": "Understanding how to increase government revenue via taxation is a core puzzle in state development. Taxation is critical for states to fund public goods, and may have positive spillover effects on citizen-state relations. We argue that tax compliance will be higher when governments employ community-level, rather than individual-level, interventions. To test whether it is more effective to focus such interventions on top-down (TD) enforcement or bottom-up (BU) quasi-voluntary compliance, we ran a multi-arm field experiment in 128 markets in Malawi. We find that the BU intervention significantly increased tax compliance by 40%. The TD intervention had a less robust effect on compliance, although not significantly different from that in the BU group. The BU intervention, but not the TD, also increased trust in government, satisfaction with services, and political engagement. The results show that community-level tax interventions can increase compliance and that quasi-voluntary approaches can positively reshape citizen-state relations.",
-            "abstract_zh": "了解如何通过税收增加政府收入是国家发展中的核心难题。税收对于国家资助公共产品至关重要，并且可能对公民与国家关系产生积极的溢出效应。我们认为，当政府采用社区层面而非个人层面的干预措施时，税收遵从度会更高。为了测试将此类干预措施重点放在自上而下（TD）的执行还是自下而上（BU）的准自愿遵从上更为有效，我们在马拉维的128个市场进行了多臂实地实验。我们发现，BU干预措施显著提高了40%的税收遵从度。TD干预对遵从度的影响较小，尽管与BU组没有显著差异。BU干预，而不是TD，还增加了对政府的信任、对服务的满意度和政治参与度。结果表明，社区层面的税收干预可以提高遵从度，准自愿方法可以积极重塑公民与国家关系。",
-            "matched_topics": [
-              "房地产"
-            ]
-          },
-          {
-            "title_en": "War and Responsibility",
-            "title_zh": "战争与责任",
-            "url": "https://doi.org/10.1017/s0003055425000206",
-            "abstract_en": "Scholars and policymakers bemoan an imperial presidency in the war powers context, where the unilateral use of force is frequently interpreted as evidence of an unconstrained executive. Focusing on the strong blame avoidance incentives faced by politicians in the military intervention setting, I develop a model of the war powers focused on “Loss Responsibility Costs.” It suggests that presidents only risk full-scale war when they have the political cover provided by formal authorization, which forces lawmakers to share responsibility. Smaller interventions, in contrast, are frequently undertaken unilaterally because having the president act alone is consistent with congressional preferences for blame avoidance. Novel sentiment data based on tens of thousands of congressional speeches supports the claim that when the president acts unilaterally, they almost always act alongside lawmaker support, who favor intervention but avoid formally endorsing the endeavor. Altogether, it suggests legislators’ influence over war is stronger than commonly appreciated.",
-            "abstract_zh": "学者和政策制定者在战争权力的背景下哀叹帝国总统的存在，其中单方面使用武力经常被解释为不受约束的行政权力的证据。我专注于政治家在军事干预背景下面临的强烈的责任回避动机，发展了一个以“损失责任成本”为中心的战争权力模型。它表明，只有在获得正式授权提供的政治掩护时，总统才会冒险进行全面战争，这迫使立法者分担责任。相比之下，较小的干预行动经常被单方面采取，因为让总统单独行动符合国会对责任回避的偏好。基于数万篇国会演讲的新颖情感数据支持这一主张，即当总统单方面行动时，他们几乎总是伴随着立法者的支持，这些立法者支持干预，但避免正式支持这一行动。总的来说，这表明立法者对战争的影响比通常认为的要大。",
-            "matched_topics": [
-              "公共政策"
-            ]
-          },
-          {
-            "title_en": "Family Ties, Social Control, and Authoritarian Distribution to Elites",
-            "title_zh": "家庭关系、社会控制与权威式精英分配",
-            "url": "https://doi.org/10.1017/s0003055425000231",
-            "abstract_en": "Abstract Authoritarian survival theories maintain that dictators distribute rents to elites who can control the masses. Yet, it is unclear how dictators choose beneficiary elites. We argue that elites centrally placed in their locality’s family network enjoy greater influence on other community members and, thus, are more likely to be co-opted through distribution. We test this argument by compiling a novel dataset of Paraguayan family networks that we link to families who illegally benefited from public land grants from 1954 to 2007. Using a difference-in-differences in reverse design, we find that local families with higher network centrality were more likely to receive these grants during the 1954–88 dictatorship. We also show more affiliations with the ruling Colorado Party and incidents of repression—indicators of social control—in localities with more central families before 1989. Our work shows that family ties can serve to build authoritarian ruling coalitions.",
-            "abstract_zh": "摘要：权威主义生存理论认为，独裁者向能够控制大众的精英分配租金。然而，独裁者如何选择受益精英尚不清楚。我们认为，在本地家族网络中处于中心位置的精英对其他社区成员有更大的影响力，因此更有可能通过分配被收买。我们通过编制一个与1954年至2007年非法从公共土地赠与中受益的家庭相关的巴拉圭家族网络的新数据集来测试这一论点。使用逆向差异中的差异设计，我们发现在1954-88年独裁期间，网络中心性更高的当地家庭更有可能获得这些赠与。我们还展示了在1989年之前，与执政的科罗拉多党有更多联系和镇压事件——社会控制的指标——在拥有更中心家族的地区。我们的工作表明，家族关系可以用来构建权威主义统治联盟。",
-            "matched_topics": [
-              "房地产"
-            ]
-          },
-          {
-            "title_en": "Press Coverage and Accountability in State Legislatures",
-            "title_zh": "新闻报道与州立法机构的责任性",
-            "url": "https://doi.org/10.1017/s000305542500022x",
-            "abstract_en": "State legislatures are critical policymaking bodies, yet recent studies suggest that elections rarely hold state legislators accountable for their representation and voters generally know little about legislative politics. Would state legislatures function differently if voters had access to more information about legislative politics? Leveraging the haphazard overlap of newspaper markets and legislative districts, I construct and validate a measure of legislative press coverage in all 49 partisan state legislatures for the years 2000–2022 that is plausibly uncorrelated with other district-level variables. Drawing on this large-scale dataset, this article traces the impact of press coverage on state legislative voters, elections, and, ultimately, representation. I find that robust local press coverage substantially augments down-ballot voter engagement, the electoral return to ideological moderation, and the incumbency advantage. Once in office, I further document that state legislators who receive stronger press coverage work more for their constituencies and diverge less from their district’s median voter. Overall, these results suggest that state legislators would be more moderate, representative, and productive were local press coverage strengthened.",
-            "abstract_zh": "州立法机构是关键的决策机构，但近期研究表明，选举很少让州立法者对其代表性负责，选民通常对立法政治知之甚少。如果选民能够获得更多关于立法政治的信息，州立法机构的运作会有所不同吗？利用报纸市场和立法选区的偶然重叠，我构建并验证了一个衡量所有49个党派州立法机构在2000-2022年间立法新闻报道的指标，这个指标很可能与其他选区级变量无关。基于这个大规模数据集，本文追踪了新闻报道对州立法选民、选举以及最终代表性的影响。我发现，强有力的地方新闻报道显著增强了选民对下选票的参与度、意识形态温和派的选举回报以及现任者优势。一旦当选，我进一步记录到，获得更强新闻报道的州立法者更多地为选区工作，并且与选区的中位选民差异更小。总体而言，这些结果表明，如果加强地方新闻报道，州立法者将更加温和、更具代表性和生产力。",
+            "title_en": "Countering Misinformation Early: Evidence from a Classroom-Based Field Experiment in India",
+            "title_zh": "早期对抗错误信息：来自印度课堂实地实验的证据",
+            "url": "https://doi.org/10.1017/s0003055425101184",
+            "abstract_en": "Misinformation poses serious risks for democratic governance, conflict, and health. This study evaluates whether sustained, classroom-based education against misinformation can equip schoolchildren to become more discerning consumers of information. Partnering with a state government agency in Bihar, India, we conducted a field experiment in 583 villages with 13,500 students, using a 4-month curriculum designed to build skills, shift norms, and enhance knowledge about health misinformation. Intent-to-treat estimates demonstrate that treated respondents were significantly better at discerning true from false information, altered their health preferences, relied more on science, and reduced their dependence on unreliable news sources. We resurveyed participants 4 months post-intervention and found that effects persisted, as well as extended to political misinformation. Finally, we observe within-household treatment diffusion, with parents of treated students becoming more adept at discerning information. As many countries seek long-term solutions to combat misinformation, these findings highlight the promise of sustained classroom-based education.",
+            "abstract_zh": "错误信息对民主治理、冲突和健康构成严重风险。本研究评估了持续的、基于课堂的教育是否能使学童成为更有辨识力的信息消费者。我们与印度比哈尔邦的一个州政府机构合作，在583个村庄对13,500名学生进行了实地实验，使用为期4个月的课程设计，旨在培养技能、转变规范，并增强对健康错误信息的了解。意向治疗估计表明，接受治疗的受访者在辨别真实与虚假信息方面明显更好，改变了他们的健康偏好，更多地依赖科学，并减少了对不可靠新闻来源的依赖。我们在干预后4个月重新调查了参与者，发现效果持续存在，并且扩展到了政治错误信息。最后，我们观察到家庭内治疗扩散，接受治疗的学生的父母在辨别信息方面变得更加熟练。随着许多国家寻求长期解决方案以打击错误信息，这些发现突出了持续的基于课堂的教育的前景。",
             "matched_topics": [
               "房地产",
               "公共政策"
             ]
           },
           {
-            "title_en": "Unconditional Loyalty: The Survival of Minority Autocracies",
-            "title_zh": "无条件忠诚：少数派独裁政权的生存之道",
-            "url": "https://doi.org/10.1017/s0003055425000218",
-            "abstract_en": "Contrary to the conventional view that minority regimes are vulnerable to breakdown, many of these regimes exhibit remarkable durability. From 1900 to 2015, minority autocracies that exclude a single majority ethnic group (e.g., regimes in Bahrain, Syria, and Apartheid South Africa) remained in power twice as long as other autocracies. This article argues that this durability is rooted in their unique ethno-political configuration, which enables them to foster a largely unconditional loyalty due to the ruling minority’s fear of being subjected to majoritarian rule. Such loyalty endows them with an exceptional capacity to withstand major challenges by fostering in-group demobilization and policing, pro-regime countermobilization, and coethnic elite loyalty. This article employs a multi-method approach, using a novel dataset of minority regimes and a case study of Bahrain based on original interviews. The findings highlight the conditions under which ethnic group loyalty can play a central role in autocratic survival.",
-            "abstract_zh": "与普遍认为少数派政权易受崩溃的观点相反，许多这类政权表现出惊人的持久性。从1900年到2015年，排除单一多数族裔群体的少数派独裁政权（例如，巴林、叙利亚和种族隔离时期的南非政权）的执政时间是其他独裁政权的两倍。本文认为，这种持久性植根于它们独特的族裔政治结构，这使它们能够因统治少数派对遭受多数统治的恐惧而培养出几乎无条件的忠诚。这种忠诚赋予了它们非凡的能力，通过促进群体内部的去动员和警察行动、支持政权的反动员以及同族精英的忠诚来抵御重大挑战。本文采用多方法研究方法，使用一个关于少数派政权的新数据集，并基于原始访谈对巴林进行案例研究。研究结果突出了族群忠诚在独裁生存中发挥中心作用的条件。",
-            "matched_topics": [
-              "城市治理"
-            ]
-          },
-          {
-            "title_en": "A New Measure of Affective Polarization",
-            "title_zh": "情感极化的新度量",
-            "url": "https://doi.org/10.1017/s0003055425000255",
-            "abstract_en": "Affective polarization has emerged as an important construct in the literature on partisanship. However, most efforts to measure it have relied on simple preexisting indices, potentially missing the complexity of affective polarization. In this article, we address these concerns by reconceptualizing and deriving a new measure of affective polarization. Drawing on the notion of political sectarianism and other lines of research in political behavior and social psychology, we develop and validate a novel multidimensional measure of affective polarization consisting of three parts: othering, aversion, and moralization. Our analyses yield a valid and reliable nine-item measure with three subdimensions. These subdimensions and the full scale broadly correlate with various measures of political identity, anti-democratic elite action, and political violence. Importantly, we find that the subdimensions have different patterns of correlation with key criterion variables, suggesting that othering, aversion, and moralization are distinct components of affective polarization.",
-            "abstract_zh": "情感极化已成为党派文献中的一个重要概念。然而，大多数测量情感极化的努力都依赖于简单的现有指数，可能忽略了情感极化的复杂性。在本文中，我们通过重新构想和推导出情感极化的新测量方法来解决这些问题。借鉴政治宗派主义的概念以及政治行为和社会心理学的其他研究线索，我们开发并验证了一种新颖的多维情感极化测量方法，包括三个部分：他者化、厌恶和道德化。我们的分析得出了一个有效可靠的九项测量方法，包含三个子维度。这些子维度和完整量表与各种政治身份、反民主精英行动和政治暴力的测量方法广泛相关。重要的是，我们发现子维度与关键标准变量的相关模式不同，表明他者化、厌恶和道德化是情感极化的不同组成部分。",
+            "title_en": "Race, Democracy, and Public Support for War",
+            "title_zh": "种族、民主与公众对战争的支持",
+            "url": "https://doi.org/10.1017/s0003055425101056",
+            "abstract_en": "Studies have found that voters in democratic countries are far more reluctant to use military force against democracies than against nondemocracies. This pattern may help explain why democracies almost never wage war against other democracies. In an important contribution, Rathbun, Parker, and Pomeroy (2025) propose that the apparent democratic peace in public opinion is an artifact of failing to account for race. Rather than democracy itself influencing support for war, they argue, the term “democracy” cues assumptions about the adversary’s racial composition, and those racialized assumptions are the true drivers of support for war. We reevaluate RPP’s evidence, concluding that their data do not support their predictions. In fact, their novel experiments provide powerful evidence that democracy affects support for war, independent of race. Our findings contribute to major debates about both regime type and race in international relations, as well as the design and interpretation of survey experiments.",
+            "abstract_zh": "研究发现，民主国家的选民对民主国家使用军事力量的意愿远低于对非民主国家。这一模式可能有助于解释为什么民主国家几乎从不与其他国家的民主政权开战。在一项重要贡献中，Rathbun、Parker和Pomeroy（2025年）提出，公众舆论中明显的民主和平是未能考虑种族因素的结果。他们认为，不是民主本身影响对战争的支持，而是“民主”一词引发对对手种族构成的假设，而这些种族化的假设才是支持战争的真正驱动力。我们重新评估了RPP的证据，得出结论认为他们的数据不支持他们的预测。实际上，他们新颖的实验为民主影响对战争的支持提供了有力的证据，且独立于种族因素。我们的发现为关于国际关系中的政权类型和种族的重大辩论，以及调查实验的设计和解释做出了贡献。",
             "matched_topics": [
               "房地产"
             ]
           },
           {
-            "title_en": "Ideology and Revolution in Civil Wars: The “Marxist Paradox”",
-            "title_zh": "内战中的意识形态与革命：“马克思主义悖论”",
-            "url": "https://doi.org/10.1017/s0003055425000188",
-            "abstract_en": "Powered by Marxist ideology, Revolutionary Socialist (RS) armed groups launched formidable challenges against incumbent regimes during the historical era of the Cold War. As both transformational and transnational actors, they were optimally positioned to execute a revolutionary war doctrine that called for a highly integrated political and military organization that could weave a dense web of interactions with civilian populations. Civil wars featuring RS rebels tended to be robust insurgencies, that is, irregular wars that lasted longer and produced more battlefield fatalities compared to other civil wars. However, this superior capacity failed to translate into a higher rate of victories—hence, a “Marxist Paradox.” By posing a credible threat, RS rebellions engendered equally powerful regime counter-mobilizations. We show how ideology shaped armed conflict in a particular world-historical time and point to implications for the current state of civil conflict.",
-            "abstract_zh": "在马克思主义意识形态的推动下，革命社会主义（RS）武装团体在冷战历史时期对在任政权发起了强大的挑战。作为变革性和跨国行动者，他们处于执行革命战争学说的最优位置，该学说要求高度整合的政治和军事组织，能够与平民人口编织密集的互动网络。以RS叛军为特征的内战往往是强大的叛乱，即与其他内战相比，持续时间更长、战场死亡人数更多的非正规战争。然而，这种优越能力未能转化为更高的胜利率——因此出现了“马克思主义悖论”。通过构成可信威胁，RS叛乱引发了同样强大的政权反动员。我们展示了意识形态如何在特定的世界历史时期塑造武装冲突，并指出了对当前内战状态的影响。",
+            "title_en": "How Partisan Are U.S. Local Elections? Evidence from 2020 Cast Vote Records",
+            "title_zh": "美国地方选举的党派性有多强？来自2020年投票记录的证据",
+            "url": "https://doi.org/10.1017/s0003055425100920",
+            "abstract_en": "Analyzing nominally partisan contests, previous literature has argued that state and local politics have nationalized. Here we use individual ballots from the 2020 general elections covering over 50 million voters to study the relationship between individual national partisanship and voting in over 5,700 contested down-ballot contests, including nonpartisan races and ballot measures. Voting in partisan contests can be explained by voter’s national partisanship, consistent with existing literature. However, we find that voting for local nonpartisan offices and ballot measures is much less partisan. National partisanship explains more than 80% of the within-contest variation in voting for partisan state and local offices but less than 10% for local nonpartisan contests and local ballot measures. The degree of partisanship in local spending measures varies by the type of service—for example, education, roads, public safety, housing. Finally, we find evidence of structure in the pattern of votes on local spending measures.",
+            "abstract_zh": "分析名义上的党派竞争，先前的文献认为州和地方政治已经全国化。在这里，我们使用2020年大选的个人选票，覆盖超过5000万选民，研究个人国家党派身份与超过5700个有争议的下选票竞争之间的关系，包括无党派竞选和选票措施。党派竞争中的投票可以通过选民的国家党派身份来解释，这与现有文献一致。然而，我们发现，对地方无党派职位和选票措施的投票远不那么党派化。国家党派身份解释了党派州和地方职位竞选中超过80%的内部变化，但对地方无党派竞选和地方选票措施不到10%。地方支出措施中的党派程度因服务类型而异——例如，教育、道路、公共安全、住房。最后，我们发现地方支出措施的投票模式中有结构性的证据。",
+            "matched_topics": [
+              "房地产"
+            ]
+          },
+          {
+            "title_en": "The Political Transformation of Corporate America, 2001–2022",
+            "title_zh": "2001-2022年美国企业的政治转型",
+            "url": "https://doi.org/10.1017/s0003055425100993",
+            "abstract_en": "This article reconciles conflicting views about the political landscape of corporate America with new data on the revealed political preferences of 97,469 corporate directors and executives at 9,005 different U.S. companies. Driven largely by turnover, I find that average observed ideology for directors and executives has shifted meaningfully to the left over time, changing from modestly conservative in 2001 to roughly centrist by 2022. This finding supports a middle-ground position between conventional wisdom casting “big business” as a conservative stronghold and revisionist views holding the opposite. Counterfactual simulations and a difference-in-differences design suggest multifaceted reasons for these changes, and hand-collected data on corporate stances on LGBTQ-related legislation suggest a strong connection between corporate political activity and individual views. Overall, this transformation has profound implications for American politics, as the individuals comprising one of the most powerful interest groups—corporate elites—appear to be fracturing ideologically and to some degree even switching sides.",
+            "abstract_zh": "本文通过分析97,469名美国9,005家不同公司的企业董事和高管所表现出的政治偏好的新数据，调和了关于美国企业政治格局的冲突观点。我发现，主要是由于人员更替，董事和高管的平均观察意识形态随时间显著左移，从2001年的温和保守转变为2022年的大致居中。这一发现支持了一种中间立场，即传统观点将“大企业”视为保守派的堡垒，而修正主义观点则持相反看法。反事实模拟和差异中的差异设计表明了这些变化的多方面原因，而手工收集的关于企业对LGBTQ相关立法立场的数据表明，企业政治活动与个人观点之间存在强烈联系。总体而言，这种转变对美国政治具有深远影响，因为构成最强大的利益集团之一——企业精英——的个体似乎在意识形态上出现裂痕，甚至在一定程度上转换立场。",
+            "matched_topics": [
+              "房地产"
+            ]
+          },
+          {
+            "title_en": "Land, Power, and Property Rights: The Political Economy of Land Titling in Sub-Saharan Africa",
+            "title_zh": "土地、权力与产权：撒哈拉以南非洲土地确权的政治经济学",
+            "url": "https://doi.org/10.1017/s0003055425100981",
+            "abstract_en": "Only 15% of African households possess a formal title for their agricultural land, despite the widespread availability of titles and their documented benefits. Local politics combine with national land regimes to explain this empirical anomaly. I combine 170,216 household-level observations of titling across 22 African countries with a novel geospatial measure of land values and the returns to agricultural investment. Households in areas with high returns to potential agricultural investment title more. However, in countries with centralized land tenure regimes, strong customary institutions attenuate this relationship; in countries with decentralized land regimes, strong customary institutions reinforce it. I use a case study in Côte d’Ivoire, including an original survey of 801 households and 194 customary elites, to trace these mechanisms at work. This research documents granular variation in the uptake of land titles, illustrates how local politics explain this variation, and outlines conditions under which customary elites impede development.",
+            "abstract_zh": "尽管土地所有权证书广泛可用且其益处有据可查，但只有15%的非洲家庭拥有其农业土地的正式产权证书。地方政治与国家土地制度相结合，可以解释这一经验上的异常现象。我将22个非洲国家的170,216个家庭级别的土地产权数据与一种新颖的地理空间土地价值和农业投资回报度量相结合。在潜在农业投资回报高的地区，家庭更有可能获得产权证书。然而，在土地产权制度集中的国家，强大的传统制度削弱了这种关系；在土地产权制度分散的国家，强大的传统制度则加强了这种关系。我使用科特迪瓦的案例研究，包括对801个家庭和194个传统精英的原始调查，来追踪这些机制的运作。这项研究记录了土地产权采纳的细微变化，说明了地方政治如何解释这种变化，并概述了传统精英阻碍发展的情况。",
             "matched_topics": [
               "房地产",
               "城市治理"
             ]
           },
           {
-            "title_en": "Plutopopulism: Wealth and Trump’s Financial Base",
-            "title_zh": "普鲁托民粹主义：财富与特朗普的金融基础",
-            "url": "https://doi.org/10.1017/s0003055425000061",
-            "abstract_en": "Comparative scholarship suggests authoritarian candidates often rely on backing from the wealthy. The wealthy are also said to play an important role in American campaign finance. Studies of Donald Trump, however, found that he drew significant support from white Americans with less education and privilege. We evaluate wealthy and non-wealthy Americans’ financial support for Trump, compared to other candidates, by constructing a comprehensive dataset of property values matched to contributions and voter files. We find Trump underperformed among wealthy Republican donors while mobilizing new non-wealthy donors. Trump also diversified the donorate, especially by education. That is, Trump built an unusual coalition of wealthy and non-wealthy donors. Our results support an alternative, “plutopopulist” model of Trump’s financial base. This study demonstrates the importance of studying both non-wealthy and wealthy Americans, the group who give the most but whose individual behavior has been studied the least.",
-            "abstract_zh": "比较学术研究表明，威权候选人往往依赖富人的支持。据说富人在美国竞选资金中也扮演着重要角色。然而，对唐纳德·特朗普的研究却发现，他从受教育程度较低、特权较少的白人美国人那里获得了显著支持。我们通过构建一个综合的数据集，将财产价值与捐款和选民档案相匹配，评估了特朗普与其他候选人相比，在富人和非富人美国人中的财政支持。我们发现特朗普在富有的共和党捐助者中表现不佳，同时动员了新的非富有捐助者。特朗普还使捐助者群体多样化，尤其是在教育方面。也就是说，特朗普建立了一个不同寻常的富有和非富有捐助者的联盟。我们的结果支持了特朗普财政基础的替代性“富豪民粹主义”模型。这项研究展示了研究非富有和富有美国人的重要性，他们是捐款最多的群体，但其个体行为却研究得最少。",
+            "title_en": "Storm from the Steppes: Warfare and Succession Institutions in Pre-Modern Eurasia, 1000–1799 CE",
+            "title_zh": "草原风暴：公元1000至1799年欧亚大陆前现代战争与继承制度",
+            "url": "https://doi.org/10.1017/s000305542510097x",
+            "abstract_en": "A prominent literature on pre-modern warfare and institution-building holds that intense military competition in pre-modern Europe encouraged institutional innovations—for example, centralized bureaucracies and monopolies on coercion—that empowered rulers and enhanced state capacity, with salutary effects on long-run political development. States that adopted these innovations were more likely to survive, whereas those that did not succumbed to invading armies. Yet links between geopolitical competitiveness and capacity building are largely theorized and tested based on the European historical experience. A broader view of that period reveals a more complicated picture. The dominant mode of warfare throughout much of medieval and early modern Eurasia, Inner Asian cavalry warfare (IACW), favored succession institutions that selected for competent military leaders at the expense of long, secure reigns and cumulative capacity-building potential. I explore these links between IACW, succession practices, and rule duration with a novel dataset of over 300 Eurasian dynasties.",
+            "abstract_zh": "大量关于前现代战争和制度建设的文献认为，前现代欧洲激烈的军事竞争鼓励了制度创新——例如，中央集权的官僚机构和对强制力的垄断——这些创新增强了统治者的权力，提高了国家的治理能力，并对长期政治发展产生了积极影响。采纳这些创新的国家更有可能生存下来，而那些没有采纳的国家则屈服于入侵的军队。然而，地缘政治竞争性和能力建设之间的联系主要是基于欧洲历史经验进行理论化和检验的。更广泛地审视那个时期，揭示了一个更为复杂的局面。在整个中世纪和早期现代欧亚大陆，占主导地位的战争模式——内亚骑兵战争（IACW）——倾向于选择有能力的军事领袖作为继承制度，牺牲了长期、安全的统治和累积的能力建设潜力。我利用一个包含300多个欧亚王朝的新数据集，探讨了IACW、继承实践和统治持续时间之间的联系。",
+            "matched_topics": [
+              "城市治理"
+            ]
+          },
+          {
+            "title_en": "State Legitimacy and Sector-Level Claim-Making: Evidence from East Jerusalem",
+            "title_zh": "国家合法性与部门层面的诉求表达：来自东耶路撒冷的证据",
+            "url": "https://doi.org/10.1017/s0003055425100841",
+            "abstract_en": "In East Jerusalem, the vast majority of Palestinians contest the legitimacy of the Israeli state’s claim to sovereignty. This necessarily affects how Palestinians engage with the state in pursuit of goods and services. But how? Using data from 55 interviews and original observational and experimental survey data from a representative sample of East Jerusalemites, I show that civilians’ engagement with each good, service, and institution of the state is a function of their perceptions of the state’s legitimacy, or right to rule, in that sector. Civilians will avoid engagement with goods, services, and institutions that explicitly affirm the state’s claims to monopolized sovereign rule, without forsaking essential goods and services. This article empirically illustrates that the same individual will make different choices with respect to each state sector, and in doing so builds on the burgeoning recognition of sector-level choices in the citizen claim-making literature.",
+            "abstract_zh": "在东耶路撒冷，绝大多数巴勒斯坦人质疑以色列国家对其主权的合法性主张。这必然影响巴勒斯坦人如何与国家互动以追求商品和服务。但具体是如何影响的呢？利用来自55次访谈的数据，以及来自东耶路撒冷代表性样本的原始观察和实验调查数据，我展示了民众与国家每个商品、服务和机构的互动是他们对国家在该领域合法性或统治权认知的函数。民众会避免与明确肯定国家对垄断性主权统治主张的商品、服务和机构互动，但不会放弃基本的商品和服务。本文通过实证说明了同一个个体在每个国家领域会做出不同的选择，从而在公民主张文献中对领域层面选择的日益增长的认识做出了贡献。",
             "matched_topics": [
               "房地产"
             ]
           },
           {
-            "title_en": "How Cases Speak to One Another: Using Translation to Rethink Generalization in Political Science Research",
-            "title_zh": "案例如何相互对话：利用翻译重新思考政治科学研究中的概括性",
-            "url": "https://doi.org/10.1017/s0003055425000140",
-            "abstract_en": "Regardless of method, political scientists often seek to develop arguments that can be generalized to a population of cases. But is this the only way to think about how cases speak to one another? We advocate for a new way to think about how qualitative research produces broadly applicable insights: translation. Much like linguistic translation, the goal of translation in political science is to develop ideas that are intelligible in a different context, even as the context will change how an idea or political practice is interpreted or enacted. Translation offers at least three benefits. It allows us to (1) rethink how we form and deploy concepts; (2) rethink what a generalizable argument is by carrying parts of an argument, instead of entire causal chains to other cases; and (3) rethink how we conceptualize knowledge accumulation to include an abductive process where generating theory is the primary goal.",
-            "abstract_zh": "无论采用何种方法，政治学家通常都试图发展可以推广到一系列案例的论点。但这是思考案例如何相互关联的唯一方式吗？我们提倡一种新的方式来思考定性研究如何产生广泛适用的洞见：翻译。与语言翻译类似，政治学中的翻译目标是发展在不同情境中都能理解的思想，即使情境会改变对一个思想或政治实践的解释或实施。翻译至少提供了三个好处。它使我们能够（1）重新思考我们如何形成和运用概念；（2）通过将论点的部分而非整个因果链带到其他案例中，重新思考什么是可推广的论点；以及（3）重新思考我们如何概念化知识积累，包括一个以生成理论为主要目标的溯因过程。",
+            "title_en": "A Critical Phenomenology of Racialized Vulnerability: Judith Butler and the Rodney King Trial",
+            "title_zh": "种族化脆弱性的现象学批判：朱迪思·巴特勒与罗德尼·金审判",
+            "url": "https://doi.org/10.1017/s0003055425100932",
+            "abstract_en": "This article examines the problem of racialized vulnerability to systemic violence by engaging with the works of Judith Butler and discussing police brutality. Butler has been criticized for presupposing vulnerability as an ontological condition inherent in embodied life and obscuring the distinctive characteristics of racialized vulnerability. Wrestling with these criticisms, the article reads this presupposition as a “contingent foundation,” and it turns to Butler’s longstanding engagements with phenomenology to foreground the norms and frames that inform the ways in which vulnerability is always perceived, interpreted, and adjudicated. Expanding on Butler’s analysis of the 1992 Rodney King trial with the help of Frantz Fanon’s concept of “sociogeny” and working with the trial archives, jurors’ statements, media coverage, and King’s memoir, it outlines a critical phenomenology inquiring into the sociohistorical constitution of racial schemas that turn Black bodies into phobic objects and disproportionately expose them to violence carried out with impunity.",
+            "abstract_zh": "本文探讨了种族化脆弱性对系统性暴力的问题，通过与朱迪思·巴特勒的作品进行对话，并讨论警察暴力。巴特勒因预设脆弱性为身体生活中的本体论条件，并掩盖了种族化脆弱性的独特特征而受到批评。文章在回应这些批评时，将这种预设解读为“偶然基础”，并转向巴特勒长期以来与现象学的互动，以突出那些总是影响脆弱性被感知、解释和裁决的规范和框架。文章借助弗朗茨·法农的“社会生成”概念，结合1992年罗德尼·金审判的档案、陪审团声明、媒体报道和金的回忆录，扩展了巴特勒对审判的分析，勾勒出一种批判性现象学，探讨了将黑人身体转变为恐惧对象并使他们不成比例地暴露于有罪不罚的暴力中的种族图式的社会历史构成。",
             "matched_topics": [
               "房地产"
             ]
@@ -401,21 +371,21 @@
             ]
           },
           {
-            "title_en": "Is War in Decline?",
-            "title_zh": "战争是否在减少？",
-            "url": "https://doi.org/10.1146/annurev-polisci-041923-115351",
-            "abstract_en": "The claim that war is in decline has gained considerable traction among analysts and policy makers. This review surveys the empirical data as well as the theoretical arguments for a decline of war. It concludes that, while great power wars have declined since 1945, war in general is not necessarily in decline. Critiques of the claim that war is in decline range from the statistical to the anthropological. While war is not necessarily in decline, though, it has changed. Specifically, a major driver of the putative decline of war—international norms, laws, and institutions—has done more to change how war is discussed and presented than whether it is prosecuted. Stronger theories of change are needed in international relations to understand whether these somewhat superficial changes could deepen in ways that produce a true decline in war.",
-            "abstract_zh": "声称战争正在减少的观点在分析人士和政策制定者中获得了相当大的支持。这篇综述调查了战争减少的经验数据和理论论点。它得出的结论是，尽管自1945年以来大国战争有所减少，但战争总体上并不一定在减少。对战争减少这一说法的批评范围从统计学扩展到人类学。尽管战争并不一定在减少，但它已经发生了变化。具体来说，被认为是战争减少的主要驱动力——国际规范、法律和机构——更多地改变了战争的讨论和呈现方式，而不是它是否被进行。国际关系中需要更强有力的变革理论，以理解这些表面上的变化是否能够以某种方式深化，从而真正减少战争。",
-            "matched_topics": [
-              "公共政策"
-            ]
-          },
-          {
             "title_en": "Gender and Leadership in Executive Branch Politics",
             "title_zh": "性别与行政分支政治中的领导力",
             "url": "https://doi.org/10.1146/annurev-polisci-033123-014634",
             "abstract_en": "Gender influences who has access to power, how leaders behave and are received within institutions, and how institutions are perceived. This review examines gender dynamics in the executive branch, focusing on presidents and prime ministers and their cabinets. We analyze four key areas: access to power, policy priorities, gendered leadership styles, and citizens’ responses. We argue that, despite progress, women remain underrepresented in executive roles, especially as chief executives. Women sometimes bring unique policy interests and leadership styles to the office, but strategic career incentives and institutional constraints shape both men's and women's behavior as leaders. Finally, women's presence in executive positions sends signals about the government, as well as about who is fit to govern and participate in politics. In sum, this review highlights the importance of understanding and addressing these gendered dynamics to move closer to gender equality in the highest levels of political leadership.",
             "abstract_zh": "性别影响谁能够获得权力，领导者在机构中的行为和接受方式，以及机构的感知方式。本综述考察了行政部门中的性别动态，重点关注总统和总理及其内阁。我们分析了四个关键领域：获得权力的途径、政策优先事项、性别化的领导风格和公民的反应。我们认为，尽管取得了进展，女性在行政角色中，尤其是作为首席行政官，仍然代表性不足。女性有时将独特的政策利益和领导风格带入办公室，但战略性的职业激励和制度约束塑造了男性和女性作为领导者的行为。最后，女性在行政职位上的存在向政府以及谁适合治理和参与政治发出了信号。总之，本综述强调了理解和解决这些性别动态的重要性，以更接近政治领导层中的性别平等。",
+            "matched_topics": [
+              "公共政策"
+            ]
+          },
+          {
+            "title_en": "Is War in Decline?",
+            "title_zh": "战争是否在减少？",
+            "url": "https://doi.org/10.1146/annurev-polisci-041923-115351",
+            "abstract_en": "The claim that war is in decline has gained considerable traction among analysts and policy makers. This review surveys the empirical data as well as the theoretical arguments for a decline of war. It concludes that, while great power wars have declined since 1945, war in general is not necessarily in decline. Critiques of the claim that war is in decline range from the statistical to the anthropological. While war is not necessarily in decline, though, it has changed. Specifically, a major driver of the putative decline of war—international norms, laws, and institutions—has done more to change how war is discussed and presented than whether it is prosecuted. Stronger theories of change are needed in international relations to understand whether these somewhat superficial changes could deepen in ways that produce a true decline in war.",
+            "abstract_zh": "声称战争正在减少的观点在分析人士和政策制定者中获得了相当大的支持。这篇综述调查了战争减少的经验数据和理论论点。它得出的结论是，尽管自1945年以来大国战争有所减少，但战争总体上并不一定在减少。对战争减少这一说法的批评范围从统计学扩展到人类学。尽管战争并不一定在减少，但它已经发生了变化。具体来说，被认为是战争减少的主要驱动力——国际规范、法律和机构——更多地改变了战争的讨论和呈现方式，而不是它是否被进行。国际关系中需要更强有力的变革理论，以理解这些表面上的变化是否能够以某种方式深化，从而真正减少战争。",
             "matched_topics": [
               "公共政策"
             ]
@@ -611,10 +581,11 @@
             "title_en": "“It’s a Process—But It Shouldn’t Take This Long”: The Psychological Burden of Waiting for Rental Assistance",
             "title_zh": "“这是一个过程——但不应该这么久”：等待租房援助的心理负担",
             "url": "https://doi.org/10.1080/10511482.2026.2622683",
-            "abstract_en": "",
-            "abstract_zh": "",
+            "abstract_en": "A growing and severe shortage of affordable housing in the U.S. has led to an increase in cost-burdened households and housing insecurity nationwide. The U.S. Department of Housing and Urban Development (HUD) provides rental assistance through programs such as Housing Choice Vouchers and public or project-based housing to increase access to affordable housing. However, available funding for these programs limits their supply, creating extensive waitlists for rental assistance. While the physical and mental health consequences of housing insecurity and cost-burdens are well documented, less is known about how the experience of waiting for rental assistance may contribute to these adverse outcomes. This paper examines qualitative data from a longitudinal mixed-methods study about rental assistance and diabetes self-management. Through thematic analysis of 116 semi-structured interviews collected from 30 unique participants, we describe how the uncertainty of one's waitlist status, an obligation to wait, and a sense of powerlessness in the waiting process contribute to poor mental health among rental assistance applicants. Our findings suggest that the experience of waiting and specific features of the waiting process may exacerbate stressors associated with housing insecurity to the detriment of applicants' psychological wellbeing.",
+            "abstract_zh": "美国日益严重的可负担住房短缺导致全国成本负担过重的家庭和住房不安全问题增加。美国住房和城市发展部（HUD）通过住房选择券和公共或基于项目的住房等项目提供租赁援助，以增加可负担住房的获取。然而，这些项目的可用资金限制了它们的供应，导致租赁援助的等待名单非常长。虽然住房不安全和成本负担对身心健康的影响已有充分记录，但关于等待租赁援助的经历如何导致这些不利结果的了解较少。本文通过定性数据分析，研究了一项关于租赁援助和糖尿病自我管理的纵向混合方法研究。通过对30名独特参与者收集的116次半结构化访谈进行主题分析，我们描述了等待名单状态的不确定性、等待的义务以及等待过程中的无力感如何导致租赁援助申请者中普遍存在的心理健康状况不佳。我们的发现表明，等待的经历和等待过程的特定特征可能会加剧与住房不安全相关的应激因素，从而损害申请者的心理福祉。",
             "matched_topics": [
-              "房地产"
+              "房地产",
+              "城市治理"
             ]
           },
           {
@@ -677,9 +648,20 @@
         "resolved_name": "Population Space and Place",
         "issue_title": "Volume 32, Issue 3",
         "issue_url": "https://onlinelibrary.wiley.com/journal/15448452",
-        "matched_count": 2,
-        "total_in_issue": 3,
+        "matched_count": 3,
+        "total_in_issue": 4,
         "papers": [
+          {
+            "title_en": "The Impact of Social Integration on the Fertility Intentions of Migrants: Evidence From China",
+            "title_zh": "社会融合对流动人口生育意愿的影响：来自中国的证据",
+            "url": "https://doi.org/10.1002/psp.70247",
+            "abstract_en": "ABSTRACT In addition to developed nations, the challenges of population ageing and declining fertility have also intensified in populous East Asian regions, prominently represented by China. Migrants serve as a critical urban labour resource in these countries and territories, and their fertility intentions directly affect long‐term population equilibrium and regional sustainability in destination areas. Drawing on two waves of the China General Social Survey (CGSS), this study investigates the mechanisms through which social integration shapes migrants' fertility intentions. A particular focus is placed on the mediating role of perceived fairness. Using a long‐difference model supplemented by heterogeneity analyses and mechanism tests, multiple pathways are identified that link social integration to migrants' fertility intentions. The findings reveal that: (1) Social integration tends to suppress migrants' fertility intentions, but perceived fairness partially buffers this effect and reshapes the decision logic. (2) Heterogeneity analyses show that new‐generation migrant workers exhibit higher fertility intention as social integration rises, a finding consistent with a strategic pursuit of urban identity via childbearing. Meanwhile, social integration has a homogeneously suppressive effect among migrants across educational groups and among those with rural Hukou. (3) During periods of fertility‐policy relaxation, lagging support services failed to translate into institutional trust, which in turn weakened policy effectiveness. Based on these distinct pathways, this study proposes multi‐level policy recommendations, offering insights and suggestions for migrant‐dense, ageing‐before‐affluent developing countries.",
+            "abstract_zh": "摘要：除了发达国家外，人口老龄化和生育率下降的挑战在人口众多的东亚地区也日益加剧，以中国为代表。在这些国家和地区，移民是城市劳动力的关键资源，他们的生育意愿直接影响目的地地区的长期人口平衡和区域可持续性。本研究基于两轮中国综合社会调查（CGSS）数据，探讨社会融合如何影响移民的生育意愿，特别关注感知公平的中介作用。通过使用长差分模型，并辅以异质性分析和机制检验，识别了将社会融合与移民生育意愿联系起来的多条路径。研究发现：（1）社会融合倾向于抑制移民的生育意愿，但感知公平部分缓冲了这种效应，并重塑了决策逻辑。（2）异质性分析显示，新一代农民工随着社会融合程度的提高，生育意愿更高，这与通过生育追求城市身份的战略行为一致。同时，社会融合在不同教育群体的移民中以及拥有农村户口的移民中具有一致的抑制效应。（3）在生育政策放松期间，滞后的支持服务未能转化为制度信任，进而削弱了政策效力。基于这些不同的路径，本研究提出了多层次的政策建议，为移民密集、未富先老的发展中国家提供洞见和建议。",
+            "matched_topics": [
+              "城市治理",
+              "公共政策"
+            ]
+          },
           {
             "title_en": "Long‐Term Impacts of Canada's Two‐Step Immigration Selection in Metropolitan Areas",
             "title_zh": "加拿大两步移民选拔在大都市地区的长期影响",
@@ -784,7 +766,7 @@
             "title_zh": "精简治理：如何通过“一事一议”倡议减轻城市行政负担并优化监管环境",
             "url": "https://doi.org/10.1177/00208523251381187",
             "abstract_en": "Administrative burden has emerged as a critical lens for understanding the unintended consequences of public service delivery and regulatory practices. While the concept has been extensively applied to analyze citizen–state interactions, less attention has been paid to how administrative burden affects private actors. This study addresses this gap by extending administrative burden theory to the domain of public–private partnerships, with a focus on how “one matter initiatives” in developing countries can alleviate regulatory barriers. Drawing on firm-level data from the World Bank Enterprise Survey, we examine whether and how streamlining governance reduces administrative burden and improves the regulatory climate. The empirical results show that streamlining governance significantly reduces administrative burden and enhances the regulatory climate. These effects are more pronounced for small and medium-sized enterprises, underscoring the reform's distributional impact. Mediation analysis shows that administrative burden serves as a key mechanism through which reform initiatives influence business perceptions of government performance. The findings highlight the relevance of administrative burden theory in non-Western governance contexts and demonstrate the value of incorporating business perspectives into public administration research. By offering empirical evidence from China’s “One Matter Initiative”, this study contributes to a more global and nuanced understanding of how streamlining governance can foster a more enabling environment for enterprise development. Points for practitioners This study highlights that streamlining administrative procedures through initiatives like China’s “One Matter Initiative” significantly reduces administrative burden. For practitioners, the findings suggest that procedural simplification can effectively improve public–private partnerships, particularly in non-Western governance systems. Focusing on service coordination and reducing transaction friction is key to responsive and business-oriented public administration. Megacity Governance in China shows how reform-driven streamlining governance can reshape regulatory practices. The “One Matter Initiative” demonstrates that reducing administrative burden is not only a technical efficiency but also a strategic step toward building good city governance. For practitioners, the key lesson is that coordinated service delivery and burden reduction carry broader significance: they reinforce city governance capacity and offer a replicable model for reform in other contexts.",
-            "abstract_zh": "行政负担已成为理解公共服务交付和监管实践意外后果的关键视角。尽管这一概念已广泛应用于分析公民与国家之间的互动，但对于行政负担如何影响私人行为者的关注较少。本研究通过将行政负担理论扩展到公私合作伙伴关系的领域，填补了这一空白，重点关注发展中国家的“一事一议”倡议如何减轻监管障碍。利用世界银行企业调查的公司层面数据，我们检验了简化治理是否以及如何减少行政负担并改善监管环境。实证结果表明，简化治理显著减少了行政负担并增强了监管环境。这些效应在中小企业中更为明显，突显了改革的分配影响。中介分析显示，行政负担是改革举措影响企业对政府绩效感知的关键机制。研究结果强调了行政负担理论在非西方治理环境中的相关性，并证明了将商业视角纳入公共行政研究的价值。本研究通过提供中国“一事一议”倡议的实证证据，为理解简化治理如何促进企业更有利发展环境提供了更全球性和细致的理解。实践者要点：本研究强调，通过中国“一事一议”等倡议简化行政程序显著减少了行政负担。对于实践者来说，研究结果表明，程序简化可以有效改善公私合作伙伴关系，特别是在非西方治理体系中。专注于服务协调和减少交易摩擦是响应迅速且以业务为导向的公共行政的关键。中国的超大城市治理展示了改革驱动的简化治理如何重塑监管实践。“一事一议”倡议表明，减少行政负担不仅是技术效率问题，也是建设良好城市治理的战略步骤。对于实践者来说，关键教训是协调服务交付和负担减轻具有更广泛的意义：...",
+            "abstract_zh": "行政负担已成为理解公共服务交付和监管实践意外后果的关键视角。尽管这一概念已广泛应用于分析公民与国家之间的互动，但对于行政负担如何影响私人行为者的关注较少。本研究通过将行政负担理论扩展到公私合作伙伴关系领域，填补了这一空白，重点关注发展中国家的“一事一议”倡议如何减轻监管障碍。利用世界银行企业调查的公司级数据，我们检验了简化治理是否以及如何减少行政负担并改善监管环境。实证结果表明，简化治理显著减少了行政负担并增强了监管环境。这些效应在中小企业中更为明显，突显了改革的分配影响。中介分析显示，行政负担是改革举措影响企业对政府绩效感知的关键机制。研究结果强调了行政负担理论在非西方治理环境中的相关性，并证明了将商业视角纳入公共行政研究的价值。通过提供中国“一事一议”倡议的实证证据，本研究有助于更全面、细致地理解简化治理如何促进企业发展的更有利环境。实践者要点：本研究强调，通过中国“一事一议”等倡议简化行政程序显著减少了行政负担。对于实践者来说，研究结果表明，程序简化可以有效改善公私合作伙伴关系，特别是在非西方治理体系中。专注于服务协调和减少交易摩擦是响应迅速、以业务为导向的公共行政的关键。中国的超大城市治理展示了改革驱动的简化治理如何重塑监管实践。“一事一议”倡议表明，减少行政负担不仅是技术效率问题，也是建设良好城市治理的战略步骤。对于实践者来说，关键教训是协调服务交付和负担减轻具有更广泛的意义：...",
             "matched_topics": [
               "城市治理",
               "公共政策"
