@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-12 05:08:52",
+  "updated_at": "2026-04-19 05:14:56",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 22,
+    "success_count": 35,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -188,132 +188,130 @@
         "query_name": "American Journal of Political Science",
         "issn": "0092-5853",
         "resolved_name": "American Journal of Political Science",
-        "issue_title": "Volume 70, Issue 1",
+        "issue_title": "Volume 70, Issue 2",
         "issue_url": "https://onlinelibrary.wiley.com/journal/15405907",
         "matched_count": 12,
-        "total_in_issue": 26,
+        "total_in_issue": 19,
         "papers": [
           {
-            "title_en": "Partisan sorting, fatalism, and Supreme Court legitimacy",
-            "title_zh": "党派分化、宿命论与最高法院的合法性",
-            "url": "https://doi.org/10.1111/ajps.12972",
-            "abstract_en": "Abstract This paper studies the contours of Supreme Court legitimacy. First, we construct a data set of surveys from 2012 to 2024 to show that diffuse support now diverges among partisans; we then analyze an original, six‐wave panel survey that reveals the stability of this partisan sorting. Second, we unpack the direct and indirect effects of partisanship on legitimacy: Democrats are more cynical about the Court, disapprove of its outputs, and view obedience to the law differently than Republicans, which contributes to the profound partisan gap in legitimacy. Finally, we reevaluate the relationship between specific and diffuse support by introducing a new measure of specific support, which shows that “fatalistic” views of the Supreme Court contribute to low levels of legitimacy. Today, Democrats’ pessimism toward the Court has eliminated decades of positivity and goodwill. This fatalistic sorting among large swaths of the public implies that the Court's authority now rests on weak and polarized foundations.",
-            "abstract_zh": "摘要 本文研究了最高法院合法性的轮廓。首先，我们构建了一个2012年至2024年的调查数据集，以展示现在党派支持者之间的普遍支持出现了分歧；然后我们分析了一个原创的六波面板调查，揭示了这种党派排序的稳定性。其次，我们分解了党派性对合法性的直接和间接影响：民主党人对法院更加愤世嫉俗，不赞成其产出，并且与共和党人对法律服从的看法不同，这导致了合法性方面深刻的党派差距。最后，我们通过引入一个新的具体支持度量标准，重新评估了具体支持和普遍支持之间的关系，这表明对最高法院的“宿命论”观点有助于低水平的合法性。如今，民主党人对法院的悲观态度已经消除了几十年的积极和善意。这种在广大公众中的宿命论排序意味着，法院的权威现在建立在薄弱和极化的基础上。",
+            "title_en": "Public participation and constitutional compliance",
+            "title_zh": "公众参与与宪法遵循",
+            "url": "https://doi.org/10.1111/ajps.70000",
+            "abstract_en": "Abstract Many constitutions are ratified by referendum, and public participation in earlier stages of constitution‐making is increasingly common. Participation may increase the perceived legitimacy of a constitution and citizens' knowledge about it. If this is true, one expects participation to lead to greater constitutional compliance. We explore this hypothesis using data on public participation in constitution‐making and compliance. Employing matching methods, we find little evidence of a positive effect of participation on compliance generally. However, there is compelling evidence of a positive effect on provisions specific to property rights and the rule of law.",
+            "abstract_zh": "摘要：许多宪法通过公投获得批准，公众在制宪早期阶段的参与也越来越普遍。参与可能会增加宪法的感知合法性以及公民对其的了解。如果这是真的，人们会期望参与能够导致更大的宪法遵守。我们利用关于公众参与制宪和遵守宪法的数据来探索这一假设。采用匹配方法，我们发现参与对遵守宪法的积极影响的证据很少。然而，有令人信服的证据表明，参与对特定于财产权和法治的条款有积极影响。",
             "matched_topics": [
               "房地产"
             ]
           },
           {
-            "title_en": "Global competition, local unions, and political representation: Disentangling mechanisms",
-            "title_zh": "全球竞争、地方工会与政治代表：解析机制",
-            "url": "https://doi.org/10.1111/ajps.12979",
-            "abstract_en": "Abstract While recent scholarship has demonstrated multiple political effects of international trade, less attention has been paid to unbundling the mechanisms through which import competition affects democratic politics. One mechanism, in theory, works through labor unions as domestic countervailing powers shaping legislative responses on compensation and trade votes. We assess the relevance of unions as a mediating variable in the US Congress. For identification, we leverage two distinct sources of exogenous variation, one instrument for import exposure and another for unionization, and combine them in a semiparametric estimator. We find that (i) import competition lowers district‐level unionization, (ii) weaker unions lead to less legislative support for compensating economic losers and less opposition to trade deregulation, and (iii) the union mechanism represents a large fraction of the overall effect of import exposure on legislative votes. The results help explain weak compensation and further trade liberalization in the face of rising global competition.",
-            "abstract_zh": "摘要：尽管近期的学术研究已经展示了国际贸易的多重政治效应，但对进口竞争如何影响民主政治的机制分析却鲜有关注。理论上，一种机制通过工会作为国内制衡力量，影响立法对补偿和贸易投票的回应。我们评估了工会作为美国国会中介变量的相关性。为了识别，我们利用两个不同的外生变异源，一个作为进口暴露的工具，另一个作为工会化的工具，并在半参数估计器中将它们结合起来。我们发现：（i）进口竞争降低了地区层面的工会化程度，（ii）较弱的工会导致立法对补偿经济输家的立法支持减少，对贸易自由化的反对也减少，（iii）工会机制代表了进口暴露对立法投票总体效应的很大一部分。这些结果有助于解释在全球竞争加剧的情况下，为何补偿不足和进一步的贸易自由化。",
+            "title_en": "Unpacking the role of in‐group bias in US public opinion on human rights violations",
+            "title_zh": "解析美国公众对侵犯人权行为的群体内偏见角色",
+            "url": "https://doi.org/10.1111/ajps.12995",
+            "abstract_en": "Abstract Which actor identities and social and political cleavages drive public opinion on human rights violations? While in‐group bias is known to influence public responses to government abuses, the relative impact of different identity characteristics has not been directly tested. Building on social identity theory and moral typecasting theory, I use a conjoint survey experiment in the United States of 3,200 respondents to examine the causal effects of in‐group bias across multiple actor identities (perpetrator, target, and elite cue giver) and social and political divides (partisanship, race, religion, and citizenship). Party loyalty to the perpetrator dominates other group identities; simply changing the perpetrator's political identity can be an important determinant for whether respondents oppose violations. Surprisingly, the target's race, religion, and citizenship has mixed impact, and partisan cues have little effect. These findings highlight when group loyalty outweighs human rights concerns and where public demand for government accountability may be reduced.",
+            "abstract_zh": "摘要：哪些行动者身份和社会政治分歧推动了公众对侵犯人权的看法？虽然已知群体内偏见会影响公众对政府滥用职权的反应，但不同身份特征的相对影响尚未直接测试。基于社会身份理论和道德类型化理论，我在美国对3200名受访者进行了联合调查实验，以检验群体内偏见在多个行动者身份（施害者、目标和精英提示者）和社会政治分歧（党派、种族、宗教和公民身份）中的因果效应。对施害者的党派忠诚度主导了其他群体身份；简单地改变施害者的政治身份可能是受访者是否反对侵权行为的重要决定因素。令人惊讶的是，目标的种族、宗教和公民身份影响复杂，党派提示几乎没有效果。这些发现突出了群体忠诚何时超过人权关切，以及公众对政府问责的需求可能减少的地方。",
+            "matched_topics": [
+              "房地产"
+            ]
+          },
+          {
+            "title_en": "Argumentation strategies in party competition",
+            "title_zh": "政党竞争中的论证策略",
+            "url": "https://doi.org/10.1111/ajps.12983",
+            "abstract_en": "Abstract Political parties' rhetorical strategies play a crucial role in shaping public opinion and electoral outcomes. To gain insight into what kind of arguments parties present to the public, and under what conditions, we develop a model of argumentation where parties compete to persuade voters before engaging in platform competition. Our model allows us to explore when parties present arguments that highlight the strengths of their ideological positions, as opposed to those that expose the weaknesses of their opponents'; when parties try to persuade voters on the same or on different dimensions; and when parties tacitly collude on an dimension, neither truly attempting to change voters' preferences.",
+            "abstract_zh": "摘要：政党的修辞策略在塑造公众舆论和选举结果中起着至关重要的作用。为了深入了解政党向公众提出何种论点以及在何种条件下提出，我们构建了一个论证模型，其中政党在进行政策竞争之前，先竞争以说服选民。我们的模型使我们能够探索政党何时提出强调其意识形态立场优势的论点，而不是暴露对手弱点的论点；政党何时试图在同一或不同维度上说服选民；以及政党何时在某个维度上默契地合谋，并不真正试图改变选民的偏好。",
+            "matched_topics": [
+              "房地产"
+            ]
+          },
+          {
+            "title_en": "Polarization and state legislative elections",
+            "title_zh": "极化与州立法选举",
+            "url": "https://doi.org/10.1111/ajps.12973",
+            "abstract_en": "Abstract US state legislatures are critical policymaking institutions that are increasingly polarized, yet data and measurement limitations have prevented researchers from understanding how state legislative elections contribute to this polarization. To address this gap, we construct new measures of candidate ideology based on campaign contributions and roll‐call votes, and we use them to offer the first systematic study of the relationship between candidate ideology and electoral outcomes in primary and general elections in state legislatures, 2000–2022. We find that the set of people running for state legislature has polarized substantially in recent decades. More‐moderate candidates enjoy a meaningful advantage in contested general elections, but that advantage has declined somewhat in recent years. At the same time, more‐extreme candidates are favored in contested primary elections. These new measures and data will allow researchers to build on these basic findings to understand how elections function in lower information, lower salience environments like American state legislatures.",
+            "abstract_zh": "摘要：美国州立法机构是关键的决策机构，其日益加剧的极化现象尚未得到充分理解，因为数据和测量限制阻碍了研究者对州立法选举如何促成这种极化的理解。为了填补这一空白，我们基于竞选捐款和投票记录构建了新的候选人意识形态度量，并利用这些度量首次系统性地研究了2000-2022年间州立法初选和普选中候选人意识形态与选举结果之间的关系。我们发现，近几十年来，竞选州立法机构的人选已经显著极化。在竞争激烈的普选中，更温和的候选人享有实质性的优势，但这一优势在近年来有所下降。与此同时，在竞争激烈的初选中，更极端的候选人更受青睐。这些新的度量和数据将使研究者能够在这些基本发现的基础上进一步理解在信息量较低、关注度较低的环境中，如美国州立法机构，选举是如何运作的。",
             "matched_topics": [
               "公共政策"
             ]
           },
           {
-            "title_en": "How the State Discourages Vigilantism—Evidence From a Field Experiment in South Africa",
-            "title_zh": "国家如何抑制私刑行为——来自南非实地实验的证据",
-            "url": "https://doi.org/10.1111/ajps.12966",
-            "abstract_en": "Abstract Mob vigilantism—the punishment of criminal suspects by groups of citizens—is widespread throughout the developing world. This paper sheds light on the relationship between state capacity and citizens’ choice between reliance on the state and vigilantism. I implemented a field experiment in South Africa that randomly varies the capacity of police to locate households. Findings from surveys conducted several months later suggest households that have become legible to police are more willing to rely on police and less willing to participate in vigilantism. An additional information experiment points toward increased fear of state punishment for vigilantism rather than improved police service quality as the likely mechanism. The broader implication is that citizens’ willingness to cooperate with capable state institutions need not reflect satisfaction with state services. Such cooperation can also be due to the state's ability to limit citizens’ choices by ruling out informal alternatives like vigilantism.",
-            "abstract_zh": "摘要：民间私刑——由一群公民对犯罪嫌疑人进行惩罚——在发展中国家普遍存在。本文探讨了国家能力与公民在依赖国家和民间私刑之间的选择之间的关系。我在南非实施了一个实地实验，随机改变警察定位家庭的能力。几个月后进行的调查结果显示，那些对警察来说变得可识别的家庭更愿意依赖警察，更不愿意参与民间私刑。一个额外的信息实验指向了增加对国家对民间私刑惩罚的恐惧，而不是提高警察服务质量，作为可能的机制。更广泛的含义是，公民与有能力的国家机构合作的意愿并不一定反映对国家服务的满意。这种合作也可能是由于国家通过排除民间私刑等非正式选择，限制公民的选择能力。",
+            "title_en": "Brook no compromise: How to negotiate a united front",
+            "title_zh": "绝不妥协：如何谈判统一战线",
+            "url": "https://doi.org/10.1111/ajps.12986",
+            "abstract_en": "Abstract Negotiating factional conflict is crucial to successful coordination: Political parties, rebel alliances, and authoritarian elites must all overcome internal disagreements to survive and achieve collective aims. Actors in these situations sometimes employ hardball tactics to block outcomes they dislike, but at the risk of causing coordination failure. Using a dynamic bargaining model, I explore how the threat and usage of these tactics impact coordination. In the model, two players who prefer different reforms must jointly agree on one to overturn a mutually unfavorable status quo. Neither knows the other's willingness to compromise—whether they prefer the status quo over their less‐preferred outcome. Players who are willing to compromise delay hardball, balancing incentives to preempt the opponent against the benefit of waiting to gather more information. Finally, I identify factors that incentivize players to exercise caution, thereby reducing the incidence of avoidable miscoordination, which results when players preemptively rule out possible compromises.",
+            "abstract_zh": "摘要：成功协调中处理派系冲突至关重要：政党、叛军联盟和威权精英都必须克服内部分歧，以生存并实现集体目标。在这些情况下，行动者有时采用强硬手段来阻止他们不喜欢的结果，但这样做有导致协调失败的风险。通过使用动态讨价还价模型，我探讨了这些策略的威胁和使用如何影响协调。在模型中，两个偏好不同改革的玩家必须共同同意一项改革来推翻双方都不喜欢的现状。他们都不知道对方的妥协意愿——他们是否更倾向于现状而不是他们较不偏好的结果。愿意妥协的玩家会推迟强硬手段，平衡先发制人对手的动机与等待收集更多信息的好处。最后，我确定了激励玩家谨慎行事的因素，从而减少可避免的误协调事件，这发生在玩家预先排除可能的妥协时。",
+            "matched_topics": [
+              "房地产"
+            ]
+          },
+          {
+            "title_en": "Measuring electoral democracy with observables",
+            "title_zh": "用可观测指标衡量选举民主",
+            "url": "https://doi.org/10.1111/ajps.12968",
+            "abstract_en": "Abstract Most cross‐national indices of democracy rely centrally on coder judgments, which are susceptible to bias and error, and require expensive and time‐consuming coding by experts. We present an approach to measurement based on observables that aim to preserve the nuanced quality of subjectively coded democracy indices. Our observable‐to‐subjective score mapping is free of idiosyncratic coder errors arising from misinformation, slack, or biases. It is less susceptible to systematic bias that may arise from coders’ inferences about a country's regime, for example, from the ideology of the ruler. The data collection procedure and mode of analysis are fully transparent and replicable, and the procedure is based on random forests and is cheap to produce, easy to update, and offers coverage for all polities with sovereign or semisovereign status, surpassing the sample of any existing index. We show that this expansive coverage makes a big difference to our understanding of some causal questions.",
+            "abstract_zh": "摘要：大多数跨国民主指数主要依赖于编码者的判断，这些判断容易受到偏见和错误的影响，并且需要专家进行昂贵且耗时的编码。我们提出了一种基于可观察数据的测量方法，旨在保留主观编码民主指数的细微质量。我们的可观察数据到主观评分的映射不受由于错误信息、懈怠或偏见而产生的编码者特有错误的影响。它不太可能受到编码者对一个国家政权的推断所引起的系统性偏见的影响，例如，从统治者的意识形态推断。数据收集程序和分析模式是完全透明和可复制的，该程序基于随机森林，生产成本低，更新容易，并为所有具有主权或半主权地位的政治实体提供覆盖，超过了任何现有指数的样本。我们表明，这种广泛的覆盖对我们理解某些因果问题产生了重大影响。",
+            "matched_topics": [
+              "房地产"
+            ]
+          },
+          {
+            "title_en": "<i>Mano dura</i> : An experimental evaluation of military policing in Cali, Colombia",
+            "title_zh": "《重拳出击》：对哥伦比亚卡利市军事化警务的实验性评估",
+            "url": "https://doi.org/10.1111/ajps.12977",
+            "abstract_en": "Abstract Governments across the Global South rely on their militaries for domestic policing operations. We experimentally evaluate the social and political consequences of a military policing intervention in Cali, Colombia, one of the world's most violent cities. The intervention, Plan Fortaleza , involved recurring, intensive military patrols randomized at the city block level. Our evaluation combines administrative crime and human rights data, surveys of more than 10,000 residents, a conjoint experiment, a “costly” behavioral measure, and qualitative interviews with 49 civil society leaders. Despite null or adverse effects on crime and human rights, we show that Plan Fortaleza improved citizen’ attitudes toward the military and increased their demand for military involvement in domestic law enforcement. It also strengthened citizens’ support for extrajudicial punishment and—alarmingly—for military coups in response to rising crime, potentially signaling a diminished commitment to democracy and the rule of law among the program's intended beneficiaries.",
+            "abstract_zh": "摘要：全球南方的政府依赖其军队进行国内治安行动。我们通过实验评估了在哥伦比亚卡利市——世界上最暴力的城市之一——进行军事治安干预的社会和政治后果。该干预措施，即“堡垒计划”，涉及在城市街区级别随机进行的反复、密集的军事巡逻。我们的评估结合了行政犯罪和人权数据、对超过10,000名居民的调查、联合实验、“昂贵”的行为测量，以及与49位民间社会领袖的定性访谈。尽管对犯罪和人权没有或有不利影响，但我们表明“堡垒计划”改善了公民对军队的态度，并增加了他们对军队参与国内执法的需求。它还加强了公民对法外惩罚的支持——令人警觉的是——对军事政变的支持，以应对犯罪率上升，这可能表明该计划的预期受益者对民主和法治的承诺减弱。",
             "matched_topics": [
               "城市治理"
             ]
           },
           {
-            "title_en": "Why parties can benefit from promoting occupational diversity in legislatures: Experimental evidence from three countries",
-            "title_zh": "为什么政党能从促进立法机构职业多样性中获益：来自三个国家的实验证据",
-            "url": "https://doi.org/10.1111/ajps.12951",
-            "abstract_en": "Abstract How do legislators' occupational backgrounds shape their ability to advance policy? We argue that politicians with professional experience are perceived as more credible in their areas of expertise and can more effectively persuade voters and peers. We examine this argument in a series of experiments in three Western democracies. We find that German legislators with occupational experience in education are more effective at persuading voters in that policy area. The same pattern holds for United States' legislators with experience in healthcare. The quality of the arguments does not substitute for having actual occupational experience. These effects extend to elected officials: Swedish politicians are more likely to co‐sign motions proposed by peers with relevant expertise. Overall, parties that foster occupational diversity are better equipped to build support for their policy agendas. The study uncovers a new mechanism through which descriptive representation can influence policy outcomes, independent of legislators' preferences.",
-            "abstract_zh": "摘要：立法者的职业生涯背景如何塑造他们推进政策的能力？我们认为，具有专业经验的政治家在其专业领域被认为更可信，并且能够更有效地说服选民和同行。我们在三个西方民主国家的一系列实验中检验了这一论点。我们发现，具有教育职业经验的德国立法者在说服该政策领域的选民方面更为有效。具有医疗保健经验的美国立法者也呈现出相同的模式。论据的质量并不能替代实际的职业经验。这些效应扩展到民选官员：瑞典政治家更有可能联署具有相关专业知识的同行提出的动议。总体而言，促进职业多样性的政党更有能力为其政策议程建立支持。该研究揭示了描述性代表性影响政策结果的新机制，这一机制独立于立法者的偏好。",
+            "title_en": "“Welcome to France.” Can mandatory integration contracts foster immigrant integration?",
+            "title_zh": "“欢迎来到法国”：强制性融入合同能否促进移民融入？",
+            "url": "https://doi.org/10.1111/ajps.12955",
+            "abstract_en": "Abstract European governments, struggling with incorporating diverse immigrant populations, introduced integration contracts. Through language training and compulsory civics courses, these contracts aim to induce new migrants to adopt the host society's culture, respect its values, and improve their labor market outcomes. Despite their popularity, little empirical evidence exists on whether integration contracts catalyze integration or trigger a backlash. To shed light on this question, we leverage the staggered introduction of France's integration contract across metropolitan departments between 2003 and 2006 to implement a regression discontinuity design. We use census data, labor force surveys, and our own survey of refugees to estimate the effect of the contract on integration outcomes. We find the integration contract facilitated employment in the short term without backlash but did not translate into long‐lasting integration gains.",
+            "abstract_zh": "摘要：欧洲各国政府在努力融入多样化的移民群体时引入了融入合同。这些合同通过语言培训和强制性公民课程，旨在促使新移民采纳东道国的文化、尊重其价值观，并改善他们的劳动市场结果。尽管融入合同广受欢迎，但关于它们是否能够促进融入或引发反弹的实证证据却很少。为了阐明这一问题，我们利用2003年至2006年间法国融入合同在大都会部门的分阶段引入，实施了一种回归不连续设计。我们使用人口普查数据、劳动力调查和我们自己的难民调查来估计合同对融入结果的影响。我们发现融入合同在短期内促进了就业，没有引发反弹，但并没有转化为持久的融入收益。",
             "matched_topics": [
-              "公共政策"
+              "城市治理"
             ]
           },
           {
-            "title_en": "Alienation, equality, and multifaith establishment",
-            "title_zh": "疏离、平等与多信仰制度",
-            "url": "https://doi.org/10.1111/ajps.12950",
-            "abstract_en": "Abstract Religious establishment today often takes a multifaith form, whereby multiple religions are supported in different ways and to different degrees. In order to contribute to the development of a normative framework for assessing practices and regimes of multifaith establishment, this article recommends the concept of “social alienation.” Initially, social alienation is defended as a negative normative criterion to determine when specific establishment practices are unacceptable. This criterion is compared favorably with approaches that evaluate establishment practices by reference to an ideal of public reason or according to whether they convey an expressive harm, as well as with similar approaches based on a purely subjective understanding of alienation. Subsequently, it is also argued that addressing social alienation can support a case for multifaith religious establishment regimes that support or recognize minority religions, since it is often unequal establishment practices that socially alienate, not establishment as such.",
-            "abstract_zh": "摘要：当今宗教的确立常常采取多信仰形式，即以不同方式和程度支持多种宗教。为了促进评估多信仰确立实践和制度的规范框架的发展，本文推荐了“社会异化”这一概念。首先，社会异化被辩护为一个负面的规范性标准，用以确定何时特定的确立实践是不可接受的。这一标准与那些根据公共理性的理想或根据它们是否传达表达性伤害来评估确立实践的方法相比，以及与基于纯粹主观理解异化的方法相比，具有优势。其次，还论证了解决社会异化可以支持支持或认可少数宗教的多信仰宗教确立制度，因为往往是不平等的确立实践导致社会异化，而不是确立本身。",
+            "title_en": "Networks of coercion: Military ties and civilian leadership challenges in China",
+            "title_zh": "强制性网络：中国的军事联系与民间领导挑战",
+            "url": "https://doi.org/10.1111/ajps.12971",
+            "abstract_en": "Abstract Civilian‐led coups are one of the most common routes to losing power in autocracies. How do authoritarian leaders secure themselves from civilian leadership challenges? We argue that autocrats differentiate civilian rivals in part by their social ties to the military. To reduce the threat of coups, leaders buy off civilians with strong military ties by promoting them to lower‐tier institutions—but isolate these same civilians by denying them promotion to higher‐tier institutions that afford opportunities to challenge the leader. We introduce an original data set of over 117,000 postings of 34,140 Chinese military officers and map ties between the entire civilian and military elite between 1927 and 2014. We find that civilian leaders with strong ties to the military improve prospects for promotion to the Central Committee, but degrade the likelihood of promotion to the apex Politburo Standing Committee, particularly for civilians outside the leader's social network.",
+            "abstract_zh": "摘要：平民领导的政变是独裁政权失去权力的最常见途径之一。独裁领导人如何确保自己不受平民领导挑战？我们认为，独裁者部分通过他们与军队的社会联系来区分平民对手。为了减少政变威胁，领导人通过提拔与军队关系密切的平民到低级机构来收买他们，但通过拒绝这些平民晋升到提供挑战领导人机会的高级机构来孤立他们。我们引入了一个包含34,140名中国军官超过117,000个职位的原始数据集，并绘制了1927年至2014年间整个平民和军事精英之间的联系图。我们发现，与军队关系密切的平民领导人提高了晋升到中央委员会的前景，但降低了晋升到最高政治局常委会的可能性，特别是对于领导人社交网络之外的平民。",
             "matched_topics": [
               "房地产"
             ]
           },
           {
-            "title_en": "Correction to “Bicameralism and Policy Responsiveness to Public Opinion”",
-            "title_zh": "《两院制与政策对公众舆论的响应》的更正",
-            "url": "https://doi.org/10.1111/ajps.12947",
-            "abstract_en": "In the section \"Policy Responsiveness within Bicameralism",
-            "abstract_zh": "在“两院制下的政策响应”部分",
+            "title_en": "National identity after conquest",
+            "title_zh": "征服后的国家认同",
+            "url": "https://doi.org/10.1111/ajps.12970",
+            "abstract_en": "Abstract Conquering powers routinely adopt state‐directed nationalization projects that seek to make the boundaries of the nation coterminous with the (newly expanded) boundaries of the state. To this end, they implement policies that elevate the economic status of individuals who embrace the occupier's national identity and discriminate against those who do not. This paper develops a formal model that illuminates when such policies succeed or fail. We show that the effectiveness of discrimination hinges on the perceived longevity of occupation. If occupier rule is expected to be short‐lived, discrimination will backfire, as dissident parents transmit the marginalized national identity to their children; intense intergenerational socialization more than compensates for the negative wealth effects of discrimination. If occupier rule is instead perceived to be long‐lasting, discrimination will achieve its intended aims. Case studies on the Chilean occupation of Tacna, Peru (1880–1929), and the Prussian occupation of Northern Schleswig (1866–1920) illustrate the logic.",
+            "abstract_zh": "摘要：征服性大国通常采取国家主导的国有化项目，试图使国家的边界与（新扩张的）国家边界相一致。为此，他们实施政策，提升那些接受占领者国家身份的个体的经济地位，并对那些不接受者进行歧视。本文建立了一个正式模型，阐明了这类政策何时成功或失败。我们表明，歧视的有效性取决于对占领持久性的感知。如果预期占领统治是短暂的，歧视将适得其反，因为持不同政见的父母将被边缘化的国家身份传给他们的孩子；强烈的代际社会化远远补偿了歧视的负面财富效应。如果相反，占领统治被认为会持续很长时间，歧视将实现其预期目标。智利占领秘鲁塔克纳（1880-1929年）和普鲁士占领北石勒苏益格（1866-1920年）的案例研究说明了这一逻辑。",
             "matched_topics": [
-              "公共政策"
+              "房地产"
             ]
           },
           {
-            "title_en": "How budget trade‐offs undermine electoral incentives to build public housing",
-            "title_zh": "预算权衡如何削弱建设公共住房的选举激励",
-            "url": "https://doi.org/10.1111/ajps.12939",
-            "abstract_en": "Abstract Housing shortages and rising rents have increased demands for affordable housing. In this paper, we examine whether electoral constraints can undermine local politicians' incentives to build public housing. Empirically, we draw on the full‐count census of all housing built in Germany, data on 19,685 local elections between 1989 and 2011, and an original survey. Using a difference‐in‐differences design, we demonstrate that incumbents are not rewarded, but rather experience moderate electoral losses after constructing new public housing. We then show that these losses are not primarily driven by homeowner opposition or native–foreigner competition. Instead, electoral punishment is largest in economically disadvantaged municipalities with relatively affordable housing, as voters prioritize spending in other local policy areas that are crowded out by public housing. Survey evidence demonstrates that electoral constraints emerge when voters' short‐term spending preferences conflict with municipalities' long‐term goals to provide affordable housing.",
-            "abstract_zh": "摘要：住房短缺和租金上涨增加了对经济适用房的需求。本文考察了选举约束是否会削弱地方政治家建设公共住房的激励。从实证角度，我们利用德国所有住房建设的完整普查数据、1989年至2011年间19,685次地方选举的数据以及一项原创调查。通过双重差分设计，我们证明现任者在建设新的公共住房后并未获得回报，反而经历了适度的选举损失。然后我们展示这些损失并非主要由房主反对或本地人-外国人竞争所驱动。相反，经济困难的市镇在相对经济适用房较多的情况下，选举惩罚最大，因为选民优先考虑其他被公共住房挤出的地方政策领域的支出。调查证据表明，当选民的短期支出偏好与市镇提供经济适用房的长期目标发生冲突时，选举约束就会出现。",
+            "title_en": "Persuasive lobbying and the value of connections",
+            "title_zh": "游说说服与关系价值",
+            "url": "https://doi.org/10.1111/ajps.12965",
+            "abstract_en": "Abstract The inflow of money into politics and the influence of interest groups on policies are well‐documented, but the monetary value of accessing policymakers is less well‐understood. As a result, it is unclear what inferences researchers can draw from lobbying expenditures about interest groups' strategies and their ideological alignment with policymakers. We study a model of informational lobbying with a collective decision‐making body and endogenous reforms to investigate the determinants of the value of access. We show that the funds flowing to a given policymaker depend not only on this policymaker's ideology and procedural power but also on the overall distribution of preferences and power among other policymakers. Two policymakers with the same ideology and procedural power might therefore attract different amounts of contributions, depending on the preferences of fellow policymakers. Our results help clarify empirical research linking lobbying expenditures by interest groups to politicians' ideologies and power.",
+            "abstract_zh": "摘要：资金流入政治和利益集团对政策的影响已有充分记录，但获取决策者的价值却鲜为人知。因此，研究者无法从游说支出中推断出利益集团的策略及其与决策者意识形态的一致性。我们研究了一个信息性游说模型，该模型包含一个集体决策机构和内生改革，以调查获取价值的决定因素。我们表明，流向特定决策者的资金不仅取决于该决策者的意识形态和程序权力，还取决于其他决策者之间的偏好和权力的整体分布。因此，具有相同意识形态和程序权力的两位决策者可能会吸引不同数量的贡献，这取决于其他决策者的偏好。我们的结果有助于阐明将利益集团的游说支出与政治家的意识形态和权力联系起来的实证研究。",
             "matched_topics": [
               "房地产",
-              "城市治理",
               "公共政策"
             ]
           },
           {
-            "title_en": "Correcting misperceptions about ethno‐racial discrimination: The limits of evidence‐based awareness raising to promote support for equal‐treatment policies",
-            "title_zh": "纠正对种族歧视的误解：基于证据的意识提升在促进平等待遇政策支持方面的局限性",
-            "url": "https://doi.org/10.1111/ajps.12933",
-            "abstract_en": "Abstract The disadvantages experienced by minorities and lack of societal remedies are partly attributable to native‐majority citizens’ limited awareness of minority hardships. We investigate whether informing citizens about field‐experimental audits on ethno‐racial discrimination increases their recognition of the issue and support for equal‐treatment policies. Extending a largely US‐centric research frontier, we focus on beliefs about discrimination faced by Muslims in Denmark. To further comprehension, we test three types of framing: a scientist stressing credibility, a lawyer emphasizing the legal breach, or a minority expressing grief. Our survey experiment ( n = 4,800) shows that citizens are generally aware of discrimination and tend to overperceive its extent. Communicating audit evidence corrects misperceptions but does not change recognition or policy support, regardless of framing or initial misperception. Only combining priming, correction, and framing temporarily increases recognition and donations to support groups. These findings suggest that audit‐based awareness campaigns have limited immediate success beyond donations acknowledging minority hardships.",
-            "abstract_zh": "摘要：少数群体所经历的不利处境以及社会补救措施的缺失，部分可以归因于主体民族公民对少数群体困境认识有限。我们研究了向公民通报有关种族歧视的现场实验审计是否会增加他们对问题的认识和对平等待遇政策的支持。我们扩展了主要集中于美国的研究中心，专注于丹麦穆斯林面临的歧视信念。为了进一步理解，我们测试了三种框架类型：强调可信度的科学家、强调法律违规的律师，或表达悲伤的少数群体。我们的调查实验（n=4800）显示，公民普遍意识到歧视，并倾向于高估其程度。传达审计证据可以纠正误解，但无论框架或最初的误解如何，都不会改变对问题的认识或政策支持。只有结合启动、纠正和框架，才能暂时增加对问题的认识和对支持团体的捐赠。这些发现表明，基于审计的意识提升活动在承认少数群体困境的捐赠之外，其立即成功有限。",
+            "title_en": "Endogenous opposition: Identity and ideology in Kuwaiti electoral politics",
+            "title_zh": "内生性反对：科威特选举政治中的身份与意识形态",
+            "url": "https://doi.org/10.1111/ajps.12960",
+            "abstract_en": "Abstract How do opposition elites succeed in authoritarian elections? Existing theories of authoritarian politics suggest a pivotal role for elections in enhancing the survival of incumbent dictators. Yet, in many contexts, opposition elites attract considerable support and constrain the policymaking authorities of these dictators. This article presents a theory of endogenous opposition that traces the electoral success of opposition elites to the strategic use of symbolic ideological appeals, or campaign appeals that cast politicians as allies of particular ideological movements. I present quantitative and qualitative evidence in support of my argument from Kuwait. I show that minority elites who use symbolic ideological appeals are more likely to capture voters from other minority groups. Once elected, these legislators are more likely to oppose the ruling family in the legislature. These findings challenge existing theories of authoritarian politics and point to ideology as an understudied source of opposition success in authoritarian elections.",
+            "abstract_zh": "摘要：反对派精英如何在威权选举中取得成功？现有的威权政治理论认为选举在增强现任独裁者的生存中扮演着关键角色。然而，在许多情况下，反对派精英吸引大量支持，并限制这些独裁者的决策权力。本文提出了一种内生反对派理论，将反对派精英的选举成功归因于策略性使用象征性意识形态诉求，或将政治人物塑造为特定意识形态运动盟友的竞选诉求。我从科威特提供了定量和定性证据来支持我的论点。我展示了使用象征性意识形态诉求的少数派精英更有可能从其他少数派群体中获得选民。一旦当选，这些立法者更有可能在立法机构中反对统治家族。这些发现挑战了现有的威权政治理论，并指出意识形态是威权选举中反对派成功研究不足的来源。",
             "matched_topics": [
               "公共政策"
-            ]
-          },
-          {
-            "title_en": "Populism and the rule of law: The importance of institutional legacies",
-            "title_zh": "民粹主义与法治：制度遗产的重要性",
-            "url": "https://doi.org/10.1111/ajps.12935",
-            "abstract_en": "Abstract Existing work sees populist governments undermining the rule of law because they seek to dismantle institutional constraints on their personalistic plebiscitarian rule. We argue that populist rulers pose a greater threat to legal impartiality, equality, and compliance when they face a legacy of weak rule of law. We find empirical support for this assertion after applying synthetic control methods to a cross‐country sample that includes up to 51 populist events spanning the period from 1920 to 2019. Our results remain consistent across a range of robustness checks including, the consideration of a set of contextual variables that can potentially determine the capacity of populist governments to sweep away institutional constraints, different populist event classifications, and different ways of measuring the rule of law. In countries, like the United States, with a robust rule of law tradition, the deleterious impact of populists on institutions will be limited but not negligible.",
-            "abstract_zh": "摘要：现有研究认为，民粹主义政府破坏法治，因为它们试图拆除对个人主义式全民公投统治的制度性约束。我们认为，当民粹主义统治者面临法治薄弱的遗留问题时，他们对法律的公正性、平等性和合规性构成更大的威胁。在将合成控制方法应用于包括从1920年到2019年的51起民粹主义事件的跨国样本后，我们为这一断言找到了经验支持。我们的结果在一系列稳健性检验中保持一致，包括考虑可能决定民粹主义政府扫除制度性约束能力的一系列背景变量、不同的民粹主义事件分类，以及不同的法治衡量方式。在美国等拥有健全法治传统的国家，民粹主义者对制度的破坏性影响将是有限的，但不容忽视。",
-            "matched_topics": [
-              "房地产",
-              "城市治理"
-            ]
-          },
-          {
-            "title_en": "Constraining to deter",
-            "title_zh": "限制以威慑",
-            "url": "https://doi.org/10.1111/ajps.12934",
-            "abstract_en": "Abstract Governments use a variety of tools to discourage, impede, or limit the ability of foreign adversaries to purse their ambitions. Some of these measures seek to constrain an opponent's capacity, while others seek to deter an opponent to take (or not) a particular action. We develop a theory to study how constraining and coercive threats interact strategically. Building on canonical models of deterrence, we first identify how coercive measures, in isolation, curb an aggressor's transgressions. We then identify when constraining measures and the threat of coercion (deterrence) are substitutes and when they are complements. In some cases, constraining measures make deterrence effective when it would otherwise fail (constraining to deter). Our results offer insights about measuring the effectiveness of various diplomatic tools. We highlight a series of novel empirical challenges stemming from the interaction of selection effects and ecological features of a sample of country dyads, and discuss potential solutions.",
-            "abstract_zh": "摘要：政府使用多种工具来阻止、阻碍或限制外国对手追求其野心的能力。其中一些措施旨在限制对手的能力，而另一些则旨在威慑对手采取（或不采取）特定行动。我们发展了一种理论来研究限制性和强制性威胁如何进行战略性互动。在威慑的经典模型基础上，我们首先确定在孤立情况下，强制性措施如何抑制侵略者的侵犯行为。然后我们确定限制性措施和威慑威胁（威慑）何时是替代品，何时是互补品。在某些情况下，限制性措施使威慑在本会失败的情况下变得有效（限制以威慑）。我们的结果提供了关于衡量各种外交工具有效性的见解。我们强调了一系列新的实证挑战，这些挑战源于样本中国家对的选择效应和生态特征的相互作用，并讨论了可能的解决方案。",
-            "matched_topics": [
-              "城市治理"
-            ]
-          },
-          {
-            "title_en": "The institutional foundations of the power to persuade",
-            "title_zh": "说服权力的制度基础",
-            "url": "https://doi.org/10.1111/ajps.12931",
-            "abstract_en": "Abstract Formal presidential authority does not always translate into real influence over policy outcomes: The bureaucratic actors that are responsible for policy implementation have considerable discretion. Presidents, however, have tools to influence their behavior. In this paper, we focus on presidential control of intra‐executive information flows . We show how the President's power to persuade depends on inter‐branch relations and intra‐branch institutions. We develop a theory in which the President can shape information available to bureaucratic subordinates via both overt, legitimate channels as well as covert, illegitimate interventions. We find that the President's ability to persuade bureaucrats to pursue her preferred goals can be reinforced by higher bureaucratic independence or more aggressive external oversight. We also show how bureaucratic independence mediates how overseer motivations translate into oversight intensity. Our theory predicts that Congress' investigative resources should target more independent agencies under divided government and less independent agencies under unified government.",
-            "abstract_zh": "摘要：正式的总统权力并不总能转化为对政策结果的实际影响力：负责政策执行的官僚行为者拥有相当大的自由裁量权。然而，总统有工具可以影响他们的行为。在本文中，我们关注总统对行政系统内部信息流动的控制。我们展示了总统的说服能力如何依赖于跨部门关系和部门内部机构。我们发展了一种理论，即总统可以通过公开的合法渠道以及秘密的非法干预，塑造官僚下属可获得的信息。我们发现，总统说服官僚追求她偏好目标的能力可以通过更高的官僚独立性或更积极的外部监督得到加强。我们还展示了官僚独立性如何调节监督者动机转化为监督强度。我们的理论预测，在分裂政府下，国会的调查资源应该针对更独立的机构，在统一政府下则针对较不独立的机构。",
-            "matched_topics": [
-              "公共政策"
-            ]
-          },
-          {
-            "title_en": "Differentially private survey research",
-            "title_zh": "差分隐私调查研究",
-            "url": "https://doi.org/10.1111/ajps.12890",
-            "abstract_en": "Abstract Survey researchers have long protected respondent privacy via de‐identification (removing names and other directly identifying information) before sharing data. Unfortunately, recent research demonstrates that these procedures fail to protect respondents from intentional re‐identification attacks, a problem that threatens to undermine vast survey enterprises in academia, government, and industry. This is especially a problem in political science because political beliefs are not merely the subject of our scholarship; they represent some of the most important information respondents want to keep private. We confirm the problem in practice by re‐identifying individuals from a survey about a controversial referendum declaring life beginning at conception. We build on the concept of “differential privacy” to offer new data‐sharing procedures with mathematical guarantees for protecting respondent privacy and statistical validity guarantees for social scientists analyzing differentially private data. The cost of these procedures is larger standard errors, which can be overcome with larger sample sizes.",
-            "abstract_zh": "摘要：调查研究人员长期以来通过去标识化（移除姓名和其他直接识别信息）来保护受访者隐私，然后再共享数据。不幸的是，最近的研究显示，这些程序无法保护受访者免受故意重新识别攻击，这个问题威胁到学术界、政府和工业中庞大的调查事业。这在政治学中尤其成问题，因为政治信仰不仅是我们学术研究的主题；它们代表了受访者想要保密的最重要信息之一。我们通过重新识别一个关于争议性公投的调查中的个体来证实实践中的问题，该公投宣称生命始于受孕。我们基于“差分隐私”的概念，提出了新的数据共享程序，为保护受访者隐私提供数学保证，为分析差分隐私数据的社会科学家提供统计有效性保证。这些程序的代价是标准误差更大，这可以通过更大的样本量来克服。",
-            "matched_topics": [
-              "房地产"
             ]
           }
         ],
@@ -330,16 +328,6 @@
         "total_in_issue": 18,
         "papers": [
           {
-            "title_en": "Courts in the Global South",
-            "title_zh": "全球南方国家的法院",
-            "url": "https://doi.org/10.1146/annurev-polisci-040623-113225",
-            "abstract_en": "Research on judicial politics has advanced considerably over the past few decades, particularly in the global South, a geopolitical region that has long been subjected to imbalanced relationships with more industrialized countries in the global North. The unique challenges confronting global South countries, including political and economic instabilities, limited state authority, and dilemmas of social integration, have shaped both the form and function of courts in these regions. We explore these implications in four key areas where a critical mass of scholarship has generated new insights and opportunities for future research: courts and stateness, courts in authoritarian regimes, courts in unstable democracies, and courts and social transformation. We show that in these areas, courts are often effective for a variety of purposes and according to standards different from those in the global North. We conclude with reflections on knowledge-building in this region and implications for future theorization and empirical inquiry.",
-            "abstract_zh": "过去几十年来，司法政治研究取得了显著进展，特别是在长期与全球北方工业化国家存在不平衡关系的全球南方地区。全球南方国家面临的政治和经济不稳定、国家权威有限以及社会融合困境等独特挑战，塑造了这些地区法院的形式和功能。我们在四个关键领域探讨了这些影响，这些领域积累了大量学术成果，为未来研究提供了新的见解和机会：法院与国家性、威权体制下的法院、不稳定民主体制下的法院以及法院与社会转型。我们表明，在这些领域，法院往往根据不同于全球北方的标准和目的而有效。最后，我们反思了该地区的知识构建以及对未来理论化和实证研究的影响。",
-            "matched_topics": [
-              "房地产"
-            ]
-          },
-          {
             "title_en": "AI as Governance",
             "title_zh": "人工智能治理",
             "url": "https://doi.org/10.1146/annurev-polisci-040723-013245",
@@ -348,6 +336,16 @@
             "matched_topics": [
               "房地产",
               "公共政策"
+            ]
+          },
+          {
+            "title_en": "Courts in the Global South",
+            "title_zh": "全球南方国家的法院",
+            "url": "https://doi.org/10.1146/annurev-polisci-040623-113225",
+            "abstract_en": "Research on judicial politics has advanced considerably over the past few decades, particularly in the global South, a geopolitical region that has long been subjected to imbalanced relationships with more industrialized countries in the global North. The unique challenges confronting global South countries, including political and economic instabilities, limited state authority, and dilemmas of social integration, have shaped both the form and function of courts in these regions. We explore these implications in four key areas where a critical mass of scholarship has generated new insights and opportunities for future research: courts and stateness, courts in authoritarian regimes, courts in unstable democracies, and courts and social transformation. We show that in these areas, courts are often effective for a variety of purposes and according to standards different from those in the global North. We conclude with reflections on knowledge-building in this region and implications for future theorization and empirical inquiry.",
+            "abstract_zh": "过去几十年来，司法政治研究取得了显著进展，特别是在长期与全球北方工业化国家存在不平衡关系的全球南方地区。全球南方国家面临的政治和经济不稳定、国家权威有限以及社会融合困境等独特挑战，塑造了这些地区法院的形式和功能。我们在四个关键领域探讨了这些影响，这些领域积累了大量学术成果，为未来研究提供了新的见解和机会：法院与国家性、威权体制下的法院、不稳定民主体制下的法院以及法院与社会转型。我们表明，在这些领域，法院往往根据不同于全球北方的标准和目的而有效。最后，我们反思了该地区的知识构建以及对未来理论化和实证研究的影响。",
+            "matched_topics": [
+              "房地产"
             ]
           },
           {
@@ -648,9 +646,29 @@
         "resolved_name": "Population Space and Place",
         "issue_title": "Volume 32, Issue 3",
         "issue_url": "https://onlinelibrary.wiley.com/journal/15448452",
-        "matched_count": 3,
-        "total_in_issue": 4,
+        "matched_count": 8,
+        "total_in_issue": 13,
         "papers": [
+          {
+            "title_en": "Diversity, Minority Share, and the Fertility Differential Between Turks and Han in China",
+            "title_zh": "多样性、少数民族比例与中国土耳其人和汉族之间的生育差异",
+            "url": "https://doi.org/10.1002/psp.70248",
+            "abstract_en": "ABSTRACT While fertility differentials between ethno‐racial groups are often attributed to socioeconomic or cultural factors, an emerging scholarship emphasises the importance of context for these differentials to occur. This study examines how context‐level ethnic composition (ethnic context) shapes fertility differentials using the case of Xinjiang, China. Contextual data from the 2010 decennial census were linked with individual‐level data from the 2015 micro‐census. Ethnic context was measured by minority share and ethnic diversity, while controlling for key individual and county‐level covariates. Hierarchical Poisson regressions show that minority share is positively associated with the number of children, whereas diversity is negatively associated. Moreover, ethnic diversity significantly reduced the fertility differential: Turks, in contrast to Han, reported lower fertility as local diversity increased and the Turk‐Han differentials narrowed. To interpret these findings, I combined quantitative analysis with a historical reading. I classified four ethnic context ideal types (the Industrial‐military type, the Han immigrant type, the Multicultural type, and the Indigenous type) and used a simple algorithm to pick three representative cases from each ideal type. With these ideal typical cases, I explained how historical processes have created the distinct ethnic contexts that matter for fertility outcomes.",
+            "abstract_zh": "摘要：尽管不同种族群体之间的生育差异常被归因于社会经济或文化因素，但新兴的学术研究强调了这些差异发生的背景的重要性。本研究以中国新疆为例，探讨了背景层面的民族构成（民族背景）如何塑造生育差异。将2010年十年一次的人口普查的背景数据与2015年微观人口普查的个体层面数据相链接。民族背景通过少数民族比例和民族多样性来衡量，同时控制了关键的个体和县级协变量。分层泊松回归显示，少数民族比例与孩子数量呈正相关，而多样性则呈负相关。此外，民族多样性显著降低了生育差异：随着当地多样性的增加，与汉族相比，维吾尔族报告的生育率较低，维吾尔族与汉族之间的差异缩小。为了解释这些发现，我将定量分析与历史阅读相结合。我将四种民族背景理想类型（工业-军事型、汉族移民型、多元文化型和土著型）进行分类，并使用简单算法从每种理想类型中挑选三个代表性案例。通过这些理想类型的案例，我解释了历史过程如何创造了对生育结果有影响的不同民族背景。",
+            "matched_topics": [
+              "房地产"
+            ]
+          },
+          {
+            "title_en": "Rural Retrenchment and Marginalization in Sweden? Evidence From Employment Registers and Survey Data",
+            "title_zh": "瑞典农村的缩减与边缘化？来自就业登记和调查数据的证据",
+            "url": "https://doi.org/10.1002/psp.70250",
+            "abstract_en": "ABSTRACT Debates about spatial inequality and rural discontent often invoke cutbacks of the public sector as a key factor in explaining political and social divides. Covering the period from 1993 to 2023, we use register‐based employment data and citizen surveys to study public employment, as well as trust in and satisfaction with public services across five types of municipalities, ranging from metropolitan to very sparse rural areas. By combining data on education and employer, we maximize comparability over time despite changing classification and the growth of private, publicly funded providers of welfare services. While total public employment has declined, the decline is not greater in rural municipalities. Employment per capita in healthcare and education has grown, more so in rural municipalities. The latter trend is partly but not entirely explained by population decline. On the other hand, functions of the night‐watchman state have contracted, disproportionately affecting sparsely populated regions. Survey evidence indicates that trust and satisfaction with public services have held steady or improved in rural municipalities, diverging from downward trends in metropolitan areas. These results complicate dominant narratives of rural marginalization and retrenchment.",
+            "abstract_zh": "摘要 关于空间不平等和农村不满的辩论常常将公共部门的削减作为解释政治和社会分歧的关键因素。本研究涵盖了1993年至2023年的时期，我们使用基于登记的就业数据和公民调查来研究公共就业，以及对公共服务的信任和满意度，涵盖了从大都市到非常稀疏的农村地区的五种类型的市政单位。通过结合教育和雇主的数据，我们最大限度地提高了随时间的可比性，尽管分类发生了变化，私人、公共资助的福利服务提供者也在增长。尽管公共就业总量有所下降，但农村市政单位的下降幅度并不更大。医疗保健和教育的人均就业增长了，农村市政单位的增长更为显著。这一趋势部分但并非完全由人口下降解释。另一方面，守夜人国家的功能已经收缩，不成比例地影响了人口稀少的地区。调查证据表明，农村市政单位对公共服务的信任和满意度保持稳定或有所提高，与大都市区的下降趋势背道而驰。这些结果使关于农村边缘化和撤退的主导叙述变得复杂。",
+            "matched_topics": [
+              "城市治理"
+            ]
+          },
           {
             "title_en": "The Impact of Social Integration on the Fertility Intentions of Migrants: Evidence From China",
             "title_zh": "社会融合对流动人口生育意愿的影响：来自中国的证据",
@@ -660,6 +678,38 @@
             "matched_topics": [
               "城市治理",
               "公共政策"
+            ]
+          },
+          {
+            "title_en": "“Keep or Push?” The Retention of Canadian Postsecondary Graduates in Their Study Cities",
+            "title_zh": "“留下还是离开？”加拿大高等教育毕业生在求学城市的留存",
+            "url": "https://doi.org/10.1002/psp.70261",
+            "abstract_en": "ABSTRACT As smaller Canadian regions continue to face retention challenges, there is a question as to how postsecondary graduates can contribute to the alleviation of this issue by remaining in their study locations postgraduation. While most previous studies have focused on regional internal mobility trends and rarely engaged causality, this study delves into the potential causal factors that influence retention of postsecondary graduates at the city level, comparing retention patterns between international and domestic graduates. Using the Post Secondary Information System, the study analyses the probability of graduates remaining in their study city within 5 years of graduation using the Cox Proportional Hazard Model. The study reveals that immigration status, study location, study level, and study field are predictors of graduate retention. The findings suggest that facilitating transitioning to permanent residency, focusing on graduates from non‐degree programs, and supporting early‐career individuals could improve retention rates.",
+            "abstract_zh": "摘要：随着加拿大较小地区持续面临人才留存挑战，人们开始探讨高等教育毕业生如何通过毕业后留在学习地点来缓解这一问题。尽管大多数先前的研究都集中在地区内部流动性趋势上，很少涉及因果关系，但本研究深入探讨了影响城市层面高等教育毕业生留存的潜在因果因素，并比较了国际和国内毕业生的留存模式。利用高等教育信息系统，本研究采用Cox比例风险模型分析了毕业生在毕业后5年内留在学习城市的概率。研究揭示了移民身份、学习地点、学习层次和学习领域是毕业生留存的预测因素。研究结果表明，促进过渡到永久居留权、关注非学位课程的毕业生以及支持早期职业个体，可以提高留存率。",
+            "matched_topics": [
+              "城市治理"
+            ]
+          },
+          {
+            "title_en": "“The Visa Situation Was Far More Stressful Than COVID”: State‐Constructed Vulnerability and the COVID‐19 Pandemic Among Temporary Migrants in Aotearoa New Zealand",
+            "title_zh": "“签证状况比新冠疫情更令人焦虑”：新西兰临时移民中的国家构建脆弱性与COVID-19大流行",
+            "url": "https://doi.org/10.1002/psp.70252",
+            "abstract_en": "ABSTRACT This study explores the experiences of temporary migrants in Aotearoa New Zealand during the COVID‐19 pandemic, situating their narratives within broader regional and global patterns of mobility restriction and migrant precarity. Drawing on 85 in‐depth interviews with participants from linguistic minority backgrounds in Christchurch—including 29 temporary migrant visa holders—we investigate how visa‐related insecurity, family separation, restricted mobility and exclusion from government support systems compounded pre‐existing structural vulnerabilities. While New Zealand's pandemic responses were internationally commended, our findings show that its migration and border policies disproportionately disadvantaged temporary migrants, many of whom were also ‘essential workers’ in key industries. Participants frequently described visa precarity as more distressing than the threat of the virus itself, exposing how state policies unevenly distributed rights and protections among those expected to fulfill the same public health responsibilities. Building on the concept of ‘state‐constructed vulnerability’, this paper demonstrates how policy decisions, institutional neglect and migration governance produced and intensified migrant precarity during the pandemic. These vulnerabilities intersected with factors such as race, language, class and employment dependence. We also draw on scholarship on 'differential inclusion' to demonstrate how temporary migrants were simultaneously indispensable and marginalized, incorporated economically while excluded from rights, mobility and security. We argue for more equitable and rights‐based migration policies that acknowledge temporary migrants' social realities and ensure their protection and support in both pandemic and non‐pandemic contexts.",
+            "abstract_zh": "摘要 本研究探讨了在COVID-19大流行期间，新西兰临时移民的经历，将他们的叙述置于更广泛的区域和全球流动性限制和移民不稳定性的模式之中。基于对克赖斯特彻奇来自语言少数群体的85名参与者（包括29名临时移民签证持有者）的深入访谈，我们调查了签证相关的不安全感、家庭分离、行动受限和被排除在政府支持系统之外是如何加剧了先前存在的结构性脆弱性。尽管新西兰的大流行应对措施在国际上受到赞誉，但我们的发现表明，其移民和边境政策对临时移民造成了不成比例的不利影响，其中许多人也是关键行业的“基本工人”。参与者经常描述签证不稳定比病毒本身的威胁更令人痛苦，暴露了国家政策如何在预期履行相同公共卫生责任的人之间不均匀地分配权利和保护。在“国家构建的脆弱性”概念的基础上，本文展示了政策决策、制度忽视和移民治理如何在大流行期间产生和加剧了移民的不稳定性。这些脆弱性与种族、语言、阶级和就业依赖等因素相交。我们还借鉴了关于“差异化包容”的学术研究，以展示临时移民是如何同时不可或缺和边缘化的，经济上被纳入而从权利、流动性和安全上被排除。我们主张采取更公平、基于权利的移民政策，承认临时移民的社会现实，并确保在大流行和非大流行背景下对他们的保护和支持。",
+            "matched_topics": [
+              "房地产",
+              "公共政策"
+            ]
+          },
+          {
+            "title_en": "The Inaccessible Ithaca: The Never‐Ending Journey of Albanian Returned Migrants to the Ideal Home",
+            "title_zh": "难以抵达的伊萨卡：阿尔巴尼亚归国移民对理想家园永无止境的追寻",
+            "url": "https://doi.org/10.1002/psp.70254",
+            "abstract_en": "ABSTRACT We examine the meanings that Albanian returned migrants from Greece and Italy attach to the notion of home or homeplace. We analyse 25 interviews with returned migrants who lived abroad for over 6 years and have since settled in Tirana and Durrës. The focus is on three interrelated aspects of place attachment: belonging, security and familiarity. While trying to define their homeplace, the returned migrants engage in a process of comparing their current situation in Albania with the country's communist past, and with their experiences in Greece or Italy. They give a rich picture of the political, economic and social environments within these timespaces, highlighting both the positive and negative aspects of each. The sum of all the positive aspects of the three timespaces constitutes the world in which they can find their ideal home, a familiar place where they feel they belong and achieve a sense of security and a better life. However, this ideal place is not to be found anywhere in reality, as none of the three societies provides everything that they are looking for. Before returning, Albania was their home. Now it is not anymore. The changes that have taken place to the urban and social environments disrupt their sense of belonging, leaving them feeling uprooted, placeless and even homeless. Consequently, the establishment of any ‘Ithaca’ as a destination, as well as their sailing towards it, is neither easily determinable nor easily accessible.",
+            "abstract_zh": "摘要 我们研究了从希腊和意大利返回的阿尔巴尼亚移民对家或家园地的概念所赋予的意义。我们分析了25名在国外生活超过6年、现已在地拉那和都拉斯定居的返回移民的访谈。研究重点放在与地方依恋相关的三个相互关联的方面：归属感、安全感和熟悉度。在试图定义他们的家园地时，这些返回的移民将他们在阿尔巴尼亚的当前状况与该国的共产主义过去以及他们在希腊或意大利的经历进行比较。他们提供了这些时空中政治、经济和社会环境的丰富画面，突出了每个环境的积极和消极方面。这三个时空的所有积极方面之和构成了他们可以找到理想家园的世界，一个他们感到归属、获得安全感和更好生活的地方。然而，这个理想的地方在现实中无处可寻，因为这三个社会都没有提供他们所寻求的一切。在返回之前，阿尔巴尼亚是他们的家。现在不再是了。城市和社会环境的变化打乱了他们的归属感，使他们感到无根、无家可归，甚至无家可归。因此，任何“伊萨卡”作为目的地的建立，以及他们向它的航行，既不容易确定，也不容易接近。",
+            "matched_topics": [
+              "房地产",
+              "城市治理"
             ]
           },
           {
@@ -766,7 +816,7 @@
             "title_zh": "精简治理：如何通过“一事一议”倡议减轻城市行政负担并优化监管环境",
             "url": "https://doi.org/10.1177/00208523251381187",
             "abstract_en": "Administrative burden has emerged as a critical lens for understanding the unintended consequences of public service delivery and regulatory practices. While the concept has been extensively applied to analyze citizen–state interactions, less attention has been paid to how administrative burden affects private actors. This study addresses this gap by extending administrative burden theory to the domain of public–private partnerships, with a focus on how “one matter initiatives” in developing countries can alleviate regulatory barriers. Drawing on firm-level data from the World Bank Enterprise Survey, we examine whether and how streamlining governance reduces administrative burden and improves the regulatory climate. The empirical results show that streamlining governance significantly reduces administrative burden and enhances the regulatory climate. These effects are more pronounced for small and medium-sized enterprises, underscoring the reform's distributional impact. Mediation analysis shows that administrative burden serves as a key mechanism through which reform initiatives influence business perceptions of government performance. The findings highlight the relevance of administrative burden theory in non-Western governance contexts and demonstrate the value of incorporating business perspectives into public administration research. By offering empirical evidence from China’s “One Matter Initiative”, this study contributes to a more global and nuanced understanding of how streamlining governance can foster a more enabling environment for enterprise development. Points for practitioners This study highlights that streamlining administrative procedures through initiatives like China’s “One Matter Initiative” significantly reduces administrative burden. For practitioners, the findings suggest that procedural simplification can effectively improve public–private partnerships, particularly in non-Western governance systems. Focusing on service coordination and reducing transaction friction is key to responsive and business-oriented public administration. Megacity Governance in China shows how reform-driven streamlining governance can reshape regulatory practices. The “One Matter Initiative” demonstrates that reducing administrative burden is not only a technical efficiency but also a strategic step toward building good city governance. For practitioners, the key lesson is that coordinated service delivery and burden reduction carry broader significance: they reinforce city governance capacity and offer a replicable model for reform in other contexts.",
-            "abstract_zh": "行政负担已成为理解公共服务交付和监管实践意外后果的关键视角。尽管这一概念已广泛应用于分析公民与国家之间的互动，但对于行政负担如何影响私人行为者的关注较少。本研究通过将行政负担理论扩展到公私合作伙伴关系领域，填补了这一空白，重点关注发展中国家的“一事一议”倡议如何减轻监管障碍。利用世界银行企业调查的公司级数据，我们检验了简化治理是否以及如何减少行政负担并改善监管环境。实证结果表明，简化治理显著减少了行政负担并增强了监管环境。这些效应在中小企业中更为明显，突显了改革的分配影响。中介分析显示，行政负担是改革举措影响企业对政府绩效感知的关键机制。研究结果强调了行政负担理论在非西方治理环境中的相关性，并证明了将商业视角纳入公共行政研究的价值。通过提供中国“一事一议”倡议的实证证据，本研究有助于更全面、细致地理解简化治理如何促进企业发展的更有利环境。实践者要点：本研究强调，通过中国“一事一议”等倡议简化行政程序显著减少了行政负担。对于实践者来说，研究结果表明，程序简化可以有效改善公私合作伙伴关系，特别是在非西方治理体系中。专注于服务协调和减少交易摩擦是响应迅速、以业务为导向的公共行政的关键。中国的超大城市治理展示了改革驱动的简化治理如何重塑监管实践。“一事一议”倡议表明，减少行政负担不仅是技术效率问题，也是建设良好城市治理的战略步骤。对于实践者来说，关键教训是协调服务交付和负担减轻具有更广泛的意义：...",
+            "abstract_zh": "行政负担已成为理解公共服务交付和监管实践意外后果的关键视角。尽管这一概念已广泛应用于分析公民与国家之间的互动，但对于行政负担如何影响私人行为者的关注较少。本研究通过将行政负担理论扩展到公私合作伙伴关系的领域，填补了这一空白，重点关注发展中国家的“一事一议”倡议如何减轻监管障碍。利用世界银行企业调查的公司层面数据，我们检验了简化治理是否以及如何减少行政负担并改善监管环境。实证结果表明，简化治理显著减少了行政负担并增强了监管环境。这些效应在中小企业中更为明显，突显了改革的分配影响。中介分析显示，行政负担是改革举措影响企业对政府绩效感知的关键机制。研究结果强调了行政负担理论在非西方治理环境中的相关性，并证明了将商业视角纳入公共行政研究的价值。通过提供中国“一事一议”倡议的实证证据，本研究有助于更全面、细致地理解简化治理如何促进企业发展的更有利环境。实践者要点：本研究强调，通过中国“一事一议”等倡议简化行政程序显著减少了行政负担。对于实践者来说，研究结果表明，程序简化可以有效改善公私合作伙伴关系，特别是在非西方治理体系中。专注于服务协调和减少交易摩擦是响应迅速、以业务为导向的公共行政的关键。中国的超大城市治理展示了改革驱动的简化治理如何重塑监管实践。“一事一议”倡议表明，减少行政负担不仅是技术效率问题，也是建设良好城市治理的战略步骤。对于实践者来说，关键教训是协调服务交付和负担减轻具有更广泛的意义：...",
             "matched_topics": [
               "城市治理",
               "公共政策"
