@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-19 05:19:15",
+  "updated_at": "2026-04-26 05:30:14",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 19,
+    "success_count": 26,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -704,7 +704,7 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-05",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 11,
+        "matched_count": 12,
         "total_in_issue": 19,
         "papers": [
           {
@@ -758,19 +758,19 @@
             ]
           },
           {
-            "title_en": "Agricultural imports, labor mobility, and welfare",
-            "title_zh": "农业进口、劳动力流动性与福利",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104256",
-            "abstract_en": "",
-            "abstract_zh": "",
+            "title_en": "Europe falling behind: Structural transformation and labor productivity growth differences between Europe and the U.S.",
+            "title_zh": "欧洲落后：欧洲与美国之间的结构转型和劳动生产率增长差异",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104262",
+            "abstract_en": "This paper investigates the convergence and subsequent divergence of labor productivity between the U.S. and Europe through a quantitative general equilibrium framework that integrates endogenous changes in employment shares as a function of exogenous and unbalanced labor productivity growth rates across sectors. We calibrate our model to the U.S. and test it against Europe from 1970 to 2019. Our model accurately captures structural transformation and aggregate labor productivity paths, as well as the timing of Europe’s transition from convergence to divergence relative to the U.S. Leveraging a set of numerical experiments, we find that the reallocation of labor toward less productive sectors in response to sectoral productivity changes hinders the potential effects that the productivity growth in market services may have on the aggregate labor productivity: The heterogeneous productivity observed within services brings forth a Baumol cost disease whereby productive sectors gain less employment share than their productivity growth would imply under constant shares, despite their strong income effects. An extended version of our model that accounts for international trade suggests that it is implausible for Europe to export its way out of the aggregate stagnation unleashed by labor reallocation toward unproductive sectors. • European labor productivity caught up with the US until 1995, then diverged. • Divergence reflects widening gaps in business and financial services productivity. • A six-sector structural transformation model reproduces the full 1970–2019 pattern. • Trade linkages amplify the divergence: Europe exports from less dynamic sectors. • Business and financial services account for most of the post-1995 productivity gap.",
+            "abstract_zh": "本文通过一个定量的一般均衡框架，研究了美国与欧洲之间劳动生产率的收敛和随后的发散，该框架整合了就业份额的内生变化作为跨部门外生和不平衡劳动生产率增长的函数。我们将模型校准到美国，并从1970年到2019年对其进行欧洲测试。我们的模型准确地捕捉了结构转型和总体劳动生产率路径，以及欧洲相对于美国从收敛到发散的过渡时机。利用一系列数值实验，我们发现，劳动力向生产率较低部门的重新分配，以应对部门生产率变化，阻碍了市场服务业生产率增长可能对总体劳动生产率的潜在影响：服务业内部观察到的异质性生产率引发了鲍莫尔成本病，即生产性部门获得的就业份额低于其生产率增长在恒定份额下所暗示的，尽管它们有强烈的收入效应。我们的模型的一个扩展版本考虑了国际贸易，表明欧洲通过出口摆脱劳动力向非生产性部门重新分配所引发的总体停滞是不可置信的。• 欧洲劳动生产率在1995年之前赶上了美国，然后发散。• 发散反映了商业和金融服务生产率差距的扩大。• 一个六部门结构转型模型再现了1970-2019年的完整模式。• 贸易联系放大了发散：欧洲从较不活跃的部门出口。• 商业和金融服务占1995年后生产率差距的大部分。",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "The local-area incidence of exporting",
-            "title_zh": "地区出口发生率",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104257",
+            "title_en": "Agricultural imports, labor mobility, and welfare",
+            "title_zh": "农业进口、劳动力流动性与福利",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104256",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -788,6 +788,16 @@
             ]
           },
           {
+            "title_en": "The local-area incidence of exporting",
+            "title_zh": "地区出口发生率",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104257",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
             "title_en": "The US-China trade war creates jobs (elsewhere)",
             "title_zh": "美中贸易战创造（其他地方的）就业",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104249",
@@ -798,25 +808,23 @@
             ]
           },
           {
-            "title_en": "Exports and intergenerational mobility",
-            "title_zh": "出口与代际流动性",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104239",
-            "abstract_en": "Using eight rounds of the Vietnam Household Living Standards Surveys spanning 16 years and exploiting the US-Vietnam Bilateral Trade Agreement (BTA) in 2001, we investigate the impact of this large export shock on intergenerational occupational mobility. The BTA has, on average, led to greater upward absolute occupational mobility among sons and daughters, with effects following roughly a U-shape by age for sons and an inverse-U for daughters. However, relative occupational mobility, inversely related to the gradient of the child’s occupational rank as a function of the parent’s, decreased on average as a result of the BTA, with this effect also varying across age groups. While the BTA improved occupational mobility for an average child, children born to top-ranked parents benefited disproportionately. Also, the BTA increased human capital investment in college education across genders and vocational training for sons. Furthermore, higher individual and initial province-level human capital facilitated this mobility.",
-            "abstract_zh": "利用历时16年的八轮越南家庭生活水平调查数据，并利用2001年美越双边贸易协定（BTA），我们研究了这一大规模出口冲击对代际职业流动性的影响。BTA平均而言，导致子女的职业绝对流动性更大，对儿子的影响大致呈U形随年龄变化，对女儿则呈倒U形。然而，相对职业流动性，与孩子职业排名作为父母职业排名函数的梯度成反比，平均而言由于BTA而减少，这种效应也因年龄组而异。尽管BTA提高了普通儿童的职业流动性，但出生在排名最高的父母家庭的儿童受益更多。此外，BTA还增加了跨性别的大学教育人力资本投资，以及对儿子的职业培训。此外，更高水平的个人和初始省级人力资本促进了这种流动性。",
+            "title_en": "Global value chains and inflation dynamics",
+            "title_zh": "全球价值链与通货膨胀动态",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104261",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
-              "创新药"
+              "国际贸易"
             ]
           },
           {
-            "title_en": "Estimating export-productivity cutoff contours with profit data: A novel threshold estimation approach",
-            "title_zh": "利用利润数据估算出口-生产率临界轮廓：一种新的阈值估计方法",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104254",
-            "abstract_en": "This paper develops a novel method to estimate firm-specific market-entry thresholds in international economics, allowing fixed costs to vary across firms alongside productivity. Our framework models market entry as an interaction between productivity and observable fixed-cost measures, extending traditional single-threshold models to ones with set-valued thresholds. Applying this approach to Chinese firm data, we estimate export-market entry thresholds as functions of domestic sales and surrogate variables for fixed costs. The results reveal substantial heterogeneity and threshold contours, challenging conventional single-threshold-point assumptions. These findings offer new insights into firm behavior and provide a foundation for further theoretical and empirical advancements in trade research.",
-            "abstract_zh": "本文提出了一种新的方法来估计国际经济学中企业特定的市场进入门槛，允许固定成本和生产率在不同企业之间变化。我们的框架将市场进入建模为生产率和可观察的固定成本度量之间的相互作用，将传统的单一阈值模型扩展到具有集合值阈值的模型。将这种方法应用于中国企业数据，我们估计出口市场进入门槛作为国内销售和固定成本替代变量的函数。结果揭示了巨大的异质性和阈值轮廓，挑战了传统的单一阈值点假设。这些发现为理解企业行为提供了新的见解，并为贸易研究的进一步理论和实证进展奠定了基础。",
+            "title_en": "Globalization and the gender gap in mental well-being",
+            "title_zh": "全球化与心理健康性别差异",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104253",
+            "abstract_en": "Working with business partners in distant countries often requires operating outside standard working hours, potentially harming workers’ mental well-being—especially for women balancing professional and family responsibilities. This hypothesis is investigated using matched employer–employee data from Denmark merged with information on workers’ use of prescription antidepressants (AD) and firms’ import and export transactions. The analysis exploits variation within job spells and controls for both unobservable firm-year heterogeneity and for the average differential in annual AD use among men and women. The results indicate that a decline in the business hours overlap between a Danish firm and its foreign trading partners leads to an increased AD use among women relative to men. This effect is economically meaningful, largest for college-educated workers under 45 and more pronounced for single mothers. In addition to the gender effect, workers in occupations that requires establishing relationships with others are more strongly affected than those in other occupations.",
+            "abstract_zh": "与遥远国家的商业伙伴合作通常需要在标准工作时间之外运营，这可能会损害工人的心理健康——特别是对于平衡职业和家庭责任的女性。本文利用丹麦的匹配雇主-雇员数据，结合工人使用抗抑郁药（AD）的信息以及公司的进出口交易信息，对这一假设进行了研究。分析利用工作周期内的变化，并控制了不可观察的公司年度异质性和男女之间年度AD使用的平均差异。结果表明，丹麦公司与其外国贸易伙伴之间的营业时间重叠减少，导致女性相对于男性的AD使用增加。这一效应在经济上是有意义的，对于45岁以下受过大学教育的工人来说最大，对于单身母亲来说更为明显。除了性别效应外，需要与他人建立关系的职业的工人比其他职业的工人受到的影响更大。",
             "matched_topics": [
               "国际贸易",
-              "国际经济",
               "创新药"
             ]
           }
@@ -830,8 +838,8 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 8,
-        "total_in_issue": 27,
+        "matched_count": 12,
+        "total_in_issue": 32,
         "papers": [
           {
             "title_en": "The art of not being chocked: Environmental awareness, residents' responses and land transactions in China",
@@ -839,6 +847,16 @@
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103757",
             "abstract_en": "",
             "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "C'est la vie!: Mixed impacts of an edutainment television series in West Africa",
+            "title_zh": "这就是生活！：西非一个教育娱乐电视系列的混合影响",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103748",
+            "abstract_en": "Edutainment is a promising tool for changing behavior at scale, yet little is known about how to maximize impacts. We undertake an experimental evaluation of a popular West African television series, C’est la vie!, delivered through film clubs targeted at adolescent girls and young women in rural Senegal. We examine impacts on violence against women and girls and sexual and reproductive health. Results show C’est la vie! improved knowledge on both domains three months after film clubs ended, as well as violence-related attitudes nine months later, however, had no impact on behaviors. We investigate design components intended to strengthen impacts, generally finding no additional impacts from post-screening discussions, engaging men, and podcasts. Our findings suggest that edutainment is an engaging way to reach viewers on sensitive themes, however more evidence is needed on how to effectively deliver edutainment content for sustained behavior change at scale. • Using a cluster randomized control trial, we evaluate a popular West African TV series. • We examine impacts on violence against women and girls (VAWG) and sexual and reproductive health (SRH). • We find short term knowledge gains in both domains and improved medium term VAWG attitudes. • We find no impact on behaviors. • We find no additional impacts from post-screening discussions, engaging men, and podcasts.",
+            "abstract_zh": "教育娱乐是改变大规模行为的有前途的工具，但如何最大化影响却鲜为人知。我们对西非流行的电视剧《这就是生活！》进行了实验性评估，该剧通过针对塞内加尔农村少女和年轻女性的电影节俱乐部进行传播。我们检验了对针对妇女和女童的暴力行为以及性和生殖健康的影响。结果显示，《这就是生活！》在电影节结束后三个月提高了两个领域的知识，九个月后改善了与暴力相关的态度，但对行为没有影响。我们调查了旨在加强影响的设计要素，通常发现放映后讨论、吸引男性和播客没有额外影响。我们的发现表明，教育娱乐是吸引观众关注敏感主题的有趣方式，但需要更多证据来了解如何有效地传播教育娱乐内容，以实现大规模的持续行为改变。• 我们使用集群随机对照试验评估了一部流行的西非电视剧。• 我们检验了对针对妇女和女童的暴力行为（VAWG）和性和生殖健康（SRH）的影响。• 我们发现在两个领域都有短期知识收益和中期VAWG态度的改善。• 我们发现对行为没有影响。• 我们发现放映后讨论、吸引男性和播客没有额外影响。",
             "matched_topics": [
               "创新药"
             ]
@@ -855,16 +873,6 @@
             ]
           },
           {
-            "title_en": "C'est la vie!: Mixed impacts of an edutainment television series in West Africa",
-            "title_zh": "这就是生活！：西非一个教育娱乐电视系列的混合影响",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103748",
-            "abstract_en": "Edutainment is a promising tool for changing behavior at scale, yet little is known about how to maximize impacts. We undertake an experimental evaluation of a popular West African television series, C’est la vie!, delivered through film clubs targeted at adolescent girls and young women in rural Senegal. We examine impacts on violence against women and girls and sexual and reproductive health. Results show C’est la vie! improved knowledge on both domains three months after film clubs ended, as well as violence-related attitudes nine months later, however, had no impact on behaviors. We investigate design components intended to strengthen impacts, generally finding no additional impacts from post-screening discussions, engaging men, and podcasts. Our findings suggest that edutainment is an engaging way to reach viewers on sensitive themes, however more evidence is needed on how to effectively deliver edutainment content for sustained behavior change at scale. • Using a cluster randomized control trial, we evaluate a popular West African TV series. • We examine impacts on violence against women and girls (VAWG) and sexual and reproductive health (SRH). • We find short term knowledge gains in both domains and improved medium term VAWG attitudes. • We find no impact on behaviors. • We find no additional impacts from post-screening discussions, engaging men, and podcasts.",
-            "abstract_zh": "教育娱乐是改变大规模行为的有前途的工具，但如何最大化影响却鲜为人知。我们对西非流行的电视剧《这就是生活！》进行了实验性评估，该剧通过针对塞内加尔农村少女和年轻女性的电影节俱乐部进行传播。我们检验了对针对妇女和女童的暴力行为以及性和生殖健康的影响。结果显示，《这就是生活！》在电影节结束后三个月提高了两个领域的知识，九个月后改善了与暴力相关的态度，但对行为没有影响。我们调查了旨在加强影响的设计要素，通常发现放映后讨论、吸引男性和播客没有额外影响。我们的发现表明，教育娱乐是吸引观众关注敏感主题的有趣方式，但需要更多证据来了解如何有效地传播教育娱乐内容，以实现大规模的持续行为改变。• 我们使用集群随机对照试验评估了一部流行的西非电视剧。• 我们检验了对针对妇女和女童的暴力行为（VAWG）和性和生殖健康（SRH）的影响。• 我们发现在两个领域都有短期知识收益和中期VAWG态度的改善。• 我们发现对行为没有影响。• 我们发现放映后讨论、吸引男性和播客没有额外影响。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
             "title_en": "Foreign interventions and community cohesion in times of conflict",
             "title_zh": "外干预与冲突时期的社区凝聚力",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103751",
@@ -872,6 +880,16 @@
             "abstract_zh": "外国干预的成功在很大程度上取决于当地社区的凝聚力，这些社区在反叛乱和重建努力中扮演着相关伙伴的角色。利用阿富汗军事基地位置和反叛乱援助的独特数据，我展示了国际安全援助部队（ISAF）的存在对社会凝聚力产生了负面影响，这种凝聚力通过社区内的支持、与社区机构的参与以及信任来衡量。我利用地理回归不连续设计来估计ISAF地理任务扩大的效果，并辅以涵盖其行动强度化的面板分析。这些发现似乎并不反映非正式机构被正式提供挤出；相反，它们与更高的不安全感和对当地机构信心的降低相吻合，为观察到的社区凝聚力的侵蚀提供了一个合理的解释。这些发现对外交政策具有重要意义，特别是在社区补偿正式制度提供缺口的背景下。• 研究使用了外国军事基地和反叛乱援助的地理编码数据。• 地理RD和面板证据识别了扩张和强度的效果。• 外国军事存在削弱了阿富汗的社会凝聚力（2005-2010年）。• 没有挤出的证据；结果与更高的不安全感和更低的信心相关。• 结果与干预后“经验教训”的定性证据一致。",
             "matched_topics": [
               "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Chat over coffee? Diffusion of agronomic practices and market spillovers in Rwanda",
+            "title_zh": "咖啡聊天？卢旺达农艺实践的传播与市场溢出效应",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103733",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
               "创新药"
             ]
           },
@@ -886,9 +904,40 @@
             ]
           },
           {
+            "title_en": "The limits of local laws in global supply chains: Cutting ties or “edutrading” procurement partners?",
+            "title_zh": "全球供应链中地方法律的局限性：切断联系还是“教育交易”采购伙伴？",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103804",
+            "abstract_en": "We study the procurement patterns of non-listed firms and examine how these often-overlooked, yet pivotal players in global supply chains adjust their sourcing when they anticipate accountability for externalities beyond their organizational boundaries. Using granular customs data and a surprise information release about the German Supply Chain Due Diligence Act, product-level regressions reveal that importing firms are 3.5 percentage points less likely to source a product from countries where the relevant production sector exhibits elevated ESG-related risks, suggesting that firms tend to cut ties with higher-risk suppliers. The effects are concentrated among firms with well-diversified supplier networks for a product and higher profitability, suggesting they have the necessary flexibility to respond quickly to anticipated regulatory pressure. Our findings suggest that mandates requiring firms to incorporate broad sustainability considerations into their operational decisions may have limits, particularly for non-listed firms. • Can regulation mandating firms to “edutrade” suppliers be effective? • Accountability for supply chain ESG risks linked to dropping risky suppliers. • Diversified supplier network and high profits allow firms to adjust sourcing. • Big Four-audited firms show stronger procurement adjustments. • Potential limits of supply chain due diligence mandates for non-listed firms.",
+            "abstract_zh": "我们研究了非上市公司的采购模式，并检验了这些常被忽视但在全球供应链中扮演关键角色的参与者在预期对组织边界之外的外部性负责时，如何调整其采购来源。利用详细的海关数据和关于德国供应链尽职调查法的意外信息发布，产品级别的回归分析显示，进口公司从相关生产部门表现出较高ESG相关风险的国家采购产品的可能性低3.5个百分点，这表明公司倾向于切断与高风险供应商的联系。这些效应集中在拥有产品多样化供应商网络和较高盈利能力的公司中，表明它们有必要的灵活性，能够迅速响应预期的监管压力。我们的发现表明，要求公司将广泛的可持续性考虑纳入其运营决策的法规可能存在局限性，特别是对于非上市公司。• 规定公司“教育贸易”供应商的法规能否有效？• 对供应链ESG风险的问责与放弃风险供应商相关。• 多样化的供应商网络和高利润使公司能够调整采购。• 四大审计公司显示出更强的采购调整。• 非上市公司供应链尽职调查法规的潜在局限性。",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Ancestral irrigation and collective climate action",
+            "title_zh": "祖传灌溉与集体气候行动",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103805",
+            "abstract_en": "This study examines the long-term legacy of ancestral irrigation for contemporary climate change policies. Using geographic suitability for irrigated agriculture as a plausibly exogenous source of variation in historical irrigation adoption, we find that societies whose ancestors jointly practiced irrigated agriculture during the pre-industrial era tend to adopt less effective climate change policies today. Additional evidence suggests that pro-climate political responses to the growing salience of climate action, driven by exposure to severe natural disasters, are significantly weaker in societies historically dependent on irrigated agriculture. We propose and document empirically that ancestral irrigation, marked by intensive neighborhood-based cooperation and interdependence, contributed to the early formation of tight kinship networks. These networks likely constrained impersonal cooperation across kin boundaries, weakening collective pro-climate action. • This study examines a potential historical origin of variation in cooperative norms relevant for climate change mitigation. • Societies whose ancestors jointly practiced irrigated agriculture during the pre-industrial era tend to adopt less effective climate change policies today. • Pro-climate political responses to the growing salience of climate action are significantly weaker in societies historically dependent on irrigated agriculture. • Ancestral irrigation, marked by intensive neighborhood-based cooperation and interdependence, contributed to the early formation of tight kinship networks. • Ancestral kinship tightness likely constrained impersonal cooperation across kin boundaries, weakening collective pro-climate action.",
+            "abstract_zh": "本研究考察了祖先灌溉对当代气候变化政策的长期影响。利用地理适宜性作为灌溉农业的外生变量来源，我们发现那些在前工业时代祖先共同实践灌溉农业的社会，今天往往采取效果较差的气候变化政策。额外证据表明，受严重自然灾害影响，历史上依赖灌溉农业的社会在应对气候行动日益显著的政治响应中，对气候的积极政治反应明显较弱。我们提出并实证记录，祖先灌溉，以基于社区的密集合作和相互依存为标志，促成了早期紧密血缘网络的形成。这些网络可能限制了跨血缘界限的非个人合作，削弱了集体支持气候行动。• 本研究考察了与气候变化缓解相关的合作规范变化的潜在历史起源。• 那些在前工业时代祖先共同实践灌溉农业的社会，今天往往采取效果较差的气候变化政策。• 历史上依赖灌溉农业的社会，在应对气候行动日益显著的政治响应中，对气候的积极政治反应明显较弱。• 祖先灌溉，以基于社区的密集合作和相互依存为标志，促成了早期紧密血缘网络的形成。• 祖先血缘紧密性可能限制了跨血缘界限的非个人合作，削弱了集体支持气候行动。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
             "title_en": "From childhood abduction to adulthood: Enduring consequences for women in Uganda",
             "title_zh": "从童年绑架到成年：对乌干达女性持久的影响",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103766",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Violence and black markets: Evidence from the Niger Delta conflict",
+            "title_zh": "暴力与黑市：来自尼日尔三角洲冲突的证据",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103765",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1261,8 +1310,8 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 6",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 1,
-        "total_in_issue": 4,
+        "matched_count": 2,
+        "total_in_issue": 5,
         "papers": [
           {
             "title_en": "Distinguishing hares and tortoises in the field: Applicants' prediction of patent value flows",
@@ -1272,6 +1321,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "Behavioral micro-foundations for the space commons: A policy toolkit",
+            "title_zh": "行为微观基础与空间共同体：政策工具箱",
+            "url": "https://doi.org/10.1016/j.respol.2026.105511",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           }
         ],
@@ -1550,9 +1609,19 @@
         "resolved_name": "Technovation",
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 7,
-        "total_in_issue": 8,
+        "matched_count": 10,
+        "total_in_issue": 12,
         "papers": [
+          {
+            "title_en": "How corporate ESG performance drives green innovation: The roles of R&amp;D investment and scientific expertise in the top management team",
+            "title_zh": "企业ESG绩效如何推动绿色创新：研发投资和高层管理团队的科学专长的作用",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103569",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
           {
             "title_en": "Mapping artificial intelligence research in the cultural and creative industries: A systematic bibliometric review",
             "title_zh": "标题：在文化创意产业中绘制人工智能研究：一项系统的文献计量学综述",
@@ -1613,9 +1682,20 @@
             "title_zh": "创伤和急诊外科中的人工智能：对感知技术接受度的定量研究",
             "url": "https://doi.org/10.1016/j.technovation.2026.103548",
             "abstract_en": "Artificial Intelligence (AI) is a transformative technology capable of driving the United Nations Sustainable Development Goals (SDGs) implementation across various industries. It can play a crucial role in the healthcare sector, especially in highly specialized fields such as trauma and emergency surgery, where its potential to assist in clinical decision-making is gaining widespread recognition. When appropriately designed and governed, AI applications in surgery can contribute to SDG 3 by improving health outcomes and promoting well-being. Moreover, clearly defined accountability and responsibility frameworks for AI in healthcare support SDG 16 by enabling auditability, clarifying responsibility allocation, and fostering institutional trust through transparent governance mechanisms. Despite these opportunities, ethical and governance-related concerns remain central to AI adoption and significantly shape the attitudes of medical professionals, patients, technology providers, developers, and policymakers. This exploratory study investigates surgeons' perceptions regarding AI adoption through a framework informed by the Unified Theory of Acceptance and Use of Technology (UTAUT). While grounded in UTAUT, the study incorporates context-specific constructs that capture the unique challenges of surgical practice: performance expectancy, perceived diagnostic complexity, patient-centered communication orientation, responsible AI governance climate, and shared accountability perceptions. By examining how responsibility interacts with traditional UTAUT constructs, performance expectancy, effort expectancy, social influence, and facilitating conditions, this research offers a more context-sensitive understanding of AI adoption in high-stakes medical environments. Through a comprehensive survey endorsed by the World Society of Emergency Surgery (WSES), involving 624 physicians from 72 countries, we aim to highlight these concerns and propose a conceptual model that reconciles AI's technological advances with the ethical obligations to protect patients and ensure sustainable healthcare outcomes. • Artificial Intelligence (AI) is a transformative technology capable of driving the United Nations Sustainable Development Goals implementation across various industries. • AI can drive progress in healthcare and surgery, augmenting decision-making. • Ethical concerns can limit the effective use of clinical AI-based tools. • This research offers a more context-sensitive understanding of AI adoption in high-stakes medical environments.",
-            "abstract_zh": "人工智能（AI）是一项能够推动联合国可持续发展目标（SDGs）在各行业实施的变革性技术。它在医疗保健领域，尤其是在创伤和急诊外科等高度专业化领域中，可以发挥关键作用，其在临床决策支持方面的潜力正获得广泛认可。当AI在外科手术中的应用得到适当设计和管理时，可以促进SDG 3的实现，通过改善健康结果和促进福祉。此外，为医疗保健中的AI明确定义的问责和责任框架支持SDG 16，通过使审计成为可能、明确责任分配，并通过透明的治理机制促进制度信任。尽管存在这些机会，与AI采用相关的伦理和治理问题仍然是核心问题，显著影响医疗专业人员、患者、技术提供商、开发者和政策制定者的态度。本探索性研究通过受统一接受和使用技术理论（UTAUT）指导的框架，调查外科医生对AI采用的看法。虽然基于UTAUT，但研究纳入了特定于上下文的构建，以捕捉外科实践的独特挑战：绩效期望、感知诊断复杂性、以患者为中心的沟通取向、负责任的AI治理氛围和共享问责感知。通过检查责任如何与传统UTAUT构建、绩效期望、努力期望、社会影响和促进条件相互作用，本研究提供了对高风险医疗环境中AI采用更具有上下文敏感性的理解。通过世界急诊外科学会（WSES）支持的全面调查，涉及来自72个国家的624名医生，我们旨在突出这些问题，并提出一个概念模型，将AI的技术进步与保护患者和确保可持续医疗结果的伦理义务相协调。• 人工智能（AI）是一项能够推动联合国可持续发展目标在各行业实施的变革性技术。• AI可以推动医疗保健和外科手术的进步，增强决策制定。• 伦理问题可能限制临床AI工具的有效使用。• 本研究提供了一个更具有上下文敏感性的...",
+            "abstract_zh": "人工智能（AI）是一项能够推动联合国可持续发展目标（SDGs）在各行业实施的变革性技术。它在医疗保健领域，尤其是在创伤和急诊外科等高度专业化领域中，可以发挥关键作用，其在临床决策支持方面的潜力正获得广泛认可。当AI在外科手术中的应用得到适当设计和管理时，可以促进SDG 3的实现，通过改善健康结果和促进福祉。此外，为医疗保健中的AI明确定义的问责和责任框架支持SDG 16，通过使审计成为可能、明确责任分配，并通过透明的治理机制促进制度信任。尽管存在这些机会，与AI采用相关的伦理和治理问题仍然是核心问题，显著影响医疗专业人员、患者、技术提供商、开发者和政策制定者的态度。本探索性研究通过一个由技术接受和使用统一理论（UTAUT）指导的框架，调查外科医生对AI采用的看法。虽然基于UTAUT，但研究纳入了特定于上下文的构建，以捕捉外科实践的独特挑战：绩效期望、感知诊断复杂性、以患者为中心的沟通取向、负责任的AI治理氛围和共享责任感知。通过检查责任如何与传统UTAUT构建、绩效期望、努力期望、社会影响和促进条件相互作用，这项研究提供了对高风险医疗环境中AI采用更敏感于上下文的理解。通过一项由世界急诊外科学会（WSES）支持的全面调查，涉及来自72个国家的624名医生，我们旨在突出这些问题，并提出一个概念模型，将AI的技术进步与保护患者和确保可持续医疗结果的伦理义务相协调。• 人工智能（AI）是一项能够推动联合国可持续发展目标在各行业实施的变革性技术。• AI可以推动医疗保健和外科手术的进步，增强决策制定。• 伦理问题可能限制临床AI工具的有效使用。• 这项研究提供了一个更敏感于上下文的...",
             "matched_topics": [
               "创新药"
+            ]
+          },
+          {
+            "title_en": "Promotion or inhibition, imitation or surpassing: Green supply chain management and peer green innovation",
+            "title_zh": "促进还是抑制，模仿还是超越：绿色供应链管理与同行绿色创新",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103566",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
             ]
           },
           {
@@ -1626,6 +1706,16 @@
             "abstract_zh": "本研究探讨了在何种条件下开放政府数据（OGD）能够促进高科技创业。利用2007至2022年间259个中国城市的面板数据，并利用OGD平台的分阶段推出作为准自然实验，我们实施了多期差分-差分设计。结果显示，OGD显著促进了高科技创业，其中中型初创企业的效果最为明显。这些效应在数字技术发展和产业共聚更强的地区更为显著，在行政垄断较低和劳动力成本较高的地区也更强，同时在进入壁垒更高的行业中也更强，表明OGD可能作为一种关键的信息资源，赋予初创企业克服资源限制和进入壁垒的能力。•我们将开放政府数据（OGD）概念化为一种准公共的、非竞争性的生产要素。•多期DID利用分阶段的城市级OGD启动，识别了对高科技创业的因果效应。•OGD通过宏观层面的要素替代机制降低进入壁垒，减少对资本密集型投入的依赖。•在数字能力和产业共聚更高的地方，效应更强，揭示了关键的边界条件。•OGD可以作为一种“制度替代品”，在市场制度较弱的地区发挥更强的促进创业效应。•本研究将“开放政府”与“创业”之间的论述联系起来，为评估数字时代公共政策的经济绩效提供了一个新的框架。",
             "matched_topics": [
               "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Designing educational chatbots in resource-constrained environments: A design science approach",
+            "title_zh": "在资源受限环境中设计教育聊天机器人：一种设计科学方法",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103567",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
               "创新药"
             ]
           }
@@ -1808,39 +1898,69 @@
         "query_name": "PharmacoEconomics",
         "issn": "1170-7690",
         "resolved_name": "PharmacoEconomics",
-        "issue_title": "Volume 44, Issue 4",
+        "issue_title": "Volume 44, Issue 5",
         "issue_url": "https://link.springer.com/journal/40273",
-        "matched_count": 3,
-        "total_in_issue": 10,
+        "matched_count": 6,
+        "total_in_issue": 12,
         "papers": [
           {
-            "title_en": "Discrete-Event Simulation Modeling Framework for Cancer Interventions and Population Health in R (DESCIPHR): An Open-Source Pipeline",
-            "title_zh": "R语言中的癌症干预与人群健康离散事件模拟建模框架（DESCIPHR）：一个开源流程",
-            "url": "https://doi.org/10.1007/s40273-025-01571-3",
-            "abstract_en": "Simulation models inform health policy decisions by integrating data from multiple sources and forecasting outcomes when there is a lack of comprehensive evidence from empirical studies. Such models have long supported health policy for cancer, the first or second leading cause of death in over 100 countries. Discrete-event simulation (DES) and Bayesian calibration have gained traction in the field of decision science because they enable flexible modeling of complex health conditions and produce estimates of model parameters that reflect real-world disease epidemiology and data uncertainty given model constraints. This uncertainty is then propagated to model-generated outputs, enabling decision-makers to assess confidence in recommendations and estimate the value of collecting additional information. However, there is limited end-to-end guidance on structuring a DES model for cancer progression, estimating its parameters using Bayesian calibration, and applying the calibration outputs to policy evaluation. To fill this gap, we introduce the DES Modeling Framework for Cancer Interventions and Population Health in R (DESCIPHR), an open-source codebase integrating a flexible DES model for the natural history of cancer, Bayesian calibration for parameter estimation, and an example application of screening strategy evaluation. To illustrate the framework, we apply DESCIPHR to calibrate bladder and colorectal cancer models to real-world cancer registry targets. We also introduce an automated method for generating data-informed parameter prior distributions and increase the functionality of a neural network emulator-based Bayesian calibration algorithm. We anticipate that the adaptable DESCIPHR modeling template will facilitate the construction of future decision models evaluating the risks and benefits of health interventions.",
-            "abstract_zh": "模拟模型通过整合多源数据并预测在缺乏全面实证研究证据时的结果，为卫生政策决策提供信息。这些模型长期以来一直支持癌症卫生政策，癌症是100多个国家的首要或第二大死亡原因。离散事件模拟（DES）和贝叶斯校准在决策科学领域越来越受欢迎，因为它们能够灵活地模拟复杂的健康状况，并产生反映现实世界疾病流行病学和给定模型约束下数据不确定性的模型参数估计。这种不确定性随后被传播到模型生成的输出中，使决策者能够评估对建议的信心，并估计收集额外信息的价值。然而，目前对于构建癌症进展的DES模型、使用贝叶斯校准估计其参数以及将校准输出应用于政策评估的端到端指导有限。为了填补这一空白，我们介绍了R语言中的癌症干预和人群健康离散事件模拟框架（DESCIPHR），这是一个集成了灵活的癌症自然史DES模型、贝叶斯校准参数估计和筛查策略评估示例应用的开源代码库。为了说明该框架，我们将DESCIPHR应用于校准膀胱癌和结直肠癌模型以符合现实世界癌症登记目标。我们还引入了一种自动化方法，用于生成数据驱动的参数先验分布，并增强了基于神经网络仿真器的贝叶斯校准算法的功能。我们预计，可适应的DESCIPHR建模模板将有助于构建未来评估健康干预风险和益处的决策模型。",
+            "title_en": "Comment on “The Importance of Structured Expert Elicitation to Inform Outcomes Following Treatment Discontinuation: Evidence Assessment Group Perspective”",
+            "title_zh": "对“结构化专家征询在治疗中断后结果信息中的重要性：证据评估小组视角”的评论",
+            "url": "https://doi.org/10.1007/s40273-026-01605-4",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
-              "医药产业",
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Response to Comment on “The Importance of Structured Expert Elicitation to Inform Outcomes Following Treatment Discontinuation: Evidence Assessment Group Perspective”",
+            "title_zh": "对“结构化专家征询对治疗中断后结果信息的重要性：证据评估组视角”评论的回应",
+            "url": "https://doi.org/10.1007/s40273-026-01606-3",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Are Health Gains to Children and Adolescents More Important Than Health Gains to Adults? A Person Trade-Off Study",
+            "title_zh": "儿童和青少年的健康收益是否比成年人更重要？一项个体权衡研究",
+            "url": "https://doi.org/10.1007/s40273-025-01574-0",
+            "abstract_en": "The relative value of child QALY gains varies by age of the child, by health gain type, and by adult comparison age. While alleviating children's pain is strongly supported (weights ≥ 1.2), overall views are polarised, highlighting the complexity of age-based prioritisation.",
+            "abstract_zh": "儿童QALY增益的相对价值因儿童年龄、健康增益类型以及成人比较年龄而异。虽然减轻儿童疼痛得到了强烈支持（权重≥1.2），但总体观点两极分化，突显了基于年龄优先排序的复杂性。",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Estimating the Value of Combination Vaccines: A Methodological Framework",
+            "title_zh": "估算联合疫苗价值：一个方法论框架",
+            "url": "https://doi.org/10.1007/s40273-025-01575-z",
+            "abstract_en": "Combination vaccines combine several components in a single dose administration. They offer programmatic and public health advantages, particularly as vaccine schedules become increasingly crowded. They are often more expensive to develop and produce, which discourages manufacturer investment without clear market signals. Hence their benefits need to be captured with existing health economic evaluation reference cases used by decision-makers to guide vaccine investments. We propose that the value of combination vaccines can be captured through at least four domains: (1) reductions in tangible and intangible costs to caregivers, (2) operational efficiencies to the health system, (3) opportunity costs of vaccine schedule slots, and (4) more streamlined vaccine schedules. We demonstrate the practicality of our framework by comparing the value of introducing a hypothetical vaccine to a crowded schedule as a standalone formulation, a replacement for a vaccine already in the schedule, or a combination product. The framework could also be applied to estimate the value of reducing the number of separate administrations needed for a standalone vaccine. Applying it in real-world situations could be facilitated by further data collection, particularly on collating results on the value of existing vaccines in the schedule and estimating willingness-to-pay for fewer vaccine administrations.",
+            "abstract_zh": "联合疫苗将多个组分合并为单剂量给药。随着疫苗接种计划日益拥挤，它们提供了计划性和公共卫生优势。它们的开发和生产成本通常更高，这在没有明确的市场信号的情况下阻碍了制造商的投资。因此，需要通过决策者使用的现有健康经济评估参考案例来捕捉联合疫苗的好处，以指导疫苗投资。我们建议，可以通过至少四个领域捕捉联合疫苗的价值：（1）减少护理人员的有形和无形成本，（2）提高卫生系统的运营效率，（3）疫苗接种计划插槽的机会成本，以及（4）更简化的疫苗接种计划。我们通过比较将假设疫苗引入拥挤计划作为单独配方、替换计划中已有疫苗或组合产品的价值，展示了我们框架的实用性。该框架还可以用来估计减少单独疫苗所需的单独给药次数的价值。通过进一步收集数据，尤其是在整理计划中现有疫苗的价值结果和估计减少疫苗给药次数的支付意愿方面，可以促进其在现实世界情况中的应用。",
+            "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Beyond the States: Developing a Discrete Event Simulation Model Using R",
-            "title_zh": "超越国家：使用R开发离散事件仿真模型",
-            "url": "https://doi.org/10.1007/s40273-025-01560-6",
-            "abstract_en": "This illustration uses the Scottish Cardiovascular Disease (CVD) Policy Model as a case study to provide a comprehensive, step-by-step guide to building a discrete event simulation (DES) model in R. It is specifically designed for practitioners who are familiar with constructing Markov models in R and wish to transition their theoretical knowledge of DES into practical implementation. The Scottish CVD Policy Model was originally developed as an Excel-based Markov model with a sophisticated structure: a primary Markov model for first events and nested sub-Markov models for subsequent events. Later replicated in R by Xin, Yiqiao et al., the model's source code was made publicly available on GitHub, underscoring its potential as a teaching tool. The intricate structure of this model presents several challenges in health economic modeling, making it an ideal candidate for demonstrating how DES techniques can address such complexities effectively. In this illustration, we deliberately avoid using R packages developed specifically for DES to enhance transparency. Instead, we rely on base R functions, and the tidyverse package for tidy data wrangling. This approach ensures that every step of the DES implementation is clear and reproducible. In addition to covering fundamental topics such as how to simulate a time to event according to an assumed distribution, and continuous discounting, the illustration also provides solutions to more advanced modeling challenges, such as handling piecewise-modeled cost and utility. By discussing both general principles and complex scenarios, this paper equips readers with the practical tools needed to transition from Markov to DES frameworks, enhancing the accuracy and flexibility of health economic evaluations.",
-            "abstract_zh": "本文以苏格兰心血管疾病（CVD）政策模型为案例研究，提供了一个全面的、分步骤的指南，用于在R中构建离散事件模拟（DES）模型。它特别适用于熟悉在R中构建马尔可夫模型并希望将DES的理论知识转化为实际应用的从业者。苏格兰CVD政策模型最初是作为一个基于Excel的马尔可夫模型开发的，具有复杂的结构：一个用于首次事件的主马尔可夫模型和用于后续事件的嵌套子马尔可夫模型。后来由Xin, Yiqiao等人在R中复制，模型的源代码在GitHub上公开可用，强调了其作为教学工具的潜力。这个模型的复杂结构在卫生经济建模中提出了几个挑战，使其成为展示DES技术如何有效解决这些复杂性的理想候选。在本例中，我们故意避免使用专门为DES开发的R包以增强透明度。相反，我们依赖于基本的R函数和用于整洁数据操作的tidyverse包。这种方法确保DES实施的每一步都是清晰和可复制的。除了涵盖如何根据假设的分布模拟事件发生时间以及连续贴现等基本主题外，本文还提供了处理分段建模成本和效用等更高级建模挑战的解决方案。通过讨论一般原则和复杂场景，本文为读者提供了从马尔可夫到DES框架过渡所需的实用工具，提高了卫生经济评估的准确性和灵活性。",
+            "title_en": "Innovative Contracting for Gene Therapies: Current Landscape and Perspectives on the Future of Gene Therapy Financing in the USA",
+            "title_zh": "基因疗法的创新合同：美国基因疗法融资现状及未来展望",
+            "url": "https://doi.org/10.1007/s40273-025-01563-3",
+            "abstract_en": "Widespread uptake of ICs will require a multi-stakeholder collaboration to overcome common barriers, as a one-size-fits-all approach is insufficient for diverse stakeholder needs. Establishing industry-wide contracting principles and practices may help bridge differences in opinions and build trust between contracting parties, allow stakeholders to share lessons from early adopters, and support efficient contracting processes that promote consistent and equitable patient access to GTs while ensuring healthcare system sustainability.",
+            "abstract_zh": "集成电路（ICs）的广泛采用需要多方利益相关者合作来克服共同的障碍，因为一种适用于所有情况的方法无法满足不同利益相关者的需求。建立全行业范围的合同原则和实践可能有助于弥合意见分歧，建立合同双方之间的信任，让利益相关者分享早期采用者的经验教训，并支持高效的合同流程，这些流程促进了对基因治疗（GTs）的一致和公平的患者获取，同时确保了医疗系统的可持续性。",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Microsimulation Modeling for Health Decision Sciences Using C++: A Tutorial",
-            "title_zh": "使用C++进行健康决策科学微观模拟建模：教程",
-            "url": "https://doi.org/10.1007/s40273-025-01526-8",
-            "abstract_en": "Microsimulation models have become increasingly common in the field of decision modeling for health. Because microsimulation models are computationally more demanding than traditional Markov cohort models, the use of computer programming languages in their development has become more common. C++ is a programming language that has gained widespread recognition in computationally intensive fields, including systems modeling and performance-critical applications. It offers powerful tools for building high-performance microsimulation models, outpacing many traditional modeling software solutions, such as native R, in terms of speed and control over memory management. However, there is limited accessible guidance for implementing microsimulation models in C++. This tutorial offers a step-by-step approach to constructing microsimulation models in C++ and demonstrates its application through simplified but adaptable example decision models. We walk the reader through essential steps and provide generic C++ code that is flexible and suitable for adapting to a range of models. Finally, we present the standalone C++ models and their Rcpp counterparts run within R, and compare their performance to equivalent R implementations in terms of speed and memory efficiency.",
-            "abstract_zh": "微模拟模型在健康决策建模领域变得越来越普遍。由于微模拟模型在计算上比传统的马尔可夫队列模型要求更高，因此在其开发中使用计算机编程语言变得越来越普遍。C++是一种在计算密集型领域，包括系统建模和性能关键应用中获得广泛认可的编程语言。它提供了构建高性能微模拟模型的强大工具，在速度和内存管理控制方面超越了许多传统的建模软件解决方案，如原生R。然而，目前对于在C++中实现微模拟模型的可访问指导有限。本教程提供了一种构建C++微模拟模型的逐步方法，并通过简化但可适应的示例决策模型展示其应用。我们引导读者了解关键步骤，并提供灵活且适用于各种模型的通用C++代码。最后，我们展示了独立的C++模型及其在R中运行的Rcpp对应模型，并比较了它们与等效R实现在速度和内存效率方面的性能。",
+            "title_en": "Patient-Level Health Economic Modeling in Excel Without VBA: A Tutorial",
+            "title_zh": "无需VBA的Excel中患者级卫生经济建模教程",
+            "url": "https://doi.org/10.1007/s40273-025-01543-7",
+            "abstract_en": "Cohort-level models in Microsoft Excel<sup>®</sup> remain the standard for cost-effectiveness modeling to inform health technology assessment (HTA), despite calls and rationale for more flexible approaches. Their limited ability to capture patient-level characteristics can, in the presence of patient heterogeneity or the need to track patient characteristics to accurately capture a technology's implications, introduce bias. Their continued prevalence is explained by key stakeholders' familiarity with spreadsheet software, and the lower computational burden of cohort-level versus patient-level models. However, contemporary Excel functions have opened up possibilities for calculations within native Excel that enable more flexible, patient-level approaches to be implemented in familiar spreadsheet-based software, without use of any Visual Basic for Applications (VBA) code. Therefore, this tutorial aims to provide step-by-step guidance on how to implement a previously published and freely available individual-level discrete event simulation (DES) in Excel, using contemporary Excel functions and without any VBA code.",
+            "abstract_zh": "在微软Excel®中，队列级模型仍然是用于指导健康技术评估（HTA）的成本效益建模的标准，尽管有人呼吁并有理由采用更灵活的方法。在患者异质性存在或需要追踪患者特征以准确捕捉技术影响的情况下，它们有限的能力捕捉患者级特征可能会引入偏差。它们的持续流行可以归因于关键利益相关者对电子表格软件的熟悉，以及与患者级模型相比，队列级模型的计算负担较低。然而，当代Excel功能为在原生Excel中进行计算提供了可能性，使得更灵活的、患者级的建模方法能够在熟悉的基于电子表格的软件中实现，而无需使用任何Visual Basic for Applications（VBA）代码。因此，本教程旨在提供分步指导，说明如何在Excel中使用当代Excel功能且不使用任何VBA代码来实现先前发表且免费可用的个体级离散事件模拟（DES）。",
             "matched_topics": [
+              "医疗创新",
               "创新药"
             ]
           }
@@ -1880,16 +2000,6 @@
             ]
           },
           {
-            "title_en": "How Good Is Good Enough? A Simulation Study of Adaptive Health Technology Assessment",
-            "title_zh": "多好才算足够好？适应性健康技术评估的模拟研究",
-            "url": "https://doi.org/10.1016/j.jval.2026.01.006",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医疗创新"
-            ]
-          },
-          {
             "title_en": "A Forward Agenda for Digital Health Technologies: Evidence That Works for Decisions",
             "title_zh": "数字健康技术前瞻议程：为决策提供有效证据",
             "url": "https://doi.org/10.1016/j.jval.2026.02.007",
@@ -1898,6 +2008,16 @@
             "matched_topics": [
               "医疗创新",
               "创新药"
+            ]
+          },
+          {
+            "title_en": "How Good Is Good Enough? A Simulation Study of Adaptive Health Technology Assessment",
+            "title_zh": "多好才算足够好？适应性健康技术评估的模拟研究",
+            "url": "https://doi.org/10.1016/j.jval.2026.01.006",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新"
             ]
           },
           {
