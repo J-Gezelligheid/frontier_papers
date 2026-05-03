@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-26 05:30:14",
+  "updated_at": "2026-05-03 05:49:40",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 26,
+    "success_count": 21,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -381,16 +381,6 @@
             ]
           },
           {
-            "title_en": "The Complexity of Multidimensional Learning in Agriculture",
-            "title_zh": "农业中多维学习的复杂性",
-            "url": "https://doi.org/10.3982/ecta22974",
-            "abstract_en": "Studies on agricultural technology adoption often focus on one input, practice, or package, which is analytically useful, but may overlook the complexities involved with multidimensional learning needed for a lot of agricultural decisions. In Kenya, we study farmers' dynamic learning (from oneself and others) and adoption decisions over six seasons after randomly inviting them to participate in agronomic research trials, comparing different combinations of inputs during three consecutive seasons. As a response to the trials, adoption increases steadily despite the absence of positive profits multiple seasons after exposure to the trials. Know‐how increases rapidly and faster for high skill farmers who experiment the most, at the cost of making new mistakes. The findings are consistent with a theoretical model with multidimensionality of input and practice decisions and differential learning from one's own experience by skills, where complementarities imply that adoption of an input requires finding how to re‐optimize other dimensions, which adds to the cost of adoption.",
-            "abstract_zh": "研究农业技术采纳往往关注单一投入、实践或一揽子方案，这在分析上是有用的，但可能忽视了农业决策中多维学习所需的复杂性。在肯尼亚，我们研究了农民在随机邀请参与农艺研究试验后六个季节的动态学习（从自己和他人）和采纳决策，比较了三个连续季节中不同投入组合的效果。作为对试验的响应，尽管在接触试验后多个季节没有获得正利润，采纳仍然稳步增加。知识增长迅速，对于技能较高的农民来说增长更快，他们进行的实验最多，但代价是犯新错误。这些发现与一个理论模型一致，该模型具有投入和实践决策的多维性，以及根据技能从自己的经验中进行差异化学习，其中互补性意味着采纳一种投入需要找到如何重新优化其他维度的方法，这增加了采纳的成本。",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
             "title_en": "Dynamic Incentives in Incompletely Specified Environments",
             "title_zh": "不完全指定环境中的动态激励",
             "url": "https://doi.org/10.3982/ecta23373",
@@ -398,6 +388,16 @@
             "abstract_zh": "考虑一个重复互动，其中每个时期的具体阶段游戏是未知的。这个框架将跨时期的激励基本逻辑与任何给定策略组合必须产生一个明确定义的收益向量的要求分离开来。一个自然的解决方案概念是事后完美均衡：对于阶段游戏序列的任何实现，策略必须形成一个子博弈完美均衡。当有一个长期参与者而其他人是短期参与者，并且公共随机化可用时，我们可以适应标准的递归方法来确定长期参与者奖励和惩罚之间最大可行的差距。这使我们能够识别哪些行动可以在均衡中被玩，并且假设有完美的监控，可以完全描述可能出现的结果路径。如果有多个长期参与者或没有公共随机化，这种方法就会失败；这种失败的诊断是最优惩罚代码可能不再存在。",
             "matched_topics": [
               "创新药"
+            ]
+          },
+          {
+            "title_en": "The Complexity of Multidimensional Learning in Agriculture",
+            "title_zh": "农业中多维学习的复杂性",
+            "url": "https://doi.org/10.3982/ecta22974",
+            "abstract_en": "Studies on agricultural technology adoption often focus on one input, practice, or package, which is analytically useful, but may overlook the complexities involved with multidimensional learning needed for a lot of agricultural decisions. In Kenya, we study farmers' dynamic learning (from oneself and others) and adoption decisions over six seasons after randomly inviting them to participate in agronomic research trials, comparing different combinations of inputs during three consecutive seasons. As a response to the trials, adoption increases steadily despite the absence of positive profits multiple seasons after exposure to the trials. Know‐how increases rapidly and faster for high skill farmers who experiment the most, at the cost of making new mistakes. The findings are consistent with a theoretical model with multidimensionality of input and practice decisions and differential learning from one's own experience by skills, where complementarities imply that adoption of an input requires finding how to re‐optimize other dimensions, which adds to the cost of adoption.",
+            "abstract_zh": "研究农业技术采纳往往关注单一投入、实践或一揽子方案，这在分析上是有用的，但可能忽视了农业决策中多维学习所需的复杂性。在肯尼亚，我们研究了农民在随机邀请参与农艺研究试验后六个季节的动态学习（从自己和他人）和采纳决策，比较了三个连续季节中不同投入组合的效果。作为对试验的响应，尽管在接触试验后多个季节没有获得正利润，采纳仍然稳步增加。知识增长迅速，对于技能较高的农民来说增长更快，他们进行的实验最多，但代价是犯新错误。这些发现与一个理论模型一致，该模型具有投入和实践决策的多维性，以及根据技能从自己的经验中进行差异化学习，其中互补性意味着采纳一种投入需要找到如何重新优化其他维度的方法，这增加了采纳的成本。",
+            "matched_topics": [
+              "企业创新"
             ]
           },
           {
@@ -705,7 +705,7 @@
         "issue_title": "Published 2026-05",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 12,
-        "total_in_issue": 19,
+        "total_in_issue": 17,
         "papers": [
           {
             "title_en": "Multinational investment activity under policy uncertainty in host and competing countries",
@@ -735,6 +735,16 @@
             "abstract_zh": "我们研究了实际汇率中期变动的决定因素。利用过去200年的美国-英国数据，我们发现实际汇率与GDP共同变动，且这种共同变动受到银行危机的显著影响。这种关系可以通过扩展包含持久性生产率冲击和不完全市场的IRBC模型来合理化。使用一种新的全球解决方案方法，我们证明生产率冲击的传导在很大程度上取决于一个国家经济接近其国际借款限额的程度。这种机制与不产生这些状态依赖反应的哈罗德-巴拉斯-萨缪尔森效应不同。",
             "matched_topics": [
               "国际经济"
+            ]
+          },
+          {
+            "title_en": "Have global value chains shifted?",
+            "title_zh": "全球价值链是否发生了转移？",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104264",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
             ]
           },
           {
@@ -816,17 +826,6 @@
             "matched_topics": [
               "国际贸易"
             ]
-          },
-          {
-            "title_en": "Globalization and the gender gap in mental well-being",
-            "title_zh": "全球化与心理健康性别差异",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104253",
-            "abstract_en": "Working with business partners in distant countries often requires operating outside standard working hours, potentially harming workers’ mental well-being—especially for women balancing professional and family responsibilities. This hypothesis is investigated using matched employer–employee data from Denmark merged with information on workers’ use of prescription antidepressants (AD) and firms’ import and export transactions. The analysis exploits variation within job spells and controls for both unobservable firm-year heterogeneity and for the average differential in annual AD use among men and women. The results indicate that a decline in the business hours overlap between a Danish firm and its foreign trading partners leads to an increased AD use among women relative to men. This effect is economically meaningful, largest for college-educated workers under 45 and more pronounced for single mothers. In addition to the gender effect, workers in occupations that requires establishing relationships with others are more strongly affected than those in other occupations.",
-            "abstract_zh": "与遥远国家的商业伙伴合作通常需要在标准工作时间之外运营，这可能会损害工人的心理健康——特别是对于平衡职业和家庭责任的女性。本文利用丹麦的匹配雇主-雇员数据，结合工人使用抗抑郁药（AD）的信息以及公司的进出口交易信息，对这一假设进行了研究。分析利用工作周期内的变化，并控制了不可观察的公司年度异质性和男女之间年度AD使用的平均差异。结果表明，丹麦公司与其外国贸易伙伴之间的营业时间重叠减少，导致女性相对于男性的AD使用增加。这一效应在经济上是有意义的，对于45岁以下受过大学教育的工人来说最大，对于单身母亲来说更为明显。除了性别效应外，需要与他人建立关系的职业的工人比其他职业的工人受到的影响更大。",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
           }
         ],
         "error": null
@@ -839,7 +838,7 @@
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 12,
-        "total_in_issue": 32,
+        "total_in_issue": 33,
         "papers": [
           {
             "title_en": "The art of not being chocked: Environmental awareness, residents' responses and land transactions in China",
@@ -1311,7 +1310,7 @@
         "issue_title": "Volume 55, Issue 6",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 2,
-        "total_in_issue": 5,
+        "total_in_issue": 6,
         "papers": [
           {
             "title_en": "Distinguishing hares and tortoises in the field: Applicants' prediction of patent value flows",
@@ -1461,6 +1460,16 @@
             ]
           },
           {
+            "title_en": "Economic Substance Behind Texas Political Anti-ESG Sanctions",
+            "title_zh": "德克萨斯州反ESG制裁背后的经济实质",
+            "url": "https://doi.org/10.1287/mnsc.2024.05180",
+            "abstract_en": "A stark contrast exists between the stated preferences of politicians in the so-called blue states (Democrats) and those in red states (Republicans) on environmental, social, and governance (ESG) matters. We examine whether these polarized political stances are reflected in the investment strategies of respective states’ pension funds. We examine a Texas directive that the state agencies divest from investment companies that profess a pro-ESG stance and allegedly “boycott” energy stocks. We find that funds banned by the Texas directive, despite carrying ESG-focused titles, are largely indexers with a tilt slightly away from energy stocks and slightly toward technology stocks. Banning such funds would make little difference to Texas pensioners or Texas energy companies, because the returns and stock holdings of banned funds are not meaningfully different from those of size-matched funds that do not proclaim an ESG focus. Pension funds in red states do not act per their politicians’ stance and largely follow market trends in their investment strategies. They have similar exposures to technology and energy stocks, as do pension funds in blue states. We conclude that the vehement pro– and anti–fossil fuel proclamations of blue and red states’ politicians, respectively, are not observed in their own state pension funds’ investment policies over which politicians have better control than on external funds. This paper was accepted by Ranjani Krishnan, accounting. Funding: The authors acknowledge financial support from the Social Sciences and Humanities Research Council of Canada. A. Srivastava acknowledges financial support from the Canada Research Chairs Program of the Government of Canada. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05180 .",
+            "abstract_zh": "在所谓的蓝州（民主党）和红州（共和党）的政治家在环境、社会和治理（ESG）问题上的声明偏好之间存在鲜明对比。我们检验这些两极分化的政治立场是否反映在各自州的养老基金投资策略中。我们检验了德克萨斯州的一项指令，该指令要求州机构从声称支持ESG立场并据称“抵制”能源股的投资公司撤资。我们发现，尽管被德克萨斯州指令禁止的基金带有以ESG为重点的名称，但它们大多是指数基金，只是略微偏离能源股，略微倾向于科技股。禁止这类基金对德克萨斯州的养老金领取者或德克萨斯州的能源公司几乎没有影响，因为被禁止基金的回报和股票持有量与不宣称ESG重点的规模匹配基金没有显著差异。红州的养老基金并不按照其政治家的立场行事，其投资策略主要遵循市场趋势。它们对科技股和能源股的敞口与蓝州的养老基金相似。我们得出结论，蓝州和红州政治家分别对化石燃料的强烈支持和反对声明，并没有在他们自己的州养老基金投资政策中得到体现，政治家对这些政策的控制力度比对外部基金要大。本文已被Ranjani Krishnan接受，会计学。资金来源：作者感谢加拿大社会科学和人文研究委员会的财政支持。A. Srivastava感谢加拿大政府的加拿大研究讲座计划的财政支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2024.05180找到。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Boardroom Centrality and Systematic Risk of Firms",
             "title_zh": "董事会中心性与企业系统性风险",
             "url": "https://doi.org/10.1287/mnsc.2020.01240",
@@ -1468,16 +1477,6 @@
             "abstract_zh": "我们发现，董事会中心性提高了公司的市场贝塔系数。在控制市场贝塔系数后，高董事会中心性公司的较高股票回报率降低并变得统计上不显著。这种效应可以归因于会计基础和财务政策的共同变动。总体而言，这些发现突出了企业领导者（即公司董事会成员）的社交网络对公司系统性风险暴露可能产生重大影响的事实。本文由Suraj Srinivasan接受，会计学。资金来源：这项工作得到了中国国家自然科学基金[Grants 72272168, 72472169]、教育部人文社会科学重点研究基地重大项目[Grant 22JJD790047]、北京市自然科学基金[Grant 9232020]、清华大学自主研究计划人文专项[2021THZWYY09]、2024年人文建设“双高”计划创新导向发展专项以及清华大学经济管理学院“影响力提升计划”项目[Grant 2022051006]的支持。作者还感谢中央财经大学管理会计研究与开发中心的财务支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2020.01240找到。",
             "matched_topics": [
               "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Economic Substance Behind Texas Political Anti-ESG Sanctions",
-            "title_zh": "德克萨斯州反ESG制裁背后的经济实质",
-            "url": "https://doi.org/10.1287/mnsc.2024.05180",
-            "abstract_en": "A stark contrast exists between the stated preferences of politicians in the so-called blue states (Democrats) and those in red states (Republicans) on environmental, social, and governance (ESG) matters. We examine whether these polarized political stances are reflected in the investment strategies of respective states’ pension funds. We examine a Texas directive that the state agencies divest from investment companies that profess a pro-ESG stance and allegedly “boycott” energy stocks. We find that funds banned by the Texas directive, despite carrying ESG-focused titles, are largely indexers with a tilt slightly away from energy stocks and slightly toward technology stocks. Banning such funds would make little difference to Texas pensioners or Texas energy companies, because the returns and stock holdings of banned funds are not meaningfully different from those of size-matched funds that do not proclaim an ESG focus. Pension funds in red states do not act per their politicians’ stance and largely follow market trends in their investment strategies. They have similar exposures to technology and energy stocks, as do pension funds in blue states. We conclude that the vehement pro– and anti–fossil fuel proclamations of blue and red states’ politicians, respectively, are not observed in their own state pension funds’ investment policies over which politicians have better control than on external funds. This paper was accepted by Ranjani Krishnan, accounting. Funding: The authors acknowledge financial support from the Social Sciences and Humanities Research Council of Canada. A. Srivastava acknowledges financial support from the Canada Research Chairs Program of the Government of Canada. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05180 .",
-            "abstract_zh": "在所谓的蓝州（民主党）和红州（共和党）的政治家在环境、社会和治理（ESG）问题上的声明偏好之间存在鲜明对比。我们检验这些两极分化的政治立场是否反映在各自州的养老基金投资策略中。我们检验了德克萨斯州的一项指令，该指令要求州机构从声称支持ESG立场并据称“抵制”能源股的投资公司撤资。我们发现，尽管被德克萨斯州指令禁止的基金带有以ESG为重点的名称，但它们大多是指数基金，只是略微偏离能源股，略微倾向于科技股。禁止这类基金对德克萨斯州的养老金领取者或德克萨斯州的能源公司几乎没有影响，因为被禁止基金的回报和股票持有量与不宣称ESG重点的规模匹配基金没有显著差异。红州的养老基金并不按照其政治家的立场行事，其投资策略主要遵循市场趋势。它们对科技股和能源股的敞口与蓝州的养老基金相似。我们得出结论，蓝州和红州政治家分别对化石燃料的强烈支持和反对声明，并没有在他们自己的州养老基金投资政策中得到体现，政治家对这些政策的控制力度比对外部基金要大。本文已被Ranjani Krishnan接受，会计学。资金来源：作者感谢加拿大社会科学和人文研究委员会的财政支持。A. Srivastava感谢加拿大政府的加拿大研究讲座计划的财政支持。补充材料：在线附录和数据文件可在https://doi.org/10.1287/mnsc.2024.05180找到。",
-            "matched_topics": [
               "创新药"
             ]
           },
@@ -1609,9 +1608,19 @@
         "resolved_name": "Technovation",
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 10,
-        "total_in_issue": 12,
+        "matched_count": 12,
+        "total_in_issue": 14,
         "papers": [
+          {
+            "title_en": "The “double-edged sword” effect of generative AI applications on corporate innovation",
+            "title_zh": "生成性人工智能应用对企业创新的“双刃剑”效应",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103561",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
           {
             "title_en": "How corporate ESG performance drives green innovation: The roles of R&amp;D investment and scientific expertise in the top management team",
             "title_zh": "企业ESG绩效如何推动绿色创新：研发投资和高层管理团队的科学专长的作用",
@@ -1657,6 +1666,16 @@
             ]
           },
           {
+            "title_en": "From prototype to principle: A design science approach to artificial intelligence innovation in maternal health",
+            "title_zh": "从原型到原理：设计科学方法在孕产妇健康人工智能创新中的应用",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103568",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "Knowledge spillovers from local innovative industrial clusters: A business group network perspective",
             "title_zh": "来自本地创新产业集群的知识溢出：企业集团网络视角",
             "url": "https://doi.org/10.1016/j.technovation.2026.103545",
@@ -1682,7 +1701,7 @@
             "title_zh": "创伤和急诊外科中的人工智能：对感知技术接受度的定量研究",
             "url": "https://doi.org/10.1016/j.technovation.2026.103548",
             "abstract_en": "Artificial Intelligence (AI) is a transformative technology capable of driving the United Nations Sustainable Development Goals (SDGs) implementation across various industries. It can play a crucial role in the healthcare sector, especially in highly specialized fields such as trauma and emergency surgery, where its potential to assist in clinical decision-making is gaining widespread recognition. When appropriately designed and governed, AI applications in surgery can contribute to SDG 3 by improving health outcomes and promoting well-being. Moreover, clearly defined accountability and responsibility frameworks for AI in healthcare support SDG 16 by enabling auditability, clarifying responsibility allocation, and fostering institutional trust through transparent governance mechanisms. Despite these opportunities, ethical and governance-related concerns remain central to AI adoption and significantly shape the attitudes of medical professionals, patients, technology providers, developers, and policymakers. This exploratory study investigates surgeons' perceptions regarding AI adoption through a framework informed by the Unified Theory of Acceptance and Use of Technology (UTAUT). While grounded in UTAUT, the study incorporates context-specific constructs that capture the unique challenges of surgical practice: performance expectancy, perceived diagnostic complexity, patient-centered communication orientation, responsible AI governance climate, and shared accountability perceptions. By examining how responsibility interacts with traditional UTAUT constructs, performance expectancy, effort expectancy, social influence, and facilitating conditions, this research offers a more context-sensitive understanding of AI adoption in high-stakes medical environments. Through a comprehensive survey endorsed by the World Society of Emergency Surgery (WSES), involving 624 physicians from 72 countries, we aim to highlight these concerns and propose a conceptual model that reconciles AI's technological advances with the ethical obligations to protect patients and ensure sustainable healthcare outcomes. • Artificial Intelligence (AI) is a transformative technology capable of driving the United Nations Sustainable Development Goals implementation across various industries. • AI can drive progress in healthcare and surgery, augmenting decision-making. • Ethical concerns can limit the effective use of clinical AI-based tools. • This research offers a more context-sensitive understanding of AI adoption in high-stakes medical environments.",
-            "abstract_zh": "人工智能（AI）是一项能够推动联合国可持续发展目标（SDGs）在各行业实施的变革性技术。它在医疗保健领域，尤其是在创伤和急诊外科等高度专业化领域中，可以发挥关键作用，其在临床决策支持方面的潜力正获得广泛认可。当AI在外科手术中的应用得到适当设计和管理时，可以促进SDG 3的实现，通过改善健康结果和促进福祉。此外，为医疗保健中的AI明确定义的问责和责任框架支持SDG 16，通过使审计成为可能、明确责任分配，并通过透明的治理机制促进制度信任。尽管存在这些机会，与AI采用相关的伦理和治理问题仍然是核心问题，显著影响医疗专业人员、患者、技术提供商、开发者和政策制定者的态度。本探索性研究通过一个由技术接受和使用统一理论（UTAUT）指导的框架，调查外科医生对AI采用的看法。虽然基于UTAUT，但研究纳入了特定于上下文的构建，以捕捉外科实践的独特挑战：绩效期望、感知诊断复杂性、以患者为中心的沟通取向、负责任的AI治理氛围和共享责任感知。通过检查责任如何与传统UTAUT构建、绩效期望、努力期望、社会影响和促进条件相互作用，这项研究提供了对高风险医疗环境中AI采用更敏感于上下文的理解。通过一项由世界急诊外科学会（WSES）支持的全面调查，涉及来自72个国家的624名医生，我们旨在突出这些问题，并提出一个概念模型，将AI的技术进步与保护患者和确保可持续医疗结果的伦理义务相协调。• 人工智能（AI）是一项能够推动联合国可持续发展目标在各行业实施的变革性技术。• AI可以推动医疗保健和外科手术的进步，增强决策制定。• 伦理问题可能限制临床AI工具的有效使用。• 这项研究提供了一个更敏感于上下文的...",
+            "abstract_zh": "人工智能（AI）是一项能够推动联合国可持续发展目标（SDGs）在各行业实施的变革性技术。它在医疗保健领域，特别是在创伤和急诊外科等高度专业化领域中，可以发挥关键作用，其在临床决策支持方面的潜力正获得广泛认可。当AI在外科手术中的应用得到适当设计和管理时，可以促进SDG 3目标的实现，通过改善健康结果和促进福祉。此外，为医疗保健中的AI明确定义的问责和责任框架支持SDG 16目标，通过使审计成为可能、明确责任分配，并通过透明的治理机制促进制度信任。尽管存在这些机会，与AI采用相关的伦理和治理问题仍然是核心问题，显著影响医疗专业人员、患者、技术提供商、开发者和政策制定者的态度。本探索性研究通过受统一接受和使用技术理论（UTAUT）指导的框架，调查外科医生对AI采用的看法。虽然基于UTAUT，但研究纳入了特定于上下文的构建，以捕捉外科实践的独特挑战：绩效期望、感知诊断复杂性、以患者为中心的沟通取向、负责任的AI治理氛围和共享责任感知。通过检查责任如何与传统UTAUT构建、绩效期望、努力期望、社会影响和促进条件相互作用，这项研究提供了对高风险医疗环境中AI采用更具有上下文敏感性的理解。通过由世界急诊外科学会（WSES）支持的全面调查，涉及来自72个国家的624名医生，我们旨在突出这些关注点，并提出一个概念模型，将AI的技术进步与保护患者和确保可持续医疗结果的伦理义务相协调。• 人工智能（AI）是一项能够推动联合国可持续发展目标在各行业实施的变革性技术。• AI可以推动医疗保健和外科手术的进步，增强决策制定。• 伦理问题可能限制临床AI工具的有效使用。• 这项研究提供了一个更具上下文敏感性的...",
             "matched_topics": [
               "创新药"
             ]
@@ -1844,50 +1863,41 @@
         "query_name": "Health Economics",
         "issn": "1057-9230",
         "resolved_name": "Health Economics",
-        "issue_title": "Volume 35, Issue 5",
+        "issue_title": "Volume 35, Issue 6",
         "issue_url": "https://onlinelibrary.wiley.com/journal/10991050",
-        "matched_count": 4,
-        "total_in_issue": 9,
+        "matched_count": 3,
+        "total_in_issue": 11,
         "papers": [
           {
-            "title_en": "Paying for Health Gains Using Patient Reported Outcome Measures",
-            "title_zh": "使用患者报告结果测量支付健康收益",
-            "url": "https://doi.org/10.1002/hec.70086",
-            "abstract_en": "ABSTRACT Payments to healthcare providers are often based on the number of patients with a particular diagnosis or treatment with well known limitations. Payment based on health outcomes, a form of pay‐for‐performance, has long been advocated as a possible solution. We use a contract theory approach and illustrate how it can inform practical implementation of pay‐for‐performance schemes that reward health outcomes. The pricing rule suggests that the bonus should be set to reflect the difference between the provider's marginal cost of a health improvement before the policy intervention and the provider's marginal cost evaluated at the target health set by the purchaser. We provide estimates of the optimal bonus for hip and knee replacement under a range of assumptions about provider cost functions and the value of health improvements.",
-            "abstract_zh": "摘要：对医疗保健提供者的支付通常基于具有特定诊断或治疗的患者数量，存在众所周知的局限性。基于健康结果的支付，即一种绩效支付形式，长期以来一直被提倡作为可能的解决方案。我们采用合同理论方法，并说明它如何能够为奖励健康结果的绩效支付计划的实际实施提供信息。定价规则表明，奖金应该设置为反映政策干预前提供者健康改善的边际成本与购买者设定的目标健康水平下提供者的边际成本之间的差异。我们提供了在一系列关于提供者成本函数和健康改善价值的假设下，髋关节和膝关节置换的最佳奖金估计值。",
+            "title_en": "Strategic Delay and Bargaining Over Public Insurance Coverage for Drugs in Australia",
+            "title_zh": "澳大利亚药品公共保险覆盖的战略延迟与谈判",
+            "url": "https://doi.org/10.1002/hec.70095",
+            "abstract_en": "ABSTRACT Public funding for pharmaceuticals often follows repeated negotiation between manufacturers and a public agency, yet little empirical work examines how the timing of agreement reflects the economic structure of these interactions. Using a duration model of negotiations in Australia from 2005 to 2018, we assess whether observed patterns of delay and agreement align with dynamic bargaining theory under incomplete information. Agreements from 634 submissions for 400 therapies required a median of 16 months, and 71% of negotiation rounds ended without agreement. Therapies with lower expected value to the agency—reflected in higher incremental cost per QALY, greater budget impact, or evidence uncertainty—experienced longer delays and lower agreement rates, while those with strong clinical importance, perceived need, or elevated public interest were listed more quickly. Delays also varied across therapeutic classes and with a therapy's position in the sequencing of available treatments. The observed patterns point to a systematic listing rule in which therapies are funded when expected health gains justify their opportunity costs. They also support the view that the timing of agreement reflects strategic negotiation under uncertainty, not simply procedural delay.",
+            "abstract_zh": "摘要 药品公共资金通常遵循制造商和公共机构之间的重复谈判，但很少有实证研究检验协议达成时间如何反映这些互动的经济结构。利用2005至2018年澳大利亚谈判的持续时间模型，我们评估观察到的延迟和协议模式是否与不完全信息下的动态博弈理论一致。634项提交涉及400种疗法的协议需要中位数16个月，71%的谈判轮次以未达成协议结束。对机构预期价值较低的疗法——反映在更高的每QALY增量成本、更大的预算影响或证据不确定性——经历了更长的延迟和更低的协议率，而那些具有强烈临床重要性、感知需求或提高公共利益的疗法则更快地被列入。延迟还因治疗类别和疗法在可用治疗序列中的位置而异。观察到的模式指向一个系统性的上市规则，即当预期健康收益证明其机会成本合理时，才会资助疗法。它们也支持这样一种观点，即协议达成的时间反映了在不确定性下的战略性谈判，而不仅仅是程序性延迟。",
             "matched_topics": [
-              "产业经济"
+              "国际贸易",
+              "医药产业"
             ]
           },
           {
-            "title_en": "Medicare Part D and Hospital Admissions due to Antimicrobial Resistance",
-            "title_zh": "医疗保险D部分与因抗菌素耐药性导致的医院入院",
-            "url": "https://doi.org/10.1002/hec.70080",
-            "abstract_en": "ABSTRACT Antimicrobial resistance (AMR) has been increasing rapidly in the United States despite government efforts to contain its spread. Both under‐utilization and overuse of prescribed antimicrobials contribute to rising resistance. The introduction of Medicare Part D in 2006 expanded prescription drug coverage for the elderly, including coverage for antimicrobial medications. If cost barriers had previously led to under‐utilization of prescriptions, then Medicare Part D could have mitigated AMR by improving access to antimicrobials. However, if Medicare Part D also encouraged excessive antibiotic use, it may have inadvertently contributed to greater resistance. Using data from the Nationwide Inpatient Sample (NIS), Healthcare Cost and Utilization Project (HCUP), Agency for Healthcare Research and Quality for January 2001 to September 2008, I estimate the causal impact of Medicare Part D on AMR‐related hospital discharges using a difference‐in‐differences identification strategy. My findings suggest that Medicare Part D led to a slower increase in AMR‐related inpatient discharges among the Medicare‐eligible population.",
-            "abstract_zh": "摘要 尽管美国政府努力控制其传播，但抗微生物耐药性（AMR）在美国迅速增加。处方抗微生物药物的低使用率和高使用率都导致了耐药性的上升。2006年引入的医疗保险D部分扩大了老年人的处方药覆盖范围，包括抗微生物药物的覆盖。如果成本障碍先前导致了处方药的低使用率，那么医疗保险D部分可以通过改善抗微生物药物的获取来减轻AMR。然而，如果医疗保险D部分也鼓励了过度使用抗生素，它可能无意中导致了更大的耐药性。利用2001年1月至2008年9月全国住院样本（NIS）、医疗保健成本和利用项目（HCUP）以及医疗保健研究和质量局的数据，我使用差异-差异识别策略估计医疗保险D部分对AMR相关住院出院的因果影响。我的发现表明，医疗保险D部分导致了医疗保险合格人群中AMR相关住院出院的增长放缓。",
+            "title_en": "Gambling and Substance Use: Early Evidence From Sports Betting Laws",
+            "title_zh": "赌博与物质使用：体育博彩法律的早期证据",
+            "url": "https://doi.org/10.1002/hec.70088",
+            "abstract_en": "ABSTRACT Previous research documents a strong association between gambling and substance use, suggesting that these seemingly distinct behaviors may share similar environmental, neurobiological, and genetic causes. However, there is a dearth of credible empirical evidence on whether gambling has a causal impact on substance use or vice versa. This paper estimates the impact of gambling on substance use making use of the rapid roll‐out of sports betting laws across US states. Using data from the Behavioral Risk Factor Surveillance System and a difference‐in‐difference (DID) estimation strategy to assess the impact of legalizing sports betting on smoking and drinking behavior among adults, we find that the legalization of online sports betting has increased binge drinking frequency‐at the intensive margin among young men by approximately 10 percent, but find no discernible impact on smoking. The results are consistent across traditional two‐way fixed effects models as well as more recently developed DID methods designed for staggered treatment adoption.",
+            "abstract_zh": "摘要 先前的研究记录了赌博和物质使用之间存在强烈的关联，表明这些看似不同的行为可能共享相似的环境、神经生物学和遗传原因。然而，关于赌博是否对物质使用有因果影响，或者反之亦然，缺乏可信的实证证据。本文利用美国各州体育博彩法律的快速推出，估计赌博对物质使用的影响。使用来自行为风险因素监测系统的数据，并采用双重差分（DID）估计策略，评估合法化体育博彩对成年人吸烟和饮酒行为的影响，我们发现在线体育博彩的合法化在年轻男性中增加了大约10%的暴饮频率，但在吸烟方面没有发现明显影响。这些结果在传统的双向固定效应模型以及最近为分阶段治疗采用而开发的DID方法中是一致的。",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Return on Returns: Building Scientific Capacity in AIDS Endemic Countries",
-            "title_zh": "回报的回报：在艾滋病流行国家建设科学能力",
-            "url": "https://doi.org/10.1002/hec.70079",
-            "abstract_en": "ABSTRACT We examine public funding for health research through the United States National Institutes of Health Fogarty International Center's AIDS International Training and Research Program, which sought to strengthen scientific capacity in AIDS‐endemic countries by providing African researchers with training opportunities in the U.S. We use a difference‐in‐differences framework with information on scientists who participated in the program and the research activities of African scientists working at their home institutions in adjacent topics of neglected tropical diseases. Relative to comparable scientists, those at institutions with returning trainees subsequently publish more on HIV‐related topics, receive more grant funding, engage in more clinical trials, and their work contributes to a greater number of policy documents. These patterns suggest that following the Fogarty program, research, innovation, and health policy related to the AIDS epidemic in African countries became more active.",
-            "abstract_zh": "摘要 我们通过美国国立卫生研究院福格蒂国际中心的艾滋病国际培训和研究计划来考察公共卫生研究的资金支持，该计划旨在通过为非洲研究人员提供在美国的培训机会来加强艾滋病流行国家的科学能力。我们使用差异-差异框架，结合参与该计划的科学家信息以及在非洲科学家在其本国机构从事的被忽视热带疾病相邻主题的研究活动。与可比科学家相比，那些有归国受训人员的机构随后在HIV相关主题上发表更多论文，获得更多资助，参与更多临床试验，他们的工作对更多政策文件有所贡献。这些模式表明，在福格蒂计划之后，与非洲国家艾滋病流行相关的研究、创新和卫生政策变得更加活跃。",
+            "title_en": "Information Shocks, Legal Liability and Physician Decisions",
+            "title_zh": "信息冲击、法律责任与医生决策",
+            "url": "https://doi.org/10.1002/hec.70096",
+            "abstract_en": "ABSTRACT Physician adoption of new information about a medical procedure can affect patient outcomes. Medical malpractice law may influence physician use of such information. We analyze how physician reactions to information shocks regarding vaginal births after cesarean sections (VBACs) in the 1990s were mediated by tort reform and the standard used in malpractice claims to determine a physician's duty of care to patients. Differentiating states according to whether they capped non‐economic damages in malpractice claims (Caps) and whether they defined the duty of care using a national or a local reference point, we analyze how physicians under the four legal regimes reacted to a series of adverse information shocks regarding VBACs over the period. Our results suggest that physicians whose duty of care is determined by standard practices nationwide are less likely to adopt innovations which have not yet been incorporated into those practices and more likely to adopt innovations once they are incorporated into those practices. Caps may moderate these effects. Our results also suggest intuitive heterogeneity in the effects of legal regime on physician decisions.",
+            "abstract_zh": "摘要：医生对有关医疗程序的新信息的采纳可能会影响患者的治疗结果。医疗事故法律可能会影响医生使用这些信息。我们分析了医生对1990年代关于剖宫产后阴道分娩（VBACs）的信息冲击的反应是如何通过医疗事故改革和确定医生对患者护理责任的标准来调节的。根据各州是否限制医疗事故索赔中的非经济损害赔偿（上限）以及是否使用全国或地方参考点来定义护理责任，我们分析了在四种法律制度下，医生对VBACs一系列不利信息冲击的反应。我们的研究结果表明，那些护理责任由全国标准实践确定的医生不太可能采纳尚未纳入这些实践的创新，而一旦这些创新被纳入这些实践，他们更有可能采纳这些创新。上限可能会调节这些效应。我们的结果还表明，法律制度对医生决策的影响存在直观的异质性。",
             "matched_topics": [
               "企业创新",
               "创新药"
-            ]
-          },
-          {
-            "title_en": "Exploring Population Heterogeneities in Health Dynamics",
-            "title_zh": "探索健康动态中的人口异质性",
-            "url": "https://doi.org/10.1002/hec.70076",
-            "abstract_en": "ABSTRACT How does individuals' health status evolve over time? Is this evolution characterized by any socio‐economic gradient? To answer these questions, this paper proposes a new intuitive and normatively grounded criterion to assess and compare health dynamics over time accounting for population heterogeneities. Implementing this criterion to European data, this paper provides the first pan‐European evidence on health dynamics and related heterogeneities from 2005 to 2019. It shows that socio‐economic gradients have played an important role in shaping the health dynamics experienced by the European population. These dynamics appear progressive with respect to the pure economic status of individuals determined by their level of income. This feature is reverted when the economic conditions of individuals are widened to include non‐pure monetary aspects such as professional condition and parental background.",
-            "abstract_zh": "摘要 个体健康状况随时间的演变是怎样的？这种演变是否具有任何社会经济梯度特征？为了回答这些问题，本文提出了一个新的直观且具有规范基础的标准，用以评估和比较考虑人口异质性的随时间变化的健康动态。将这一标准应用于欧洲数据，本文提供了2005年至2019年欧洲健康动态及其相关异质性的首个泛欧洲证据。研究表明，社会经济梯度在塑造欧洲人口经历的健康动态中发挥了重要作用。这些动态相对于个体的纯经济地位（由其收入水平决定）呈现出进步性。当个体的经济状况扩展到包括职业状况和家庭背景等非纯货币方面时，这一特征发生了逆转。",
-            "matched_topics": [
-              "国际贸易"
             ]
           }
         ],
@@ -1927,8 +1937,8 @@
             "title_en": "Are Health Gains to Children and Adolescents More Important Than Health Gains to Adults? A Person Trade-Off Study",
             "title_zh": "儿童和青少年的健康收益是否比成年人更重要？一项个体权衡研究",
             "url": "https://doi.org/10.1007/s40273-025-01574-0",
-            "abstract_en": "The relative value of child QALY gains varies by age of the child, by health gain type, and by adult comparison age. While alleviating children's pain is strongly supported (weights ≥ 1.2), overall views are polarised, highlighting the complexity of age-based prioritisation.",
-            "abstract_zh": "儿童QALY增益的相对价值因儿童年龄、健康增益类型以及成人比较年龄而异。虽然减轻儿童疼痛得到了强烈支持（权重≥1.2），但总体观点两极分化，突显了基于年龄优先排序的复杂性。",
+            "abstract_en": "PURPOSE: Healthcare decision-making often assumes equal value for quality-adjusted life years (QALYs) across patient groups, yet societal preferences suggest that the value of a QALY may vary with characteristics such as age. Evidence indicates some willingness to prioritise child health gains, though findings are inconsistent. This study used person trade-off (PTO) to estimate the relative social value of different types of health gains for children and adolescents (aged 0-24 years) compared with adults. METHODS: A representative Australian sample aged 16 years and above (n = 2098) completed an online survey comparing life extension and quality-of-life improvements for different ages. A 'chaining' approach tested response consistency, and logistic regression explored associations between PTO choices and respondent characteristics. Attitudinal questions and open text responses provided additional insights. RESULTS: PTO responses show that health gains for children and adolescents (4-24 years) are generally valued more highly than those for adults (age 40 or 55 years), with weights ranging from 1 to 1.3. For very young children, findings vary by health gain type: life extensions for infants (1 month or 2 years) are weighted lower, but pain alleviation is higher (weights ≥ 1.2). Qualitative and attitudinal data reveal diverse views, with many opposing age-weighting. Younger respondents and those with young children prioritise children more, while older and female participants preferred equal treatment. CONCLUSIONS: The relative value of child QALY gains varies by age of the child, by health gain type, and by adult comparison age. While alleviating children's pain is strongly supported (weights ≥ 1.2), overall views are polarised, highlighting the complexity of age-based prioritisation.",
+            "abstract_zh": "目的：医疗决策通常假设不同患者群体的质量调整生命年（QALYs）具有相等价值，然而社会偏好表明QALY的价值可能随年龄等特征而变化。证据显示，人们愿意优先考虑儿童健康收益，但发现结果并不一致。本研究使用个体权衡（PTO）方法估计儿童和青少年（0-24岁）与成人相比不同类型的健康收益的相对社会价值。方法：一个具有代表性的澳大利亚样本，年龄在16岁及以上（n=2098）完成了一个在线调查，比较了不同年龄段的生命延长和生活质量改善。“链接”方法测试了响应的一致性，逻辑回归探索了PTO选择与受访者特征之间的关联。态度问题和开放式文本回应提供了额外的见解。结果：PTO回应显示，儿童和青少年（4-24岁）的健康收益通常比成人（40岁或55岁）更受重视，权重范围从1到1.3。对于非常年幼的儿童，结果因健康收益类型而异：婴儿的生命延长（1个月或2年）的权重较低，但疼痛缓解的权重更高（权重≥1.2）。定性和态度数据揭示了多样化的观点，许多人反对年龄加权。年轻的受访者和有小孩的人更倾向于优先考虑儿童，而年长和女性参与者更倾向于平等对待。结论：儿童QALY收益的相对价值因儿童年龄、健康收益类型和成人比较年龄而异。虽然缓解儿童疼痛得到了强烈支持（权重≥1.2），但总体观点是两极分化的，突出了基于年龄的优先排序的复杂性。",
             "matched_topics": [
               "国际贸易"
             ]
@@ -1947,9 +1957,10 @@
             "title_en": "Innovative Contracting for Gene Therapies: Current Landscape and Perspectives on the Future of Gene Therapy Financing in the USA",
             "title_zh": "基因疗法的创新合同：美国基因疗法融资现状及未来展望",
             "url": "https://doi.org/10.1007/s40273-025-01563-3",
-            "abstract_en": "Widespread uptake of ICs will require a multi-stakeholder collaboration to overcome common barriers, as a one-size-fits-all approach is insufficient for diverse stakeholder needs. Establishing industry-wide contracting principles and practices may help bridge differences in opinions and build trust between contracting parties, allow stakeholders to share lessons from early adopters, and support efficient contracting processes that promote consistent and equitable patient access to GTs while ensuring healthcare system sustainability.",
-            "abstract_zh": "集成电路（ICs）的广泛采用需要多方利益相关者合作来克服共同的障碍，因为一种适用于所有情况的方法无法满足不同利益相关者的需求。建立全行业范围的合同原则和实践可能有助于弥合意见分歧，建立合同双方之间的信任，让利益相关者分享早期采用者的经验教训，并支持高效的合同流程，这些流程促进了对基因治疗（GTs）的一致和公平的患者获取，同时确保了医疗系统的可持续性。",
+            "abstract_en": "BACKGROUND AND OBJECTIVE: Over the last decade, payers in the USA have been exploring novel financing mechanisms for gene therapies (GTs). Our research objective was to assess the landscape of innovative contracts (ICs) between payers and manufacturers for GTs and identify barriers and opportunities for future contract development and implementation. METHODS: We used a multi-method approach including a targeted literature review and interviews. We developed a framework defining 'innovative contracts' as agreements using real-world outcomes that link to the total price paid for gene therapy, encompassing value-based pricing, outcome-based payments, and performance-based models between payers and manufacturers. We searched for published information about implementation of ICs for GTs in PubMed and government, industry, and research institutions from January 2014 to January 2025. We excluded any insights specific to ICs for non-GTs as well as those relevant to ex-US markets. We supplemented these findings with bibliographic searches. Semi-structured interviews with payers, manufacturers, and other diverse representatives from the GT financing ecosystem were conducted to validate and enrich the literature findings. RESULTS: The PubMed search yielded ten studies relevant to implementation of ICs. Gray literature included over 50 publications referencing active contracts, policy solutions, payer budget impact, and state Medicaid programs' innovative GT contracting. Information on manufacturer and payer contracts was publicly available for 10 of 14 gene therapies (71%). Of 16 identified GT contracts, eight used upfront payments with milestone-based rebates, two used performance-based installment payments, one offered upfront payment with a rebate or payment over 5 years, and five do not have publicly available details on the type of financial arrangement. Interviews (N = 15) suggested that barriers to ICs include a lack of mutual trust between payers and manufacturers, lack of data conveying the return on investment for innovative contracts, lack of a sufficient incentive for stakeholders to engage in contracting, perceived regulatory limitations (e.g., implications of Medicaid Best Price), and patient portability challenges. Some interviewees believed that ICs should be the standard for GTs, while others stated that ICs should only be pursued when they are expected to have a significant impact on timely patient access in the early launch period when payers are considering limited or no coverage. Interviewees indicated that policy changes may encourage future contracting negotiation and implementation. CONCLUSIONS: Widespread uptake of ICs will require a multi-stakeholder collaboration to overcome common barriers, as a one-size-fits-all approach is insufficient for diverse stakeholder needs. Establishing industry-wide contracting principles and practices may help bridge differences in opinions and build trust between contracting parties, allow stakeholders to share lessons from early adopters, and support efficient contracting processes that promote consistent and equitable patient access to GTs while ensuring healthcare system sustainability.",
+            "abstract_zh": "背景与目标：在过去十年中，美国支付方一直在探索基因疗法（GTs）的新型融资机制。我们的研究目标是评估支付方和制造商之间基因疗法的创新合同（ICs）的格局，并识别未来合同开发和实施的障碍和机会。方法：我们采用了包括目标文献综述和访谈在内的多方法方法。我们构建了一个框架，将“创新合同”定义为使用现实世界结果与基因疗法支付总价相联系的协议，包括基于价值的定价、基于结果的支付和支付方与制造商之间的基于绩效的模型。我们在PubMed以及政府、行业和研究机构中搜索了2014年1月至2025年1月间实施ICs的GTs的已发布信息。我们排除了任何特定于非GTs的ICs的见解以及与美国以外市场相关的见解。我们用文献搜索补充了这些发现。对支付方、制造商和来自GT融资生态系统的其他多样化代表进行了半结构化访谈，以验证和丰富文献发现。结果：PubMed搜索产生了十项与实施ICs相关的研究。灰色文献包括50多篇引用活跃合同、政策解决方案、支付方预算影响和州医疗补助计划的创新GT合同的出版物。14种基因疗法中有10种（71%）的制造商和支付方合同信息是公开可用的。在16个确定的GT合同中，有8个使用了基于里程碑的预付款和回扣，2个使用了基于绩效的分期付款，1个提供了5年内的预付款和回扣或付款，5个没有公开可用的财务安排类型的详细信息。访谈（N=15）表明，ICs的障碍包括支付方和制造商之间缺乏相互信任、缺乏传达创新合同投资回报的数据、缺乏足够的激励措施让利益相关者参与合同、感知到的监管限制（例如，医疗补助最佳价格的影响）和患者可携带性挑战。一些受访者认为ICs应该是GTs的标准，而其他人则表示，只有在预期ICs将在早期推出期间对及时的患者获取产生重大影响时，才应追求ICs，当时支付方是...",
             "matched_topics": [
+              "产业经济",
               "创新药"
             ]
           },
@@ -1957,8 +1968,8 @@
             "title_en": "Patient-Level Health Economic Modeling in Excel Without VBA: A Tutorial",
             "title_zh": "无需VBA的Excel中患者级卫生经济建模教程",
             "url": "https://doi.org/10.1007/s40273-025-01543-7",
-            "abstract_en": "Cohort-level models in Microsoft Excel<sup>®</sup> remain the standard for cost-effectiveness modeling to inform health technology assessment (HTA), despite calls and rationale for more flexible approaches. Their limited ability to capture patient-level characteristics can, in the presence of patient heterogeneity or the need to track patient characteristics to accurately capture a technology's implications, introduce bias. Their continued prevalence is explained by key stakeholders' familiarity with spreadsheet software, and the lower computational burden of cohort-level versus patient-level models. However, contemporary Excel functions have opened up possibilities for calculations within native Excel that enable more flexible, patient-level approaches to be implemented in familiar spreadsheet-based software, without use of any Visual Basic for Applications (VBA) code. Therefore, this tutorial aims to provide step-by-step guidance on how to implement a previously published and freely available individual-level discrete event simulation (DES) in Excel, using contemporary Excel functions and without any VBA code.",
-            "abstract_zh": "在微软Excel®中，队列级模型仍然是用于指导健康技术评估（HTA）的成本效益建模的标准，尽管有人呼吁并有理由采用更灵活的方法。在患者异质性存在或需要追踪患者特征以准确捕捉技术影响的情况下，它们有限的能力捕捉患者级特征可能会引入偏差。它们的持续流行可以归因于关键利益相关者对电子表格软件的熟悉，以及与患者级模型相比，队列级模型的计算负担较低。然而，当代Excel功能为在原生Excel中进行计算提供了可能性，使得更灵活的、患者级的建模方法能够在熟悉的基于电子表格的软件中实现，而无需使用任何Visual Basic for Applications（VBA）代码。因此，本教程旨在提供分步指导，说明如何在Excel中使用当代Excel功能且不使用任何VBA代码来实现先前发表且免费可用的个体级离散事件模拟（DES）。",
+            "abstract_en": "remain the standard for cost-effectiveness modeling to inform health technology assessment (HTA), despite calls and rationale for more flexible approaches. Their limited ability to capture patient-level characteristics can, in the presence of patient heterogeneity or the need to track patient characteristics to accurately capture a technology's implications, introduce bias. Their continued prevalence is explained by key stakeholders' familiarity with spreadsheet software, and the lower computational burden of cohort-level versus patient-level models. However, contemporary Excel functions have opened up possibilities for calculations within native Excel that enable more flexible, patient-level approaches to be implemented in familiar spreadsheet-based software, without use of any Visual Basic for Applications (VBA) code. Therefore, this tutorial aims to provide step-by-step guidance on how to implement a previously published and freely available individual-level discrete event simulation (DES) in Excel, using contemporary Excel functions and without any VBA code.",
+            "abstract_zh": "尽管有呼声和理由要求采用更灵活的方法，但成本效益模型仍然是指导健康技术评估（HTA）的标准，因为它们在捕捉患者个体特征方面的能力有限，这可能会在患者异质性存在或需要追踪患者特征以准确捕捉技术影响的情况下引入偏差。它们之所以持续流行，是因为关键利益相关者对电子表格软件的熟悉，以及队列级模型相对于个体级模型的计算负担较低。然而，现代Excel功能为在原生Excel中进行计算提供了可能性，使得在熟悉的基于电子表格的软件中实现更灵活的个体级方法成为可能，而无需使用任何Visual Basic for Applications（VBA）代码。因此，本教程旨在提供分步指导，说明如何在Excel中使用现代Excel功能且不使用任何VBA代码来实现先前发表且免费提供的个体级离散事件模拟（DES）。",
             "matched_topics": [
               "医疗创新",
               "创新药"
@@ -1974,15 +1985,26 @@
         "resolved_name": "Value in Health",
         "issue_title": "Volume 29, Issue 4",
         "issue_url": "https://www.valueinhealthjournal.com/",
-        "matched_count": 9,
+        "matched_count": 11,
         "total_in_issue": 26,
         "papers": [
+          {
+            "title_en": "Face Validation of an Artificial Intelligence Driven Tool for Clinical Triaging in Australian Public Oral Healthcare: A Pilot Study",
+            "title_zh": "澳大利亚公共口腔医疗临床分流中人工智能驱动工具的人脸验证：一项试点研究",
+            "url": "https://doi.org/10.1016/j.jval.2025.12.001",
+            "abstract_en": "OBJECTIVES: The adoption of artificial intelligence (AI) technology holds significant potential to drive innovation for value-based healthcare for Victorian public oral healthcare, Australia. This pilot study compared the clinical triage decision outcome of experienced dentists in prioritizing consumers with urgent dental care at Your Community Health, a community health service in Victoria, Australia, with those generated by the CoTreat AI-driven tool (CoTreat Pty Ltd, Australia). METHODS: Consecutive sampling of consumers were recruited for the 6-month pilot. Five clinical criteria were established to determine consumers with urgent care: (1) requires urgent extraction causing loss of upper or lower anterior teeth, (2) multiple teeth (≥15% of remaining dentition) with moderate/extensive dental caries, (3) abscessed tooth/teeth, (4) root caries, and (5) missing upper and lower anterior teeth. Face validation was undertaken to compare the agreement between the triage output returned by CoTreat (index test) and 2 experienced dentists (reference standard) in determining urgent care. RESULTS: A total of 173 consumers were triaged in this pilot study (mean age 61.9 years [SD 18.]). One-third (n = 57) were identified needing urgent care. CoTreat achieved 98.3% agreement with dentist clinical triage outcome (Cohen's k = 0.96), 100% sensitivity, and 97.5% specificity, with positive predictive value of 94.7% and negative predictive value of 100%. The most common triage criteria were missing anterior teeth (60.3%) and abscesses (20.7%). CONCLUSIONS: CoTreat demonstrated excellent agreement with dentists' clinical triage decisions. AI-driven tools, such as CoTreat, can advance value-based healthcare implementation by identifying consumers with urgent care needs for Victorian public oral healthcare.",
+            "abstract_zh": "目标：采用人工智能（AI）技术对于推动澳大利亚维多利亚州公共口腔保健的价值基础医疗创新具有重大潜力。本试点研究比较了在维多利亚州澳大利亚社区健康服务Your Community Health中，经验丰富的牙医在优先考虑急需牙科护理的消费者时的临床分诊决策结果，与CoTreat AI驱动工具（CoTreat Pty Ltd，澳大利亚）生成的结果。方法：连续抽样的消费者被招募参加为期6个月的试点。建立了五个临床标准来确定急需护理的消费者：（1）需要紧急拔牙导致上颌或下颌前牙缺失，（2）多颗牙齿（≥15%的剩余牙齿）中度/广泛龋齿，（3）脓肿牙齿/牙齿，（4）根龋，以及（5）缺失上颌和下颌前牙。进行面部验证，比较CoTreat（指数测试）返回的分诊输出与2位经验丰富的牙医（参考标准）在确定紧急护理时的一致性。结果：本试点研究共对173名消费者进行了分诊（平均年龄61.9岁[SD 18]）。三分之一（n = 57）被确定需要紧急护理。CoTreat与牙医临床分诊结果的一致性达到98.3%（Cohen's k = 0.96），敏感性100%，特异性97.5%，阳性预测值为94.7%，阴性预测值为100%。最常见的分诊标准是缺失前牙（60.3%）和脓肿（20.7%）。结论：CoTreat与牙医的临床分诊决策显示出极佳的一致性。像CoTreat这样的AI驱动工具，可以通过识别维多利亚州公共口腔保健中急需护理的消费者，推进价值基础医疗的实施。",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
           {
             "title_en": "Exploring Methods to Include Carbon Emissions Into a Health Technology Assessment: The Case of Remote Patient Monitoring",
             "title_zh": "探索将碳排放纳入健康技术评估的方法：以远程患者监测为例",
             "url": "https://doi.org/10.1016/j.jval.2025.11.007",
-            "abstract_en": "Both methods were feasible and, despite RPM's higher carbon emissions, pointed to the same conclusion. Economic evaluation had little impact at current carbon prices, whereas MCDA allowed explicit sustainability considerations but is sensitive to subjective choices. Overall, environmental outcomes may be better addressed through deliberative Health Technology Assessment processes, with broader policy instruments key to reducing healthcare's carbon emissions.",
-            "abstract_zh": "两种方法都是可行的，尽管RPM的碳排放量更高，但得出的结论相同。在当前的碳价格下，经济评估影响甚微，而多标准决策分析（MCDA）允许明确考虑可持续性因素，但对主观选择敏感。总体而言，通过更具包容性的卫生技术评估过程可能更好地解决环境结果问题，而更广泛的政策工具对于减少医疗保健的碳排放至关重要。",
+            "abstract_en": "OBJECTIVES: To examine how 2 methodological approaches can be applied to incorporate environmental outcomes in Health Technology Assessment, using remote patient monitoring (RPM) versus usual care (UC) after cardiac surgery. METHODS: eq; scenario analysis up to €0.21/kg) and added to costs. In multicriteria decision analysis (MCDA), 6 criteria including environmental impact were evaluated with Analytical Hierarchy Process, using stakeholder valuations. RESULTS: eq per patient), driven by device production, partly offset by reduced unplanned care, outpatient visits, and patient travel. Despite higher emissions, RPM remained cost-saving (€102 per patient) with a positive incremental net monetary benefit (€42); only 1% of cost difference was attributable to emissions. In the MCDA, RPM outperformed UC in 5 of 6 criteria, with UC only favored on environmental impact. Stakeholders assigned moderate weight to the environmental criterion, resulting in a higher overall value score for RPM (0.649 vs 0.351). CONCLUSIONS: Both methods were feasible and, despite RPM's higher carbon emissions, pointed to the same conclusion. Economic evaluation had little impact at current carbon prices, whereas MCDA allowed explicit sustainability considerations but is sensitive to subjective choices. Overall, environmental outcomes may be better addressed through deliberative Health Technology Assessment processes, with broader policy instruments key to reducing healthcare's carbon emissions.",
+            "abstract_zh": "目的：研究如何应用两种方法论途径将环境结果纳入心脏手术后远程患者监测（RPM）与常规护理（UC）的卫生技术评估中。方法：在成本效益分析中，计算了RPM与UC之间的成本差异（每公斤0.21欧元）并加到成本中。在多标准决策分析（MCDA）中，使用分析层次过程评估了包括环境影响在内的6个标准，并使用利益相关者估值。结果：RPM的每患者等效成本较低，主要由设备生产驱动，部分被减少的非计划护理、门诊访问和患者旅行所抵消。尽管排放量更高，RPM仍然是节省成本的（每患者102欧元），具有正的增量净货币效益（42欧元）；成本差异中只有1%归因于排放。在MCDA中，RPM在6个标准中的5个标准上优于UC，UC仅在环境影响上受到青睐。利益相关者对环境标准赋予了适度的权重，导致RPM的整体价值得分更高（0.649对0.351）。结论：两种方法都是可行的，尽管RPM的碳排放量更高，但得出了相同的结论。在当前的碳价格下，经济评估影响很小，而MCDA允许明确的可持续性考虑，但对主观选择敏感。总体而言，环境结果可能更好地通过审议性的卫生技术评估流程来解决，更广泛的政策工具是减少医疗保健碳排放的关键。",
             "matched_topics": [
               "医疗创新",
               "创新药"
@@ -1992,21 +2014,22 @@
             "title_en": "Estimating the Shares of the Value of Branded Pharmaceuticals Accruing to Manufacturers and to Patients in the Thai Healthcare System",
             "title_zh": "泰国医疗系统中品牌药品价值在制造商和患者之间的分配份额估算",
             "url": "https://doi.org/10.1016/j.jval.2025.10.004",
-            "abstract_en": "Quantification of the lifecycle value of new pharmaceuticals can better inform policies that enhance population health. In Thailand, policies that could improve overall population health include earlier adoption of new pharmaceuticals alongside careful price regulation and expedited generic entry. These approaches could also provide mechanisms to signal research and development priorities effectively.",
-            "abstract_zh": "量化新药的生命周期价值可以更好地指导政策，以增强人口健康。在泰国，能够改善整体人口健康的政策包括更早地采用新药，同时谨慎地进行价格调控和加快仿制药的上市。这些方法还可以提供有效信号，以指示研究和开发的重点。",
+            "abstract_en": "OBJECTIVES: This article aims to inform which pricing policies for new pharmaceuticals will benefit population health most, and which will not, by drawing out the implications of current pricing policy in Thailand for the value that new, branded pharmaceuticals bring to the population. METHODS: We quantify the lifecycle value in terms of net population health gains of 9 new, branded pharmaceutical and indication combinations by evaluating lifetime health gains and reimbursement costs, considering the availability of generics or biosimilars. We then analyze how the value is shared between the population and manufacturers. RESULTS: Two-thirds of the pharmaceutical and indication combinations generated net population health gains over their lifecycle, with more than 90% of the total potential net health effects benefiting patients within the Thai healthcare system. However, manufacturers received a low proportion of value. Key factors driving these outcomes included delayed adoption of new pharmaceuticals and entry of generics or biosimilars. Conversely, 2 pharmaceuticals that were approved despite being deemed cost-ineffective resulted in net losses to population health. CONCLUSIONS: Quantification of the lifecycle value of new pharmaceuticals can better inform policies that enhance population health. In Thailand, policies that could improve overall population health include earlier adoption of new pharmaceuticals alongside careful price regulation and expedited generic entry. These approaches could also provide mechanisms to signal research and development priorities effectively.",
+            "abstract_zh": "目的：本文旨在通过分析泰国当前药品定价政策对新品牌药品为人群健康带来的价值的影响，来告知哪些新药品的定价政策最有利于人群健康，哪些则不然。方法：我们通过评估9种新品牌药品及其适应症组合的终身健康增益和报销成本，量化了其生命周期价值，并考虑了仿制药或生物类似药的可用性。然后分析了价值如何在人群和制造商之间共享。结果：三分之二的药品和适应症组合在其生命周期内产生了净人群健康增益，超过90%的总潜在净健康效应使泰国医疗保健系统内的患者受益。然而，制造商获得的价值比例较低。导致这些结果的关键因素包括新药品的采用延迟以及仿制药或生物类似药的进入。相反，尽管被认为成本效益不高，但有2种药品获批导致人群健康净损失。结论：量化新药品的生命周期价值可以更好地为提高人群健康的政策提供信息。在泰国，可以改善整体人群健康的政策包括尽早采用新药品，同时谨慎进行价格调控和加快仿制药的进入。这些方法还可以提供有效信号研发优先事项的机制。",
             "matched_topics": [
+              "产业经济",
               "企业创新",
               "医药产业"
             ]
           },
           {
-            "title_en": "A Forward Agenda for Digital Health Technologies: Evidence That Works for Decisions",
-            "title_zh": "数字健康技术前瞻议程：为决策提供有效证据",
-            "url": "https://doi.org/10.1016/j.jval.2026.02.007",
-            "abstract_en": "",
-            "abstract_zh": "",
+            "title_en": "The Effect of Perspective, Duration, and Views on Death on the Valuation of Severe Health States",
+            "title_zh": "视角、持续时间和死亡观对严重健康状况评估的影响",
+            "url": "https://doi.org/10.1016/j.jval.2025.11.004",
+            "abstract_en": "OBJECTIVES: Composite time trade-off utilities typically vary by perspective: adults tend to assign lower utilities to health states for themselves (self-perspective) than for children (proxy-perspective). Utilities also differ between proxy-perspectives: i.e., deciding for a child (proxy1) vs imagining what a child wants (proxy2). This can cause health states to be evaluated as better than dead (BTD) under one perspective, yet worse than dead (WTD) under another. We investigate how such WTD preferences vary with health states across durations and perspectives, alongside sociocultural factors such as religion and attitudes toward death. As a secondary analysis, we explore the maximal endurable time hypothesis to assess the consistency of WTD preferences. METHODS: We surveyed 1000 UK respondents, stratified into 2 groups by religious affiliation (religious vs nonreligious). Each completed BTD tasks from a self-perspective and a randomly assigned proxy perspective (proxy1 or proxy2), involving 5 health states across 4 durations. Respondents also ranked all health states (without duration) and immediate death. RESULTS: In ranking tasks without duration, WTD preferences were unaffected by perspective or religious affiliation, whereas the proportion of states considered WTD increased with longer durations in paired comparisons in the BTD tasks among nonreligious participants. WTD preferences were associated with stronger support for euthanasia and lower religiousness. Maximal endurable time preferences showed minimal differences across perspectives or religious affiliations. CONCLUSIONS: Perspectives, duration, religious affiliation, and views on euthanasia shape WTD preferences. Future research is encouraged to consider religion in sampling and how to deal with the potential duration dependency of QALY-anchored utilities.",
+            "abstract_zh": "目标：复合时间权衡效用通常因视角而异：成人倾向于为自己（自我视角）分配较低的健康状态效用，而为儿童（代理视角）分配较高的效用。代理视角之间也存在效用差异，即，为儿童做决定（代理1）与想象儿童想要什么（代理2）之间的区别。这可能导致某些健康状态在一种视角下被评估为比死亡更好（BTD），而在另一种视角下则被评估为比死亡更差（WTD）。我们研究了这种WTD偏好如何随着健康状态、持续时间以及视角的变化而变化，同时考虑了社会文化因素，如宗教和对死亡的态度。作为次要分析，我们探讨了最大可忍受时间假设，以评估WTD偏好的一致性。方法：我们调查了1000名英国受访者，按宗教信仰分为两组（宗教与非宗教）。每个人从自我视角和随机分配的代理视角（代理1或代理2）完成BTD任务，涉及5种健康状态和4个持续时间。受访者还对所有健康状态（不考虑持续时间）和立即死亡进行了排名。结果：在不考虑持续时间的排名任务中，WTD偏好不受视角或宗教信仰的影响，而在非宗教参与者中，随着BTD任务中持续时间的延长，被认为是WTD状态的比例在配对比较中增加。WTD偏好与对安乐死的更强支持和较低的宗教性相关。最大可忍受时间偏好在视角或宗教信仰之间显示出最小的差异。结论：视角、持续时间、宗教信仰和对安乐死的看法塑造了WTD偏好。鼓励未来的研究考虑抽样中的宗教因素，以及如何处理与QALY锚定效用潜在的持续时间依赖性。",
             "matched_topics": [
-              "医疗创新",
+              "国际贸易",
               "创新药"
             ]
           },
@@ -2018,6 +2041,17 @@
             "abstract_zh": "",
             "matched_topics": [
               "医疗创新"
+            ]
+          },
+          {
+            "title_en": "A Forward Agenda for Digital Health Technologies: Evidence That Works for Decisions",
+            "title_zh": "数字健康技术前瞻议程：为决策提供有效证据",
+            "url": "https://doi.org/10.1016/j.jval.2026.02.007",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新",
+              "创新药"
             ]
           },
           {
@@ -2045,10 +2079,11 @@
             "title_en": "Qini Curves for Potential Impact Assessment of Risk Predictive Models Informing Intervention Policies",
             "title_zh": "秦尼曲线：评估风险预测模型对干预政策潜在影响",
             "url": "https://doi.org/10.1016/j.jval.2025.01.024",
-            "abstract_en": "Coverage and disutility capture key value components of prediction-based policies. The method can be used for comparing models or tuning risk thresholds for managing trade-offs between conflicting objectives (eg, clinical benefits, side effects, and healthcare resources).",
-            "abstract_zh": "覆盖范围和不便利性是预测型政策中关键价值组成部分。该方法可用于比较模型或调整风险阈值，以管理相互冲突目标（例如，临床效益、副作用和医疗资源）之间的权衡。",
+            "abstract_en": "OBJECTIVES: Predictive models in medicine help make decisions about which individual to treat with a given therapeutic or preventive intervention. Before being tested in large field studies and recommended for clinical adoption, it is important to evaluate not only their statistical accuracy but also the impact they may have when used to inform health intervention policies. We aim to provide simple methods for the potential impact assessment of health intervention policies based on predictive models. METHODS: We propose an analytic framework based on Qini curves wherein prediction-based policies are analyzed on 2 impact endpoints: (1) the fraction of the population that would be selected for the intervention (coverage) and (2) the effect on the clinical outcomes of interest (disutility). The drivers of values are the disease prevalence, the predictive performance of the model, and the effectiveness of the intervention. RESULTS: We present simple formulas for calculating coverage and disutility from either observational or randomized controlled data. We illustrate possible value measures arising from geometrical properties on the Qini plane: delta coverage and disutility, number needed to treat, and integrated difference between Qini curves. We show the applicability of the Qini analysis by providing examples about the prevention of falls in older adults and prevention of secondary cardiovascular events with pioglitazone. CONCLUSIONS: Coverage and disutility capture key value components of prediction-based policies. The method can be used for comparing models or tuning risk thresholds for managing trade-offs between conflicting objectives (eg, clinical benefits, side effects, and healthcare resources).",
+            "abstract_zh": "目标：医学中的预测模型有助于决定对哪些个体使用特定的治疗或预防干预措施。在进行大规模现场研究和推荐临床应用之前，评估这些模型不仅需要考虑它们的统计准确性，还需要评估它们在用于指导健康干预政策时可能产生的影响。我们旨在提供基于预测模型的健康干预政策潜在影响评估的简单方法。方法：我们提出了一个基于Qini曲线的分析框架，在此框架中，基于预测的政策在两个影响终点上进行分析：（1）将被选为干预对象的人口比例（覆盖率）和（2）对感兴趣的临床结果的影响（无用性）。这些值的驱动因素是疾病流行率、模型的预测性能和干预措施的有效性。结果：我们提出了从观察性或随机对照数据中计算覆盖率和无用性的简单公式。我们通过Qini平面上的几何属性说明了可能出现的价值度量：覆盖率和无用性的差异、需要治疗的人数，以及Qini曲线之间的综合差异。我们通过提供关于预防老年人跌倒和使用吡格列酮预防心血管次级事件的例子来展示Qini分析的适用性。结论：覆盖率和无用性捕捉了基于预测的政策的关键价值组成部分。该方法可用于比较模型或调整风险阈值，以管理相互冲突的目标之间的权衡（例如，临床效益、副作用和医疗资源）。",
             "matched_topics": [
-              "国际贸易"
+              "国际贸易",
+              "创新药"
             ]
           },
           {
@@ -2065,9 +2100,11 @@
             "title_en": "Toward a Harmonized Health Technology Assessment Framework for Digital Health Technologies in Europe",
             "title_zh": "迈向欧洲数字健康技术统一健康技术评估框架",
             "url": "https://doi.org/10.1016/j.jval.2025.12.004",
-            "abstract_en": "Stakeholders agreed that a harmonized HTA framework is needed; however, differences persist regarding timing and flexibility of evaluation, evidence types, and stakeholder involvement. The EDiHTA project will address differences through framework piloting, supported by multistakeholder workshops and expert advisory groups.",
-            "abstract_zh": "利益相关者一致认为需要一个协调一致的卫生技术评估（HTA）框架；然而，在评估的时间安排和灵活性、证据类型以及利益相关者参与方面仍存在差异。EDiHTA项目将通过框架试点来解决这些差异，该试点得到多方利益相关者工作坊和专家咨询组的支持。",
+            "abstract_en": "OBJECTIVES: The increasing use of digital health technologies (DHTs) in Europe presents opportunities and challenges. Although DHTs could enhance care delivery and health outcomes, existing health technology assessment (HTA) methods often lack flexibility to address their diverse, fast-evolving nature. This article explores the perspectives of 5 stakeholder groups-policy makers, HTA agencies, technology developers, healthcare providers, and patients-regarding the development of a harmonized HTA framework for DHTs within the Horizon Europe funded European Digital Health Technology Assessment (EDiHTA) project. METHODS: Findings are drawn from mixed-method research, including stakeholder surveys, interviews and focus groups with 97 stakeholders across European countries. The analysis of the data was performed per each stakeholder group through thematic analysis to identify points of consensus before identifying needs and requirements across stakeholders, relevant to the development of EDiHTA, using the Innovation Health Technology Assessment Methods framework. RESULTS: Results from 8 focus groups and more than 45 interviews are presented concentrating on 5 main themes. The emerging themes focus on the need for harmonization of HTA methods related to DHTs, the current characteristics of DHTs that are most highly valued, the importance of multistakeholder collaboration, the principles of a concept design for EDiHTA framework, and the discussion on the most relevant domains and criteria to be considered. CONCLUSIONS: Stakeholders agreed that a harmonized HTA framework is needed; however, differences persist regarding timing and flexibility of evaluation, evidence types, and stakeholder involvement. The EDiHTA project will address differences through framework piloting, supported by multistakeholder workshops and expert advisory groups.",
+            "abstract_zh": "目标：在欧洲，数字健康技术（DHTs）的日益普及带来了机遇和挑战。尽管DHTs可能增强护理服务和健康结果，但现有的健康技术评估（HTA）方法往往缺乏灵活性，无法应对其多样化和快速发展的特性。本文探讨了5个利益相关者群体——政策制定者、HTA机构、技术开发者、医疗保健提供者和患者——对于在欧洲地平线资助的欧洲数字健康技术评估（EDiHTA）项目中开发一个协调一致的DHTs HTA框架的观点。方法：研究结果来自混合方法研究，包括对97个欧洲国家利益相关者的调查、访谈和焦点小组讨论。数据分析是按照每个利益相关者群体通过主题分析进行的，以确定共识点，然后确定与EDiHTA开发相关的跨利益相关者的需求和要求，使用创新健康技术评估方法框架。结果：来自8个焦点小组和45多次访谈的结果集中在5个主要主题上。新出现的主题集中在需要协调与DHTs相关的HTA方法、当前最有价值的DHTs特性、多方利益相关者合作的重要性、EDiHTA框架的概念设计原则，以及讨论需要考虑的最相关领域和标准。结论：利益相关者一致认为需要一个协调一致的HTA框架；然而，在评估的时间和灵活性、证据类型以及利益相关者参与方面仍存在差异。EDiHTA项目将通过框架试点来解决这些差异，得到多方利益相关者研讨会和专家咨询小组的支持。",
             "matched_topics": [
+              "国际贸易",
+              "企业创新",
               "医疗创新"
             ]
           }
