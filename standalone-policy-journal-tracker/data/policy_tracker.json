@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-03 05:38:39",
+  "updated_at": "2026-05-10 05:47:00",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 1,
+    "success_count": 18,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -349,16 +349,6 @@
             ]
           },
           {
-            "title_en": "Rural Politics in the United States",
-            "title_zh": "美国农村政治",
-            "url": "https://doi.org/10.1146/annurev-polisci-040623-114017",
-            "abstract_en": "Scholars of American politics have recently turned their attention to rural politics, aiming to understand the late twentieth and early twenty-first century nationwide shift of white rural voters to the Republican Party and the ensuing rural–urban political divide. We review research that assesses the potential causes of the rise of place-based polarization, including political–economic transformation, racism, ethnocentrism, and the growing salience of social issues. We also consider its consequences, such as increased levels of social polarization and institutional threats to democracy. Most research to date has focused on individuals, whether to specify rural identity and its correlates or to probe public opinion and political behavior. We recommend that scholars broaden their scope of inquiry to include factors at the meso and macro levels by studying the interplay between place and institutions, public policies, and organizations as well as broader political, economic, and social developments. This will entail attention to change over time. We suggest that scholars resist cordoning off this research area into rural studies and instead engage with broad questions about the functioning of American democracy.",
-            "abstract_zh": "近期，美国政治学者开始关注农村政治，旨在理解20世纪末至21世纪初白人农村选民向共和党的全国性转变以及随之而来的城乡政治分歧。我们回顾了评估基于地方的极化上升潜在原因的研究，包括政治经济转型、种族主义、民族中心主义以及社会问题日益显著。我们还考虑了其后果，如社会极化程度的增加和对民主制度的威胁。迄今为止的大多数研究都集中在个体上，无论是为了明确农村身份及其相关性，还是为了探究公众舆论和政治行为。我们建议学者们扩大他们的研究范围，包括中观和宏观层面的因素，通过研究地方与制度、公共政策和组织之间的相互作用，以及更广泛的政治、经济和社会发展趋势。这将需要关注随时间的变化。我们建议学者们不要将这一研究领域划分为农村研究，而是参与到关于美国民主运作的广泛问题中去。",
-            "matched_topics": [
-              "城市治理"
-            ]
-          },
-          {
             "title_en": "How Lobbying Matters",
             "title_zh": "游说如何起作用",
             "url": "https://doi.org/10.1146/annurev-polisci-033123-124920",
@@ -369,13 +359,13 @@
             ]
           },
           {
-            "title_en": "Gender and Leadership in Executive Branch Politics",
-            "title_zh": "性别与行政分支政治中的领导力",
-            "url": "https://doi.org/10.1146/annurev-polisci-033123-014634",
-            "abstract_en": "Gender influences who has access to power, how leaders behave and are received within institutions, and how institutions are perceived. This review examines gender dynamics in the executive branch, focusing on presidents and prime ministers and their cabinets. We analyze four key areas: access to power, policy priorities, gendered leadership styles, and citizens’ responses. We argue that, despite progress, women remain underrepresented in executive roles, especially as chief executives. Women sometimes bring unique policy interests and leadership styles to the office, but strategic career incentives and institutional constraints shape both men's and women's behavior as leaders. Finally, women's presence in executive positions sends signals about the government, as well as about who is fit to govern and participate in politics. In sum, this review highlights the importance of understanding and addressing these gendered dynamics to move closer to gender equality in the highest levels of political leadership.",
-            "abstract_zh": "性别影响谁能够获得权力，领导者在机构中的行为和接受方式，以及机构的感知方式。本综述考察了行政部门中的性别动态，重点关注总统和总理及其内阁。我们分析了四个关键领域：获得权力的途径、政策优先事项、性别化的领导风格和公民的反应。我们认为，尽管取得了进展，女性在行政角色中，尤其是作为首席行政官，仍然代表性不足。女性有时将独特的政策利益和领导风格带入办公室，但战略性的职业激励和制度约束塑造了男性和女性作为领导者的行为。最后，女性在行政职位上的存在向政府以及谁适合治理和参与政治发出了信号。总之，本综述强调了理解和解决这些性别动态的重要性，以更接近政治领导层中的性别平等。",
+            "title_en": "Rural Politics in the United States",
+            "title_zh": "美国农村政治",
+            "url": "https://doi.org/10.1146/annurev-polisci-040623-114017",
+            "abstract_en": "Scholars of American politics have recently turned their attention to rural politics, aiming to understand the late twentieth and early twenty-first century nationwide shift of white rural voters to the Republican Party and the ensuing rural–urban political divide. We review research that assesses the potential causes of the rise of place-based polarization, including political–economic transformation, racism, ethnocentrism, and the growing salience of social issues. We also consider its consequences, such as increased levels of social polarization and institutional threats to democracy. Most research to date has focused on individuals, whether to specify rural identity and its correlates or to probe public opinion and political behavior. We recommend that scholars broaden their scope of inquiry to include factors at the meso and macro levels by studying the interplay between place and institutions, public policies, and organizations as well as broader political, economic, and social developments. This will entail attention to change over time. We suggest that scholars resist cordoning off this research area into rural studies and instead engage with broad questions about the functioning of American democracy.",
+            "abstract_zh": "近期，美国政治学者开始关注农村政治，旨在理解20世纪末至21世纪初白人农村选民向共和党的全国性转变以及随之而来的城乡政治分歧。我们回顾了评估基于地方的极化上升潜在原因的研究，包括政治经济转型、种族主义、民族中心主义以及社会问题日益显著。我们还考虑了其后果，如社会极化程度的增加和对民主制度的威胁。迄今为止的大多数研究都集中在个体上，无论是为了明确农村身份及其相关性，还是为了探究公众舆论和政治行为。我们建议学者们扩大他们的研究范围，包括中观和宏观层面的因素，通过研究地方与制度、公共政策和组织之间的相互作用，以及更广泛的政治、经济和社会发展趋势。这将需要关注随时间的变化。我们建议学者们不要将这一研究领域划分为农村研究，而是参与到关于美国民主运作的广泛问题中去。",
             "matched_topics": [
-              "公共政策"
+              "城市治理"
             ]
           },
           {
@@ -384,6 +374,16 @@
             "url": "https://doi.org/10.1146/annurev-polisci-041923-115351",
             "abstract_en": "The claim that war is in decline has gained considerable traction among analysts and policy makers. This review surveys the empirical data as well as the theoretical arguments for a decline of war. It concludes that, while great power wars have declined since 1945, war in general is not necessarily in decline. Critiques of the claim that war is in decline range from the statistical to the anthropological. While war is not necessarily in decline, though, it has changed. Specifically, a major driver of the putative decline of war—international norms, laws, and institutions—has done more to change how war is discussed and presented than whether it is prosecuted. Stronger theories of change are needed in international relations to understand whether these somewhat superficial changes could deepen in ways that produce a true decline in war.",
             "abstract_zh": "声称战争正在减少的观点在分析人士和政策制定者中获得了相当大的支持。这篇综述调查了战争减少的经验数据和理论论点。它得出的结论是，尽管自1945年以来大国战争有所减少，但战争总体上并不一定在减少。对战争减少这一说法的批评范围从统计学扩展到人类学。尽管战争并不一定在减少，但它已经发生了变化。具体来说，被认为是战争减少的主要驱动力——国际规范、法律和机构——更多地改变了战争的讨论和呈现方式，而不是它是否被进行。国际关系中需要更强有力的变革理论，以理解这些表面上的变化是否能够以某种方式深化，从而真正减少战争。",
+            "matched_topics": [
+              "公共政策"
+            ]
+          },
+          {
+            "title_en": "Gender and Leadership in Executive Branch Politics",
+            "title_zh": "性别与行政分支政治中的领导力",
+            "url": "https://doi.org/10.1146/annurev-polisci-033123-014634",
+            "abstract_en": "Gender influences who has access to power, how leaders behave and are received within institutions, and how institutions are perceived. This review examines gender dynamics in the executive branch, focusing on presidents and prime ministers and their cabinets. We analyze four key areas: access to power, policy priorities, gendered leadership styles, and citizens’ responses. We argue that, despite progress, women remain underrepresented in executive roles, especially as chief executives. Women sometimes bring unique policy interests and leadership styles to the office, but strategic career incentives and institutional constraints shape both men's and women's behavior as leaders. Finally, women's presence in executive positions sends signals about the government, as well as about who is fit to govern and participate in politics. In sum, this review highlights the importance of understanding and addressing these gendered dynamics to move closer to gender equality in the highest levels of political leadership.",
+            "abstract_zh": "性别影响谁能够获得权力，领导者在机构中的行为和接受方式，以及机构的感知方式。本综述考察了行政部门中的性别动态，重点关注总统和总理及其内阁。我们分析了四个关键领域：获得权力的途径、政策优先事项、性别化的领导风格和公民的反应。我们认为，尽管取得了进展，女性在行政角色中，尤其是作为首席行政官，仍然代表性不足。女性有时将独特的政策利益和领导风格带入办公室，但战略性的职业激励和制度约束塑造了男性和女性作为领导者的行为。最后，女性在行政职位上的存在向政府以及谁适合治理和参与政治发出了信号。总之，本综述强调了理解和解决这些性别动态的重要性，以更接近政治领导层中的性别平等。",
             "matched_topics": [
               "公共政策"
             ]
@@ -644,132 +644,59 @@
         "query_name": "Population, Space and Place",
         "issn": "1544-8444",
         "resolved_name": "Population Space and Place",
-        "issue_title": "Volume 32, Issue 3",
+        "issue_title": "Volume 32, Issue 4",
         "issue_url": "https://onlinelibrary.wiley.com/journal/15448452",
-        "matched_count": 12,
-        "total_in_issue": 15,
+        "matched_count": 5,
+        "total_in_issue": 7,
         "papers": [
           {
-            "title_en": "Diversity, Minority Share, and the Fertility Differential Between Turks and Han in China",
-            "title_zh": "多样性、少数民族比例与中国土耳其人和汉族之间的生育差异",
-            "url": "https://doi.org/10.1002/psp.70248",
-            "abstract_en": "ABSTRACT While fertility differentials between ethno‐racial groups are often attributed to socioeconomic or cultural factors, an emerging scholarship emphasises the importance of context for these differentials to occur. This study examines how context‐level ethnic composition (ethnic context) shapes fertility differentials using the case of Xinjiang, China. Contextual data from the 2010 decennial census were linked with individual‐level data from the 2015 micro‐census. Ethnic context was measured by minority share and ethnic diversity, while controlling for key individual and county‐level covariates. Hierarchical Poisson regressions show that minority share is positively associated with the number of children, whereas diversity is negatively associated. Moreover, ethnic diversity significantly reduced the fertility differential: Turks, in contrast to Han, reported lower fertility as local diversity increased and the Turk‐Han differentials narrowed. To interpret these findings, I combined quantitative analysis with a historical reading. I classified four ethnic context ideal types (the Industrial‐military type, the Han immigrant type, the Multicultural type, and the Indigenous type) and used a simple algorithm to pick three representative cases from each ideal type. With these ideal typical cases, I explained how historical processes have created the distinct ethnic contexts that matter for fertility outcomes.",
-            "abstract_zh": "摘要：尽管不同种族群体之间的生育差异常被归因于社会经济或文化因素，但新兴的学术研究强调了这些差异发生的背景的重要性。本研究以中国新疆为例，探讨了背景层面的民族构成（民族背景）如何塑造生育差异。将2010年十年一次的人口普查的背景数据与2015年微观人口普查的个体层面数据相链接。民族背景通过少数民族比例和民族多样性来衡量，同时控制了关键的个体和县级协变量。分层泊松回归显示，少数民族比例与孩子数量呈正相关，而多样性则呈负相关。此外，民族多样性显著降低了生育差异：随着当地多样性的增加，与汉族相比，维吾尔族报告的生育率较低，维吾尔族与汉族之间的差异缩小。为了解释这些发现，我将定量分析与历史阅读相结合。我将四种民族背景理想类型（工业-军事型、汉族移民型、多元文化型和土著型）进行分类，并使用简单算法从每种理想类型中挑选三个代表性案例。通过这些理想类型的案例，我解释了历史过程如何创造了对生育结果有影响的不同民族背景。",
+            "title_en": "Parental Co‐Residence and the Transition to Homeownership Among Young Adults in the UK",
+            "title_zh": "标题：父母同住与英国年轻成年人向购房过渡的关系",
+            "url": "https://doi.org/10.1002/psp.70280",
+            "abstract_en": "ABSTRACT Young people are living with their parents for longer. Little is known about how this behaviour, along with the divergent socio‐economic outcomes it entails, affects young adults' homeownership. Using UKHLS data adjusted for panel attrition, this study compares first‐time homeownership transitions between young adults living with parents (home‐stayers) and those who have left home to live independently in the private rental sector (home‐leavers), while accounting for the mediating effects of socio‐economic outcomes via the KHB modelling framework. The results reveal that, although home‐stayers experience higher unemployment, lower income, and residence in more affordable areas, these factors do not significantly affect transitions to homeownership. Instead, their higher likelihood of having savings and more favourable financial situations is associated with an increased probability of homeownership, while lower rates of partnership formation are associated with a substantial reduction. Once partnership formation is accounted for, the difference in homeownership transitions between the two groups disappears.",
+            "abstract_zh": "摘要：年轻人与父母同住的时间越来越长。目前对于这种行为及其带来的不同社会经济结果如何影响年轻人的购房行为知之甚少。本研究利用调整了面板流失的英国家庭纵向调查数据，通过KHB模型框架考虑社会经济结果的中介效应，比较了与父母同住的年轻成年人（留家者）和离开家独立在私人租赁部门生活的年轻成年人（离家者）之间的首次购房转变。结果显示，尽管留家者经历更高的失业率、更低的收入和居住在更便宜的地区，这些因素并没有显著影响购房转变。相反，他们更有可能拥有储蓄和更有利的财务状况与购房概率的增加有关，而较低的伴侣形成率与购房概率的大幅降低有关。一旦考虑了伴侣形成，两组之间的购房转变差异就消失了。",
             "matched_topics": [
               "房地产"
             ]
           },
           {
-            "title_en": "Breaking the Binary: Population Trajectories of German Small‐ and Medium‐Sized Towns From 2001–2022",
-            "title_zh": "打破二元对立：2001-2022年德国中小城镇人口轨迹",
-            "url": "https://doi.org/10.1002/psp.70256",
-            "abstract_en": "ABSTRACT Between 2001 and 2022, Germany's overall growth rate averaged 0.2% per year. Yet, of the 3285 towns and cities with more than 5000 inhabitants, only 52 grew in all 21 years under consideration (1.6%); 85 (2.6%) shrank in all years, leaving 3148 (95.8%) with a combination of the two. Using a novel dynamic time warping approach, we explore the processes of municipal population change beyond growth and shrinkage. We identify clusters of similar population trajectories ranging from Continuous Growth over Post‐Shrinkage to Continuous Decline . dynamic time warping allows for reducing the complexity of the population time series while retaining the maximum amount of information, particularly regarding the process of population change. We enrich these trajectories through a variety of methods to disaggregate developments within those clusters and contextualize them. By creating what we call complex population trajectories, inspired by the concept of complex shrinkage, we break with the simplified binary of growth and shrinkage. We show that five of our eight clusters are not sufficiently represented by this binary. These intermediary clusters with ambiguous population trajectories, such as Post‐Shrinkage, Interrupted Growth , and Stagnation , are largely overlooked in the literature on population change. Breaking the binary enables the identification and investigation of these places, yielding new insights into the negotiation of growth and shrinkage, regional development policies, and indicators of future population trends.",
-            "abstract_zh": "摘要：2001年至2022年间，德国整体年均增长率为0.2%。然而，在3285个居民超过5000人的城镇中，只有52个在考虑的21年里每年都在增长（1.6%）；85个（2.6%）在所有年份都在缩小，剩下3148个（95.8%）则呈现两种情况的结合。我们采用一种新颖的动态时间弯曲方法，探索超越增长和缩小的市政人口变化过程。我们识别出从持续增长到后缩小再到持续下降的相似人口轨迹集群。动态时间弯曲允许在保留有关人口变化过程的最大信息量的同时，降低人口时间序列的复杂性。我们通过多种方法丰富这些轨迹，以分解这些集群内的发展并对其进行情境化。通过创建我们所说的复杂人口轨迹，受到复杂缩小概念的启发，我们打破了增长和缩小的简化二元对立。我们表明，我们的八个集群中有五个不能被这种二元对立充分代表。这些具有模糊人口轨迹的中间集群，如后缩小、中断增长和停滞，在人口变化文献中大多被忽视。打破二元对立使得能够识别和研究这些地方，为增长和缩小的协商、区域发展政策以及未来人口趋势指标提供了新的见解。",
-            "matched_topics": [
-              "城市治理"
-            ]
-          },
-          {
-            "title_en": "Rural Retrenchment and Marginalization in Sweden? Evidence From Employment Registers and Survey Data",
-            "title_zh": "瑞典农村的缩减与边缘化？来自就业登记和调查数据的证据",
-            "url": "https://doi.org/10.1002/psp.70250",
-            "abstract_en": "ABSTRACT Debates about spatial inequality and rural discontent often invoke cutbacks of the public sector as a key factor in explaining political and social divides. Covering the period from 1993 to 2023, we use register‐based employment data and citizen surveys to study public employment, as well as trust in and satisfaction with public services across five types of municipalities, ranging from metropolitan to very sparse rural areas. By combining data on education and employer, we maximize comparability over time despite changing classification and the growth of private, publicly funded providers of welfare services. While total public employment has declined, the decline is not greater in rural municipalities. Employment per capita in healthcare and education has grown, more so in rural municipalities. The latter trend is partly but not entirely explained by population decline. On the other hand, functions of the night‐watchman state have contracted, disproportionately affecting sparsely populated regions. Survey evidence indicates that trust and satisfaction with public services have held steady or improved in rural municipalities, diverging from downward trends in metropolitan areas. These results complicate dominant narratives of rural marginalization and retrenchment.",
-            "abstract_zh": "摘要 关于空间不平等和农村不满的辩论常常将公共部门的削减作为解释政治和社会分歧的关键因素。本研究涵盖了1993年至2023年的时期，我们使用基于登记的就业数据和公民调查来研究公共就业，以及对公共服务的信任和满意度，涵盖了从大都市到非常稀疏的农村地区的五种类型的市政单位。通过结合教育和雇主的数据，我们最大限度地提高了随时间的可比性，尽管分类发生了变化，私人、公共资助的福利服务提供者也在增长。尽管公共就业总量有所下降，但农村市政单位的下降幅度并不更大。医疗保健和教育的人均就业增长了，农村市政单位的增长更为显著。这一趋势部分但并非完全由人口下降解释。另一方面，守夜人国家的功能已经收缩，不成比例地影响了人口稀少的地区。调查证据表明，农村市政单位对公共服务的信任和满意度保持稳定或有所提高，与大都市区的下降趋势背道而驰。这些结果使关于农村边缘化和撤退的主导叙述变得复杂。",
-            "matched_topics": [
-              "城市治理"
-            ]
-          },
-          {
-            "title_en": "How Rural Land Arrangements Affect Rural‐Urban Migrants' Settlement Intentions: A Family Life Cycle Perspective",
-            "title_zh": "农村土地安排如何影响农村-城市移民的定居意愿：家庭生命周期视角",
-            "url": "https://doi.org/10.1002/psp.70257",
-            "abstract_en": "ABSTRACT Emerging evidence highlights a global shift toward household migration, where migrants' settlement intentions increasingly function as a household strategy rather than an individual choice. In China and similar developing contexts, rural land serves as both a critical resource and vital family asset, profoundly shaping settlement intentions. Against this backdrop, this research employs the China Migrants Dynamic Survey (CMDS) database and binary logistic regression models to re‐examine how rural land arrangements influence the settlement intentions of rural‐to‐urban migrants in China, with a focus on variations across different stages of the family life cycle. An important novel finding is the identification of systematic heterogeneity in the effects of rural land arrangements on migrants' settlement intentions before and after the stable period of the family life cycle, which is marked by the end of the child‐rearing cycle and a fundamental reconfiguration of household core priorities. Specifically, in the pre‐stable period, rural land‐use effects correlated strongly with children's urban educational trajectories, underscoring the role of intergenerational support, while in the post‐stable period, these effects diverged, reflecting a diversification of household priorities. Furthermore, the study confirms that across all stages of the family life cycle, arable land generally promotes settlement intentions, while rural housing land consistently inhibits them. These findings deepen the theoretical understanding of migrant settlement intentions in China by integrating family life cycle dynamics with rural land arrangements. They provide actionable insights for urbanization policies in developing countries facing large‐scale rural‐urban migration and institutional segmentation of urban‐rural land systems.",
-            "abstract_zh": "摘要：越来越多的证据表明，全球范围内家庭迁移的趋势日益明显，其中移民的定居意图越来越被视为家庭策略而非个人选择。在中国等类似的发展中国家背景下，农村土地既是关键资源，也是重要的家庭资产，深刻影响着定居意图。本研究利用中国流动人口动态调查（CMDS）数据库和二元逻辑回归模型，重新审视农村土地安排如何影响中国农村到城市移民的定居意图，并特别关注家庭生命周期不同阶段的变化。一个重要的新发现是，在家庭生命周期的稳定期之前和之后，农村土地安排对移民定居意图的影响存在系统性异质性，这一时期以育儿周期的结束和家庭核心优先事项的根本重组为标志。具体来说，在稳定期之前，农村土地使用效应与儿童的城市教育轨迹密切相关，强调了代际支持的作用；而在稳定期之后，这些效应出现分歧，反映了家庭优先事项的多样化。此外，研究证实，在家庭生命周期的所有阶段，耕地通常促进定居意图，而农村宅基地则始终抑制定居意图。这些发现通过将家庭生命周期动态与农村土地安排相结合，深化了对中国移民定居意图的理论理解。它们为面临大规模农村-城市迁移和城乡土地制度分割的发展中国家的城市化政策提供了可行的见解。",
+            "title_en": "When ‘Skilled Migrants’ Becomes an Expansive Category: Multi‐Layered Inequality Among Former International Students in Japan",
+            "title_zh": "当“技术移民”成为一个宽泛类别：日本前国际学生中的多层次不平等",
+            "url": "https://doi.org/10.1002/psp.70276",
+            "abstract_en": "ABSTRACT Literature on the social construction of skilled migration has demonstrated how the selective admission of ‘skilled migrants’ by host states produces unequal outcomes, admitting some as ‘skilled’ while excluding others with seemingly similar qualifications. This study examines the other side of this construction and its connection with inequality: how the state's inclusion of individuals with differing skill levels into the same ‘skilled migrants’ category generates stratification. It focuses on Japan, where international students with varying levels of Japanese language proficiency have been admitted as ‘skilled migrants’ after graduation under recent policy changes. Drawing on interviews with foreign graduates working in Japan, the study argues that the state's expansion of the ‘skilled migrants’ category produces a form of stratification characterized by multi‐layered inequality, comprising three domains: labour markets, legal rights and (in)formal status. Furthermore, the study finds that these domains are interconnected. While different skill profiles directly shape labour market inequality, this inequality in turn affects legal rights stratification through bureaucratic practices that allocate different periods of residence based on applicants' economic potential. Additionally, labour market inequality connects with (in)formal status stratification through the state's issuance of skilled migration visas to those performing work that falls outside state‐defined ‘skilled’ (mostly white‐collar) work, an unintended policy outcome largely driven by employers' misuse of visa applications amid labour shortages in low‐wage sectors. Multi‐layered inequality thus highlights the interlocked nature of multiple domains of inequality, compounding disadvantages for those with lower skill profiles and implying divergent trajectories of integration among ‘skilled migrants’.",
+            "abstract_zh": "摘要：关于技术移民社会构建的文献已经展示了东道国选择性接纳“技术移民”如何产生不平等的结果，即接纳一些人为“技术”移民，同时排除那些看似具有相似资格的其他人。本研究考察了这种构建的另一面及其与不平等的联系：国家将不同技能水平的个体纳入同一“技术移民”类别如何产生分层。研究以日本为重点，在日本最近的移民政策变化下，不同日语水平的国际学生毕业后被接纳为“技术移民”。通过对在日本工作的外国毕业生进行访谈，研究认为国家扩大“技术移民”类别产生了一种以多层次不平等为特征的分层形式，包括三个领域：劳动力市场、法律权利和（非）正式身份。此外，研究发现这些领域是相互联系的。不同的技能配置直接塑造了劳动力市场的不平等，而这种不平等反过来又通过根据申请人的经济潜力分配不同居住期限的官僚实践影响法律权利的分层。此外，劳动力市场的不平等通过国家向那些从事国家定义的“技术”（主要是白领）工作之外的工作的人发放技术移民签证，与（非）正式身份的分层联系在一起，这是一个主要由雇主在低薪部门劳动力短缺中滥用签证申请所驱动的意外政策结果。因此，多层次不平等突出了多个不平等领域的相互锁定性质，加剧了那些技能配置较低者的不利地位，并意味着“技术移民”之间不同的融合轨迹。",
             "matched_topics": [
               "房地产",
-              "城市治理"
+              "公共政策"
             ]
           },
           {
-            "title_en": "School District Housing Ownership and Intentions to Have More Children: Evidence From China",
-            "title_zh": "学区住房所有权与生育更多孩子意愿：来自中国的证据",
-            "url": "https://doi.org/10.1002/psp.70251",
-            "abstract_en": "ABSTRACT Fertility intentions in East Asia are increasingly constrained by rising educational expenditures and growing parental educational aspirations. While existing studies have examined the relationship between homeownership and fertility, they typically treat homeownership as a homogeneous status, largely overlooking how homeownership is stratified by access to scarce, higher‐quality public educational resources. Using data from the Survey of Marriage and Fertility among Young Adult Women in Nine Provinces (Municipalities) in China (2025), we find that, compared with ownership of non‐school district housing, ownership of school district housing is positively associated with additional fertility intentions among mothers. This association remains robust across a comprehensive set of identification strategies and alternative specifications. We further identify two mediating mechanisms: elevated expectations regarding household financial prospects and children's future socioeconomic status. Moreover, the positive association is significantly stronger among highly educated households. By introducing the geography of opportunity perspective into the housing‐fertility nexus and focusing on school district housing, this study enriches the multidimensional understanding of housing stratification and extends existing research on the relationship between homeownership and fertility.",
-            "abstract_zh": "摘要：东亚地区的生育意愿正越来越多地受到教育支出上升和父母对子女教育期望增长的制约。尽管现有研究已经考察了住房所有权与生育之间的关系，但它们通常将住房所有权视为一个同质状态，很大程度上忽视了住房所有权是如何通过获取稀缺的、更高质量的公共教育资源而分层的。利用中国九省（市）年轻成年女性婚姻与生育调查（2025年）的数据，我们发现，与非学区住房所有权相比，学区住房所有权与母亲的额外生育意愿正相关。这种关联在一系列全面的识别策略和替代规范中仍然稳健。我们进一步识别了两个中介机制：对家庭财务前景的高期望和子女未来社会经济地位的高期望。此外，这种正相关在受过高等教育的家庭中明显更强。通过将机会地理学视角引入住房-生育关系，并关注学区住房，本研究丰富了对住房分层的多维理解，并扩展了现有关于住房所有权与生育关系的研究。",
-            "matched_topics": [
-              "房地产",
-              "城市治理"
-            ]
-          },
-          {
-            "title_en": "(Im)Mobility Infrastructures in a Post‐Resettlement Context: How a Chinese Project Produced Movers and Stayers in Laos",
-            "title_zh": "后安置背景下的（不）流动性基础设施：一个中国项目如何在老挝制造了流动者和留守者",
-            "url": "https://doi.org/10.1002/psp.70255",
-            "abstract_en": "ABSTRACT This article scrutinises how a Chinese Project under the Belt and Road Initiative has produced diverse post‐resettlement (im)mobility trajectories in northern Laos. Drawing on ethnographic fieldwork in Banmai—the largest relocation community of the Nam Nua 1 hydropower project—it analyses how various mobility and staying infrastructures influence the aspirations and capabilities of migrant labourers and students , involuntary stayers , voluntary stayers , acquiescent immobile actors , reluctant stayers , potential leavers and hopeful stayers . By extending the application of migration infrastructure theory to the context of development‐induced internal displacement, the article also develops a typological framework of post‐resettlement (im)mobile actors that reduces mobility bias and engages with the relational politics of mobility. The article illuminates three mechanisms through which (im)mobility infrastructures disproportionately affect the resettled villagers. First, they unevenly reduce barriers to moving and staying. Second, the resettled villagers' differential command over social, commercial and socioeconomic infrastructures, including market and state connections, can influence their capabilities to realise their mobility and staying aspirations. Third, the institutional systems of (im)mobility infrastructures unequally distribute risk and support. As it examines the infrastructural configuration of (im)mobility, the article also identifies targeted measures to support the infrastructural needs of different post‐resettlement movers and stayers.",
-            "abstract_zh": "摘要 本文审视了“一带一路”倡议下的一个中国项目如何在老挝北部产生多样化的后安置（不）流动性轨迹。基于在南努阿1水电站项目最大的搬迁社区班迈进行的民族志田野工作，分析了各种流动和停留基础设施如何影响农民工和学生、非自愿留守者、自愿留守者、顺从的不流动行动者、不情愿的留守者、潜在的离开者和有希望的留守者的抱负和能力。通过将迁移基础设施理论的应用扩展到发展引起的国内流离失所的背景，文章还发展了一个后安置（不）流动行动者的分类框架，该框架减少了流动性偏见，并涉及流动性的关系政治。文章阐明了（不）流动性基础设施不成比例地影响被重新安置村民的三种机制。首先，它们不均匀地降低了移动和停留的障碍。其次，被重新安置村民对社会、商业和社会经济基础设施（包括市场和国家联系）的不同控制能力，可以影响他们实现流动和停留抱负的能力。第三，（不）流动性基础设施的制度体系不平等地分配风险和支持。在考察（不）流动性基础设施的配置时，文章还确定了有针对性的措施，以支持不同后安置移动者和留守者的基础设施需求。",
-            "matched_topics": [
-              "房地产"
-            ]
-          },
-          {
-            "title_en": "‘Mobile Consumers’: Interpreting the Consumption Perceptions, Practices and Experiences of Mobile Brazilian International Students in London",
-            "title_zh": "“移动消费者”：解读在伦敦的巴西国际学生对移动消费的认知、实践和体验",
-            "url": "https://doi.org/10.1002/psp.70264",
-            "abstract_en": "ABSTRACT This paper advances existing work on the mobilities and geographies of students by examining the complexities and contestations affecting international students' consumption perceptions and experiences. This is important in positing new ways of understanding how educational mobilities, in both their meta and micro forms, can influence, and be influenced by, consumption practices and ideologies. Drawing on a set of semi‐structured interviews with Brazilian international students living and studying in London, UK this paper draws together mobilities and consumption theories as a lens for interpreting consumption knowledge and practice as an evolving and iterative set of performances that align closely with an individual's life‐course opportunities and barriers. This paper makes two contributions. First, we identify mobile consumption as a way for international students to reflexively connect their past and present experiences when adapting to new or unfamiliar consumption practices and places. Second, we recognise consumption to be potentially burdensome for international students whose mobilities mean that consumption practices are temporal, intersecting between past, present and future experiences that shape how international students relate to their belongings and make liminal consumption decisions, knowing their time in in their host city is limited.",
-            "abstract_zh": "摘要 本文通过考察影响国际学生消费感知和体验的复杂性和争议，推进了关于学生流动和地理学的研究。这对于提出新的理解方式至关重要，即教育流动在宏观和微观形式上如何影响消费实践和意识形态，以及如何被消费实践和意识形态所影响。本文基于对居住和学习在英国伦敦的巴西国际学生的一系列半结构化访谈，将流动和消费理论结合起来，作为解释消费知识和实践的视角，这些知识和实践是与个体生命历程中的机会和障碍紧密对齐的不断发展和迭代的一系列表现。本文做出了两项贡献。首先，我们确定流动消费是国际学生在适应新的或不熟悉的消费实践和地点时，反思性地连接他们过去和现在经验的一种方式。其次，我们认识到消费可能对国际学生构成潜在负担，他们的流动性意味着消费实践是临时的，在过去、现在和未来经验之间交叉，这些经验塑造了国际学生与他们物品的关系，并在知道他们在东道城市的时间有限的情况下做出边缘消费决策。",
-            "matched_topics": [
-              "城市治理"
-            ]
-          },
-          {
-            "title_en": "From Enthusiasm to Polarisation: A Generational Perspective on Attitudes Toward Ukrainian Refugees in Poland",
-            "title_zh": "从热情到极化：波兰对乌克兰难民态度的代际视角",
-            "url": "https://doi.org/10.1002/psp.70266",
-            "abstract_en": "ABSTRACT This study explores generational differences in Polish public attitudes towards Ukrainian refugees, focusing on how these attitudes evolved between 2022 and 2025. It examines the role of age in shaping acceptance of refugees, perceptions of Poland's preparedness, evaluations of assistance, and views on the possibility of refugees settling permanently after the war. The analysis is based on four waves of nationally distributed online surveys (total N = 6293) conducted annually between 2022 and 2025. Respondents were recruited from a professional research panel. Attitudes were measured using Likert‐type scales and comparative evaluations, and results were analysed to capture both temporal changes and age‐related differences across cohorts. The results indicate that age strongly differentiates both the level and trajectory of acceptance. Younger respondents (under 30 and 31–40) were initially the most supportive, but over time recorded the sharpest declines in acceptance, coupled with rising polarisation and growth in strong opposition. Middle‐aged groups (41–60) also showed a decreasing acceptance, but this trend was accompanied by higher levels of neutrality, suggesting ambivalence rather than outright rejection. Older respondents (60 years and older) consistently expressed the highest level of support and demonstrated the greatest stability, with only modest declines throughout the study period. Overall, public opinion shifted from strongly positive to more neutral and critical positions, particularly regarding state assistance to refugees compared with assistance to Polish citizens. This study challenges the assumption that younger generations are systematically more pro‐immigrant, revealing a greater acceptance among older cohorts instead. By situating these findings in debates on generational value change, resource competition, and social polarisation, the study offers novel insights into how host societies respond to large‐scale humanitarian crises.",
-            "abstract_zh": "摘要 本研究探讨了波兰公众对乌克兰难民态度的代际差异，重点关注这些态度在2022年至2025年间的演变。研究检验了年龄在塑造对难民的接受度、对波兰准备情况的看法、对援助的评价以及对难民战后永久定居可能性的看法方面的作用。分析基于2022年至2025年间每年进行的四轮全国性在线调查（总样本量N=6293），受访者来自专业研究小组。使用李克特量表和比较评估来测量态度，分析结果旨在捕捉随时间变化和不同年龄组之间的差异。结果表明，年龄在区分接受程度和接受轨迹方面具有重要作用。年轻受访者（30岁以下和31-40岁）最初最支持，但随着时间的推移，接受度急剧下降，伴随着极化加剧和强烈反对情绪的增长。中年群体（41-60岁）的接受度也有所下降，但这一趋势伴随着更高水平的中立性，表明存在矛盾心理而非直接拒绝。老年受访者（60岁及以上）始终表达出最高水平的支持，并显示出最大的稳定性，在整个研究期间只有适度下降。总体而言，公众舆论从强烈积极转向更加中立和批判的立场，特别是在对难民的国家援助与对波兰公民的援助方面。这项研究挑战了年轻一代系统性更亲移民的假设，揭示了老年群体中更大的接受度。通过将这些发现置于代际价值观变化、资源竞争和社会极化的辩论中，研究为东道国社会如何应对大规模人道主义危机提供了新的见解。",
-            "matched_topics": [
-              "房地产"
-            ]
-          },
-          {
-            "title_en": "The Impact of Social Integration on the Fertility Intentions of Migrants: Evidence From China",
-            "title_zh": "社会融合对流动人口生育意愿的影响：来自中国的证据",
-            "url": "https://doi.org/10.1002/psp.70247",
-            "abstract_en": "ABSTRACT In addition to developed nations, the challenges of population ageing and declining fertility have also intensified in populous East Asian regions, prominently represented by China. Migrants serve as a critical urban labour resource in these countries and territories, and their fertility intentions directly affect long‐term population equilibrium and regional sustainability in destination areas. Drawing on two waves of the China General Social Survey (CGSS), this study investigates the mechanisms through which social integration shapes migrants' fertility intentions. A particular focus is placed on the mediating role of perceived fairness. Using a long‐difference model supplemented by heterogeneity analyses and mechanism tests, multiple pathways are identified that link social integration to migrants' fertility intentions. The findings reveal that: (1) Social integration tends to suppress migrants' fertility intentions, but perceived fairness partially buffers this effect and reshapes the decision logic. (2) Heterogeneity analyses show that new‐generation migrant workers exhibit higher fertility intention as social integration rises, a finding consistent with a strategic pursuit of urban identity via childbearing. Meanwhile, social integration has a homogeneously suppressive effect among migrants across educational groups and among those with rural Hukou. (3) During periods of fertility‐policy relaxation, lagging support services failed to translate into institutional trust, which in turn weakened policy effectiveness. Based on these distinct pathways, this study proposes multi‐level policy recommendations, offering insights and suggestions for migrant‐dense, ageing‐before‐affluent developing countries.",
-            "abstract_zh": "摘要：除了发达国家外，人口老龄化和生育率下降的挑战在人口众多的东亚地区也日益加剧，以中国为代表。在这些国家和地区，移民是城市劳动力的关键资源，他们的生育意愿直接影响目的地地区的长期人口平衡和区域可持续性。本研究基于两轮中国综合社会调查（CGSS）数据，探讨社会融合如何影响移民的生育意愿，特别关注感知公平的中介作用。通过使用长差分模型，并辅以异质性分析和机制检验，识别了将社会融合与移民生育意愿联系起来的多条路径。研究发现：（1）社会融合倾向于抑制移民的生育意愿，但感知公平部分缓冲了这种效应，并重塑了决策逻辑。（2）异质性分析显示，新一代农民工随着社会融合程度的提高，生育意愿更高，这与通过生育追求城市身份的战略行为一致。同时，社会融合在不同教育群体的移民中以及拥有农村户口的移民中具有一致的抑制效应。（3）在生育政策放松期间，滞后的支持服务未能转化为制度信任，进而削弱了政策效力。基于这些不同的路径，本研究提出了多层次的政策建议，为移民密集、未富先老的发展中国家提供洞见和建议。",
+            "title_en": "Does Digital Infrastructure Facilitate Rural‐to‐Urban Migration? Evidence From China",
+            "title_zh": "数字基础设施是否促进了农村到城市的迁移？来自中国的证据",
+            "url": "https://doi.org/10.1002/psp.70270",
+            "abstract_en": "ABSTRACT This paper exploits the staggered rollout of the Broadband China Policy as a quasi‐natural experiment to examine the impact of digital infrastructure expansion on rural‐to‐urban migration in China. Using data from the 2012 and 2018 waves of the China Family Panel Studies, we provide robust evidence that improvements in digital infrastructure significantly increase the probability of rural residents migrating to urban areas by 4.7%, corresponding to an approximately 18% increase relative to the migration rate in the sample. Mechanism analysis indicates that digital infrastructure facilitates migration mainly by reducing information frictions, strengthening social networks, and easing liquidity constraints. Heterogeneity analyses reveal that (i) the effects are stronger among individuals with lower educational attainment, middle‐aged and older cohorts, and women; (ii) migration is primarily promoted within counties and across counties or cities within the same province, while no significant effect is found for interprovincial migration; and (iii) migration induced by digital infrastructure expansion is concentrated in mid‐ and low‐skill occupations rather than high‐skill professional jobs.",
+            "abstract_zh": "摘要 本文利用宽带中国政策的分阶段实施作为准自然实验，检验数字基础设施扩张对中国农村向城市迁移的影响。利用2012年和2018年的中国家庭追踪调查数据，我们提供了强有力的证据，表明数字基础设施的改善显著增加了农村居民向城市地区迁移的概率4.7%，相对于样本中的迁移率大约增加了18%。机制分析表明，数字基础设施主要通过减少信息摩擦、加强社会网络和缓解流动性约束来促进迁移。异质性分析揭示了：（i）受教育程度较低的个体、中年和老年群体以及女性中的影响更强；（ii）迁移主要在县内以及同一省内的县或城市之间促进，而对跨省迁移没有发现显著影响；（iii）由数字基础设施扩张引起的迁移集中在中低技能职业而非高技能专业工作。",
             "matched_topics": [
               "城市治理",
               "公共政策"
             ]
           },
           {
-            "title_en": "The Camp as a Site of Re‐Subjectivation: Reclaiming Kurdish Identity in an Iraqi Kurdish Refugee Camp",
-            "title_zh": "营地作为再主体化场所：在伊拉克库尔德难民营中重塑库尔德身份",
-            "url": "https://doi.org/10.1002/psp.70259",
-            "abstract_en": "ABSTRACT This article analyzes the intertwined evolution of a humanitarian camp and the lived experience of its inhabitants, Syrian Kurds who sought refuge in Iraqi Kurdistan after fleeing the war. Based on intermittent immersive fieldwork conducted between 2014 and 2019, this article describes the various phases of the camp's construction—initially conceived as an open space, connected to its surrounding environment, the Iraqi Kurdistan—and analyzes the emergence of a relationship between the host society, Iraqi Kurdish, and the exiled population, Syrian Kurdish. In response to global security policies and regional challenges, this space subsequently is transformed into a site of control and marginalization, triggering a process of extraterritorialization. This critical phase confronts individuals with their historical trajectory and reveals an experience of ongoing violence, from which they redefine their relationship to both the camp and exile. Encampment is thus analyzed as an experience of subjectivation through which individuals reconstruct a shared history, enabling them to resist the exclusion inherent in humanitarian identification and the practice of encampment. By mobilizing their past in this way, Syrian Kurds not only give meaning to their asylum situation but also develop a paradoxical relationship to the camp, which emerges as a space that is simultaneously repressive and enabling.",
-            "abstract_zh": "摘要 本文分析了一个人道主义营地及其居民——逃离战争后在伊拉克库尔德斯坦寻求庇护的叙利亚库尔德人——交织发展的演变过程。基于2014年至2019年间进行的间歇性沉浸式田野工作，本文描述了营地建设的各个阶段——最初被视为一个开放空间，与其周边环境，即伊拉克库尔德斯坦相连，并分析了东道社会，伊拉克库尔德人与流亡人口，叙利亚库尔德人之间的关系。作为对全球安全政策和地区挑战的回应，这个空间随后被转变为一个控制和边缘化场所，触发了一种域外化过程。这一关键阶段使个人面对他们的历史轨迹，并揭示了一种持续暴力的经历，他们从中重新定义了与营地和流亡的关系。因此，营地被分析为一种主体化经历，通过这种经历，个人重建了共同历史，使他们能够抵抗人道主义识别和营地实践中固有的排斥。通过这种方式动员他们的过去，叙利亚库尔德人不仅赋予了他们的庇护状况以意义，而且还发展了一种与营地的矛盾关系，营地作为一个同时具有压制性和赋能性的空间出现。",
+            "title_en": "Chineseness and Affective Spatialities: New Chinese Migrants' (Dis)Orienting Experiences of Chinese Voluntary Associations in Singapore",
+            "title_zh": "中国性与情感空间性：新加坡新中国移民在中国志愿组织中的（失）定位体验",
+            "url": "https://doi.org/10.1002/psp.70273",
+            "abstract_en": "ABSTRACT This paper explores how new Chinese migrants negotiate Chineseness through their engagement with Chinese voluntary associations (CVAs) in host societies. Drawing on ethnographic fieldwork with new migrants involved in CVAs in Singapore, I conceptualize CVAs as affective spaces that generate (dis)orienting effects, shaping new migrants' negotiation of Chineseness in a context of ‘togetherness‐in‐difference’. Specifically, CVAs function as ‘convivial spaces’ where new migrants rely on a primordial form of Chineseness to gain familiarity, connectivity, and a sense of orientation in a new settlement. At the same time, CVAs serve as contact zones infused with disorienting encounters with local Singaporean Chinese, producing variegated understandings of Chineseness. By highlighting the affective spatialities of CVAs, this paper advances a geographical approach to understanding Chineseness and contributes to the existing literature on migrant (dis)orientation.",
+            "abstract_zh": "摘要 本文探讨了新移民如何通过参与东道国的华人志愿组织（CVAs）来协商华人身份。基于对新加坡参与CVAs的新移民的民族志田野调查，我将CVAs概念化为产生（失）导向效应的情感空间，塑造了新移民在“差异中的共同性”背景下对华人身份的协商。具体来说，CVAs作为“友好空间”，新移民依赖于一种原始的华人身份，以获得熟悉感、连通性和在新定居地的定位感。同时，CVAs作为充满失导向遭遇的接触区，与当地新加坡华人的互动产生了对华人身份的多样化理解。通过强调CVAs的情感空间性，本文推进了理解华人身份的地理学方法，并为现有关于移民（失）导向的文献做出了贡献。",
             "matched_topics": [
-              "房地产"
+              "城市治理"
             ]
           },
           {
-            "title_en": "From Rent Gap to Network Rent Gap: Metro Network Spillovers and Gentrification in Shanghai",
-            "title_zh": "从租金差距到网络租金差距：上海都市网络溢出效应与绅士化",
-            "url": "https://doi.org/10.1002/psp.70260",
-            "abstract_en": "ABSTRACT Although metro investment is intended to improve accessibility and promote spatial equity, it may also induce gentrification through physical upgrading and social replacement. Classical rent gap theory explains transit‐induced gentrification primarily through the proximity effects of newly built stations as individual nodes. However, infrastructure nodes are embedded in networks, especially in metro systems, where spillover effects frequently extend beyond directly invested locations. This study, therefore, asks whether rent gaps can also trigger gentrification through network spillovers. To address this question, we extend traditional rent gap theory to a network context by introducing the concept of the network rent gap and applying it to Shanghai's metro system. Using a dual perspective on nodes and the network, we employ a propensity score matching difference‐in‐differences (PSM‐DID) model to examine the gentrification effects of metro expansion from 2011 to 2020. The results confirm that node‐based metro investment contributes to local gentrification. More importantly, we identify a network rent gap mechanism: node‐based metro investment generates stronger gentrification effects in both local and non‐local areas where network centrality increases, including places served only by pre‐existing metro stations. Moreover, gentrification in central urban areas depends more on metro proximity and transfer functions, whereas suburban gentrification is more strongly associated with gains in network centrality. These findings suggest that transport policy should integrate both node‐based and network‐wide perspectives to address spatial equity more effectively.",
-            "abstract_zh": "摘要：虽然地铁投资旨在提高可达性并促进空间公平，但它也可能通过物质升级和社会替代引发绅士化。传统的租金差距理论主要通过新建站点作为个体节点的邻近效应来解释交通引发的绅士化。然而，基础设施节点嵌入在网络中，特别是在地铁系统中，溢出效应经常超出直接投资的地点。因此，本研究探讨租金差距是否也能通过网络溢出引发绅士化。为了回答这个问题，我们将传统租金差距理论扩展到网络背景中，引入网络租金差距的概念，并将其应用于上海的地铁系统。我们采用节点和网络的双重视角，使用倾向得分匹配双重差分（PSM-DID）模型来检验2011年至2020年地铁扩张的绅士化效应。结果证实，基于节点的地铁投资有助于当地的绅士化。更重要的是，我们识别了一个网络租金差距机制：基于节点的地铁投资在网络中心性增加的本地和非本地地区产生更强的绅士化效应，包括仅由现有地铁站服务的地方。此外，中心城市地区的绅士化更依赖于地铁的邻近性和换乘功能，而郊区的绅士化与网络中心性的提升更强烈相关。这些发现表明，交通政策应整合基于节点和网络范围的视角，以更有效地解决空间公平问题。",
-            "matched_topics": [
-              "房地产",
-              "城市治理",
-              "公共政策"
-            ]
-          },
-          {
-            "title_en": "“Keep or Push?” The Retention of Canadian Postsecondary Graduates in Their Study Cities",
-            "title_zh": "“留下还是离开？”加拿大高等教育毕业生在求学城市的留存",
-            "url": "https://doi.org/10.1002/psp.70261",
-            "abstract_en": "ABSTRACT As smaller Canadian regions continue to face retention challenges, there is a question as to how postsecondary graduates can contribute to the alleviation of this issue by remaining in their study locations postgraduation. While most previous studies have focused on regional internal mobility trends and rarely engaged causality, this study delves into the potential causal factors that influence retention of postsecondary graduates at the city level, comparing retention patterns between international and domestic graduates. Using the Post Secondary Information System, the study analyses the probability of graduates remaining in their study city within 5 years of graduation using the Cox Proportional Hazard Model. The study reveals that immigration status, study location, study level, and study field are predictors of graduate retention. The findings suggest that facilitating transitioning to permanent residency, focusing on graduates from non‐degree programs, and supporting early‐career individuals could improve retention rates.",
-            "abstract_zh": "摘要：随着加拿大较小地区持续面临人才留存挑战，人们开始探讨高等教育毕业生如何通过毕业后留在学习地点来缓解这一问题。尽管大多数先前的研究都集中在地区内部流动性趋势上，很少涉及因果关系，但本研究深入探讨了影响城市层面高等教育毕业生留存的潜在因果因素，并比较了国际和国内毕业生的留存模式。利用高等教育信息系统，本研究采用Cox比例风险模型分析了毕业生在毕业后5年内留在学习城市的概率。研究揭示了移民身份、学习地点、学习层次和学习领域是毕业生留存的预测因素。研究结果表明，促进过渡到永久居留权、关注非学位课程的毕业生以及支持早期职业个体，可以提高留存率。",
+            "title_en": "Multidimensional Segregation Among Asian American Voters: Racial, Income, and Partisan Sorting in New York and California",
+            "title_zh": "亚裔美国选民的多维隔离：纽约和加利福尼亚的种族、收入和党派分化",
+            "url": "https://doi.org/10.1002/psp.70271",
+            "abstract_en": "ABSTRACT This study examines multidimensional segregation by race, income, and partisanship among Asian Americans, whose ethnic subgroups differ in migration history, socioeconomic position, and political alignment. Using voter registration records for 33 million voters in New York and California, including 2.55 million Asian American voters, we estimate individual‐level spatial isolation with a k‐nearest neighbours approach. On average, Asian Americans show lower racial isolation than Black and Hispanic voters, while their income and partisan isolation are closer to those of White voters. At the subgroup level, Chinese and Vietnamese Americans show high racial isolation, while Chinese Americans show intermediate income and partisan isolation. Japanese Americans show low racial and income isolation but higher partisan isolation. Indian Americans show the highest income isolation, whereas Vietnamese Americans show low partisan isolation. These findings show that Asian American residential patterns vary across subgroups and suggest that partisanship may represent an additional dimension shaping everyday residential experiences.",
+            "abstract_zh": "摘要 本研究考察了亚裔美国人在种族、收入和党派身份方面的多维隔离情况，亚裔美国人的各个族群在迁移历史、社会经济地位和政治立场上存在差异。利用纽约和加利福尼亚州3300万选民的选民登记记录，包括255万亚裔美国选民，我们采用k最近邻方法估计个体层面的空间隔离。平均而言，亚裔美国人的种族隔离程度低于黑人和西班牙裔选民，而他们的收入和党派隔离程度更接近白人选民。在亚裔美国人的各个族群中，华裔和越南裔美国人表现出较高的种族隔离，而华裔美国人表现出中等的收入和党派隔离。日裔美国人表现出较低的种族和收入隔离，但党派隔离程度较高。印度裔美国人表现出最高的收入隔离，而越南裔美国人表现出较低的党派隔离。这些发现表明，亚裔美国人的居住模式因族群而异，并暗示党派身份可能是塑造日常居住体验的另一个维度。",
             "matched_topics": [
               "城市治理"
             ]
@@ -794,7 +721,7 @@
         "query_name": "International Public Management Journal",
         "issn": "1096-7494",
         "resolved_name": "International Public Management Journal",
-        "issue_title": "Volume 29, Issue 1",
+        "issue_title": "Volume 29, Issue 2",
         "issue_url": "https://www.tandfonline.com/journals/upmj20",
         "matched_count": 0,
         "total_in_issue": 6,
@@ -857,7 +784,7 @@
             "title_zh": "精简治理：如何通过“一事一议”倡议减轻城市行政负担并优化监管环境",
             "url": "https://doi.org/10.1177/00208523251381187",
             "abstract_en": "Administrative burden has emerged as a critical lens for understanding the unintended consequences of public service delivery and regulatory practices. While the concept has been extensively applied to analyze citizen–state interactions, less attention has been paid to how administrative burden affects private actors. This study addresses this gap by extending administrative burden theory to the domain of public–private partnerships, with a focus on how “one matter initiatives” in developing countries can alleviate regulatory barriers. Drawing on firm-level data from the World Bank Enterprise Survey, we examine whether and how streamlining governance reduces administrative burden and improves the regulatory climate. The empirical results show that streamlining governance significantly reduces administrative burden and enhances the regulatory climate. These effects are more pronounced for small and medium-sized enterprises, underscoring the reform's distributional impact. Mediation analysis shows that administrative burden serves as a key mechanism through which reform initiatives influence business perceptions of government performance. The findings highlight the relevance of administrative burden theory in non-Western governance contexts and demonstrate the value of incorporating business perspectives into public administration research. By offering empirical evidence from China’s “One Matter Initiative”, this study contributes to a more global and nuanced understanding of how streamlining governance can foster a more enabling environment for enterprise development. Points for practitioners This study highlights that streamlining administrative procedures through initiatives like China’s “One Matter Initiative” significantly reduces administrative burden. For practitioners, the findings suggest that procedural simplification can effectively improve public–private partnerships, particularly in non-Western governance systems. Focusing on service coordination and reducing transaction friction is key to responsive and business-oriented public administration. Megacity Governance in China shows how reform-driven streamlining governance can reshape regulatory practices. The “One Matter Initiative” demonstrates that reducing administrative burden is not only a technical efficiency but also a strategic step toward building good city governance. For practitioners, the key lesson is that coordinated service delivery and burden reduction carry broader significance: they reinforce city governance capacity and offer a replicable model for reform in other contexts.",
-            "abstract_zh": "行政负担已成为理解公共服务交付和监管实践意外后果的关键视角。尽管这一概念已广泛应用于分析公民与国家之间的互动，但对于行政负担如何影响私人行为者的关注较少。本研究通过将行政负担理论扩展到公私合作伙伴关系的领域，填补了这一空白，重点关注发展中国家的“一事一议”倡议如何减轻监管障碍。利用世界银行企业调查的公司级数据，我们检验了简化治理是否以及如何减少行政负担并改善监管环境。实证结果表明，简化治理显著减少了行政负担并增强了监管环境。这些效应在中小企业中更为明显，突显了改革的分配影响。中介分析显示，行政负担是改革举措影响企业对政府绩效感知的关键机制。研究结果强调了行政负担理论在非西方治理环境中的相关性，并证明了将商业视角纳入公共行政研究的价值。通过提供中国“一事一议”倡议的实证证据，本研究有助于更全面、细致地理解简化治理如何促进企业更有利的发展环境。实践者要点：本研究强调，通过中国“一事一议”等倡议简化行政程序显著减少了行政负担。对于实践者来说，研究结果表明，程序简化可以有效改善公私合作伙伴关系，特别是在非西方治理体系中。专注于服务协调和减少交易摩擦是响应迅速、以业务为导向的公共行政的关键。中国的超大城市治理展示了改革驱动的简化治理如何重塑监管实践。“一事一议”倡议表明，减少行政负担不仅是技术效率问题，也是建设良好城市治理的战略步骤。对于实践者来说，关键教训是协调服务交付和负担减轻具有更广泛的意义：...",
+            "abstract_zh": "行政负担已成为理解公共服务交付和监管实践意外后果的关键视角。尽管这一概念已广泛应用于分析公民与国家之间的互动，但对于行政负担如何影响私人行为者的关注较少。本研究通过将行政负担理论扩展到公私合作伙伴关系领域，填补了这一空白，重点关注发展中国家的“一事一议”倡议如何减轻监管障碍。利用世界银行企业调查的公司层面数据，我们检验了简化治理是否以及如何减少行政负担并改善监管环境。实证结果表明，简化治理显著减少了行政负担并增强了监管环境。这些效应在中小企业中更为明显，突显了改革的分配影响。中介分析显示，行政负担是改革举措影响企业对政府绩效感知的关键机制。研究结果强调了行政负担理论在非西方治理环境中的相关性，并证明了将商业视角纳入公共行政研究的价值。本研究通过提供中国“一事一议”倡议的实证证据，为理解简化治理如何促进企业更有利发展环境提供了更全球性和细致的理解。实践者要点：本研究强调，通过中国“一事一议”等倡议简化行政程序显著减少了行政负担。对于实践者来说，研究结果表明，程序简化可以有效改善公私合作伙伴关系，特别是在非西方治理体系中。专注于服务协调和减少交易摩擦是响应迅速且以业务为导向的公共行政的关键。中国的超大城市治理展示了改革驱动的简化治理如何重塑监管实践。“一事一议”倡议表明，减少行政负担不仅是技术效率问题，也是建设良好城市治理的战略步骤。对于实践者来说，关键教训是协调服务交付和负担减轻具有更广泛的意义：...",
             "matched_topics": [
               "城市治理",
               "公共政策"
@@ -882,25 +809,15 @@
         "query_name": "Journal of Comparative Policy Analysis: Research and Practice",
         "issn": "1387-6988",
         "resolved_name": "Journal of Comparative Policy Analysis Research and Practice",
-        "issue_title": "Volume 28, Issue 1",
+        "issue_title": "Volume 28, Issue 2",
         "issue_url": "https://www.tandfonline.com/journals/fcpa20",
-        "matched_count": 6,
-        "total_in_issue": 9,
+        "matched_count": 7,
+        "total_in_issue": 7,
         "papers": [
           {
-            "title_en": "Public Policy in Democratic Backsliding: How Illiberal Populists Engage with the Policy Process",
-            "title_zh": "民主倒退中的公共政策：非自由民粹主义者如何参与政策过程",
-            "url": "https://doi.org/10.1080/13876988.2025.2598368",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "公共政策"
-            ]
-          },
-          {
-            "title_en": "Health Policy Capacity and Reliance on Expert Advice in Comparative Perspective: COVID-19 Responses Across Brazilian States",
-            "title_zh": "标题：比较视角下的健康政策能力与对专家咨询的依赖：巴西各州对COVID-19的应对",
-            "url": "https://doi.org/10.1080/13876988.2025.2595492",
+            "title_en": "Comparative Analysis of Policy and Practice for Atrocity Prevention",
+            "title_zh": "暴行预防政策与实践的比较分析",
+            "url": "https://doi.org/10.1080/13876988.2026.2617924",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -909,9 +826,42 @@
             ]
           },
           {
-            "title_en": "Policy Responses to the COVID-19 Pandemic: An International Comparative Approach",
-            "title_zh": "标题：应对COVID-19大流行的政策响应：一种国际比较方法",
-            "url": "https://doi.org/10.1080/13876988.2025.2585384",
+            "title_en": "Impact Assessment of the Maputo Protocol on Mass Atrocity Prevention in Africa: A Comparative Analysis of Policy Integration in Ghana and Cameroon",
+            "title_zh": "《马普托议定书对非洲大规模暴行预防影响评估：加纳与喀麦隆政策整合的比较分析》",
+            "url": "https://doi.org/10.1080/13876988.2026.2614546",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "城市治理",
+              "公共政策"
+            ]
+          },
+          {
+            "title_en": "Comparative Insights on Social Media as an Atrocity Prevention Tool: Policy Implications",
+            "title_zh": "社交媒体作为暴行预防工具的比较洞见：政策含义",
+            "url": "https://doi.org/10.1080/13876988.2025.2582019",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "城市治理",
+              "公共政策"
+            ]
+          },
+          {
+            "title_en": "Cultivating Crisis: Comparative Cases of Policy Complicity, Slow Violence, and Cultural Genocide",
+            "title_zh": "培育危机：政策共谋、慢性暴力与文化灭绝的比较案例",
+            "url": "https://doi.org/10.1080/13876988.2025.2594030",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "城市治理",
+              "公共政策"
+            ]
+          },
+          {
+            "title_en": "The Prevention of Torture: A Comparative Analysis of Policy and Practice",
+            "title_zh": "预防酷刑：政策与实践的比较分析",
+            "url": "https://doi.org/10.1080/13876988.2025.2568901",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -919,33 +869,23 @@
             ]
           },
           {
-            "title_en": "Worse than Failure: Near Misses and the Regulation of Doctors’ Payments in Australian and Canadian Medicare",
-            "title_zh": "比失败更糟糕：澳大利亚和加拿大医疗保险中医生支付的近失事件及其监管",
-            "url": "https://doi.org/10.1080/13876988.2025.2585104",
+            "title_en": "Organized Demands: Comparative Perspectives on People’s Tribunals as a Mass Atrocity Prevention Tool",
+            "title_zh": "有组织的诉求：人民法庭作为大规模暴行预防工具的比较视角",
+            "url": "https://doi.org/10.1080/13876988.2025.2557418",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "公共政策"
+              "城市治理"
             ]
           },
           {
-            "title_en": "Analyzing Climate Policy Portfolios",
-            "title_zh": "分析气候政策组合",
-            "url": "https://doi.org/10.1080/13876988.2025.2555888",
+            "title_en": "The Human Rights Sequence Theory of Atrocity: A Comparative Analysis",
+            "title_zh": "暴行人权序列理论：比较分析",
+            "url": "https://doi.org/10.1080/13876988.2025.2551039",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "公共政策"
-            ]
-          },
-          {
-            "title_en": "Understanding the Dynamics of ESG Rating Divergence: A Comparative Perspective from Social Credit Policy",
-            "title_zh": "理解ESG评级差异的动态：从社会信用政策的比较视角",
-            "url": "https://doi.org/10.1080/13876988.2025.2539344",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "公共政策"
+              "城市治理"
             ]
           }
         ],
