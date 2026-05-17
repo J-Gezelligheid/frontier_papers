@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-10 06:03:37",
+  "updated_at": "2026-05-17 06:09:17",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 108,
+    "success_count": 52,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -416,122 +416,110 @@
         "query_name": "Review of Economic Studies",
         "issn": "0034-6527",
         "resolved_name": "The Review of Economic Studies",
-        "issue_title": "Volume 93, Issue 2",
+        "issue_title": "Volume 93, Issue 3",
         "issue_url": "https://academic.oup.com/restud",
-        "matched_count": 11,
-        "total_in_issue": 20,
+        "matched_count": 10,
+        "total_in_issue": 21,
         "papers": [
           {
-            "title_en": "Search Direction: Position Externalities and Position Auction Bias",
-            "title_zh": "搜索方向：位置外部性与位置拍卖偏差",
-            "url": "https://doi.org/10.1093/restud/rdaf051",
-            "abstract_en": "Abstract We formulate a tractable model of pricing under directed search with heterogeneous firm demands. Demand characteristics drive bids in a position auction and enable us to bridge insights from the ordered search literature to those in the position auction literature. Equilibrium pricing implies that the marginal consumer’s surplus decreases down the search order, so consumers optimally follow the firms’ position ordering. A firm suffers from “business stealing” by firms that precede it and “search appeal” from subsequent firms. We find rankings that achieve the maximal joint profit or consumer surplus by constructing firm-specific scores. A generalized second price auction for positions endogenizes equilibrium orders and bids are driven by position externalities that impact incremental profit from switching positions. The joint profit maximization order is upheld when firm heterogeneity concerns mostly their mark-up potentials. But the consumer welfare order is robust when firms differ mostly over their potential market sizes.",
-            "abstract_zh": "摘要 我们构建了一个在异质性企业需求下有向搜索定价的可行模型。需求特征驱动位置拍卖中的出价，并使我们能够将有序搜索文献中的见解与位置拍卖文献中的见解联系起来。均衡定价意味着边际消费者的剩余随着搜索顺序的下降而减少，因此消费者最优地遵循企业的排序。企业会因为排在它前面的企业而遭受“生意窃取”，并从排在它后面的企业那里获得“搜索吸引力”。我们通过构建企业特定的评分来找到实现最大联合利润或消费者剩余的排名。位置的广义第二价格拍卖内生化了均衡顺序，出价受到影响从交换位置中获得的增量利润的位置外部性的影响。当企业异质性主要涉及它们的加价潜力时，维持了联合利润最大化顺序。但是，当企业主要在它们的潜在市场规模上有所不同时，消费者福利顺序是稳健的。",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Quantifying the Benefits of Labour Mobility in a Currency Union",
-            "title_zh": "货币联盟中劳动力流动性益处的量化",
-            "url": "https://doi.org/10.1093/restud/rdaf055",
-            "abstract_en": "Abstract Unemployment differentials are greater between countries in the euro area than between U.S. states. In both regions, net migration responds to unemployment differentials, though the response is smaller in the euro area compared to the U.S. We use a multi-country DSGE model with cross-border migration to quantify Mundell’s hypothesis that labour mobility could substitute for independent monetary policy in a currency union. While not as effective as independent monetary policy, increased labour mobility reduces business cycle fluctuations for most countries in the euro area. However, Mundell’s conjecture does not hold uniformly. For countries that primarily face demand shocks, labour mobility stabilizes inflation and unemployment and improves welfare. If supply shocks are dominant however, labour mobility increases the cost of being in a currency union by magnifying inflation volatility.",
-            "abstract_zh": "摘要：欧元区国家之间的失业率差异大于美国各州之间的差异。在这两个地区，净移民对失业率差异做出反应，尽管欧元区的反应比美国小。我们使用一个包含跨境移民的多国DSGE模型来量化蒙代尔的假设，即劳动力流动性可以替代货币联盟中的独立货币政策。虽然劳动力流动性不如独立的货币政策有效，但它减少了欧元区大多数国家的商业周期波动。然而，蒙代尔的猜想并不普遍成立。对于那些主要面临需求冲击的国家，劳动力流动性稳定了通货膨胀和失业率，并提高了福利。然而，如果供应冲击占主导地位，劳动力流动性通过放大通货膨胀波动增加了货币联盟的成本。",
-            "matched_topics": [
-              "国际经济"
-            ]
-          },
-          {
-            "title_en": "Bargaining Foundations for the Outside Option Principle",
-            "title_zh": "外部选择原则的谈判基础",
-            "url": "https://doi.org/10.1093/restud/rdaf053",
-            "abstract_en": "Abstract We study a bargaining game in which a seller can trade with one of two buyers, who have values h and l (h>l). The outside option principle (OOP) predicts that, as players become patient, the seller trades with the high-value buyer with probability converging to 1 at a price converging to max(h/2,l). While this prediction is supported by the Markov perfect equilibrium (MPE), a wide range of trading outcomes may emerge in subgame perfect equilibria (SPEs): in the patient limit, the seller can obtain any price in the interval [h/2,h] (and no other); moreover, allocative inefficiency and costly delay are possible. We propose equilibrium refinements less restrictive than Markov behavior that guarantee trading outcomes consistent with the OOP. One refinement requires that a buyer’s relative probability of trade does not increase dramatically following a failed negotiation with that buyer. Another refinement posits that the seller does not approach a buyer hoping that negotiations fail. SPEs satisfying both refinements conform with the OOP (but need not be MPEs). Our benchmark model features strategic matching by the seller. We provide a parallel analysis for the random matching protocol. Under random matching, prices in SPEs may also rise above and fall below l, but have a narrower range. A refinement particular to this protocol that restores the OOP requires that a random mismatch should not impact the seller excessively.",
-            "abstract_zh": "摘要 我们研究了一个议价博弈，其中卖家可以与两个买家中的一个进行交易，这两个买家的价值分别为h和l（h>l）。外部选择原则（OOP）预测，随着参与者变得更加耐心，卖家与高价值买家交易的概率趋于1，价格趋于max(h/2,l)。尽管这一预测得到了马尔可夫完美均衡（MPE）的支持，但在子博弈完美均衡（SPEs）中可能出现广泛的交易结果：在耐心极限情况下，卖家可以获得任何价格在区间[h/2,h]内（没有其他）；此外，配置效率低下和成本高昂的延迟是可能的。我们提出了比马尔可夫行为限制性更小的均衡细化，以确保与OOP一致的交易结果。一种细化要求，在与该买家的谈判失败后，买家的相对交易概率不会急剧增加。另一种细化假设卖家不会接近一个买家，希望谈判失败。满足这两种细化的SPEs与OOP一致（但不一定是MPEs）。我们的基准模型以卖家的战略匹配为特征。我们为随机匹配协议提供了并行分析。在随机匹配下，SPEs中的价格也可能高于和低于l，但范围更窄。恢复OOP的特定细化要求随机不匹配不应过度影响卖家。",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Endogenous Clustering and Analogy-Based Expectation Equilibrium",
-            "title_zh": "内生集聚与类比预期均衡",
-            "url": "https://doi.org/10.1093/restud/rdaf054",
-            "abstract_en": "Abstract Normal-form two-player games are categorized by players into K analogy classes so as to minimize the prediction error about the behaviour of the opponent. This results in Clustered Analogy-Based Expectation Equilibria in which strategies are analogy-based expectation equilibria given the analogy partitions and analogy partitions minimize the prediction errors given the strategies. We distinguish between environments with self-repelling analogy partitions in which some mixing over partitions is required and environments with self-attractive partitions in which several analogy partitions can arise, thereby suggesting new channels of belief heterogeneity and equilibrium multiplicity. Various economic applications are discussed.",
-            "abstract_zh": "摘要：标准形式的两人博弈根据玩家被划分为K类类比类别，以最小化对对手行为的预测误差。这导致了基于类比的预期均衡，其中策略是基于类比划分的预期均衡，并且类比划分在给定策略的情况下最小化预测误差。我们区分了具有自排斥类比划分的环境，在这些环境中需要在划分上进行一些混合，以及具有自吸引划分的环境，在这些环境中可以产生多个类比划分，从而提出了信念异质性和均衡多重性的新渠道。讨论了各种经济应用。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Good Dispersion, Bad Dispersion",
-            "title_zh": "好的分散，坏的分散",
-            "url": "https://doi.org/10.1093/restud/rdaf042",
-            "abstract_en": "Abstract We document that most dispersion in marginal revenue products of inputs occurs across plants within firms rather than between firms. This is commonly thought to reflect misallocation: dispersion is “bad”. However, we show that eliminating frictions hampering internal capital markets in a multi-plant firm model may in fact increase productivity dispersion and raise output: dispersion can be “good”. This arises as firms optimally stagger investment activity across their plants over time to avoid raising costly external finance, instead relying on reallocating internal funds. The staggering in turn generates dispersion in marginal revenue products. We use U.S. Census data on multi-plant manufacturing firms to provide empirical evidence for the model mechanism and show a quantitatively important role for good dispersion. Since there is less scope for good dispersion in emerging economies, the difference in the degree of misallocation between emerging and developed economies looks more pronounced than previously thought.",
-            "abstract_zh": "摘要 我们记录了大多数投入要素边际收益产品的差异发生在企业内部的工厂之间，而不是企业之间。这通常被认为是资源错配：差异是“坏”的。然而，我们展示了在多工厂企业模型中消除阻碍内部资本市场的摩擦实际上可能增加生产率差异并提高产出：差异可以是“好”的。这是因为企业最优地在不同时间对其工厂的投资活动进行交错，以避免筹集成本高昂的外部资金，而是依赖于重新分配内部资金。这种交错反过来又产生了边际收益产品的差异。我们使用美国人口普查局关于多工厂制造企业的数据为模型机制提供实证证据，并展示了好差异在数量上的重要角色。由于在新兴经济体中好差异的范围较小，新兴经济体与发展中经济体之间错配程度的差异看起来比之前认为的更为明显。",
+            "title_en": "The Impact of EITC on Education, Labour Market Trajectories, and Inequalities",
+            "title_zh": "劳动所得税抵免对教育、劳动市场轨迹和不平等的影响",
+            "url": "https://doi.org/10.1093/restud/rdaf073",
+            "abstract_en": "Abstract As a complement to the federal earned income tax credit (EITC), some states offer their own EITC, typically calculated as a percentage of the federal EITC. In this paper, we analyse the effect of state EITC on education using policy discontinuities at US state borders. Our estimates reveal that an increase in the state EITC leads to a statistically significant increase in the high school dropout rate. We then use a life-cycle matching model with directed search and endogenous educational choices, search intensities, hirings, hours worked, and separations to investigate the effects of EITC on the labour market in the long run and along the transitional dynamics. We show that a tax credit targeted at low-wage (and low-skilled) workers reduces the relative return to schooling, thereby generating a powerful disincentive to pursue long-term studies. In the long run, this results in an increase in the proportion of low-skilled workers in the economy, which may have important implications for employment, productivity, and income inequality. Finally, we use the model to determine the optimal design of the EITC.",
+            "abstract_zh": "摘要：作为联邦劳动所得税抵免（EITC）的补充，一些州提供自己的EITC，通常按联邦EITC的百分比计算。本文利用美国州边界的政策不连续性分析州EITC对教育的影响。我们的估计显示，州EITC的增加导致高中辍学率的统计显著增加。然后，我们使用一个生命周期匹配模型，结合有向搜索和内生教育选择、搜索强度、招聘、工作小时数和离职情况，来研究EITC对劳动市场的长期影响以及过渡动态。我们表明，针对低工资（和低技能）工人的税收抵免降低了教育的相对回报，从而产生了强大的不鼓励进行长期学习的动力。从长远来看，这导致经济中低技能工人比例的增加，这可能对就业、生产力和收入不平等产生重要影响。最后，我们使用该模型来确定EITC的最佳设计。",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Demand Shocks as Technology Shocks",
-            "title_zh": "需求冲击作为技术冲击",
-            "url": "https://doi.org/10.1093/restud/rdaf045",
-            "abstract_en": "Abstract We provide a macroeconomic theory where demand for goods has a productive role. A search friction prevents perfect matching between producers and potential customers. Larger demand induces more search, which, in turn, increases GDP and measured total factor productivity (TFP). We embed the product-market friction in a standard neoclassical model and estimate it using Bayesian techniques. Business cycles are driven by preference shocks, true technology shocks, and investment-specific shocks. Preference shocks have qualitatively similar effects as true productivity shocks. These shocks account for a large share of the fluctuations in consumption, GDP, and measured TFP and can be identified using shopping time data.",
-            "abstract_zh": "摘要 我们提供了一个宏观经济理论，其中商品需求具有生产性作用。搜索摩擦阻碍了生产者与潜在客户之间的完美匹配。更大的需求促使更多的搜索，进而增加GDP和测量的全要素生产率（TFP）。我们将产品市场摩擦嵌入到标准的新古典模型中，并使用贝叶斯技术进行估计。商业周期由偏好冲击、真实技术冲击和投资特定冲击驱动。偏好冲击对消费、GDP和测量的TFP波动的影响与真实生产率冲击类似，这些冲击占波动的很大一部分，并且可以使用购物时间数据进行识别。",
+            "title_en": "Religion, Education, and the State",
+            "title_zh": "宗教、教育与国家",
+            "url": "https://doi.org/10.1093/restud/rdaf071",
+            "abstract_en": "Abstract This paper explores how state and religious providers of education compete during the nation building process. Using novel administrative data, we characterize the evolution of Indonesia’s Islamic education system and religious school choice after the introduction of mass public primary schooling in the 1970s. Funded through informal taxation, Islamic schools competed with the state by entering in the same markets. While primary enrollment shifted towards state schools, religious education increased overall as Islamic schools absorbed growing demand for secondary education. In the short run, electoral support for the secular regime weakened in markets with greater public school construction. Over the long run, Islamic schools established at this juncture are more differentiated in terms of religious curriculum, and cohorts exposed to mass public schooling as children are more invested in religion than in the national identity. Our findings offer a new perspective on the political economy of education reforms and the emergence of parallel systems of public goods provision.",
+            "abstract_zh": "摘要 本文探讨了在国家建设过程中，国家和宗教教育提供者之间的竞争。利用新的行政数据，我们描述了20世纪70年代大规模公立初等教育引入后，印度尼西亚伊斯兰教育体系和宗教学校选择的演变。伊斯兰学校通过非正式征税获得资金，与国家竞争，进入相同的市场。虽然小学入学转向了公立学校，但随着伊斯兰学校吸收了对中等教育日益增长的需求，宗教教育总体上增加了。短期内，在公立学校建设更多的市场中，对世俗政权的选举支持有所减弱。从长远来看，在这个时期建立的伊斯兰学校在宗教课程方面更加多样化，而作为儿童接受大规模公立教育的群体在宗教上的投入比对国家身份的投入更多。我们的发现为教育改革的政治经济学和公共产品供给平行系统的出现提供了新的视角。",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Pseudo Lindahl Equilibrium as a Collective Choice Rule",
-            "title_zh": "伪林达尔均衡作为集体选择规则",
-            "url": "https://doi.org/10.1093/restud/rdaf043",
-            "abstract_en": "Abstract A collective choice problem specifies a finite set of alternatives from which a group of expected utility maximizers must choose. We associate a collective pseudo market with every collective choice problem and establish the existence and efficiency of pseudo Lindahl equilibrium (PLE) allocations. We also associate a cooperative bargaining problem with every collective choice problem and define a set-valued solution concept, the ω-weighted Nash bargaining set where ω is a vector of welfare weights. We provide axioms that characterize the ω-weighted Nash bargaining set. Our main result shows that ω-weighted Nash bargaining set payoffs are also the PLE payoffs of the corresponding collective pseudo market with the same utility functions and incomes ω. We define a pseudo core for collective pseudo markets and show that pseudo Lindahl equilibria are in the pseudo core. We characterize the set of PLE outcomes of discrete allocation problems and show that they contain the set of pseudo Walrasian equilibrium outcomes.",
-            "abstract_zh": "摘要：集体选择问题指定了一组有限的备选方案，预期效用最大化者必须从中选择。我们为每个集体选择问题关联一个集体伪市场，并确立了伪林达尔均衡（PLE）分配的存在性和效率。我们还为每个集体选择问题关联一个合作谈判问题，并定义了一个集合值解概念，即ω加权纳什谈判集，其中ω是福利权重的向量。我们提供了表征ω加权纳什谈判集的公理。我们的主要结果表明，ω加权纳什谈判集的收益也是相应集体伪市场中具有相同效用函数和收入ω的PLE收益。我们为集体伪市场定义了一个伪核心，并表明伪林达尔均衡在伪核心中。我们表征了离散分配问题的PLE结果集，并表明它们包含了伪瓦尔拉斯均衡结果集。",
+            "title_en": "Policy Diffusion and Polarization across U.S. States",
+            "title_zh": "美国各州政策扩散与极化",
+            "url": "https://doi.org/10.1093/restud/rdaf070",
+            "abstract_en": "Abstract Economists have studied the impact of numerous state laws, from welfare rules to voting ID requirements. Yet for all this policy evaluation, what do we know about policy diffusion—how these policies are introduced and spread from state to state? We present a series of facts based on a data set of 602 U.S. state policies spanning the past seven decades. First, proxies of state capacity do not predict a higher likelihood of innovating new policies, but the political leaning of the state does predict a higher likelihood of introducing partisan laws since 1990. Second, the diffusion of policies from 1950 to 2000 is best predicted by proximity—a state is more likely to adopt a policy if nearby states have already done so—as well as similarity in voter policy preferences. Third, since 2000, party alignment has become the strongest predictor of diffusion, and the speed of adoption has increased. Models of learning and correlated preferences can account for the earlier patterns, but the findings for the last two decades indicate a sharply increasing role of party control. We conclude that party polarization has emerged as a key factor recently for policy adoption, plausibly leading to a worse match between state policies and voter preferences.",
+            "abstract_zh": "摘要：经济学家已经研究了众多州法律的影响，从福利规则到投票身份证要求。然而，在所有这些政策评估中，我们对政策扩散——这些政策是如何从州到州引入和传播的——了解多少？我们基于过去七十年602项美国州政策的数据集，提出了一系列事实。首先，州能力的代理并不预测创新新政策的更高可能性，但自1990年以来，州的政治倾向确实预测了引入党派法律的更高可能性。其次，1950年至2000年的政策扩散最好由邻近性预测——如果附近州已经这样做了，一个州更有可能采纳政策——以及选民政策偏好的相似性。第三，自2000年以来，党派对齐已成为扩散的最强预测因素，采纳速度也有所增加。学习和相关偏好的模型可以解释早期的模式，但过去二十年的发现表明，党派控制的作用急剧增加。我们得出结论，党派极化最近已成为政策采纳的关键因素，可能导致州政策与选民偏好之间的匹配更差。",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Hiring as Exploration",
-            "title_zh": "招聘作为探索",
-            "url": "https://doi.org/10.1093/restud/rdaf040",
-            "abstract_en": "Abstract This article views hiring as a contextual bandit problem: to find the best workers over time, firms must balance “exploitation” (selecting from groups with proven track records) with “exploration” (selecting from under-represented groups to learn about quality). Yet modern hiring algorithms, based on supervised learning approaches, are designed solely for exploitation. Instead, we build a resume screening algorithm that values exploration by evaluating candidates according to their statistical upside potential. Using data from professional services recruiting within a Fortune 500 firm, we show that this approach improves the quality (as measured by eventual hiring rates) of candidates selected for an interview, while also increasing demographic diversity, relative to the firm’s existing practices. The same is not true for traditional supervised learning-based algorithms, which improve hiring rates but select far fewer Black and Hispanic applicants. Together, our results highlight the importance of incorporating exploration in developing decision-making algorithms that are potentially both more efficient and equitable.",
-            "abstract_zh": "摘要 本文将招聘视为一种上下文多臂老虎机问题：为了随时间找到最佳员工，公司必须在“利用”（从有良好业绩记录的群体中选择）与“探索”（从代表性不足的群体中选择以了解质量）之间取得平衡。然而，现代招聘算法基于监督学习方法，仅设计用于利用。相反，我们构建了一个重视探索的简历筛选算法，通过评估候选人的统计上升潜力来评估他们。利用财富500强公司专业服务招聘的数据，我们展示了这种方法提高了被选中面试候选人的质量（以最终招聘率衡量），同时也增加了人口统计多样性，相对于公司现有的做法。传统的基于监督学习的算法并非如此，它们提高了招聘率，但选择的黑人和西班牙裔申请者要少得多。总体而言，我们的结果强调了在开发可能更高效和公平的决策算法时，纳入探索的重要性。",
+            "title_en": "Globalization and the Ladder of Development: Pushed to the Top or Held at the Bottom?",
+            "title_zh": "全球化与发展阶梯：被推至顶端还是被限制在底部？",
+            "url": "https://doi.org/10.1093/restud/rdaf077",
+            "abstract_en": "Abstract We study the relationship between international trade and development in a model where countries differ in their capability, goods differ in their complexity, and capability growth is a function of a country’s pattern of specialization. Theoretically, we show that it is possible for international trade to increase capability growth in all countries and, in turn, to push all countries up the development ladder. This occurs if (i) shifting employment towards more complex sectors raises capability growth and if (ii) foreign competition is tougher in less complex sectors for all countries. Empirically, we provide causal evidence consistent with (i) using the entry of countries into the World Trade Organization as an instrumental variable for other countries’ patterns of specialization. The opposite of (ii), however, holds in the data. Through the lens of our model, these two empirical observations imply dynamic welfare losses from trade that are pervasive, albeit small for the median country. The same economic forces also suggest that the emergence of China has held back capability growth for a number of African countries who are pushed away from their most-complex sectors, which China exports, and into their least-complex sectors, which China imports.",
+            "abstract_zh": "摘要 我们在一个模型中研究国际贸易与发展之间的关系，其中国家在能力上存在差异，商品在复杂性上存在差异，能力增长是一国专业化模式的函数。从理论上讲，我们展示了国际贸易有可能增加所有国家的能力增长，并进而推动所有国家向上发展。这发生在：（i）将就业转移到更复杂的部门会提高能力增长，以及（ii）对所有国家而言，外国竞争在较不复杂的部门更为激烈。从实证上看，我们使用各国加入世界贸易组织作为其他国家专业化模式的工具变量，提供了与（i）一致的因果证据。然而，数据中的情况与（ii）相反。通过我们的模型视角，这两个实证观察意味着贸易带来的动态福利损失普遍存在，尽管对于中位数国家来说规模较小。同样的经济力量也表明，中国的崛起阻碍了一些非洲国家的能力增长，这些国家被从中国出口的最复杂部门推向中国进口的他们最不复杂的部门。",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Brokering Votes With Information Spread Via Social Networks",
+            "title_zh": "通过社交网络传播信息进行选票掮客活动",
+            "url": "https://doi.org/10.1093/restud/rdaf075",
+            "abstract_en": "Abstract Politicians rely on political brokers to buy votes throughout much of the developing world. We investigate how social networks facilitate these vote-buying exchanges. Our conceptual framework suggests brokers should be particularly well-placed within the network to learn about non-copartisans’ reciprocity in order to target transfers effectively. As a result, parties should recruit brokers who are central among non-copartisans. We combine village network data from brokers and citizens with broker reports of vote buying, allowing us to use broker and citizen fixed effects. We show that networks diffuse information about citizens to brokers who leverage it to target transfers. In particular, among those citizens who are not registered to their party, brokers target reciprocal citizens about whom they can learn more through their network, and these citizens are more likely to support the brokers’ party. Moreover, recruited brokers are significantly more central than other citizens among non-copartisans, but not among copartisans. These results highlight the importance of information diffusion through social networks for vote buying, broker recruitment, and ultimately for political outcomes.",
+            "abstract_zh": "摘要：在许多发展中国家，政治家依赖政治掮客来购买选票。我们研究了社会网络如何促进这些购买选票的交易。我们的概念框架表明，掮客在网络中应该处于特别有利的位置，以了解非党派人士的互惠性，以便有效地定位转移支付。因此，政党应该招募在非党派人士中处于中心位置的掮客。我们将掮客和公民的村庄网络数据与掮客报告的购买选票行为结合起来，使我们能够使用掮客和公民的固定效应。我们表明，网络将有关公民的信息传播给掮客，掮客利用这些信息来定位转移支付。特别是，在那些没有注册到他们党的公民中，掮客针对他们可以通过网络了解更多信息的互惠公民，而这些公民更有可能支持掮客的党。此外，被招募的掮客在非党派人士中明显比其他公民更处于中心位置，但在同党派人士中则不是。这些结果突出了通过社会网络传播信息对购买选票、掮客招募以及最终政治结果的重要性。",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Bewley Banks",
+            "title_zh": "贝利银行",
+            "url": "https://doi.org/10.1093/restud/rdaf062",
+            "abstract_en": "Abstract How do movements in the distributions of bank size and income affect the macroeconomy? To answer this question, we develop a dynamic general equilibrium model with heterogeneous financial intermediaries, incomplete markets, and aggregate uncertainty. We find that market incompleteness and uninsured idiosyncratic bank rate of return risk generate minimal concentration in the bank net worth distribution, leading to an “as-if” result, whereby the economy behaves as if it had a representative bank. However, introducing ex ante heterogeneity in the banks’ rates of return significantly raises concentration and amplifies real and financial fluctuations relative to the representative-bank case, as this increases a key sufficient statistic, the average marginal propensity to lend. We then extend the model with two empirically validated features of the banking sector—countercyclical return risk and deposit market power—and show that these amplify and dampen aggregate fluctuations, respectively. Finally, because in the model with ex ante heterogeneity the distribution of bank size is highly concentrated, shocks to the largest banks can account for almost all of the aggregate variation that is due to idiosyncratic risk, leading to granular banking and economic cycles. The failure of granular banks (“too big to fail”) produces sizeable macroeconomic crises.",
+            "abstract_zh": "摘要：银行规模和收入分布的变化如何影响宏观经济？为了回答这个问题，我们开发了一个具有异质性金融中介、不完全市场和总体不确定性的动态一般均衡模型。我们发现，市场的不完全性和未保险的特有银行回报率风险在银行净值分布中产生了最小的集中度，导致了一个“仿佛”结果，即经济表现得就好像它有一个代表性银行。然而，引入银行回报率的事先异质性显著提高了集中度，并相对于代表性银行案例放大了实际和金融波动，因为这增加了一个关键的充分统计量，即平均边际贷款倾向。然后，我们将模型扩展到银行业的两个经验验证特征——逆周期回报风险和存款市场力量——并表明这些分别放大和抑制了总体波动。最后，由于在具有事先异质性的模型中银行规模分布高度集中，对最大银行的冲击可以解释几乎所有由于特有风险引起的总体变化，导致颗粒状银行和经济周期。颗粒状银行（“大而不倒”）的失败产生了相当大的宏观经济危机。",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "The Geography of Business Dynamism and Skill-Biased Technical Change",
+            "title_zh": "商业活力的地理分布与技能偏向型技术变革",
+            "url": "https://doi.org/10.1093/restud/rdaf063",
+            "abstract_en": "Abstract This paper shows that the growing disparities between big and small cities in the U.S. since 1980 can be explained by firms endogenously responding to a skill-biased technology shock. With the introduction of a new skill-biased technology that is high fixed cost but low marginal cost, firms endogenously adopt more in big cities, cities that offer abundant amenities for high-skilled workers, and cities that are more productive in using high-skilled labour. In cities with more adoption, small and unproductive firms are more likely to exit the market, increasing the equilibrium rate of turnover or business dynamism—a selection effect similar to Melitz (2003). Differences in technology adoption and selection account for three key components of the growing regional disparities, known as the Great Divergence: (1) big cities saw a larger increase in the relative wages and supply of skilled workers, (2) big cities saw a smaller decline in business dynamism, and (3) firms in big cities invest more intensively in information and communication technology.",
+            "abstract_zh": "摘要 本文表明，自1980年以来美国大城市与小城市之间日益扩大的差距可以通过企业对技能偏向型技术冲击的内生反应来解释。随着一种新的技能偏向型技术的引入，这种技术具有高固定成本但低边际成本，企业在大城市内生性地采用更多，这些城市为高技能工人提供丰富的便利设施，并且在使用高技能劳动力方面更具生产力。在采用更多的城市中，小型和低效企业更有可能退出市场，增加了市场更替或商业活力的均衡率——这是一种类似于Melitz（2003）的选择效应。技术采用和选择的差异解释了日益扩大的区域差异的三个关键组成部分，即所谓的“大分化”：（1）大城市看到技能工人的相对工资和供应量增加更多，（2）大城市看到商业活力的下降幅度较小，以及（3）大城市的企业在信息和通信技术方面投资更为密集。",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Women in the Courtroom: Technology and Justice",
+            "title_zh": "女性在法庭：技术与正义",
+            "url": "https://doi.org/10.1093/restud/rdaf066",
+            "abstract_en": "Abstract Our study analyses 6 million civil judgments in China from 2014 to 2018, documenting gender disparities that disfavour female litigants. We investigate the impact of an open justice reform that mandated courts to broadcast legal proceedings live on a centralized online platform. By exploiting variations in its implementation across courts and over time and employing both difference-in-differences and Bartik IV approaches, we find that gender disparities in chances of winning decrease as broadcast intensity increases. Analysis of the textual content of judicial decisions provides further evidence that these changes in judicial outcomes stem from altered judge behaviours (i.e. attention and effort) under enhanced judicial transparency. Our results demonstrate how information technology shapes judges’ conduct, underscoring its broader potential to improve accountability in public institutions.",
+            "abstract_zh": "摘要 我们的研究分析了2014年至2018年中国的600万份民事判决书，记录了对女性诉讼当事人不利的性别差异。我们研究了一项开放司法改革的影响，该改革要求法院在一个集中的在线平台上实时直播法律程序。通过利用其在不同法院和时间上的实施差异，并采用双重差分和Bartik IV方法，我们发现随着直播强度的增加，性别差异在胜诉机会上减少。对司法决定的文本内容分析进一步提供了证据，表明这些司法结果的变化源于在增强的司法透明度下法官行为（即注意力和努力）的改变。我们的结果展示了信息技术如何塑造法官的行为，强调了其在提高公共机构问责制方面的更广泛潜力。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Reallocative Auctions and Core Selection",
+            "title_zh": "重分配拍卖与核心选择",
+            "url": "https://doi.org/10.1093/restud/rdaf065",
+            "abstract_en": "Abstract When selling goods like wireless spectrum or electricity contracts, designers often opt for core-selecting mechanisms—i.e. those that induce outcomes in the core—in order to balance revenue and efficiency goals. But increasingly, auctions—such as the Federal Communications Commission’s Incentive Auction and those explored for natural resources—seek to reallocate goods, not just sell them. We show that when bidders can both buy and sell, substitutability among goods is no longer sufficient or necessary for core selection. In particular, in these environments, core selection can fail even with a single good and positive revenue, and can succeed even when some or all bidders view goods as complements. Instead, we show that the key feature that determines core selection is heterogeneity among the bidders. With too much heterogeneity, reallocation mostly realises pre-existing gains from trade among the bidders, and core selection fails. With limited heterogeneity, most gains from trade among the bidders are created by the quantity auctioned, and a core-selecting mechanism is possible.",
+            "abstract_zh": "摘要：在销售无线频谱或电力合同等商品时，设计者通常选择核心选择机制——即那些在核心中产生结果的机制——以平衡收入和效率目标。但越来越多地，拍卖——如联邦通信委员会的激励性拍卖以及探索用于自然资源的拍卖——寻求重新分配商品，而不仅仅是出售它们。我们表明，当竞拍者可以买卖时，商品之间的可替代性不再是核心选择的充分或必要条件。特别是在这些环境中，即使只有一个商品和正收入，核心选择也可能失败；即使一些或所有竞拍者将商品视为互补品，核心选择也可能成功。相反，我们表明，决定核心选择的关键特征是竞拍者之间的异质性。异质性过大时，重新分配主要实现了竞拍者之间已有的贸易收益，核心选择失败。异质性有限时，竞拍者之间的大部分贸易收益是由拍卖数量创造的，可能实现核心选择机制。",
             "matched_topics": [
               "国际贸易",
               "创新药"
             ]
           },
           {
-            "title_en": "Surviving Childhood: Effects of Removing a Child From Home",
-            "title_zh": "儿童生存：将儿童从家中移除的影响",
-            "url": "https://doi.org/10.1093/restud/rdaf044",
-            "abstract_en": "Abstract This paper studies the effects of the court-ordered removal of children from home on health, crime, and education. To isolate causal effects, I exploit quasi-random variation in judge assignment together with across-judge variation in the tendency to favour removal in an instrumental variable design. Using a novel data set (N=26,579) based on Swedish court documents that I transcribe and link with detailed register data, I find that court-ordered out-of-home placement has large adverse effects on the mortality of the marginal child. These effects are primarily driven by suicides that occur while the removed child is still placed in out-of-home care. Removal also causes an increase in hospitalizations for mental illness and non-narcotic crimes. There is little evidence of adverse health effects for birth parents. I explore potential explanations for the detrimental effects on child health. Adverse care conditions and peer exposure appear to be important channels.",
-            "abstract_zh": "摘要 本文研究了法院命令将儿童从家中移除对健康、犯罪和教育的影响。为了分离因果效应，我利用法官分配中的准随机变化以及法官间倾向于支持移除的差异，在工具变量设计中进行研究。利用基于瑞典法院文件的新颖数据集（N=26,579），我转录并将其与详细的注册数据链接，发现法院命令的离家安置对边缘儿童的死亡率有较大的不利影响。这些影响主要是由被移除儿童仍在离家护理期间发生的自杀行为所驱动的。移除还导致因精神疾病和非麻醉品犯罪而住院的增加。对于亲生父母，几乎没有不利健康影响的证据。我探讨了对儿童健康产生不利影响的潜在解释。不利的护理条件和同伴暴露似乎是重要的渠道。",
+            "title_en": "Estimating Welfare Effects in a Non-Parametric Choice Model: The Case of School Vouchers",
+            "title_zh": "非参数选择模型中的福利效应估计：以学校代金券为例",
+            "url": "https://doi.org/10.1093/restud/rdaf064",
+            "abstract_en": "Abstract We develop new robust discrete choice tools to learn about the average willingness to pay for a price subsidy and its effects on demand given exogenous, discrete variation in prices. Our starting point is a non-parametric, non-separable model of choice. We exploit the insight that our welfare parameters in this model can be expressed as functions of demand for the different alternatives. However, while the variation in the data reveals the value of demand at the observed prices, the parameters generally depend on its values beyond these prices. We show how to sharply characterize what we can learn when demand is specified to be entirely non-parametric or to be parametrized in a flexible manner, both of which imply that the parameters are not necessarily point identified. We use our tools to analyse the welfare effects of price subsidies provided by school vouchers in the DC Opportunity Scholarship Program. We find that the provision of the status quo voucher and a wide range of counterfactual vouchers of different amounts can have positive and potentially large benefits net of costs. The positive effect can be explained by the popularity of low-tuition schools in the programme; removing them from the programme can result in a negative net benefit. We also find that various standard logit specifications, in comparison, limit attention to demand functions with low demand for the voucher, which do not capture the large magnitudes of benefits credibly consistent with the data.",
+            "abstract_zh": "摘要 我们开发了新的稳健离散选择工具，以了解对价格补贴的平均支付意愿及其对需求的影响，这是在给定外生、离散的价格变化的情况下。我们的出发点是一个非参数、不可分的选择模型。我们利用这样一个洞见：该模型中的福利参数可以表示为不同选择的需求函数。然而，尽管数据中的变化揭示了在观察到的价格下需求的价值，但参数通常依赖于这些价格之外的需求值。我们展示了在需求被指定为完全非参数化或以灵活的方式参数化时，我们可以学到什么，这两种情况都意味着参数不一定是点识别的。我们使用这些工具分析了华盛顿特区机会奖学金计划中学校代金券提供的价格补贴的福利效应。我们发现，提供现状代金券和一系列不同金额的反事实代金券可以带来积极且可能巨大的净收益。这种积极效应可以通过项目中低学费学校的受欢迎程度来解释；将它们从项目中移除可能导致负的净收益。我们还发现，与此相比，各种标准逻辑规范限制了对代金券需求低的需求函数的关注，这些函数无法可靠地捕捉与数据一致的大额福利。",
             "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Racial Discrimination and the Social Contract: Evidence from U.S. Army Enlistment During WWII",
-            "title_zh": "种族歧视与社会契约：二战期间美国军队征兵的证据",
-            "url": "https://doi.org/10.1093/restud/rdaf038",
-            "abstract_en": "Abstract This paper documents that the Pearl Harbor attack triggered a sharp increase in volunteer enlistment rates of American men, the magnitude of the increase was smaller for Black men than for White men and the Black–White gap was larger in counties with higher levels of racial discrimination. The results suggest that political exclusion and discrimination can undermine support for the government during critical times such as war.",
-            "abstract_zh": "摘要 本文记录了珍珠港袭击导致美国男性志愿者入伍率急剧上升，黑人男性的增幅小于白人男性，且在种族歧视程度较高的县，黑人与白人之间的差距更大。结果表明，在战争等关键时刻，政治排斥和歧视可能会削弱对政府的支持。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Extreme Categories and Overreaction to News",
-            "title_zh": "极端分类与对新闻的过度反应",
-            "url": "https://doi.org/10.1093/restud/rdaf037",
-            "abstract_en": "Abstract What characteristics of news generate over-or-underreaction? We study the asset-pricing consequences of diagnostic expectations, a model of belief formation based on the representativeness heuristic, in a setting where news events are drawn from categories with extreme distributions of fundamentals. Our model predicts greater overreaction to news belonging to categories with more extreme outliers, or tail events. We test our theory on a comprehensive database of corporate news that includes news from twenty-four different categories, including earnings announcements, product launches, mergers and acquisition, business expansions, and client-related news. We find theory-consistent heterogeneity in investor reaction to news, with more overreaction in the form of greater post-announcement return reversals and trading volume for news categories with more extreme distributions of fundamentals.",
-            "abstract_zh": "摘要：哪些新闻特征会导致过度或不足反应？我们研究了基于代表性启发式的信念形成模型——诊断性预期——在新闻事件来自具有极端基本面分布的类别时的资产定价后果。我们的模型预测，对于属于具有更多极端异常值或尾部事件的类别的新闻，会有更大的过度反应。我们在包含二十四个不同类别的企业新闻的全面数据库上测试了我们的理论，包括盈利公告、产品发布、并购、业务扩张和客户相关新闻。我们发现，投资者对新闻的反应与理论一致，具有更大的异质性，对于具有更极端基本面分布的新闻类别，表现为更大的公告后回报反转和交易量。",
-            "matched_topics": [
-              "产业经济",
               "创新药"
             ]
           }
@@ -721,35 +709,15 @@
         "query_name": "Journal of International Economics",
         "issn": "0022-1996",
         "resolved_name": "Journal of International Economics",
-        "issue_title": "Published 2026-05",
+        "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 12,
-        "total_in_issue": 17,
+        "matched_count": 3,
+        "total_in_issue": 4,
         "papers": [
           {
-            "title_en": "Multinational investment activity under policy uncertainty in host and competing countries",
-            "title_zh": "东道国和竞争国家政策不确定性下的跨国投资活动",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104252",
-            "abstract_en": "This paper examines how economic policy uncertainty (EPU) in host and competing countries reshapes U.S. multinationals’ greenfield foreign direct investment (FDI). Using firm-destination level data from 2003 to 2021, we show that while host-country EPU deters investment, EPU in competing destinations attracts it through a spillover effect. We document a structural shift around 2015: as global EPU rose unevenly, the spillover effect from competitors became the dominant driver of investment decisions, supplanting the direct effect of host-country policy instability. Our findings indicate that in an era of heightened global uncertainty and risk, FDI allocation is governed by relative, not just absolute, policy stability. • Host-country policy uncertainty deters FDI, while competitor uncertainty attracts it. • Relative policy stability, rather than absolute levels, governs FDI flows recently. • A structural shift after 2015 made competitor uncertainty the dominant driver of FDI.",
-            "abstract_zh": "本文研究了东道国和竞争国家的经济政策不确定性（EPU）如何重塑美国跨国公司的绿地外国直接投资（FDI）。利用2003至2021年的企业-目的地层面数据，我们发现东道国EPU抑制了投资，而竞争目的地的EPU通过溢出效应吸引了投资。我们记录了2015年左右的结构性转变：随着全球EPU的不均衡上升，来自竞争者的溢出效应成为投资决策的主要驱动力，取代了东道国政策不稳定的直接影响。我们的发现表明，在全球化不确定性和风险加剧的时代，FDI配置由相对而非绝对政策稳定性决定。•东道国政策不确定性抑制FDI，而竞争者不确定性吸引FDI。•相对政策稳定性而非绝对水平，最近决定了FDI流动。•2015年后的结构性转变使竞争者不确定性成为FDI的主要驱动力。",
-            "matched_topics": [
-              "国际经济"
-            ]
-          },
-          {
-            "title_en": "Domestic wedges and the (in)sensitivity of CPI to exchange rates",
-            "title_zh": "国内楔子与CPI对汇率的（不）敏感性",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104237",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际经济"
-            ]
-          },
-          {
-            "title_en": "Trade liberalization, wage rigidity, and labor market dynamics with heterogeneous firms",
-            "title_zh": "贸易自由化、工资刚性与异质性企业劳动市场动态",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104260",
+            "title_en": "Trade models, trade elasticities, and the gains from trade",
+            "title_zh": "贸易模型、贸易弹性与贸易收益",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104268",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -757,93 +725,25 @@
             ]
           },
           {
-            "title_en": "Real exchange rate dynamics beyond business cycles",
-            "title_zh": "实际汇率动态超越商业周期",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104258",
-            "abstract_en": "We examine the determinants of medium-term movements in real exchange rates. Using US-UK data over the past 200 years, we find that the real exchange rate co-moves with GDP and the co-movements are significantly affected by banking crises. This relationship can be rationalized by an extension of the IRBC model with persistent productivity shocks and incomplete markets. Using a new global solution method, we demonstrate that the transmission of productivity shocks depends critically on the proximity of a national economy to its international borrowing limit. The mechanism differs from the Harrod-Balassa-Samuelson effect which does not generate these state dependent responses.",
-            "abstract_zh": "我们研究了实际汇率中期变动的决定因素。利用过去200年的美国-英国数据，我们发现实际汇率与GDP共同变动，且这种共同变动受到银行危机的显著影响。这种关系可以通过扩展包含持久性生产率冲击和不完全市场的IRBC模型来合理化。使用一种新的全球解决方案方法，我们证明生产率冲击的传导在很大程度上取决于一个国家经济接近其国际借款限额的程度。这种机制与不产生这些状态依赖反应的哈罗德-巴拉斯-萨缪尔森效应不同。",
-            "matched_topics": [
-              "国际经济"
-            ]
-          },
-          {
-            "title_en": "Have global value chains shifted?",
-            "title_zh": "全球价值链是否发生了转移？",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104264",
+            "title_en": "The price of delay: Supply chain disruptions and pricing dynamics",
+            "title_zh": "延迟的代价：供应链中断与定价动态",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104265",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易"
+              "国际贸易",
+              "产业经济"
             ]
           },
           {
-            "title_en": "Trade in appliances, household production, and labor force participation",
-            "title_zh": "家电贸易、家庭生产与劳动力参与",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104241",
-            "abstract_en": "We examine how trade influences female labor supply through reductions in the prices of household appliances that substitute for domestic labor. Using a comprehensive data set from 1981 to 2017, which includes four population censuses, household surveys, and customs records from Peru, we show that labor force participation rose at the same time that appliance import prices fell. We then develop and estimate a dynamic general equilibrium model of trade and household production, to quantitatively evaluate the aggregate impact of declining appliance prices. We find that the reduction in appliance prices during the sample period leads to an increase in female labor force participation that explains one tenth of the total rise in female labor participation in Peru over the past 30 years.",
-            "abstract_zh": "我们研究了贸易如何通过降低替代家庭劳动的家用电器价格来影响女性劳动力供给。利用1981年至2017年的全面数据集，包括秘鲁的四次人口普查、家庭调查和海关记录，我们展示了劳动力参与率的上升与家用电器进口价格的下降是同步的。然后，我们开发并估计了一个贸易和家庭生产的动态一般均衡模型，以定量评估家用电器价格下降的总体影响。我们发现，在样本期间家用电器价格的降低导致女性劳动力参与率的增加，这一增加解释了过去30年秘鲁女性劳动力参与率总上升的十分之一。",
+            "title_en": "Tariffs and goods-market search frictions",
+            "title_zh": "关税与商品市场搜索摩擦",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104266",
+            "abstract_en": "We study tariffs in a general equilibrium dynamic model with search frictions between heterogeneous exporting producers and importing retailers. We show the model has a unique equilibrium and analytically characterize home unilateral import tariffs that maximize welfare given a passive foreign country. Search frictions add two terms to the standard optimal tariff expression: One lowers tariffs when contact rates are low; another when private export costs exceed social opportunity costs. Search frictions also introduce new incentives to subsidize imports due to market thickness effects. We calibrate our baseline to U.S. and Chinese 2016 data. We compare this baseline to a counterfactual with international search costs reduced to domestic levels but with all other parameters fixed. We find that higher baseline search costs reduce optimal U.S. unilateral and Nash tariffs and attenuate welfare responses to tariff changes. • General equilibrium trade model with search frictions has unique equilibrium. • Optimal tariff formula includes import markdowns and search externalities. • Search frictions incentivize import subsidies via market thickness effects. • Search frictions attenuate tariffs’ effects on welfare. • Calibrated optimal tariff is lower with higher search costs.",
+            "abstract_zh": "我们研究了一个具有异质性出口生产商和进口零售商之间搜索摩擦的一般均衡动态模型中的关税问题。我们展示了该模型具有唯一的均衡，并分析了在外国被动的情况下，最大化福利的国内单边进口关税。搜索摩擦在标准最优关税表达式中增加了两个项：一个在联系率低时降低关税；另一个在私人出口成本超过社会机会成本时。搜索摩擦还引入了通过市场厚度效应补贴进口的新激励。我们将基线校准为2016年美国和中国的数据。我们将这个基线与一个国际搜索成本降低到国内水平的反事实进行比较，但所有其他参数保持不变。我们发现，更高的基线搜索成本降低了最优的美国单边和纳什关税，并减弱了关税变化对福利的响应。•具有搜索摩擦的一般均衡贸易模型具有唯一的均衡。•最优关税公式包括进口降价和搜索外部性。•搜索摩擦通过市场厚度效应激励进口补贴。•搜索摩擦减弱了关税对福利的影响。•校准的最优关税在搜索成本更高时更低。",
             "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "The global network of liquidity lines",
-            "title_zh": "全球流动性网络",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104255",
-            "abstract_en": "At the end of 2025, there were 177 cross-border liquidity lines between central banks connecting countries that accounted for 81% of world GDP. This paper maps the evolution of these arrangements since 2000. We show that the lines form a network through which banks can indirectly obtain access to the USD even when their central bank has no agreement with the Federal Reserve. These indirect connections give the People’s Bank of China a central role and show the fragility of liquidity provision to geopolitical tensions. We present cross-country evidence that the indirect connections reduce CIP deviations at the tails, and causal evidence that liquidity lines are substitutes to FX reserves. • A new comprehensive dataset of central bank cross-border liquidity lines 2000-25. • A historical account of the evolution of liquidity lines across time and countries. • A country can indirectly access foreign liquidity even without a direct line to the source. • Indirect connections through the network are associated with lower CIP deviations. • Improvement in network access to foreign liquidity causally lowers FX reserves.",
-            "abstract_zh": "到2025年底，中央银行之间共有177条跨境流动性线路，连接了占全球GDP 81%的国家。本文绘制了自2000年以来这些安排的演变。我们展示了这些线路形成了一个网络，银行即使在它们的中央银行与美联储没有协议的情况下，也可以间接获得美元。这些间接联系使中国人民银行发挥了中心作用，并显示了流动性供应对地缘政治紧张局势的脆弱性。我们提供了跨国证据，表明间接联系减少了尾部的CIP偏差，并提供了因果证据，表明流动性线路是外汇储备的替代品。• 2000-2025年中央银行跨境流动性线路的新综合数据集。• 流动性线路随时间和国家演变的历史记录。• 即使没有直接线路到源头，一个国家也可以间接获得外国流动性。• 通过网络的间接联系与较低的CIP偏差相关联。• 网络获取外国流动性的改善，因果地降低了外汇储备。",
-            "matched_topics": [
-              "国际经济"
-            ]
-          },
-          {
-            "title_en": "Europe falling behind: Structural transformation and labor productivity growth differences between Europe and the U.S.",
-            "title_zh": "欧洲落后：欧洲与美国之间的结构转型和劳动生产率增长差异",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104262",
-            "abstract_en": "This paper investigates the convergence and subsequent divergence of labor productivity between the U.S. and Europe through a quantitative general equilibrium framework that integrates endogenous changes in employment shares as a function of exogenous and unbalanced labor productivity growth rates across sectors. We calibrate our model to the U.S. and test it against Europe from 1970 to 2019. Our model accurately captures structural transformation and aggregate labor productivity paths, as well as the timing of Europe’s transition from convergence to divergence relative to the U.S. Leveraging a set of numerical experiments, we find that the reallocation of labor toward less productive sectors in response to sectoral productivity changes hinders the potential effects that the productivity growth in market services may have on the aggregate labor productivity: The heterogeneous productivity observed within services brings forth a Baumol cost disease whereby productive sectors gain less employment share than their productivity growth would imply under constant shares, despite their strong income effects. An extended version of our model that accounts for international trade suggests that it is implausible for Europe to export its way out of the aggregate stagnation unleashed by labor reallocation toward unproductive sectors. • European labor productivity caught up with the US until 1995, then diverged. • Divergence reflects widening gaps in business and financial services productivity. • A six-sector structural transformation model reproduces the full 1970–2019 pattern. • Trade linkages amplify the divergence: Europe exports from less dynamic sectors. • Business and financial services account for most of the post-1995 productivity gap.",
-            "abstract_zh": "本文通过一个定量的一般均衡框架，研究了美国与欧洲之间劳动生产率的收敛和随后的发散，该框架整合了就业份额的内生变化作为跨部门外生和不平衡劳动生产率增长的函数。我们将模型校准到美国，并从1970年到2019年对其进行欧洲测试。我们的模型准确地捕捉了结构转型和总体劳动生产率路径，以及欧洲相对于美国从收敛到发散的过渡时机。利用一系列数值实验，我们发现，劳动力向生产率较低部门的重新分配，以应对部门生产率变化，阻碍了市场服务业生产率增长可能对总体劳动生产率的潜在影响：服务业内部观察到的异质性生产率引发了鲍莫尔成本病，即生产性部门获得的就业份额低于其生产率增长在恒定份额下所暗示的，尽管它们有强烈的收入效应。我们的模型的一个扩展版本考虑了国际贸易，表明欧洲通过出口摆脱劳动力向非生产性部门重新分配所引发的总体停滞是不可置信的。• 欧洲劳动生产率在1995年之前赶上了美国，然后发散。• 发散反映了商业和金融服务生产率差距的扩大。• 一个六部门结构转型模型再现了1970-2019年的完整模式。• 贸易联系放大了发散：欧洲从较不活跃的部门出口。• 商业和金融服务占1995年后生产率差距的大部分。",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Agricultural imports, labor mobility, and welfare",
-            "title_zh": "农业进口、劳动力流动性与福利",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104256",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "The local-area incidence of exporting",
-            "title_zh": "地区出口发生率",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104257",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Structural change in sub-Saharan Africa: An open economy perspective",
-            "title_zh": "标题：撒哈拉以南非洲的结构性变革：开放经济视角",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104248",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际经济"
-            ]
-          },
-          {
-            "title_en": "The US-China trade war creates jobs (elsewhere)",
-            "title_zh": "美中贸易战创造（其他地方的）就业",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104249",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
+              "国际贸易",
+              "创新药"
             ]
           }
         ],
@@ -857,7 +757,7 @@
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 12,
-        "total_in_issue": 33,
+        "total_in_issue": 37,
         "papers": [
           {
             "title_en": "The art of not being chocked: Environmental awareness, residents' responses and land transactions in China",
@@ -870,6 +770,16 @@
             ]
           },
           {
+            "title_en": "C'est la vie!: Mixed impacts of an edutainment television series in West Africa",
+            "title_zh": "这就是生活！：西非一个教育娱乐电视系列的混合影响",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103748",
+            "abstract_en": "Edutainment is a promising tool for changing behavior at scale, yet little is known about how to maximize impacts. We undertake an experimental evaluation of a popular West African television series, C’est la vie!, delivered through film clubs targeted at adolescent girls and young women in rural Senegal. We examine impacts on violence against women and girls and sexual and reproductive health. Results show C’est la vie! improved knowledge on both domains three months after film clubs ended, as well as violence-related attitudes nine months later, however, had no impact on behaviors. We investigate design components intended to strengthen impacts, generally finding no additional impacts from post-screening discussions, engaging men, and podcasts. Our findings suggest that edutainment is an engaging way to reach viewers on sensitive themes, however more evidence is needed on how to effectively deliver edutainment content for sustained behavior change at scale. • Using a cluster randomized control trial, we evaluate a popular West African TV series. • We examine impacts on violence against women and girls (VAWG) and sexual and reproductive health (SRH). • We find short term knowledge gains in both domains and improved medium term VAWG attitudes. • We find no impact on behaviors. • We find no additional impacts from post-screening discussions, engaging men, and podcasts.",
+            "abstract_zh": "教育娱乐是改变大规模行为的有前途的工具，但如何最大化影响却鲜为人知。我们对西非流行的电视剧《这就是生活！》进行了实验性评估，该剧通过针对塞内加尔农村少女和年轻女性的电影节俱乐部进行传播。我们检验了对针对妇女和女童的暴力行为以及性和生殖健康的影响。结果显示，《这就是生活！》在电影节结束后三个月提高了两个领域的知识，九个月后改善了与暴力相关的态度，但对行为没有影响。我们调查了旨在加强影响的设计要素，通常发现放映后讨论、吸引男性和播客没有额外影响。我们的发现表明，教育娱乐是吸引观众关注敏感主题的有趣方式，但需要更多证据来了解如何有效地传播教育娱乐内容，以实现大规模的持续行为改变。• 我们使用集群随机对照试验评估了一部流行的西非电视剧。• 我们检验了对针对妇女和女童的暴力行为（VAWG）和性和生殖健康（SRH）的影响。• 我们发现在两个领域都有短期知识收益和中期VAWG态度的改善。• 我们发现对行为没有影响。• 我们发现放映后讨论、吸引男性和播客没有额外影响。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
             "title_en": "It will rain: The effect of information on flood preparedness in urban Mozambique",
             "title_zh": "洪水将至：信息对城市莫桑比克洪水准备的影响",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103787",
@@ -877,16 +787,6 @@
             "abstract_zh": "洪水是最昂贵且最频繁发生的自然灾害之一。许多政府提供灾害准备信息，但关于其有效性的证据有限。通过在莫桑比克300个城市社区进行的随机实验，我展示了提供洪水风险信息增加了实施建议的减灾策略，这些策略通过客观测量（使用基于机器学习的算法在超过25,000张照片中检测固体废物，这是主要的洪水危害）和自我报告的行为来衡量。发送洪水准备短信被证明至少与涉及家庭访问和视频放映的更资源密集的干预措施一样有效。风险感知增加，特别是在低风险地区，这表明信息和过去的经历通过塑造感知的洪水风险，有助于社区准备。这些发现强调了沟通在动员社区进行灾害风险管理中的重要性，即使在洪水风险被认为已经众所周知的背景下，也强调了低成本、可扩展的沟通工具的潜力。• 洪水准备信息提高了莫桑比克城市地区的减灾行为。• 短信与成本更高的视频干预一样有效。• 排水渠附近的固体废物减少了6-13个百分点。• 从25k张照片中进行的机器学习提供了客观的行为测量。• 低成本的沟通工具可以增强城市气候韧性。",
             "matched_topics": [
               "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "C'est la vie!: Mixed impacts of an edutainment television series in West Africa",
-            "title_zh": "这就是生活！：西非一个教育娱乐电视系列的混合影响",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103748",
-            "abstract_en": "Edutainment is a promising tool for changing behavior at scale, yet little is known about how to maximize impacts. We undertake an experimental evaluation of a popular West African television series, C’est la vie!, delivered through film clubs targeted at adolescent girls and young women in rural Senegal. We examine impacts on violence against women and girls and sexual and reproductive health. Results show C’est la vie! improved knowledge on both domains three months after film clubs ended, as well as violence-related attitudes nine months later, however, had no impact on behaviors. We investigate design components intended to strengthen impacts, generally finding no additional impacts from post-screening discussions, engaging men, and podcasts. Our findings suggest that edutainment is an engaging way to reach viewers on sensitive themes, however more evidence is needed on how to effectively deliver edutainment content for sustained behavior change at scale. • Using a cluster randomized control trial, we evaluate a popular West African TV series. • We examine impacts on violence against women and girls (VAWG) and sexual and reproductive health (SRH). • We find short term knowledge gains in both domains and improved medium term VAWG attitudes. • We find no impact on behaviors. • We find no additional impacts from post-screening discussions, engaging men, and podcasts.",
-            "abstract_zh": "教育娱乐是改变大规模行为的有前途的工具，但如何最大化影响却鲜为人知。我们对西非流行的电视剧《这就是生活！》进行了实验性评估，该剧通过针对塞内加尔农村少女和年轻女性的电影节俱乐部进行传播。我们检验了对针对妇女和女童的暴力行为以及性和生殖健康的影响。结果显示，《这就是生活！》在电影节结束后三个月提高了两个领域的知识，九个月后改善了与暴力相关的态度，但对行为没有影响。我们调查了旨在加强影响的设计要素，通常发现放映后讨论、吸引男性和播客没有额外影响。我们的发现表明，教育娱乐是吸引观众关注敏感主题的有趣方式，但需要更多证据来了解如何有效地传播教育娱乐内容，以实现大规模的持续行为改变。• 我们使用集群随机对照试验评估了一部流行的西非电视剧。• 我们检验了对针对妇女和女童的暴力行为（VAWG）和性和生殖健康（SRH）的影响。• 我们发现在两个领域都有短期知识收益和中期VAWG态度的改善。• 我们发现对行为没有影响。• 我们发现放映后讨论、吸引男性和播客没有额外影响。",
-            "matched_topics": [
               "创新药"
             ]
           },
@@ -943,6 +843,16 @@
             ]
           },
           {
+            "title_en": "Women political leaders as agents of environmental change",
+            "title_zh": "女性政治领袖作为环境变革的推动者",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103813",
+            "abstract_en": "This paper explores how female political leaders impact environmental outcomes and climate change policy actions using data from mixed-gender mayoral races in Brazil. We rely on a Regression Discontinuity design that compares municipalities where women narrowly won the election with those where men narrowly won. This strategy allows us to identify the causal effect of a woman winning the mayoral election. We find that, compared to male mayors, female mayors significantly reduce greenhouse gas emissions and deforestation in the municipalities with Amazon biome. Specifically, when a woman wins the election, annual greenhouse gas emissions decrease by 1,510 thousand tons of CO2e per municipality in the Amazon. This effect alone represents 23% of the average annual emissions of all municipalities within the Amazon biome and 6.4% of Brazil's nationwide average. This reduction is driven by a reduction in emissions intensity (CO2e/GDP) in the Land Use sector, without changes in municipal economic activity. Part of the reduction in emissions in the Land Use sector is attributable to a decline in deforestation. Specifically, female-led municipalities in the Amazon experience a reduction in deforestation, with a 3 percentage-point decrease in the loss of forest formations relative to the baseline forest cover. This represents a 32% reduction compared to deforestation levels in the comparison municipalities. We examine potential mechanisms that could explain the positive environmental impact of narrowly electing a female mayor over a male counterpart and find that in Amazon municipalities, female elected mayors allocate more space to the environment in their government proposals and are more likely to invest in environmental initiatives. Differences in the enforcement of environmental regulations and the level of education of elected female and male mayors do not explain the results.",
+            "abstract_zh": "本文利用巴西混合性别市长竞选的数据，探讨女性政治领导人如何影响环境结果和气候变化政策行动。我们依赖于一种回归不连续设计，比较女性以微弱优势赢得选举的市镇与男性以微弱优势赢得选举的市镇。这种策略使我们能够识别女性赢得市长选举的因果效应。我们发现，与男性市长相比，女性市长显著减少了拥有亚马逊生物群系的市镇的温室气体排放和森林砍伐。具体来说，当女性赢得选举时，亚马逊地区的市镇每年温室气体排放量减少了1510万吨CO2e。这一效应单独就占到了亚马逊生物群系内所有市镇平均年排放量的23%，以及巴西全国平均水平的6.4%。这种减少是由土地利用部门排放强度（CO2e/GDP）的减少驱动的，而市镇经济活动没有变化。土地利用部门排放减少的部分原因是森林砍伐的减少。具体来说，由女性领导的亚马逊市镇经历了森林砍伐的减少，与基线森林覆盖相比，森林形态的损失减少了3个百分点。与对照市镇的森林砍伐水平相比，这代表了32%的减少。我们检验了可能解释以微弱优势选举女性市长而非男性对手对环境产生积极影响的潜在机制，并发现在亚马逊市镇，当选的女性市长在政府提案中为环境分配了更多的空间，并且更有可能投资于环境倡议。当选的女性和男性市长在执行环境法规和教育水平上的差异并不能解释这些结果。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Ancestral irrigation and collective climate action",
             "title_zh": "祖传灌溉与集体气候行动",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103805",
@@ -970,16 +880,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
-            ]
-          },
-          {
-            "title_en": "Trade, storage, and climate extremes: Theory and evidence from Sub-Saharan Africa",
-            "title_zh": "贸易、储存与极端气候：来自撒哈拉以南非洲的理论与证据",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103761",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
             ]
           }
         ],
@@ -1166,101 +1066,93 @@
         "query_name": "RAND Journal of Economics",
         "issn": "0741-6261",
         "resolved_name": "The RAND Journal of Economics",
-        "issue_title": "Volume 57, Issue 1",
+        "issue_title": "Volume 57, Issue 2",
         "issue_url": "https://onlinelibrary.wiley.com/journal/17562171",
-        "matched_count": 9,
-        "total_in_issue": 14,
+        "matched_count": 8,
+        "total_in_issue": 12,
         "papers": [
           {
-            "title_en": "Fossil Fuels and Renewable Energy: Mix or Match?",
-            "title_zh": "化石燃料与可再生能源：混合还是匹配？",
-            "url": "https://doi.org/10.1111/1756-2171.70044",
-            "abstract_en": "ABSTRACT This article investigates the influence of technological ownership on pricing strategies and productive efficiency. Our motivation comes from the evolving landscape of electricity markets where firms are transitioning from diversified to specialized portfolios, focusing on renewable energy or fossil fuels. Our theoretical model demonstrates that diversified firms compete more vigorously than their specialized counterparts. Conversely, specialized firms exhibit higher productive efficiency but only when thermal sources dominate. The magnitude of our theoretical predictions is assessed through simulations using data from the Spanish electricity market. Methodologically, our analysis offers novel insights for studying multi‐unit auctions with cost heterogeneity and privately known capacities.",
-            "abstract_zh": "摘要 本文研究了技术所有权对定价策略和生产效率的影响。我们的研究动机来自于电力市场不断演变的格局，企业正从多元化转向专注于可再生能源或化石燃料的专业组合。我们的理论模型表明，多元化公司比专业化公司竞争更为激烈。相反，专业化公司表现出更高的生产效率，但仅在热源占主导地位时。我们通过使用西班牙电力市场的数据进行模拟来评估我们理论预测的幅度。从方法论上讲，我们的分析为研究具有成本异质性和私人已知容量的多单位拍卖提供了新的见解。",
+            "title_en": "Physicians as Persuaders: Evidence from Hospitals in China",
+            "title_zh": "医生作为说服者：来自中国的医院证据",
+            "url": "https://doi.org/10.1111/1756-2171.70041",
+            "abstract_en": "ABSTRACT I estimate a Bayesian persuasion model to examine how financial incentives and asymmetric information shape physician–patient interactions. This approach offers new insights into the role of insurance. First, the model predicts that patients' coinsurance moderates physicians' responsiveness to increases in service fees. This prediction is supported by a difference‐in‐differences analysis using Chinese health insurance claims data with random variation in physicians' reimbursement and patients' coinsurance rates. Second, the model implies that lower coinsurance rates reduce both patient price elasticity and skepticism, increasing the likelihood of physicians misdirecting patients toward unnecessary treatments. Using structural model estimates, I show that for a diagnosis where surgical treatment is discretionary, nearly half of the patients who received surgery would not have done so were they fully informed. Such misdirection from physicians is greater when coinsurance rates decrease, highlighting a new inefficiency channel beyond moral hazard. I decompose the effect of lowering coinsurance into moral hazard and the novel greater misdirection effect. Counterfactual analysis shows that, while patients benefit from lower out‐of‐pocket costs, greater misdirection nearly offsets these welfare gains.",
+            "abstract_zh": "摘要：我估计了一个贝叶斯说服模型，以检验金融激励和信息不对称如何塑造医生与患者之间的互动。这种方法为保险的作用提供了新的见解。首先，模型预测患者的共同保险会调节医生对服务费增加的反应。这一预测得到了使用中国健康保险索赔数据的差异-差异分析的支持，这些数据中医生的报销和患者的共同保险率存在随机变化。其次，模型意味着较低的共同保险率降低了患者的价格弹性和怀疑，增加了医生误导患者接受不必要治疗的可能性。利用结构模型估计，我展示了在诊断中手术治疗是自由裁量的情况下，几乎一半接受手术的患者如果完全知情就不会这样做。当共同保险率降低时，医生的这种误导更大，突出了一个超越道德风险的新效率损失渠道。我将降低共同保险的影响分解为道德风险和新的更大误导效应。反事实分析表明，尽管患者从较低的自付成本中受益，但更大的误导几乎抵消了这些福利收益。",
             "matched_topics": [
-              "产业经济"
+              "医药产业"
             ]
           },
           {
-            "title_en": "Search and Competition in Expert Markets",
-            "title_zh": "专家市场中的搜寻与竞争",
-            "url": "https://doi.org/10.1111/1756-2171.70049",
-            "abstract_en": "ABSTRACT We analyze a model where consumers sequentially search experts for treatment recommendations and prices, facing either zero or a positive search cost, whereas experts simultaneously compete in these two dimensions. In equilibrium, experts may “cheat” by overstating the severity of a consumer's problem and recommending an unnecessary treatment, prices follow distributions depending on the problem type and the treatment, and consumers employ Bayesian belief updating about their problem types during search. Paradoxically, as search cost decreases, expert cheating and prices can both increase stochastically. However, if search cost is sufficiently small, competition will force all experts to behave honestly.",
-            "abstract_zh": "摘要 我们分析了一个模型，其中消费者依次搜索专家以获取治疗建议和价格，面临零或正的搜索成本，而专家同时在这两者上进行竞争。在均衡状态下，专家可能会通过夸大消费者问题的严重性并推荐不必要的治疗来“作弊”，价格遵循取决于问题类型和治疗的分布，消费者在搜索过程中使用贝叶斯信念更新来了解他们的问题类型。矛盾的是，随着搜索成本的降低，专家作弊和价格都可能随机增加。然而，如果搜索成本足够小，竞争将迫使所有专家诚实行事。",
+            "title_en": "Strategic Trading and Blockholder Dynamics",
+            "title_zh": "战略交易与大股东动态",
+            "url": "https://doi.org/10.1111/1756-2171.70040",
+            "abstract_en": "ABSTRACT We study strategic trading by a privately informed blockholder who monitors a company and trades its shares. Private information results in larger block sizes in good states, but by increasing the speed of the blockholder's selling, it can result in lower block sizes in bad states. Despite the heterogeneous impact on expected block size, we show that asymmetric information leads to Pareto improvements: it raises stock prices, benefits small uninformed shareholders, and benefits the block owner, despite the negative impact on liquidity.",
+            "abstract_zh": "摘要 我们研究了一个私人信息知情的大股东对公司进行监控并交易其股票的战略行为。私人信息导致在良好状态下的持股规模更大，但通过增加大股东的卖出速度，它可能导致在不利状态下的持股规模更小。尽管对预期持股规模产生了异质性影响，我们表明，信息不对称导致了帕累托改进：它提高了股票价格，使小型非知情股东受益，并且使持股者受益，尽管对流动性产生了负面影响。",
             "matched_topics": [
-              "创新药"
+              "国际贸易"
             ]
           },
           {
-            "title_en": "Horizontal Mergers and Incremental Innovation",
-            "title_zh": "水平并购与渐进式创新",
-            "url": "https://doi.org/10.1111/1756-2171.70045",
-            "abstract_en": "ABSTRACT We study the impact of horizontal mergers on the incentives of merging firms to invest in incremental innovation. We provide a decomposition of this impact that clarifies the various forces at work and the differences between demand‐enhancing and cost‐reducing innovation. Moreover, we derive sufficient conditions for a merger to either reduce or raise the merging firms' incentives to innovate, and show that the comparison of the price diversion ratio and the innovation diversion ratio can help screen mergers. We also uncover a useful connection between the level of production synergies induced by a merger and its impact on innovation.",
-            "abstract_zh": "摘要 我们研究了水平合并对合并企业投资于渐进式创新的激励的影响。我们提供了这种影响的分解，阐明了各种作用力以及需求增强型创新和成本降低型创新之间的差异。此外，我们推导出了合并减少或提高合并企业创新激励的充分条件，并表明价格转移比率与创新转移比率的比较可以帮助筛选合并。我们还揭示了由合并引起的生产协同效应水平与其对创新影响之间的有用联系。",
+            "title_en": "Acquisitions, Innovation and the Entrenchment of Monopoly",
+            "title_zh": "收购、创新与垄断的巩固",
+            "url": "https://doi.org/10.1111/1756-2171.70038",
+            "abstract_en": "ABSTRACT We analyze a dynamic model of repeated innovation where inventors may either be acquired by an incumbent or else resist takeover and challenge for leadership. In the short run, acquisitions always spur innovation because of the invention‐for‐buyout effect. In the longer run, however, they may stifle it because of a countervailing effect, the entrenchment of monopoly. The latter occurs when the incumbent's dominance depends on past levels of activity and is therefore reinforced by recurrent acquisitions. We show that if the entrenchment effect is sufficiently strong, forward‐looking policymakers should prohibit acquisitions in anticipation of the long‐run negative impact on innovation. This argument sets out a new theory of harm that can be used to block acquisitions that could otherwise go unchallenged.",
+            "abstract_zh": "摘要 我们分析了一个重复创新的动态模型，其中发明者可能被在位企业收购，或者抵抗收购并挑战领导地位。短期内，收购总是由于发明-收购效应而刺激创新。然而，从长远来看，它们可能会因为垄断的固化效应而抑制创新。后者发生在在位企业的主导地位依赖于过去的活动水平，因此被反复的收购所加强。我们表明，如果固化效应足够强，具有前瞻性的决策者应该禁止收购，以预期对创新的长期负面影响。这一论点提出了一种新的损害理论，可以用来阻止那些否则可能不受挑战的收购。",
             "matched_topics": [
-              "产业经济",
               "企业创新"
             ]
           },
           {
-            "title_en": "Stable Price Dispersion under Heterogeneous Buyer Consideration",
-            "title_zh": "异质性买家考虑下的稳定价格离散",
-            "url": "https://doi.org/10.1111/1756-2171.70018",
-            "abstract_en": "ABSTRACT We study the pricing of homogeneous products sold to customers who consider different sets of suppliers. We identify prices that are stable in the sense that no firm wishes to undercut a rival or to raise its price when rivals are able to respond by offering special deals. We derive stable and dispersed prices across several price‐consideration specifications. We contrast the implications against those of conventional approaches.",
-            "abstract_zh": "摘要 我们研究了向考虑不同供应商集合的顾客销售同质产品的定价问题。我们确定了稳定的价格，即没有公司希望在竞争对手能够通过提供特殊交易来回应时，降低价格以削弱对手或提高价格。我们推导出了几种价格考虑规范下的稳定和分散的价格。我们将这些含义与传统方法的含义进行了对比。",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Network Competition in the Airline Industry: An Empirical Framework",
-            "title_zh": "航空业网络竞争：一个实证框架",
-            "url": "https://doi.org/10.1111/1756-2171.70031",
-            "abstract_en": "ABSTRACT This article proposes an empirical framework and a novel equilibrium concept to analyze network competition in the airline industry. A two‐stage entry model links direct and indirect flights, using a technological relationship estimated from data to mimic the hub‐and‐spoke network. It employs revealed‐preference arguments to bound fixed cost parameters, estimated using state‐of‐the‐art econometric methods. Ignoring network externality undervalues the benefits of additional flights by 13.2% and leads to 21.5% fewer one‐stop flights. A hypothetical merger between Alaska and Virgin in 2014 could increase consumer surplus as the merged airline would offer more flights with muted post‐merger prices.",
-            "abstract_zh": "摘要 本文提出了一个实证框架和一个新的均衡概念，用以分析航空业中的网络竞争。一个两阶段进入模型将直飞和转机联系起来，利用从数据中估计出的技术关系来模拟枢纽-辐射网络。它采用显示偏好论点来界定固定成本参数，这些参数是使用最先进的计量经济学方法估计的。忽视网络外部性会低估额外航班的好处13.2%，并导致转机航班减少21.5%。2014年阿拉斯加和维珍航空之间的假设合并可能会增加消费者剩余，因为合并后的航空公司会提供更多航班，并且合并后的价格会有所抑制。",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Optimal Job Design and Information Elicitation",
-            "title_zh": "最优工作设计和信息引出",
-            "url": "https://doi.org/10.1111/1756-2171.70037",
-            "abstract_en": "ABSTRACT When managers rely on their subordinates for local information but cannot commit to how such information is used, the incentives for effort and information elicitation become intertwined. This incentive problem influences the firm's job design decision, that is, whether to assign all tasks in a job to one worker (“individual assignment”) or split those among a group (“team assignment”). Team assignment facilitates information elicitation but suffers from diseconomies of scope in incentive provision. The optimal job design is driven by the workers' likelihood of being informed (about local conditions) and the noise in the performance measure used to reward them.",
-            "abstract_zh": "摘要：当管理者依赖下属提供当地信息，但又无法承诺如何使用这些信息时，努力激励和信息激励就变得相互交织。这种激励问题影响着公司的工作设计决策，即是否将所有任务分配给一个工人（“个人分配”）还是将任务分配给一个团队（“团队分配”）。团队分配有助于信息激励，但在激励提供上存在范围不经济。最优的工作设计取决于工人被告知（关于当地条件）的可能性以及用于奖励他们的绩效衡量中的噪声。",
+            "title_en": "Inflated Recommendations",
+            "title_zh": "膨胀的推荐",
+            "url": "https://doi.org/10.1111/1756-2171.70036",
+            "abstract_en": "ABSTRACT Biased recommendations arise naturally in markets with heterogeneous consumers. We study a model in which a monopolist offers an experience good to a population of consumers with heterogeneous tastes and makes personalized purchase recommendations. We provide conditions under which a firm makes welfare‐reducing purchase recommendations with positive probability, resulting in inflated recommendations. We extend this insight to a setting in which an intermediary makes the recommendations, whereas a seller sets the retail price. Regulatory interventions that forbid inflated recommendations may lead to higher social welfare or may backfire.",
+            "abstract_zh": "摘要 在具有异质性消费者的市场中，有偏见的推荐自然产生。我们研究了一个模型，其中一家垄断者向具有异质性口味的消费者群体提供体验商品，并提供个性化购买推荐。我们提供了在何种条件下，企业以正概率做出减少福利的购买推荐，导致推荐膨胀。我们将这一洞见扩展到一个中介机构做出推荐，而卖家设定零售价格的情境。禁止膨胀推荐的监管干预可能会导致更高的社会福利，或者可能适得其反。",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Ad Valorem Taxation in a Multiproduct Monopoly",
-            "title_zh": "多产品垄断下的从价税制",
-            "url": "https://doi.org/10.1111/1756-2171.70025",
-            "abstract_en": "ABSTRACT We study the pass‐through of ad valorem taxes with a multiproduct monopolist. We characterize two mechanisms whereby an ad valorem tax on one good reduces all prices (Edgeworth's paradox), depending on the goods being substitutes or complements. We also find that the tax can increase the supply of all goods. Hence, consumer surplus and welfare can increase even when the goods are underprovided compared to the social optimum. We provide several applications where these results hold. Our findings indicate that in a multiproduct setting the effects of unit and ad valorem taxes on market outcomes and welfare are fundamentally different.",
-            "abstract_zh": "摘要 我们研究了多产品垄断者对从价税的传递效应。我们描述了两种机制，即对一种商品征收从价税会降低所有商品的价格（埃奇沃斯悖论），这取决于商品是替代品还是互补品。我们还发现，税收可以增加所有商品的供应量。因此，即使商品供应量低于社会最优水平，消费者剩余和福利也可能增加。我们提供了几个这些结果成立的应用实例。我们的发现表明，在多产品设置中，单位税和从价税对市场结果和福利的影响是根本不同的。",
+            "title_en": "Dynamic Pricing With Recommendation and Consumer Feedback",
+            "title_zh": "动态定价、推荐与消费者反馈",
+            "url": "https://doi.org/10.1111/1756-2171.70016",
+            "abstract_en": "ABSTRACT A long‐lived seller sells a new product of unknown value by offering prices and recommendations to short‐lived consumers in continuous time. The seller receives consumer feedback about the product at a rate that increases with the instantaneous sales volume. The optimal selling mechanism features episodes of price discounts, during which the seller discontinuously lowers the price and offers unwarranted recommendations to consumers. The optimal pricing strategy depends on the nature of consumer feedback and may involve early or late discounts, dynamic price backtracking, and below‐cost pricing.",
+            "abstract_zh": "摘要：一个长期存在的卖家通过在连续时间内提供价格和建议，向短期存在的消费者销售一个价值未知的新产品。卖家收到关于产品的消费者反馈的速度随着即时销售量的增加而增加。最优销售机制包括价格折扣的阶段，在这些阶段中，卖家会不连续地降低价格并向消费者提供无保证的建议。最优定价策略取决于消费者反馈的性质，可能涉及早期或晚期折扣、动态价格回溯和低于成本的定价。",
             "matched_topics": [
+              "产业经济",
               "创新药"
             ]
           },
           {
-            "title_en": "Multi‐Product Monopolist and Information Design",
-            "title_zh": "多产品垄断者与信息设计",
-            "url": "https://doi.org/10.1111/1756-2171.70033",
-            "abstract_en": "ABSTRACT We study the information design and pricing decision of a multi‐product monopolist who faces a buyer with unit demand. Under omniscient disclosure, we show that one profit‐maximizing menu reveals the identity of the highest quality product and allocates that product, provided a type‐specific quality threshold is met. This menu remains optimal under private disclosure if the buyer's value has constant differences in quality and type, or if the value has non‐decreasing differences in quality and type and the threshold type is independent of quality. We also characterize the conditions under which an ex‐ante and non‐discriminatory posted price mechanism is optimal.",
-            "abstract_zh": "摘要 我们研究了一个面对单一需求买家的多产品垄断者的信息设计和定价决策。在全知披露下，我们展示了一个利润最大化的菜单揭示了最高品质产品的身份，并分配了该产品，前提是满足特定类型的质量阈值。如果买家的价值在质量和类型上具有恒定差异，或者价值在质量和类型上具有非递减差异，并且阈值类型与质量无关，则该菜单在私下披露下仍然保持最优。我们还描述了事前和非歧视性的挂牌价格机制最优的条件。",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Purchase History and Product Personalization",
-            "title_zh": "购买历史与产品个性化",
-            "url": "https://doi.org/10.1111/1756-2171.70007",
-            "abstract_en": "ABSTRACT Product personalization opens the door to price discrimination. A rich product line allows firms to better tailor products to consumers' tastes, but the mere choice of a product carries valuable information about consumers that can be leveraged for price discrimination. We study this trade‐off in an upstream ‐ downstream model, where a consumer buys a good of variable quality upstream, followed by an indivisible good downstream. The downstream firm's use of the consumer's purchase history for price discrimination introduces a novel distortion: The upstream firm offers a subset of the products that it would offer if, instead, it could jointly design its product line and downstream pricing. By controlling the degree of product personalization the upstream firm curbs ratcheting forces that result from the consumer facing downstream price discrimination.",
-            "abstract_zh": "摘要：产品个性化为价格歧视打开了大门。丰富的产品线使企业能够更好地根据消费者的口味定制产品，但产品选择本身提供了有关消费者的有价值信息，这些信息可以被用来进行价格歧视。我们在一个上游-下游模型中研究了这种权衡，在这个模型中，消费者首先购买上游的可变质量商品，然后购买下游的不可分割商品。下游企业利用消费者的购买历史进行价格歧视，引入了一种新的扭曲：上游企业提供了它本会提供的产品的子集，如果它能够联合设计其产品线和下游定价的话。通过控制产品个性化的程度，上游企业抑制了由于消费者面临下游价格歧视而产生的棘轮效应。",
+            "title_en": "Storage games",
+            "title_zh": "存储博弈",
+            "url": "https://doi.org/10.1111/1756-2171.70015",
+            "abstract_en": "ABSTRACT We study a long‐horizon, oligopolistic market with random shocks to demand that can be arbitraged by two storage operators with finite capacity. This problem applies to any storable commodity—that is, most commodities. Because the arbitrage spread is so sensitive to market power, storage operators face strong incentives to restrain quantities by tacitly colluding. This cooperation takes new forms thanks to the multiplicity of actions they must take: selling, buying, or both. We construct payoff‐maximizing equilibria of this stochastic game, and uncover a new form of Partial Cooperation that trades off quantities and delay. While collusive, Partial Cooperation delivers higher consumer surplus thanks to the market power effect. Head‐on competition is not always an equilibrium of the long‐horizon game when market power becomes large enough. We draw implications for policy and suggest poorly competitive storage is a negative externality to the development of the underlying commodity—for example, renewable energy.",
+            "abstract_zh": "摘要 我们研究了一个长期、寡头垄断市场，该市场受到需求随机冲击的影响，这些冲击可以被两个有限容量的存储运营商套利。这个问题适用于任何可储存商品，即大多数商品。由于套利价差对市场力量极为敏感，存储运营商面临通过默契勾结来限制数量的强烈动机。由于他们必须采取多种行动：销售、购买或两者兼而有之，这种合作呈现出新的形式。我们构建了这个随机博弈的收益最大化均衡，并揭示了一种新的部分合作形式，即在数量和延迟之间进行权衡。尽管是勾结性的，部分合作由于市场力量效应，能够带来更高的消费者剩余。当市场力量变得足够大时，正面竞争并不总是长期博弈的均衡。我们为政策制定提出了启示，并建议竞争力不足的存储是底层商品发展的一种负外部性——例如，可再生能源。",
             "matched_topics": [
               "国际贸易",
               "产业经济"
+            ]
+          },
+          {
+            "title_en": "The Political Economy of Patent Buyouts",
+            "title_zh": "专利收购的政治经济学",
+            "url": "https://doi.org/10.1111/1756-2171.70017",
+            "abstract_en": "ABSTRACT Incentivizing innovation through buyouts may alleviate the social costs associated with patent power, but the political economy and feasibility of this potentially important financing mechanism have been understudied. We study an international setting of countries with different innovation and financing capabilities, and where financing governments rely on taxes to fund buyouts and care about the electoral popularity of their decisions. Subsequent distributional conflict arises between countries as some may benefit from the now‐public knowledge without contributing equally to financing, whereas taxpayers within a country may disagree over the desired extent of tax financing for buyouts. We show that these conflicts reduce the feasibility of buyouts relative to patents, identify the conditions under which this harms global welfare, and discuss possibilities for overcoming these constraints. The international public good and public financing dimensions of buyouts emerge as essential for understanding their potential to supplant patents and to improve social welfare.",
+            "abstract_zh": "摘要：通过收购激励创新可能减轻与专利权相关的社会成本，但这种潜在重要的融资机制的政治经济和可行性一直未得到充分研究。我们研究了一个国际背景，其中不同国家的创新和融资能力各异，而融资政府依赖税收来资助收购，并关心其决策的选举受欢迎程度。随后，国家之间出现了分配冲突，因为一些国家可能从现在公开的知识中受益，而没有平等地贡献资金，而一个国家的纳税人可能对税收资助收购的期望程度存在分歧。我们表明，这些冲突降低了收购相对于专利的可行性，确定了这种情况损害全球福利的条件，并讨论了克服这些限制的可能性。收购的国际公共产品和公共融资维度对于理解其取代专利和提高社会福利的潜力至关重要。",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Buyer‐Optimal Platform Design",
+            "title_zh": "买家最优平台设计",
+            "url": "https://doi.org/10.1111/1756-2171.70014",
+            "abstract_en": "ABSTRACT A platform matches a unit mass of sellers, each owning a single product of heterogeneous quality, to a unit mass of buyers with differing valuations for unit‐quality. After matching, sellers make take‐it‐or‐leave‐it price‐offers to buyers. Initially, valuations of buyers are only known to them and the platform, but sellers make inferences from the matching algorithm. The efficient matching is positive assortative, but buyer‐optimal matchings are stochastically negative assortative when there are few low‐value buyers (i.e., compared to lower‐quality sellers, high‐quality ones are matched to buyers with lower expected valuation). Although everyone trades, generating rents for the side lacking bargaining power results in inefficient matching.",
+            "abstract_zh": "摘要：一个平台将拥有不同质量异质产品的单一单位质量卖家与对单位质量有不同估值的单一单位质量买家进行匹配。匹配后，卖家向买家提出接受或放弃的价格提议。最初，只有买家和平台知道买家的估值，但卖家会从匹配算法中推断。有效的匹配是正向选择性的，但当低估值买家较少时（即，与低质量卖家相比，高质量卖家与预期估值较低的买家匹配），买家最优匹配是随机负向选择性的。尽管每个人都进行交易，为缺乏议价能力的一方创造租金，但会导致匹配效率低下。",
+            "matched_topics": [
+              "国际贸易"
             ]
           }
         ],
@@ -1274,7 +1166,7 @@
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 4,
-        "total_in_issue": 7,
+        "total_in_issue": 8,
         "papers": [
           {
             "title_en": "Causal evidence of antitrust damages in the car manufacturers’ cartel in Spain",
@@ -1329,7 +1221,7 @@
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 2,
-        "total_in_issue": 3,
+        "total_in_issue": 4,
         "papers": [
           {
             "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
@@ -1477,7 +1369,7 @@
             "title_zh": "储物联盟网络是否提高了最后一英里配送效率？",
             "url": "https://doi.org/10.1287/mnsc.2024.04567",
             "abstract_en": "The Locker Alliance Network (LAN), a cutting-edge initiative under Singapore’s Smart Nation vision, aims to revolutionize parcel pickup processes. This government-led project seeks to implement two major changes in Singapore’s urban logistics: (i) establishing an open-access facility for all logistic service providers (LSPs) and (ii) enhancing the last mile delivery efficiency of each LSP, thereby reducing its operational footprint. This research investigates the impact of locker network design on the delivery efficiency of individual LSPs and explores strategies for the government to construct an inclusive network for all LSPs. Our study explores two operational modes: the two-trip mode, in which home and locker deliveries are managed separately, and the mixed-trip mode, which consolidates both into one route. We extend the Beardwood–Halton–Hammersley theorem to estimate the delivery trip length to remaining home locations, assuming consumers can choose between locker pickup or home delivery. This enables us to explicitly formulate the LAN design problem as a nonlinear optimization model. Furthermore, our models for both operational modes reveal that optimal locker network design tends to expand in a nested manner relative to the market share of an LSP. This finding suggests that governments could design locker networks based on the profiles of the largest LSP, ensuring that the expansion of these networks aligns with the existing logistics infrastructure. Leveraging data from LAN’s pilot program in Singapore, our research underscores the pivotal role of network design in last mile delivery efficiency. A poorly designed locker network can inadvertently reduce productivity by increasing the length of delivery trips, thus negating the potential benefits of the system. In contrast, an optimized network can mitigate this negative impact on delivery efficiency. Beyond network design, low customer adoption emerges as another critical bottleneck. Our findings show that, as more customers shift to locker pickup, especially in mixed-trip modes, delivery efficiency improves. Therefore, network design and a higher adoption rate of locker pickup are key to LAN’s success. The government’s role in driving deeper customer engagement, alongside efforts to optimize network design and delivery operations, is vital to unlocking the full potential of this smart nation initiative. This paper was accepted by David Simchi-Levi, operations management. Funding: This work was supported by the National Natural Science Foundation of China [Grant 72422006], the Hong Kong Research Grants Council [Grants 16210720, 16500423], the 2019 Academic Research Fund Tier 3, the Ministry of Education, Singapore [Award MOE-2019-T3-1-010], and the Natural Science Foundation of Chongqing, China [Grant CSTB2022NSCQ-MSX1667]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04567 .",
-            "abstract_zh": "新加坡智能国家愿景下的前沿举措——Locker Alliance Network（LAN），旨在彻底改变包裹取件流程。这个由政府主导的项目寻求在新加坡的城市物流中实施两大变革：（i）为所有物流服务提供商（LSPs）建立一个开放存取设施；（ii）提高每个LSP的最后一英里配送效率，从而减少其运营足迹。本研究调查了储物柜网络设计对个别LSPs配送效率的影响，并探讨了政府构建一个包容所有LSPs的网络的策略。我们的研究探讨了两种运营模式：两趟行程模式，即家庭和储物柜配送分别管理；以及混合行程模式，将两者合并为一条路线。我们扩展了Beardwood-Halton-Hammersley定理，以估计剩余家庭位置的配送行程长度，假设消费者可以选择储物柜取件或家庭配送。这使我们能够明确地将LAN设计问题表述为一个非线性优化模型。此外，我们对两种运营模式的模型揭示了，最优的储物柜网络设计倾向于根据LSP的市场份额以嵌套方式扩展。这一发现表明，政府可以根据最大的LSP的档案设计储物柜网络，确保这些网络的扩展与现有的物流基础设施相一致。利用新加坡LAN试点项目的数据，我们的研究强调了网络设计在最后一英里配送效率中的关键作用。设计不当的储物柜网络可能会无意中通过增加配送行程的长度来降低生产力，从而抵消系统的潜在好处。相比之下，优化的网络可以减轻这种对配送效率的负面影响。除了网络设计之外，低客户采纳率也成为另一个关键瓶颈。我们的发现表明，随着越来越多的客户转向储物柜取件，尤其是在混合行程模式下，配送效率得到提高。因此，网络设计和更高的储物柜取件采纳率是LAN成功的关键。政府在推动更深层次的客户参与，以及优化网络设计和配送运营方面的努力，对于释放这一智能国家举措的全部潜力至关重要。本文由David Simchi-Levi，运营管理接受。资金：这项工作是...",
+            "abstract_zh": "新加坡智能国家愿景下的一项前沿举措——Locker Alliance Network（LAN），旨在彻底改变包裹取件流程。这个由政府主导的项目寻求在新加坡的城市物流中实施两大变革：（i）为所有物流服务提供商（LSPs）建立一个开放存取设施；（ii）提高每个LSP的最后一英里配送效率，从而减少其运营足迹。本研究调查了储物柜网络设计对个别LSPs配送效率的影响，并探讨了政府构建一个包容所有LSPs的网络的策略。我们的研究探讨了两种运营模式：两趟行程模式，即家庭和储物柜配送分别管理；以及混合行程模式，将两者合并为一条路线。我们扩展了Beardwood-Halton-Hammersley定理，以估计剩余家庭位置的配送行程长度，假设消费者可以选择储物柜取件或家庭配送。这使我们能够明确地将LAN设计问题表述为一个非线性优化模型。此外，我们对两种运营模式的模型都揭示了，最优的储物柜网络设计倾向于根据LSP的市场份额以嵌套方式扩展。这一发现表明，政府可以根据最大的LSP的档案设计储物柜网络，确保这些网络的扩展与现有的物流基础设施相一致。利用新加坡LAN试点项目的数据，我们的研究强调了网络设计在最后一英里配送效率中的关键作用。设计不当的储物柜网络可能会无意中通过增加配送行程的长度来降低生产力，从而抵消系统的潜在好处。相比之下，一个优化的网络可以减轻这种对配送效率的负面影响。除了网络设计之外，低客户采纳率也成为另一个关键瓶颈。我们的发现表明，随着越来越多的客户转向储物柜取件，尤其是在混合行程模式下，配送效率得到提高。因此，网络设计和更高的储物柜取件采纳率是LAN成功的关键。政府在推动更深层次的客户参与方面的作用，以及优化网络设计和配送运营的努力，对于释放这一智能国家举措的全部潜力至关重要。本文由David Simchi-Levi接受，运营管理。资金：这项工作是...",
             "matched_topics": [
               "创新药"
             ]
@@ -1628,9 +1520,20 @@
         "resolved_name": "Technovation",
         "issue_title": "Published 2026-07",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 8,
-        "total_in_issue": 10,
+        "matched_count": 12,
+        "total_in_issue": 16,
         "papers": [
+          {
+            "title_en": "Evaluating creative work with artificial intelligence: Evidence from constrained innovation tasks",
+            "title_zh": "使用人工智能评估创意工作：来自受限创新任务的证据",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103571",
+            "abstract_en": "We study whether a large language model can reliably evaluate human creativity in constrained, innovation-like tasks. Using expert-generated creative outputs from a validated experiment with workers in cultural and creative industries, we embed ChatGPT as an evaluator and benchmark its assessments against expert human judgments obtained through the Consensual Assessment Technique. Study 1 supports AI reliability by showing that AI-based creativity evaluations exhibit internal consistency comparable to that of expert judges across repeated and independent runs, even under conservative scenarios. Replacing a human judge with an AI evaluator does not reduce inter-rater reliability across drawing, mathematical, and verbal tasks. Beyond reliability, AI evaluations display three additional features that are difficult to achieve with human-only panels: lower evaluative variability, systematically higher scores consistent with a potentially more inclusive evaluative stance, and task-independence of evaluative standards. Study 2 further supports task-independence by showing that AI evaluations are structured along fluency, flexibility, originality, and elaboration, with dimension weights that adapt to task-specific constraints. • We test AI evaluation of human creativity on outputs from a controlled experiment. • We study constrained, innovation-like creative tasks. • Replacing one human judge with AI preserves panel reliability. • AI scores are less dispersed, higher on average, and task-independent. • AI evaluation is structured by fluency, flexibility, originality, and elaboration.",
+            "abstract_zh": "我们研究大型语言模型是否能够可靠地评估人类在受限、类似创新任务中的创造力。我们使用来自文化和创意产业工作者的经过验证实验中专家生成的创造性输出，将ChatGPT嵌入作为评估者，并通过共识评估技术获得的专家人类判断来基准其评估。研究1通过显示基于AI的创造力评估展现出与专家评委在重复和独立运行中可比的内部一致性，支持了AI的可靠性，即使在保守情景下也是如此。用AI评估者替换人类评委不会降低绘画、数学和语言任务的评分者间可靠性。除了可靠性之外，AI评估还显示出三个难以通过仅人类小组实现的额外特征：评估变异性更低，系统性地给出更高分数，这与可能更具包容性的评估立场一致，以及评估标准的独立性。研究2进一步通过显示AI评估沿着流畅性、灵活性、原创性和阐述性构建，并且维度权重适应特定任务的约束，支持了任务独立性。•我们在受控实验的输出上测试AI对人类创造力的评估。•我们研究受限、类似创新的创造性任务。•用AI替换一个人类评委保持了小组的可靠性。•AI分数分布更集中，平均更高，且与任务无关。•AI评估由流畅性、灵活性、原创性和阐述性构成。",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
           {
             "title_en": "AI assimilation for sustainable and resilient supply chains: Role of green ambidexterity and cybersecurity awareness",
             "title_zh": "人工智能融合促进可持续和弹性供应链：绿色双元性和网络安全意识的作用",
@@ -1648,6 +1551,18 @@
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Administered prices and product innovation: Evidence from the wheelchair industry",
+            "title_zh": "管制价格与产品创新：来自轮椅行业的证据",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103597",
+            "abstract_en": "The literature on innovation ecosystems emphasizes the relationship between regulation and innovation rates. However, the innovation strategies of new and incumbent firms differ, and regulations may affect them differently. We focus on administered prices, a widespread form of price regulation, and argue that removing them will have a positive effect on product innovation and new firms' survival. Removing administered prices reduces the costs of product innovation by eliminating approval uncertainty and delays, and enabling the emergence of new market segments. This cost reduction helps new firms more than incumbent ones since new firms have fewer slack resources and tend to rely more on innovation. We test our hypotheses using a DiD approach and original data on powered wheelchair firms over the period 2006–2015. We find only limited suggestive evidence that removing administered prices is associated with a positive effect on product innovation. However, we do find a significant increase in the ratio of new firms to total firms when administered prices are removed. We contribute to our understanding of the contextual effects of regulation on innovation and its consequences on industry dynamics. Our results have important practical and policy implications, as they help unpack the incentives and strategic choices faced by different firms in regulated industries. • Removing administered prices may increase innovation in regulated industries. • Administered prices impose hidden costs beyond direct price controls. • New firms benefit more from price deregulation than established competitors. • Price deregulation effects depend on industry life stage and maturity. • Administered prices cause asymmetric changes between incumbents and entrants.",
+            "abstract_zh": "关于创新生态系统的文献强调了监管与创新率之间的关系。然而，新企业和现有企业的创新策略不同，监管可能对它们产生不同的影响。我们关注行政定价，这是一种普遍的价格监管形式，并认为取消它们将对产品创新和新企业的存活产生积极影响。取消行政定价通过消除审批的不确定性和延迟，降低产品创新的成本，并使新市场细分的出现成为可能。这种成本降低对新企业比现有企业更有帮助，因为新企业拥有的闲置资源较少，并且更依赖于创新。我们使用双重差分方法和2006-2015年电动轮椅企业的原始数据来测试我们的假设。我们发现，只有有限的暗示性证据表明取消行政定价与产品创新的积极效应有关。然而，我们确实发现，在取消行政定价时，新企业与总企业的比例显著增加。我们对监管对创新的情境效应及其对行业动态的影响的理解做出了贡献。我们的结果具有重要的实践和政策意义，因为它们有助于解开受监管行业中不同企业面临的激励和战略选择。•取消行政定价可能会增加受监管行业的创新。•行政定价除了直接的价格控制之外还施加了隐性成本。•新企业从价格放开中获益比既定竞争对手更多。•价格放开的效果取决于行业的生命周期和成熟度。•行政定价导致现有企业和新进入者之间的不对称变化。",
+            "matched_topics": [
+              "国际贸易",
+              "产业经济",
               "企业创新"
             ]
           },
@@ -1676,10 +1591,21 @@
             "title_en": "Governing complexity in sustainable innovation ecosystems: An empirical analysis for AI-enabled enterprise architecture",
             "title_zh": "治理可持续创新生态系统中的复杂性：人工智能赋能企业架构的实证分析",
             "url": "https://doi.org/10.1016/j.technovation.2026.103583",
-            "abstract_en": "",
-            "abstract_zh": "",
+            "abstract_en": "The integration of Artificial Intelligence (AI) into Enterprise Architecture (EA) offers transformative potential for advancing Sustainable Innovation Ecosystems (SIEs). However, AI's velocity often clashes with traditional, rigid governance. Using a sequential mixed-methods design – a systematic literature review followed by interviews with ten industry experts – this study maps AI's strategic impact across the EA-IE landscape. Our findings reveal that AI's value is primarily concentrated at the Business and Data layers, where it reconfigures ecosystem actors and processes. We uncover an EA paradox: while practitioners eschew formal frameworks as too rigid, they rely on architectural principles as dynamic capabilities to manage structural inertia. Theoretically, we advance from descriptive findings to causal mechanisms by proposing three testable propositions that explain how organizations can balance architectural stability with the agility required for AI adoption. Practically, the study offers a diagnostic tool for aligning AI adoption with organizational resilience. We conclude by outlining a roadmap for future research that utilizes dynamic multi-agent simulations to explore adaptive governance strategies for AI-enabled SIEs. This study contributes a localized, empirically grounded perspective on governing AI within complex adaptive systems, reframing EA as a flexible, human-centric coordination tool for innovation. • Explores AI integration in Enterprise Architecture for Sustainable Innovation. • Maps AI strategic focus to the Business and Data layers using expert heuristics. • Identifies an EA Paradox where principles are favored over rigid frameworks. • Proposes three testable propositions for governing AI in complex adaptive systems. • Provides a BDI-based multi-agent simulation roadmap for future ecosystem research.",
+            "abstract_zh": "将人工智能（AI）整合到企业架构（EA）中，为推进可持续创新生态系统（SIEs）提供了变革潜力。然而，AI的速度常常与传统的、僵化的治理方式发生冲突。本研究采用顺序混合方法设计——先进行系统性文献综述，然后对十位行业专家进行访谈——绘制了AI在EA-IE领域战略影响的地图。我们的发现揭示了AI的价值主要集中在业务和数据层面，它重新配置了生态系统的参与者和流程。我们发现了一个EA悖论：尽管从业者认为正式框架过于僵化而回避，但他们依赖于架构原则作为动态能力来管理结构性惯性。从理论上讲，我们从描述性发现推进到因果机制，提出了三个可测试的假设，解释了组织如何平衡架构稳定性与AI采用所需的敏捷性。从实践上讲，该研究提供了一个诊断工具，用于将AI采用与组织韧性对齐。我们最后概述了一个未来研究路线图，利用动态多代理模拟来探索AI赋能SIEs的适应性治理策略。本研究提供了一个本地化的、基于经验的视角，用于在复杂自适应系统中治理AI，将EA重新定义为一个灵活的、以人为中心的创新协调工具。•探索AI在企业架构中整合以实现可持续创新。•使用专家启发式将AI战略重点映射到业务和数据层面。•识别了一个EA悖论，其中原则比僵化框架更受青睐。•提出了三个可测试的假设，用于在复杂自适应系统中治理AI。•为未来生态系统研究提供了基于BDI的多代理模拟路线图。",
             "matched_topics": [
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "The twin transition: Driving sustainability through digital transformation in manufacturing",
+            "title_zh": "双转型：通过制造业数字化转型推动可持续性发展",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103582",
+            "abstract_en": "In the context of increasing global competition and rising environmental and social demands, manufacturing companies are under pressure to pursue sustainable growth while maintaining competitiveness. Although the convergence of digitalization and sustainability—known as the \"twin transition\"—has gained significant attention, understanding how digital technologies concretely support sustainability initiatives remains fragmented. This study explores the role of digital transformation in advancing sustainable practices within the manufacturing sector, drawing on empirical evidence from an industrial cluster. The findings reveal that while digital tools offer significant potential for improving resource efficiency, reducing emissions, and supporting sustainable operations, companies face persistent barriers such as stakeholder resistance, high initial costs, limited customer willingness to pay for sustainable products, and fragmented data utilization. Furthermore, organizational challenges, including low digital maturity, cultural resistance, and difficulties in aligning supply chain partners, continue to hinder progress. The study highlights the importance of employee engagement, transparent sustainability reporting, and strategic data management as critical enablers for the successful integration of digitalization and sustainability. By identifying both opportunities and challenges, the paper contributes to a deeper understanding of the systemic changes needed to leverage digital technologies for sustainable manufacturing and outlines avenues for future research across broader industrial contexts.",
+            "abstract_zh": "在全球竞争加剧和环境与社会需求上升的背景下，制造企业面临着在保持竞争力的同时追求可持续增长的压力。尽管数字化与可持续性融合——被称为“双重转型”——已受到广泛关注，但对数字技术如何具体支持可持续性举措的理解仍然支离破碎。本研究基于一个产业集群的实证证据，探讨了数字化转型在推进制造业可持续实践方面的作用。研究结果揭示，尽管数字工具在提高资源效率、减少排放和支持可持续运营方面具有巨大潜力，但企业仍面临持续的障碍，如利益相关者抵制、高昂的初始成本、有限的客户支付意愿以及分散的数据利用。此外，组织挑战，包括低数字化成熟度、文化抵制和难以协调供应链合作伙伴，继续阻碍进展。研究强调员工参与、透明的可持续性报告和战略性数据管理对于成功整合数字化和可持续性至关重要。通过识别机遇和挑战，本文有助于更深入地理解利用数字技术进行可持续制造所需的系统性变化，并为未来在更广泛工业背景下的研究指明了方向。",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
             ]
           },
           {
@@ -1696,6 +1622,16 @@
             "title_en": "From infrastructure to innovation: How integrated PLM systems enable digital twin and thread capabilities in business-to-business manufacturing",
             "title_zh": "从基础设施到创新：集成PLM系统如何使企业对企业制造中的数字孪生和线程能力成为可能",
             "url": "https://doi.org/10.1016/j.technovation.2026.103579",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Identification of driving factors in national innovation ecosystems under the PSR framework: Based on machine learning algorithms",
+            "title_zh": "基于机器学习算法的PSR框架下国家创新生态系统驱动因素识别",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103581",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1804,42 +1740,11 @@
         "query_name": "Journal of Health Economics",
         "issn": "0167-6296",
         "resolved_name": "Journal of Health Economics",
-        "issue_title": "Published 2026-05",
+        "issue_title": "Published 2026-07",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
-        "matched_count": 3,
-        "total_in_issue": 13,
-        "papers": [
-          {
-            "title_en": "Health insurance portability and coverage: Evidence from China’s cross-regional instant reimbursement reform",
-            "title_zh": "健康保险的可携带性与覆盖范围：来自中国跨地区即时报销改革的证据",
-            "url": "https://doi.org/10.1016/j.jhealeco.2026.103136",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "Gender-specific effects of prenatal famine exposure on educational attainment: Accounting for selective mortality",
-            "title_zh": "性别特异的产前饥荒暴露对教育成就的影响：考虑选择性死亡因素",
-            "url": "https://doi.org/10.1016/j.jhealeco.2026.103133",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The value of a park in crises: Quantifying the health and wellbeing benefits of green spaces using exogenous variations in use values",
-            "title_zh": "危机中的公园价值：利用使用价值的外生变化量化绿地的健康与福祉效益",
-            "url": "https://doi.org/10.1016/j.jhealeco.2026.103123",
-            "abstract_en": "Most people consider parks important for their quality of life, yet systematic causal evidence is missing. We exploit exogenous variations in their use values to estimate causal effects. Using a representative household panel with precise geographical coordinates of households linked to satellite images of green spaces with a nationwide coverage, we employ a spatial difference-in-differences design, comparing within-individual changes between residents living close to a green space with those living further away. We exploit Covid-19 as an exogenous shock. We find that green spaces raised overall life satisfaction while reducing symptoms of anxiety (feelings of nervousness and worry) and depression. There is also suggestive evidence for reduced loneliness. Given the number of people in their surroundings, a compensating-surplus calculation suggests that parks added substantial benefits during the period studied.",
-            "abstract_zh": "大多数人认为公园对他们的生活质量很重要，但缺乏系统的因果证据。我们利用其使用价值的外生变化来估计因果效应。我们使用一个具有代表性的家庭面板，将家庭的精确地理坐标与全国覆盖的绿地卫星图像联系起来，采用空间差异-差异设计，比较居住在绿地附近的居民与居住在更远地方的居民之间的个体内部变化。我们利用Covid-19作为外生冲击。我们发现，绿地提高了整体生活满意度，同时减少了焦虑（紧张和担忧的感觉）和抑郁症状。还有迹象表明孤独感有所减少。考虑到他们周围人数，补偿剩余计算表明，在研究期间，公园增加了大量好处。",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 1,
+        "papers": [],
         "error": null
       },
       {
@@ -1942,7 +1847,7 @@
             "title_zh": "基因疗法的创新合同：美国基因疗法融资现状及未来展望",
             "url": "https://doi.org/10.1007/s40273-025-01563-3",
             "abstract_en": "BACKGROUND AND OBJECTIVE: Over the last decade, payers in the USA have been exploring novel financing mechanisms for gene therapies (GTs). Our research objective was to assess the landscape of innovative contracts (ICs) between payers and manufacturers for GTs and identify barriers and opportunities for future contract development and implementation. METHODS: We used a multi-method approach including a targeted literature review and interviews. We developed a framework defining 'innovative contracts' as agreements using real-world outcomes that link to the total price paid for gene therapy, encompassing value-based pricing, outcome-based payments, and performance-based models between payers and manufacturers. We searched for published information about implementation of ICs for GTs in PubMed and government, industry, and research institutions from January 2014 to January 2025. We excluded any insights specific to ICs for non-GTs as well as those relevant to ex-US markets. We supplemented these findings with bibliographic searches. Semi-structured interviews with payers, manufacturers, and other diverse representatives from the GT financing ecosystem were conducted to validate and enrich the literature findings. RESULTS: The PubMed search yielded ten studies relevant to implementation of ICs. Gray literature included over 50 publications referencing active contracts, policy solutions, payer budget impact, and state Medicaid programs' innovative GT contracting. Information on manufacturer and payer contracts was publicly available for 10 of 14 gene therapies (71%). Of 16 identified GT contracts, eight used upfront payments with milestone-based rebates, two used performance-based installment payments, one offered upfront payment with a rebate or payment over 5 years, and five do not have publicly available details on the type of financial arrangement. Interviews (N = 15) suggested that barriers to ICs include a lack of mutual trust between payers and manufacturers, lack of data conveying the return on investment for innovative contracts, lack of a sufficient incentive for stakeholders to engage in contracting, perceived regulatory limitations (e.g., implications of Medicaid Best Price), and patient portability challenges. Some interviewees believed that ICs should be the standard for GTs, while others stated that ICs should only be pursued when they are expected to have a significant impact on timely patient access in the early launch period when payers are considering limited or no coverage. Interviewees indicated that policy changes may encourage future contracting negotiation and implementation. CONCLUSIONS: Widespread uptake of ICs will require a multi-stakeholder collaboration to overcome common barriers, as a one-size-fits-all approach is insufficient for diverse stakeholder needs. Establishing industry-wide contracting principles and practices may help bridge differences in opinions and build trust between contracting parties, allow stakeholders to share lessons from early adopters, and support efficient contracting processes that promote consistent and equitable patient access to GTs while ensuring healthcare system sustainability.",
-            "abstract_zh": "背景与目标：在过去十年中，美国支付方一直在探索基因疗法（GTs）的新型融资机制。我们的研究目标是评估支付方和制造商之间GTs的创新合同（ICs）的格局，并识别未来合同开发和实施的障碍和机会。方法：我们采用了包括目标文献综述和访谈在内的多方法方法。我们构建了一个框架，将“创新合同”定义为使用现实世界结果与基因疗法支付的总价格相联系的协议，包括基于价值的定价、基于结果的支付和支付方与制造商之间的基于绩效的模型。我们在PubMed以及政府、行业和研究机构中搜索了2014年1月至2025年1月期间实施ICs的GTs的已发布信息。我们排除了任何特定于非GTs的ICs的见解，以及与美国以外市场相关的见解。我们用文献搜索补充了这些发现。对支付方、制造商和来自GT融资生态系统的其他多样化代表进行了半结构化访谈，以验证和丰富文献发现。结果：PubMed搜索产生了十项与实施ICs相关的研究。灰色文献包括50多篇引用活跃合同、政策解决方案、支付方预算影响和州医疗补助计划的创新GT合同的出版物。14种基因疗法中有10种（71%）的制造商和支付方合同信息是公开可用的。在16个确定的GT合同中，有8个使用了基于里程碑的预付款和回扣，2个使用了基于绩效的分期付款，1个提供了5年内的预付款和回扣或付款，5个没有公开可用的财务安排类型的详细信息。访谈（N=15）表明，ICs的障碍包括支付方和制造商之间缺乏相互信任、缺乏传达创新合同投资回报的数据、缺乏足够的激励措施让利益相关者参与合同、感知到的监管限制（例如，医疗补助最佳价格的影响）和患者可携带性挑战。一些受访者认为ICs应该是GTs的标准，而其他人则表示，只有在预期ICs将在早期推出期间对及时的患者获取产生重大影响时，才应追求ICs，当时支付方是...",
+            "abstract_zh": "背景与目标：在过去十年中，美国支付方一直在探索基因疗法（GTs）的新型融资机制。我们的研究目标是评估支付方和制造商之间基因疗法的创新合同（ICs）的格局，并识别未来合同开发和实施的障碍和机会。方法：我们采用了包括目标文献综述和访谈在内的多方法方法。我们构建了一个框架，将“创新合同”定义为使用现实世界结果与基因疗法支付的总价格相联系的协议，包括基于价值的定价、基于结果的支付和支付方与制造商之间的基于绩效的模型。我们在PubMed以及政府、行业和研究机构中搜索了2014年1月至2025年1月期间实施ICs的GTs的已发布信息。我们排除了任何特定于非GTs的ICs的见解，以及与美国以外市场相关的见解。我们用文献搜索补充了这些发现。对支付方、制造商和来自GT融资生态系统的其他多样化代表进行了半结构化访谈，以验证和丰富文献发现。结果：PubMed搜索产生了十项与实施ICs相关的研究。灰色文献包括50多篇引用活跃合同、政策解决方案、支付方预算影响和州医疗补助计划的创新GT合同的出版物。14种基因疗法中有10种（71%）的制造商和支付方合同信息是公开可用的。在16个确定的GT合同中，有8个使用了基于里程碑的预付款和回扣，2个使用了基于绩效的分期付款，1个提供了5年内的预付款和回扣或付款，5个没有公开可用的财务安排类型的详细信息。访谈（N=15）表明，ICs的障碍包括支付方和制造商之间缺乏相互信任、缺乏传达创新合同投资回报的数据、缺乏足够的激励措施让利益相关者参与合同、感知到的监管限制（例如，医疗补助最佳价格的影响）和患者可携带性挑战。一些受访者认为ICs应该是GTs的标准，而其他人则表示，只有在预期ICs将在早期推出期间对及时的患者获取产生重大影响时，才应追求ICs，当时支付方是...",
             "matched_topics": [
               "产业经济",
               "创新药"
@@ -1995,17 +1900,6 @@
             ]
           },
           {
-            "title_en": "The Effect of Perspective, Duration, and Views on Death on the Valuation of Severe Health States",
-            "title_zh": "视角、持续时间和死亡观对严重健康状况评估的影响",
-            "url": "https://doi.org/10.1016/j.jval.2025.11.004",
-            "abstract_en": "OBJECTIVES: Composite time trade-off utilities typically vary by perspective: adults tend to assign lower utilities to health states for themselves (self-perspective) than for children (proxy-perspective). Utilities also differ between proxy-perspectives: i.e., deciding for a child (proxy1) vs imagining what a child wants (proxy2). This can cause health states to be evaluated as better than dead (BTD) under one perspective, yet worse than dead (WTD) under another. We investigate how such WTD preferences vary with health states across durations and perspectives, alongside sociocultural factors such as religion and attitudes toward death. As a secondary analysis, we explore the maximal endurable time hypothesis to assess the consistency of WTD preferences. METHODS: We surveyed 1000 UK respondents, stratified into 2 groups by religious affiliation (religious vs nonreligious). Each completed BTD tasks from a self-perspective and a randomly assigned proxy perspective (proxy1 or proxy2), involving 5 health states across 4 durations. Respondents also ranked all health states (without duration) and immediate death. RESULTS: In ranking tasks without duration, WTD preferences were unaffected by perspective or religious affiliation, whereas the proportion of states considered WTD increased with longer durations in paired comparisons in the BTD tasks among nonreligious participants. WTD preferences were associated with stronger support for euthanasia and lower religiousness. Maximal endurable time preferences showed minimal differences across perspectives or religious affiliations. CONCLUSIONS: Perspectives, duration, religious affiliation, and views on euthanasia shape WTD preferences. Future research is encouraged to consider religion in sampling and how to deal with the potential duration dependency of QALY-anchored utilities.",
-            "abstract_zh": "目标：复合时间权衡效用通常因视角而异：成人倾向于为自己（自我视角）分配较低的健康状态效用，而为儿童（代理视角）分配较高的效用。代理视角之间也存在效用差异，即，为儿童做决定（代理1）与想象儿童想要什么（代理2）之间的区别。这可能导致某些健康状态在一种视角下被评估为比死亡更好（BTD），而在另一种视角下则被评估为比死亡更差（WTD）。我们研究了这种WTD偏好如何随着健康状态、持续时间以及视角的变化而变化，同时考虑了社会文化因素，如宗教和对死亡的态度。作为次要分析，我们探讨了最大可忍受时间假设，以评估WTD偏好的一致性。方法：我们调查了1000名英国受访者，按宗教信仰分为两组（宗教与非宗教）。每个人从自我视角和随机分配的代理视角（代理1或代理2）完成BTD任务，涉及5种健康状态和4个持续时间。受访者还对所有健康状态（不考虑持续时间）和立即死亡进行了排名。结果：在不考虑持续时间的排名任务中，WTD偏好不受视角或宗教信仰的影响，而在非宗教参与者中，随着BTD任务中持续时间的延长，被认为是WTD状态的比例在配对比较中增加。WTD偏好与对安乐死的更强支持和较低的宗教性相关。最大可忍受时间偏好在视角或宗教信仰之间显示出最小的差异。结论：视角、持续时间、宗教信仰和对安乐死的看法塑造了WTD偏好。鼓励未来的研究考虑抽样中的宗教因素，以及如何处理与QALY锚定效用潜在的持续时间依赖性。",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
             "title_en": "Estimating the Shares of the Value of Branded Pharmaceuticals Accruing to Manufacturers and to Patients in the Thai Healthcare System",
             "title_zh": "泰国医疗系统中品牌药品价值在制造商和患者之间的分配份额估算",
             "url": "https://doi.org/10.1016/j.jval.2025.10.004",
@@ -2015,6 +1909,17 @@
               "产业经济",
               "企业创新",
               "医药产业"
+            ]
+          },
+          {
+            "title_en": "The Effect of Perspective, Duration, and Views on Death on the Valuation of Severe Health States",
+            "title_zh": "视角、持续时间和死亡观对严重健康状况评估的影响",
+            "url": "https://doi.org/10.1016/j.jval.2025.11.004",
+            "abstract_en": "OBJECTIVES: Composite time trade-off utilities typically vary by perspective: adults tend to assign lower utilities to health states for themselves (self-perspective) than for children (proxy-perspective). Utilities also differ between proxy-perspectives: i.e., deciding for a child (proxy1) vs imagining what a child wants (proxy2). This can cause health states to be evaluated as better than dead (BTD) under one perspective, yet worse than dead (WTD) under another. We investigate how such WTD preferences vary with health states across durations and perspectives, alongside sociocultural factors such as religion and attitudes toward death. As a secondary analysis, we explore the maximal endurable time hypothesis to assess the consistency of WTD preferences. METHODS: We surveyed 1000 UK respondents, stratified into 2 groups by religious affiliation (religious vs nonreligious). Each completed BTD tasks from a self-perspective and a randomly assigned proxy perspective (proxy1 or proxy2), involving 5 health states across 4 durations. Respondents also ranked all health states (without duration) and immediate death. RESULTS: In ranking tasks without duration, WTD preferences were unaffected by perspective or religious affiliation, whereas the proportion of states considered WTD increased with longer durations in paired comparisons in the BTD tasks among nonreligious participants. WTD preferences were associated with stronger support for euthanasia and lower religiousness. Maximal endurable time preferences showed minimal differences across perspectives or religious affiliations. CONCLUSIONS: Perspectives, duration, religious affiliation, and views on euthanasia shape WTD preferences. Future research is encouraged to consider religion in sampling and how to deal with the potential duration dependency of QALY-anchored utilities.",
+            "abstract_zh": "目标：复合时间权衡效用通常因视角而异：成人倾向于为自己（自我视角）分配较低的健康状态效用，而为儿童（代理视角）分配较高的效用。代理视角之间也存在效用差异，即，为儿童做决定（代理1）与想象儿童想要什么（代理2）之间的区别。这可能导致某些健康状态在一种视角下被评估为比死亡更好（BTD），而在另一种视角下则被评估为比死亡更差（WTD）。我们研究了这种WTD偏好如何随着健康状态、持续时间以及视角的变化而变化，同时考虑了社会文化因素，如宗教和对死亡的态度。作为次要分析，我们探讨了最大可忍受时间假设，以评估WTD偏好的一致性。方法：我们调查了1000名英国受访者，按宗教信仰分为两组（宗教与非宗教）。每个人从自我视角和随机分配的代理视角（代理1或代理2）完成BTD任务，涉及5种健康状态和4个持续时间。受访者还对所有健康状态（不考虑持续时间）和立即死亡进行了排名。结果：在不考虑持续时间的排名任务中，WTD偏好不受视角或宗教信仰的影响，而在非宗教参与者中，随着BTD任务中持续时间的延长，被认为是WTD状态的比例在配对比较中增加。WTD偏好与对安乐死的更强支持和较低的宗教性相关。最大可忍受时间偏好在视角或宗教信仰之间显示出最小的差异。结论：视角、持续时间、宗教信仰和对安乐死的看法塑造了WTD偏好。鼓励未来的研究考虑抽样中的宗教因素，以及如何处理与QALY锚定效用潜在的持续时间依赖性。",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
             ]
           },
           {
