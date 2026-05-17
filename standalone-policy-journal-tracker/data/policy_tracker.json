@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-10 05:47:00",
+  "updated_at": "2026-05-17 05:57:42",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 18,
+    "success_count": 15,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -349,16 +349,6 @@
             ]
           },
           {
-            "title_en": "How Lobbying Matters",
-            "title_zh": "游说如何起作用",
-            "url": "https://doi.org/10.1146/annurev-polisci-033123-124920",
-            "abstract_en": "For decades, political scientists have struggled to provide empirical evidence that lobbying influences policymaking. A considerable gap arose between widespread public suspicions of lobbying and the literature's findings, which failed to document systematic lobbying influence in politics. This gap has closed within the last decade. Causal inference strategies, high-quality data sets, and attention to lobbying in multiple venues have allowed researchers to document the ways in which lobbying matters. In this review, we summarize three ways lobbying has an effect, as documented in this new literature. First, in line with public suspicions, lobbyists have transactional relationships with public officials in which they exchange money for political access and influence. Second, lobbyists persuade public officials by providing information that changes the positions taken by policymakers. Third, successful mobilization of citizen support or lobbying coalitions helps lobbyists attain policy aims. Jointly, these influence pathways nuance our view of lobbying as both harmful and beneficial for democratic representation.",
-            "abstract_zh": "数十年来，政治科学家一直在努力提供游说影响政策制定的实证证据。公众对游说的普遍怀疑与文献发现之间存在相当大的差距，后者未能记录游说在政治中系统性的影响。在过去十年中，这一差距已经缩小。因果推断策略、高质量的数据集以及对多个场合游说的注意，使研究人员能够记录游说的重要性。在这篇综述中，我们总结了新文献中记录的游说产生影响的三种方式。首先，与公众怀疑一致，游说者与公职人员有交易性关系，他们用金钱换取政治接触和影响力。其次，游说者通过提供信息说服公职人员，这些信息改变了政策制定者的立场。第三，成功动员公民支持或游说联盟有助于游说者实现政策目标。这些影响途径共同细化了我们对游说的看法，认为游说对民主代表性既有害处也有好处。",
-            "matched_topics": [
-              "公共政策"
-            ]
-          },
-          {
             "title_en": "Rural Politics in the United States",
             "title_zh": "美国农村政治",
             "url": "https://doi.org/10.1146/annurev-polisci-040623-114017",
@@ -366,6 +356,16 @@
             "abstract_zh": "近期，美国政治学者开始关注农村政治，旨在理解20世纪末至21世纪初白人农村选民向共和党的全国性转变以及随之而来的城乡政治分歧。我们回顾了评估基于地方的极化上升潜在原因的研究，包括政治经济转型、种族主义、民族中心主义以及社会问题日益显著。我们还考虑了其后果，如社会极化程度的增加和对民主制度的威胁。迄今为止的大多数研究都集中在个体上，无论是为了明确农村身份及其相关性，还是为了探究公众舆论和政治行为。我们建议学者们扩大他们的研究范围，包括中观和宏观层面的因素，通过研究地方与制度、公共政策和组织之间的相互作用，以及更广泛的政治、经济和社会发展趋势。这将需要关注随时间的变化。我们建议学者们不要将这一研究领域划分为农村研究，而是参与到关于美国民主运作的广泛问题中去。",
             "matched_topics": [
               "城市治理"
+            ]
+          },
+          {
+            "title_en": "How Lobbying Matters",
+            "title_zh": "游说如何起作用",
+            "url": "https://doi.org/10.1146/annurev-polisci-033123-124920",
+            "abstract_en": "For decades, political scientists have struggled to provide empirical evidence that lobbying influences policymaking. A considerable gap arose between widespread public suspicions of lobbying and the literature's findings, which failed to document systematic lobbying influence in politics. This gap has closed within the last decade. Causal inference strategies, high-quality data sets, and attention to lobbying in multiple venues have allowed researchers to document the ways in which lobbying matters. In this review, we summarize three ways lobbying has an effect, as documented in this new literature. First, in line with public suspicions, lobbyists have transactional relationships with public officials in which they exchange money for political access and influence. Second, lobbyists persuade public officials by providing information that changes the positions taken by policymakers. Third, successful mobilization of citizen support or lobbying coalitions helps lobbyists attain policy aims. Jointly, these influence pathways nuance our view of lobbying as both harmful and beneficial for democratic representation.",
+            "abstract_zh": "数十年来，政治科学家一直在努力提供游说影响政策制定的实证证据。公众对游说的普遍怀疑与文献发现之间存在相当大的差距，后者未能记录游说在政治中系统性的影响。在过去十年中，这一差距已经缩小。因果推断策略、高质量的数据集以及对多个场合游说的注意，使研究人员能够记录游说的重要性。在这篇综述中，我们总结了新文献中记录的游说产生影响的三种方式。首先，与公众怀疑一致，游说者与公职人员有交易性关系，他们用金钱换取政治接触和影响力。其次，游说者通过提供信息说服公职人员，这些信息改变了政策制定者的立场。第三，成功动员公民支持或游说联盟有助于游说者实现政策目标。这些影响途径共同细化了我们对游说的看法，认为游说对民主代表性既有害处也有好处。",
+            "matched_topics": [
+              "公共政策"
             ]
           },
           {
@@ -646,9 +646,19 @@
         "resolved_name": "Population Space and Place",
         "issue_title": "Volume 32, Issue 4",
         "issue_url": "https://onlinelibrary.wiley.com/journal/15448452",
-        "matched_count": 5,
-        "total_in_issue": 7,
+        "matched_count": 12,
+        "total_in_issue": 16,
         "papers": [
+          {
+            "title_en": "Spatial Jensen–Shannon Divergence: A Local, Multiscalar Measure of Multigroup Compositional Dissimilarity",
+            "title_zh": "空间詹森-香农散度：一种局部的、多尺度的多群体构成差异度量",
+            "url": "https://doi.org/10.1002/psp.70279",
+            "abstract_en": "ABSTRACT This paper develops a spatial formulation of the Jensen–Shannon divergence to measure multigroup compositional dissimilarity between each municipality and its surrounding context. Building on information theory, the index compares local group distributions with neighbourhood‐lagged compositions defined through two distance‐based systems: a Gaussian kernel and a Max–Min sequence of connectivity thresholds. The measure is symmetric, bounded and decomposable into group‐specific contributions, allowing identification of both the magnitude of local divergence and the groups responsible for it. Using data on the 10 largest foreign citizenships across 7887 Italian municipalities in 2024, the analysis reveals that significant local divergence is concentrated in a limited subset of municipalities and exhibits a clear multiscalar structure. South‐Asian and selected North‐African groups consistently account for the highest contributions, while many Eastern‐European groups show patterns of local alignment with surrounding areas. The Gaussian kernel produces smooth spatial gradients, whereas the Max–Min system highlights breakpoints in connectivity and reveals stepwise evolutions in local mismatch. A Monte Carlo spatial randomisation test confirms that the observed patterns deviate systematically from space‐composition independence. Overall, the spatial Jensen–Shannon framework provides a flexible diagnostic tool for identifying enclave‐like configurations and assessing multiscalar socio‐spatial contrasts with potential relevance for integration policies.",
+            "abstract_zh": "摘要 本文发展了一种基于空间的杰森-香农散度公式，用以测量各市镇与其周边环境之间多群体构成差异。该指数基于信息论，将本地群体分布与通过两个基于距离的系统定义的邻域滞后构成进行比较：一个高斯核和一个最大-最小连接阈值序列。该度量是对称的、有界的，并且可以分解为群体特定的贡献，允许识别本地差异的大小及其负责的群体。利用2024年意大利7887个市镇中10个最大外国国籍的数据，分析揭示了显著的本地差异集中在有限的市镇子集中，并表现出清晰的多尺度结构。南亚和选定的北非群体始终贡献最高，而许多东欧群体显示出与周边地区的本地对齐模式。高斯核产生平滑的空间梯度，而最大-最小系统突出了连接的断点，并揭示了本地不匹配的逐步演变。蒙特卡洛空间随机化测试证实，观察到的模式系统地偏离了空间-构成独立性。总体而言，空间杰森-香农框架提供了一个灵活的诊断工具，用于识别类似飞地的配置，并评估可能与融合政策相关的多尺度社会空间对比。",
+            "matched_topics": [
+              "城市治理"
+            ]
+          },
           {
             "title_en": "Parental Co‐Residence and the Transition to Homeownership Among Young Adults in the UK",
             "title_zh": "标题：父母同住与英国年轻成年人向购房过渡的关系",
@@ -671,6 +681,39 @@
             ]
           },
           {
+            "title_en": "Exploring Excess Migration in Nordic Rural Municipalities: Pre‐Pandemic Trajectories and Pandemic‐Era Disruption",
+            "title_zh": "探索北欧农村地区的过度移民：疫情前轨迹与疫情期间的中断",
+            "url": "https://doi.org/10.1002/psp.70274",
+            "abstract_en": "ABSTRACT Renewed interest in rural areas during the COVID‐19 pandemic generated a sense of optimism concerning the fate of declining rural areas, with the notion of a ‘rural revival’ evident in both popular and academic discourse. While many studies have explored urban–rural migration during the pandemic, few have done so from the specific perspective of declining rural areas. This paper responds to this gap, combining analysis of pre‐pandemic population development trends with an exploration of pandemic‐era internal migration patterns in Nordic rural areas. The paper uses sequence analysis to identify the most typical population development trajectories of Nordic rural municipalities in the two decades preceding the pandemic. Following this, a measure of ‘excess migration’ is used to explore which types of rural municipalities were the most likely to experience higher‐than‐expected inflows of internal migrants following the onset of the pandemic. The analysis highlights considerable diversity in the population development trajectories of Nordic rural municipalities—while population decline was the most common experience, it was by no means the only one, with many rural populations stable, and even growing. Further, the paper finds that, while most rural municipalities experienced higher‐than‐expected inflows in the pandemic era, the greatest deviations from expectations were evident in municipalities with the least favourable pre‐pandemic population development trajectories. Further monitoring of migrant flows, along with more detailed analysis of flows among different groups, will be important next steps in clarifying the extent to which these short‐term disruptions have any longer‐term bearing on demographic decline in Nordic rural areas.",
+            "abstract_zh": "摘要：在COVID-19大流行期间，对农村地区的重新关注产生了对衰落农村地区命运的乐观情绪，\"农村复兴\"的概念在流行和学术话语中都很明显。尽管许多研究探讨了大流行期间的城乡迁移，但很少有研究从衰落农村地区的特定视角进行探讨。本文旨在填补这一空白，结合对大流行前人口发展趋势的分析，探索北欧农村地区大流行时期的内部迁移模式。本文使用序列分析来识别北欧农村市镇在大流行前二十年中最典型的人口发展轨迹。随后，使用“超额迁移”的度量来探讨哪些类型的农村市镇最有可能在大流行开始后经历高于预期的内部移民流入。分析突出了北欧农村市镇人口发展轨迹的显著多样性——尽管人口下降是最常见的经历，但绝非唯一，许多农村人口稳定甚至增长。此外，本文发现，尽管大多数农村市镇在大流行时期经历了高于预期的流入，但与预期的最大偏差出现在大流行前人口发展轨迹最不利的市镇。进一步监测移民流动，以及对不同群体间流动进行更详细的分析，将是澄清这些短期中断对北欧农村地区人口下降的长期影响程度的重要下一步。",
+            "matched_topics": [
+              "房地产",
+              "城市治理"
+            ]
+          },
+          {
+            "title_en": "Health Shocks and the Spatial Dynamics of Intergenerational Proximity in South Korea: Evidence From 2006 to 2022",
+            "title_zh": "韩国健康冲击与代际邻近的空间动态：2006至2022年的证据",
+            "url": "https://doi.org/10.1002/psp.70284",
+            "abstract_en": "ABSTRACT Adult children's geographic proximity to aging parents is a fundamental component of the spatial opportunity structure for intergenerational solidarity. Using nine waves of the Korean Longitudinal Study of Ageing (2006–2022), this study employs a dynamic panel event study design to investigate the spatiotemporal dynamics of family relocation following a parent's first diagnosis of chronic illness. We analyze how distinct care trajectories of cancer, cerebrovascular disease, and cardiovascular disease, alongside the gender of adult children, shape these spatial adjustments. The results indicate that health shocks serve as a driver for spatial convergence, suggesting that formal care through the universal Long‐Term Care Insurance (LTCI) complements rather than crowds out family support. However, relocation patterns exhibit significant heterogeneity by disease type. Acute circulatory conditions (cerebrovascular and cardiovascular diseases) prompt an immediate but short‐term spatial response, whereas cancer leads to a delayed and sustained restructuring process. Furthermore, we find a shifting ‘geography of care’ in Korea: contrary to traditional male‐centered norms, daughters have emerged as the primary agents of sustained spatial support. These findings highlight the spatial labor families undertake to compensate for the lack of formal support within the modern welfare system.",
+            "abstract_zh": "摘要：成年子女与年迈父母之间的地理邻近性是代际团结空间机会结构的一个基本组成部分。本研究利用韩国纵向老龄化研究（2006-2022年）的九个波次数据，采用动态面板事件研究设计，探讨了父母首次被诊断出慢性病后家庭搬迁的时空动态。我们分析了癌症、脑血管疾病和心血管疾病的不同护理轨迹，以及成年子女的性别如何塑造这些空间调整。结果表明，健康冲击是空间收敛的驱动力，表明通过普遍的长期护理保险（LTCI）提供的正式护理补充而非挤出家庭支持。然而，搬迁模式在疾病类型上表现出显著的异质性。急性循环状况（脑血管疾病和心血管疾病）促使立即但短期的空间响应，而癌症则导致延迟和持续的结构重组过程。此外，我们发现韩国的“护理地理”正在发生变化：与男性中心的传统规范相反，女儿已成为持续空间支持的主要行动者。这些发现突出了家庭为弥补现代福利体系中缺乏正式支持而承担的空间劳动。",
+            "matched_topics": [
+              "房地产",
+              "城市治理"
+            ]
+          },
+          {
+            "title_en": "Mobile and Disappearing Migrant Geographies: Reflections on Makeshift Camp Fragments and Methodologies",
+            "title_zh": "流动与消失的移民地理：对临时营地碎片与方法论的反思",
+            "url": "https://doi.org/10.1002/psp.70278",
+            "abstract_en": "ABSTRACT Along clandestine journeys, migrants occupy a whole variety of temporary and informal dwellings or ‘makeshift camps’, where they may rest, wait, gather resources and make further attempts at crossing the borders and reaching destinations. Makeshift camps have proliferated across cities and border‐zones around Europe, becoming widely recognised as crucial geographies of contemporary migration, as nodes for migrant strategy and mobilities, solidarities and smuggling, temporary social and political orderings as well as all kinds of violence to which residents are exposed. Yet these spaces are also understood as inherently fleeting and mobile, characterised by constant police evictions and destruction, the abandonment or departure of their residents, the relocation and vanishing of structures formerly occupied – all of which make them difficult to study. Drawing upon extensive multi‐sited ethnographic research across a variety of makeshift camps (past and present) in the border city of Bihać, Bosnia‐Herzegovina, this paper considers methodological questions of how to examine migrants' informal dwellings en route whose upheaval and ephemerality has emerged, not as an aberration, but as a constant thread over the last several years. Within a context of acute transience, shape‐shifting and disappearance, this paper offers methodological reflections on rendering visible the fleeting and subversive geographies of makeshift camps while maintaining a steadfast commitment to not expose the strategies and hiding places of residents in ways that would compromise their safety, privacy or success along their clandestine journeys.",
+            "abstract_zh": "摘要：在秘密旅途中，移民占据了各种临时和非正式的住所或“临时营地”，他们可以在那里休息、等待、收集资源，并进一步尝试穿越边境和到达目的地。临时营地在欧洲的城市和边境地区大量涌现，被广泛认为是当代移民的关键地理区域，是移民策略和流动、团结和走私、临时社会和政治秩序以及居民所面临的各种暴力的节点。然而，这些空间也被认为是本质上短暂和流动的，特点是不断的警察驱逐和破坏、居民的遗弃或离开、结构的搬迁和消失——所有这些都使得它们难以研究。本文基于在波斯尼亚-黑塞哥维那边境城市比哈奇的各种临时营地（过去和现在）进行的广泛的多地点民族志研究，考虑了如何研究移民在途中的非正式住所的方法论问题，这些住所的动荡和短暂性在过去几年中并非异常，而是作为一种持续的线索出现。在极度短暂、变化和消失的背景下，本文提供了方法论反思，即如何在不以危及居民安全、隐私或成功的方式暴露居民的策略和藏身之处的同时，使临时营地的短暂和颠覆性地理变得可见。",
+            "matched_topics": [
+              "房地产",
+              "城市治理"
+            ]
+          },
+          {
             "title_en": "Does Digital Infrastructure Facilitate Rural‐to‐Urban Migration? Evidence From China",
             "title_zh": "数字基础设施是否促进了农村到城市的迁移？来自中国的证据",
             "url": "https://doi.org/10.1002/psp.70270",
@@ -682,12 +725,43 @@
             ]
           },
           {
+            "title_en": "Editorial Introduction to Special Issue on Fertility in the Context of Forced Migration, Ethnic Marginalisation and Recent Crises",
+            "title_zh": "特刊编辑引言：在被迫迁移、族群边缘化和近期危机背景下的生育问题",
+            "url": "https://doi.org/10.1002/psp.70249",
+            "abstract_en": "Abstract This paper is the editorial introduction to the Special Issue on “Fertility in the context of forced migration, ethnic marginalisation and recent crises.” The Special Issue contains six empirical papers that examine fertility behaviour and intentions in migrant and ethnic minority groups across European countries. The aim of bringing these papers together is to draw attention to similarities between different types of marginalised groups and their demographic responses to crises and disruptive events. The paper collection opens with two papers on international migrants and their fertility behaviours during the migration process and after arrival in European destination countries, with a focus on refugees. A second pair of papers focuses on fertility preferences among international migrants in specific vulnerable situations, namely uncertainty after war and in situations of economic and geopolitical instability. Finally, a third set of articles examines ethnic minority groups in two major countries bordering the European Union, exploring how their fertility outcomes relate to various external factors. In both contexts, minority status and ethnic marginalisation are intensified because these groups face particularly vulnerable situations due to external crises or political measures. This editorial introduction provides an overview of the similarities and differences between migrant and autochthonous ethnic minority groups in Europe, summarises the empirical and theoretical contributions of the Special Issue and concludes with implications and suggestions for future research.",
+            "abstract_zh": "摘要 本文是关于“在被迫迁移、民族边缘化和近期危机背景下的生育问题”特刊的编辑引言。特刊包含六篇实证论文，这些论文考察了欧洲各国移民和少数民族群体的生育行为和意愿。将这些论文汇集在一起的目的是强调不同类型边缘化群体之间的相似性，以及他们对危机和破坏性事件的人口学反应。论文集首先包括两篇关于国际移民及其在迁移过程中和到达欧洲目的地国家后的生育行为的论文，重点关注难民。第二对论文关注特定弱势情况下国际移民的生育偏好，即战后不确定性以及经济和地缘政治不稳定的情况。最后，第三组文章考察了与欧盟接壤的两个主要国家的少数民族群体，探讨他们的生育结果如何与各种外部因素相关。在这两种情况下，由于这些群体因外部危机或政治措施而面临特别脆弱的情况，少数民族地位和民族边缘化被加剧。这篇编辑引言提供了欧洲移民和土著少数民族群体之间的相似性和差异性的概述，总结了特刊的实证和理论贡献，并以对未来研究的影响和建议作为结论。",
+            "matched_topics": [
+              "房地产"
+            ]
+          },
+          {
+            "title_en": "Who Moves and Where Do They Go? Generational Differences in Urban‐to‐Rural Migration in South Korea",
+            "title_zh": "谁在迁移，他们去了哪里？韩国城乡迁移中的代际差异",
+            "url": "https://doi.org/10.1002/psp.70269",
+            "abstract_en": "ABSTRACT Research on counterurbanization has often emphasized macrolevel structural changes, such as urban expansion and population redistribution, while overlooking the selective nature of migration in relation to individuals' life‐course transitions. Yet, migration between urban and rural areas constitutes a key spatial process mediating major life changes. Drawing on a life‐course perspective, this study examines generational differences in migration determinants and spatial preferences among young and older migrants who relocated from Seoul, South Korea, to rural areas. At the individual level, binary logistic regression identifies factors associated with migration; at the regional level, rural typologies—Creative–Innovation Area, Eco‐Welfare Rural Residential Area, and Remote Agricultural‐Based Area—derived through fuzzy clustering (Fuzzy C‐Means) are incorporated into a multilevel logistic model. The results show that young adults' rural migration is closely associated with life‐course transitions related to family formation and employment conditions, with particularly high mobility observed among non‐employed and career‐interrupted women. In contrast, older adults' migration reflects active‐aging motivations, particularly retirement timing and health status. Regionally, Creative–Innovation Areas attract younger migrants, while Eco‐Welfare and Remote Agricultural‐Based Areas appeal to older migrants. These findings demonstrate that rural areas function as multilayered socio‐spatial arenas that mediate generational life transitions.",
+            "abstract_zh": "摘要：关于逆城市化的研究常常强调宏观层面的结构变化，如城市扩张和人口再分布，而忽视了与个体生活过程转换相关的迁移选择性。然而，城乡之间的迁移构成了调节重大生活变化的关键空间过程。本研究从生命历程的视角出发，考察了从韩国首尔迁移到农村地区的年轻和老年移民在迁移决定因素和空间偏好上的代际差异。在个体层面，二元逻辑回归识别了与迁移相关的因素；在区域层面，通过模糊聚类（Fuzzy C-Means）得出的农村类型——创意-创新区、生态-福利型农村居住区和偏远农业型区域——被纳入多级逻辑模型。结果显示，年轻人的农村迁移与家庭形成和就业条件相关的生活过程转换密切相关，特别是未就业和职业中断的女性流动性特别高。相比之下，老年人的迁移反映了积极老龄化的动机，尤其是退休时间和健康状况。在区域上，创意-创新区吸引年轻移民，而生态-福利和偏远农业型区域则吸引老年移民。这些发现表明，农村地区作为多层次的社会空间场所，调节着代际生活转换。",
+            "matched_topics": [
+              "城市治理"
+            ]
+          },
+          {
             "title_en": "Chineseness and Affective Spatialities: New Chinese Migrants' (Dis)Orienting Experiences of Chinese Voluntary Associations in Singapore",
             "title_zh": "中国性与情感空间性：新加坡新中国移民在中国志愿组织中的（失）定位体验",
             "url": "https://doi.org/10.1002/psp.70273",
             "abstract_en": "ABSTRACT This paper explores how new Chinese migrants negotiate Chineseness through their engagement with Chinese voluntary associations (CVAs) in host societies. Drawing on ethnographic fieldwork with new migrants involved in CVAs in Singapore, I conceptualize CVAs as affective spaces that generate (dis)orienting effects, shaping new migrants' negotiation of Chineseness in a context of ‘togetherness‐in‐difference’. Specifically, CVAs function as ‘convivial spaces’ where new migrants rely on a primordial form of Chineseness to gain familiarity, connectivity, and a sense of orientation in a new settlement. At the same time, CVAs serve as contact zones infused with disorienting encounters with local Singaporean Chinese, producing variegated understandings of Chineseness. By highlighting the affective spatialities of CVAs, this paper advances a geographical approach to understanding Chineseness and contributes to the existing literature on migrant (dis)orientation.",
             "abstract_zh": "摘要 本文探讨了新移民如何通过参与东道国的华人志愿组织（CVAs）来协商华人身份。基于对新加坡参与CVAs的新移民的民族志田野调查，我将CVAs概念化为产生（失）导向效应的情感空间，塑造了新移民在“差异中的共同性”背景下对华人身份的协商。具体来说，CVAs作为“友好空间”，新移民依赖于一种原始的华人身份，以获得熟悉感、连通性和在新定居地的定位感。同时，CVAs作为充满失导向遭遇的接触区，与当地新加坡华人的互动产生了对华人身份的多样化理解。通过强调CVAs的情感空间性，本文推进了理解华人身份的地理学方法，并为现有关于移民（失）导向的文献做出了贡献。",
             "matched_topics": [
+              "城市治理"
+            ]
+          },
+          {
+            "title_en": "Spatially Contingent Contact: How Geographical Distance and Borders Shape Grandparent‐Grandchild Communication in Poland",
+            "title_zh": "空间性接触：地理距离和边界如何塑造波兰祖孙沟通",
+            "url": "https://doi.org/10.1002/psp.70275",
+            "abstract_en": "ABSTRACT The geographies of modern families are increasingly stretched by migration and mobility, raising crucial questions for population geography about the maintenance of intergenerational bonds. This study investigates the frequency of social contact between Polish grandparents and their grandchildren (both minor and adult), explicitly analyzing how these dynamics are contingent upon spatial context. Drawing on a 2019–2020 survey of grandparents ( N = 1,000) and integrating insights from social presence and media niche theories, we employ ordered logit regression to compare face‐to‐face and ICT‐mediated contact across three distinct spatial categories of grandchildren: local (within 25 km), domestically distant (elsewhere in Poland), and transnational (abroad). Findings reveal that geographical distance and the presence of national borders fundamentally shape contact patterns. Results support a mixed, context‐dependent model: remote communication serves a compensatory function for transnational grandchildren, substituting for a lack of physical co‐presence. Conversely, it provides a cumulative function for local grandchildren, supplementing frequent in‐person contact. Domestically distant grandchildren represent an intermediary group. This research contributes to spatial demography by demonstrating how technology and geography intersect to reshape intergenerational solidarity within an ageing population context marked by high rates of mobility and migration.",
+            "abstract_zh": "摘要：现代家庭的地理分布因迁移和流动性而日益扩展，这对人口地理学提出了关于维持代际联系的重要问题。本研究调查了波兰祖父母与孙辈（包括未成年人和成年人）之间的社会接触频率，并明确分析了这些动态如何依赖于空间背景。基于2019-2020年对1000名祖父母的调查，并整合了社会存在和媒体生态位理论的见解，我们采用有序逻辑回归比较了三类不同空间类别孙辈的面对面和信息通信技术（ICT）中介接触：本地（25公里以内）、国内远距离（波兰其他地区）和跨国（国外）。研究结果揭示了地理距离和国界的存在根本上塑造了接触模式。结果支持了一个混合的、依赖于上下文的模型：远程通信为跨国孙辈提供了补偿功能，替代了缺乏身体共存的情况。相反，它为本地孙辈提供了累积功能，补充了频繁的面对面接触。国内远距离孙辈代表了中间群体。这项研究通过展示技术和地理如何交叉重塑老龄化背景下高流动性和迁移率的代际团结，为空间人口统计学做出了贡献。",
+            "matched_topics": [
+              "房地产",
               "城市治理"
             ]
           },
@@ -784,7 +858,7 @@
             "title_zh": "精简治理：如何通过“一事一议”倡议减轻城市行政负担并优化监管环境",
             "url": "https://doi.org/10.1177/00208523251381187",
             "abstract_en": "Administrative burden has emerged as a critical lens for understanding the unintended consequences of public service delivery and regulatory practices. While the concept has been extensively applied to analyze citizen–state interactions, less attention has been paid to how administrative burden affects private actors. This study addresses this gap by extending administrative burden theory to the domain of public–private partnerships, with a focus on how “one matter initiatives” in developing countries can alleviate regulatory barriers. Drawing on firm-level data from the World Bank Enterprise Survey, we examine whether and how streamlining governance reduces administrative burden and improves the regulatory climate. The empirical results show that streamlining governance significantly reduces administrative burden and enhances the regulatory climate. These effects are more pronounced for small and medium-sized enterprises, underscoring the reform's distributional impact. Mediation analysis shows that administrative burden serves as a key mechanism through which reform initiatives influence business perceptions of government performance. The findings highlight the relevance of administrative burden theory in non-Western governance contexts and demonstrate the value of incorporating business perspectives into public administration research. By offering empirical evidence from China’s “One Matter Initiative”, this study contributes to a more global and nuanced understanding of how streamlining governance can foster a more enabling environment for enterprise development. Points for practitioners This study highlights that streamlining administrative procedures through initiatives like China’s “One Matter Initiative” significantly reduces administrative burden. For practitioners, the findings suggest that procedural simplification can effectively improve public–private partnerships, particularly in non-Western governance systems. Focusing on service coordination and reducing transaction friction is key to responsive and business-oriented public administration. Megacity Governance in China shows how reform-driven streamlining governance can reshape regulatory practices. The “One Matter Initiative” demonstrates that reducing administrative burden is not only a technical efficiency but also a strategic step toward building good city governance. For practitioners, the key lesson is that coordinated service delivery and burden reduction carry broader significance: they reinforce city governance capacity and offer a replicable model for reform in other contexts.",
-            "abstract_zh": "行政负担已成为理解公共服务交付和监管实践意外后果的关键视角。尽管这一概念已广泛应用于分析公民与国家之间的互动，但对于行政负担如何影响私人行为者的关注较少。本研究通过将行政负担理论扩展到公私合作伙伴关系领域，填补了这一空白，重点关注发展中国家的“一事一议”倡议如何减轻监管障碍。利用世界银行企业调查的公司层面数据，我们检验了简化治理是否以及如何减少行政负担并改善监管环境。实证结果表明，简化治理显著减少了行政负担并增强了监管环境。这些效应在中小企业中更为明显，突显了改革的分配影响。中介分析显示，行政负担是改革举措影响企业对政府绩效感知的关键机制。研究结果强调了行政负担理论在非西方治理环境中的相关性，并证明了将商业视角纳入公共行政研究的价值。本研究通过提供中国“一事一议”倡议的实证证据，为理解简化治理如何促进企业更有利发展环境提供了更全球性和细致的理解。实践者要点：本研究强调，通过中国“一事一议”等倡议简化行政程序显著减少了行政负担。对于实践者来说，研究结果表明，程序简化可以有效改善公私合作伙伴关系，特别是在非西方治理体系中。专注于服务协调和减少交易摩擦是响应迅速且以业务为导向的公共行政的关键。中国的超大城市治理展示了改革驱动的简化治理如何重塑监管实践。“一事一议”倡议表明，减少行政负担不仅是技术效率问题，也是建设良好城市治理的战略步骤。对于实践者来说，关键教训是协调服务交付和负担减轻具有更广泛的意义：...",
+            "abstract_zh": "行政负担已成为理解公共服务交付和监管实践意外后果的关键视角。尽管这一概念已广泛应用于分析公民与国家之间的互动，但对于行政负担如何影响私人行为者的关注较少。本研究通过将行政负担理论扩展到公私合作伙伴关系的领域，填补了这一空白，重点关注发展中国家的“一事一议”倡议如何减轻监管障碍。利用世界银行企业调查的公司层面数据，我们检验了简化治理是否以及如何减少行政负担并改善监管环境。实证结果表明，简化治理显著减少了行政负担并增强了监管环境。这些效应在中小企业中更为明显，突显了改革的分配影响。中介分析显示，行政负担是改革举措影响企业对政府绩效感知的关键机制。研究结果强调了行政负担理论在非西方治理环境中的相关性，并证明了将商业视角纳入公共行政研究的价值。通过提供中国“一事一议”倡议的实证证据，本研究有助于更全面、细致地理解简化治理如何促进企业发展的更有利环境。实践者要点：本研究强调，通过中国“一事一议”等倡议简化行政程序显著减少了行政负担。对于实践者来说，研究结果表明，程序简化可以有效改善公私合作伙伴关系，特别是在非西方治理体系中。专注于服务协调和减少交易摩擦是响应迅速、以业务为导向的公共行政的关键。中国的超大城市治理展示了改革驱动的简化治理如何重塑监管实践。“一事一议”倡议表明，减少行政负担不仅是技术效率问题，也是建设良好城市治理的战略步骤。对于实践者来说，关键教训是协调服务交付和负担减轻具有更广泛的意义：...",
             "matched_topics": [
               "城市治理",
               "公共政策"
