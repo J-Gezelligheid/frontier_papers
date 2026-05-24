@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-17 05:57:42",
+  "updated_at": "2026-05-24 06:11:12",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 15,
+    "success_count": 7,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -647,7 +647,7 @@
         "issue_title": "Volume 32, Issue 4",
         "issue_url": "https://onlinelibrary.wiley.com/journal/15448452",
         "matched_count": 12,
-        "total_in_issue": 16,
+        "total_in_issue": 15,
         "papers": [
           {
             "title_en": "Spatial Jensen–Shannon Divergence: A Local, Multiscalar Measure of Multigroup Compositional Dissimilarity",
@@ -689,6 +689,16 @@
             "matched_topics": [
               "房地产",
               "城市治理"
+            ]
+          },
+          {
+            "title_en": "The Intergenerational Effects of Pension Receipt on Labour Mobility: Evidence From Rural China",
+            "title_zh": "养老金领取对劳动流动性的代际效应：来自中国农村的证据",
+            "url": "https://doi.org/10.1002/psp.70289",
+            "abstract_en": "ABSTRACT China's ageing rural population presents a significant challenge to the country's development. This article uses data from the 2013, 2015 and 2018 China Health and Retirement Longitudinal Study to examine how pension receipt of the elderly parents in rural China affects the labour mobility of their adult children. The estimation results from a fuzzy regression discontinuity design indicate that the pension receipt increases the labour mobility of adult children. The effects are more pronounced when the elderly parents have better health, have more living children and are both alive. Mechanism analysis indicates that pension receipt reduces regular financial transfers from adult children, but does not affect grandparental childcare for the adult children. This article reveals how a public pension programme affects the labour mobility of the younger generation and offers valuable insights for other developing countries facing similar challenges with an ageing population.",
+            "abstract_zh": "摘要：中国农村人口老龄化对国家发展构成重大挑战。本文利用2013年、2015年和2018年中国健康与养老追踪调查数据，考察农村老年父母领取养老金对其成年子女劳动力流动性的影响。基于模糊回归不连续设计估计结果表明，领取养老金提高了成年子女的劳动力流动性。当老年父母健康状况更好、子女更多且均健在时，这种影响更为明显。机制分析表明，领取养老金减少了成年子女的定期经济转移，但不影响对成年子女的孙辈照料。本文揭示了公共养老金计划如何影响年轻一代的劳动力流动性，为其他面临类似老龄化挑战的发展中国家提供了宝贵的洞见。",
+            "matched_topics": [
+              "房地产"
             ]
           },
           {
@@ -735,42 +745,33 @@
             ]
           },
           {
+            "title_en": "Growing Older Across Time and Space: The Impact of Various Forms of Capital on Social Support Networks Among Older Vietnamese Migrants",
+            "title_zh": "跨越时空的老年生活：不同形式资本对老年越南移民社会支持网络的影响",
+            "url": "https://doi.org/10.1002/psp.70285",
+            "abstract_en": "ABSTRACT Much has been written about the important role of social support networks (SSNs) for the well‐being of older adults, encompassing their social, emotional and practical needs. Less is known about what happens to the SSNs of older people when they migrate, and even fewer studies have examined the impact of different forms of capital on these networks. Drawing on ethnographic interviews and participant observation with 22 older Vietnamese migrants in Australia (2020–21), this paper explores the influence of different forms of social, cultural, economic and symbolic capital on their SSNs. Data analysis comprised egocentric social network analysis of the connections between older migrants (egos), members of their SSNs (nodes) and their social ties (edges), alongside thematic analysis of their lived experiences using NVivo 12 systematic coding. Findings reveal close connections between various forms of capital and the creation, maintenance and disruption of four types of SSNs: local (physical proximate), distant (geographically distant), local virtual (geographically close but online) and distant virtual (geographically distant and online). The conclusion highlights the importance of developing policies that consider the interconnections between different forms of capital and types of SSNs to deepen our understanding of ‘ageing in place’ and ‘ageing in networks’.",
+            "abstract_zh": "摘要 关于社会支持网络（SSNs）对老年人福祉的重要性，包括其社会、情感和实际需求，已有大量文献论述。然而，对于老年人迁移时其SSNs会发生什么变化，以及不同形式资本对这些网络的影响，我们知之甚少。本文基于对澳大利亚22位越南老年移民的民族志访谈和参与观察（2020-21年），探讨了不同形式的社会、文化、经济和象征资本对其SSNs的影响。数据分析包括对老年移民（自我）与其SSNs成员（节点）及其社会联系（边）之间的联系进行的自我中心社会网络分析，以及使用NVivo 12系统编码对她们的生活经历进行的主题分析。研究结果揭示了不同形式资本与四种SSNs的创建、维护和中断之间的密切联系：本地（物理接近）、远距离（地理上遥远）、本地虚拟（地理上接近但在线）和远距离虚拟（地理上遥远且在线）。结论强调了制定政策的重要性，这些政策需要考虑不同形式资本和SSNs类型之间的相互联系，以深化我们对“在地老化”和“在网络中老化”的理解。",
+            "matched_topics": [
+              "房地产"
+            ]
+          },
+          {
+            "title_en": "Talent Migration Across China's Urban Hierarchy: Spatial Pattern and the Effect of Housing Pressure",
+            "title_zh": "中国城市层级间的人才流动：空间模式与住房压力效应",
+            "url": "https://doi.org/10.1002/psp.70287",
+            "abstract_en": "ABSTRACT Talent migration across urban hierarchy has emerged as a critical policy concern in China and the world. Based on the China Migrants Dynamic Survey (2017–2018), this study investigates the spatial patterns of talent migration across urban hierarchy and examines the effect of housing pressure on cross‐hierarchical mobility. The results show that talent migration exhibits an upward pattern across the urban hierarchy, with skilled workers moving towards higher‐tier cities. Migration flows are concentrated within urban agglomeration areas and are largely intra‐provincial, with a tendency to converge on provincial capitals and regional centre cities. Third, housing pressure exerts an inverted U‐shaped effect on cross‐hierarchical talent migration, indicating that moderate housing costs stimulate upward mobility while excessive pressure suppresses it. Moreover, highly educated and skilled migrants are disproportionately sensitive to housing pressure, reflecting their stronger propensity to pursue homeownership. These findings suggest the need for regionally differentiated policies that simultaneously address housing affordability and invest in human capital to facilitate talent mobility.",
+            "abstract_zh": "摘要：城市层级间的人才迁移已成为中国和全球的关键政策问题。基于中国流动人口动态调查（2017-2018年），本研究探讨了城市层级间人才迁移的空间模式，并检验了住房压力对跨层级流动性的影响。结果显示，人才迁移在城市层级中呈现出向上流动的模式，技能劳动者向更高等级城市流动。迁移流集中在城市群区域，主要是省内流动，趋向于汇聚在省会城市和区域中心城市。第三，住房压力对跨层级人才迁移产生倒U形效应，表明适度的住房成本刺激向上流动，而过度压力则抑制流动。此外，受过高等教育和技能培训的移民对住房压力更为敏感，反映了他们追求购房的更强倾向。这些发现表明，需要制定区域差异化政策，同时解决住房负担能力和投资于人力资本，以促进人才流动。",
+            "matched_topics": [
+              "房地产",
+              "城市治理",
+              "公共政策"
+            ]
+          },
+          {
             "title_en": "Who Moves and Where Do They Go? Generational Differences in Urban‐to‐Rural Migration in South Korea",
             "title_zh": "谁在迁移，他们去了哪里？韩国城乡迁移中的代际差异",
             "url": "https://doi.org/10.1002/psp.70269",
             "abstract_en": "ABSTRACT Research on counterurbanization has often emphasized macrolevel structural changes, such as urban expansion and population redistribution, while overlooking the selective nature of migration in relation to individuals' life‐course transitions. Yet, migration between urban and rural areas constitutes a key spatial process mediating major life changes. Drawing on a life‐course perspective, this study examines generational differences in migration determinants and spatial preferences among young and older migrants who relocated from Seoul, South Korea, to rural areas. At the individual level, binary logistic regression identifies factors associated with migration; at the regional level, rural typologies—Creative–Innovation Area, Eco‐Welfare Rural Residential Area, and Remote Agricultural‐Based Area—derived through fuzzy clustering (Fuzzy C‐Means) are incorporated into a multilevel logistic model. The results show that young adults' rural migration is closely associated with life‐course transitions related to family formation and employment conditions, with particularly high mobility observed among non‐employed and career‐interrupted women. In contrast, older adults' migration reflects active‐aging motivations, particularly retirement timing and health status. Regionally, Creative–Innovation Areas attract younger migrants, while Eco‐Welfare and Remote Agricultural‐Based Areas appeal to older migrants. These findings demonstrate that rural areas function as multilayered socio‐spatial arenas that mediate generational life transitions.",
             "abstract_zh": "摘要：关于逆城市化的研究常常强调宏观层面的结构变化，如城市扩张和人口再分布，而忽视了与个体生活过程转换相关的迁移选择性。然而，城乡之间的迁移构成了调节重大生活变化的关键空间过程。本研究从生命历程的视角出发，考察了从韩国首尔迁移到农村地区的年轻和老年移民在迁移决定因素和空间偏好上的代际差异。在个体层面，二元逻辑回归识别了与迁移相关的因素；在区域层面，通过模糊聚类（Fuzzy C-Means）得出的农村类型——创意-创新区、生态-福利型农村居住区和偏远农业型区域——被纳入多级逻辑模型。结果显示，年轻人的农村迁移与家庭形成和就业条件相关的生活过程转换密切相关，特别是未就业和职业中断的女性流动性特别高。相比之下，老年人的迁移反映了积极老龄化的动机，尤其是退休时间和健康状况。在区域上，创意-创新区吸引年轻移民，而生态-福利和偏远农业型区域则吸引老年移民。这些发现表明，农村地区作为多层次的社会空间场所，调节着代际生活转换。",
-            "matched_topics": [
-              "城市治理"
-            ]
-          },
-          {
-            "title_en": "Chineseness and Affective Spatialities: New Chinese Migrants' (Dis)Orienting Experiences of Chinese Voluntary Associations in Singapore",
-            "title_zh": "中国性与情感空间性：新加坡新中国移民在中国志愿组织中的（失）定位体验",
-            "url": "https://doi.org/10.1002/psp.70273",
-            "abstract_en": "ABSTRACT This paper explores how new Chinese migrants negotiate Chineseness through their engagement with Chinese voluntary associations (CVAs) in host societies. Drawing on ethnographic fieldwork with new migrants involved in CVAs in Singapore, I conceptualize CVAs as affective spaces that generate (dis)orienting effects, shaping new migrants' negotiation of Chineseness in a context of ‘togetherness‐in‐difference’. Specifically, CVAs function as ‘convivial spaces’ where new migrants rely on a primordial form of Chineseness to gain familiarity, connectivity, and a sense of orientation in a new settlement. At the same time, CVAs serve as contact zones infused with disorienting encounters with local Singaporean Chinese, producing variegated understandings of Chineseness. By highlighting the affective spatialities of CVAs, this paper advances a geographical approach to understanding Chineseness and contributes to the existing literature on migrant (dis)orientation.",
-            "abstract_zh": "摘要 本文探讨了新移民如何通过参与东道国的华人志愿组织（CVAs）来协商华人身份。基于对新加坡参与CVAs的新移民的民族志田野调查，我将CVAs概念化为产生（失）导向效应的情感空间，塑造了新移民在“差异中的共同性”背景下对华人身份的协商。具体来说，CVAs作为“友好空间”，新移民依赖于一种原始的华人身份，以获得熟悉感、连通性和在新定居地的定位感。同时，CVAs作为充满失导向遭遇的接触区，与当地新加坡华人的互动产生了对华人身份的多样化理解。通过强调CVAs的情感空间性，本文推进了理解华人身份的地理学方法，并为现有关于移民（失）导向的文献做出了贡献。",
-            "matched_topics": [
-              "城市治理"
-            ]
-          },
-          {
-            "title_en": "Spatially Contingent Contact: How Geographical Distance and Borders Shape Grandparent‐Grandchild Communication in Poland",
-            "title_zh": "空间性接触：地理距离和边界如何塑造波兰祖孙沟通",
-            "url": "https://doi.org/10.1002/psp.70275",
-            "abstract_en": "ABSTRACT The geographies of modern families are increasingly stretched by migration and mobility, raising crucial questions for population geography about the maintenance of intergenerational bonds. This study investigates the frequency of social contact between Polish grandparents and their grandchildren (both minor and adult), explicitly analyzing how these dynamics are contingent upon spatial context. Drawing on a 2019–2020 survey of grandparents ( N = 1,000) and integrating insights from social presence and media niche theories, we employ ordered logit regression to compare face‐to‐face and ICT‐mediated contact across three distinct spatial categories of grandchildren: local (within 25 km), domestically distant (elsewhere in Poland), and transnational (abroad). Findings reveal that geographical distance and the presence of national borders fundamentally shape contact patterns. Results support a mixed, context‐dependent model: remote communication serves a compensatory function for transnational grandchildren, substituting for a lack of physical co‐presence. Conversely, it provides a cumulative function for local grandchildren, supplementing frequent in‐person contact. Domestically distant grandchildren represent an intermediary group. This research contributes to spatial demography by demonstrating how technology and geography intersect to reshape intergenerational solidarity within an ageing population context marked by high rates of mobility and migration.",
-            "abstract_zh": "摘要：现代家庭的地理分布因迁移和流动性而日益扩展，这对人口地理学提出了关于维持代际联系的重要问题。本研究调查了波兰祖父母与孙辈（包括未成年人和成年人）之间的社会接触频率，并明确分析了这些动态如何依赖于空间背景。基于2019-2020年对1000名祖父母的调查，并整合了社会存在和媒体生态位理论的见解，我们采用有序逻辑回归比较了三类不同空间类别孙辈的面对面和信息通信技术（ICT）中介接触：本地（25公里以内）、国内远距离（波兰其他地区）和跨国（国外）。研究结果揭示了地理距离和国界的存在根本上塑造了接触模式。结果支持了一个混合的、依赖于上下文的模型：远程通信为跨国孙辈提供了补偿功能，替代了缺乏身体共存的情况。相反，它为本地孙辈提供了累积功能，补充了频繁的面对面接触。国内远距离孙辈代表了中间群体。这项研究通过展示技术和地理如何交叉重塑老龄化背景下高流动性和迁移率的代际团结，为空间人口统计学做出了贡献。",
-            "matched_topics": [
-              "房地产",
-              "城市治理"
-            ]
-          },
-          {
-            "title_en": "Multidimensional Segregation Among Asian American Voters: Racial, Income, and Partisan Sorting in New York and California",
-            "title_zh": "亚裔美国选民的多维隔离：纽约和加利福尼亚的种族、收入和党派分化",
-            "url": "https://doi.org/10.1002/psp.70271",
-            "abstract_en": "ABSTRACT This study examines multidimensional segregation by race, income, and partisanship among Asian Americans, whose ethnic subgroups differ in migration history, socioeconomic position, and political alignment. Using voter registration records for 33 million voters in New York and California, including 2.55 million Asian American voters, we estimate individual‐level spatial isolation with a k‐nearest neighbours approach. On average, Asian Americans show lower racial isolation than Black and Hispanic voters, while their income and partisan isolation are closer to those of White voters. At the subgroup level, Chinese and Vietnamese Americans show high racial isolation, while Chinese Americans show intermediate income and partisan isolation. Japanese Americans show low racial and income isolation but higher partisan isolation. Indian Americans show the highest income isolation, whereas Vietnamese Americans show low partisan isolation. These findings show that Asian American residential patterns vary across subgroups and suggest that partisanship may represent an additional dimension shaping everyday residential experiences.",
-            "abstract_zh": "摘要 本研究考察了亚裔美国人在种族、收入和党派身份方面的多维隔离情况，亚裔美国人的各个族群在迁移历史、社会经济地位和政治立场上存在差异。利用纽约和加利福尼亚州3300万选民的选民登记记录，包括255万亚裔美国选民，我们采用k最近邻方法估计个体层面的空间隔离。平均而言，亚裔美国人的种族隔离程度低于黑人和西班牙裔选民，而他们的收入和党派隔离程度更接近白人选民。在亚裔美国人的各个族群中，华裔和越南裔美国人表现出较高的种族隔离，而华裔美国人表现出中等的收入和党派隔离。日裔美国人表现出较低的种族和收入隔离，但党派隔离程度较高。印度裔美国人表现出最高的收入隔离，而越南裔美国人表现出较低的党派隔离。这些发现表明，亚裔美国人的居住模式因族群而异，并暗示党派身份可能是塑造日常居住体验的另一个维度。",
             "matched_topics": [
               "城市治理"
             ]
@@ -858,7 +859,7 @@
             "title_zh": "精简治理：如何通过“一事一议”倡议减轻城市行政负担并优化监管环境",
             "url": "https://doi.org/10.1177/00208523251381187",
             "abstract_en": "Administrative burden has emerged as a critical lens for understanding the unintended consequences of public service delivery and regulatory practices. While the concept has been extensively applied to analyze citizen–state interactions, less attention has been paid to how administrative burden affects private actors. This study addresses this gap by extending administrative burden theory to the domain of public–private partnerships, with a focus on how “one matter initiatives” in developing countries can alleviate regulatory barriers. Drawing on firm-level data from the World Bank Enterprise Survey, we examine whether and how streamlining governance reduces administrative burden and improves the regulatory climate. The empirical results show that streamlining governance significantly reduces administrative burden and enhances the regulatory climate. These effects are more pronounced for small and medium-sized enterprises, underscoring the reform's distributional impact. Mediation analysis shows that administrative burden serves as a key mechanism through which reform initiatives influence business perceptions of government performance. The findings highlight the relevance of administrative burden theory in non-Western governance contexts and demonstrate the value of incorporating business perspectives into public administration research. By offering empirical evidence from China’s “One Matter Initiative”, this study contributes to a more global and nuanced understanding of how streamlining governance can foster a more enabling environment for enterprise development. Points for practitioners This study highlights that streamlining administrative procedures through initiatives like China’s “One Matter Initiative” significantly reduces administrative burden. For practitioners, the findings suggest that procedural simplification can effectively improve public–private partnerships, particularly in non-Western governance systems. Focusing on service coordination and reducing transaction friction is key to responsive and business-oriented public administration. Megacity Governance in China shows how reform-driven streamlining governance can reshape regulatory practices. The “One Matter Initiative” demonstrates that reducing administrative burden is not only a technical efficiency but also a strategic step toward building good city governance. For practitioners, the key lesson is that coordinated service delivery and burden reduction carry broader significance: they reinforce city governance capacity and offer a replicable model for reform in other contexts.",
-            "abstract_zh": "行政负担已成为理解公共服务交付和监管实践意外后果的关键视角。尽管这一概念已广泛应用于分析公民与国家之间的互动，但对于行政负担如何影响私人行为者的关注较少。本研究通过将行政负担理论扩展到公私合作伙伴关系的领域，填补了这一空白，重点关注发展中国家的“一事一议”倡议如何减轻监管障碍。利用世界银行企业调查的公司层面数据，我们检验了简化治理是否以及如何减少行政负担并改善监管环境。实证结果表明，简化治理显著减少了行政负担并增强了监管环境。这些效应在中小企业中更为明显，突显了改革的分配影响。中介分析显示，行政负担是改革举措影响企业对政府绩效感知的关键机制。研究结果强调了行政负担理论在非西方治理环境中的相关性，并证明了将商业视角纳入公共行政研究的价值。通过提供中国“一事一议”倡议的实证证据，本研究有助于更全面、细致地理解简化治理如何促进企业发展的更有利环境。实践者要点：本研究强调，通过中国“一事一议”等倡议简化行政程序显著减少了行政负担。对于实践者来说，研究结果表明，程序简化可以有效改善公私合作伙伴关系，特别是在非西方治理体系中。专注于服务协调和减少交易摩擦是响应迅速、以业务为导向的公共行政的关键。中国的超大城市治理展示了改革驱动的简化治理如何重塑监管实践。“一事一议”倡议表明，减少行政负担不仅是技术效率问题，也是建设良好城市治理的战略步骤。对于实践者来说，关键教训是协调服务交付和负担减轻具有更广泛的意义：...",
+            "abstract_zh": "行政负担已成为理解公共服务交付和监管实践意外后果的关键视角。尽管这一概念已广泛应用于分析公民与国家之间的互动，但对于行政负担如何影响私人行为者的关注较少。本研究通过将行政负担理论扩展到公私合作伙伴关系领域，填补了这一空白，重点关注发展中国家的“一事一议”倡议如何减轻监管障碍。利用世界银行企业调查的公司层面数据，我们检验了简化治理是否以及如何减少行政负担并改善监管环境。实证结果表明，简化治理显著减少了行政负担并增强了监管环境。这些效应在中小企业中更为明显，突显了改革的分配影响。中介分析显示，行政负担是改革举措影响企业对政府绩效感知的关键机制。研究结果强调了行政负担理论在非西方治理环境中的相关性，并证明了将商业视角纳入公共行政研究的价值。本研究通过提供中国“一事一议”倡议的实证证据，为理解简化治理如何促进企业更有利发展环境提供了更全球性和细致的理解。实践者要点：本研究强调，通过中国“一事一议”等倡议简化行政程序显著减少了行政负担。对于实践者而言，研究结果表明，程序简化可以有效改善公私合作伙伴关系，特别是在非西方治理体系中。专注于服务协调和减少交易摩擦是响应迅速且以业务为导向的公共行政的关键。中国的特大城市治理展示了改革驱动的简化治理如何重塑监管实践。“一事一议”倡议表明，减少行政负担不仅是技术效率问题，也是建设良好城市治理的战略步骤。对于实践者而言，关键教训是协调服务交付和负担减轻具有更广泛的意义：...",
             "matched_topics": [
               "城市治理",
               "公共政策"
