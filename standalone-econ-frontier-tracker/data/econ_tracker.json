@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-17 06:09:17",
+  "updated_at": "2026-05-24 06:28:09",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 52,
+    "success_count": 37,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -348,16 +348,6 @@
             ]
           },
           {
-            "title_en": "The Complexity of Multidimensional Learning in Agriculture",
-            "title_zh": "农业中多维学习的复杂性",
-            "url": "https://doi.org/10.3982/ecta22974",
-            "abstract_en": "Studies on agricultural technology adoption often focus on one input, practice, or package, which is analytically useful, but may overlook the complexities involved with multidimensional learning needed for a lot of agricultural decisions. In Kenya, we study farmers' dynamic learning (from oneself and others) and adoption decisions over six seasons after randomly inviting them to participate in agronomic research trials, comparing different combinations of inputs during three consecutive seasons. As a response to the trials, adoption increases steadily despite the absence of positive profits multiple seasons after exposure to the trials. Know‐how increases rapidly and faster for high skill farmers who experiment the most, at the cost of making new mistakes. The findings are consistent with a theoretical model with multidimensionality of input and practice decisions and differential learning from one's own experience by skills, where complementarities imply that adoption of an input requires finding how to re‐optimize other dimensions, which adds to the cost of adoption.",
-            "abstract_zh": "研究农业技术采纳往往关注单一投入、实践或一揽子方案，这在分析上是有用的，但可能忽视了农业决策中多维学习所需的复杂性。在肯尼亚，我们研究了农民在随机邀请参与农艺研究试验后六个季节的动态学习（从自己和他人）和采纳决策，比较了三个连续季节中不同投入组合的效果。作为对试验的响应，尽管在接触试验后多个季节没有获得正利润，采纳仍然稳步增加。知识增长迅速，对于技能较高的农民来说增长更快，他们进行的实验最多，但代价是犯新错误。这些发现与一个理论模型一致，该模型具有投入和实践决策的多维性，以及根据技能从自己的经验中进行差异化学习，其中互补性意味着采纳一种投入需要找到如何重新优化其他维度的方法，这增加了采纳的成本。",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
             "title_en": "Dynamic Incentives in Incompletely Specified Environments",
             "title_zh": "不完全指定环境中的动态激励",
             "url": "https://doi.org/10.3982/ecta23373",
@@ -365,6 +355,16 @@
             "abstract_zh": "考虑一个重复互动，其中每个时期的具体阶段游戏是未知的。这个框架将跨时期的激励基本逻辑与任何给定策略组合必须产生一个明确定义的收益向量的要求分离开来。一个自然的解决方案概念是事后完美均衡：对于阶段游戏序列的任何实现，策略必须形成一个子博弈完美均衡。当有一个长期参与者而其他人是短期参与者，并且公共随机化可用时，我们可以适应标准的递归方法来确定长期参与者奖励和惩罚之间最大可行的差距。这使我们能够识别哪些行动可以在均衡中被玩，并且假设有完美的监控，可以完全描述可能出现的结果路径。如果有多个长期参与者或没有公共随机化，这种方法就会失败；这种失败的诊断是最优惩罚代码可能不再存在。",
             "matched_topics": [
               "创新药"
+            ]
+          },
+          {
+            "title_en": "The Complexity of Multidimensional Learning in Agriculture",
+            "title_zh": "农业中多维学习的复杂性",
+            "url": "https://doi.org/10.3982/ecta22974",
+            "abstract_en": "Studies on agricultural technology adoption often focus on one input, practice, or package, which is analytically useful, but may overlook the complexities involved with multidimensional learning needed for a lot of agricultural decisions. In Kenya, we study farmers' dynamic learning (from oneself and others) and adoption decisions over six seasons after randomly inviting them to participate in agronomic research trials, comparing different combinations of inputs during three consecutive seasons. As a response to the trials, adoption increases steadily despite the absence of positive profits multiple seasons after exposure to the trials. Know‐how increases rapidly and faster for high skill farmers who experiment the most, at the cost of making new mistakes. The findings are consistent with a theoretical model with multidimensionality of input and practice decisions and differential learning from one's own experience by skills, where complementarities imply that adoption of an input requires finding how to re‐optimize other dimensions, which adds to the cost of adoption.",
+            "abstract_zh": "研究农业技术采纳往往关注单一投入、实践或一揽子方案，这在分析上是有用的，但可能忽视了农业决策中多维学习所需的复杂性。在肯尼亚，我们研究了农民在随机邀请参与农艺研究试验后六个季节的动态学习（从自己和他人）和采纳决策，比较了三个连续季节中不同投入组合的效果。作为对试验的响应，尽管在接触试验后多个季节没有获得正利润，采纳仍然稳步增加。知识增长迅速，对于技能较高的农民来说增长更快，他们进行的实验最多，但代价是犯新错误。这些发现与一个理论模型一致，该模型具有投入和实践决策的多维性，以及根据技能从自己的经验中进行差异化学习，其中互补性意味着采纳一种投入需要找到如何重新优化其他维度的方法，这增加了采纳的成本。",
+            "matched_topics": [
+              "企业创新"
             ]
           },
           {
@@ -712,7 +712,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 3,
-        "total_in_issue": 4,
+        "total_in_issue": 6,
         "papers": [
           {
             "title_en": "Trade models, trade elasticities, and the gains from trade",
@@ -757,7 +757,7 @@
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 12,
-        "total_in_issue": 37,
+        "total_in_issue": 38,
         "papers": [
           {
             "title_en": "The art of not being chocked: Environmental awareness, residents' responses and land transactions in China",
@@ -770,16 +770,6 @@
             ]
           },
           {
-            "title_en": "C'est la vie!: Mixed impacts of an edutainment television series in West Africa",
-            "title_zh": "这就是生活！：西非一个教育娱乐电视系列的混合影响",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103748",
-            "abstract_en": "Edutainment is a promising tool for changing behavior at scale, yet little is known about how to maximize impacts. We undertake an experimental evaluation of a popular West African television series, C’est la vie!, delivered through film clubs targeted at adolescent girls and young women in rural Senegal. We examine impacts on violence against women and girls and sexual and reproductive health. Results show C’est la vie! improved knowledge on both domains three months after film clubs ended, as well as violence-related attitudes nine months later, however, had no impact on behaviors. We investigate design components intended to strengthen impacts, generally finding no additional impacts from post-screening discussions, engaging men, and podcasts. Our findings suggest that edutainment is an engaging way to reach viewers on sensitive themes, however more evidence is needed on how to effectively deliver edutainment content for sustained behavior change at scale. • Using a cluster randomized control trial, we evaluate a popular West African TV series. • We examine impacts on violence against women and girls (VAWG) and sexual and reproductive health (SRH). • We find short term knowledge gains in both domains and improved medium term VAWG attitudes. • We find no impact on behaviors. • We find no additional impacts from post-screening discussions, engaging men, and podcasts.",
-            "abstract_zh": "教育娱乐是改变大规模行为的有前途的工具，但如何最大化影响却鲜为人知。我们对西非流行的电视剧《这就是生活！》进行了实验性评估，该剧通过针对塞内加尔农村少女和年轻女性的电影节俱乐部进行传播。我们检验了对针对妇女和女童的暴力行为以及性和生殖健康的影响。结果显示，《这就是生活！》在电影节结束后三个月提高了两个领域的知识，九个月后改善了与暴力相关的态度，但对行为没有影响。我们调查了旨在加强影响的设计要素，通常发现放映后讨论、吸引男性和播客没有额外影响。我们的发现表明，教育娱乐是吸引观众关注敏感主题的有趣方式，但需要更多证据来了解如何有效地传播教育娱乐内容，以实现大规模的持续行为改变。• 我们使用集群随机对照试验评估了一部流行的西非电视剧。• 我们检验了对针对妇女和女童的暴力行为（VAWG）和性和生殖健康（SRH）的影响。• 我们发现在两个领域都有短期知识收益和中期VAWG态度的改善。• 我们发现对行为没有影响。• 我们发现放映后讨论、吸引男性和播客没有额外影响。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
             "title_en": "It will rain: The effect of information on flood preparedness in urban Mozambique",
             "title_zh": "洪水将至：信息对城市莫桑比克洪水准备的影响",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103787",
@@ -787,6 +777,16 @@
             "abstract_zh": "洪水是最昂贵且最频繁发生的自然灾害之一。许多政府提供灾害准备信息，但关于其有效性的证据有限。通过在莫桑比克300个城市社区进行的随机实验，我展示了提供洪水风险信息增加了实施建议的减灾策略，这些策略通过客观测量（使用基于机器学习的算法在超过25,000张照片中检测固体废物，这是主要的洪水危害）和自我报告的行为来衡量。发送洪水准备短信被证明至少与涉及家庭访问和视频放映的更资源密集的干预措施一样有效。风险感知增加，特别是在低风险地区，这表明信息和过去的经历通过塑造感知的洪水风险，有助于社区准备。这些发现强调了沟通在动员社区进行灾害风险管理中的重要性，即使在洪水风险被认为已经众所周知的背景下，也强调了低成本、可扩展的沟通工具的潜力。• 洪水准备信息提高了莫桑比克城市地区的减灾行为。• 短信与成本更高的视频干预一样有效。• 排水渠附近的固体废物减少了6-13个百分点。• 从25k张照片中进行的机器学习提供了客观的行为测量。• 低成本的沟通工具可以增强城市气候韧性。",
             "matched_topics": [
               "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "C'est la vie!: Mixed impacts of an edutainment television series in West Africa",
+            "title_zh": "这就是生活！：西非一个教育娱乐电视系列的混合影响",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103748",
+            "abstract_en": "Edutainment is a promising tool for changing behavior at scale, yet little is known about how to maximize impacts. We undertake an experimental evaluation of a popular West African television series, C’est la vie!, delivered through film clubs targeted at adolescent girls and young women in rural Senegal. We examine impacts on violence against women and girls and sexual and reproductive health. Results show C’est la vie! improved knowledge on both domains three months after film clubs ended, as well as violence-related attitudes nine months later, however, had no impact on behaviors. We investigate design components intended to strengthen impacts, generally finding no additional impacts from post-screening discussions, engaging men, and podcasts. Our findings suggest that edutainment is an engaging way to reach viewers on sensitive themes, however more evidence is needed on how to effectively deliver edutainment content for sustained behavior change at scale. • Using a cluster randomized control trial, we evaluate a popular West African TV series. • We examine impacts on violence against women and girls (VAWG) and sexual and reproductive health (SRH). • We find short term knowledge gains in both domains and improved medium term VAWG attitudes. • We find no impact on behaviors. • We find no additional impacts from post-screening discussions, engaging men, and podcasts.",
+            "abstract_zh": "教育娱乐是改变大规模行为的有前途的工具，但如何最大化影响却鲜为人知。我们对西非流行的电视剧《这就是生活！》进行了实验性评估，该剧通过针对塞内加尔农村少女和年轻女性的电影节俱乐部进行传播。我们检验了对针对妇女和女童的暴力行为以及性和生殖健康的影响。结果显示，《这就是生活！》在电影节结束后三个月提高了两个领域的知识，九个月后改善了与暴力相关的态度，但对行为没有影响。我们调查了旨在加强影响的设计要素，通常发现放映后讨论、吸引男性和播客没有额外影响。我们的发现表明，教育娱乐是吸引观众关注敏感主题的有趣方式，但需要更多证据来了解如何有效地传播教育娱乐内容，以实现大规模的持续行为改变。• 我们使用集群随机对照试验评估了一部流行的西非电视剧。• 我们检验了对针对妇女和女童的暴力行为（VAWG）和性和生殖健康（SRH）的影响。• 我们发现在两个领域都有短期知识收益和中期VAWG态度的改善。• 我们发现对行为没有影响。• 我们发现放映后讨论、吸引男性和播客没有额外影响。",
+            "matched_topics": [
               "创新药"
             ]
           },
@@ -873,12 +873,13 @@
             ]
           },
           {
-            "title_en": "Violence and black markets: Evidence from the Niger Delta conflict",
-            "title_zh": "暴力与黑市：来自尼日尔三角洲冲突的证据",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103765",
-            "abstract_en": "",
-            "abstract_zh": "",
+            "title_en": "Product quality, the scope of export destinations and skill demand for sustainable development: An investigation for China",
+            "title_zh": "产品质量、出口目的地范围与可持续发展技能需求：中国的一项调查",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103794",
+            "abstract_en": "This paper incorporates the scope of export destinations into firms’ skill selection framework, enabling a comprehensive discussion on exporting firms' product quality and skill upgrading mechanisms in China. Our theoretical analysis finds an inverted U-shaped relationship between export destination scope and product quality improvement, implying a substitution effect between export destination scope and skill demand when product quality is below a certain threshold. The empirical analysis, based on micro-firm data from Guangdong Province from 2013 to 2015, demonstrates a strengthening effect of export quality improvement on skill upgrading through contraction of the scope of export destinations when the quality of export products exceeds a certain threshold. Conversely, expanding export scope weakens the promotion of quality improvement and skill upgrading. Vertical product differentiation and trade cost are essential channels for the scope of export destinations. Our results offer recommendations to firms in developing countries for navigating the challenges of skill upgrading.",
+            "abstract_zh": "本文将出口目的地范围纳入企业技能选择框架，从而全面讨论了中国出口企业产品质量和技能升级机制。我们的理论分析发现出口目的地范围与产品质量提升之间存在倒U型关系，意味着当产品质量低于某一阈值时，出口目的地范围与技能需求之间存在替代效应。基于2013至2015年广东省微观企业数据的实证分析表明，当出口产品质量超过某一阈值时，通过收缩出口目的地范围，出口质量提升对技能升级的强化效应。相反，扩大出口范围会削弱质量提升和技能升级的促进作用。垂直产品差异化和贸易成本是出口目的地范围的重要渠道。我们的结果为发展中国家企业应对技能升级挑战提供了建议。",
             "matched_topics": [
+              "国际贸易",
               "创新药"
             ]
           }
@@ -1163,49 +1164,17 @@
         "query_name": "International Journal of Industrial Organization",
         "issn": "0167-7187",
         "resolved_name": "International Journal of Industrial Organization",
-        "issue_title": "Published 2026-06",
+        "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 4,
-        "total_in_issue": 8,
+        "matched_count": 1,
+        "total_in_issue": 1,
         "papers": [
           {
-            "title_en": "Causal evidence of antitrust damages in the car manufacturers’ cartel in Spain",
-            "title_zh": "西班牙汽车制造商卡特尔反垄断损害的因果证据",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103285",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Legalization and innovation in the cannabis market",
-            "title_zh": "大麻市场的合法化与创新",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103272",
-            "abstract_en": "How would legal institutions affect the rate and direction of innovation in restricted or illicit markets? This paper studies the impact of legalization on innovation in the cannabis market. We construct novel data and measures on cannabis-related innovation in clinical trials and patent applications at the state-year level. We use staggered difference-in-differences models and event studies to analyze the impacts of medical and recreational cannabis legalization (MCL and RCL, respectively) on innovation. We find no evidence that cannabis-related clinical trials respond to MCLs or RCLs. However, there is a marked increase in cannabis-related patenting ( ∼ 4.4 patents) in response to an RCL and more modest impacts from an MCL ( ∼ 1.4 patents). Notably, additional RCL-induced patents are focused primarily on downstream products and methods rather than upstream medical innovation; MCL impacts show a similar pattern. Our further analysis of patent content suggests significant growth in areas that may raise public health, safety, and misuse concerns. These results suggest that legalization increases innovation in the cannabis market, but with relatively weak gains in areas pertinent to health and safe use. We corroborate our findings with multiple new empirical methods in the literature.",
-            "abstract_zh": "法律制度如何影响受限或非法市场中的创新速度和方向？本文研究了合法化对大麻市场创新的影响。我们构建了关于大麻相关创新的新数据和度量，包括临床试验和专利申请，以州-年为单位。我们使用交错差异-差异模型和事件研究来分析医疗和娱乐大麻合法化（分别称为MCL和RCL）对创新的影响。我们发现，大麻相关的临床试验对MCL或RCL没有反应。然而，对RCL的反应中，大麻相关的专利申请显著增加（约4.4项专利），而MCL的影响则更为温和（约1.4项专利）。值得注意的是，由RCL额外引起的专利主要集中在下游产品和方法上，而不是上游的医疗创新；MCL的影响显示出类似的模式。我们对专利内容的进一步分析表明，在可能引发公共卫生、安全和滥用问题领域有显著增长。这些结果表明，合法化增加了大麻市场的创新，但在与健康和安全使用相关的领域收益相对较弱。我们用文献中多种新的实证方法来证实我们的发现。",
-            "matched_topics": [
-              "企业创新",
-              "医疗创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The IJIO special issue on market power and the economy: An introduction",
-            "title_zh": "《国际产业组织杂志》关于市场力量与经济的特刊：引言",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103286",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Algorithmic collusion under sequential pricing and stochastic costs",
-            "title_zh": "算法合谋下的顺序定价与随机成本",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103281",
-            "abstract_en": "",
-            "abstract_zh": "",
+            "title_en": "Focal pricing constraints and pass-through of input cost changes",
+            "title_zh": "焦点定价约束与输入成本变化的传导",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103288",
+            "abstract_en": "Pass-through rates are relevant in a variety of contexts, such as estimating antitrust damages. It is often asserted that focal pricing, the practice of charging only special prices, e.g. ending in 9s, reduces the degree of pass-through in an industry. This claim has had serious consequences; for example, it has contributed to the dismissal of high-profile antitrust cases. However, it is not grounded in economic theory or evidence. I prove that, in a simple but general framework, expected pass-through is unchanged by the presence of focal pricing constraints. Therefore, the fact that an industry is characterised by focal pricing constraints does not entail that it will also be characterised by a low pass-through rate.",
+            "abstract_zh": "传递率在多种情境中都很重要，比如估算反垄断损害赔偿。人们经常声称，焦点定价——只收取特殊价格的做法，例如以9结尾的价格——降低了一个行业的传递率。这一主张产生了严重后果；例如，它导致了一些备受瞩目的反垄断案件被驳回。然而，它没有经济理论或证据的支持。我在一个简单但通用的框架中证明，预期的传递率不会因为焦点定价限制的存在而改变。因此，一个行业以焦点定价限制为特征，并不意味着它也会以低传递率为特征。",
             "matched_topics": [
               "产业经济"
             ]
@@ -1220,8 +1189,8 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 2,
-        "total_in_issue": 4,
+        "matched_count": 5,
+        "total_in_issue": 8,
         "papers": [
           {
             "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
@@ -1231,6 +1200,37 @@
             "abstract_zh": "本文通过引入方向性启发式作为视角，为日益增长的方向性挑战文献做出贡献，以概念化政策制定者和其他利益相关者如何解释和应对挑战引领型创新政策中的问题。我们的出发点是，问题的“恶果”在很大程度上受到主观和情境特定的感知的影响。因此，我们利用并适应了最初在管理文献中发展起来的意义构建框架，以区分行动者与这类问题的复杂性和不确定性的不同互动方式。基于这一视角，我们将方向性启发式概念化为特定领域的经验法则，指导政策制定者如何解释和解决问题。我们通过将其应用于荷兰任务导向型顶级部门和创新政策，展示了这一概念的有用性。这一说明突出了利益相关者对问题恶果的不同观点如何转化为特定的方向性挑战以及解决这些问题的适当做法。我们最后概述了三个关键命题，强调了主要的概念贡献，并为未来的研究和政策提供了具体路径。• 意义构建有助于理解政策制定者如何看待和解决恶果问题。• 方向性启发式是用于解释和解决问题的心理捷径。• 不同程度的问题恶果需要不同的方向性启发式。• 无知为挑战引领型政策创造了额外的方向性挑战。",
             "matched_topics": [
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "Utility model patent regimes around the world and over time: Strictness, usage, and economic development",
+            "title_zh": "全球及不同时期实用新型专利制度：严格性、使用情况与经济发展",
+            "url": "https://doi.org/10.1016/j.respol.2026.105517",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Where do ideas go? A spatial analysis of the patenting impact of publicly funded basic science",
+            "title_zh": "标题：创意去哪儿了？公共资助基础科学对专利影响的空间分析",
+            "url": "https://doi.org/10.1016/j.respol.2026.105528",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Greening but concentrating? The unintended effects of China's voluntary participatory environmental regulations on firms' innovation portfolios",
+            "title_zh": "绿化却集中化？中国自愿性参与式环境规制对企业创新组合的意外效应",
+            "url": "https://doi.org/10.1016/j.respol.2026.105531",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
             ]
           },
           {
@@ -1369,7 +1369,7 @@
             "title_zh": "储物联盟网络是否提高了最后一英里配送效率？",
             "url": "https://doi.org/10.1287/mnsc.2024.04567",
             "abstract_en": "The Locker Alliance Network (LAN), a cutting-edge initiative under Singapore’s Smart Nation vision, aims to revolutionize parcel pickup processes. This government-led project seeks to implement two major changes in Singapore’s urban logistics: (i) establishing an open-access facility for all logistic service providers (LSPs) and (ii) enhancing the last mile delivery efficiency of each LSP, thereby reducing its operational footprint. This research investigates the impact of locker network design on the delivery efficiency of individual LSPs and explores strategies for the government to construct an inclusive network for all LSPs. Our study explores two operational modes: the two-trip mode, in which home and locker deliveries are managed separately, and the mixed-trip mode, which consolidates both into one route. We extend the Beardwood–Halton–Hammersley theorem to estimate the delivery trip length to remaining home locations, assuming consumers can choose between locker pickup or home delivery. This enables us to explicitly formulate the LAN design problem as a nonlinear optimization model. Furthermore, our models for both operational modes reveal that optimal locker network design tends to expand in a nested manner relative to the market share of an LSP. This finding suggests that governments could design locker networks based on the profiles of the largest LSP, ensuring that the expansion of these networks aligns with the existing logistics infrastructure. Leveraging data from LAN’s pilot program in Singapore, our research underscores the pivotal role of network design in last mile delivery efficiency. A poorly designed locker network can inadvertently reduce productivity by increasing the length of delivery trips, thus negating the potential benefits of the system. In contrast, an optimized network can mitigate this negative impact on delivery efficiency. Beyond network design, low customer adoption emerges as another critical bottleneck. Our findings show that, as more customers shift to locker pickup, especially in mixed-trip modes, delivery efficiency improves. Therefore, network design and a higher adoption rate of locker pickup are key to LAN’s success. The government’s role in driving deeper customer engagement, alongside efforts to optimize network design and delivery operations, is vital to unlocking the full potential of this smart nation initiative. This paper was accepted by David Simchi-Levi, operations management. Funding: This work was supported by the National Natural Science Foundation of China [Grant 72422006], the Hong Kong Research Grants Council [Grants 16210720, 16500423], the 2019 Academic Research Fund Tier 3, the Ministry of Education, Singapore [Award MOE-2019-T3-1-010], and the Natural Science Foundation of Chongqing, China [Grant CSTB2022NSCQ-MSX1667]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04567 .",
-            "abstract_zh": "新加坡智能国家愿景下的一项前沿举措——Locker Alliance Network（LAN），旨在彻底改变包裹取件流程。这个由政府主导的项目寻求在新加坡的城市物流中实施两大变革：（i）为所有物流服务提供商（LSPs）建立一个开放存取设施；（ii）提高每个LSP的最后一英里配送效率，从而减少其运营足迹。本研究调查了储物柜网络设计对个别LSPs配送效率的影响，并探讨了政府构建一个包容所有LSPs的网络的策略。我们的研究探讨了两种运营模式：两趟行程模式，即家庭和储物柜配送分别管理；以及混合行程模式，将两者合并为一条路线。我们扩展了Beardwood-Halton-Hammersley定理，以估计剩余家庭位置的配送行程长度，假设消费者可以选择储物柜取件或家庭配送。这使我们能够明确地将LAN设计问题表述为一个非线性优化模型。此外，我们对两种运营模式的模型都揭示了，最优的储物柜网络设计倾向于根据LSP的市场份额以嵌套方式扩展。这一发现表明，政府可以根据最大的LSP的档案设计储物柜网络，确保这些网络的扩展与现有的物流基础设施相一致。利用新加坡LAN试点项目的数据，我们的研究强调了网络设计在最后一英里配送效率中的关键作用。设计不当的储物柜网络可能会无意中通过增加配送行程的长度来降低生产力，从而抵消系统的潜在好处。相比之下，一个优化的网络可以减轻这种对配送效率的负面影响。除了网络设计之外，低客户采纳率也成为另一个关键瓶颈。我们的发现表明，随着越来越多的客户转向储物柜取件，尤其是在混合行程模式下，配送效率得到提高。因此，网络设计和更高的储物柜取件采纳率是LAN成功的关键。政府在推动更深层次的客户参与方面的作用，以及优化网络设计和配送运营的努力，对于释放这一智能国家举措的全部潜力至关重要。本文由David Simchi-Levi接受，运营管理。资金：这项工作是...",
+            "abstract_zh": "新加坡智能国家愿景下的一项前沿举措——Locker Alliance Network（LAN），旨在彻底改变包裹取件流程。这个由政府主导的项目寻求在新加坡的城市物流中实施两大变革：（i）为所有物流服务提供商（LSPs）建立一个开放存取设施；（ii）提高每个LSP的最后一英里配送效率，从而减少其运营足迹。本研究调查了储物柜网络设计对个别LSPs配送效率的影响，并探讨了政府构建一个包容所有LSPs的网络的策略。我们的研究探讨了两种运营模式：两趟行程模式，即家庭和储物柜配送分别管理；以及混合行程模式，将两者合并为一条路线。我们扩展了Beardwood-Halton-Hammersley定理，以估计剩余家庭位置的配送行程长度，假设消费者可以选择储物柜取件或家庭配送。这使我们能够明确地将LAN设计问题表述为一个非线性优化模型。此外，我们对两种运营模式的模型都揭示了，最优的储物柜网络设计倾向于根据LSP的市场份额以嵌套方式扩展。这一发现表明，政府可以根据最大的LSP的档案设计储物柜网络，确保这些网络的扩展与现有的物流基础设施相一致。利用新加坡LAN试点项目的数据，我们的研究强调了网络设计在最后一英里配送效率中的关键作用。设计不当的储物柜网络可能会无意中通过增加配送行程的长度来降低生产力，从而抵消系统的潜在好处。相比之下，优化的网络可以减轻这种对配送效率的负面影响。除了网络设计之外，低客户采纳率也成为另一个关键瓶颈。我们的发现表明，随着越来越多的客户转向储物柜取件，尤其是在混合行程模式下，配送效率得到提高。因此，网络设计和更高的储物柜取件采纳率是LAN成功的关键。政府在推动更深层次的客户参与方面的作用，以及优化网络设计和配送运营的努力，对于释放这一智能国家举措的全部潜力至关重要。本文由David Simchi-Levi接受，运营管理。资金：这项工作是...",
             "matched_topics": [
               "创新药"
             ]
@@ -1474,15 +1474,15 @@
         "query_name": "Journal of Business Venturing",
         "issn": "0883-9026",
         "resolved_name": "Journal of Business Venturing",
-        "issue_title": "Volume 41, Issue 4",
+        "issue_title": "Volume 41, Issue 5",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
-        "matched_count": 3,
-        "total_in_issue": 8,
+        "matched_count": 2,
+        "total_in_issue": 3,
         "papers": [
           {
-            "title_en": "Beyond “uncertainty”: How distinct types of perceived uncertainties catalyze or paralyze firm innovation",
-            "title_zh": "超越“不确定性”：不同类型感知不确定性如何催化或瘫痪企业创新",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106605",
+            "title_en": "A romantic penalty? Female entrepreneurship and relationship initiation in online dating",
+            "title_zh": "浪漫的代价？女性创业与在线约会中的关系开始",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106608",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1490,20 +1490,9 @@
             ]
           },
           {
-            "title_en": "Founders for hire? The role of venture studios in breaking the individual-opportunity nexus",
-            "title_zh": "雇佣创始人？风险工作室在打破个体-机会关系中的作用",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106600",
-            "abstract_en": "Entrepreneurship theory has often posited the founder as the central agent of venture creation; from identifying opportunities, to mobilizing resources, and driving execution. We examine how venture studios – organizations that systematically create new ventures by taking over traditionally founder-led processes – challenge this assumption. Drawing on an inductive multiple case study of 16 venture studios with 50 primary and secondary interviews, we reveal how venture studios develop and validate ideas independently from founders prior to recruiting them, and how they coordinate the entrepreneurial process when these functions are separated. Our findings contribute to the literature on the individual-opportunity nexus, the entrepreneurial process and open the research agenda on venture studios as a new phenomenon in entrepreneurship. • Venture studios challenge the assumption that founder and idea are connected. • We provide qualitative evidence from 16 venture studios using 50 interviews. • Venture studios disentangle opportunity discovery from venture creation. • They coordinate the entrepreneurial process through managerial mechanisms. • Venture studios shift entrepreneurial agency from individual to the organization.",
-            "abstract_zh": "创业理论常常将创始人视为创业的核心主体；从识别机会，到动员资源，再到推动执行。我们研究了创业工作室——这些组织通过接管传统上由创始人领导的过程来系统地创造新企业——如何挑战这一假设。基于对16家创业工作室的归纳性多案例研究以及50次主要和次要访谈，我们揭示了创业工作室如何在招募创始人之前独立开发和验证想法，以及当这些功能被分离时，它们如何协调创业过程。我们的发现为个体-机会关系、创业过程的文献做出了贡献，并开启了将创业工作室作为创业新现象的研究议程。• 创业工作室挑战了创始人与想法相连的假设。• 我们提供了来自16家创业工作室的50次访谈的定性证据。• 创业工作室将机会发现与创业创造分开。• 它们通过管理机制协调创业过程。• 创业工作室将创业主体从个体转移到组织。",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Unchained from land: Property rights reforms and farmers' entrepreneurship in an emerging economy",
-            "title_zh": "摆脱土地束缚：新兴经济体中的产权改革与农民创业",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106602",
+            "title_en": "Compassion and passion: Exploring beneficiary wealth destruction in social entrepreneurship",
+            "title_zh": "同情与激情：探索社会创业中的受益者财富破坏",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106607",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1521,7 +1510,7 @@
         "issue_title": "Published 2026-07",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
         "matched_count": 12,
-        "total_in_issue": 16,
+        "total_in_issue": 17,
         "papers": [
           {
             "title_en": "Evaluating creative work with artificial intelligence: Evidence from constrained innovation tasks",
@@ -1572,6 +1561,17 @@
             "url": "https://doi.org/10.1016/j.technovation.2026.103576",
             "abstract_en": "Research on technological transitions has long identified technology bottlenecks and strategic resource bottlenecks as impediments that could slow transitions. This paper adds another dimension and examines the undertheorized role of business models and how business model misalignments can constitute a third type of bottleneck. Based on a qualitative case study of electrification in the road transport industry, this paper explores the phenomenon of business model bottlenecks . The study shows that in contrast to technology bottlenecks and strategic resource bottlenecks, a business model bottleneck manifests itself as an unattractive void position. Resolving such a bottleneck requires adjustment of several interdependent business models, requiring actors to cooperate in new ways. The findings contribute to a more nuanced understanding of the interrelation between technology transitions and business model innovation. • The absence of a viable business model can constitute a bottleneck hampering a desired technology transition. • Such a business model bottleneck appears when there is high uncertainty concerning the value creation and capture potentials of a critical position in an emerging ecosystem. • A business model bottleneck constitutes an unattractive ecosystem position and is manifested by a void, i.e., an position that no actor wants to take on. • The business model bottleneck phenomenon is illustrated by a case study from an electrification attempt within the road transport industry.",
             "abstract_zh": "研究技术转型长期以来已经识别出技术瓶颈和战略资源瓶颈作为可能减缓转型的障碍。本文增加了另一个维度，考察了商业模型的未充分理论化作用以及商业模型错位如何构成第三种类型的瓶颈。基于对道路交通行业电气化的定性案例研究，本文探讨了商业模型瓶颈现象。研究表明，与技术瓶颈和战略资源瓶颈不同，商业模型瓶颈表现为一个不具吸引力的空白位置。解决此类瓶颈需要调整几个相互依赖的商业模型，要求参与者以新的方式进行合作。这些发现有助于更细致地理解技术转型与商业模型创新之间的相互关系。 • 缺乏可行的商业模型可以构成阻碍期望的技术转型的瓶颈。 • 当对一个新兴生态系统中关键位置的价值创造和捕获潜力存在高度不确定性时，就会出现这种商业模型瓶颈。 • 商业模型瓶颈构成了一个不具吸引力的生态系统位置，表现为空白，即没有参与者愿意承担的位置。 • 商业模型瓶颈现象通过道路交通行业电气化尝试的案例研究得到说明。",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Complement or substitute? Productive and sustainable entrepreneurship in the innovation ecosystem",
+            "title_zh": "补充还是替代？创新生态系统中的生产性与可持续创业",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103601",
+            "abstract_en": "Innovation ecosystems are increasingly expected to foster entrepreneurial activity that simultaneously supports economic growth and addresses pressing societal and environmental challenges. Yet, while prior research has examined productive and sustainable entrepreneurship largely in isolation, little is known about whether innovation ecosystems can enable both forms of venture creation and how their underlying logics interact. This study explores how innovation ecosystems enable two distinct entrepreneurial outcomes: productive entrepreneurship and sustainable entrepreneurship. Drawing on a unique dataset of 30 Italian smart city projects spanning 2011–2023, we examine ecosystem-level factors influencing each type and investigate whether the two forms can coexist and reinforce one another. Our findings suggest that innovation ecosystems could conducive to both forms of entrepreneurship, albeit through different mechanisms. Industry structure plays a stronger role in fostering productive entrepreneurship, while digital and technological infrastructure is more supportive of sustainability-oriented ventures. Moreover, we identify an asymmetric relationship between the two forms of entrepreneurship. Productive entrepreneurship is positively associated with sustainable entrepreneurship, but not the reverse. These results contribute to the innovation ecosystem literature by showing how economic and societal value creation interact within the same ecosystem. The study offers insights for scholars and policymakers interested in designing ecosystems that support both innovative and sustainability-driven entrepreneurship. • Innovation ecosystems foster both productive and sustainable entrepreneurship. • Productive entrepreneurship depends on industry structure. • Sustainable entrepreneurship depends on digital infrastructure. • Productive entrepreneurship strengthens sustainable entrepreneurship, but not the reverse.",
+            "abstract_zh": "创新生态系统日益被期望促进既能支持经济增长又能解决紧迫社会和环境挑战的创业活动。然而，尽管先前的研究主要在孤立的情况下考察了生产性和可持续创业，但关于创新生态系统是否能够同时促进这两种创业形式的创建以及它们背后的逻辑如何相互作用，我们知之甚少。本研究探讨了创新生态系统如何使两种不同的创业结果成为可能：生产性创业和可持续创业。基于2011-2023年间30个意大利智能城市项目的独一无二数据集，我们检验了影响每种类型的生态系统级因素，并调查这两种形式是否能够共存并相互加强。我们的发现表明，创新生态系统可能有利于这两种形式的创业，尽管通过不同的机制。产业结构在促进生产性创业方面发挥了更强的作用，而数字和技术基础设施更支持以可持续性为导向的创业。此外，我们确定了两种创业形式之间的不对称关系。生产性创业与可持续创业呈正相关，但反之则不然。这些结果通过展示同一生态系统内经济和社会价值创造如何相互作用，为创新生态系统文献做出了贡献。该研究为对设计支持创新和以可持续性为导向的创业的生态系统感兴趣的学者和政策制定者提供了洞见。•创新生态系统促进生产性和可持续创业。•生产性创业依赖于产业结构。•可持续创业依赖于数字基础设施。•生产性创业加强了可持续创业，但反之则不然。",
             "matched_topics": [
               "企业创新",
               "创新药"
@@ -1632,16 +1632,6 @@
             "title_en": "Identification of driving factors in national innovation ecosystems under the PSR framework: Based on machine learning algorithms",
             "title_zh": "基于机器学习算法的PSR框架下国家创新生态系统驱动因素识别",
             "url": "https://doi.org/10.1016/j.technovation.2026.103581",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Unlocking the potential of digital entrepreneurship in turbulent times: A comprehensive overview",
-            "title_zh": "解锁动荡时期数字创业的潜力：全面概述",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103570",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1743,7 +1733,7 @@
         "issue_title": "Published 2026-07",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
         "matched_count": 0,
-        "total_in_issue": 1,
+        "total_in_issue": 3,
         "papers": [],
         "error": null
       },
@@ -1797,70 +1787,72 @@
         "query_name": "PharmacoEconomics",
         "issn": "1170-7690",
         "resolved_name": "PharmacoEconomics",
-        "issue_title": "Volume 44, Issue 5",
+        "issue_title": "Volume 44, Issue 6",
         "issue_url": "https://link.springer.com/journal/40273",
         "matched_count": 6,
-        "total_in_issue": 12,
+        "total_in_issue": 8,
         "papers": [
           {
-            "title_en": "Comment on “The Importance of Structured Expert Elicitation to Inform Outcomes Following Treatment Discontinuation: Evidence Assessment Group Perspective”",
-            "title_zh": "对“结构化专家征询在治疗中断后结果信息中的重要性：证据评估小组视角”的评论",
-            "url": "https://doi.org/10.1007/s40273-026-01605-4",
-            "abstract_en": "",
-            "abstract_zh": "",
+            "title_en": "Chronic Kidney Disease (CKD): Systematic Review of the Cost Effectiveness of SGLT2 Inhibitors and Other Novel Nephroprotective Drugs",
+            "title_zh": "慢性肾脏病（CKD）：SGLT2抑制剂及其他新型肾脏保护药物成本效益的系统综述",
+            "url": "https://doi.org/10.1007/s40273-026-01611-6",
+            "abstract_en": "BACKGROUND: Chronic kidney disease (CKD) is a major global cause of morbidity and mortality. Recent nephroprotective therapies have improved CKD management, yet their cost effectiveness across settings remains uncertain. This review systematically identified and compared cost-effectiveness studies of novel CKD treatments for both broad CKD populations and disease-specific subgroups. METHODS: A systematic search was conducted in PubMed and the Cochrane Library using terms related to \"chronic kidney disease,\" \"cost-effectiveness,\" \"cost-utility,\" \"health technology assessment,\" \"SGLT2 inhibitor,\" and commercial and generic names of nephroprotective drugs approved since 2013. Eligible studies were full-length articles in English published between January 2015 and September 2025. Costs, quality-adjusted life-years (QALYs), and incremental cost-effectiveness ratios were extracted. All monetary values were standardized to 2025 US dollars. RESULTS: The search yielded 172 records, of which 26 met inclusion criteria. A supplementary search identified ten additional studies, resulting in 36 evaluations. Most studies assessed sodium-glucose cotransporter 2 inhibitors or finerenone. Across evaluations, these therapies consistently improved outcomes, with QALY gains reported in all studies (0.012-1.44 QALYs gained). Most concluded that the interventions were cost effective compared with standard of care, and 13 reported cost-saving results. Only three studies reported an incremental cost-efffectiveness ratio above $100,000 per QALY threshold. Cost effectiveness was observed in both general CKD and CKD with diabetes mellitus, although estimates varied by country, time horizon, and analytic perspective. CONCLUSIONS: Current evidence indicates that novel nephroprotective therapies for CKD are generally cost effective, and in some settings cost saving. These findings support their value in both general CKD and diabetic populations and highlight the importance of early treatment adoption to delay disease progression and reduce long-term healthcare costs.",
+            "abstract_zh": "背景：慢性肾脏病（CKD）是全球主要的发病率和死亡率原因。近期的肾脏保护治疗改善了CKD的管理，但它们在不同环境下的成本效益仍不确定。本综述系统地识别并比较了针对广泛CKD人群和疾病特定亚组的新CKD治疗的成本效益研究。方法：在PubMed和Cochrane图书馆中使用与“慢性肾脏病”、“成本效益”、“成本效用”、“健康技术评估”、“SGLT2抑制剂”以及自2013年以来批准的肾脏保护药物的商业和通用名称相关的术语进行系统搜索。符合条件的研究是2015年1月至2025年9月间发表的英文全文文章。提取了成本、质量调整生命年（QALYs）和增量成本效益比。所有货币价值均标准化为2025年美元。结果：搜索得到172条记录，其中26条符合纳入标准。补充搜索确定了10项额外研究，共36项评估。大多数研究评估了钠-葡萄糖共转运蛋白2抑制剂或finerenone。在评估中，这些治疗一致改善了结果，所有研究报告了QALY增益（0.012-1.44 QALYs增益）。大多数得出结论，与标准护理相比，这些干预措施是成本效益的，13项报告了成本节省结果。只有三项研究报告了每QALY阈值超过100,000美元的增量成本效益比。在一般CKD和糖尿病性CKD中均观察到成本效益，尽管估计值因国家、时间范围和分析视角而异。结论：当前证据表明，针对CKD的新肾脏保护治疗通常具有成本效益，在某些环境下节省成本。这些发现支持它们在一般CKD和糖尿病人群中的价值，并强调早期治疗采用的重要性，以延迟疾病进展并降低长期医疗成本。",
             "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Response to Comment on “The Importance of Structured Expert Elicitation to Inform Outcomes Following Treatment Discontinuation: Evidence Assessment Group Perspective”",
-            "title_zh": "对“结构化专家征询对治疗中断后结果信息的重要性：证据评估组视角”评论的回应",
-            "url": "https://doi.org/10.1007/s40273-026-01606-3",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Are Health Gains to Children and Adolescents More Important Than Health Gains to Adults? A Person Trade-Off Study",
-            "title_zh": "儿童和青少年的健康收益是否比成年人更重要？一项个体权衡研究",
-            "url": "https://doi.org/10.1007/s40273-025-01574-0",
-            "abstract_en": "PURPOSE: Healthcare decision-making often assumes equal value for quality-adjusted life years (QALYs) across patient groups, yet societal preferences suggest that the value of a QALY may vary with characteristics such as age. Evidence indicates some willingness to prioritise child health gains, though findings are inconsistent. This study used person trade-off (PTO) to estimate the relative social value of different types of health gains for children and adolescents (aged 0-24 years) compared with adults. METHODS: A representative Australian sample aged 16 years and above (n = 2098) completed an online survey comparing life extension and quality-of-life improvements for different ages. A 'chaining' approach tested response consistency, and logistic regression explored associations between PTO choices and respondent characteristics. Attitudinal questions and open text responses provided additional insights. RESULTS: PTO responses show that health gains for children and adolescents (4-24 years) are generally valued more highly than those for adults (age 40 or 55 years), with weights ranging from 1 to 1.3. For very young children, findings vary by health gain type: life extensions for infants (1 month or 2 years) are weighted lower, but pain alleviation is higher (weights ≥ 1.2). Qualitative and attitudinal data reveal diverse views, with many opposing age-weighting. Younger respondents and those with young children prioritise children more, while older and female participants preferred equal treatment. CONCLUSIONS: The relative value of child QALY gains varies by age of the child, by health gain type, and by adult comparison age. While alleviating children's pain is strongly supported (weights ≥ 1.2), overall views are polarised, highlighting the complexity of age-based prioritisation.",
-            "abstract_zh": "目的：医疗决策通常假设不同患者群体的质量调整生命年（QALYs）具有相等价值，然而社会偏好表明QALY的价值可能随年龄等特征而变化。证据显示，人们愿意优先考虑儿童健康收益，但发现结果并不一致。本研究使用个体权衡（PTO）方法估计儿童和青少年（0-24岁）与成人相比不同类型的健康收益的相对社会价值。方法：一个具有代表性的澳大利亚样本，年龄在16岁及以上（n=2098）完成了一个在线调查，比较了不同年龄段的生命延长和生活质量改善。“链接”方法测试了响应的一致性，逻辑回归探索了PTO选择与受访者特征之间的关联。态度问题和开放式文本回应提供了额外的见解。结果：PTO回应显示，儿童和青少年（4-24岁）的健康收益通常比成人（40岁或55岁）更受重视，权重范围从1到1.3。对于非常年幼的儿童，结果因健康收益类型而异：婴儿的生命延长（1个月或2年）的权重较低，但疼痛缓解的权重更高（权重≥1.2）。定性和态度数据揭示了多样化的观点，许多人反对年龄加权。年轻的受访者和有小孩的人更倾向于优先考虑儿童，而年长和女性参与者更倾向于平等对待。结论：儿童QALY收益的相对价值因儿童年龄、健康收益类型和成人比较年龄而异。虽然缓解儿童疼痛得到了强烈支持（权重≥1.2），但总体观点是两极分化的，突出了基于年龄的优先排序的复杂性。",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Estimating the Value of Combination Vaccines: A Methodological Framework",
-            "title_zh": "估算联合疫苗价值：一个方法论框架",
-            "url": "https://doi.org/10.1007/s40273-025-01575-z",
-            "abstract_en": "Combination vaccines combine several components in a single dose administration. They offer programmatic and public health advantages, particularly as vaccine schedules become increasingly crowded. They are often more expensive to develop and produce, which discourages manufacturer investment without clear market signals. Hence their benefits need to be captured with existing health economic evaluation reference cases used by decision-makers to guide vaccine investments. We propose that the value of combination vaccines can be captured through at least four domains: (1) reductions in tangible and intangible costs to caregivers, (2) operational efficiencies to the health system, (3) opportunity costs of vaccine schedule slots, and (4) more streamlined vaccine schedules. We demonstrate the practicality of our framework by comparing the value of introducing a hypothetical vaccine to a crowded schedule as a standalone formulation, a replacement for a vaccine already in the schedule, or a combination product. The framework could also be applied to estimate the value of reducing the number of separate administrations needed for a standalone vaccine. Applying it in real-world situations could be facilitated by further data collection, particularly on collating results on the value of existing vaccines in the schedule and estimating willingness-to-pay for fewer vaccine administrations.",
-            "abstract_zh": "联合疫苗将多个组分合并为单剂量给药。随着疫苗接种计划日益拥挤，它们提供了计划性和公共卫生优势。它们的开发和生产成本通常更高，这在没有明确的市场信号的情况下阻碍了制造商的投资。因此，需要通过决策者使用的现有健康经济评估参考案例来捕捉联合疫苗的好处，以指导疫苗投资。我们建议，可以通过至少四个领域捕捉联合疫苗的价值：（1）减少护理人员的有形和无形成本，（2）提高卫生系统的运营效率，（3）疫苗接种计划插槽的机会成本，以及（4）更简化的疫苗接种计划。我们通过比较将假设疫苗引入拥挤计划作为单独配方、替换计划中已有疫苗或组合产品的价值，展示了我们框架的实用性。该框架还可以用来估计减少单独疫苗所需的单独给药次数的价值。通过进一步收集数据，尤其是在整理计划中现有疫苗的价值结果和估计减少疫苗给药次数的支付意愿方面，可以促进其在现实世界情况中的应用。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Innovative Contracting for Gene Therapies: Current Landscape and Perspectives on the Future of Gene Therapy Financing in the USA",
-            "title_zh": "基因疗法的创新合同：美国基因疗法融资现状及未来展望",
-            "url": "https://doi.org/10.1007/s40273-025-01563-3",
-            "abstract_en": "BACKGROUND AND OBJECTIVE: Over the last decade, payers in the USA have been exploring novel financing mechanisms for gene therapies (GTs). Our research objective was to assess the landscape of innovative contracts (ICs) between payers and manufacturers for GTs and identify barriers and opportunities for future contract development and implementation. METHODS: We used a multi-method approach including a targeted literature review and interviews. We developed a framework defining 'innovative contracts' as agreements using real-world outcomes that link to the total price paid for gene therapy, encompassing value-based pricing, outcome-based payments, and performance-based models between payers and manufacturers. We searched for published information about implementation of ICs for GTs in PubMed and government, industry, and research institutions from January 2014 to January 2025. We excluded any insights specific to ICs for non-GTs as well as those relevant to ex-US markets. We supplemented these findings with bibliographic searches. Semi-structured interviews with payers, manufacturers, and other diverse representatives from the GT financing ecosystem were conducted to validate and enrich the literature findings. RESULTS: The PubMed search yielded ten studies relevant to implementation of ICs. Gray literature included over 50 publications referencing active contracts, policy solutions, payer budget impact, and state Medicaid programs' innovative GT contracting. Information on manufacturer and payer contracts was publicly available for 10 of 14 gene therapies (71%). Of 16 identified GT contracts, eight used upfront payments with milestone-based rebates, two used performance-based installment payments, one offered upfront payment with a rebate or payment over 5 years, and five do not have publicly available details on the type of financial arrangement. Interviews (N = 15) suggested that barriers to ICs include a lack of mutual trust between payers and manufacturers, lack of data conveying the return on investment for innovative contracts, lack of a sufficient incentive for stakeholders to engage in contracting, perceived regulatory limitations (e.g., implications of Medicaid Best Price), and patient portability challenges. Some interviewees believed that ICs should be the standard for GTs, while others stated that ICs should only be pursued when they are expected to have a significant impact on timely patient access in the early launch period when payers are considering limited or no coverage. Interviewees indicated that policy changes may encourage future contracting negotiation and implementation. CONCLUSIONS: Widespread uptake of ICs will require a multi-stakeholder collaboration to overcome common barriers, as a one-size-fits-all approach is insufficient for diverse stakeholder needs. Establishing industry-wide contracting principles and practices may help bridge differences in opinions and build trust between contracting parties, allow stakeholders to share lessons from early adopters, and support efficient contracting processes that promote consistent and equitable patient access to GTs while ensuring healthcare system sustainability.",
-            "abstract_zh": "背景与目标：在过去十年中，美国支付方一直在探索基因疗法（GTs）的新型融资机制。我们的研究目标是评估支付方和制造商之间基因疗法的创新合同（ICs）的格局，并识别未来合同开发和实施的障碍和机会。方法：我们采用了包括目标文献综述和访谈在内的多方法方法。我们构建了一个框架，将“创新合同”定义为使用现实世界结果与基因疗法支付的总价格相联系的协议，包括基于价值的定价、基于结果的支付和支付方与制造商之间的基于绩效的模型。我们在PubMed以及政府、行业和研究机构中搜索了2014年1月至2025年1月期间实施ICs的GTs的已发布信息。我们排除了任何特定于非GTs的ICs的见解，以及与美国以外市场相关的见解。我们用文献搜索补充了这些发现。对支付方、制造商和来自GT融资生态系统的其他多样化代表进行了半结构化访谈，以验证和丰富文献发现。结果：PubMed搜索产生了十项与实施ICs相关的研究。灰色文献包括50多篇引用活跃合同、政策解决方案、支付方预算影响和州医疗补助计划的创新GT合同的出版物。14种基因疗法中有10种（71%）的制造商和支付方合同信息是公开可用的。在16个确定的GT合同中，有8个使用了基于里程碑的预付款和回扣，2个使用了基于绩效的分期付款，1个提供了5年内的预付款和回扣或付款，5个没有公开可用的财务安排类型的详细信息。访谈（N=15）表明，ICs的障碍包括支付方和制造商之间缺乏相互信任、缺乏传达创新合同投资回报的数据、缺乏足够的激励措施让利益相关者参与合同、感知到的监管限制（例如，医疗补助最佳价格的影响）和患者可携带性挑战。一些受访者认为ICs应该是GTs的标准，而其他人则表示，只有在预期ICs将在早期推出期间对及时的患者获取产生重大影响时，才应追求ICs，当时支付方是...",
-            "matched_topics": [
-              "产业经济",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Patient-Level Health Economic Modeling in Excel Without VBA: A Tutorial",
-            "title_zh": "无需VBA的Excel中患者级卫生经济建模教程",
-            "url": "https://doi.org/10.1007/s40273-025-01543-7",
-            "abstract_en": "remain the standard for cost-effectiveness modeling to inform health technology assessment (HTA), despite calls and rationale for more flexible approaches. Their limited ability to capture patient-level characteristics can, in the presence of patient heterogeneity or the need to track patient characteristics to accurately capture a technology's implications, introduce bias. Their continued prevalence is explained by key stakeholders' familiarity with spreadsheet software, and the lower computational burden of cohort-level versus patient-level models. However, contemporary Excel functions have opened up possibilities for calculations within native Excel that enable more flexible, patient-level approaches to be implemented in familiar spreadsheet-based software, without use of any Visual Basic for Applications (VBA) code. Therefore, this tutorial aims to provide step-by-step guidance on how to implement a previously published and freely available individual-level discrete event simulation (DES) in Excel, using contemporary Excel functions and without any VBA code.",
-            "abstract_zh": "尽管有呼声和理由要求采用更灵活的方法，但成本效益模型仍然是指导健康技术评估（HTA）的标准，因为它们在捕捉患者个体特征方面的能力有限，这可能会在患者异质性存在或需要追踪患者特征以准确捕捉技术影响的情况下引入偏差。它们之所以持续流行，是因为关键利益相关者对电子表格软件的熟悉，以及队列级模型相对于个体级模型的计算负担较低。然而，现代Excel功能为在原生Excel中进行计算提供了可能性，使得在熟悉的基于电子表格的软件中实现更灵活的个体级方法成为可能，而无需使用任何Visual Basic for Applications（VBA）代码。因此，本教程旨在提供分步指导，说明如何在Excel中使用现代Excel功能且不使用任何VBA代码来实现先前发表且免费提供的个体级离散事件模拟（DES）。",
-            "matched_topics": [
+              "国际贸易",
               "医疗创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Evaluating the Cost Effectiveness of Rapid Diagnostic Testing for the Identification of Pathogens and Resistance Genes in Bloodstream Infections",
+            "title_zh": "快速诊断检测在血流感染中识别病原体和耐药基因的成本效益评估",
+            "url": "https://doi.org/10.1007/s40273-026-01608-1",
+            "abstract_en": "Bloodstream infections (BSI) are a leading cause of mortality worldwide. Rapid detection of the causative pathogen can help optimise therapy, reduce mortality, curb antimicrobial resistance, and lower healthcare costs. This study evaluates the cost effectiveness of adding molecular rapid diagnostic tests (mRDTs) to microbiology standard-of-care (SoC) methods. mRDTs evaluated include the Cobas® Eplex blood culture identification (BCID) panels, BioFire BCID panel, BioFire BCID2 panel, Accelerate PhenoTest™ blood culture (BC) kit and Diasorin Verigene® BCID panels. A decision-tree model was built to quantify the incremental costs and outcomes associated with adding mRDTs to the SoC. The inputs were derived from the published literature. The analysis considered a population aged 65 years and 45% female, admitted to a United States (US) hospital with a suspected BSI. Model outcomes included costs, 30-day mortality, quality-adjusted life years (QALYs) and adverse events (Clostridioides difficile infection and acute kidney injury [AKI]). A United Kingdom (UK) setting in place of the US setting was also considered in the scenario analysis. A strategy involving the Cobas Eplex BCID panels as an adjunct test to the SoC dominated SoC alone without Cobas Eplex BCID panels, saving US$164 per patient and averting 24 deaths per 10,000 patients. Earlier optimisation of ineffective empiric therapy generated half of the lives saved, with the majority of the remainder from reductions in AKI. This strategy was also dominant compared with other mRDTs. In a UK setting, Cobas Eplex BCID panels remained cost effective, saving £51 compared with SoC. Results were robust to scenarios varying key model inputs including time to pathogen identification with SoC. The model demonstrated improved patient survival and reduced average total costs with mRDT. The Cobas Eplex BCID panels, which have the largest pathogen coverage, reduced both mortality and overall costs compared with other mRDTs. Bloodstream infections (BSI) are responsible for significant morbidity and mortality, causing 250,000 deaths each year in Europe and the United States (US) [1]. Rapid treatment with an effective antimicrobial is potentially one of the most important elements of care for patients with BSI, and patients are typically treated with two broad-spectrum antimicrobials rapidly (within an hour) if BSI is suspected. Conventional methods to identify the cause of the BSI require culturation of blood culture bottles followed by Gram stain and sub-culture onto solid agar plates to isolate individual colonies. Molecular rapid diagnostic tests (mRDTs) allow detection of a range of different pathogens causing BSIs within a few hours of a blood culture bottle flagging positive [2]. These tests offer the potential to improve care by reducing time to appropriate therapy, which in turn can save lives and lower costs. This analysis used a decision-tree model to evaluate the costs and benefits of adding mRDTs to conventional methods. The study finds that mRDTs save lives and generate lower overall costs compared with standard of care (SoC) methods alone. Among the mRDTs, the Cobas® Eplex BCID panels, which detect the broadest spectrum of pathogens, were associated with the highest reduction in mortality and overall costs compared with other mRDTs.",
+            "abstract_zh": "血液感染（BSI）是全球主要的死亡原因之一。快速检测致病病原体有助于优化治疗、降低死亡率、遏制抗生素抗性并减少医疗成本。本研究评估了将分子快速诊断测试（mRDTs）添加到微生物标准护理（SoC）方法中的成本效益。评估的mRDTs包括Cobas® Eplex血培养鉴定（BCID）面板、BioFire BCID面板、BioFire BCID2面板、Accelerate PhenoTest™血培养（BC）试剂盒和Diasorin Verigene® BCID面板。构建了一个决策树模型，以量化添加mRDTs到SoC的增量成本和结果。输入数据来源于已发表的文献。分析考虑了65岁、45%为女性、疑似BSI的美国（US）医院住院人群。模型结果包括成本、30天死亡率、质量调整生命年（QALYs）和不良事件（艰难梭菌感染和急性肾损伤[AKI]）。在情景分析中，也考虑了将美国环境替换为英国（UK）环境。将Cobas Eplex BCID面板作为SoC的辅助测试的策略，在没有Cobas Eplex BCID面板的情况下，优于单独的SoC，每位患者节省164美元，每10,000名患者避免24人死亡。更早地优化无效的经验性治疗产生了一半的救生效果，其余大部分来自AKI的减少。与其他mRDTs相比，这种策略也是占优势的。在英国环境中，Cobas Eplex BCID面板仍然具有成本效益，与SoC相比节省了51英镑。结果对关键模型输入（包括SoC的病原体鉴定时间）的变化情景具有稳健性。该模型展示了mRDT改善患者生存和降低平均总成本的效果。Cobas Eplex BCID面板具有最大的病原体覆盖范围，与其他mRDTs相比，降低了死亡率和总体成本。血液感染（BSI）导致显著的发病率和死亡率，每年在欧洲和美国（US）造成250,000人死亡[1]。快速使用有效的抗生素治疗可能是BSI患者护理中最重要的元素之一，如果怀疑BSI，患者通常迅速（在一个小时内）用两种广谱抗生素治疗。传统方法识别BSI的原因需要血培养的培养...",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Cost-Effectiveness of Immunising Interventions to Reduce Respiratory Syncytial Virus Disease Burden in Infants in Australia",
+            "title_zh": "澳大利亚婴儿减少呼吸道合胞病毒疾病负担的免疫干预措施的成本效益",
+            "url": "https://doi.org/10.1007/s40273-026-01601-8",
+            "abstract_en": "Two immunising products are emerging to prevent the burden of respiratory syncytial virus (RSV) in infants: long-lasting monoclonal antibodies (mAbs) and maternal vaccines given during pregnancy (MV). This study assesses the potential cost-effectiveness of programs involving each product to help inform policy decisions related to their implementation in the Australian context. We developed an individual-based dynamic transmission model of RSV infection, linked to a clinical pathways model and cost-effectiveness model. We modelled key scenarios exploring varying eligibility and coverage of immunisation products for at-risk and not-at-risk populations, in addition to sensitivity analyses of immunisation characteristics, program costs and the impact of potential under-ascertainment of RSV burden. We estimated the cost-effectiveness of each program from a health system perspective, with results presented as incremental cost-effectiveness ratios in terms of cost per quality-adjusted life year gained (QALY). We found a combined program in which administration of MV during pregnancy is supplemented with a birth-dose of mAbs for newborns born without protection from MV is likely to be cost-saving, compared with the status quo of no MV or mAbs delivered. This program averted on average 41% of infant hospitalisations per year and reduced QALY losses by 33%. Programs combining infant immunisation products are likely to significantly reduce the burden of RSV disease in Australia, and be cost-saving. However, their estimated impact and cost-effectiveness is strongly dependent on key assumptions (i) the consistency and completeness of ascertainment of disease burden over time; (ii) the cost of a hospitalisation and immunising dose; (iii) the efficacy and durability of protection of the modelled products; and (iv) the timing and coverage of the immunisation delivery. Respiratory syncytial virus in infants causes significant disease burden in Australia and worldwide. Multiple immunising products are emerging—vaccines given during pregnancy to protect the newborn, and long-lasting monoclonal antibodies given to infants—but it is uncertain what the impact of these products will be at a population level. We found, using an individual-based model, that a combined program of products is likely to be cost-saving from a health system perspective.",
+            "abstract_zh": "两种免疫产品正在出现，以预防婴儿呼吸道合胞病毒（RSV）的负担：持久的单克隆抗体（mAbs）和怀孕期间给予的母体疫苗（MV）。本研究评估了涉及每种产品的计划的潜在成本效益，以帮助通知与它们在澳大利亚背景下实施相关的政策决策。我们开发了一个基于个体的RSV感染动态传播模型，与临床路径模型和成本效益模型相连。我们模拟了关键场景，探索了针对有风险和无风险人群的免疫产品的不同资格和覆盖范围，以及对免疫特征、计划成本和潜在的RSV负担低估影响的敏感性分析。我们从卫生系统的角度估计了每个计划的成本效益，结果以每增加一个质量调整生命年（QALY）的成本增量成本效益比（ICER）呈现。我们发现，与没有MV或mAbs交付的现状相比，一个结合计划，即在怀孕期间给予MV，并为没有MV保护的新生儿补充出生剂量的mAbs，可能是节省成本的。该计划平均每年避免了41%的婴儿住院，并减少了33%的QALY损失。结合婴儿免疫产品的计划可能会显著减少澳大利亚的RSV疾病负担，并且节省成本。然而，它们估计的影响和成本效益强烈依赖于关键假设：（i）随时间确定疾病负担的一致性和完整性；（ii）住院和免疫剂量的成本；（iii）模型产品保护的有效性和持久性；以及（iv）免疫交付的时机和覆盖范围。婴儿的呼吸道合胞病毒在澳大利亚和全球都造成了重大的疾病负担。多种免疫产品正在出现——怀孕期间给予的疫苗以保护新生儿，以及给予婴儿的持久单克隆抗体——但这些产品在人口层面上的影响尚不确定。我们发现，使用基于个体的模型，结合产品的计划可能从卫生系统的角度节省成本。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Public Health Impact and Cost-Effectiveness of Revising the Adolescent Meningococcal Vaccine Schedule in the United States",
+            "title_zh": "美国青少年脑膜炎球菌疫苗接种时间表修订的公共卫生影响及成本效益",
+            "url": "https://doi.org/10.1007/s40273-026-01599-z",
+            "abstract_en": "BACKGROUND: In 2025, invasive meningococcal disease (IMD) vaccination in United States (US) adolescents consisted of two standard of care (SoC) schedules: Q-Q-B-B (routine MenACWY [Q] at ages 11 and 16 years; MenB [B] under shared clinical decision-making [SCDM] at age 16 years and 6 months later) or Q-P-B (routine MenACWY at ages 11 and 16 years; MenABCWY [P] at age 16 years and MenB under SCDM 6 months later). We assessed public health impact (PHI) and cost-effectiveness (CE) of intervention strategies on the basis of potential implementation options and revisions to the adolescent meningococcal vaccine schedule proposed in June 2024 by the Centers for Disease Control and Prevention's Advisory Committee on Immunization Practices. METHODS: A model utilizing epidemiological and economic inputs compared projected outcomes for 27 intervention strategies (distinguished by vaccine type [Q, P, and/or B], recommendation type [routine, risk-based], and dosing interval for MenB-containing vaccines [0,6-month , 0,24-month]) versus no vaccination or SoC over 15 years (2025-2039). Discounted outcomes (societal perspective) included IMD cases, deaths, and quality-adjusted life-year losses averted; total direct and indirect costs; and incremental CE ratios. RESULTS: Retaining routine MenACWY at age 11-12 years and including routine or risk-based MenB-containing vaccines at age 16 years improved PHI versus SoC, particularly with 0,6-month dosing interval for MenB-containing vaccines. Five strategies incorporating MenABCWY improved PHI and were cost-saving versus SoC: Q-Q-B-B. CONCLUSIONS: Adolescent meningococcal vaccine schedule revisions retaining routine MenACWY and incorporating risk-based or routine MenABCWY may increase PHI in a cost-effective manner, minimizing the humanistic and economic burden of IMD.",
+            "abstract_zh": "背景：到2025年，美国青少年侵袭性脑膜炎球菌病（IMD）疫苗接种包括两种标准护理（SoC）时间表：Q-Q-B-B（11岁和16岁时常规接种MenACWY[Q]；16岁和6个月后根据共享临床决策制定（SCDM）接种MenB[B]）或Q-P-B（11岁和16岁时常规接种MenACWY；16岁时接种MenABCWY[P]，6个月后根据SCDM接种MenB）。我们根据疾病控制和预防中心免疫实践咨询委员会在2024年6月提出的青少年脑膜炎球菌疫苗接种时间表的潜在实施选项和修订，评估了干预策略的公共卫生影响（PHI）和成本效益（CE）。方法：一个利用流行病学和经济输入的模型比较了27种干预策略（根据疫苗类型[Q、P和/或B]、推荐类型[常规、基于风险]以及含MenB疫苗的剂量间隔[0,6个月，0,24个月]）与不接种疫苗或SoC在15年（2025-2039）内的预期结果。折现结果（社会视角）包括避免的IMD病例、死亡和质量调整寿命年损失；总直接和间接成本；以及增量CE比率。结果：保留11-12岁常规接种MenACWY，并在16岁时包括常规或基于风险的含MenB疫苗，与SoC相比提高了PHI，特别是对于含MenB疫苗的0,6个月剂量间隔。五种包含MenABCWY的策略提高了PHI，并且与SoC相比节省了成本：Q-Q-B-B。结论：保留常规MenACWY并纳入基于风险或常规MenABCWY的青少年脑膜炎球菌疫苗接种时间表修订，可能以成本效益的方式增加PHI，最小化IMD的人道和经济负担。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Component Clinical and Cost Outcomes Complementing Value of Information: Case Study of a Tuberculosis Diagnostics Clinical Trial",
+            "title_zh": "组件临床和成本结果补充信息价值：结核病诊断临床试验案例研究",
+            "url": "https://doi.org/10.1007/s40273-026-01595-3",
+            "abstract_en": "PURPOSE: Conventional value-of-information (VOI) analysis bases decisions on a composite cost-effectiveness measure that aggregates clinical and cost outcomes. We sought to highlight potentially informative tradeoffs by estimating and reporting the \"disaggregated\" components, allowing stakeholders-such as clinicians, patients, trial funders, policymakers, and trial networks-to identify what drives the value of additional research. METHODS: We used a microsimulation to project the value of a hypothetical trial comparing mortality associated with different tuberculosis screening strategies among hospitalized patients with human immunodeficiency virus (HIV) in South Africa. Apart from expressing VOI as conventional, \"aggregated\" net monetary benefit (NMB), we assessed \"disaggregated\" outcomes that contribute to NMB calculations: tuberculosis cases detected, deaths, life-years, and healthcare costs associated with trial-informed decisions. We varied key parameters in probabilistic sensitivity analysis. We considered two willingness-to-pay thresholds: US $3000/year of life saved (YLS) (~50% of South Africa's per-capita gross domestic product [GDP]); and $780/YLS, the willingness-to-pay value where decision uncertainty is highest, per the baseline analysis. RESULTS: At willingness to pay = $3000/YLS, implementing the post-trial optimal strategy would produce favorable incremental NMB ($654.3 million) and better clinical outcomes (57,000 additional tuberculosis cases detected, 16,000 fewer deaths, and 294,000 more life-years), but it would incur an additional $37.4 million in healthcare costs over 5 years. At willingness to pay = $780/YLS, implementing the post-trial optimal strategy would yield positive incremental NMB of $2.5 million while lowering healthcare costs by $11 million, but it would produce worse clinical outcomes: 18,000 fewer tuberculosis cases detected, 6,000 additional deaths, and 80,000 fewer life-years. CONCLUSIONS: Though a trial may yield positive NMB in conventional VOI analysis owing to expected cost savings, some clinical outcomes might be unfavorable. To better inform priorities, VOI studies should include disaggregated outcomes alongside aggregated NMB.",
+            "abstract_zh": "目的：传统的价值信息（VOI）分析基于一个综合的成本效益度量来做出决策，该度量聚合了临床和成本结果。我们试图通过估算和报告“分解”的组成部分来突出可能的信息权衡，使利益相关者（如临床医生、患者、试验资助者、政策制定者和试验网络）能够识别额外研究的价值驱动因素。方法：我们使用微观模拟来预测一个假设试验的价值，该试验比较了在南非住院的人类免疫缺陷病毒（HIV）患者中，不同结核病筛查策略相关的死亡率。除了将VOI表示为传统的“聚合”净货币效益（NMB）外，我们还评估了对NMB计算有贡献的“分解”结果：检测到的结核病例、死亡、寿命年和与试验知情决策相关的医疗成本。我们在概率敏感性分析中变化了关键参数。我们考虑了两个支付意愿阈值：美国3000美元/年的寿命拯救（YLS）（约南非人均国内生产总值[GDP]的50%）；和780美元/YLS，这是基线分析中决策不确定性最高的支付意愿值。结果：在支付意愿=3000美元/YLS时，实施试验后的最佳策略将产生有利的增量NMB（6.543亿美元）和更好的临床结果（额外检测到57,000例结核病例，减少16,000例死亡，增加294,000寿命年），但它将在5年内增加3740万美元的医疗成本。在支付意愿=780美元/YLS时，实施试验后的最佳策略将产生正的增量NMB250万美元，同时降低1100万美元的医疗成本，但它将产生更差的临床结果：少检测到18,000例结核病例，增加6,000例死亡，减少80,000寿命年。结论：尽管试验可能因预期的成本节省而在传统的VOI分析中产生正的NMB，但一些临床结果可能是不利的。为了更好地通知优先事项，VOI研究应包括与聚合NMB一起的分解结果。",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "From Paper to Platform: Updating the Dutch Costing Manual and Launching a Web Application",
+            "title_zh": "从纸张到平台：更新荷兰成本手册并推出网络应用程序",
+            "url": "https://doi.org/10.1007/s40273-026-01590-8",
+            "abstract_en": "BACKGROUND AND OBJECTIVE: The Dutch costing manual, part of the national guideline for economic evaluations, provides reference prices and standardized cost calculation methods to ensure transparency and comparability. Since its last update in 2015, new evidence, updated cost data, and user needs prompted an updated version to reflect current best practices and expand scope. The aim of this article is to present the update of the costing manual and the introduction of the web application facilitating regular updates. METHODS: The update of the costing manual followed a three-step approach. First, improvement needs were identified by user surveys and experts. Secondly, methodological guidance was revised using recent literature, national data sources, and expert input. Thirdly, the reference prices were updated. In parallel, a technical web application was developed and tested to facilitate ongoing digital access and regular updates. RESULTS: The updated costing manual consists of revised and updated references prices, including expanded intersectoral reference prices (e.g., education and justice). Clearer methodological guidance and improved transparency were established. Testing showed that the web-based application was intuitive to use and accurately reproduced reference prices consistent with the updated costing manual. CONCLUSIONS: The costing manual was updated in line with the recent guidelines for economic evaluations. The manual is a comprehensive manual for use in costing studies for economic evaluations in healthcare from a societal perspective. The web-based application translated the costing manual into a practical digital tool, automating cost calculations and demonstrated usability, accuracy, and consistency with the manual.",
+            "abstract_zh": "背景与目的：荷兰成本手册是国家经济评估指南的一部分，提供参考价格和标准化成本计算方法，以确保透明度和可比性。自2015年上次更新以来，新的证据、更新的成本数据和用户需求促使更新版本以反映当前最佳实践并扩大范围。本文的目的是介绍成本手册的更新和引入网络应用程序以促进定期更新。方法：成本手册的更新遵循了三步方法。首先，通过用户调查和专家确定改进需求。其次，使用最新文献、国家数据源和专家意见修订方法指导。第三，更新参考价格。同时，开发并测试了一个技术网络应用程序，以促进持续的数字访问和定期更新。结果：更新后的成本手册包括修订和更新的参考价格，包括扩大的跨部门参考价格（例如，教育和司法）。建立了更清晰的方法指导和提高透明度。测试表明，基于网络的应用程序易于使用，并准确再现了与更新后的成本手册一致的参考价格。结论：成本手册根据最新的经济评估指南进行了更新。该手册是一个全面的手册，用于从社会角度进行卫生保健经济评估的成本研究。基于网络的应用程序将成本手册转化为实用的数字工具，自动化成本计算，并展示了可用性、准确性和与手册的一致性。",
+            "matched_topics": [
               "创新药"
             ]
           }
@@ -1872,129 +1864,93 @@
         "query_name": "Value in Health",
         "issn": "1098-3015",
         "resolved_name": "Value in Health",
-        "issue_title": "Volume 29, Issue 4",
+        "issue_title": "Volume 29, Issue 5",
         "issue_url": "https://www.valueinhealthjournal.com/",
-        "matched_count": 11,
-        "total_in_issue": 26,
+        "matched_count": 8,
+        "total_in_issue": 25,
         "papers": [
           {
-            "title_en": "Face Validation of an Artificial Intelligence Driven Tool for Clinical Triaging in Australian Public Oral Healthcare: A Pilot Study",
-            "title_zh": "澳大利亚公共口腔医疗临床分流中人工智能驱动工具的人脸验证：一项试点研究",
-            "url": "https://doi.org/10.1016/j.jval.2025.12.001",
-            "abstract_en": "OBJECTIVES: The adoption of artificial intelligence (AI) technology holds significant potential to drive innovation for value-based healthcare for Victorian public oral healthcare, Australia. This pilot study compared the clinical triage decision outcome of experienced dentists in prioritizing consumers with urgent dental care at Your Community Health, a community health service in Victoria, Australia, with those generated by the CoTreat AI-driven tool (CoTreat Pty Ltd, Australia). METHODS: Consecutive sampling of consumers were recruited for the 6-month pilot. Five clinical criteria were established to determine consumers with urgent care: (1) requires urgent extraction causing loss of upper or lower anterior teeth, (2) multiple teeth (≥15% of remaining dentition) with moderate/extensive dental caries, (3) abscessed tooth/teeth, (4) root caries, and (5) missing upper and lower anterior teeth. Face validation was undertaken to compare the agreement between the triage output returned by CoTreat (index test) and 2 experienced dentists (reference standard) in determining urgent care. RESULTS: A total of 173 consumers were triaged in this pilot study (mean age 61.9 years [SD 18.]). One-third (n = 57) were identified needing urgent care. CoTreat achieved 98.3% agreement with dentist clinical triage outcome (Cohen's k = 0.96), 100% sensitivity, and 97.5% specificity, with positive predictive value of 94.7% and negative predictive value of 100%. The most common triage criteria were missing anterior teeth (60.3%) and abscesses (20.7%). CONCLUSIONS: CoTreat demonstrated excellent agreement with dentists' clinical triage decisions. AI-driven tools, such as CoTreat, can advance value-based healthcare implementation by identifying consumers with urgent care needs for Victorian public oral healthcare.",
-            "abstract_zh": "目标：采用人工智能（AI）技术对于推动澳大利亚维多利亚州公共口腔保健的价值基础医疗创新具有重大潜力。本试点研究比较了在维多利亚州澳大利亚社区健康服务Your Community Health中，经验丰富的牙医在优先考虑急需牙科护理的消费者时的临床分诊决策结果，与CoTreat AI驱动工具（CoTreat Pty Ltd，澳大利亚）生成的结果。方法：连续抽样的消费者被招募参加为期6个月的试点。建立了五个临床标准来确定急需护理的消费者：（1）需要紧急拔牙导致上颌或下颌前牙缺失，（2）多颗牙齿（≥15%的剩余牙齿）中度/广泛龋齿，（3）脓肿牙齿/牙齿，（4）根龋，以及（5）缺失上颌和下颌前牙。进行面部验证，比较CoTreat（指数测试）返回的分诊输出与2位经验丰富的牙医（参考标准）在确定紧急护理时的一致性。结果：本试点研究共对173名消费者进行了分诊（平均年龄61.9岁[SD 18]）。三分之一（n = 57）被确定需要紧急护理。CoTreat与牙医临床分诊结果的一致性达到98.3%（Cohen's k = 0.96），敏感性100%，特异性97.5%，阳性预测值为94.7%，阴性预测值为100%。最常见的分诊标准是缺失前牙（60.3%）和脓肿（20.7%）。结论：CoTreat与牙医的临床分诊决策显示出极佳的一致性。像CoTreat这样的AI驱动工具，可以通过识别维多利亚州公共口腔保健中急需护理的消费者，推进价值基础医疗的实施。",
+            "title_en": "A Practical Method for Estimating Generalized Risk-Adjusted Cost-Effectiveness Utilities and Willingness-to-Pay Corrections",
+            "title_zh": "实用估算广义风险调整成本效益效用和支付意愿校正的方法",
+            "url": "https://doi.org/10.1016/j.jval.2025.12.005",
+            "abstract_en": "OBJECTIVES: Commonly used health-related utility measures fail to account for risk preferences. Generalized Risk-Adjusted Cost-Effectiveness (GRACE) solves this problem, but it currently requires visual analog scale (VAS) measures of health states, which may not be available to the analyst. We develop an empirically based approach for constructing GRACE utilities from existing time trade-off (TTO) utilities. METHODS: Using nationally representative patient-level data on both VAS and TTO measures of health states, we estimate a mapping from TTO to VAS. Using published estimates of GRACE utility over the VAS domain, we present estimates allowing analysts to map from existing TTO utility to GRACE and to make corresponding willingness-to-pay threshold corrections. RESULTS: Compared with expo-power and hyperbolic absolute risk-aversion models, a linear model provides the best mapping from TTO utilities to VAS measures of health state. We find TTO utilities approximate VAS reasonably well for moderate health state utilities but suffer from more approximation error elsewhere. Notably, TTO underestimates VAS health for the sickest health states, eg, for TTO levels below 0.4. CONCLUSIONS: A straightforward linear mapping permits analysts to estimate GRACE using traditional TTO health state utilities. Many existing studies use time-trade-off utilities in place of VAS. Our results suggest that this existing approach underestimates the GRACE value of health improvements for the sickest patients. Our study provides a solution without requiring generation of new data.",
+            "abstract_zh": "目标：常用的与健康相关的效用度量未能考虑到风险偏好。广义风险调整成本效益（GRACE）解决了这个问题，但它目前需要视觉模拟量表（VAS）来衡量健康状况，这可能无法为分析师所获得。我们开发了一种基于实证的方法，从现有的时间交易（TTO）效用中构建GRACE效用。方法：使用全国代表性的患者级数据，对VAS和TTO两种健康状况的度量进行估计，我们估计了从TTO到VAS的映射。利用已发表的GRACE效用在VAS领域的估计，我们提出了允许分析师从现有的TTO效用映射到GRACE，并进行相应的支付意愿阈值校正的估计。结果：与指数-幂模型和双曲绝对风险厌恶模型相比，线性模型提供了从TTO效用到VAS健康状况度量的最好映射。我们发现，对于中等健康状况效用，TTO效用合理地近似VAS，但在其他地方存在更多的近似误差。值得注意的是，TTO低估了最严重健康状况的VAS健康，例如，对于TTO水平低于0.4的情况。结论：一个简单的线性映射允许分析师使用传统的TTO健康状况效用来估计GRACE。许多现有研究使用时间交易效用代替VAS。我们的结果表明，这种现有方法低估了对最严重患者的健康改善的GRACE价值。我们的研究提供了一个解决方案，而无需生成新的数据。",
             "matched_topics": [
-              "企业创新",
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Influence of Initial Imaging Modality on Peri-Diagnostic Outcomes Among Pancreatic, Liver, Ovarian, and Bladder Cancers Without Routine Screening Programs: A Surveillance, Epidemiology, and End Results-Medicare Study",
+            "title_zh": "初始影像学检查方式对胰腺、肝脏、卵巢和膀胱癌无常规筛查计划的围诊断结果的影响：一项基于监测、流行病学和结果-医疗保险的研究",
+            "url": "https://doi.org/10.1016/j.jval.2025.11.011",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Exploring Methods to Include Carbon Emissions Into a Health Technology Assessment: The Case of Remote Patient Monitoring",
-            "title_zh": "探索将碳排放纳入健康技术评估的方法：以远程患者监测为例",
-            "url": "https://doi.org/10.1016/j.jval.2025.11.007",
-            "abstract_en": "OBJECTIVES: To examine how 2 methodological approaches can be applied to incorporate environmental outcomes in Health Technology Assessment, using remote patient monitoring (RPM) versus usual care (UC) after cardiac surgery. METHODS: eq; scenario analysis up to €0.21/kg) and added to costs. In multicriteria decision analysis (MCDA), 6 criteria including environmental impact were evaluated with Analytical Hierarchy Process, using stakeholder valuations. RESULTS: eq per patient), driven by device production, partly offset by reduced unplanned care, outpatient visits, and patient travel. Despite higher emissions, RPM remained cost-saving (€102 per patient) with a positive incremental net monetary benefit (€42); only 1% of cost difference was attributable to emissions. In the MCDA, RPM outperformed UC in 5 of 6 criteria, with UC only favored on environmental impact. Stakeholders assigned moderate weight to the environmental criterion, resulting in a higher overall value score for RPM (0.649 vs 0.351). CONCLUSIONS: Both methods were feasible and, despite RPM's higher carbon emissions, pointed to the same conclusion. Economic evaluation had little impact at current carbon prices, whereas MCDA allowed explicit sustainability considerations but is sensitive to subjective choices. Overall, environmental outcomes may be better addressed through deliberative Health Technology Assessment processes, with broader policy instruments key to reducing healthcare's carbon emissions.",
-            "abstract_zh": "目的：研究如何应用两种方法论途径将环境结果纳入心脏手术后远程患者监测（RPM）与常规护理（UC）的卫生技术评估中。方法：在成本效益分析中，计算了RPM与UC之间的成本差异（每公斤0.21欧元）并加到成本中。在多标准决策分析（MCDA）中，使用分析层次过程评估了包括环境影响在内的6个标准，并使用利益相关者估值。结果：RPM的每患者等效成本较低，主要由设备生产驱动，部分被减少的非计划护理、门诊访问和患者旅行所抵消。尽管排放量更高，RPM仍然是节省成本的（每患者102欧元），具有正的增量净货币效益（42欧元）；成本差异中只有1%归因于排放。在MCDA中，RPM在6个标准中的5个标准上优于UC，UC仅在环境影响上受到青睐。利益相关者对环境标准赋予了适度的权重，导致RPM的整体价值得分更高（0.649对0.351）。结论：两种方法都是可行的，尽管RPM的碳排放量更高，但得出了相同的结论。在当前的碳价格下，经济评估影响很小，而MCDA允许明确的可持续性考虑，但对主观选择敏感。总体而言，环境结果可能更好地通过审议性的卫生技术评估流程来解决，更广泛的政策工具是减少医疗保健碳排放的关键。",
+            "title_en": "International Reference Pricing: Impact of Changing the Basket of Reference Countries on Ability to Reference and on Drug Launch Prices in 6 Markets",
+            "title_zh": "国际参考定价：改变参考国家篮子对参考能力和6个市场中药品上市价格的影响",
+            "url": "https://doi.org/10.1016/j.jval.2025.11.018",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Methods for Evaluation of Surrogate Endpoints for Health Technology Assessment Decision Making: A Good Practices Report of an ISPOR Task Force",
+            "title_zh": "健康技术评估决策中替代终点评估方法：ISPOR工作组良好实践报告",
+            "url": "https://doi.org/10.1016/j.jval.2026.01.020",
+            "abstract_en": "Surrogate endpoints are frequently used as primary outcomes in clinical trials. This is appropriate when they are validated for their ability to predict clinical benefit measured on patient-relevant target outcome(s). Such validation is often lacking, thus increasing uncertainty in the decision-making process of regulatory bodies, health technology assessment agencies and payers. This ISPOR Task Force Report provides recommendations on best practices for surrogate endpoint evaluation for health technology assessment decision making. It covers methods that address the 3 levels of evidence for surrogate endpoint validation described in several methodological guidelines: (1) association between treatment effects on the surrogate and the target outcome, (2) association between the surrogate and the target outcome, and (3) biological plausibility. Statistical methods for surrogate endpoint evaluation include meta-analytic approaches using individual participant data or aggregate data. Multivariate meta-analytic models are recommended because they account for the within-study correlation and estimation errors. Issues with limited data and generalizability might be addressed through Bayesian approaches for information sharing from different treatments, treatment classes or indications. Real-world data can complement randomized controlled trial data, especially in rare diseases, but require careful consideration of underlying bias. For plausibility of health economic modeling, the surrogacy analysis and the health economic model should be aligned. The modeled time course of surrogate and target outcomes per treatment arm, as well as the modeled relative effects, should be reported to assess plausibility. Parameter and structural uncertainty in surrogate relationships can be explored through scenario analyses, probabilistic sensitivity analyses, value of information analyses, and threshold analysis techniques.",
+            "abstract_zh": "替代终点经常作为临床试验中的主要结果。当它们被验证能够预测以患者相关目标结果衡量的临床效益时，这种使用是恰当的。这种验证常常缺失，从而增加了监管机构、卫生技术评估机构和支付方决策过程中的不确定性。本ISPOR工作组报告为卫生技术评估决策提供了关于替代终点评估的最佳实践建议。它涵盖了解决几个方法学指南中描述的替代终点验证的3个证据水平的方法：（1）治疗对替代终点和目标结果的影响之间的关联，（2）替代终点和目标结果之间的关联，以及（3）生物学合理性。替代终点评估的统计方法包括使用个体参与者数据或汇总数据的元分析方法。推荐使用多变量元分析模型，因为它们考虑了研究内相关性和估计误差。通过贝叶斯方法从不同治疗、治疗类别或适应症共享信息，可能解决数据有限和普遍性问题。真实世界数据可以补充随机对照试验数据，特别是在罕见疾病中，但需要仔细考虑潜在的偏差。为了健康经济模型的合理性，替代性分析和健康经济模型应该保持一致。应该报告每个治疗组的替代和目标结果的时间过程模型，以及模型的相对效果，以评估合理性。可以通过情景分析、概率敏感性分析、信息价值分析和阈值分析技术探索替代关系中的参数和结构不确定性。",
             "matched_topics": [
               "医疗创新",
               "创新药"
             ]
           },
           {
-            "title_en": "Estimating the Shares of the Value of Branded Pharmaceuticals Accruing to Manufacturers and to Patients in the Thai Healthcare System",
-            "title_zh": "泰国医疗系统中品牌药品价值在制造商和患者之间的分配份额估算",
-            "url": "https://doi.org/10.1016/j.jval.2025.10.004",
-            "abstract_en": "OBJECTIVES: This article aims to inform which pricing policies for new pharmaceuticals will benefit population health most, and which will not, by drawing out the implications of current pricing policy in Thailand for the value that new, branded pharmaceuticals bring to the population. METHODS: We quantify the lifecycle value in terms of net population health gains of 9 new, branded pharmaceutical and indication combinations by evaluating lifetime health gains and reimbursement costs, considering the availability of generics or biosimilars. We then analyze how the value is shared between the population and manufacturers. RESULTS: Two-thirds of the pharmaceutical and indication combinations generated net population health gains over their lifecycle, with more than 90% of the total potential net health effects benefiting patients within the Thai healthcare system. However, manufacturers received a low proportion of value. Key factors driving these outcomes included delayed adoption of new pharmaceuticals and entry of generics or biosimilars. Conversely, 2 pharmaceuticals that were approved despite being deemed cost-ineffective resulted in net losses to population health. CONCLUSIONS: Quantification of the lifecycle value of new pharmaceuticals can better inform policies that enhance population health. In Thailand, policies that could improve overall population health include earlier adoption of new pharmaceuticals alongside careful price regulation and expedited generic entry. These approaches could also provide mechanisms to signal research and development priorities effectively.",
-            "abstract_zh": "目的：本文旨在通过分析泰国当前药品定价政策对新品牌药品为人群健康带来的价值的影响，来告知哪些新药品的定价政策最有利于人群健康，哪些则不然。方法：我们通过评估9种新品牌药品及其适应症组合的终身健康增益和报销成本，量化了其生命周期价值，并考虑了仿制药或生物类似药的可用性。然后分析了价值如何在人群和制造商之间共享。结果：三分之二的药品和适应症组合在其生命周期内产生了净人群健康增益，超过90%的总潜在净健康效应使泰国医疗保健系统内的患者受益。然而，制造商获得的价值比例较低。导致这些结果的关键因素包括新药品的采用延迟以及仿制药或生物类似药的进入。相反，尽管被认为成本效益不高，但有2种药品获批导致人群健康净损失。结论：量化新药品的生命周期价值可以更好地为提高人群健康的政策提供信息。在泰国，可以改善整体人群健康的政策包括尽早采用新药品，同时谨慎进行价格调控和加快仿制药的进入。这些方法还可以提供有效信号研发优先事项的机制。",
+            "title_en": "Estimating the Global Macroeconomic Impact of Tuberculosis Among Children and Adolescents",
+            "title_zh": "全球儿童和青少年结核病对宏观经济影响的估计",
+            "url": "https://doi.org/10.1016/j.jval.2025.12.007",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
-              "产业经济",
+              "国际经济"
+            ]
+          },
+          {
+            "title_en": "Assessing the Role of Presurgical Information on Patient-Reported Outcomes: A Causal Analysis",
+            "title_zh": "评估术前信息对患者报告结果的作用：一项因果分析",
+            "url": "https://doi.org/10.1016/j.jval.2025.12.003",
+            "abstract_en": "OBJECTIVES: Breast cancer poses a global burden on individuals and healthcare systems, with millions of women undergoing surgery annually. Recently, there has been growing recognition of the importance of patient-centered care, leading to increased interest in patient-reported outcome measures. In oncology, this has translated into the use of validated tools, such as the BREAST-Q survey, which is designed for a range of breast surgery procedures, and it is specifically applicable in breast cancer. Using BREAST-Q data collected at the University Hospital of Pisa (Italy) between 2018 and 2022 from a sample of 482 women, this study explores the causal relationship between the preoperative information provided by the breast surgeon and patients' postsurgery satisfaction. METHODS: We use Item Response Theory models to estimate patient-level satisfaction with presurgery information and with breast outcomes. Using these estimated latent traits, we assess the causal effect of satisfaction with presurgery information on postsurgery breast satisfaction through an exposure-response curve, accounting for various preexposure individual characteristics. RESULTS: Findings show a strong, positive, and statistically significant causal relationship between preoperative information and postoperative satisfaction. CONCLUSIONS: In a healthcare landscape increasingly constrained by time and resources, healthcare organizations should note the causal link between communication and patient-reported outcomes and strive to create environments that support meaningful patient-centered interactions.",
+            "abstract_zh": "目标：乳腺癌给个人和医疗系统带来全球性负担，每年有数百万女性接受手术。最近，人们越来越认识到以患者为中心的护理的重要性，这导致对患者报告的结果测量越来越感兴趣。在肿瘤学中，这转化为使用经过验证的工具，如BREAST-Q调查，该调查设计用于一系列乳房手术程序，并且特别适用于乳腺癌。本研究利用2018年至2022年在意大利比萨大学医院收集的482名女性的BREAST-Q数据，探讨乳腺外科医生提供的术前信息与患者术后满意度之间的因果关系。方法：我们使用项目反应理论模型来估计患者对术前信息和乳房结果的满意度。利用这些估计的潜在特征，我们通过暴露-反应曲线评估术前信息满意度对术后乳房满意度的因果效应，同时考虑各种暴露前个体特征。结果：研究结果表明，术前信息与术后满意度之间存在强烈、积极且统计上显著的因果关系。结论：在越来越受时间和资源限制的医疗环境中，医疗组织应注意沟通与患者报告结果之间的因果联系，并努力创造支持有意义的以患者为中心的互动的环境。",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Technological Maturity and Cost-Effectiveness of Medical Artificial Intelligence: A Systematic Review of Health Economic Evaluations",
+            "title_zh": "医疗人工智能的技术成熟度与成本效益：卫生经济评价的系统综述",
+            "url": "https://doi.org/10.1016/j.jval.2026.01.014",
+            "abstract_en": "OBJECTIVES: This systematic review assessed the scope, reporting quality, and methodological risk of bias of health economic evaluations (HEEs) of medical artificial intelligence (AI) technologies, alongside the technological maturity of the AI systems assessed. METHODS: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 guidelines, 6 databases were searched through April 2025 for studies reporting economic outcomes of AI applications in healthcare. Reporting quality was evaluated using the AI-specific update of the Consolidated Health Economic Evaluation Reporting Standards checklist, methodological risk of bias using the ECOBIAS framework, and AI maturity using the Clinical Machine Learning Readiness Level (1-9). Inclusion of implementation and operational costs was examined, as well as their association with AI maturity. RESULTS: A total of 117 studies were included, with most published after 2021. Reporting quality was generally suboptimal, and ECOBIAS assessments highlight recurring risks of bias, particularly regarding incomplete cost inclusion, limited data transparency, inadequate uncertainty analysis, and insufficient model validation. Most studies evaluated AI tools at early development stages (63% at Clinical Machine Learning Readiness Level 4-5), with limited real-world validation. Although the majority of studies reported cost savings or cost-effectiveness, key cost categories were frequently omitted: only 28% included implementation costs, and 57% reported operational costs. CONCLUSIONS: Despite frequent claims of economic benefit, current HEEs of medical AI are constrained by limited reporting quality, risk of bias, and evaluations of immature technologies. Future HEEs should explicitly report technological maturity, incorporate full cost components, and use rigorous methods. Robust evaluations conducted at higher readiness levels are also needed to generate reliable evidence for policy making, reimbursement decisions, and responsible implementation.",
+            "abstract_zh": "目标：本系统综述评估了医疗人工智能（AI）技术健康经济评价（HEEs）的范围、报告质量和方法学偏倚风险，以及评估的AI系统的技术成熟度。方法：遵循系统综述和荟萃分析报告优选项目2020指南，通过2025年4月的6个数据库搜索，寻找报告AI在医疗保健中应用经济结果的研究。使用针对AI的更新版综合健康经济评价报告标准清单评估报告质量，使用ECOBIAS框架评估方法学偏倚风险，使用临床机器学习准备水平（1-9）评估AI成熟度。检查了实施和运营成本的包含情况，以及它们与AI成熟度的关联。结果：共纳入117项研究，大多数发表于2021年之后。报告质量普遍不佳，ECOBIAS评估突出了反复出现的偏倚风险，特别是关于成本包含不完整、数据透明度有限、不确定性分析不充分和模型验证不足。大多数研究评估了早期开发阶段的AI工具（63%处于临床机器学习准备水平4-5），且缺乏现实世界验证。尽管大多数研究报告了成本节省或成本效益，但关键成本类别经常被遗漏：只有28%包括了实施成本，57%报告了运营成本。结论：尽管经常声称具有经济效益，但当前医疗AI的HEEs受到报告质量有限、偏倚风险和评估不成熟技术的限制。未来的HEEs应明确报告技术成熟度，纳入全部成本组成部分，并使用严谨的方法。还需要在更高准备水平上进行稳健评估，以生成可靠的政策制定、报销决策和负责任实施的证据。",
+            "matched_topics": [
+              "医药产业",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Estimating Heterogeneous Treatment Effects With Real-World Health Data: A Scoping Review of Machine Learning Methods",
+            "title_zh": "利用现实世界健康数据估计异质性处理效应：机器学习方法的范围综述",
+            "url": "https://doi.org/10.1016/j.jval.2026.01.013",
+            "abstract_en": "OBJECTIVES: Heterogeneous treatment effects (HTEs) refer to differences in how individual patients or subgroups respond to the same treatment. Estimating HTEs helps target care to those most likely to benefit, improving outcomes and avoiding unnecessary interventions. Machine learning (ML) enables the use of real-world data (RWD) to estimate HTEs when randomized controlled trials are not feasible. However, practical guidance for applying these methods in health economics is lacking. To support method selection, we identified and categorized ML approaches to estimating HTEs in RWD and assessed the methodological quality of studies applying them. METHODS: We conducted a scoping review following Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews guidelines. PubMed, Scopus, Web of Science, EBSCO, and MEDLINE were searched for studies published between 2014 and 2025 that applied ML to estimate HTEs from RWD. Methodological quality was assessed using a standardized checklist. RESULTS: Of 1743 records screened, 74 met the inclusion criteria. We grouped the included studies into 3 categories: those using prediction-only approaches unsuited to HTE estimation (n = 8), those applying outcome modeling (n = 9), and those using customized conditional average treatment effect estimation (n = 58). Most innovations originated in the ML and statistics communities, with minimal uptake in health economics. Methodological quality was inconsistent and requires improvement. CONCLUSIONS: ML methods for HTE estimation are increasingly applied to RWD. Tree-based models are most common, and interest in customized conditional average treatment effect approaches is growing. Better evaluation standards and more transparent reporting are needed for these methods to become reliable tools for health economics research.",
+            "abstract_zh": "目标：异质性治疗效果（HTEs）指的是不同个体或亚组对相同治疗的反应差异。估计HTEs有助于将护理目标定位于最有可能受益的人群，改善结果并避免不必要的干预。机器学习（ML）使得在随机对照试验不可行时，能够利用真实世界数据（RWD）估计HTEs。然而，将这些方法应用于卫生经济学缺乏实践指导。为了支持方法选择，我们识别并分类了在RWD中估计HTEs的ML方法，并评估了应用这些方法的研究的方法学质量。方法：我们按照系统综述和荟萃分析扩展报告项目的首选报告项目指南进行了范围审查。在PubMed、Scopus、Web of Science、EBSCO和MEDLINE中搜索了2014年至2025年间应用ML从RWD估计HTEs的研究。使用标准化清单评估方法学质量。结果：在筛选的1743条记录中，74条符合纳入标准。我们将纳入的研究分为3类：使用不适合HTE估计的仅预测方法的研究（n=8），应用结果建模的研究（n=9），以及使用定制条件平均治疗效果估计的研究（n=58）。大多数创新源于ML和统计学界，在卫生经济学中的接受度很小。方法学质量不一致，需要改进。结论：ML方法用于HTE估计越来越多地应用于RWD。基于树的模型最为常见，对定制条件平均治疗效果方法的兴趣正在增长。要使这些方法成为卫生经济学研究的可靠工具，需要更好的评估标准和更透明的报告。",
+            "matched_topics": [
               "企业创新",
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "The Effect of Perspective, Duration, and Views on Death on the Valuation of Severe Health States",
-            "title_zh": "视角、持续时间和死亡观对严重健康状况评估的影响",
-            "url": "https://doi.org/10.1016/j.jval.2025.11.004",
-            "abstract_en": "OBJECTIVES: Composite time trade-off utilities typically vary by perspective: adults tend to assign lower utilities to health states for themselves (self-perspective) than for children (proxy-perspective). Utilities also differ between proxy-perspectives: i.e., deciding for a child (proxy1) vs imagining what a child wants (proxy2). This can cause health states to be evaluated as better than dead (BTD) under one perspective, yet worse than dead (WTD) under another. We investigate how such WTD preferences vary with health states across durations and perspectives, alongside sociocultural factors such as religion and attitudes toward death. As a secondary analysis, we explore the maximal endurable time hypothesis to assess the consistency of WTD preferences. METHODS: We surveyed 1000 UK respondents, stratified into 2 groups by religious affiliation (religious vs nonreligious). Each completed BTD tasks from a self-perspective and a randomly assigned proxy perspective (proxy1 or proxy2), involving 5 health states across 4 durations. Respondents also ranked all health states (without duration) and immediate death. RESULTS: In ranking tasks without duration, WTD preferences were unaffected by perspective or religious affiliation, whereas the proportion of states considered WTD increased with longer durations in paired comparisons in the BTD tasks among nonreligious participants. WTD preferences were associated with stronger support for euthanasia and lower religiousness. Maximal endurable time preferences showed minimal differences across perspectives or religious affiliations. CONCLUSIONS: Perspectives, duration, religious affiliation, and views on euthanasia shape WTD preferences. Future research is encouraged to consider religion in sampling and how to deal with the potential duration dependency of QALY-anchored utilities.",
-            "abstract_zh": "目标：复合时间权衡效用通常因视角而异：成人倾向于为自己（自我视角）分配较低的健康状态效用，而为儿童（代理视角）分配较高的效用。代理视角之间也存在效用差异，即，为儿童做决定（代理1）与想象儿童想要什么（代理2）之间的区别。这可能导致某些健康状态在一种视角下被评估为比死亡更好（BTD），而在另一种视角下则被评估为比死亡更差（WTD）。我们研究了这种WTD偏好如何随着健康状态、持续时间以及视角的变化而变化，同时考虑了社会文化因素，如宗教和对死亡的态度。作为次要分析，我们探讨了最大可忍受时间假设，以评估WTD偏好的一致性。方法：我们调查了1000名英国受访者，按宗教信仰分为两组（宗教与非宗教）。每个人从自我视角和随机分配的代理视角（代理1或代理2）完成BTD任务，涉及5种健康状态和4个持续时间。受访者还对所有健康状态（不考虑持续时间）和立即死亡进行了排名。结果：在不考虑持续时间的排名任务中，WTD偏好不受视角或宗教信仰的影响，而在非宗教参与者中，随着BTD任务中持续时间的延长，被认为是WTD状态的比例在配对比较中增加。WTD偏好与对安乐死的更强支持和较低的宗教性相关。最大可忍受时间偏好在视角或宗教信仰之间显示出最小的差异。结论：视角、持续时间、宗教信仰和对安乐死的看法塑造了WTD偏好。鼓励未来的研究考虑抽样中的宗教因素，以及如何处理与QALY锚定效用潜在的持续时间依赖性。",
-            "matched_topics": [
-              "国际贸易",
               "创新药"
-            ]
-          },
-          {
-            "title_en": "A Forward Agenda for Digital Health Technologies: Evidence That Works for Decisions",
-            "title_zh": "数字健康技术前瞻议程：为决策提供有效证据",
-            "url": "https://doi.org/10.1016/j.jval.2026.02.007",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医疗创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "How Good Is Good Enough? A Simulation Study of Adaptive Health Technology Assessment",
-            "title_zh": "多好才算足够好？适应性健康技术评估的模拟研究",
-            "url": "https://doi.org/10.1016/j.jval.2026.01.006",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医疗创新"
-            ]
-          },
-          {
-            "title_en": "Implications of Incorporating Environmental Sustainability Into Health Technology Assessment for Digital Health Technologies",
-            "title_zh": "将环境可持续性纳入数字健康技术健康技术评估的影响",
-            "url": "https://doi.org/10.1016/j.jval.2026.01.019",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医疗创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Evaluation of Health Technology Assessment Frameworks for In Vivo Diagnostics: Assessing Methodological Gaps and Implications for Market Access",
-            "title_zh": "体内诊断技术评估框架的评估：评估方法学差距及其对市场准入的影响",
-            "url": "https://doi.org/10.1016/j.jval.2025.05.001",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医疗创新"
-            ]
-          },
-          {
-            "title_en": "Qini Curves for Potential Impact Assessment of Risk Predictive Models Informing Intervention Policies",
-            "title_zh": "秦尼曲线：评估风险预测模型对干预政策潜在影响",
-            "url": "https://doi.org/10.1016/j.jval.2025.01.024",
-            "abstract_en": "OBJECTIVES: Predictive models in medicine help make decisions about which individual to treat with a given therapeutic or preventive intervention. Before being tested in large field studies and recommended for clinical adoption, it is important to evaluate not only their statistical accuracy but also the impact they may have when used to inform health intervention policies. We aim to provide simple methods for the potential impact assessment of health intervention policies based on predictive models. METHODS: We propose an analytic framework based on Qini curves wherein prediction-based policies are analyzed on 2 impact endpoints: (1) the fraction of the population that would be selected for the intervention (coverage) and (2) the effect on the clinical outcomes of interest (disutility). The drivers of values are the disease prevalence, the predictive performance of the model, and the effectiveness of the intervention. RESULTS: We present simple formulas for calculating coverage and disutility from either observational or randomized controlled data. We illustrate possible value measures arising from geometrical properties on the Qini plane: delta coverage and disutility, number needed to treat, and integrated difference between Qini curves. We show the applicability of the Qini analysis by providing examples about the prevention of falls in older adults and prevention of secondary cardiovascular events with pioglitazone. CONCLUSIONS: Coverage and disutility capture key value components of prediction-based policies. The method can be used for comparing models or tuning risk thresholds for managing trade-offs between conflicting objectives (eg, clinical benefits, side effects, and healthcare resources).",
-            "abstract_zh": "目标：医学中的预测模型有助于决定对哪些个体使用特定的治疗或预防干预措施。在进行大规模现场研究和推荐临床应用之前，评估这些模型不仅需要考虑它们的统计准确性，还需要评估它们在用于指导健康干预政策时可能产生的影响。我们旨在提供基于预测模型的健康干预政策潜在影响评估的简单方法。方法：我们提出了一个基于Qini曲线的分析框架，在此框架中，基于预测的政策在两个影响终点上进行分析：（1）将被选为干预对象的人口比例（覆盖率）和（2）对感兴趣的临床结果的影响（无用性）。这些值的驱动因素是疾病流行率、模型的预测性能和干预措施的有效性。结果：我们提出了从观察性或随机对照数据中计算覆盖率和无用性的简单公式。我们通过Qini平面上的几何属性说明了可能出现的价值度量：覆盖率和无用性的差异、需要治疗的人数，以及Qini曲线之间的综合差异。我们通过提供关于预防老年人跌倒和使用吡格列酮预防心血管次级事件的例子来展示Qini分析的适用性。结论：覆盖率和无用性捕捉了基于预测的政策的关键价值组成部分。该方法可用于比较模型或调整风险阈值，以管理相互冲突的目标之间的权衡（例如，临床效益、副作用和医疗资源）。",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "From Consensus to Implementation: Advancing Patient-Centered Health Technology Assessment",
-            "title_zh": "从共识到实施：推进以患者为中心的健康技术评估",
-            "url": "https://doi.org/10.1016/j.jval.2025.11.022",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医疗创新"
-            ]
-          },
-          {
-            "title_en": "Toward a Harmonized Health Technology Assessment Framework for Digital Health Technologies in Europe",
-            "title_zh": "迈向欧洲数字健康技术统一健康技术评估框架",
-            "url": "https://doi.org/10.1016/j.jval.2025.12.004",
-            "abstract_en": "OBJECTIVES: The increasing use of digital health technologies (DHTs) in Europe presents opportunities and challenges. Although DHTs could enhance care delivery and health outcomes, existing health technology assessment (HTA) methods often lack flexibility to address their diverse, fast-evolving nature. This article explores the perspectives of 5 stakeholder groups-policy makers, HTA agencies, technology developers, healthcare providers, and patients-regarding the development of a harmonized HTA framework for DHTs within the Horizon Europe funded European Digital Health Technology Assessment (EDiHTA) project. METHODS: Findings are drawn from mixed-method research, including stakeholder surveys, interviews and focus groups with 97 stakeholders across European countries. The analysis of the data was performed per each stakeholder group through thematic analysis to identify points of consensus before identifying needs and requirements across stakeholders, relevant to the development of EDiHTA, using the Innovation Health Technology Assessment Methods framework. RESULTS: Results from 8 focus groups and more than 45 interviews are presented concentrating on 5 main themes. The emerging themes focus on the need for harmonization of HTA methods related to DHTs, the current characteristics of DHTs that are most highly valued, the importance of multistakeholder collaboration, the principles of a concept design for EDiHTA framework, and the discussion on the most relevant domains and criteria to be considered. CONCLUSIONS: Stakeholders agreed that a harmonized HTA framework is needed; however, differences persist regarding timing and flexibility of evaluation, evidence types, and stakeholder involvement. The EDiHTA project will address differences through framework piloting, supported by multistakeholder workshops and expert advisory groups.",
-            "abstract_zh": "目标：在欧洲，数字健康技术（DHTs）的日益普及带来了机遇和挑战。尽管DHTs可能增强护理服务和健康结果，但现有的健康技术评估（HTA）方法往往缺乏灵活性，无法应对其多样化和快速发展的特性。本文探讨了5个利益相关者群体——政策制定者、HTA机构、技术开发者、医疗保健提供者和患者——对于在欧洲地平线资助的欧洲数字健康技术评估（EDiHTA）项目中开发一个协调一致的DHTs HTA框架的观点。方法：研究结果来自混合方法研究，包括对97个欧洲国家利益相关者的调查、访谈和焦点小组讨论。数据分析是按照每个利益相关者群体通过主题分析进行的，以确定共识点，然后确定与EDiHTA开发相关的跨利益相关者的需求和要求，使用创新健康技术评估方法框架。结果：来自8个焦点小组和45多次访谈的结果集中在5个主要主题上。新出现的主题集中在需要协调与DHTs相关的HTA方法、当前最有价值的DHTs特性、多方利益相关者合作的重要性、EDiHTA框架的概念设计原则，以及讨论需要考虑的最相关领域和标准。结论：利益相关者一致认为需要一个协调一致的HTA框架；然而，在评估的时间和灵活性、证据类型以及利益相关者参与方面仍存在差异。EDiHTA项目将通过框架试点来解决这些差异，得到多方利益相关者研讨会和专家咨询小组的支持。",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新",
-              "医疗创新"
             ]
           }
         ],
@@ -2031,16 +1987,6 @@
             ]
           },
           {
-            "title_en": "Menu Changes Under NYC’s Revised Food Standards Were Associated With A Reduction In Greenhouse Gas Emissions",
-            "title_zh": "纽约市修订食品标准下的菜单变化与温室气体排放减少相关",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01669",
-            "abstract_en": "Local policy makers increasingly have implemented nutrition standards for municipal programs to advance population health and climate change goals. Yet little is known about the impact of these policies. In 2008, New York City established nutrition standards for food purchased and served by city agencies, and in 2022, it revised the standards to limit meat and increase plant-based options. Using menu data from four agencies serving 77 percent of all city meals, we examined changes in their entrée offerings, as well as greenhouse gas and nutrition content associated with their total menu offerings, from fiscal year 2019 through fiscal year 2024. All agencies reduced the frequency of beef entrées offered on menus and increased the frequency of vegetarian entrées. Changes in total menu offerings were associated with an estimated reduction of 0.64 kilograms of carbon dioxide equivalent in greenhouse gas emissions per portion across all agencies and programs, while the nutrition content generally remained consistent. These findings suggest that municipal food standards can support greenhouse gas reductions without compromising nutrition, and they offer a model for other jurisdictions seeking to advance both population and environmental health goals.",
-            "abstract_zh": "地方政策制定者越来越多地实施市政项目的营养标准，以推进人口健康和气候变化目标。然而，这些政策的影响尚不清楚。2008年，纽约市为城市机构购买和提供的食品建立了营养标准，并在2022年修订了这些标准，以限制肉类并增加植物性选择。我们利用四个机构的菜单数据，这些机构提供了全市77%的餐食，检查了他们的主菜供应变化，以及与他们总菜单供应相关的温室气体和营养含量，从2019财年到2024财年。所有机构都减少了菜单上提供的牛肉主菜的频率，并增加了素食主菜的频率。总菜单供应的变化与所有机构和项目每份食物温室气体排放估计减少0.64公斤二氧化碳当量相关，而营养含量总体上保持一致。这些发现表明，市政食品标准可以在不损害营养的情况下支持温室气体减排，它们为其他寻求推进人口和环境健康目标的司法管辖区提供了一个模式。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
             "title_en": "From Crisis To Strategy: Mainstreaming Climate Risk In Health Systems Planning",
             "title_zh": "从危机到战略：将气候风险纳入卫生系统规划主流",
             "url": "https://doi.org/10.1377/hlthaff.2025.01641",
@@ -2058,6 +2004,16 @@
             "abstract_zh": "美国医疗保健系统对气候变化有显著贡献，同时越来越多地面临其不利后果。尽管存在这一双重挑战，激励减少碳排放和使护理交付适应气候的政策努力仍然支离破碎。在本文中，我们确定了有潜力加速向低碳、气候智能医疗保健系统过渡的政策干预和其他策略。我们借鉴学术文献和现实世界的实施案例，提出了一个策略框架，强调支持绿色报销模式、将气候变化纳入卫生专业教育以及可持续采购标准的机制的证据。我们进一步检查了包括循环经济实践和强制碳核算在内的新兴政策杠杆。最后，我们强调了联邦和州政策制定者、支付者和卫生系统领导者指导未来行动的机会。确保卫生政策积极支持气候缓解和适应是一项道德和环境要求，也是提高质量、降低成本和推进健康公平的战略机遇。",
             "matched_topics": [
               "医药产业",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Menu Changes Under NYC’s Revised Food Standards Were Associated With A Reduction In Greenhouse Gas Emissions",
+            "title_zh": "纽约市修订食品标准下的菜单变化与温室气体排放减少相关",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01669",
+            "abstract_en": "Local policy makers increasingly have implemented nutrition standards for municipal programs to advance population health and climate change goals. Yet little is known about the impact of these policies. In 2008, New York City established nutrition standards for food purchased and served by city agencies, and in 2022, it revised the standards to limit meat and increase plant-based options. Using menu data from four agencies serving 77 percent of all city meals, we examined changes in their entrée offerings, as well as greenhouse gas and nutrition content associated with their total menu offerings, from fiscal year 2019 through fiscal year 2024. All agencies reduced the frequency of beef entrées offered on menus and increased the frequency of vegetarian entrées. Changes in total menu offerings were associated with an estimated reduction of 0.64 kilograms of carbon dioxide equivalent in greenhouse gas emissions per portion across all agencies and programs, while the nutrition content generally remained consistent. These findings suggest that municipal food standards can support greenhouse gas reductions without compromising nutrition, and they offer a model for other jurisdictions seeking to advance both population and environmental health goals.",
+            "abstract_zh": "地方政策制定者越来越多地实施市政项目的营养标准，以推进人口健康和气候变化目标。然而，这些政策的影响尚不清楚。2008年，纽约市为城市机构购买和提供的食品建立了营养标准，并在2022年修订了这些标准，以限制肉类并增加植物性选择。我们利用四个机构的菜单数据，这些机构提供了全市77%的餐食，检查了他们的主菜供应变化，以及与他们总菜单供应相关的温室气体和营养含量，从2019财年到2024财年。所有机构都减少了菜单上提供的牛肉主菜的频率，并增加了素食主菜的频率。总菜单供应的变化与所有机构和项目每份食物温室气体排放估计减少0.64公斤二氧化碳当量相关，而营养含量总体上保持一致。这些发现表明，市政食品标准可以在不损害营养的情况下支持温室气体减排，它们为其他寻求推进人口和环境健康目标的司法管辖区提供了一个模式。",
+            "matched_topics": [
               "创新药"
             ]
           },
