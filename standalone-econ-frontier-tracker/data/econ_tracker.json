@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-24 06:28:09",
+  "updated_at": "2026-05-31 06:45:33",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 37,
+    "success_count": 26,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -160,48 +160,70 @@
         "query_name": "American Economic Review",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 5",
+        "issue_title": "Volume 116, Issue 6",
         "issue_url": "https://www.aeaweb.org/journals/aer",
-        "matched_count": 4,
-        "total_in_issue": 11,
+        "matched_count": 6,
+        "total_in_issue": 10,
         "papers": [
           {
-            "title_en": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
-            "title_zh": "保护优先事项与环境补偿：佛罗里达湿地市场",
-            "url": "https://doi.org/10.1257/aer.20231016",
-            "abstract_en": "We introduce an empirical framework for valuing markets in environmental offsets. Using newly collected data on wetland conservation and offsets, we apply this framework to evaluate a set of decentralized markets in Florida, where land developers purchase offsets from long-lived producers who restore wetlands over time. We find offsets led to substantial private gains from trade, creating $2.4 billion of net surplus from 1995 to 2020 relative to direct conservation. Offset trading also generated new hydrological externalities. A locally differentiated Pigouvian tax would have prevented $1.6 billion of new flood damage while preserving more than two-thirds of the private gains from trade. (JEL D47, D62, H23, Q24, Q54, Q57, R14)",
-            "abstract_zh": "我们引入了一个用于评估环境补偿市场价值的实证框架。利用新收集的湿地保护和补偿数据，我们将这一框架应用于佛罗里达州的一系列分散市场，在那里土地开发商从长期恢复湿地的生产商那里购买补偿。我们发现，补偿导致了显著的私人贸易收益，从1995年到2020年相对于直接保护创造了24亿美元的净剩余。补偿交易还产生了新的水文外部性。一个本地差异化的庇古税本可以防止16亿美元的新洪水损害，同时保留超过三分之二的私人贸易收益。（JEL D47, D62, H23, Q24, Q54, Q57, R14）",
+            "title_en": "Quota versus Quality? Long-Term Gains from an Unusual Gender Quota",
+            "title_zh": "配额还是质量？一项不同寻常的性别配额带来的长期收益",
+            "url": "https://doi.org/10.1257/aer.20230376",
+            "abstract_en": "We evaluate equity-efficiency trade-offs from admissions quotas by examining effects on output once beneficiaries start producing in the relevant industry. We estimate the impact of abolishing a 40 percent quota for male primary school teachers on their pupils’ long-run outcomes. We combine this reform with the timing of union-bargained teacher retirements to isolate quasi-random variation in male quota teachers. Pupils exposed to male quota teachers transition more smoothly to postcompulsory education and have higher educational attainment and labor force attachment at age 25. Evidence suggests the quota improved the allocation of talent by mending imperfections in the unconstrained selection process. (JEL I21, I23, I28, J16, J24, J45)",
+            "abstract_zh": "我们通过考察受益者开始在相关行业生产后对产出的影响来评估招生配额中的公平与效率权衡。我们估计废除男性小学教师40%配额对他们学生长期结果的影响。我们将这一改革与工会协商的教师退休时间结合起来，以隔离男性配额教师的准随机变化。接触到男性配额教师的学生更顺利地过渡到义务教育后教育，并在25岁时有更高的教育成就和劳动力参与度。证据表明，配额通过修补无约束选拔过程中的不完善，改善了人才配置。（JEL I21, I23, I28, J16, J24, J45）",
             "matched_topics": [
               "国际贸易",
               "创新药"
             ]
           },
           {
-            "title_en": "The Effect of Field Training Officers on Police Use of Force",
-            "title_zh": "现场训练官对警察使用武力的影响",
-            "url": "https://doi.org/10.1257/aer.20240785",
-            "abstract_en": "The influence of on-the-job training and supervisors, especially in high-stakes settings like policing, is poorly understood. Examining a central behavior in the debate surrounding police reform, we investigate the impact of a field training officer (FTO) on a recruit’s use of force. Leveraging a setting with conditional as-good-as-random assignment, we demonstrate a causal link between FTO and recruit use of force. A 1 standard deviation increase in FTO force propensity leads to a 14 to 18 percent rise in recruit force, persisting for at least two years. This underscores field training’s impact and reveals a promising avenue for reform. (JEL D91, J24, J45, K42, M53)",
-            "abstract_zh": "在职培训和监督人员的影响，特别是在像警务这样的高风险环境中，人们对此知之甚少。我们考察了围绕警务改革辩论中的一个核心行为，研究了现场培训官（FTO）对新警使用武力的影响。利用一个条件性准随机分配的环境，我们展示了FTO和新警使用武力之间的因果关系。FTO使用武力倾向每增加1个标准差，新警使用武力的比例就会上升14%到18%，这种影响至少持续两年。这强调了现场培训的影响，并揭示了一条有希望的改革途径。（JEL D91, J24, J45, K42, M53）",
+            "title_en": "Elite Universities and the Intergenerational Transmission of Human and Social Capital",
+            "title_zh": "精英大学与人力资本和社会资本的代际传递",
+            "url": "https://doi.org/10.1257/aer.20230802",
+            "abstract_en": "Do elite colleges help talented students join the social elite or help incumbent elites retain their positions? We combine intergenerationally linked data from Chile with a regression discontinuity design to show that, looking across generations, elite colleges do both. Lower-status individuals who gain admission to elite college programs transform their children’s social environment. Children become more likely to attend high-status private schools and colleges and to live near and befriend high-status peers. In contrast, academic achievement is unaffected. Simulations combining descriptive and quasi-experimental findings show that elite colleges tighten the link between social and human capital while decreasing intergenerational social mobility. (JEL I23, I26, J24, J62, O15, Z13)",
+            "abstract_zh": "精英大学是帮助有才华的学生加入社会精英，还是帮助现任精英保持他们的地位？我们将智利的代际链接数据与回归不连续设计相结合，以展示跨代际来看，精英大学既做到了这两点。获得精英大学项目录取的低地位个体改变了他们孩子的社会环境。孩子们更有可能进入高地位的私立学校和大学，并与高地位的同龄人生活在一起并成为朋友。相比之下，学术成就并未受到影响。结合描述性和准实验结果的模拟显示，精英大学加强了社会资本和人力资本之间的联系，同时降低了代际社会流动性。（JEL I23, I26, J24, J62, O15, Z13）",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "The Gender Pay Gap: Micro Sources and Macro Consequences",
-            "title_zh": "性别工资差距：微观来源与宏观影响",
-            "url": "https://doi.org/10.1257/aer.20231107",
-            "abstract_en": "Using linked employer-employee data from Brazil, we document a significant gender pay gap, which is largely attributed to women working at lower-paying employers. To interpret this fact, we develop an equilibrium search model with endogenous firm pay, amenities, and hiring. We provide a constructive proof of identification of all model parameters. The estimated model suggests that amenities are important for both men and women, and that compensating differentials account for half of the gender pay gap. Equal treatment policies partly close gender gaps but are not output- or welfare-improving. (JEL E24, J16, J23, J31, J32, M51, O15)",
-            "abstract_zh": "利用巴西的雇主-雇员关联数据，我们记录了一个显著的性别工资差距，这在很大程度上归因于女性在低薪雇主处工作。为了解释这一事实，我们开发了一个具有内生企业薪酬、便利设施和招聘的均衡搜索模型。我们提供了所有模型参数识别的建设性证明。估计的模型表明，便利设施对男性和女性都很重要，补偿性差异占性别工资差距的一半。平等待遇政策部分缩小了性别差距，但并未提高产出或福利。（JEL E24, J16, J23, J31, J32, M51, O15）",
+            "title_en": "Mergers, Foreign Competition, and Jobs: Evidence from the US Appliance Industry",
+            "title_zh": "标题：并购、外国竞争与就业：来自美国家电行业的证据",
+            "url": "https://doi.org/10.1257/aer.20230017",
+            "abstract_en": "Policy choices often create trade-offs between workers and consumers. I examine how foreign competition alters the consumer welfare and domestic employment effects of mergers. I construct a model incorporating consumer demand, endogenous product portfolios, and employment decisions. Applying the model to Whirlpool’s acquisition of Maytag in the appliance industry, I compare the observed merger to a counterfactual acquisition by a foreign buyer. Although Whirlpool’s acquisition decreased consumer welfare by $271 million annually, it preserved 797 domestic jobs. These jobs must therefore be valued at more than $344, 000 per year for the domestic employment benefits to offset the consumer harm. (JEL E24, F23, G34, J30, L13, L68, R23)",
+            "abstract_zh": "政策选择常常在工人和消费者之间造成权衡。我研究了外国竞争如何改变并购对消费者福利和国内就业的影响。我构建了一个包含消费者需求、内生产品组合和就业决策的模型。将该模型应用于惠而浦收购美泰克的家电行业案例，我比较了实际发生的并购与一个外国买家的反事实收购。尽管惠而浦的收购每年减少了2.71亿美元的消费者福利，但它保留了797个国内工作岗位。因此，这些工作岗位每年必须被估值超过34.4万美元，才能使国内就业利益抵消对消费者的损害。（JEL E24, F23, G34, J30, L13, L68, R23）",
             "matched_topics": [
-              "国际贸易"
+              "国际贸易",
+              "产业经济"
             ]
           },
           {
-            "title_en": "The Attention-Information Trade-Off",
-            "title_zh": "注意力-信息权衡",
-            "url": "https://doi.org/10.1257/aer.20240850",
-            "abstract_en": "How does information transmission change when it requires attracting the attention of receivers? This paper combines an experiment that varies freelance professionals’ incentives to attract attention about scientific findings, with several online experiments that exogenously expose receivers to the content created. Attention incentives lead to significantly less information being transmitted, but not more factually inaccurate content. These incentives increase information demand and the knowledge of interested receivers. However, among the majority of receivers who do not demand more information, attention incentives lower knowledge and increase biases in beliefs, revealing a channel through which misperceptions can arise: missing information. (JEL C91, D83, D91)",
-            "abstract_zh": "当信息传递需要吸引接收者的注意力时，它会发生怎样的变化？本文结合了一个实验，该实验改变了自由职业者吸引人们对科学发现关注的刺激，以及几个在线实验，这些实验使接收者外生地接触到所创造的内容。关注激励导致传递的信息显著减少，但并没有增加更多的事实错误内容。这些激励增加了信息需求和感兴趣的接收者的知识。然而，在大多数不要求更多信息的接收者中，关注激励降低了知识并增加了信念中的偏见，揭示了误解产生的一个渠道：信息缺失。（JEL C91, D83, D91）",
+            "title_en": "The Private Provision of Public Services: Evidence from Random Assignment in Medicaid",
+            "title_zh": "私人提供公共服务：来自医疗补助计划随机分配的证据",
+            "url": "https://doi.org/10.1257/aer.20230541",
+            "abstract_en": "This paper examines the effects of privatizing social health insurance. We exploit a natural experiment in Medicaid, wherein nearly 100,000 enrollees were randomly assigned between a publicly operated fee-for-service system and private managed care. Managed care reduced costs by 5.6 percent via cost-effective substitutions among prescription drugs and via lower prices for outpatient services. We present evidence that pharmacy utilization management was the key mechanism reducing overuse and encouraging substitution to lower-cost drugs without decreasing observed quality. In contrast, privatizing medical benefits led to only modest savings and was associated with decreased health care quality and consumer satisfaction. (JEL G22, H41, I13, I18, I38)",
+            "abstract_zh": "本文研究了私有化社会医疗保险的影响。我们利用了Medicaid中的一个自然实验，其中近10万名参保者被随机分配到一个公共运营的按服务收费系统和私营管理护理之间。管理护理通过在处方药中进行成本效益的替代和降低门诊服务的价格，将成本降低了5.6%。我们提供的证据表明，药房利用管理是减少过度使用和鼓励替代到低成本药物而不降低观察到的质量的关键机制。相比之下，私有化医疗福利只带来了适度的节省，并与降低的医疗保健质量和消费者满意度相关。（JEL G22, H41, I13, I18, I38）",
+            "matched_topics": [
+              "医药产业",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Friendship Networks and Political Opinions",
+            "title_zh": "友谊网络与政治观点",
+            "url": "https://doi.org/10.1257/aer.20231344",
+            "abstract_en": "We examine how social interactions and friendships shape students’ political opinions in a natural experiment at Sciences Po, a leading French university specializing in social and political sciences. The quasi-random assignment of students into short-term integration groups before their academic curriculum reduces political opinion gaps and fosters friendship formation. Using same-group membership as an instrumental variable for friendship, we find that friendship reduces opinion differences by 44 percent of the mean opinion gap. Our evidence supports a homophily-enforced mechanism: Friendships form among initially politically similar students, leading them to join political associations together, reinforcing their similarity. (JEL C93, D72, Z13)",
+            "abstract_zh": "我们研究了在法国一所领先的社会科学大学——巴黎政治学院进行的一项自然实验中，社会互动和友谊如何塑造学生的政治观点。在学术课程开始前，学生被准随机分配到短期融合小组，这减少了政治观点差异并促进了友谊的形成。使用同组成员身份作为友谊的工具变量，我们发现友谊将观点差异减少了平均观点差异的44%。我们的证据支持一种同质性强化机制：友谊在最初政治观点相似的学生之间形成，导致他们一起加入政治协会，从而加强了他们的相似性。（JEL C93, D72, Z13）",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Spatial Spillovers of Conflict in Somalia",
+            "title_zh": "索马里冲突的空间溢出效应",
+            "url": "https://doi.org/10.1257/aer.20231699",
+            "abstract_en": "Conflict along transportation routes during Somalia’s al-Shabaab insurgency significantly increases maize prices at distant locations, decreasing food security, health, and education. Estimated conflict risk has strong price effects independently of realized conflict, highlighting the importance of safety concerns. A model of least-cost route choice in the presence of conflict reveals that more and shorter alternative routes to circumvent conflict can lower prices but their effectiveness diminishes as violence becomes more correlated across routes. Alternatively, securing key transportation routes would alleviate price increases. A market access approach suggests spatial spillovers of conflict also matter for prices of more general baskets of food and nonfood items. (JEL D74, I15, I25, O15, O17, Q11, R41)",
+            "abstract_zh": "在索马里青年党叛乱期间，沿交通路线的冲突显著提高了偏远地区的玉米价格，降低了食品安全、健康和教育水平。估计的冲突风险对价格有强烈的影响，与实际冲突无关，突出了安全问题的重要性。一个在冲突存在下的最低成本路线选择模型揭示，更多的、更短的替代路线可以绕过冲突降低价格，但随着暴力在路线间的相关性增加，它们的有效性会降低。或者，确保关键交通路线的安全将缓解价格上涨。市场准入方法表明，冲突的空间溢出效应对更广泛的食品和非食品项目篮子的价格也很重要。（JEL D74, I15, I25, O15, O17, Q11, R41）",
             "matched_topics": [
               "国际贸易"
             ]
@@ -299,19 +321,19 @@
         "query_name": "Journal of Political Economy",
         "issn": "0022-3808",
         "resolved_name": "Journal of Political Economy",
-        "issue_title": "Volume 134, Issue 5",
+        "issue_title": "Volume 134, Issue 6",
         "issue_url": "https://www.journals.uchicago.edu/journals/jpe",
         "matched_count": 1,
         "total_in_issue": 9,
         "papers": [
           {
-            "title_en": "US Public Debt and Safe Asset Market Power",
-            "title_zh": "美国公共债务与安全资产市场力量",
-            "url": "https://doi.org/10.1086/739824",
+            "title_en": "On the Nature of Entrepreneurship",
+            "title_zh": "论企业家精神的本质",
+            "url": "https://doi.org/10.1086/739823",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "产业经济"
+              "企业创新"
             ]
           }
         ],
@@ -711,13 +733,33 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 3,
-        "total_in_issue": 6,
+        "matched_count": 5,
+        "total_in_issue": 8,
         "papers": [
           {
             "title_en": "Trade models, trade elasticities, and the gains from trade",
             "title_zh": "贸易模型、贸易弹性与贸易收益",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104268",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Fiscal policy and inflation in the Euro Area",
+            "title_zh": "欧元区的财政政策与通货膨胀",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104281",
+            "abstract_en": "We investigate the relationship between fiscal policy and inflation dynamics in the Euro Area, with a focus on the post-pandemic inflation surge. Using a BVAR identified via sign restrictions, we disentangle the effects of various demand- and supply-side shocks, including fiscal policy, on inflation. First, while both positive demand and adverse supply shocks contributed to the inflation surge, demand shocks were relatively more important. Second, fiscal stimulus played a substantial and progressively increasing role, particularly in influencing domestic-based measures of inflation. Finally, the relative impact of fiscal shocks on inflation dynamics varies across (selected) Euro Area countries.",
+            "abstract_zh": "我们研究了欧元区财政政策与通胀动态之间的关系，重点关注疫情后通胀的激增。通过使用符号限制识别的BVAR模型，我们分离了包括财政政策在内的各种需求和供应冲击对通胀的影响。首先，尽管正向需求和不利供应冲击都对通胀激增有所贡献，但需求冲击相对更为重要。其次，财政刺激发挥了显著且逐渐增加的作用，特别是在影响基于国内的通胀指标方面。最后，财政冲击对通胀动态的相对影响在（选定的）欧元区国家之间有所不同。",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Air access to foreign markets and export-biased growth: Evidence from business entries",
+            "title_zh": "航空通达性与出口导向型增长：来自企业进入的证据",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104270",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -757,7 +799,7 @@
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 12,
-        "total_in_issue": 38,
+        "total_in_issue": 40,
         "papers": [
           {
             "title_en": "The art of not being chocked: Environmental awareness, residents' responses and land transactions in China",
@@ -853,6 +895,17 @@
             ]
           },
           {
+            "title_en": "Addressing weak links in government implementation at scale: Experimental evidence from a school governance reform in Tanzania",
+            "title_zh": "解决大规模政府实施中的薄弱环节：来自坦桑尼亚学校治理改革的实验证据",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103824",
+            "abstract_en": "This paper demonstrates how low-cost innovations can improve the implementation of costly government programs. We experimentally evaluate the nationwide roll-out of a new school governance program in Tanzania. As part of the program, school inspectors conduct Whole School Visits (WSVs) producing a set of school-specific ratings and recommendations—targeted at leadership, teachers, and parents—for improving school quality. However, schools faced weak incentives to implement the recommendations, and the local monitors responsible for conducting follow-up visits, who report to a different ministry, lacked direct access to WSV reports. To address this challenge, in a randomly sampled subset of program schools, monitors received text messages informing them of the main recommendations and encouraging them to follow up with schools to ensure compliance. Within the sample of schools that received WSVs, text messages improved student learning by 0.11 standard deviations after two years. Treatment effects are larger for schools that received worse inspection ratings in each domain, consistent with monitors acting on tailored rather than generic recommendations. Observed gains are concentrated in regions exposed to a donor program that provided local bureaucrats with resources to monitor. Our findings show how addressing specific bottlenecks in implementation can significantly enhance the effectiveness of government programs at scale.",
+            "abstract_zh": "本文展示了低成本创新如何改善成本高昂的政府计划的实施。我们通过实验评估了在坦桑尼亚全国推广的一项新学校治理计划。作为计划的一部分，学校督察员进行全校访问（WSVs），产生一套针对学校特定情况的评级和建议——针对领导、教师和家长——以提高学校质量。然而，学校面临实施建议的激励不足，负责进行后续访问的地方监督员向不同的部门报告，缺乏直接获取WSV报告的途径。为了解决这一挑战，在随机抽样的计划学校子集中，监督员收到短信，告知他们主要建议，并鼓励他们跟进学校以确保合规。在收到WSVs的学校样本中，短信在两年后提高了学生学习0.11个标准差。对于在每个领域获得较差检查评级的学校，治疗效果更大，这与监督员根据定制而非通用建议采取行动是一致的。观察到的收益集中在暴露于向地方官员提供监督资源的捐助者计划的地区。我们的发现表明，解决实施中的具体瓶颈可以显著提高政府计划的大规模有效性。",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Ancestral irrigation and collective climate action",
             "title_zh": "祖传灌溉与集体气候行动",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103805",
@@ -869,17 +922,6 @@
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Product quality, the scope of export destinations and skill demand for sustainable development: An investigation for China",
-            "title_zh": "产品质量、出口目的地范围与可持续发展技能需求：中国的一项调查",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103794",
-            "abstract_en": "This paper incorporates the scope of export destinations into firms’ skill selection framework, enabling a comprehensive discussion on exporting firms' product quality and skill upgrading mechanisms in China. Our theoretical analysis finds an inverted U-shaped relationship between export destination scope and product quality improvement, implying a substitution effect between export destination scope and skill demand when product quality is below a certain threshold. The empirical analysis, based on micro-firm data from Guangdong Province from 2013 to 2015, demonstrates a strengthening effect of export quality improvement on skill upgrading through contraction of the scope of export destinations when the quality of export products exceeds a certain threshold. Conversely, expanding export scope weakens the promotion of quality improvement and skill upgrading. Vertical product differentiation and trade cost are essential channels for the scope of export destinations. Our results offer recommendations to firms in developing countries for navigating the challenges of skill upgrading.",
-            "abstract_zh": "本文将出口目的地范围纳入企业技能选择框架，从而全面讨论了中国出口企业产品质量和技能升级机制。我们的理论分析发现出口目的地范围与产品质量提升之间存在倒U型关系，意味着当产品质量低于某一阈值时，出口目的地范围与技能需求之间存在替代效应。基于2013至2015年广东省微观企业数据的实证分析表明，当出口产品质量超过某一阈值时，通过收缩出口目的地范围，出口质量提升对技能升级的强化效应。相反，扩大出口范围会削弱质量提升和技能升级的促进作用。垂直产品差异化和贸易成本是出口目的地范围的重要渠道。我们的结果为发展中国家企业应对技能升级挑战提供了建议。",
-            "matched_topics": [
-              "国际贸易",
               "创新药"
             ]
           }
@@ -1189,8 +1231,8 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 5,
-        "total_in_issue": 8,
+        "matched_count": 7,
+        "total_in_issue": 9,
         "papers": [
           {
             "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
@@ -1213,11 +1255,31 @@
             ]
           },
           {
+            "title_en": "Patent pledging as collateral: Navigating the strategic dilemma from patents' private-market values",
+            "title_zh": "专利质押作为抵押品：从专利的私人市场价值出发，解决战略困境",
+            "url": "https://doi.org/10.1016/j.respol.2026.105538",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "From expertise to action: STEM-related human capital in top management teams and corporate climate adaptation and resilience",
+            "title_zh": "从专长到行动：高层管理团队中的STEM相关人力资本与企业气候适应和韧性",
+            "url": "https://doi.org/10.1016/j.respol.2026.105516",
+            "abstract_en": "To safeguard long-term value creation and capture, incumbent firms face growing pressure to pursue corporate climate adaptation and resilience strategies. Given the pivotal role of top managers in driving adaptive change, this study examines how top management teams' human capital shapes firms' engagement in climate adaptation and resilience across different organizational and environmental contexts. Drawing on the attention-based view, we argue that science, technology, engineering, and mathematics (STEM) education directs managerial attention toward climate-related risks and opportunities, prioritizing climate adaptation and resilience responses over competing strategic concerns. We further theorize that this relationship is contingent on firms' inventiveness, their exposure to physical climate hazards, and climate change sentiment expressed by financial stakeholders. Depending on these contexts, STEM-educated top management team members are particularly valuable in processing climate-related information, developing corporate climate adaptation and resilience strategies that reconfigure existing business models and value chains, and mobilizing organizational support for their implementation. Analyzing data from the Carbon Disclosure Project from large, listed U.S. firms from 2013 to 2020, we find empirical support for our hypotheses. Additional analyses show that STEM education is more strongly associated with engagement in climate adaptation and resilience than other educational backgrounds and that its association varies across STEM subfields. Our findings advance understanding of how executive cognition and attention-directing contexts jointly shape firms' responses to climate-related challenges and highlight the role of STEM expertise in enabling disruptive, sustainability-oriented transformation. We also derive implications for executive hiring, leadership development, and climate-related policy design.",
+            "abstract_zh": "为了保障长期价值创造和捕获，现有企业面临着越来越大的压力，需要追求企业气候适应和弹性战略。鉴于高层管理者在推动适应性变革中的关键作用，本研究考察了高层管理团队的人力资本如何塑造企业在不同组织和环境背景下参与气候适应和弹性的情况。基于注意力基础观点，我们认为科学、技术、工程和数学（STEM）教育将管理者的注意力引向与气候相关的风险和机遇，优先考虑气候适应和弹性响应，而不是其他战略关切。我们进一步理论化，这种关系取决于企业的创造力、对物理气候危害的暴露程度以及金融利益相关者表达的气候变化情绪。在这些背景下，受过STEM教育的高层管理团队成员在处理与气候相关的信息、制定重新配置现有商业模式和价值链的企业气候适应和弹性战略以及动员组织支持其实施方面特别有价值。分析2013年至2020年美国大型上市公司的碳披露项目数据，我们发现我们的假设得到了经验支持。额外的分析表明，与其他教育背景相比，STEM教育与参与气候适应和弹性的关联更强，并且其关联在STEM子领域之间有所不同。我们的发现推进了对高管认知和注意力导向背景如何共同塑造企业对气候相关挑战的响应的理解，并强调了STEM专长在实现颠覆性、面向可持续性的转型中的作用。我们还推导出了对高管招聘、领导力发展和气候相关政策设计的影响。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Where do ideas go? A spatial analysis of the patenting impact of publicly funded basic science",
             "title_zh": "标题：创意去哪儿了？公共资助基础科学对专利影响的空间分析",
             "url": "https://doi.org/10.1016/j.respol.2026.105528",
-            "abstract_en": "",
-            "abstract_zh": "",
+            "abstract_en": "As societal challenges loom larger, discoveries are in greater demand, and evaluating the impact of publicly funded programs attracts increasing attention. We contribute to this debate by focusing on the spatial influence of scientific discoveries funded through grants targeting frontier research. Our dataset includes information on 6671 EU ERC-funded projects between 2007 and 2016, 172,683 scientific publications generated by these grants, and 34,513 patents citing such publications. Building on linkages between scientific papers and patents via non-patent literature citations, we use the project as the unit of analysis and employ a two-stage regression model to examine the probability that ERC-funded publications are cited by patents and how these citations diffuse across space and time. The analyses on our final sample of 4977 ERC-funded projects, generating 151,574 publications that are cited by 34,007 patents confirmed our hypothesis that higher quality research leads to a broader and faster geographical diffusion and partially confirm the hypotheses that diffusion paths and speed differ by applicants, although these differences do not always show the same patters. Moreover, we also find that c) projects generating scientific output (publications) and technological outputs (patents) diffuse more broadly and faster; and d) projects led by more mobile and scientifically productive scientists diffuse more broadly and faster; We discuss these findings and show how they enhance and extend our understanding of the impact of science and its implications for policymakers and innovation scholars.",
+            "abstract_zh": "随着社会挑战日益严峻，对发现的需求越来越大，对公共资助项目影响的评估也日益受到关注。我们通过关注通过资助前沿研究的资助项目对科学发现的空间影响，为这场辩论做出贡献。我们的数据集包括2007年至2016年间6671个欧盟ERC资助项目的信息，这些资助项目产生的172,683篇科学出版物，以及引用这些出版物的34,513项专利。基于科学论文和专利之间的非专利文献引用联系，我们以项目为分析单位，采用两阶段回归模型，检验ERC资助出版物被专利引用的概率以及这些引用如何在空间和时间上扩散。我们对最终样本中的4977个ERC资助项目进行分析，这些项目产生了151,574篇被34,007项专利引用的出版物，证实了我们的假设：更高质量的研究会导致更广泛、更快的地理扩散，并部分证实了申请人之间的扩散路径和速度差异的假设，尽管这些差异并不总是显示出相同的模式。此外，我们还发现：c)产生科学产出（出版物）和技术产出（专利）的项目扩散得更广泛、更快；d)由更流动、科学生产力更强的科学家领导的项目扩散得更广泛、更快；我们讨论了这些发现，并展示了它们如何增强和扩展我们对科学影响及其对政策制定者和创新学者的影响的理解。",
             "matched_topics": [
               "企业创新"
             ]
@@ -1369,7 +1431,7 @@
             "title_zh": "储物联盟网络是否提高了最后一英里配送效率？",
             "url": "https://doi.org/10.1287/mnsc.2024.04567",
             "abstract_en": "The Locker Alliance Network (LAN), a cutting-edge initiative under Singapore’s Smart Nation vision, aims to revolutionize parcel pickup processes. This government-led project seeks to implement two major changes in Singapore’s urban logistics: (i) establishing an open-access facility for all logistic service providers (LSPs) and (ii) enhancing the last mile delivery efficiency of each LSP, thereby reducing its operational footprint. This research investigates the impact of locker network design on the delivery efficiency of individual LSPs and explores strategies for the government to construct an inclusive network for all LSPs. Our study explores two operational modes: the two-trip mode, in which home and locker deliveries are managed separately, and the mixed-trip mode, which consolidates both into one route. We extend the Beardwood–Halton–Hammersley theorem to estimate the delivery trip length to remaining home locations, assuming consumers can choose between locker pickup or home delivery. This enables us to explicitly formulate the LAN design problem as a nonlinear optimization model. Furthermore, our models for both operational modes reveal that optimal locker network design tends to expand in a nested manner relative to the market share of an LSP. This finding suggests that governments could design locker networks based on the profiles of the largest LSP, ensuring that the expansion of these networks aligns with the existing logistics infrastructure. Leveraging data from LAN’s pilot program in Singapore, our research underscores the pivotal role of network design in last mile delivery efficiency. A poorly designed locker network can inadvertently reduce productivity by increasing the length of delivery trips, thus negating the potential benefits of the system. In contrast, an optimized network can mitigate this negative impact on delivery efficiency. Beyond network design, low customer adoption emerges as another critical bottleneck. Our findings show that, as more customers shift to locker pickup, especially in mixed-trip modes, delivery efficiency improves. Therefore, network design and a higher adoption rate of locker pickup are key to LAN’s success. The government’s role in driving deeper customer engagement, alongside efforts to optimize network design and delivery operations, is vital to unlocking the full potential of this smart nation initiative. This paper was accepted by David Simchi-Levi, operations management. Funding: This work was supported by the National Natural Science Foundation of China [Grant 72422006], the Hong Kong Research Grants Council [Grants 16210720, 16500423], the 2019 Academic Research Fund Tier 3, the Ministry of Education, Singapore [Award MOE-2019-T3-1-010], and the Natural Science Foundation of Chongqing, China [Grant CSTB2022NSCQ-MSX1667]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04567 .",
-            "abstract_zh": "新加坡智能国家愿景下的一项前沿举措——Locker Alliance Network（LAN），旨在彻底改变包裹取件流程。这个由政府主导的项目寻求在新加坡的城市物流中实施两大变革：（i）为所有物流服务提供商（LSPs）建立一个开放存取设施；（ii）提高每个LSP的最后一英里配送效率，从而减少其运营足迹。本研究调查了储物柜网络设计对个别LSPs配送效率的影响，并探讨了政府构建一个包容所有LSPs的网络的策略。我们的研究探讨了两种运营模式：两趟行程模式，即家庭和储物柜配送分别管理；以及混合行程模式，将两者合并为一条路线。我们扩展了Beardwood-Halton-Hammersley定理，以估计剩余家庭位置的配送行程长度，假设消费者可以选择储物柜取件或家庭配送。这使我们能够明确地将LAN设计问题表述为一个非线性优化模型。此外，我们对两种运营模式的模型都揭示了，最优的储物柜网络设计倾向于根据LSP的市场份额以嵌套方式扩展。这一发现表明，政府可以根据最大的LSP的档案设计储物柜网络，确保这些网络的扩展与现有的物流基础设施相一致。利用新加坡LAN试点项目的数据，我们的研究强调了网络设计在最后一英里配送效率中的关键作用。设计不当的储物柜网络可能会无意中通过增加配送行程的长度来降低生产力，从而抵消系统的潜在好处。相比之下，优化的网络可以减轻这种对配送效率的负面影响。除了网络设计之外，低客户采纳率也成为另一个关键瓶颈。我们的发现表明，随着越来越多的客户转向储物柜取件，尤其是在混合行程模式下，配送效率得到提高。因此，网络设计和更高的储物柜取件采纳率是LAN成功的关键。政府在推动更深层次的客户参与方面的作用，以及优化网络设计和配送运营的努力，对于释放这一智能国家举措的全部潜力至关重要。本文由David Simchi-Levi接受，运营管理。资金：这项工作是...",
+            "abstract_zh": "新加坡智能国家愿景下的前沿举措——Locker Alliance Network（LAN），旨在彻底改变包裹取件流程。这个由政府主导的项目寻求在新加坡的城市物流中实施两大变革：（i）为所有物流服务提供商（LSPs）建立一个开放存取设施；（ii）提高每个LSP的最后一英里配送效率，从而减少其运营足迹。本研究调查了储物柜网络设计对个别LSPs配送效率的影响，并探讨了政府构建一个包容所有LSPs的网络的策略。我们的研究探讨了两种运营模式：两趟行程模式，即家庭和储物柜配送分别管理；以及混合行程模式，将两者合并为一条路线。我们扩展了Beardwood-Halton-Hammersley定理，以估计剩余家庭位置的配送行程长度，假设消费者可以选择储物柜取件或家庭配送。这使我们能够明确地将LAN设计问题表述为一个非线性优化模型。此外，我们对两种运营模式的模型都揭示了，最优的储物柜网络设计倾向于根据LSP的市场份额以嵌套方式扩展。这一发现表明，政府可以根据最大的LSP的档案设计储物柜网络，确保这些网络的扩展与现有的物流基础设施相一致。利用新加坡LAN试点项目的数据，我们的研究强调了网络设计在最后一英里配送效率中的关键作用。设计不当的储物柜网络可能会无意中通过增加配送行程的长度来降低生产力，从而抵消系统的潜在好处。相比之下，优化的网络可以减轻这种对配送效率的负面影响。除了网络设计之外，低客户采纳率也成为另一个关键瓶颈。我们的发现表明，随着越来越多的客户转向储物柜取件，尤其是在混合行程模式中，配送效率得到提高。因此，网络设计和更高的储物柜取件采纳率是LAN成功的关键。政府在推动更深层次的客户参与方面的作用，以及优化网络设计和配送运营的努力，对于释放这一智能国家举措的全部潜力至关重要。本文由David Simchi-Levi接受，运营管理。资金：这项工作是...",
             "matched_topics": [
               "创新药"
             ]
@@ -1477,14 +1539,14 @@
         "issue_title": "Volume 41, Issue 5",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
         "matched_count": 2,
-        "total_in_issue": 3,
+        "total_in_issue": 4,
         "papers": [
           {
             "title_en": "A romantic penalty? Female entrepreneurship and relationship initiation in online dating",
             "title_zh": "浪漫的代价？女性创业与在线约会中的关系开始",
             "url": "https://doi.org/10.1016/j.jbusvent.2026.106608",
-            "abstract_en": "",
-            "abstract_zh": "",
+            "abstract_en": "Female entrepreneurship is increasingly common, yet we know little about how it affects women's romantic prospects, a crucial outcome with implications for family formation. We propose that female entrepreneurs, particularly those pursuing growth-oriented ventures, face diminished romantic prospects, potentially shaped by gendered trait inferences and concerns about time demand. Using two field experiments, supplemented by a survey experiment, we provide causal evidence that female entrepreneurs are on average penalized in romantic relationship initiation, but are preferred by male entrepreneurs. Further analysis offers suggestive evidence on mechanisms underlying this romantic penalty. By examining the impact of female entrepreneurship on romantic prospects, our study extends the family embeddedness perspective in entrepreneurship research. It also contributes to female entrepreneurship research by documenting a romantic penalty as a previously underexplored challenge.",
+            "abstract_zh": "女性创业日益普遍，但我们对其如何影响女性的浪漫前景知之甚少，这是一个对家庭形成具有重要影响的关键结果。我们提出，女性创业者，特别是那些追求增长导向型企业的女性，面临减少的浪漫前景，可能受到性别化特质推断和对时间需求的担忧的影响。通过两个现场实验，辅以一项调查实验，我们提供了因果证据，表明女性创业者在浪漫关系启动中平均受到惩罚，但受到男性创业者的青睐。进一步分析提供了关于这种浪漫惩罚背后机制的暗示性证据。通过检查女性创业对浪漫前景的影响，我们的研究扩展了创业研究中的家族嵌入视角。它还通过记录浪漫惩罚作为一种以前未充分探讨的挑战，为女性创业研究做出了贡献。",
             "matched_topics": [
               "企业创新"
             ]
@@ -1507,138 +1569,11 @@
         "query_name": "Technovation",
         "issn": "0166-4972",
         "resolved_name": "Technovation",
-        "issue_title": "Published 2026-07",
+        "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 12,
-        "total_in_issue": 17,
-        "papers": [
-          {
-            "title_en": "Evaluating creative work with artificial intelligence: Evidence from constrained innovation tasks",
-            "title_zh": "使用人工智能评估创意工作：来自受限创新任务的证据",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103571",
-            "abstract_en": "We study whether a large language model can reliably evaluate human creativity in constrained, innovation-like tasks. Using expert-generated creative outputs from a validated experiment with workers in cultural and creative industries, we embed ChatGPT as an evaluator and benchmark its assessments against expert human judgments obtained through the Consensual Assessment Technique. Study 1 supports AI reliability by showing that AI-based creativity evaluations exhibit internal consistency comparable to that of expert judges across repeated and independent runs, even under conservative scenarios. Replacing a human judge with an AI evaluator does not reduce inter-rater reliability across drawing, mathematical, and verbal tasks. Beyond reliability, AI evaluations display three additional features that are difficult to achieve with human-only panels: lower evaluative variability, systematically higher scores consistent with a potentially more inclusive evaluative stance, and task-independence of evaluative standards. Study 2 further supports task-independence by showing that AI evaluations are structured along fluency, flexibility, originality, and elaboration, with dimension weights that adapt to task-specific constraints. • We test AI evaluation of human creativity on outputs from a controlled experiment. • We study constrained, innovation-like creative tasks. • Replacing one human judge with AI preserves panel reliability. • AI scores are less dispersed, higher on average, and task-independent. • AI evaluation is structured by fluency, flexibility, originality, and elaboration.",
-            "abstract_zh": "我们研究大型语言模型是否能够可靠地评估人类在受限、类似创新任务中的创造力。我们使用来自文化和创意产业工作者的经过验证实验中专家生成的创造性输出，将ChatGPT嵌入作为评估者，并通过共识评估技术获得的专家人类判断来基准其评估。研究1通过显示基于AI的创造力评估展现出与专家评委在重复和独立运行中可比的内部一致性，支持了AI的可靠性，即使在保守情景下也是如此。用AI评估者替换人类评委不会降低绘画、数学和语言任务的评分者间可靠性。除了可靠性之外，AI评估还显示出三个难以通过仅人类小组实现的额外特征：评估变异性更低，系统性地给出更高分数，这与可能更具包容性的评估立场一致，以及评估标准的独立性。研究2进一步通过显示AI评估沿着流畅性、灵活性、原创性和阐述性构建，并且维度权重适应特定任务的约束，支持了任务独立性。•我们在受控实验的输出上测试AI对人类创造力的评估。•我们研究受限、类似创新的创造性任务。•用AI替换一个人类评委保持了小组的可靠性。•AI分数分布更集中，平均更高，且与任务无关。•AI评估由流畅性、灵活性、原创性和阐述性构成。",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "AI assimilation for sustainable and resilient supply chains: Role of green ambidexterity and cybersecurity awareness",
-            "title_zh": "人工智能融合促进可持续和弹性供应链：绿色双元性和网络安全意识的作用",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103562",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Too much of a good thing? Venture capital chase and firm innovation",
-            "title_zh": "过度的好事？风险资本追逐与企业创新",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103580",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Administered prices and product innovation: Evidence from the wheelchair industry",
-            "title_zh": "管制价格与产品创新：来自轮椅行业的证据",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103597",
-            "abstract_en": "The literature on innovation ecosystems emphasizes the relationship between regulation and innovation rates. However, the innovation strategies of new and incumbent firms differ, and regulations may affect them differently. We focus on administered prices, a widespread form of price regulation, and argue that removing them will have a positive effect on product innovation and new firms' survival. Removing administered prices reduces the costs of product innovation by eliminating approval uncertainty and delays, and enabling the emergence of new market segments. This cost reduction helps new firms more than incumbent ones since new firms have fewer slack resources and tend to rely more on innovation. We test our hypotheses using a DiD approach and original data on powered wheelchair firms over the period 2006–2015. We find only limited suggestive evidence that removing administered prices is associated with a positive effect on product innovation. However, we do find a significant increase in the ratio of new firms to total firms when administered prices are removed. We contribute to our understanding of the contextual effects of regulation on innovation and its consequences on industry dynamics. Our results have important practical and policy implications, as they help unpack the incentives and strategic choices faced by different firms in regulated industries. • Removing administered prices may increase innovation in regulated industries. • Administered prices impose hidden costs beyond direct price controls. • New firms benefit more from price deregulation than established competitors. • Price deregulation effects depend on industry life stage and maturity. • Administered prices cause asymmetric changes between incumbents and entrants.",
-            "abstract_zh": "关于创新生态系统的文献强调了监管与创新率之间的关系。然而，新企业和现有企业的创新策略不同，监管可能对它们产生不同的影响。我们关注行政定价，这是一种普遍的价格监管形式，并认为取消它们将对产品创新和新企业的存活产生积极影响。取消行政定价通过消除审批的不确定性和延迟，降低产品创新的成本，并使新市场细分的出现成为可能。这种成本降低对新企业比现有企业更有帮助，因为新企业拥有的闲置资源较少，并且更依赖于创新。我们使用双重差分方法和2006-2015年电动轮椅企业的原始数据来测试我们的假设。我们发现，只有有限的暗示性证据表明取消行政定价与产品创新的积极效应有关。然而，我们确实发现，在取消行政定价时，新企业与总企业的比例显著增加。我们对监管对创新的情境效应及其对行业动态的影响的理解做出了贡献。我们的结果具有重要的实践和政策意义，因为它们有助于解开受监管行业中不同企业面临的激励和战略选择。•取消行政定价可能会增加受监管行业的创新。•行政定价除了直接的价格控制之外还施加了隐性成本。•新企业从价格放开中获益比既定竞争对手更多。•价格放开的效果取决于行业的生命周期和成熟度。•行政定价导致现有企业和新进入者之间的不对称变化。",
-            "matched_topics": [
-              "国际贸易",
-              "产业经济",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Business models as bottlenecks: How the absence of business models hampers desired technology transitions",
-            "title_zh": "商业模式作为瓶颈：缺乏商业模式如何阻碍期望的技术转型",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103576",
-            "abstract_en": "Research on technological transitions has long identified technology bottlenecks and strategic resource bottlenecks as impediments that could slow transitions. This paper adds another dimension and examines the undertheorized role of business models and how business model misalignments can constitute a third type of bottleneck. Based on a qualitative case study of electrification in the road transport industry, this paper explores the phenomenon of business model bottlenecks . The study shows that in contrast to technology bottlenecks and strategic resource bottlenecks, a business model bottleneck manifests itself as an unattractive void position. Resolving such a bottleneck requires adjustment of several interdependent business models, requiring actors to cooperate in new ways. The findings contribute to a more nuanced understanding of the interrelation between technology transitions and business model innovation. • The absence of a viable business model can constitute a bottleneck hampering a desired technology transition. • Such a business model bottleneck appears when there is high uncertainty concerning the value creation and capture potentials of a critical position in an emerging ecosystem. • A business model bottleneck constitutes an unattractive ecosystem position and is manifested by a void, i.e., an position that no actor wants to take on. • The business model bottleneck phenomenon is illustrated by a case study from an electrification attempt within the road transport industry.",
-            "abstract_zh": "研究技术转型长期以来已经识别出技术瓶颈和战略资源瓶颈作为可能减缓转型的障碍。本文增加了另一个维度，考察了商业模型的未充分理论化作用以及商业模型错位如何构成第三种类型的瓶颈。基于对道路交通行业电气化的定性案例研究，本文探讨了商业模型瓶颈现象。研究表明，与技术瓶颈和战略资源瓶颈不同，商业模型瓶颈表现为一个不具吸引力的空白位置。解决此类瓶颈需要调整几个相互依赖的商业模型，要求参与者以新的方式进行合作。这些发现有助于更细致地理解技术转型与商业模型创新之间的相互关系。 • 缺乏可行的商业模型可以构成阻碍期望的技术转型的瓶颈。 • 当对一个新兴生态系统中关键位置的价值创造和捕获潜力存在高度不确定性时，就会出现这种商业模型瓶颈。 • 商业模型瓶颈构成了一个不具吸引力的生态系统位置，表现为空白，即没有参与者愿意承担的位置。 • 商业模型瓶颈现象通过道路交通行业电气化尝试的案例研究得到说明。",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Complement or substitute? Productive and sustainable entrepreneurship in the innovation ecosystem",
-            "title_zh": "补充还是替代？创新生态系统中的生产性与可持续创业",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103601",
-            "abstract_en": "Innovation ecosystems are increasingly expected to foster entrepreneurial activity that simultaneously supports economic growth and addresses pressing societal and environmental challenges. Yet, while prior research has examined productive and sustainable entrepreneurship largely in isolation, little is known about whether innovation ecosystems can enable both forms of venture creation and how their underlying logics interact. This study explores how innovation ecosystems enable two distinct entrepreneurial outcomes: productive entrepreneurship and sustainable entrepreneurship. Drawing on a unique dataset of 30 Italian smart city projects spanning 2011–2023, we examine ecosystem-level factors influencing each type and investigate whether the two forms can coexist and reinforce one another. Our findings suggest that innovation ecosystems could conducive to both forms of entrepreneurship, albeit through different mechanisms. Industry structure plays a stronger role in fostering productive entrepreneurship, while digital and technological infrastructure is more supportive of sustainability-oriented ventures. Moreover, we identify an asymmetric relationship between the two forms of entrepreneurship. Productive entrepreneurship is positively associated with sustainable entrepreneurship, but not the reverse. These results contribute to the innovation ecosystem literature by showing how economic and societal value creation interact within the same ecosystem. The study offers insights for scholars and policymakers interested in designing ecosystems that support both innovative and sustainability-driven entrepreneurship. • Innovation ecosystems foster both productive and sustainable entrepreneurship. • Productive entrepreneurship depends on industry structure. • Sustainable entrepreneurship depends on digital infrastructure. • Productive entrepreneurship strengthens sustainable entrepreneurship, but not the reverse.",
-            "abstract_zh": "创新生态系统日益被期望促进既能支持经济增长又能解决紧迫社会和环境挑战的创业活动。然而，尽管先前的研究主要在孤立的情况下考察了生产性和可持续创业，但关于创新生态系统是否能够同时促进这两种创业形式的创建以及它们背后的逻辑如何相互作用，我们知之甚少。本研究探讨了创新生态系统如何使两种不同的创业结果成为可能：生产性创业和可持续创业。基于2011-2023年间30个意大利智能城市项目的独一无二数据集，我们检验了影响每种类型的生态系统级因素，并调查这两种形式是否能够共存并相互加强。我们的发现表明，创新生态系统可能有利于这两种形式的创业，尽管通过不同的机制。产业结构在促进生产性创业方面发挥了更强的作用，而数字和技术基础设施更支持以可持续性为导向的创业。此外，我们确定了两种创业形式之间的不对称关系。生产性创业与可持续创业呈正相关，但反之则不然。这些结果通过展示同一生态系统内经济和社会价值创造如何相互作用，为创新生态系统文献做出了贡献。该研究为对设计支持创新和以可持续性为导向的创业的生态系统感兴趣的学者和政策制定者提供了洞见。•创新生态系统促进生产性和可持续创业。•生产性创业依赖于产业结构。•可持续创业依赖于数字基础设施。•生产性创业加强了可持续创业，但反之则不然。",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Corrigendum to “Technology-enabled social innovations for enhancing emerging countries’ rural healthcare ecosystem: A grounded theory approach” [Technovation 154 (2026), 1-20, 103565]",
-            "title_zh": "《技术赋能的社会创新：提升新兴国家农村医疗保健生态系统——基于扎根理论的方法》[Technovation 154 (2026), 1-20, 103565]更正",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103575",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Governing complexity in sustainable innovation ecosystems: An empirical analysis for AI-enabled enterprise architecture",
-            "title_zh": "治理可持续创新生态系统中的复杂性：人工智能赋能企业架构的实证分析",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103583",
-            "abstract_en": "The integration of Artificial Intelligence (AI) into Enterprise Architecture (EA) offers transformative potential for advancing Sustainable Innovation Ecosystems (SIEs). However, AI's velocity often clashes with traditional, rigid governance. Using a sequential mixed-methods design – a systematic literature review followed by interviews with ten industry experts – this study maps AI's strategic impact across the EA-IE landscape. Our findings reveal that AI's value is primarily concentrated at the Business and Data layers, where it reconfigures ecosystem actors and processes. We uncover an EA paradox: while practitioners eschew formal frameworks as too rigid, they rely on architectural principles as dynamic capabilities to manage structural inertia. Theoretically, we advance from descriptive findings to causal mechanisms by proposing three testable propositions that explain how organizations can balance architectural stability with the agility required for AI adoption. Practically, the study offers a diagnostic tool for aligning AI adoption with organizational resilience. We conclude by outlining a roadmap for future research that utilizes dynamic multi-agent simulations to explore adaptive governance strategies for AI-enabled SIEs. This study contributes a localized, empirically grounded perspective on governing AI within complex adaptive systems, reframing EA as a flexible, human-centric coordination tool for innovation. • Explores AI integration in Enterprise Architecture for Sustainable Innovation. • Maps AI strategic focus to the Business and Data layers using expert heuristics. • Identifies an EA Paradox where principles are favored over rigid frameworks. • Proposes three testable propositions for governing AI in complex adaptive systems. • Provides a BDI-based multi-agent simulation roadmap for future ecosystem research.",
-            "abstract_zh": "将人工智能（AI）整合到企业架构（EA）中，为推进可持续创新生态系统（SIEs）提供了变革潜力。然而，AI的速度常常与传统的、僵化的治理方式发生冲突。本研究采用顺序混合方法设计——先进行系统性文献综述，然后对十位行业专家进行访谈——绘制了AI在EA-IE领域战略影响的地图。我们的发现揭示了AI的价值主要集中在业务和数据层面，它重新配置了生态系统的参与者和流程。我们发现了一个EA悖论：尽管从业者认为正式框架过于僵化而回避，但他们依赖于架构原则作为动态能力来管理结构性惯性。从理论上讲，我们从描述性发现推进到因果机制，提出了三个可测试的假设，解释了组织如何平衡架构稳定性与AI采用所需的敏捷性。从实践上讲，该研究提供了一个诊断工具，用于将AI采用与组织韧性对齐。我们最后概述了一个未来研究路线图，利用动态多代理模拟来探索AI赋能SIEs的适应性治理策略。本研究提供了一个本地化的、基于经验的视角，用于在复杂自适应系统中治理AI，将EA重新定义为一个灵活的、以人为中心的创新协调工具。•探索AI在企业架构中整合以实现可持续创新。•使用专家启发式将AI战略重点映射到业务和数据层面。•识别了一个EA悖论，其中原则比僵化框架更受青睐。•提出了三个可测试的假设，用于在复杂自适应系统中治理AI。•为未来生态系统研究提供了基于BDI的多代理模拟路线图。",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "The twin transition: Driving sustainability through digital transformation in manufacturing",
-            "title_zh": "双转型：通过制造业数字化转型推动可持续性发展",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103582",
-            "abstract_en": "In the context of increasing global competition and rising environmental and social demands, manufacturing companies are under pressure to pursue sustainable growth while maintaining competitiveness. Although the convergence of digitalization and sustainability—known as the \"twin transition\"—has gained significant attention, understanding how digital technologies concretely support sustainability initiatives remains fragmented. This study explores the role of digital transformation in advancing sustainable practices within the manufacturing sector, drawing on empirical evidence from an industrial cluster. The findings reveal that while digital tools offer significant potential for improving resource efficiency, reducing emissions, and supporting sustainable operations, companies face persistent barriers such as stakeholder resistance, high initial costs, limited customer willingness to pay for sustainable products, and fragmented data utilization. Furthermore, organizational challenges, including low digital maturity, cultural resistance, and difficulties in aligning supply chain partners, continue to hinder progress. The study highlights the importance of employee engagement, transparent sustainability reporting, and strategic data management as critical enablers for the successful integration of digitalization and sustainability. By identifying both opportunities and challenges, the paper contributes to a deeper understanding of the systemic changes needed to leverage digital technologies for sustainable manufacturing and outlines avenues for future research across broader industrial contexts.",
-            "abstract_zh": "在全球竞争加剧和环境与社会需求上升的背景下，制造企业面临着在保持竞争力的同时追求可持续增长的压力。尽管数字化与可持续性融合——被称为“双重转型”——已受到广泛关注，但对数字技术如何具体支持可持续性举措的理解仍然支离破碎。本研究基于一个产业集群的实证证据，探讨了数字化转型在推进制造业可持续实践方面的作用。研究结果揭示，尽管数字工具在提高资源效率、减少排放和支持可持续运营方面具有巨大潜力，但企业仍面临持续的障碍，如利益相关者抵制、高昂的初始成本、有限的客户支付意愿以及分散的数据利用。此外，组织挑战，包括低数字化成熟度、文化抵制和难以协调供应链合作伙伴，继续阻碍进展。研究强调员工参与、透明的可持续性报告和战略性数据管理对于成功整合数字化和可持续性至关重要。通过识别机遇和挑战，本文有助于更深入地理解利用数字技术进行可持续制造所需的系统性变化，并为未来在更广泛工业背景下的研究指明了方向。",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Digital innovation ecosystem: a systematic mapping to understand how digital technologies are transforming innovation ecosystem",
-            "title_zh": "数字创新生态系统：系统性映射以理解数字技术如何转变创新生态系统",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103573",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "From infrastructure to innovation: How integrated PLM systems enable digital twin and thread capabilities in business-to-business manufacturing",
-            "title_zh": "从基础设施到创新：集成PLM系统如何使企业对企业制造中的数字孪生和线程能力成为可能",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103579",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Identification of driving factors in national innovation ecosystems under the PSR framework: Based on machine learning algorithms",
-            "title_zh": "基于机器学习算法的PSR框架下国家创新生态系统驱动因素识别",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103581",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 1,
+        "papers": [],
         "error": null
       },
       {
@@ -1732,9 +1667,20 @@
         "resolved_name": "Journal of Health Economics",
         "issue_title": "Published 2026-07",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
-        "matched_count": 0,
-        "total_in_issue": 3,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 4,
+        "papers": [
+          {
+            "title_en": "The effect of offering standardized “Simple Choice” plans on premiums in the Federally Facilitated ACA marketplaces",
+            "title_zh": "提供标准化“简单选择”计划对联邦促进的ACA市场保费的影响",
+            "url": "https://doi.org/10.1016/j.jhealeco.2026.103142",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -1809,7 +1755,7 @@
             "title_zh": "快速诊断检测在血流感染中识别病原体和耐药基因的成本效益评估",
             "url": "https://doi.org/10.1007/s40273-026-01608-1",
             "abstract_en": "Bloodstream infections (BSI) are a leading cause of mortality worldwide. Rapid detection of the causative pathogen can help optimise therapy, reduce mortality, curb antimicrobial resistance, and lower healthcare costs. This study evaluates the cost effectiveness of adding molecular rapid diagnostic tests (mRDTs) to microbiology standard-of-care (SoC) methods. mRDTs evaluated include the Cobas® Eplex blood culture identification (BCID) panels, BioFire BCID panel, BioFire BCID2 panel, Accelerate PhenoTest™ blood culture (BC) kit and Diasorin Verigene® BCID panels. A decision-tree model was built to quantify the incremental costs and outcomes associated with adding mRDTs to the SoC. The inputs were derived from the published literature. The analysis considered a population aged 65 years and 45% female, admitted to a United States (US) hospital with a suspected BSI. Model outcomes included costs, 30-day mortality, quality-adjusted life years (QALYs) and adverse events (Clostridioides difficile infection and acute kidney injury [AKI]). A United Kingdom (UK) setting in place of the US setting was also considered in the scenario analysis. A strategy involving the Cobas Eplex BCID panels as an adjunct test to the SoC dominated SoC alone without Cobas Eplex BCID panels, saving US$164 per patient and averting 24 deaths per 10,000 patients. Earlier optimisation of ineffective empiric therapy generated half of the lives saved, with the majority of the remainder from reductions in AKI. This strategy was also dominant compared with other mRDTs. In a UK setting, Cobas Eplex BCID panels remained cost effective, saving £51 compared with SoC. Results were robust to scenarios varying key model inputs including time to pathogen identification with SoC. The model demonstrated improved patient survival and reduced average total costs with mRDT. The Cobas Eplex BCID panels, which have the largest pathogen coverage, reduced both mortality and overall costs compared with other mRDTs. Bloodstream infections (BSI) are responsible for significant morbidity and mortality, causing 250,000 deaths each year in Europe and the United States (US) [1]. Rapid treatment with an effective antimicrobial is potentially one of the most important elements of care for patients with BSI, and patients are typically treated with two broad-spectrum antimicrobials rapidly (within an hour) if BSI is suspected. Conventional methods to identify the cause of the BSI require culturation of blood culture bottles followed by Gram stain and sub-culture onto solid agar plates to isolate individual colonies. Molecular rapid diagnostic tests (mRDTs) allow detection of a range of different pathogens causing BSIs within a few hours of a blood culture bottle flagging positive [2]. These tests offer the potential to improve care by reducing time to appropriate therapy, which in turn can save lives and lower costs. This analysis used a decision-tree model to evaluate the costs and benefits of adding mRDTs to conventional methods. The study finds that mRDTs save lives and generate lower overall costs compared with standard of care (SoC) methods alone. Among the mRDTs, the Cobas® Eplex BCID panels, which detect the broadest spectrum of pathogens, were associated with the highest reduction in mortality and overall costs compared with other mRDTs.",
-            "abstract_zh": "血液感染（BSI）是全球主要的死亡原因之一。快速检测致病病原体有助于优化治疗、降低死亡率、遏制抗生素抗性并减少医疗成本。本研究评估了将分子快速诊断测试（mRDTs）添加到微生物标准护理（SoC）方法中的成本效益。评估的mRDTs包括Cobas® Eplex血培养鉴定（BCID）面板、BioFire BCID面板、BioFire BCID2面板、Accelerate PhenoTest™血培养（BC）试剂盒和Diasorin Verigene® BCID面板。构建了一个决策树模型，以量化添加mRDTs到SoC的增量成本和结果。输入数据来源于已发表的文献。分析考虑了65岁、45%为女性、疑似BSI的美国（US）医院住院人群。模型结果包括成本、30天死亡率、质量调整生命年（QALYs）和不良事件（艰难梭菌感染和急性肾损伤[AKI]）。在情景分析中，也考虑了将美国环境替换为英国（UK）环境。将Cobas Eplex BCID面板作为SoC的辅助测试的策略，在没有Cobas Eplex BCID面板的情况下，优于单独的SoC，每位患者节省164美元，每10,000名患者避免24人死亡。更早地优化无效的经验性治疗产生了一半的救生效果，其余大部分来自AKI的减少。与其他mRDTs相比，这种策略也是占优势的。在英国环境中，Cobas Eplex BCID面板仍然具有成本效益，与SoC相比节省了51英镑。结果对关键模型输入（包括SoC的病原体鉴定时间）的变化情景具有稳健性。该模型展示了mRDT改善患者生存和降低平均总成本的效果。Cobas Eplex BCID面板具有最大的病原体覆盖范围，与其他mRDTs相比，降低了死亡率和总体成本。血液感染（BSI）导致显著的发病率和死亡率，每年在欧洲和美国（US）造成250,000人死亡[1]。快速使用有效的抗生素治疗可能是BSI患者护理中最重要的元素之一，如果怀疑BSI，患者通常迅速（在一个小时内）用两种广谱抗生素治疗。传统方法识别BSI的原因需要血培养的培养...",
+            "abstract_zh": "血源性感染（BSI）是全球死亡的主要原因之一。快速检测致病病原体有助于优化治疗、降低死亡率、遏制抗生素耐药性并减少医疗成本。本研究评估了将分子快速诊断测试（mRDTs）添加到微生物标准护理（SoC）方法中的成本效益。评估的mRDTs包括Cobas® Eplex血培养鉴定（BCID）面板、BioFire BCID面板、BioFire BCID2面板、Accelerate PhenoTest™血培养（BC）试剂盒和Diasorin Verigene® BCID面板。构建了一个决策树模型，以量化添加mRDTs到SoC的增量成本和结果。输入数据来源于已发表的文献。分析考虑了65岁、45%为女性、疑似BSI的美国（US）医院住院患者群体。模型结果包括成本、30天死亡率、质量调整生命年（QALYs）和不良事件（艰难梭菌感染和急性肾损伤[AKI]）。在情景分析中，也考虑了将美国设置替换为英国（UK）设置。将Cobas Eplex BCID面板作为SoC的辅助测试的策略，在没有Cobas Eplex BCID面板的情况下，优于单独的SoC，每位患者节省164美元，每10,000名患者避免24人死亡。更早地优化无效的经验性治疗产生了一半的救生效果，其余大部分来自AKI的减少。与其它mRDTs相比，这种策略也是占优的。在英国设置中，Cobas Eplex BCID面板仍然具有成本效益，与SoC相比节省了51英镑。结果对关键模型输入（包括SoC的病原体鉴定时间）的变化情景具有稳健性。该模型展示了mRDT改善患者生存和降低平均总成本的效果。Cobas Eplex BCID面板具有最大的病原体覆盖范围，与其它mRDTs相比，降低了死亡率和总体成本。血源性感染（BSI）导致显著的发病率和死亡率，每年在欧洲和美国（US）造成250,000人死亡[1]。快速使用有效的抗生素治疗可能是BSI患者护理中最重要的元素之一，如果怀疑BSI，患者通常迅速（在一个小时内）用两种广谱抗生素治疗。传统方法确定BSI的原因需要血培养的培养...",
             "matched_topics": [
               "国际贸易",
               "创新药"
@@ -1987,6 +1933,16 @@
             ]
           },
           {
+            "title_en": "Menu Changes Under NYC’s Revised Food Standards Were Associated With A Reduction In Greenhouse Gas Emissions",
+            "title_zh": "纽约市修订食品标准下的菜单变化与温室气体排放减少相关",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01669",
+            "abstract_en": "Local policy makers increasingly have implemented nutrition standards for municipal programs to advance population health and climate change goals. Yet little is known about the impact of these policies. In 2008, New York City established nutrition standards for food purchased and served by city agencies, and in 2022, it revised the standards to limit meat and increase plant-based options. Using menu data from four agencies serving 77 percent of all city meals, we examined changes in their entrée offerings, as well as greenhouse gas and nutrition content associated with their total menu offerings, from fiscal year 2019 through fiscal year 2024. All agencies reduced the frequency of beef entrées offered on menus and increased the frequency of vegetarian entrées. Changes in total menu offerings were associated with an estimated reduction of 0.64 kilograms of carbon dioxide equivalent in greenhouse gas emissions per portion across all agencies and programs, while the nutrition content generally remained consistent. These findings suggest that municipal food standards can support greenhouse gas reductions without compromising nutrition, and they offer a model for other jurisdictions seeking to advance both population and environmental health goals.",
+            "abstract_zh": "地方政策制定者越来越多地实施市政项目的营养标准，以推进人口健康和气候变化目标。然而，这些政策的影响尚不清楚。2008年，纽约市为城市机构购买和提供的食品建立了营养标准，并在2022年修订了这些标准，以限制肉类并增加植物性选择。我们利用四个机构的菜单数据，这些机构提供了全市77%的餐食，检查了他们的主菜供应变化，以及与他们总菜单供应相关的温室气体和营养含量，从2019财年到2024财年。所有机构都减少了菜单上提供的牛肉主菜的频率，并增加了素食主菜的频率。总菜单供应的变化与所有机构和项目每份食物温室气体排放估计减少0.64公斤二氧化碳当量相关，而营养含量总体上保持一致。这些发现表明，市政食品标准可以在不损害营养的情况下支持温室气体减排，它们为其他寻求推进人口和环境健康目标的司法管辖区提供了一个模式。",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
             "title_en": "From Crisis To Strategy: Mainstreaming Climate Risk In Health Systems Planning",
             "title_zh": "从危机到战略：将气候风险纳入卫生系统规划主流",
             "url": "https://doi.org/10.1377/hlthaff.2025.01641",
@@ -2004,16 +1960,6 @@
             "abstract_zh": "美国医疗保健系统对气候变化有显著贡献，同时越来越多地面临其不利后果。尽管存在这一双重挑战，激励减少碳排放和使护理交付适应气候的政策努力仍然支离破碎。在本文中，我们确定了有潜力加速向低碳、气候智能医疗保健系统过渡的政策干预和其他策略。我们借鉴学术文献和现实世界的实施案例，提出了一个策略框架，强调支持绿色报销模式、将气候变化纳入卫生专业教育以及可持续采购标准的机制的证据。我们进一步检查了包括循环经济实践和强制碳核算在内的新兴政策杠杆。最后，我们强调了联邦和州政策制定者、支付者和卫生系统领导者指导未来行动的机会。确保卫生政策积极支持气候缓解和适应是一项道德和环境要求，也是提高质量、降低成本和推进健康公平的战略机遇。",
             "matched_topics": [
               "医药产业",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Menu Changes Under NYC’s Revised Food Standards Were Associated With A Reduction In Greenhouse Gas Emissions",
-            "title_zh": "纽约市修订食品标准下的菜单变化与温室气体排放减少相关",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01669",
-            "abstract_en": "Local policy makers increasingly have implemented nutrition standards for municipal programs to advance population health and climate change goals. Yet little is known about the impact of these policies. In 2008, New York City established nutrition standards for food purchased and served by city agencies, and in 2022, it revised the standards to limit meat and increase plant-based options. Using menu data from four agencies serving 77 percent of all city meals, we examined changes in their entrée offerings, as well as greenhouse gas and nutrition content associated with their total menu offerings, from fiscal year 2019 through fiscal year 2024. All agencies reduced the frequency of beef entrées offered on menus and increased the frequency of vegetarian entrées. Changes in total menu offerings were associated with an estimated reduction of 0.64 kilograms of carbon dioxide equivalent in greenhouse gas emissions per portion across all agencies and programs, while the nutrition content generally remained consistent. These findings suggest that municipal food standards can support greenhouse gas reductions without compromising nutrition, and they offer a model for other jurisdictions seeking to advance both population and environmental health goals.",
-            "abstract_zh": "地方政策制定者越来越多地实施市政项目的营养标准，以推进人口健康和气候变化目标。然而，这些政策的影响尚不清楚。2008年，纽约市为城市机构购买和提供的食品建立了营养标准，并在2022年修订了这些标准，以限制肉类并增加植物性选择。我们利用四个机构的菜单数据，这些机构提供了全市77%的餐食，检查了他们的主菜供应变化，以及与他们总菜单供应相关的温室气体和营养含量，从2019财年到2024财年。所有机构都减少了菜单上提供的牛肉主菜的频率，并增加了素食主菜的频率。总菜单供应的变化与所有机构和项目每份食物温室气体排放估计减少0.64公斤二氧化碳当量相关，而营养含量总体上保持一致。这些发现表明，市政食品标准可以在不损害营养的情况下支持温室气体减排，它们为其他寻求推进人口和环境健康目标的司法管辖区提供了一个模式。",
-            "matched_topics": [
               "创新药"
             ]
           },
