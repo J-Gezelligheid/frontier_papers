@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-31 06:35:56",
+  "updated_at": "2026-06-07 06:43:34",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 16,
+    "success_count": 20,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -369,21 +369,21 @@
             ]
           },
           {
-            "title_en": "Is War in Decline?",
-            "title_zh": "战争是否在减少？",
-            "url": "https://doi.org/10.1146/annurev-polisci-041923-115351",
-            "abstract_en": "The claim that war is in decline has gained considerable traction among analysts and policy makers. This review surveys the empirical data as well as the theoretical arguments for a decline of war. It concludes that, while great power wars have declined since 1945, war in general is not necessarily in decline. Critiques of the claim that war is in decline range from the statistical to the anthropological. While war is not necessarily in decline, though, it has changed. Specifically, a major driver of the putative decline of war—international norms, laws, and institutions—has done more to change how war is discussed and presented than whether it is prosecuted. Stronger theories of change are needed in international relations to understand whether these somewhat superficial changes could deepen in ways that produce a true decline in war.",
-            "abstract_zh": "声称战争正在减少的观点在分析人士和政策制定者中获得了相当大的支持。这篇综述调查了战争减少的经验数据和理论论点。它得出的结论是，尽管自1945年以来大国战争有所减少，但战争总体上并不一定在减少。对战争减少这一说法的批评范围从统计学扩展到人类学。尽管战争并不一定在减少，但它已经发生了变化。具体来说，被认为是战争减少的主要驱动力——国际规范、法律和机构——更多地改变了战争的讨论和呈现方式，而不是它是否被进行。国际关系中需要更强有力的变革理论，以理解这些表面上的变化是否能够以某种方式深化，从而真正减少战争。",
-            "matched_topics": [
-              "公共政策"
-            ]
-          },
-          {
             "title_en": "Gender and Leadership in Executive Branch Politics",
             "title_zh": "性别与行政分支政治中的领导力",
             "url": "https://doi.org/10.1146/annurev-polisci-033123-014634",
             "abstract_en": "Gender influences who has access to power, how leaders behave and are received within institutions, and how institutions are perceived. This review examines gender dynamics in the executive branch, focusing on presidents and prime ministers and their cabinets. We analyze four key areas: access to power, policy priorities, gendered leadership styles, and citizens’ responses. We argue that, despite progress, women remain underrepresented in executive roles, especially as chief executives. Women sometimes bring unique policy interests and leadership styles to the office, but strategic career incentives and institutional constraints shape both men's and women's behavior as leaders. Finally, women's presence in executive positions sends signals about the government, as well as about who is fit to govern and participate in politics. In sum, this review highlights the importance of understanding and addressing these gendered dynamics to move closer to gender equality in the highest levels of political leadership.",
             "abstract_zh": "性别影响谁能够获得权力，领导者在机构中的行为和接受方式，以及机构的感知方式。本综述考察了行政部门中的性别动态，重点关注总统和总理及其内阁。我们分析了四个关键领域：获得权力的途径、政策优先事项、性别化的领导风格和公民的反应。我们认为，尽管取得了进展，女性在行政角色中，尤其是作为首席行政官，仍然代表性不足。女性有时将独特的政策利益和领导风格带入办公室，但战略性的职业激励和制度约束塑造了男性和女性作为领导者的行为。最后，女性在行政职位上的存在向政府以及谁适合治理和参与政治发出了信号。总之，本综述强调了理解和解决这些性别动态的重要性，以更接近政治领导层中的性别平等。",
+            "matched_topics": [
+              "公共政策"
+            ]
+          },
+          {
+            "title_en": "Is War in Decline?",
+            "title_zh": "战争是否在减少？",
+            "url": "https://doi.org/10.1146/annurev-polisci-041923-115351",
+            "abstract_en": "The claim that war is in decline has gained considerable traction among analysts and policy makers. This review surveys the empirical data as well as the theoretical arguments for a decline of war. It concludes that, while great power wars have declined since 1945, war in general is not necessarily in decline. Critiques of the claim that war is in decline range from the statistical to the anthropological. While war is not necessarily in decline, though, it has changed. Specifically, a major driver of the putative decline of war—international norms, laws, and institutions—has done more to change how war is discussed and presented than whether it is prosecuted. Stronger theories of change are needed in international relations to understand whether these somewhat superficial changes could deepen in ways that produce a true decline in war.",
+            "abstract_zh": "声称战争正在减少的观点在分析人士和政策制定者中获得了相当大的支持。这篇综述调查了战争减少的经验数据和理论论点。它得出的结论是，尽管自1945年以来大国战争有所减少，但战争总体上并不一定在减少。对战争减少这一说法的批评范围从统计学扩展到人类学。尽管战争并不一定在减少，但它已经发生了变化。具体来说，被认为是战争减少的主要驱动力——国际规范、法律和机构——更多地改变了战争的讨论和呈现方式，而不是它是否被进行。国际关系中需要更强有力的变革理论，以理解这些表面上的变化是否能够以某种方式深化，从而真正减少战争。",
             "matched_topics": [
               "公共政策"
             ]
@@ -570,26 +570,36 @@
         "query_name": "Housing Policy Debate",
         "issn": "1051-1482",
         "resolved_name": "Housing Policy Debate",
-        "issue_title": "Volume 36, Issue 2",
+        "issue_title": "Volume 36, Issue 3",
         "issue_url": "https://www.tandfonline.com/journals/rhpd20",
-        "matched_count": 6,
+        "matched_count": 4,
         "total_in_issue": 7,
         "papers": [
           {
-            "title_en": "“It’s a Process—But It Shouldn’t Take This Long”: The Psychological Burden of Waiting for Rental Assistance",
-            "title_zh": "“这是一个过程——但不应该这么久”：等待租房援助的心理负担",
-            "url": "https://doi.org/10.1080/10511482.2026.2622683",
-            "abstract_en": "A growing and severe shortage of affordable housing in the U.S. has led to an increase in cost-burdened households and housing insecurity nationwide. The U.S. Department of Housing and Urban Development (HUD) provides rental assistance through programs such as Housing Choice Vouchers and public or project-based housing to increase access to affordable housing. However, available funding for these programs limits their supply, creating extensive waitlists for rental assistance. While the physical and mental health consequences of housing insecurity and cost-burdens are well documented, less is known about how the experience of waiting for rental assistance may contribute to these adverse outcomes. This paper examines qualitative data from a longitudinal mixed-methods study about rental assistance and diabetes self-management. Through thematic analysis of 116 semi-structured interviews collected from 30 unique participants, we describe how the uncertainty of one's waitlist status, an obligation to wait, and a sense of powerlessness in the waiting process contribute to poor mental health among rental assistance applicants. Our findings suggest that the experience of waiting and specific features of the waiting process may exacerbate stressors associated with housing insecurity to the detriment of applicants' psychological wellbeing.",
-            "abstract_zh": "美国日益严重的可负担住房短缺导致全国成本负担过重的家庭和住房不安全问题增加。美国住房和城市发展部（HUD）通过住房选择券和公共或基于项目的住房等项目提供租赁援助，以增加可负担住房的获取。然而，这些项目的可用资金限制了它们的供应，导致租赁援助的等待名单非常长。虽然住房不安全和成本负担对身心健康的影响已有充分记录，但关于等待租赁援助的经历如何导致这些不利结果的了解较少。本文通过定性数据分析，研究了一项关于租赁援助和糖尿病自我管理的纵向混合方法研究。通过对30名独特参与者收集的116次半结构化访谈进行主题分析，我们描述了等待名单状态的不确定性、等待的义务以及等待过程中的无力感如何导致租赁援助申请者中普遍存在的心理健康状况不佳。我们的发现表明，等待的经历和等待过程的特定特征可能会加剧与住房不安全相关的应激因素，从而损害申请者的心理福祉。",
+            "title_en": "Translating Community Land Trusts: Institutional Barriers and Stakeholder Sense-Making in Argentina and Chile",
+            "title_zh": "社区土地信托的翻译：阿根廷和智利的制度障碍与利益相关者的意义构建",
+            "url": "https://doi.org/10.1080/10511482.2026.2625823",
+            "abstract_en": "This paper investigates the potential for Community Land Trust (CLT) adoption in two Latin American contexts: Bahía Blanca, Argentina, and Temuco, Chile, where housing systems are shaped by neoliberal legacies, legal centralism, and cultural attachments to individual ownership. Drawing on two multi-stakeholder focus groups where participants were largely unfamiliar with the CLT model, the findings capture a crucial early stage of sense-making in which stakeholders interpret, negotiate, and localise the concept of collective landholding. Applying a multi-theoretical framework combining structuration theory, institutional planning, and agency typologies, the paper reveals how institutional constraints, discursive imaginaries, and actor strategies shape the (im)possibility of CLTs. While Argentine stakeholders identified pragmatic opportunities to adapt legal and financial instruments for collective tenure, Chilean participants expressed cultural and institutional scepticism rooted in strong individualist land values. The findings highlight the importance of context-sensitive policy imaginaries and institutional agency in advancing tenure innovation. The paper contributes to housing debates by revealing how cultural norms and actor strategies shape the initial buy-in and translation of CLTs within existing understandings of land, housing, and ownership",
+            "abstract_zh": "本文研究了社区土地信托（CLT）在两个拉丁美洲背景下的采纳潜力：阿根廷的巴伊亚布兰卡和智利的特木科，这些地方的住房系统受到新自由主义遗产、法律中央主义和对个人所有权的文化依恋的影响。基于两个多方利益相关者焦点小组，参与者大多对CLT模型不熟悉，研究结果捕捉到了意义构建的关键早期阶段，其中利益相关者解释、协商并本土化集体土地持有的概念。应用结合结构化理论、制度规划和行动者类型学的多理论框架，文章揭示了制度约束、话语想象和行动者策略如何塑造CLTs的（不）可能性。尽管阿根廷利益相关者识别了适应集体保有权的法律和金融工具的实用机会，智利参与者表达了根植于强烈的个人主义土地价值观的文化和制度怀疑。研究结果强调了在推进保有权创新中，对情境敏感的政策想象和制度行动的重要性。本文通过揭示文化规范和行动者策略如何塑造CLTs在现有土地、住房和所有权理解中的初步接受和转化，为住房辩论做出了贡献。",
             "matched_topics": [
               "房地产",
+              "公共政策"
+            ]
+          },
+          {
+            "title_en": "How Does Upzoning Impact Residential Mobility Among Low-Income Households? Evidence from New York City",
+            "title_zh": "如何影响低收入家庭的居住流动性？来自纽约市的证据",
+            "url": "https://doi.org/10.1080/10511482.2026.2649483",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
               "城市治理"
             ]
           },
           {
-            "title_en": "Economic Mobility or Safety Net? Examining Employment Status and Wage Trajectories of Housing Choice Voucher Recipients",
-            "title_zh": "经济流动性还是安全网？考察住房选择券领取者的就业状况和工资轨迹",
-            "url": "https://doi.org/10.1080/10511482.2025.2591667",
+            "title_en": "Moving Into Debt: Impacts of Housing Affordability and Transportation Access on Consumer Credit Outcomes",
+            "title_zh": "债务迁徙：住房可负担性与交通可达性对消费者信贷结果的影响",
+            "url": "https://doi.org/10.1080/10511482.2026.2649490",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -597,39 +607,9 @@
             ]
           },
           {
-            "title_en": "Mitigating the Stress of Housing Instability: The Impact of Housing Choice Vouchers on Social Supports, Behavioral Health, and Criminal Justice Involvement",
-            "title_zh": "缓解住房不稳定的压力：住房选择券对社会支持、行为健康和刑事司法涉入的影响",
-            "url": "https://doi.org/10.1080/10511482.2025.2578944",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "房地产"
-            ]
-          },
-          {
-            "title_en": "Evaluating Rent Control Intensity in California Cities, 2010–2019",
-            "title_zh": "2010-2019年加州城市租金控制强度评估",
-            "url": "https://doi.org/10.1080/10511482.2025.2582717",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "房地产"
-            ]
-          },
-          {
-            "title_en": "Rent and Eviction Filing at Enterprise-Backed Rental Properties",
-            "title_zh": "企业支持的租赁房产中的租金和驱逐申请",
-            "url": "https://doi.org/10.1080/10511482.2025.2581673",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "房地产"
-            ]
-          },
-          {
-            "title_en": "State Affordable Housing Tax Credits and Renter Outcomes: Evidence from Illinois",
-            "title_zh": "州级经济适用房税收抵免与租户结果：来自伊利诺伊州的证据",
-            "url": "https://doi.org/10.1080/10511482.2025.2578166",
+            "title_en": "“It’s Like Trying to Put Out a Fire With a Dixie Cup”: Understanding Disconnects Between Local Level Administrators’ Challenges, Resources, and Needs in Implementing State Affordable Housing Programs",
+            "title_zh": "“就像用纸杯灭火”：理解地方级行政人员在实施州经济适用房计划中的挑战、资源和需求之间的脱节",
+            "url": "https://doi.org/10.1080/10511482.2026.2624020",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -646,9 +626,81 @@
         "resolved_name": "Population Space and Place",
         "issue_title": "Volume 32, Issue 5",
         "issue_url": "https://onlinelibrary.wiley.com/journal/15448452",
-        "matched_count": 1,
-        "total_in_issue": 2,
+        "matched_count": 8,
+        "total_in_issue": 10,
         "papers": [
+          {
+            "title_en": "Legal (In)Visibility of Chinese Overseas Labor Migration Under the Belt and Road Initiative",
+            "title_zh": "“一带一路”倡议下中国海外劳工迁移的法律（不）可见性",
+            "url": "https://doi.org/10.1002/psp.70293",
+            "abstract_en": "ABSTRACT This paper examines Chinese overseas labor migration under the Belt and Road Initiative (BRI) through the lens of legal (in)visibility, i.e., the uneven ways workers, employment relations, and workplace harms become legible or remain opaque within legal systems. While existing research has documented the growth of Chinese labor mobility alongside the rollout of BRI, less is known about how recruitment, overseas management, and dispute resolution are governed across borders, and what kinds of labor protections are practically enforceable. Drawing on a dataset of labor lawsuits adjudicated in Chinese courts involving Chinese workers and Chinese companies operating in five African countries, the paper shows that overseas labor migration is featured by selective and uneven legal visibility. The cases surface disputes over remuneration, contractual obligations, recruitment and dispatch fees, and work‐related injuries. They also reveal how layered subcontracting, dispatch arrangements, and informal brokerage complicate employer identification and responsibility. The analysis identifies three forms of legal (in)visibility: (1) employment relationships are partially obscured by fragmented contracting chains; (2) workers are visible as deployable labor yet only contingently recognized as rights‐bearing subjects when seeking remedies; and (3) judicial procedures individualize disputes in ways that reduce structural conditions to limited, document‐driven claims. The paper contributes to broader debates on transnational labor governance and the role of home state institutions in governing overseas labor migration.",
+            "abstract_zh": "摘要 本文通过法律（不）可见性的视角，考察了“一带一路”倡议下中国海外劳动力迁移的情况，即工人、雇佣关系和工作场所伤害在法律体系中变得可读或保持不透明的方式是不均匀的。尽管现有研究已经记录了随着“一带一路”倡议的推进，中国劳动力流动性的增长，但对于跨境招聘、海外管理和争端解决是如何治理的，以及哪些类型的劳动保护实际上可以执行，我们知之甚少。本文基于中国法院审理的涉及中国工人和在非洲五个国家运营的中国公司的劳动诉讼数据集，展示了海外劳动力迁移以选择性和不均匀的法律可见性为特征。这些案件涉及薪酬、合同义务、招聘和派遣费用以及工作相关伤害的争议。它们还揭示了分层分包、派遣安排和非正式经纪如何使雇主识别和责任复杂化。分析确定了三种法律（不）可见性的形式：（1）雇佣关系部分被分散的合同链所掩盖；（2）工人作为可部署的劳动力是可见的，但在寻求补救时，他们作为权利主体的认可只是有条件的；以及（3）司法程序以个体化争议的方式，将结构性条件简化为有限的、以文件为驱动的索赔。本文为跨国劳动治理以及母国机构在治理海外劳动力迁移中的作用提供了更广泛的辩论。",
+            "matched_topics": [
+              "公共政策"
+            ]
+          },
+          {
+            "title_en": "Youth Transitions in an Era of Permacrisis: The Case of Europeans in Post‐Brexit Britain",
+            "title_zh": "标题：永久危机时代的青年转型：后脱欧英国的欧洲人案例",
+            "url": "https://doi.org/10.1002/psp.70286",
+            "abstract_en": "ABSTRACT The protracted Brexit process had negative practical and emotional consequences for the millions of Europeans who reside in Britain. The analysis presented in this paper elucidates the circumstances, experiences and perspectives specifically of young Europeans, achieved through interrogation of data from the 2021 Census of England and Wales and a 2023–24 novel, longitudinal survey of 1490 young Europeans. The findings reveal considerable heterogeneity within this cohort, but widespread concerns about employment transitions, housing and mental health. Drawing on concepts of permacrisis and ‘modes of uncertainty’ (Anderson et al. 2020), the research demonstrates how challenges in specific life domains are experienced and have the cumulative effects of significantly shaping how young people live with and in permacrisis. As such, the paper argues for nuanced framings of the European youth migrant experience beyond a precarity‐privilege binary and calls for greater emphasis on the individual, embodied experiences of permacrisis in young people's lives.",
+            "abstract_zh": "摘要：漫长的脱欧进程对居住在英国的数百万欧洲人产生了负面的实际和情感影响。本文通过对2021年英格兰和威尔士人口普查数据以及2023-24年对1490名年轻欧洲人进行的一项新的纵向调查数据的分析，阐明了年轻欧洲人的具体环境、经历和观点。研究结果揭示了这一群体内部的显著异质性，但普遍关注就业转型、住房和心理健康问题。研究借鉴了“永久危机”和“不确定性模式”（Anderson等人，2020年）的概念，展示了特定生活领域中的挑战是如何被体验的，并且具有累积效应，显著塑造了年轻人在永久危机中的生活。因此，本文主张对欧洲青年移民经历进行更细致的框架构建，超越不稳定-特权二元对立，并呼吁更加重视年轻人生活中永久危机的个体、具身体验。",
+            "matched_topics": [
+              "房地产"
+            ]
+          },
+          {
+            "title_en": "Gendered (Im)mobilities in the Sundarbans: Everyday Strategies in a Changing Landscape",
+            "title_zh": "性别化的（不）流动性在孙德尔本斯：在变化景观中的日常生活策略",
+            "url": "https://doi.org/10.1002/psp.70303",
+            "abstract_en": "ABSTRACT This study investigates how women who remain in their communities navigate the intersecting demands of caregiving and livelihood responsibilities amid environmental and social pressures. Grounded in Feminist Political Ecology, it examines the everyday experiences of women in the Sundarbans—a region marked by ecological vulnerability and socio‐economic precarity. Based on 30 semi‐structured qualitative interviews with women in the different settlements in the region and thematic analysis, the study highlights how women's agency is shaped by structural constraints, livelihood strategies and care work. Despite their physical rootedness, these women's lives reflect agency and adaptation.",
+            "abstract_zh": "摘要 本研究探讨了在环境和社会压力下，留在社区的女性如何协调照顾他人和生计责任的交织需求。基于女性政治生态学，研究考察了在生态脆弱和社会经济不稳定的孙德尔本斯地区的女性的日常生活经历。通过对该地区不同定居点的30名女性进行半结构化定性访谈和主题分析，研究突出了女性的主体性是如何被结构性约束、生计策略和照顾工作所塑造的。尽管这些女性在物理上扎根于当地，但她们的生活反映了主体性和适应性。",
+            "matched_topics": [
+              "房地产"
+            ]
+          },
+          {
+            "title_en": "Healthcare‐Seeking Preferences and Local Embeddedness Under One Country, Two Systems: Hong Kong Residents in Guangzhou",
+            "title_zh": "“一国两制”下的健康寻求偏好与本土嵌入性：广州的香港居民",
+            "url": "https://doi.org/10.1002/psp.70302",
+            "abstract_en": "ABSTRACT This study examines how healthcare‐seeking preferences are associated with local embeddedness among Hong Kong residents in Guangzhou, a core city of the Guangdong–Hong Kong–Macao Greater Bay Area. While migration scholarship has extensively examined rural‐to‐urban migrants and international migrants, less attention has been paid to intra‐national but cross‐system mobility under One Country, Two Systems. Drawing on a questionnaire survey of 501 Hong Kong residents and cellphone‐based spatial information used to guide sampling, the study adopts a regression‐based path‐modelling strategy to examine conditional associations among healthcare preference, cross‐border attachment, local anchoring, and embeddedness‐related outcomes. Healthcare‐seeking preference is measured by whether respondents usually seek care in Guangzhou or rely on Hong Kong‐oriented arrangements, such as returning to Hong Kong hospitals or contacting Hong Kong family doctors. Local embeddedness is measured through contact with Mainland friends, sense of belonging to Guangzhou, and long‐term settlement intention in Mainland China. Results show that 19.2% of respondents reported Hong Kong‐oriented healthcare preferences. Such preferences are associated with stronger cross‐border attachment and weaker relational/place‐based local embeddedness, while local anchoring is associated with lower reliance on Hong Kong‐oriented care. These findings do not establish causality but highlight healthcare as an everyday site where cross‐border attachment and local embeddedness intersect.",
+            "abstract_zh": "摘要 本研究考察了在粤港澳大湾区核心城市广州的香港居民中，就医偏好与地方嵌入性之间的关联。尽管迁移研究广泛考察了农村到城市的迁移者和国际迁移者，但在“一国两制”下国内跨系统流动的关注较少。本研究基于对501名香港居民的问卷调查和基于手机的空间信息用于指导抽样，采用基于回归的路径建模策略，检验就医偏好、跨境依恋、地方锚定和与嵌入性相关的结果之间的条件关联。就医偏好是通过受访者是否通常在广州寻求医疗护理或依赖以香港为导向的安排来衡量的，例如返回香港医院或联系香港家庭医生。地方嵌入性是通过与内地朋友的接触、对广州的归属感和在中国大陆长期定居的意图来衡量的。结果显示，19.2%的受访者报告了以香港为导向的就医偏好。这种偏好与更强的跨境依恋和较弱的关系/基于地方的地方嵌入性相关，而地方锚定与对以香港为导向的护理的依赖度较低相关。这些发现没有建立因果关系，但突出了医疗保健作为跨境依恋和地方嵌入性交汇的日常生活场所。",
+            "matched_topics": [
+              "城市治理"
+            ]
+          },
+          {
+            "title_en": "Home After Loss: Housing Relocation and Affordability Stress Following Spousal Loss",
+            "title_zh": "丧偶后的家庭：住房搬迁与经济压力",
+            "url": "https://doi.org/10.1002/psp.70295",
+            "abstract_en": "ABSTRACT Spousal loss is a major life transition that may reshape one's socioeconomic and psychological conditions, yet little is known about how housing trajectories change before and after spousal loss. This study examines how spousal loss affects housing relocation and housing affordability stress over time, and whether these trajectories differ between owner‐occupiers and renters. The study used individual‐level longitudinal data from the Korea Welfare Panel Study (KoWePS) to examine within‐individual trajectories of housing relocation and housing affordability stress before and after spousal loss. A fixed‐effects regression model analyzed housing relocation and affordability stress, defined as housing‐related costs exceeding 30% of household income before and after spousal loss. Interaction terms between spousal loss timing and housing tenure assessed differences between owner‐occupiers and renters. Housing relocation probability significantly increased at the time of spousal loss and in the following year. Housing affordability stress rose 2 years before spousal loss and remained elevated for at least 3 years afterward. Owner‐occupiers were less likely to relocate during spousal loss and in the first year following it compared to renters. Additionally, owner‐occupiers experienced less housing affordability stress at spousal loss and for up to 3 years after compared to renters. Spousal loss significantly affects housing outcomes, with increased likelihood of relocation and prolonged housing affordability stress. Owner‐occupiers appear to be better protected against these negative effects compared to renters, suggesting that housing tenure plays a crucial role in mitigating the housing‐related challenges associated with spousal loss.",
+            "abstract_zh": "摘要：丧偶是人生中的重大转变，可能会重塑个体的社会经济和心理状况，但关于丧偶前后住房轨迹如何变化的研究却鲜有报道。本研究考察了丧偶如何影响住房搬迁和住房负担能力压力随时间的变化，以及这些轨迹在自住房主和租房者之间是否存在差异。研究使用了韩国福利面板研究（KoWePS）的个体层面纵向数据，以考察丧偶前后住房搬迁和住房负担能力压力的个体内部轨迹。采用固定效应回归模型分析了丧偶前后住房相关成本超过家庭收入30%的住房搬迁和负担能力压力。丧偶时机与住房产权之间的交互项评估了自住房主和租房者之间的差异。丧偶时和随后一年内住房搬迁概率显著增加。住房负担能力压力在丧偶前2年上升，并在丧偶后至少3年内保持较高水平。与租房者相比，自住房主在丧偶期间和随后的第一年内搬迁的可能性较小。此外，与租房者相比，自住房主在丧偶时和随后长达3年的住房负担能力压力较小。丧偶显著影响住房结果，增加了搬迁的可能性和延长了住房负担能力压力。与租房者相比，自住房主似乎更能抵御这些负面影响，这表明住房产权在减轻与丧偶相关的住房挑战中发挥了关键作用。",
+            "matched_topics": [
+              "房地产"
+            ]
+          },
+          {
+            "title_en": "Deciphering the Determinants of Migrants' and Locals' Regional Attachment: The Dual Perspective of Mobility and Psychology",
+            "title_zh": "解析移民与本地居民地区依恋的决定因素：流动性与心理学的双重视角",
+            "url": "https://doi.org/10.1002/psp.70298",
+            "abstract_en": "ABSTRACT The rapid growth of metropolitan regions is reshaping residents' mobility and attachment to places across scales. However, research on regional‐scale place attachment remains limited, particularly regarding how residents with different identities develop such attachment. Drawing on survey data from nine mainland cities in the Guangdong‐Hong Kong‐Macao Greater Bay Area ( N = 1526), this study examines differences in regional attachment between locals and migrants, along with key influencing factors. A mobility–psychology pathway model is constructed to explain the formation of regional attachment. Findings reveal that work‐related and intra‐regional mobility enhance attachment, while city attachment and satisfaction with work and leisure contribute psychologically. Mechanisms vary between locals and migrants, offering new insights into place attachment and informing inclusive regional and urban policy.",
+            "abstract_zh": "摘要：大都市区的快速增长正在重塑居民在不同尺度上的流动性和对地方的依恋。然而，关于区域尺度地方依恋的研究仍然有限，特别是关于不同身份居民如何发展这种依恋。本研究基于广东-香港-澳门大湾区九个内地城市的调查数据（N=1526），考察了本地人和外来移民在区域依恋上的差异以及关键影响因素。构建了一个流动性-心理路径模型来解释区域依恋的形成。研究结果揭示了工作相关和区域内流动性增强依恋，而城市依恋以及对工作和休闲的满意度在心理上有所贡献。本地人和外来移民之间的机制不同，为地方依恋提供了新的见解，并为包容性区域和城市政策提供了信息。",
+            "matched_topics": [
+              "房地产",
+              "城市治理",
+              "公共政策"
+            ]
+          },
+          {
+            "title_en": "Impacts of Migration as Adaptation: Assessing Translocal Social Resilience in Eastern, Northern and Greater Accra Regions, Ghana",
+            "title_zh": "迁移作为适应的影响：评估加纳东部、北部和大阿克拉地区的跨地区社会韧性",
+            "url": "https://doi.org/10.1002/psp.70300",
+            "abstract_en": "ABSTRACT Migration is increasingly recognised as an adaptive strategy to enhance social resilience amid environmental and socioeconomic stressors. However, systematic assessments of its impact on both migrants and their households remain limited. This study applies the translocal social resilience framework to analyse migration outcomes across origin and destination areas, individual and household levels, and their intersection as translocal dyads. Using the quantitative bi‐local survey data from the “Migration and Translocality in West Africa” project in Ghana, we assess how migration shapes social resilience among 100 household‐migrant pairs. Our findings reveal that three sub‐groups of migrants are more likely to experience improved resilience: those from the Eastern Region, men, and those with higher socio‐economic endowments. However, these gains are not always mirrored at the household level. Only one in four dyads achieves mutually beneficial outcomes; most fall into “asymmetrical livelihoods”, where migrants thrive but households experience emotional distress or reduced resilience. The regional origin, gender and class of individuals are key structural determinants of resilience outcomes. This study provides a nuanced, systems‐based understanding of migration as adaptation, and highlights the need for regionally specific, gender‐sensitive, and cross‐scalar policy approaches.",
+            "abstract_zh": "摘要：迁移日益被视为一种适应性策略，以增强社会在环境和社会经济压力中的韧性。然而，对其对移民及其家庭影响的系统评估仍然有限。本研究应用跨地域社会韧性框架，分析迁移结果在原籍地和目的地区域、个体和家庭层面及其作为跨地域二元组的交叉点。利用“西非迁移与跨地域性”项目在加纳的定量双地域调查数据，我们评估了迁移如何塑造100个家庭-移民对的社会韧性。我们的发现揭示了三类更有可能经历韧性提升的移民子群体：来自东部地区的移民、男性以及具有较高社会经济禀赋的移民。然而，这些收益并不总是反映在家庭层面。只有四分之一的二元组实现了互利结果；大多数陷入了“不对称生计”，其中移民蓬勃发展，但家庭经历情感困扰或韧性降低。个体的地域来源、性别和阶级是韧性结果的关键结构性决定因素。本研究提供了一种细致入微、基于系统的迁移作为适应的理解，并强调了需要区域特定、性别敏感和跨尺度的政策方法。",
+            "matched_topics": [
+              "公共政策"
+            ]
+          },
           {
             "title_en": "Under the Same Roof: Educational Attainment and Adult Co‐Residence With Parents",
             "title_zh": "同一屋檐下：教育成就与成年子女与父母同住",
@@ -680,11 +732,22 @@
         "query_name": "International Public Management Journal",
         "issn": "1096-7494",
         "resolved_name": "International Public Management Journal",
-        "issue_title": "Volume 29, Issue 2",
+        "issue_title": "Volume 29, Issue 3",
         "issue_url": "https://www.tandfonline.com/journals/upmj20",
-        "matched_count": 0,
+        "matched_count": 1,
         "total_in_issue": 6,
-        "papers": [],
+        "papers": [
+          {
+            "title_en": "Organizational capabilities and the achievement of Sustainable Development Goals in Brazilian municipal governments",
+            "title_zh": "组织能力与巴西市政府实现可持续发展目标",
+            "url": "https://doi.org/10.1080/10967494.2025.2537247",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "城市治理"
+            ]
+          }
+        ],
         "error": null
       },
       {
