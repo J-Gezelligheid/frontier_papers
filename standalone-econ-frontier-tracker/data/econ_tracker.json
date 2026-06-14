@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-06-07 07:27:03",
+  "updated_at": "2026-06-14 07:59:55",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 16,
-    "fail_count": 101,
+    "success_count": 0,
+    "fail_count": 144,
     "failed_examples": [
+      "Reducing trade with Russia: Sanctions vs. firms’ voluntary suspension of activit :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "The invasion of Ukraine in February 2022 led to large and unprecedented sanction :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "Financial frictions, FX reserves, and exchange rate management with local-curren :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "Governments’ home bias and efficiency losses: Evidence from national and subnati :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "Optimal bailouts in banking and sovereign crises :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "We study optimal bailout policies in the presence of banking and sovereign crise :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "International trade finance and learning dynamics :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "We study how learning within trading relationships determines export and trade f :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p"
+      "We study optimal bailout policies in the presence of banking and sovereign crise :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p"
     ],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
   },
@@ -751,14 +751,14 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 9,
-        "total_in_issue": 13,
+        "matched_count": 10,
+        "total_in_issue": 17,
         "papers": [
           {
-            "title_en": "Trade models, trade elasticities, and the gains from trade",
-            "title_zh": "贸易模型、贸易弹性与贸易收益",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104268",
-            "abstract_en": "",
+            "title_en": "Reducing trade with Russia: Sanctions vs. firms’ voluntary suspension of activities",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104284",
+            "abstract_en": "The invasion of Ukraine in February 2022 led to large and unprecedented sanctions against Russia. In parallel, many multinational firms voluntarily decided to suspend their activities in Russia. Using Spanish firm-level data, this paper quantifies the impact of trade sanctions and firms’ voluntary decisions to suspend activities on exports and imports with Russia. We find that firms’ voluntary decisions to suspend activities in Russia contributed to the reduction in exports and imports by 20% and 24%, respectively, while sanctions contributed by 10% and 34%, respectively. The results show that the combination of sanctions and firms’ voluntary suspension of activities caused a much greater reduction in trade with Russia than sanctions alone would have achieved.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
@@ -772,6 +772,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际经济"
+            ]
+          },
+          {
+            "title_en": "Trade models, trade elasticities, and the gains from trade",
+            "title_zh": "贸易模型、贸易弹性与贸易收益",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104268",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
             ]
           },
           {
@@ -857,9 +867,30 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 0,
-        "total_in_issue": 1,
-        "papers": [],
+        "matched_count": 2,
+        "total_in_issue": 5,
+        "papers": [
+          {
+            "title_en": "Government demand and firm growth",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103832",
+            "abstract_en": "Public procurement in developing countries accounts for approximately 13% of GDP, offering a significant market opportunity for domestic firms, especially those facing demand constraints. This paper explores the impact of selling to government entities on firm performance in Uganda, leveraging detailed administrative data and an event study methodology that corrects for firm self-selection and heterogeneity in the timing of the treatment. The results reveal that while firms increase their total sales after entering government contracts, they do not see improvements in productivity (measured by value added per worker). Moreover, sales to non-government customers drop sharply. This reallocation effect is persistent. This effect is not observed when firms start to sell to large private-sector buyers. Drawing on an original survey of firms engaged in public procurement, we highlight potential drivers of these dynamics, including capacity constraints and profitability differences between public and private sector sales.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Local and spillover effects of trade on structural transformation: Evidence from Brazil",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103840",
+            "abstract_en": "This paper investigates the impact of trade liberalization on structural transformation, using quasi-experimental tariff reductions from Brazil's 1990s reforms. Building on recent cross-regional macroeconomic literature, we extend the traditional shift-share framework to estimate both local and spatial spillover effects on sectoral employment shares, providing insights on aggregate outcomes. Regions more exposed to tariff cuts saw declines in manufacturing employment, increases in the primary sector, and reductions in non-tradables. Spillover effects—mediated through migration or proximity—partially offset local deindustrialization in manufacturing but amplified declines in non-tradables. These effects persisted for over twenty years and proved robust to alternative explanations, including competing structural transformation hypotheses and other economic shocks during the period of analysis. Overall, our findings support theories highlighting comparative advantage as a potential driver of trade-induced structural transformation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -1172,8 +1203,8 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 1,
-        "total_in_issue": 2,
+        "matched_count": 2,
+        "total_in_issue": 4,
         "papers": [
           {
             "title_en": "Focal pricing constraints and pass-through of input cost changes",
@@ -1181,6 +1212,16 @@
             "url": "https://doi.org/10.1016/j.ijindorg.2026.103288",
             "abstract_en": "Pass-through rates are relevant in a variety of contexts, such as estimating antitrust damages. It is often asserted that focal pricing, the practice of charging only special prices, e.g. ending in 9s, reduces the degree of pass-through in an industry. This claim has had serious consequences; for example, it has contributed to the dismissal of high-profile antitrust cases. However, it is not grounded in economic theory or evidence. I prove that, in a simple but general framework, expected pass-through is unchanged by the presence of focal pricing constraints. Therefore, the fact that an industry is characterised by focal pricing constraints does not entail that it will also be characterised by a low pass-through rate.",
             "abstract_zh": "传递率在多种情境中都很重要，比如估算反垄断损害赔偿。人们经常声称，焦点定价——只收取特殊价格的做法，例如以9结尾的价格——降低了一个行业的传递率。这一主张产生了严重后果；例如，它导致了一些备受瞩目的反垄断案件被驳回。然而，它没有经济理论或证据的支持。我在一个简单但通用的框架中证明，预期的传递率不会因为焦点定价限制的存在而改变。因此，一个行业以焦点定价限制为特征，并不意味着它也会以低传递率为特征。",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Financial structure and mergers",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103302",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
               "产业经济"
             ]
@@ -1195,15 +1236,58 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 8,
-        "total_in_issue": 11,
+        "matched_count": 12,
+        "total_in_issue": 14,
         "papers": [
+          {
+            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105541",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "At cross purposes? Housing markets and innovation in American Political Economy",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105561",
+            "abstract_en": "The Comparative Political Economy (CPE) literature offers two distinct but insufficiently integrated institutional accounts of US growth dynamics: the Varieties of Capitalism (VoC) approach, emphasising the economy's capacity for radical innovation, and the CPE growth models perspective, which views the US economy as consumption-driven, supported by rising house prices and household debt. This paper argues that these two institutional complexes coexist within the US economy, generating conflicting pressures on innovation capacity that existing CPE frameworks have not adequately theorised. Specifically, the demand-side dynamics sustaining consumption-driven growth, supported by financial product innovations widening access to mortgage credit, may undermine the supply-side conditions underpinning innovation capacity, a cross-level tension that neither the VoC nor the CPE growth models perspective has incorporated. Using error correction models applied to an unbalanced panel of 50 US states from 1975 to 2016, the long-run results show that rising house prices are significant negative long-run predictors of innovation outputs, whilst expansionary state government fiscal expenditure can compensate for these negative effects. Furthermore, left-leaning state governments produce short-run innovation gains but long-run negative effects. Together, these findings suggest that understanding US growth dynamics requires moving beyond frameworks that treat the innovation-and-consumption-oriented institutional complexes as complementary, toward a more integrated account that incorporates the conflicting pressures they generate and the compensatory state government fiscal policies through which those pressures can be managed, with important implications for understanding the conditions underpinning US’ growth and its international economic competitiveness.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "The impact of digital startups' IPO events on complementary developers' contributions to open-source software communities",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105544",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
           {
             "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
             "title_zh": "理解邪恶：面向挑战的创新政策的方向性启发式",
             "url": "https://doi.org/10.1016/j.respol.2026.105513",
             "abstract_en": "This article contributes to the burgeoning literature on directionality challenges by introducing directionality heuristics as a lens to conceptualize how policymakers and other stakeholders interpret and respond to problems in challenge-led innovation policy. Our starting point is that the “wickedness” of problems is strongly shaped by subjective and context-specific perceptions. We therefore utilize and adapt a sense-making framework, originally developed in the management literature, to distinguish different ways in which actors engage with the complexity and uncertainty of such problems. Building on this perspective, we conceptualize directionality heuristics as domain-specific rules of thumb that guide how policymakers interpret and address problems. We demonstrate the usefulness of this concept by applying it retrospectively to the Dutch Mission-oriented Topsector and Innovation Policy. The illustration highlights how stakeholders' differing views on the wickedness of problems translate into particular directionality challenges as well as suitable practices to address those. We conclude by outlining three key propositions, which emphasize the main conceptual contributions and provide concrete paths for future research and policy. • Sense-making helps to understand how policymakers view and tackle wicked problems. • Directionality heuristics are mental shortcuts used to interpret and address problems. • Different degrees of wickedness call for different directionality heuristics. • Nescience creates additional directionality challenges for challenge-led policies.",
             "abstract_zh": "本文通过引入方向性启发式作为视角，为日益增长的方向性挑战文献做出贡献，以概念化政策制定者和其他利益相关者如何解释和应对挑战引领型创新政策中的问题。我们的出发点是，问题的“恶果”在很大程度上受到主观和情境特定的感知的影响。因此，我们利用并适应了最初在管理文献中发展起来的意义构建框架，以区分行动者与这类问题的复杂性和不确定性的不同互动方式。基于这一视角，我们将方向性启发式概念化为特定领域的经验法则，指导政策制定者如何解释和解决问题。我们通过将其应用于荷兰任务导向型顶级部门和创新政策，展示了这一概念的有用性。这一说明突出了利益相关者对问题恶果的不同观点如何转化为特定的方向性挑战以及解决这些问题的适当做法。我们最后概述了三个关键命题，强调了主要的概念贡献，并为未来的研究和政策提供了具体路径。• 意义构建有助于理解政策制定者如何看待和解决恶果问题。• 方向性启发式是用于解释和解决问题的心理捷径。• 不同程度的问题恶果需要不同的方向性启发式。• 无知为挑战引领型政策创造了额外的方向性挑战。",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Leaky mess or safety vaults? Team knowledge production and post-mobility knowledge spillover",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105548",
+            "abstract_en": "Teams have become the primary unit for organizing knowledge production. While existing research has extensively investigated whether and how teams enhance knowledge production, it has paid scant attention to their role in safeguarding against knowledge spillover following inventor mobility. The literature presents conflicting arguments on this issue. Drawing on team innovation research, we contend that team production generates two types of knowledge: task-specific knowledge and metaknowledge. Task-specific knowledge is economically valuable and is fragmented among co-inventors, so that its risk of post-mobility knowledge spillover is lower when it is produced by larger teams. While metaknowledge is shared within the team and prone to mobility-induced spillover, it has limited value with the corresponding task-specific knowledge. Analyzing a sample of mobility events among industrial inventors using a within-event design, we find that knowledge produced by larger teams is more resistant to post-mobility spillover, being significantly less likely to be utilized by the destination firm. This protective effect is attenuated when co-inventors co-move and when the knowledge is inherently complex. Our study contributes to the literature on team innovation and inventor mobility by underscoring the role of team production in knowledge protection in the context of inventor mobility.",
+            "abstract_zh": "",
             "matched_topics": [
               "企业创新"
             ]
@@ -1249,20 +1333,10 @@
             ]
           },
           {
-            "title_en": "Where do ideas go? A spatial analysis of the patenting impact of publicly funded basic science",
-            "title_zh": "标题：创意去哪儿了？公共资助基础科学对专利影响的空间分析",
-            "url": "https://doi.org/10.1016/j.respol.2026.105528",
-            "abstract_en": "As societal challenges loom larger, discoveries are in greater demand, and evaluating the impact of publicly funded programs attracts increasing attention. We contribute to this debate by focusing on the spatial influence of scientific discoveries funded through grants targeting frontier research. Our dataset includes information on 6671 EU ERC-funded projects between 2007 and 2016, 172,683 scientific publications generated by these grants, and 34,513 patents citing such publications. Building on linkages between scientific papers and patents via non-patent literature citations, we use the project as the unit of analysis and employ a two-stage regression model to examine the probability that ERC-funded publications are cited by patents and how these citations diffuse across space and time. The analyses on our final sample of 4977 ERC-funded projects, generating 151,574 publications that are cited by 34,007 patents confirmed our hypothesis that higher quality research leads to a broader and faster geographical diffusion and partially confirm the hypotheses that diffusion paths and speed differ by applicants, although these differences do not always show the same patters. Moreover, we also find that c) projects generating scientific output (publications) and technological outputs (patents) diffuse more broadly and faster; and d) projects led by more mobile and scientifically productive scientists diffuse more broadly and faster; We discuss these findings and show how they enhance and extend our understanding of the impact of science and its implications for policymakers and innovation scholars.",
-            "abstract_zh": "随着社会挑战日益严峻，对发现的需求越来越大，对公共资助项目影响的评估也日益受到关注。我们通过关注通过资助前沿研究的资助项目对科学发现的空间影响，为这场辩论做出贡献。我们的数据集包括2007年至2016年间6671个欧盟ERC资助项目的信息，这些资助项目产生的172,683篇科学出版物，以及引用这些出版物的34,513项专利。基于科学论文和专利之间的非专利文献引用联系，我们以项目为分析单位，采用两阶段回归模型，检验ERC资助出版物被专利引用的概率以及这些引用如何在空间和时间上扩散。我们对最终样本中的4977个ERC资助项目进行分析，这些项目产生了151,574篇被34,007项专利引用的出版物，证实了我们的假设：更高质量的研究会导致更广泛、更快的地理扩散，并部分证实了申请人之间的扩散路径和速度差异的假设，尽管这些差异并不总是显示出相同的模式。此外，我们还发现：c)产生科学产出（出版物）和技术产出（专利）的项目扩散得更广泛、更快；d)由更流动、科学生产力更强的科学家领导的项目扩散得更广泛、更快；我们讨论了这些发现，并展示了它们如何增强和扩展我们对科学影响及其对政策制定者和创新学者的影响的理解。",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Greening but concentrating? The unintended effects of China's voluntary participatory environmental regulations on firms' innovation portfolios",
-            "title_zh": "绿化却集中化？中国自愿性参与式环境规制对企业创新组合的意外效应",
-            "url": "https://doi.org/10.1016/j.respol.2026.105531",
-            "abstract_en": "",
+            "title_en": "Business model innovation for disruptive sustainability: A theorizing review on how interdependencies between business model components reshape the problem-solution nexus",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105533",
+            "abstract_en": "Global sustainability challenges demand large, rapid and systemic transformation of the systems that underpin modern life. Disruption is increasingly discussed as a trigger of these transformations, but the drivers of disruption have remained unclear. While much of the existing literature focuses on technological innovation as a potential driver, limited although growing attention has been paid to non-technological sources. This paper explores business model innovation as a non-technological driver of disruptive sustainability. We define disruptive sustainability as far-reaching changes in more than one dimension of socio-technical systems, triggered by a high-intensity effect, towards realising environmental, social and economic goals. We conduct a theorizing review of academic literature on the last mile in low-income and lower-middle income countries. We develop an explanatory model of how interdependencies between business model innovation components drive disruptive sustainability by re-defining the problem-solution nexus at different depths. Our contributions are threefold. First, we expand the conceptualization of disruptive sustainability by unpacking the crucial aspect of depth of change. We suggest that disruptions can trigger shallow, medium or deep change within and across dimensions of socio-technical systems. Second, we explain how the interdependencies between different business model innovation components drive disruptive sustainability by changing the problem-solution nexus at different depths. Third, based on these contributions, we develop a tool which guides stakeholders in driving disruptive sustainability in three distinct steps linked to different degrees of depth.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新",
@@ -1270,11 +1344,21 @@
             ]
           },
           {
-            "title_en": "Identification of valuable patents: New indicators and effects of prediction time points",
-            "title_zh": "识别有价值专利：新指标与预测时点效应",
-            "url": "https://doi.org/10.1016/j.respol.2026.105512",
+            "title_en": "Problematic persistence of innovation: Breakdowns and sociotechnical maintenance of the world's most enduring herbicide technology",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105543",
             "abstract_en": "",
             "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Where do ideas go? A spatial analysis of the patenting impact of publicly funded basic science",
+            "title_zh": "标题：创意去哪儿了？公共资助基础科学对专利影响的空间分析",
+            "url": "https://doi.org/10.1016/j.respol.2026.105528",
+            "abstract_en": "As societal challenges loom larger, discoveries are in greater demand, and evaluating the impact of publicly funded programs attracts increasing attention. We contribute to this debate by focusing on the spatial influence of scientific discoveries funded through grants targeting frontier research. Our dataset includes information on 6671 EU ERC-funded projects between 2007 and 2016, 172,683 scientific publications generated by these grants, and 34,513 patents citing such publications. Building on linkages between scientific papers and patents via non-patent literature citations, we use the project as the unit of analysis and employ a two-stage regression model to examine the probability that ERC-funded publications are cited by patents and how these citations diffuse across space and time. The analyses on our final sample of 4977 ERC-funded projects, generating 151,574 publications that are cited by 34,007 patents confirmed our hypothesis that higher quality research leads to a broader and faster geographical diffusion and partially confirm the hypotheses that diffusion paths and speed differ by applicants, although these differences do not always show the same patters. Moreover, we also find that c) projects generating scientific output (publications) and technological outputs (patents) diffuse more broadly and faster; and d) projects led by more mobile and scientifically productive scientists diffuse more broadly and faster; We discuss these findings and show how they enhance and extend our understanding of the impact of science and its implications for policymakers and innovation scholars.",
+            "abstract_zh": "随着社会挑战日益严峻，对发现的需求越来越大，对公共资助项目影响的评估也日益受到关注。我们通过关注通过资助前沿研究的资助项目对科学发现的空间影响，为这场辩论做出贡献。我们的数据集包括2007年至2016年间6671个欧盟ERC资助项目的信息，这些资助项目产生的172,683篇科学出版物，以及引用这些出版物的34,513项专利。基于科学论文和专利之间的非专利文献引用联系，我们以项目为分析单位，采用两阶段回归模型，检验ERC资助出版物被专利引用的概率以及这些引用如何在空间和时间上扩散。我们对最终样本中的4977个ERC资助项目进行分析，这些项目产生了151,574篇被34,007项专利引用的出版物，证实了我们的假设：更高质量的研究会导致更广泛、更快的地理扩散，并部分证实了申请人之间的扩散路径和速度差异的假设，尽管这些差异并不总是显示出相同的模式。此外，我们还发现：c)产生科学产出（出版物）和技术产出（专利）的项目扩散得更广泛、更快；d)由更流动、科学生产力更强的科学家领导的项目扩散得更广泛、更快；我们讨论了这些发现，并展示了它们如何增强和扩展我们对科学影响及其对政策制定者和创新学者的影响的理解。",
             "matched_topics": [
               "企业创新"
             ]
@@ -1355,7 +1439,7 @@
         "issue_title": "Volume 72, Issue 6",
         "issue_url": "https://pubsonline.informs.org/journal/mnsc",
         "matched_count": 12,
-        "total_in_issue": 17,
+        "total_in_issue": 16,
         "papers": [
           {
             "title_en": "The Role of Networks in Loan Syndicate Markets",
@@ -1537,8 +1621,8 @@
         "resolved_name": "Technovation",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 4,
-        "total_in_issue": 6,
+        "matched_count": 7,
+        "total_in_issue": 9,
         "papers": [
           {
             "title_en": "Multinational enterprises and strategic foresight: The path to eco-innovation",
@@ -1568,6 +1652,37 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "The venture clienting readiness canvas: How corporations can assess their organizational readiness for new venture collaboration",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103602",
+            "abstract_en": "Venture clienting (VCL) emerged as an increasingly prominent form of collaboration between corporations and new ventures. However, many VCL initiatives stall because corporations are not organizationally prepared to collaborate with new ventures. Using a design science (DS) methodology, this study introduces the Venture Clienting Readiness Canvas, an ex-ante assessment tool that helps corporations evaluate the internal conditions necessary for successful VCL before engagement begins. We derived five readiness domains—strategic alignment, collaboration governance, communication and trust, organizational culture, and collaboration processes—from a systematic literature review. In addition, we refined the canvas through four practitioner workshops with experienced VCL experts as part of a formative evaluation and subsequently assessed the artifact in a summative evaluation involving nine additional VCL practitioners. The results demonstrate that the canvas offers a structured, actionable approach to assessing organizational readiness for VCL. Thus, this study contributes prescriptive design knowledge on how corporations can anticipate the organizational tensions, coordination demands, and organizational change necessities inherent in collaborating with new ventures.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Organizational learning and digitalization capability: Evidence from Chinese SMEs in dynamic environments",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103618",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Digital transformation and social sustainability: the mediating role of employees’ digital competencies",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103607",
+            "abstract_en": "Corporate Social Sustainability (CSS) has emerged as a cornerstone of contemporary organisational strategy. Indeed, the concept deliberately integrates equitable practices, employee empowerment, and community resilience into core operational frameworks. Digital transformation holds the potential to enhance CSS by fostering innovation, inclusivity, and operational efficiency; yet the process also presents risks, including labour displacement, data privacy concerns, and environmental challenges. This study examines how the digital competencies of employees mediate the relationship between digital transformation and CSS, drawing on the integration of the Resource-Based View and Stakeholder Theory to position these competencies as strategic organisational resources. The dual effects of digital transformation on CSS were unravelled based on longitudinal data from 452 publicly listed European firms collected over the 2015–2021 seven-year period as well as panel data techniques. The development of digital competencies proved to be essential to achieve CSS. Our findings contribute to the literature by demonstrating that employees’ digital competencies are a key mechanism through which digital transformation can be translated into socially sustainable outcomes. The combination of the Resource-Based View and Stakeholder Theory allowed clarifying how human capital capabilities enable firms to achieve social sustainability through digitalisation. The study findings offer organisations and policymakers actionable guidance for designing digital upskilling and inclusion strategies that effectively advance corporate sustainability goals.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
             ]
           },
           {
@@ -1686,9 +1801,19 @@
         "resolved_name": "Journal of Health Economics",
         "issue_title": "Published 2026-07",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
-        "matched_count": 1,
-        "total_in_issue": 6,
+        "matched_count": 2,
+        "total_in_issue": 9,
         "papers": [
+          {
+            "title_en": "Income and immunity: The consequences of social security administration reform for childhood infection risk",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jhealeco.2026.103153",
+            "abstract_en": "We analyse the impact of a change in the administration of social security payments, occurring in utero and early infancy, on health in early childhood. We identify this impact through the gradual rollout of the so-called ‘income management’ policy in Aboriginal communities in Australia’s Northern Territory in 2007. This policy changed the delivery method of welfare payments but not their value – however, implementation challenges meant that many families did not receive their payments on time. Using linked administrative data, we find that children who were exposed to the policy rollout in utero or in their first three months of life (the ‘fourth trimester’) were at higher risk of severe infection requiring hospitalisation. These children spent, on average, 4.7 more days in hospital between birth and their 8 th birthday. Most of this impact is concentrated in hospitalisations for infection, which increased by 23 percent. These admissions are driven by a range of infection types: bacterial, viral and respiratory. We link our findings to the ‘immune programming hypothesis’, i.e. maternal stress and poor nutrition during key stages in immune system development can permanently weaken the child’s immune system. Our findings highlight the importance of attention to key phases in child development when designing policies that affect households’ financial resources, even temporarily.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
           {
             "title_en": "The effect of offering standardized “Simple Choice” plans on premiums in the Federally Facilitated ACA marketplaces",
             "title_zh": "提供标准化“简单选择”计划对联邦促进的ACA市场保费的影响",
@@ -1850,25 +1975,117 @@
         "query_name": "Value in Health",
         "issn": "1098-3015",
         "resolved_name": "Value in Health",
-        "issue_title": "Volume 29, Issue 5",
+        "issue_title": "Volume 29, Issue 6",
         "issue_url": "https://www.valueinhealthjournal.com/",
-        "matched_count": 8,
-        "total_in_issue": 25,
+        "matched_count": 12,
+        "total_in_issue": 29,
         "papers": [
           {
-            "title_en": "A Practical Method for Estimating Generalized Risk-Adjusted Cost-Effectiveness Utilities and Willingness-to-Pay Corrections",
-            "title_zh": "实用估算广义风险调整成本效益效用和支付意愿校正的方法",
-            "url": "https://doi.org/10.1016/j.jval.2025.12.005",
-            "abstract_en": "OBJECTIVES: Commonly used health-related utility measures fail to account for risk preferences. Generalized Risk-Adjusted Cost-Effectiveness (GRACE) solves this problem, but it currently requires visual analog scale (VAS) measures of health states, which may not be available to the analyst. We develop an empirically based approach for constructing GRACE utilities from existing time trade-off (TTO) utilities. METHODS: Using nationally representative patient-level data on both VAS and TTO measures of health states, we estimate a mapping from TTO to VAS. Using published estimates of GRACE utility over the VAS domain, we present estimates allowing analysts to map from existing TTO utility to GRACE and to make corresponding willingness-to-pay threshold corrections. RESULTS: Compared with expo-power and hyperbolic absolute risk-aversion models, a linear model provides the best mapping from TTO utilities to VAS measures of health state. We find TTO utilities approximate VAS reasonably well for moderate health state utilities but suffer from more approximation error elsewhere. Notably, TTO underestimates VAS health for the sickest health states, eg, for TTO levels below 0.4. CONCLUSIONS: A straightforward linear mapping permits analysts to estimate GRACE using traditional TTO health state utilities. Many existing studies use time-trade-off utilities in place of VAS. Our results suggest that this existing approach underestimates the GRACE value of health improvements for the sickest patients. Our study provides a solution without requiring generation of new data.",
-            "abstract_zh": "目标：常用的与健康相关的效用度量未能考虑到风险偏好。广义风险调整成本效益（GRACE）解决了这个问题，但它目前需要视觉模拟量表（VAS）来衡量健康状况，这可能无法为分析师所获得。我们开发了一种基于实证的方法，从现有的时间交易（TTO）效用中构建GRACE效用。方法：使用全国代表性的患者级数据，对VAS和TTO两种健康状况的度量进行估计，我们估计了从TTO到VAS的映射。利用已发表的GRACE效用在VAS领域的估计，我们提出了允许分析师从现有的TTO效用映射到GRACE，并进行相应的支付意愿阈值校正的估计。结果：与指数-幂模型和双曲绝对风险厌恶模型相比，线性模型提供了从TTO效用到VAS健康状况度量的最好映射。我们发现，对于中等健康状况效用，TTO效用合理地近似VAS，但在其他地方存在更多的近似误差。值得注意的是，TTO低估了最严重健康状况的VAS健康，例如，对于TTO水平低于0.4的情况。结论：一个简单的线性映射允许分析师使用传统的TTO健康状况效用来估计GRACE。许多现有研究使用时间交易效用代替VAS。我们的结果表明，这种现有方法低估了对最严重患者的健康改善的GRACE价值。我们的研究提供了一个解决方案，而无需生成新的数据。",
+            "title_en": "Value-Based Pricing of Health Services With Health Equity Considerations",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2025.12.014",
+            "abstract_en": "OBJECTIVES: Many health systems aim to reduce health inequalities. Reimbursement mechanisms for healthcare providers, including pay-for-performance, are common policy levers to align provider behavior with health systems objectives. We develop a methodology to incorporate equity concerns into value-based pricing in the English National Health Service. We focus on socioeconomic inequalities in health measured by deprivation quintiles. We show how changes in the design of a national pay-for-performance scheme in primary care, the Quality Outcome Framework, can be evaluated in terms of their effects on the level and distribution of health across socioeconomic status. METHODS: After developing our theoretical framework, which is based on Distributional Cost-Effectiveness Analysis and contract theory, we calibrate a model of physician behavior using information on costs and health benefits of different incentivized activities, achievement rates, and supply responsiveness to prices. We evaluate the effect of hypothetical 20% increases in price of 1 incentivized activity, which is financed by a reduction in another price to retain budget neutrality. Trade-offs between efficiency and socioeconomic inequalities in health are evaluated using the Equally Distributed Equivalent level of health. RESULTS: We illustrate our methodology using 3 scenarios: changes in prices for 2 incentivized activities for the same health condition (diabetes), different health conditions (diabetes and chronic obstructive pulmonary disease), and across socioeconomic groups within the same activity (flu vaccination for diabetes patients). CONCLUSIONS: Our analysis illustrates how inequality aversion can be incorporated into value-based pricing when assessing the effect of financial incentives on the health distribution across socioeconomic groups.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "产业经济",
+              "医药产业"
+            ]
+          },
+          {
+            "title_en": "A Systematic Review of Elicitation Methods for Distributional Preferences in Healthcare Regarding the Concentration and Dispersion of Health Benefits",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.03.012",
+            "abstract_en": "OBJECTIVES: In conventional quality-adjusted life-year maximization, each unit of health is valued equally. It overlooks distributional preferences, such as whether health improvements should be concentrated on a smaller number of individuals or dispersed across a larger population. It is plausible that these preferences follow an S-shaped pattern, in which marginal social value of health gains initially increases before diminishing after a threshold. This review aims to identify and evaluate the methods used in empirical studies to elicit S-shaped preferences. METHODS: Searches were conducted in PubMed, PsycINFO, and EconLit in August 2024 and October 2025, with 1 round of citation chasing for 4 key articles. Studies were included if they elicited preferences on concentration and dispersion of health gains among otherwise identical individuals. Data synthesis was conducted narratively. RESULTS: Thirteen studies published between 1994 and 2025 were included, collectively involving 6799 participants. All studies used a Person Trade-Off (PTO) approach, but 2 also used Time Trade-off. Five key methodological themes emerged: whether health gains should be measured in life-years or health-related quality of life, the threshold between concentration and dispersion, perspective, framing effects, and specification of the social welfare functions. CONCLUSIONS: This review highlights methodological challenges associated with eliciting preferences for concentration and dispersion. Although there is a consensus on the use of PTO, other heterogeneity such as pool size or perspective and sparse evidence on the threshold effect warrants further research.",
+            "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Influence of Initial Imaging Modality on Peri-Diagnostic Outcomes Among Pancreatic, Liver, Ovarian, and Bladder Cancers Without Routine Screening Programs: A Surveillance, Epidemiology, and End Results-Medicare Study",
-            "title_zh": "初始影像学检查方式对胰腺、肝脏、卵巢和膀胱癌无常规筛查计划的围诊断结果的影响：一项基于监测、流行病学和结果-医疗保险的研究",
-            "url": "https://doi.org/10.1016/j.jval.2025.11.011",
+            "title_en": "Health Utilities and Disutilities Associated With Complications of Type 1 Diabetes: A Systematic Review and Recommendations for Health Economic Models",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.01.011",
+            "abstract_en": "OBJECTIVES: Health economic models for type 1 diabetes (T1D) typically require utilities or disutilities associated with diabetes-related complications. We conducted a systematic review of studies reporting utilities and disutilities associated with T1D-related complications and assessed their methodological quality to identify a set of preferred disutilities. METHODS: We searched 6 databases from inception to 30 April 2024. Data were extracted on study design, participant characteristics, complications, utility measurement methods, and reported values. Study quality was assessed based on sample size, population representativeness, appropriateness of the value sets, and statistical methods. Preferred disutilities for economic evaluations were selected from higher-quality studies. RESULTS: From the 14 122 records identified, 25 were included for data extraction. Most studies identified complications via self-reporting (n = 12) or clinical assessment (n = 9). Of 22 studies analyzing health utilities derived from multiattribute utility instruments, only 8 used value sets from the same countries as the study cohorts, and 14 did not report the value sets used. We derived disutilities for 66 complications/conditions. Fifteen studies used statistical models to estimate disutilities for 44 complications. Disutilities for several complications varied widely, eg, stroke (-0.470 to -0.015), end-stage renal disease (-0.340 to -0.021), and diabetic neuropathy (-0.358 to -0.045). Quality assessment yielded preferred disutilities for 26 complications. CONCLUSIONS: This review provides a comprehensive database of utilities and disutilities for T1D complications and a recommended set of disutilities for economic evaluations. Because of methodological and patient heterogeneity, these values should be used cautiously, with careful alignment between modeled health states and source study characteristics.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Validity, Reliability, and Framing Effects in Equity-Efficiency Trade-Off Studies: A Systematic Review",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2025.11.002",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Dominance-Based Distributional Cost-Effectiveness Analysis of Cardiovascular Disease Risk Screening in Sri Lanka",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2025.09.3062",
+            "abstract_en": "OBJECTIVES: Screening for cardiovascular disease (CVD) risk is potentially cost-effective; however, its net health impact by socioeconomic status (SES) likely depends on (1) who is screened, (2) the socioeconomic profile of risk factors, and (3) the criteria for prescribing preventive medication. We conducted a dominance-based distributional cost-effectiveness analysis of CVD risk screening strategies in Sri Lanka to compare their equity-efficiency trade-offs. METHODS: Using nationally representative data, we modeled 4 strategies of opportunistic CVD risk screening at public outpatient clinics and the current screening program (comparator). We measured SES with an assets index. For each strategy, we simulated costs, quality-adjusted life-years (QALYs) and the distribution of QALYs net of health opportunity costs by SES. Assuming aversion to pro-rich inequality, we used generalized concentration curve dominance to rank these distributions and calculated equally distributed equivalent net QALYs for each. RESULTS: The most cost-effective (lowest incremental cost-effectiveness ratio) strategy was opportunistic (vs invited) screening at age ≥ 40 (vs ≥35) with statins prescribed at CVD risk ≥10% (vs ≥20%) and antihypertensives at blood pressure ≥130/80 mm Hg (vs ≥140/90) for those risks and people with diabetes. Given net QALYs generated by SES and aversion to pro-rich inequality, this strategy dominated all others (except one), and it generated more equally distributed equivalent net QALYs. This strategy dominated another with a similar incremental cost-effectiveness ratio that added statins for people with diabetes. CONCLUSIONS: Dominance-based distributional cost-effectiveness analysis identified modifications to CVD risk screening in Sri Lanka that would likely improve equity while remaining efficient.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "The Inequality-Adjusted Incremental Cost-Effectiveness Ratio",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.03.2236",
+            "abstract_en": "OBJECTIVES: To adjust the incremental cost-effectiveness ratio (ICER) to capture trade-offs between maximization of total health and impact on social inequality in health. METHODS: We used equity weights derived from a social welfare function to calculate an inequality-adjusted ICER, both indirectly and directly. We demonstrated equivalence of decision rules based on the inequality-adjusted ICER and equity-weighted net health benefit. We defined a health inequality modifier (HIM) to the cost-effectiveness threshold-the ratio of the ICER to the inequality-adjusted ICER-and illustrated its application to hypothetical treatments for 1336 diseases in England. We used hospital admissions to estimate disease prevalence and health benefits by 5 social deprivation groups, assumed no social gradient in health opportunity costs and examined \"high,\" \"medium,\" and \"low\" health inequality aversion scenarios based on UK general public sample estimates. RESULTS: Assuming medium inequality aversion, the interpercentile HIM range was 0.96 to 1.18, indicating that inequality adjustment would reduce the threshold by 4% at the bottom percentile and increase it by 18% at the top percentile of diseases. The threshold was reduced by at least 10% for only 2 of 1336 (0.15%) diseases and raised by at least 10% for 142 of 1336 (10.6%). High inequality aversion widened the interpercentile HIM range to 0.93 to 1.31. CONCLUSIONS: Use of the inequality-adjusted ICER would effectively modify the cost-effectiveness threshold to consider health inequality impact. In England, the modification would rarely exceed 30%, even assuming high inequality aversion, but could exceed 10% for about one-tenth of diseases assuming medium aversion.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Minimally Important Differences for Preference-Weighted Health Measurement Scales: There Is Nothing Mystical About Them",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.01.005",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "An Overdue Denunciation of the Minimal Important Difference When Applied to Health State Values",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.01.003",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Development and Pretesting of the Children and Young People’s Time-Use Questionnaire for Use in Economic Evaluation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2025.12.018",
+            "abstract_en": "OBJECTIVES: Patients' time spent receiving care incurs an opportunity cost, which ought to be considered when conducting an economic evaluation from a societal perspective. Instruments for capturing time-related costs are presently lacking, especially for children and young people (CYP). To address this gap, we developed and pretested the Children and Young People's Time-Use Questionnaire for use in Economic Evaluation (CYP-TUQEE), producing versions for direct completion by CYP aged 11 to 17 years, and proxy completion by parents/carers of CYP aged up to 10 years. METHODS: The CYP-TUQEE was developed using an iterative process involving scoping reviews, consultation with a Working Group of experts, and pretesting through think-aloud interviews with 20 CYP and 9 parents/carers. This process aimed to produce a comprehensive, adaptable questionnaire that is not onerous to complete by CYP or parents/carers within the target age ranges. RESULTS: Participants engaged well with the think-aloud process and provided feedback to inform the development of a novel, standardized instrument to facilitate the collection and inclusion of resource- and time-use data for pediatric economic evaluations. Feedback indicates that the CYP-TUQEE is easy to complete, clear, and ready for additional validation. CONCLUSIONS: The CYP-TUQEE addresses a prominent gap by providing an accessible tool for resource-use and time-use data collection, tailored to CYP. Inclusion of patient time costs can assist in decision making and ensure prioritization of interventions respectful of patients' time. Future research will involve additional testing of the CYP-TUQEE in a real-world setting for further validation and refinement, and elicitation of a value ('unit cost') for CYP's time.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Strengthening Methods and International Evidence on Health Inequality Aversion",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2025.11.006",
+            "abstract_en": "OBJECTIVES: This article summarizes areas of methodological agreement about health inequality aversion and proposes a research agenda to strengthen methods and international evidence to inform priority setting. METHODS: This article arises from a workshop in November 2024 that brought together methodologists and applied researchers fr12 countries, including ethicists, physicians, epidemiologists, and health economists. The workshop comprised methods and research application presentations culminating in a guided discussion to gain consensus on methods and research agenda. RESULTS: Participants agreed that (1) the magnitude of health inequality aversion may depend on the concept of inequality used; (2) both the concept and magnitude of aversion may vary by decision-making context; (3) pre-existing preferences are often incomplete or internally inconsistent; (4) comparisons across broad ordinal categories of inequality aversion are more robust than point estimates; (5) underlying social value judgments should be clearly communicated to decision makers and the public; (6) health inequality aversion is relevant across a wide range of social decisions; and (7) an international database of estimates would facilitate data sharing and comparability. The proposed research agenda prioritizes investigation into (1) the nature and shape of inequality aversion; (2) how the choice of health measure influences responses; (3) interactions among multiple dimensions of social disadvantage; (4) cultural variation in the understanding of health inequality; (5) reasons underpinning quantitative responses; (6) framing effects; and (7) the validity and representativeness of elicited preferences. CONCLUSIONS: There are substantial opportunities to advance methods so that estimates of health inequality aversion can routinely inform decision making. Progress will require interdisciplinary collaboration beyond health economics, medicine, and ethics, drawing on disciplines such as political science, psychology, and sociology, and application across a wider range of settings.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Designing and Implementing Real-World Patient-Reported Outcomes—Emerging Recommendations: A Good Practices Report of an ISPOR Task Force",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.02.018",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1876,66 +2093,13 @@
             ]
           },
           {
-            "title_en": "International Reference Pricing: Impact of Changing the Basket of Reference Countries on Ability to Reference and on Drug Launch Prices in 6 Markets",
-            "title_zh": "国际参考定价：改变参考国家篮子对参考能力和6个市场中药品上市价格的影响",
-            "url": "https://doi.org/10.1016/j.jval.2025.11.018",
-            "abstract_en": "",
+            "title_en": "The Early Experiences of Health Technology Assessment Bodies in the Implementation of the European Union Health Technology Assessment Regulation for High-Risk Medical Devices: A Qualitative Study",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2025.11.013",
+            "abstract_en": "OBJECTIVES: The EU Health Technology Assessment Regulation (HTAR) introduces joint clinical assessments (JCAs) to harmonize clinical evidence evaluation across Member States. JCAs are commencing in 2026 for high-risk medical devices (MD) and in vitro diagnostics (IVD), but little is known about how national health technology assessment (HTA) bodies are preparing for implementation. This study aims to explore how selected European Union (EU)/European Economic Area HTA bodies are planning for JCAs integration and HTAR implementation for high-risk MD/IVD. METHODS: Semistructured interviews were conducted with 15 participants from 11 different HTA bodies across 11 EU/European Economic Area Member States. Interviews were recorded and transcribed verbatim before being anonymized and coded using NVivo Software. Data were analyzed using thematic analysis. RESULTS: All participants recognized JCAs as a potential tool for improving evidence quality for high-risk devices and highlighted their willingness to use JCA-generated evidence in their clinical assessment. Some HTA bodies have initiated procedural or legislative adaptations; however, many remain in an observational position, waiting for further implementation documents. Key opportunities identified included work sharing, improved evidence standards, and capacity building, particularly in smaller HTA systems that might not have access to high-quality assessments without JCAs. However, substantial challenges were reported, including regulatory uncertainty, timing misalignments, and limited manufacturer preparedness for JCA evidence demands. CONCLUSIONS: HTAR is viewed as an opportunity to strengthen HTA practices for high-risk MD/IVD. However, realizing its goals will require further collaboration, alignment of procedural timelines, and investment in national capacity. Further studies are needed after full HTAR implementation for high-risk MD/IVD to capture ongoing experiences.",
             "abstract_zh": "",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Methods for Evaluation of Surrogate Endpoints for Health Technology Assessment Decision Making: A Good Practices Report of an ISPOR Task Force",
-            "title_zh": "健康技术评估决策中替代终点评估方法：ISPOR工作组良好实践报告",
-            "url": "https://doi.org/10.1016/j.jval.2026.01.020",
-            "abstract_en": "Surrogate endpoints are frequently used as primary outcomes in clinical trials. This is appropriate when they are validated for their ability to predict clinical benefit measured on patient-relevant target outcome(s). Such validation is often lacking, thus increasing uncertainty in the decision-making process of regulatory bodies, health technology assessment agencies and payers. This ISPOR Task Force Report provides recommendations on best practices for surrogate endpoint evaluation for health technology assessment decision making. It covers methods that address the 3 levels of evidence for surrogate endpoint validation described in several methodological guidelines: (1) association between treatment effects on the surrogate and the target outcome, (2) association between the surrogate and the target outcome, and (3) biological plausibility. Statistical methods for surrogate endpoint evaluation include meta-analytic approaches using individual participant data or aggregate data. Multivariate meta-analytic models are recommended because they account for the within-study correlation and estimation errors. Issues with limited data and generalizability might be addressed through Bayesian approaches for information sharing from different treatments, treatment classes or indications. Real-world data can complement randomized controlled trial data, especially in rare diseases, but require careful consideration of underlying bias. For plausibility of health economic modeling, the surrogacy analysis and the health economic model should be aligned. The modeled time course of surrogate and target outcomes per treatment arm, as well as the modeled relative effects, should be reported to assess plausibility. Parameter and structural uncertainty in surrogate relationships can be explored through scenario analyses, probabilistic sensitivity analyses, value of information analyses, and threshold analysis techniques.",
-            "abstract_zh": "替代终点经常作为临床试验中的主要结果。当它们被验证能够预测以患者相关目标结果衡量的临床效益时，这种使用是恰当的。这种验证常常缺失，从而增加了监管机构、卫生技术评估机构和支付方决策过程中的不确定性。本ISPOR工作组报告为卫生技术评估决策提供了关于替代终点评估的最佳实践建议。它涵盖了解决几个方法学指南中描述的替代终点验证的3个证据水平的方法：（1）治疗对替代终点和目标结果的影响之间的关联，（2）替代终点和目标结果之间的关联，以及（3）生物学合理性。替代终点评估的统计方法包括使用个体参与者数据或汇总数据的元分析方法。推荐使用多变量元分析模型，因为它们考虑了研究内相关性和估计误差。通过贝叶斯方法从不同治疗、治疗类别或适应症共享信息，可能解决数据有限和普遍性问题。真实世界数据可以补充随机对照试验数据，特别是在罕见疾病中，但需要仔细考虑潜在的偏差。为了健康经济模型的合理性，替代性分析和健康经济模型应该保持一致。应该报告每个治疗组的替代和目标结果的时间过程模型，以及模型的相对效果，以评估合理性。可以通过情景分析、概率敏感性分析、信息价值分析和阈值分析技术探索替代关系中的参数和结构不确定性。",
             "matched_topics": [
               "医疗创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Estimating the Global Macroeconomic Impact of Tuberculosis Among Children and Adolescents",
-            "title_zh": "全球儿童和青少年结核病对宏观经济影响的估计",
-            "url": "https://doi.org/10.1016/j.jval.2025.12.007",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际经济"
-            ]
-          },
-          {
-            "title_en": "Assessing the Role of Presurgical Information on Patient-Reported Outcomes: A Causal Analysis",
-            "title_zh": "评估术前信息对患者报告结果的作用：一项因果分析",
-            "url": "https://doi.org/10.1016/j.jval.2025.12.003",
-            "abstract_en": "OBJECTIVES: Breast cancer poses a global burden on individuals and healthcare systems, with millions of women undergoing surgery annually. Recently, there has been growing recognition of the importance of patient-centered care, leading to increased interest in patient-reported outcome measures. In oncology, this has translated into the use of validated tools, such as the BREAST-Q survey, which is designed for a range of breast surgery procedures, and it is specifically applicable in breast cancer. Using BREAST-Q data collected at the University Hospital of Pisa (Italy) between 2018 and 2022 from a sample of 482 women, this study explores the causal relationship between the preoperative information provided by the breast surgeon and patients' postsurgery satisfaction. METHODS: We use Item Response Theory models to estimate patient-level satisfaction with presurgery information and with breast outcomes. Using these estimated latent traits, we assess the causal effect of satisfaction with presurgery information on postsurgery breast satisfaction through an exposure-response curve, accounting for various preexposure individual characteristics. RESULTS: Findings show a strong, positive, and statistically significant causal relationship between preoperative information and postoperative satisfaction. CONCLUSIONS: In a healthcare landscape increasingly constrained by time and resources, healthcare organizations should note the causal link between communication and patient-reported outcomes and strive to create environments that support meaningful patient-centered interactions.",
-            "abstract_zh": "目标：乳腺癌给个人和医疗系统带来全球性负担，每年有数百万女性接受手术。最近，人们越来越认识到以患者为中心的护理的重要性，这导致对患者报告的结果测量越来越感兴趣。在肿瘤学中，这转化为使用经过验证的工具，如BREAST-Q调查，该调查设计用于一系列乳房手术程序，并且特别适用于乳腺癌。本研究利用2018年至2022年在意大利比萨大学医院收集的482名女性的BREAST-Q数据，探讨乳腺外科医生提供的术前信息与患者术后满意度之间的因果关系。方法：我们使用项目反应理论模型来估计患者对术前信息和乳房结果的满意度。利用这些估计的潜在特征，我们通过暴露-反应曲线评估术前信息满意度对术后乳房满意度的因果效应，同时考虑各种暴露前个体特征。结果：研究结果表明，术前信息与术后满意度之间存在强烈、积极且统计上显著的因果关系。结论：在越来越受时间和资源限制的医疗环境中，医疗组织应注意沟通与患者报告结果之间的因果联系，并努力创造支持有意义的以患者为中心的互动的环境。",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Technological Maturity and Cost-Effectiveness of Medical Artificial Intelligence: A Systematic Review of Health Economic Evaluations",
-            "title_zh": "医疗人工智能的技术成熟度与成本效益：卫生经济评价的系统综述",
-            "url": "https://doi.org/10.1016/j.jval.2026.01.014",
-            "abstract_en": "OBJECTIVES: This systematic review assessed the scope, reporting quality, and methodological risk of bias of health economic evaluations (HEEs) of medical artificial intelligence (AI) technologies, alongside the technological maturity of the AI systems assessed. METHODS: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 guidelines, 6 databases were searched through April 2025 for studies reporting economic outcomes of AI applications in healthcare. Reporting quality was evaluated using the AI-specific update of the Consolidated Health Economic Evaluation Reporting Standards checklist, methodological risk of bias using the ECOBIAS framework, and AI maturity using the Clinical Machine Learning Readiness Level (1-9). Inclusion of implementation and operational costs was examined, as well as their association with AI maturity. RESULTS: A total of 117 studies were included, with most published after 2021. Reporting quality was generally suboptimal, and ECOBIAS assessments highlight recurring risks of bias, particularly regarding incomplete cost inclusion, limited data transparency, inadequate uncertainty analysis, and insufficient model validation. Most studies evaluated AI tools at early development stages (63% at Clinical Machine Learning Readiness Level 4-5), with limited real-world validation. Although the majority of studies reported cost savings or cost-effectiveness, key cost categories were frequently omitted: only 28% included implementation costs, and 57% reported operational costs. CONCLUSIONS: Despite frequent claims of economic benefit, current HEEs of medical AI are constrained by limited reporting quality, risk of bias, and evaluations of immature technologies. Future HEEs should explicitly report technological maturity, incorporate full cost components, and use rigorous methods. Robust evaluations conducted at higher readiness levels are also needed to generate reliable evidence for policy making, reimbursement decisions, and responsible implementation.",
-            "abstract_zh": "目标：本系统综述评估了医疗人工智能（AI）技术健康经济评价（HEEs）的范围、报告质量和方法学偏倚风险，以及评估的AI系统的技术成熟度。方法：遵循系统综述和荟萃分析报告优选项目2020指南，通过2025年4月的6个数据库搜索，寻找报告AI在医疗保健中应用经济结果的研究。使用针对AI的更新版综合健康经济评价报告标准清单评估报告质量，使用ECOBIAS框架评估方法学偏倚风险，使用临床机器学习准备水平（1-9）评估AI成熟度。检查了实施和运营成本的包含情况，以及它们与AI成熟度的关联。结果：共纳入117项研究，大多数发表于2021年之后。报告质量普遍不佳，ECOBIAS评估突出了反复出现的偏倚风险，特别是关于成本包含不完整、数据透明度有限、不确定性分析不充分和模型验证不足。大多数研究评估了早期开发阶段的AI工具（63%处于临床机器学习准备水平4-5），且缺乏现实世界验证。尽管大多数研究报告了成本节省或成本效益，但关键成本类别经常被遗漏：只有28%包括了实施成本，57%报告了运营成本。结论：尽管经常声称具有经济效益，但当前医疗AI的HEEs受到报告质量有限、偏倚风险和评估不成熟技术的限制。未来的HEEs应明确报告技术成熟度，纳入全部成本组成部分，并使用严谨的方法。还需要在更高准备水平上进行稳健评估，以生成可靠的政策制定、报销决策和负责任实施的证据。",
-            "matched_topics": [
-              "医药产业",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Estimating Heterogeneous Treatment Effects With Real-World Health Data: A Scoping Review of Machine Learning Methods",
-            "title_zh": "利用现实世界健康数据估计异质性处理效应：机器学习方法的范围综述",
-            "url": "https://doi.org/10.1016/j.jval.2026.01.013",
-            "abstract_en": "OBJECTIVES: Heterogeneous treatment effects (HTEs) refer to differences in how individual patients or subgroups respond to the same treatment. Estimating HTEs helps target care to those most likely to benefit, improving outcomes and avoiding unnecessary interventions. Machine learning (ML) enables the use of real-world data (RWD) to estimate HTEs when randomized controlled trials are not feasible. However, practical guidance for applying these methods in health economics is lacking. To support method selection, we identified and categorized ML approaches to estimating HTEs in RWD and assessed the methodological quality of studies applying them. METHODS: We conducted a scoping review following Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews guidelines. PubMed, Scopus, Web of Science, EBSCO, and MEDLINE were searched for studies published between 2014 and 2025 that applied ML to estimate HTEs from RWD. Methodological quality was assessed using a standardized checklist. RESULTS: Of 1743 records screened, 74 met the inclusion criteria. We grouped the included studies into 3 categories: those using prediction-only approaches unsuited to HTE estimation (n = 8), those applying outcome modeling (n = 9), and those using customized conditional average treatment effect estimation (n = 58). Most innovations originated in the ML and statistics communities, with minimal uptake in health economics. Methodological quality was inconsistent and requires improvement. CONCLUSIONS: ML methods for HTE estimation are increasingly applied to RWD. Tree-based models are most common, and interest in customized conditional average treatment effect approaches is growing. Better evaluation standards and more transparent reporting are needed for these methods to become reliable tools for health economics research.",
-            "abstract_zh": "目标：异质性治疗效果（HTEs）指的是不同个体或亚组对相同治疗的反应差异。估计HTEs有助于将护理目标定位于最有可能受益的人群，改善结果并避免不必要的干预。机器学习（ML）使得在随机对照试验不可行时，能够利用真实世界数据（RWD）估计HTEs。然而，将这些方法应用于卫生经济学缺乏实践指导。为了支持方法选择，我们识别并分类了在RWD中估计HTEs的ML方法，并评估了应用这些方法的研究的方法学质量。方法：我们按照系统综述和荟萃分析扩展报告项目的首选报告项目指南进行了范围审查。在PubMed、Scopus、Web of Science、EBSCO和MEDLINE中搜索了2014年至2025年间应用ML从RWD估计HTEs的研究。使用标准化清单评估方法学质量。结果：在筛选的1743条记录中，74条符合纳入标准。我们将纳入的研究分为3类：使用不适合HTE估计的仅预测方法的研究（n=8），应用结果建模的研究（n=9），以及使用定制条件平均治疗效果估计的研究（n=58）。大多数创新源于ML和统计学界，在卫生经济学中的接受度很小。方法学质量不一致，需要改进。结论：ML方法用于HTE估计越来越多地应用于RWD。基于树的模型最为常见，对定制条件平均治疗效果方法的兴趣正在增长。要使这些方法成为卫生经济学研究的可靠工具，需要更好的评估标准和更透明的报告。",
-            "matched_topics": [
-              "企业创新",
               "创新药"
             ]
           }
