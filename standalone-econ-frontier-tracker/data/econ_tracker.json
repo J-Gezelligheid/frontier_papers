@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-06-14 07:59:55",
+  "updated_at": "2026-06-21 08:14:02",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 144,
+    "fail_count": 165,
     "failed_examples": [
       "Reducing trade with Russia: Sanctions vs. firms’ voluntary suspension of activit :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "The invasion of Ukraine in February 2022 led to large and unprecedented sanction :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "Financial frictions, FX reserves, and exchange rate management with local-curren :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "Equity financing and exports: Evidence from IPO approvals in China :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "Governments’ home bias and efficiency losses: Evidence from national and subnati :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "Optimal bailouts in banking and sovereign crises :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "We study optimal bailout policies in the presence of banking and sovereign crise :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p"
+      "Burn now or never? Climate policy exposure and investment of fossil fuel firms :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p"
     ],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
   },
@@ -184,16 +184,6 @@
             ]
           },
           {
-            "title_en": "Elite Universities and the Intergenerational Transmission of Human and Social Capital",
-            "title_zh": "精英大学与人力资本和社会资本的代际传递",
-            "url": "https://doi.org/10.1257/aer.20230802",
-            "abstract_en": "Do elite colleges help talented students join the social elite or help incumbent elites retain their positions? We combine intergenerationally linked data from Chile with a regression discontinuity design to show that, looking across generations, elite colleges do both. Lower-status individuals who gain admission to elite college programs transform their children’s social environment. Children become more likely to attend high-status private schools and colleges and to live near and befriend high-status peers. In contrast, academic achievement is unaffected. Simulations combining descriptive and quasi-experimental findings show that elite colleges tighten the link between social and human capital while decreasing intergenerational social mobility. (JEL I23, I26, J24, J62, O15, Z13)",
-            "abstract_zh": "精英大学是帮助有才华的学生加入社会精英，还是帮助现任精英保持他们的地位？我们将智利的代际链接数据与回归不连续设计相结合，以展示跨代际来看，精英大学既做到了这两点。获得精英大学项目录取的低地位个体改变了他们孩子的社会环境。孩子们更有可能进入高地位的私立学校和大学，并与高地位的同龄人生活在一起并成为朋友。相比之下，学术成就并未受到影响。结合描述性和准实验结果的模拟显示，精英大学加强了社会资本和人力资本之间的联系，同时降低了代际社会流动性。（JEL I23, I26, J24, J62, O15, Z13）",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
             "title_en": "Mergers, Foreign Competition, and Jobs: Evidence from the US Appliance Industry",
             "title_zh": "标题：并购、外国竞争与就业：来自美国家电行业的证据",
             "url": "https://doi.org/10.1257/aer.20230017",
@@ -202,6 +192,16 @@
             "matched_topics": [
               "国际贸易",
               "产业经济"
+            ]
+          },
+          {
+            "title_en": "Elite Universities and the Intergenerational Transmission of Human and Social Capital",
+            "title_zh": "精英大学与人力资本和社会资本的代际传递",
+            "url": "https://doi.org/10.1257/aer.20230802",
+            "abstract_en": "Do elite colleges help talented students join the social elite or help incumbent elites retain their positions? We combine intergenerationally linked data from Chile with a regression discontinuity design to show that, looking across generations, elite colleges do both. Lower-status individuals who gain admission to elite college programs transform their children’s social environment. Children become more likely to attend high-status private schools and colleges and to live near and befriend high-status peers. In contrast, academic achievement is unaffected. Simulations combining descriptive and quasi-experimental findings show that elite colleges tighten the link between social and human capital while decreasing intergenerational social mobility. (JEL I23, I26, J24, J62, O15, Z13)",
+            "abstract_zh": "精英大学是帮助有才华的学生加入社会精英，还是帮助现任精英保持他们的地位？我们将智利的代际链接数据与回归不连续设计相结合，以展示跨代际来看，精英大学既做到了这两点。获得精英大学项目录取的低地位个体改变了他们孩子的社会环境。孩子们更有可能进入高地位的私立学校和大学，并与高地位的同龄人生活在一起并成为朋友。相比之下，学术成就并未受到影响。结合描述性和准实验结果的模拟显示，精英大学加强了社会资本和人力资本之间的联系，同时降低了代际社会流动性。（JEL I23, I26, J24, J62, O15, Z13）",
+            "matched_topics": [
+              "创新药"
             ]
           },
           {
@@ -751,8 +751,8 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 10,
-        "total_in_issue": 17,
+        "matched_count": 12,
+        "total_in_issue": 19,
         "papers": [
           {
             "title_en": "Reducing trade with Russia: Sanctions vs. firms’ voluntary suspension of activities",
@@ -785,6 +785,16 @@
             ]
           },
           {
+            "title_en": "Equity financing and exports: Evidence from IPO approvals in China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104292",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
             "title_en": "Governments’ home bias and efficiency losses: Evidence from national and subnational governments",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104285",
@@ -792,6 +802,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
+            ]
+          },
+          {
+            "title_en": "Burn now or never? Climate policy exposure and investment of fossil fuel firms",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104267",
+            "abstract_en": "We investigate the impact of expectations about future climate policy on investment decisions of fossil fuel firms. Our empirical analysis reveals that within the fossil fuel industry, firms with high exposure to climate policy significantly increased their investment in response to the Paris Agreement relative to firms with low exposure. Importantly, the result is driven by traditional investment in fossil fuel exploration and extraction with no indications that firms invested in a transition towards renewable energy production, nor in reducing the carbon-intensity of fossil fuel production. Our findings contribute to the ongoing discussion about the potential adverse effects of delaying the implementation of planned climate regulation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
             ]
           },
           {
@@ -850,8 +870,8 @@
             "title_en": "Tariffs and goods-market search frictions",
             "title_zh": "关税与商品市场搜索摩擦",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104266",
-            "abstract_en": "We study tariffs in a general equilibrium dynamic model with search frictions between heterogeneous exporting producers and importing retailers. We show the model has a unique equilibrium and analytically characterize home unilateral import tariffs that maximize welfare given a passive foreign country. Search frictions add two terms to the standard optimal tariff expression: One lowers tariffs when contact rates are low; another when private export costs exceed social opportunity costs. Search frictions also introduce new incentives to subsidize imports due to market thickness effects. We calibrate our baseline to U.S. and Chinese 2016 data. We compare this baseline to a counterfactual with international search costs reduced to domestic levels but with all other parameters fixed. We find that higher baseline search costs reduce optimal U.S. unilateral and Nash tariffs and attenuate welfare responses to tariff changes. • General equilibrium trade model with search frictions has unique equilibrium. • Optimal tariff formula includes import markdowns and search externalities. • Search frictions incentivize import subsidies via market thickness effects. • Search frictions attenuate tariffs’ effects on welfare. • Calibrated optimal tariff is lower with higher search costs.",
-            "abstract_zh": "我们研究了一个具有异质性出口生产商和进口零售商之间搜索摩擦的一般均衡动态模型中的关税问题。我们展示了该模型具有唯一的均衡，并分析了在外国被动的情况下，最大化福利的国内单边进口关税。搜索摩擦在标准最优关税表达式中增加了两个项：一个在联系率低时降低关税；另一个在私人出口成本超过社会机会成本时。搜索摩擦还引入了通过市场厚度效应补贴进口的新激励。我们将基线校准为2016年美国和中国的数据。我们将这个基线与一个国际搜索成本降低到国内水平的反事实进行比较，但所有其他参数保持不变。我们发现，更高的基线搜索成本降低了最优的美国单边和纳什关税，并减弱了关税变化对福利的响应。•具有搜索摩擦的一般均衡贸易模型具有唯一的均衡。•最优关税公式包括进口降价和搜索外部性。•搜索摩擦通过市场厚度效应激励进口补贴。•搜索摩擦减弱了关税对福利的影响。•校准的最优关税在搜索成本更高时更低。",
+            "abstract_en": "We study tariffs in a general equilibrium dynamic model with search frictions between heterogeneous exporting producers and importing retailers. We show the model has a unique equilibrium and analytically characterize home unilateral import tariffs that maximize welfare given a passive foreign country. Search frictions add two terms to the standard optimal tariff expression: One lowers tariffs when contact rates are low; another when private export costs exceed social opportunity costs. Search frictions also introduce new incentives to subsidize imports due to market thickness effects. We calibrate our baseline to U.S. and Chinese 2016 data. We compare this baseline to a counterfactual with international search costs reduced to domestic levels but with all other parameters fixed. We find that higher baseline search costs reduce optimal U.S. unilateral and Nash tariffs and attenuate welfare responses to tariff changes.",
+            "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
               "创新药"
@@ -867,9 +887,19 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 2,
-        "total_in_issue": 5,
+        "matched_count": 3,
+        "total_in_issue": 16,
         "papers": [
+          {
+            "title_en": "Evaluating the environmental and economic implications of curbing transboundary pollution: Evidence from China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103854",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
           {
             "title_en": "Government demand and firm growth",
             "title_zh": "",
@@ -900,9 +930,19 @@
         "resolved_name": "Review of International Economics",
         "issue_title": "Volume 34, Issue 2",
         "issue_url": "https://onlinelibrary.wiley.com/journal/14679396",
-        "matched_count": 10,
+        "matched_count": 11,
         "total_in_issue": 13,
         "papers": [
+          {
+            "title_en": "Correction to “Does <scp>US</scp> Monetary Policy Affect the Interconnectedness of Global Financial Markets?”",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70045",
+            "abstract_en": "Zhou, H., J. Bian, Q. Qin, and M. Yu. 2025. “ Does US Monetary Policy Affect the Interconnectedness of Global Financial Markets?.” Review of International Economics 33, no. 4: 988–1016. https://doi.org/10.1111/roie.12812. On the first page, the “Correspondence: Mei Yu ([email protected]) | Qilin Qin ([email protected])” was incorrect. This should have read “Correspondence: Jiangze Bian ([email protected]) | Qilin Qin ([email protected]) | Mei Yu ([email protected])” We apologize for this error.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际经济"
+            ]
+          },
           {
             "title_en": "Revisiting the Leontief Paradox From a Value‐Added Trade Perspective",
             "title_zh": "从增加值贸易视角重新审视列昂惕夫悖论",
@@ -1203,9 +1243,19 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 2,
+        "matched_count": 3,
         "total_in_issue": 4,
         "papers": [
+          {
+            "title_en": "Price discrimination under minimum advertised price restriction",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103292",
+            "abstract_en": "A minimum advertised price (MAP) policy is a popular vertical restraint. We study retail pricing under MAP using price data of Seagate hard disk drives on US online retailers. The data suggest that MAP is not a form of minimum resale price maintenance (RPM). First, we find that retail prices are often lower than MAP. Second, retail prices of products subject to MAP have greater dispersions between retailers. Lastly, some retail prices can increase after a MAP decrease. These observations are consistent with the predictions of a search model that interprets MAP as a form of information restraint.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
           {
             "title_en": "Focal pricing constraints and pass-through of input cost changes",
             "title_zh": "焦点定价约束与输入成本变化的传导",
@@ -1237,8 +1287,29 @@
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 14,
+        "total_in_issue": 13,
         "papers": [
+          {
+            "title_en": "Understanding regional readiness to contribute to the bioeconomy: The role of higher education institutions and other regional characteristics",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105547",
+            "abstract_en": "The transformation from a fossil-based economy toward the bioeconomy offers a promising avenue for addressing various Sustainable Development Goals but also poses a major societal challenge (SC). Designing effective place-based innovation policies to tackle this SC requires acknowledging that regions differ in their readiness to contribute to the bioeconomy transformation and understanding which place-specific characteristics underpin this readiness. This study was conducted to identify regional characteristics—capturing regional capabilities and resources, network embeddedness, institutional configurations, as well as higher education institutions (HEIs) and the research landscape—that are robustly correlated with regional readiness. We paid particular attention to the role of HEIs because they possess unique capacities to contribute to innovation and transformation. Taking Germany as an example, we measured the regional readiness of the 401 German NUTS-3 regions using the RE-SCORE index and employed Bayesian model averaging to assess the robustness of 55 potential predictor variables. Our findings highlight the potential of rural regions and further show that regional readiness is associated with embeddedness in interregional networks and the prevalence of pro-environmental attitudes. HEIs were found to enhance regional readiness through education rather than research. Relevant research output is generated by research institutes. The results suggest that HEIs can help rural regions leverage their potential.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105534",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
           {
             "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
             "title_zh": "",
@@ -1273,21 +1344,21 @@
             ]
           },
           {
-            "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
-            "title_zh": "理解邪恶：面向挑战的创新政策的方向性启发式",
-            "url": "https://doi.org/10.1016/j.respol.2026.105513",
-            "abstract_en": "This article contributes to the burgeoning literature on directionality challenges by introducing directionality heuristics as a lens to conceptualize how policymakers and other stakeholders interpret and respond to problems in challenge-led innovation policy. Our starting point is that the “wickedness” of problems is strongly shaped by subjective and context-specific perceptions. We therefore utilize and adapt a sense-making framework, originally developed in the management literature, to distinguish different ways in which actors engage with the complexity and uncertainty of such problems. Building on this perspective, we conceptualize directionality heuristics as domain-specific rules of thumb that guide how policymakers interpret and address problems. We demonstrate the usefulness of this concept by applying it retrospectively to the Dutch Mission-oriented Topsector and Innovation Policy. The illustration highlights how stakeholders' differing views on the wickedness of problems translate into particular directionality challenges as well as suitable practices to address those. We conclude by outlining three key propositions, which emphasize the main conceptual contributions and provide concrete paths for future research and policy. • Sense-making helps to understand how policymakers view and tackle wicked problems. • Directionality heuristics are mental shortcuts used to interpret and address problems. • Different degrees of wickedness call for different directionality heuristics. • Nescience creates additional directionality challenges for challenge-led policies.",
-            "abstract_zh": "本文通过引入方向性启发式作为视角，为日益增长的方向性挑战文献做出贡献，以概念化政策制定者和其他利益相关者如何解释和应对挑战引领型创新政策中的问题。我们的出发点是，问题的“恶果”在很大程度上受到主观和情境特定的感知的影响。因此，我们利用并适应了最初在管理文献中发展起来的意义构建框架，以区分行动者与这类问题的复杂性和不确定性的不同互动方式。基于这一视角，我们将方向性启发式概念化为特定领域的经验法则，指导政策制定者如何解释和解决问题。我们通过将其应用于荷兰任务导向型顶级部门和创新政策，展示了这一概念的有用性。这一说明突出了利益相关者对问题恶果的不同观点如何转化为特定的方向性挑战以及解决这些问题的适当做法。我们最后概述了三个关键命题，强调了主要的概念贡献，并为未来的研究和政策提供了具体路径。• 意义构建有助于理解政策制定者如何看待和解决恶果问题。• 方向性启发式是用于解释和解决问题的心理捷径。• 不同程度的问题恶果需要不同的方向性启发式。• 无知为挑战引领型政策创造了额外的方向性挑战。",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
             "title_en": "Leaky mess or safety vaults? Team knowledge production and post-mobility knowledge spillover",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105548",
             "abstract_en": "Teams have become the primary unit for organizing knowledge production. While existing research has extensively investigated whether and how teams enhance knowledge production, it has paid scant attention to their role in safeguarding against knowledge spillover following inventor mobility. The literature presents conflicting arguments on this issue. Drawing on team innovation research, we contend that team production generates two types of knowledge: task-specific knowledge and metaknowledge. Task-specific knowledge is economically valuable and is fragmented among co-inventors, so that its risk of post-mobility knowledge spillover is lower when it is produced by larger teams. While metaknowledge is shared within the team and prone to mobility-induced spillover, it has limited value with the corresponding task-specific knowledge. Analyzing a sample of mobility events among industrial inventors using a within-event design, we find that knowledge produced by larger teams is more resistant to post-mobility spillover, being significantly less likely to be utilized by the destination firm. This protective effect is attenuated when co-inventors co-move and when the knowledge is inherently complex. Our study contributes to the literature on team innovation and inventor mobility by underscoring the role of team production in knowledge protection in the context of inventor mobility.",
             "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
+            "title_zh": "理解邪恶：面向挑战的创新政策的方向性启发式",
+            "url": "https://doi.org/10.1016/j.respol.2026.105513",
+            "abstract_en": "This article contributes to the burgeoning literature on directionality challenges by introducing directionality heuristics as a lens to conceptualize how policymakers and other stakeholders interpret and respond to problems in challenge-led innovation policy. Our starting point is that the “wickedness” of problems is strongly shaped by subjective and context-specific perceptions. We therefore utilize and adapt a sense-making framework, originally developed in the management literature, to distinguish different ways in which actors engage with the complexity and uncertainty of such problems. Building on this perspective, we conceptualize directionality heuristics as domain-specific rules of thumb that guide how policymakers interpret and address problems. We demonstrate the usefulness of this concept by applying it retrospectively to the Dutch Mission-oriented Topsector and Innovation Policy. The illustration highlights how stakeholders' differing views on the wickedness of problems translate into particular directionality challenges as well as suitable practices to address those. We conclude by outlining three key propositions, which emphasize the main conceptual contributions and provide concrete paths for future research and policy. • Sense-making helps to understand how policymakers view and tackle wicked problems. • Directionality heuristics are mental shortcuts used to interpret and address problems. • Different degrees of wickedness call for different directionality heuristics. • Nescience creates additional directionality challenges for challenge-led policies.",
+            "abstract_zh": "本文通过引入方向性启发式作为视角，为日益增长的方向性挑战文献做出贡献，以概念化政策制定者和其他利益相关者如何解释和应对挑战引领型创新政策中的问题。我们的出发点是，问题的“恶果”在很大程度上受到主观和情境特定的感知的影响。因此，我们利用并适应了最初在管理文献中发展起来的意义构建框架，以区分行动者与这类问题的复杂性和不确定性的不同互动方式。基于这一视角，我们将方向性启发式概念化为特定领域的经验法则，指导政策制定者如何解释和解决问题。我们通过将其应用于荷兰任务导向型顶级部门和创新政策，展示了这一概念的有用性。这一说明突出了利益相关者对问题恶果的不同观点如何转化为特定的方向性挑战以及解决这些问题的适当做法。我们最后概述了三个关键命题，强调了主要的概念贡献，并为未来的研究和政策提供了具体路径。• 意义构建有助于理解政策制定者如何看待和解决恶果问题。• 方向性启发式是用于解释和解决问题的心理捷径。• 不同程度的问题恶果需要不同的方向性启发式。• 无知为挑战引领型政策创造了额外的方向性挑战。",
             "matched_topics": [
               "企业创新"
             ]
@@ -1323,6 +1394,16 @@
             ]
           },
           {
+            "title_en": "Business model innovation pathways: Digital transformation after disruption at The New York Times and The Washington Post",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105536",
+            "abstract_en": "Digital technologies increasingly challenge firms by disrupting the complementary assets that support value capture—such as distribution and monetization channels. While the phenomenon of complementary-asset discontinuity has begun to attract scholarly attention, we still lack an understanding of the different business model innovation pathways incumbents can pursue in response, especially when adapting to specific types of discontinuous changes. We address these gaps through a comparative case analysis of the digital transformation of two leading newspapers, The New York Times and The Washington Post between 2009 and 2021. Despite facing the same technological discontinuity, the two firms pursued very distinct pathways: The New York Times progressively moved toward a model characterized by “business-to-consumer knowledge leadership” by extending its editorial core into new consumer-facing offerings, whereas The Washington Post developed infrastructure-centric solutions, repositioning its model toward a “business-to-business technology leadership.” From these cases, we developed a process framework of two alternative business model innovation pathways that specifies the antecedents (strategic focus), mechanisms (asset reconfiguration), and outcomes (business model innovation) shaping divergent responses. The study advances the literatures on business model innovation, technological change, and complementary assets.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "From expertise to action: STEM-related human capital in top management teams and corporate climate adaptation and resilience",
             "title_zh": "从专长到行动：高层管理团队中的STEM相关人力资本与企业气候适应和韧性",
             "url": "https://doi.org/10.1016/j.respol.2026.105516",
@@ -1330,37 +1411,6 @@
             "abstract_zh": "为了保障长期价值创造和捕获，现有企业面临着越来越大的压力，需要追求企业气候适应和弹性战略。鉴于高层管理者在推动适应性变革中的关键作用，本研究考察了高层管理团队的人力资本如何塑造企业在不同组织和环境背景下参与气候适应和弹性的情况。基于注意力基础观点，我们认为科学、技术、工程和数学（STEM）教育将管理者的注意力引向与气候相关的风险和机遇，优先考虑气候适应和弹性响应，而不是其他战略关切。我们进一步理论化，这种关系取决于企业的创造力、对物理气候危害的暴露程度以及金融利益相关者表达的气候变化情绪。在这些背景下，受过STEM教育的高层管理团队成员在处理与气候相关的信息、制定重新配置现有商业模式和价值链的企业气候适应和弹性战略以及动员组织支持其实施方面特别有价值。分析2013年至2020年美国大型上市公司的碳披露项目数据，我们发现我们的假设得到了经验支持。额外的分析表明，与其他教育背景相比，STEM教育与参与气候适应和弹性的关联更强，并且其关联在STEM子领域之间有所不同。我们的发现推进了对高管认知和注意力导向背景如何共同塑造企业对气候相关挑战的响应的理解，并强调了STEM专长在实现颠覆性、面向可持续性的转型中的作用。我们还推导出了对高管招聘、领导力发展和气候相关政策设计的影响。",
             "matched_topics": [
               "创新药"
-            ]
-          },
-          {
-            "title_en": "Business model innovation for disruptive sustainability: A theorizing review on how interdependencies between business model components reshape the problem-solution nexus",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105533",
-            "abstract_en": "Global sustainability challenges demand large, rapid and systemic transformation of the systems that underpin modern life. Disruption is increasingly discussed as a trigger of these transformations, but the drivers of disruption have remained unclear. While much of the existing literature focuses on technological innovation as a potential driver, limited although growing attention has been paid to non-technological sources. This paper explores business model innovation as a non-technological driver of disruptive sustainability. We define disruptive sustainability as far-reaching changes in more than one dimension of socio-technical systems, triggered by a high-intensity effect, towards realising environmental, social and economic goals. We conduct a theorizing review of academic literature on the last mile in low-income and lower-middle income countries. We develop an explanatory model of how interdependencies between business model innovation components drive disruptive sustainability by re-defining the problem-solution nexus at different depths. Our contributions are threefold. First, we expand the conceptualization of disruptive sustainability by unpacking the crucial aspect of depth of change. We suggest that disruptions can trigger shallow, medium or deep change within and across dimensions of socio-technical systems. Second, we explain how the interdependencies between different business model innovation components drive disruptive sustainability by changing the problem-solution nexus at different depths. Third, based on these contributions, we develop a tool which guides stakeholders in driving disruptive sustainability in three distinct steps linked to different degrees of depth.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Problematic persistence of innovation: Breakdowns and sociotechnical maintenance of the world's most enduring herbicide technology",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105543",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Where do ideas go? A spatial analysis of the patenting impact of publicly funded basic science",
-            "title_zh": "标题：创意去哪儿了？公共资助基础科学对专利影响的空间分析",
-            "url": "https://doi.org/10.1016/j.respol.2026.105528",
-            "abstract_en": "As societal challenges loom larger, discoveries are in greater demand, and evaluating the impact of publicly funded programs attracts increasing attention. We contribute to this debate by focusing on the spatial influence of scientific discoveries funded through grants targeting frontier research. Our dataset includes information on 6671 EU ERC-funded projects between 2007 and 2016, 172,683 scientific publications generated by these grants, and 34,513 patents citing such publications. Building on linkages between scientific papers and patents via non-patent literature citations, we use the project as the unit of analysis and employ a two-stage regression model to examine the probability that ERC-funded publications are cited by patents and how these citations diffuse across space and time. The analyses on our final sample of 4977 ERC-funded projects, generating 151,574 publications that are cited by 34,007 patents confirmed our hypothesis that higher quality research leads to a broader and faster geographical diffusion and partially confirm the hypotheses that diffusion paths and speed differ by applicants, although these differences do not always show the same patters. Moreover, we also find that c) projects generating scientific output (publications) and technological outputs (patents) diffuse more broadly and faster; and d) projects led by more mobile and scientifically productive scientists diffuse more broadly and faster; We discuss these findings and show how they enhance and extend our understanding of the impact of science and its implications for policymakers and innovation scholars.",
-            "abstract_zh": "随着社会挑战日益严峻，对发现的需求越来越大，对公共资助项目影响的评估也日益受到关注。我们通过关注通过资助前沿研究的资助项目对科学发现的空间影响，为这场辩论做出贡献。我们的数据集包括2007年至2016年间6671个欧盟ERC资助项目的信息，这些资助项目产生的172,683篇科学出版物，以及引用这些出版物的34,513项专利。基于科学论文和专利之间的非专利文献引用联系，我们以项目为分析单位，采用两阶段回归模型，检验ERC资助出版物被专利引用的概率以及这些引用如何在空间和时间上扩散。我们对最终样本中的4977个ERC资助项目进行分析，这些项目产生了151,574篇被34,007项专利引用的出版物，证实了我们的假设：更高质量的研究会导致更广泛、更快的地理扩散，并部分证实了申请人之间的扩散路径和速度差异的假设，尽管这些差异并不总是显示出相同的模式。此外，我们还发现：c)产生科学产出（出版物）和技术产出（专利）的项目扩散得更广泛、更快；d)由更流动、科学生产力更强的科学家领导的项目扩散得更广泛、更快；我们讨论了这些发现，并展示了它们如何增强和扩展我们对科学影响及其对政策制定者和创新学者的影响的理解。",
-            "matched_topics": [
-              "企业创新"
             ]
           }
         ],
@@ -1452,17 +1502,6 @@
             ]
           },
           {
-            "title_en": "Venture Capital and Private M&amp;A Contracting",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.00654",
-            "abstract_en": "This study investigates the role of venture capital (VC) firms in private mergers and acquisitions (M&A) contracting, particularly in reducing information asymmetry. Analyzing a proprietary data set of 851 startup acquisitions from 2015 to 2020, I find that M&A contracts are significantly less likely to include earnouts, mechanisms designed to mitigate information asymmetry, when a VC is involved in the transaction. Further analysis reveals that earnouts are more likely in transactions with high information asymmetry between the VC and the buyer. The study also examines the effect of prior relationships between VCs and buyers, showing that these connections not only increase the chances of repeat transactions but also further reduce the reliance on earnouts. These findings suggest that VCs play a crucial role in mitigating information asymmetry, reducing the need for earnouts, and ultimately improving M&A outcomes. This paper was accepted by Bo Becker, finance. Funding: Research funding was provided by the University of Chicago Booth School of Business. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00654 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济",
-              "企业创新"
-            ]
-          },
-          {
             "title_en": "The Interplay Between Product Variety and Customer Retention: Theory and Evidence",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2023.00985",
@@ -1471,6 +1510,17 @@
             "matched_topics": [
               "国际贸易",
               "创新药"
+            ]
+          },
+          {
+            "title_en": "Venture Capital and Private M&amp;A Contracting",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.00654",
+            "abstract_en": "This study investigates the role of venture capital (VC) firms in private mergers and acquisitions (M&A) contracting, particularly in reducing information asymmetry. Analyzing a proprietary data set of 851 startup acquisitions from 2015 to 2020, I find that M&A contracts are significantly less likely to include earnouts, mechanisms designed to mitigate information asymmetry, when a VC is involved in the transaction. Further analysis reveals that earnouts are more likely in transactions with high information asymmetry between the VC and the buyer. The study also examines the effect of prior relationships between VCs and buyers, showing that these connections not only increase the chances of repeat transactions but also further reduce the reliance on earnouts. These findings suggest that VCs play a crucial role in mitigating information asymmetry, reducing the need for earnouts, and ultimately improving M&A outcomes. This paper was accepted by Bo Becker, finance. Funding: Research funding was provided by the University of Chicago Booth School of Business. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00654 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
+              "企业创新"
             ]
           },
           {
@@ -1578,9 +1628,19 @@
         "resolved_name": "Journal of Business Venturing",
         "issue_title": "Volume 41, Issue 5",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
-        "matched_count": 3,
-        "total_in_issue": 5,
+        "matched_count": 4,
+        "total_in_issue": 8,
         "papers": [
+          {
+            "title_en": "Navigating moral boundaries: How entrepreneurs manage stigma premiums in morally contested markets",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106622",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
           {
             "title_en": "A romantic penalty? Female entrepreneurship and relationship initiation in online dating",
             "title_zh": "浪漫的代价？女性创业与在线约会中的关系开始",
@@ -1621,13 +1681,24 @@
         "resolved_name": "Technovation",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 7,
-        "total_in_issue": 9,
+        "matched_count": 12,
+        "total_in_issue": 15,
         "papers": [
           {
             "title_en": "Multinational enterprises and strategic foresight: The path to eco-innovation",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103603",
+            "abstract_en": "This study applies neo-institutional theory and dynamic capability theory to an aerospace multinational case study for examining how firms can plan for eco-innovation through strategic foresight and how such planning shapes and is shaped by the institutional environment. The findings show that strategic foresight enables organisations to interpret institutional pressures and reconfigure dynamic capabilities to support eco-innovation. To ensure coherence and continuity, multinational enterprises (MNEs) should assign responsibility for eco-innovation to a dedicated unit, supported by collaboration across internal divisions and with customers. Foresight activities guide the introduction of eco-innovation initiatives and embed them into the daily operations of all units. Overall, this case study shows how policymaking processes, design dynamics, and societal demands can motivate an MNE to integrate eco-innovation across its organisation and clarifies the central role of strategic foresight. Large firms are shown to be pivotal actors in eco-innovation, influencing change within their internal units and across the entire value chain.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Digital technology adoption and servitization of manufacturing firms —The role of knowledge coupling and collaborative network cohesion",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103627",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1655,6 +1726,16 @@
             ]
           },
           {
+            "title_en": "Co-creating frugal innovation at the bottom of the pyramid",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103605",
+            "abstract_en": "Frugal innovation, characterised by affordable, cost-effective, resource-efficient solutions, has become increasingly significant for addressing the needs of the Bottom of the Pyramid (BoP) in emerging markets. It necessitates concerted efforts by key stakeholders with the shared goal of co-creating new solutions to enhance the quality of life at the BoP. However, the exploration of co-creation in devising affordable solutions for the underserved BoP market is limited in the literature. This study explores how entrepreneurs collaborate with key stakeholders to co-create frugal innovations for the BoP customers in an emerging market. We employed a multiple case study approach to address the research question. Analyzing data from 12 start-ups, including 43 interviews, our findings revealed the collaboration mechanisms in the frugal innovation process addressing BOP needs. We also demonstrate how start-ups form collaborative networks co-create frugal innovations, overcoming multiple constraints by utilising shared resources, knowledge, and capabilities. Furthermore, we reveal the key outcomes of frugal innovations. The findings advance the frugal innovation literature by incorporating co-creation as a strategic approach to addressing innovation challenges at the BoP. We extend both co-creation and frugal innovation literature by stressing the significance of co-creation in identifying problems, understanding complex scenarios, and devising affordable solutions.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "The venture clienting readiness canvas: How corporations can assess their organizational readiness for new venture collaboration",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103602",
@@ -1675,6 +1756,17 @@
             ]
           },
           {
+            "title_en": "Twin transition in manufacturing firms: The role of supply chain orchestration and supply chain business model innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103626",
+            "abstract_en": "Twin transition, the concurrent development of digitalization practices and circular practices, are believed to be the key to firm performance. However, empirical evidence is currently scarce regarding the effect of twin transition on firm performance and the complementary practices that enable and realize it. This study draws on a survey of 188 Swedish manufacturing firms and employs PLS structural equation modelling to test the hypothesis. The results indicate that firm performance can be improved through digitalization practices but with circular practices as a mediator. Moreover, our results show a significant and positive moderation effect of supply chain orchestration and supply chain business model innovation as complementary mechanisms for enabling and realizing the process. This implies time sequencing between the two twin transition dimensions. These results carry theoretical implications for twin transition research and circular economy literatures. The results also provide novel managerial insights by showing that digital investments must be coupled with early orchestration of supply chain partners and aligned business model innovation to effectively scale circular practices and realize performance benefits.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "Digital transformation and social sustainability: the mediating role of employees’ digital competencies",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103607",
@@ -1686,9 +1778,30 @@
             ]
           },
           {
-            "title_en": "Digital transformation, R&amp;D internationalization, and corporate green innovation: Can they play a supportive role? Empirical evidence from China",
+            "title_en": "Extending the potential of venture creation programmes for the commercialisation of research-based technologies",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103604",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103619",
+            "abstract_en": "This paper explores the processes undertaken by students in a venture creation programme (VCP) who engage in early-stage technology commercialisation of research-based technologies provided by external institutions. Our research question is: How can VCPs support students in the commercialisation of research-based technologies? We conducted a process study of a spinoff company that is based on a technology developed at the European Organisation for Nuclear Research (CERN). Facilitated by a VCP and through a formal agreement with an external research institution, it is possible for novice students to identify and create opportunities within a complex and uncertain context, including a highly advanced technological field. Guided by a process study approach, the paper conceptualised the sequence of events during the students’ entrepreneurial process. The paper builds on the conceptual frame of reference that VCPs combine several approaches to supporting entrepreneurship and commercialisation at universities. Thus, it contributes to the literature on research commercialisation processes with insights into the processual micro-foundations of overcoming challenges and junctures in the commercialisation process. We suggest that involving VCP students represents an alternative model of technology commercialisation in high-cost economies that fosters fruitful collaboration among the VCP, VCP students and researchers.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Exploration versus exploitation: The innovation propensity of academic spin-offs during the sustainable returns phase",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103621",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Corrigendum to “The double-edged sword effect of generative AI applications on corporate innovation” [Technovation 154 (2026) 103561]",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103624",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1808,7 +1921,7 @@
             "title_en": "Income and immunity: The consequences of social security administration reform for childhood infection risk",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jhealeco.2026.103153",
-            "abstract_en": "We analyse the impact of a change in the administration of social security payments, occurring in utero and early infancy, on health in early childhood. We identify this impact through the gradual rollout of the so-called ‘income management’ policy in Aboriginal communities in Australia’s Northern Territory in 2007. This policy changed the delivery method of welfare payments but not their value – however, implementation challenges meant that many families did not receive their payments on time. Using linked administrative data, we find that children who were exposed to the policy rollout in utero or in their first three months of life (the ‘fourth trimester’) were at higher risk of severe infection requiring hospitalisation. These children spent, on average, 4.7 more days in hospital between birth and their 8 th birthday. Most of this impact is concentrated in hospitalisations for infection, which increased by 23 percent. These admissions are driven by a range of infection types: bacterial, viral and respiratory. We link our findings to the ‘immune programming hypothesis’, i.e. maternal stress and poor nutrition during key stages in immune system development can permanently weaken the child’s immune system. Our findings highlight the importance of attention to key phases in child development when designing policies that affect households’ financial resources, even temporarily.",
+            "abstract_en": "We analyse the impact of a change in the administration of social security payments, occurring in utero and early infancy, on health in early childhood. We identify this impact through the gradual rollout of the so-called 'income management' policy in Aboriginal communities in Australia's Northern Territory in 2007. This policy changed the delivery method of social security payments but not their value - however, implementation challenges meant that many families did not receive their payments on time. Using linked administrative data, we find that children who were exposed to the policy rollout in utero or in their first three months of life (the 'fourth trimester') were at higher risk of severe infection requiring hospitalisation. These children spent, on average, 4.7 more days in hospital between birth and their 8th birthday. Most of this impact is concentrated in hospitalisations for infection, which increased by 23 percent. These admissions are driven by a range of infection types: bacterial, viral and respiratory. We link our findings to the 'immune programming hypothesis', i.e. maternal stress and poor nutrition during key stages in immune system development can permanently weaken the child's immune system. Our findings highlight the importance of attention to key phases in child development when designing policies that affect households' financial resources, even temporarily.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
@@ -1978,8 +2091,18 @@
         "issue_title": "Volume 29, Issue 6",
         "issue_url": "https://www.valueinhealthjournal.com/",
         "matched_count": 12,
-        "total_in_issue": 29,
+        "total_in_issue": 27,
         "papers": [
+          {
+            "title_en": "Advances in Methods and Measures for Equity-Informative Evaluations",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.04.004",
+            "abstract_en": "You may struggle to find anyone who would disagree with the notion that equity is a fundamental component of value in health and healthcare. However, ask people to define exactly what fairness means and how we might operationalize it in research to support our health systems, and you may equally struggle. Although economic evaluation is widely used to support resource allocation in health, work continues to develop methods and applications of equity-informative evaluation. The articles in this Value in Health themed section illustrate a range of methodological issues and novel approaches being developed to facilitate the application of distributional analysis for economic evaluation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
           {
             "title_en": "Value-Based Pricing of Health Services With Health Equity Considerations",
             "title_zh": "",
@@ -2089,17 +2212,6 @@
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The Early Experiences of Health Technology Assessment Bodies in the Implementation of the European Union Health Technology Assessment Regulation for High-Risk Medical Devices: A Qualitative Study",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2025.11.013",
-            "abstract_en": "OBJECTIVES: The EU Health Technology Assessment Regulation (HTAR) introduces joint clinical assessments (JCAs) to harmonize clinical evidence evaluation across Member States. JCAs are commencing in 2026 for high-risk medical devices (MD) and in vitro diagnostics (IVD), but little is known about how national health technology assessment (HTA) bodies are preparing for implementation. This study aims to explore how selected European Union (EU)/European Economic Area HTA bodies are planning for JCAs integration and HTAR implementation for high-risk MD/IVD. METHODS: Semistructured interviews were conducted with 15 participants from 11 different HTA bodies across 11 EU/European Economic Area Member States. Interviews were recorded and transcribed verbatim before being anonymized and coded using NVivo Software. Data were analyzed using thematic analysis. RESULTS: All participants recognized JCAs as a potential tool for improving evidence quality for high-risk devices and highlighted their willingness to use JCA-generated evidence in their clinical assessment. Some HTA bodies have initiated procedural or legislative adaptations; however, many remain in an observational position, waiting for further implementation documents. Key opportunities identified included work sharing, improved evidence standards, and capacity building, particularly in smaller HTA systems that might not have access to high-quality assessments without JCAs. However, substantial challenges were reported, including regulatory uncertainty, timing misalignments, and limited manufacturer preparedness for JCA evidence demands. CONCLUSIONS: HTAR is viewed as an opportunity to strengthen HTA practices for high-risk MD/IVD. However, realizing its goals will require further collaboration, alignment of procedural timelines, and investment in national capacity. Further studies are needed after full HTAR implementation for high-risk MD/IVD to capture ongoing experiences.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医疗创新",
               "创新药"
             ]
           }
