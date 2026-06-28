@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-06-21 08:14:02",
+  "updated_at": "2026-06-28 07:51:07",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 165,
+    "fail_count": 182,
     "failed_examples": [
-      "Reducing trade with Russia: Sanctions vs. firms’ voluntary suspension of activit :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "The invasion of Ukraine in February 2022 led to large and unprecedented sanction :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "Financial frictions, FX reserves, and exchange rate management with local-curren :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "Equity financing and exports: Evidence from IPO approvals in China :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "Governments’ home bias and efficiency losses: Evidence from national and subnati :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "Burn now or never? Climate policy exposure and investment of fossil fuel firms :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p"
+      "A Method to Estimate Discrete Choice Models That Is Robust to Consumer Search :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "We state a sufficient condition under which choice data alone suffices to identi :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "Turbocharging Profits? Contract Gaming and Revenue Allocation in Healthcare :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "Firms often exploit weaknesses in government contracts to boost revenues, yet li :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "The Effect of Low-Skill Immigration Restrictions on US Firms and Workers: Eviden :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "US firms hiring foreign workers in low-skill nonfarm jobs face a binding quota o :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p"
     ],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
   },
@@ -328,19 +328,19 @@
         "query_name": "Journal of Political Economy",
         "issn": "0022-3808",
         "resolved_name": "Journal of Political Economy",
-        "issue_title": "Volume 134, Issue 6",
+        "issue_title": "Volume 134, Issue 7",
         "issue_url": "https://www.journals.uchicago.edu/journals/jpe",
         "matched_count": 1,
-        "total_in_issue": 9,
+        "total_in_issue": 10,
         "papers": [
           {
-            "title_en": "On the Nature of Entrepreneurship",
-            "title_zh": "论企业家精神的本质",
-            "url": "https://doi.org/10.1086/739823",
-            "abstract_en": "",
+            "title_en": "A Method to Estimate Discrete Choice Models That Is Robust to Consumer Search",
+            "title_zh": "",
+            "url": "https://doi.org/10.1086/740223",
+            "abstract_en": "We state a sufficient condition under which choice data alone suffices to identify consumer preferences when choices are not fully informed. Suppose that: (i) the data generating process is a search model in which the attribute hidden to consumers is observed by the econometrician; (ii) if a consumer searches good j, she also searches goods which are better than j in terms of the non-hidden component of utility; and (iii) consumers choose the good that maximizes overall utility among searched goods. Canonical models will be biased: the value of the hidden attribute will be understated because consumers will be unresponsive to variation in the attribute for goods that they do not search. Under the conditions above and additional mild restrictions, an alternative method of recovering preferences using cross derivatives of choice probabilities succeeds regardless of the search protocol and is thus robust to whether consumers are informed. The approach nests several standard models, including full information. Our methods suggest natural tests for full information and can be used to forecast how consumers will respond to additional information. We verify in a lab experiment that our approach succeeds in recovering preferences when consumers engage in costly search.",
             "abstract_zh": "",
             "matched_topics": [
-              "企业创新"
+              "创新药"
             ]
           }
         ],
@@ -571,58 +571,59 @@
         "query_name": "American Economic Journal: Applied Economics",
         "issn": "1945-7782",
         "resolved_name": "American Economic Journal Applied Economics",
-        "issue_title": "Volume 18, Issue 2",
+        "issue_title": "Volume 18, Issue 3",
         "issue_url": "https://www.aeaweb.org/journals/app",
         "matched_count": 5,
-        "total_in_issue": 13,
+        "total_in_issue": 11,
         "papers": [
           {
-            "title_en": "The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement",
-            "title_zh": "种族隔离对代际流动性的影响：来自历史铁路布局的证据",
-            "url": "https://doi.org/10.1257/app.20240271",
-            "abstract_en": "This paper provides new evidence on the causal impacts of citywide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for antipoverty policies, and increases racially conservative attitudes among White residents. (JEL I38, J13, J15, J62, N32, N72, R30)",
-            "abstract_zh": "本文提供了关于城市范围内种族隔离对代际流动性因果影响的新证据。我们采用了一种工具变量方法，该方法依赖于19世纪铁路轨道布局导致的种族隔离的外生变化。我们的分析发现，更高的隔离程度降低了黑人儿童和低收入家庭白人儿童的向上流动性。此外，隔离降低了学术成就，同时增加了监禁率和青少年生育率。对机制的分析表明，隔离减少了政府支出，削弱了对反贫困政策的支持，并增加了白人居民中的种族保守态度。（JEL I38, J13, J15, J62, N32, N72, R30）",
+            "title_en": "Turbocharging Profits? Contract Gaming and Revenue Allocation in Healthcare",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/app.20240589",
+            "abstract_en": "Firms often exploit weaknesses in government contracts to boost revenues, yet little is known about how they allocate these funds. We study how hospitals allocated $3 billion obtained from gaming a Medicare loophole. The average gaming hospital increased Medicare and total revenue by around 10 percent, implying large spillovers on other payers. Nonprofit hospitals deployed most funds toward operating costs. For-profits—driven by a large chain—deducted funds off their balance sheets, distributing them to executives and shareholders. Accordingly, we detect reductions in mortality only at nonprofits. Our results imply that the consequences of engineered windfalls vary substantially by hospital ownership. (JEL D86, H51, I11, I12, I18, L31)",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Release, Detain, or Surveil? The Effect of Electronic Monitoring on Defendant Outcomes",
-            "title_zh": "释放、拘留还是监控？电子监控对被告人结果的影响",
-            "url": "https://doi.org/10.1257/app.20240517",
-            "abstract_en": "This paper studies the effect of pretrial electronic monitoring (EM) relative to both pretrial release and pretrial detention (jail). EM often involves a defendant wearing an electronic bracelet, which aims to reduce pretrial misconduct at a low cost. Using the quasi-random assignment of bond court judges, I estimate the effect of EM versus release and EM versus detention on pretrial misconduct, case outcomes, future recidivism, and aggregate total costs. Results indicate that EM reduces overall costs relative to detention. However, EM does not prevent enough high-cost crime to justify its use relative to release. (JEL K14, K41, K42)",
-            "abstract_zh": "本文研究了审前电子监控（EM）相对于审前释放和审前拘留（监狱）的效果。EM通常涉及被告佩戴电子手环，旨在以低成本减少审前不当行为。利用债券法院法官的准随机分配，我估计了EM与释放相比以及EM与拘留相比对审前不当行为、案件结果、未来再犯和总成本的影响。结果表明，与拘留相比，EM降低了总体成本。然而，EM未能防止足够的高成本犯罪，以证明其相对于释放的使用是合理的。（JEL K14，K41，K42）",
+            "title_en": "The Effect of Low-Skill Immigration Restrictions on US Firms and Workers: Evidence from a Randomized Lottery",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/app.20250049",
+            "abstract_en": "US firms hiring foreign workers in low-skill nonfarm jobs face a binding quota on the “H-2B” visa, allocated in part through a randomized lottery. We evaluate the quota’s marginal impact using the lottery, a novel firm survey, and a pre-analysis plan. Firms exogenously employing more H-2B workers in low-skill jobs increase production (elasticity 0.20–0.22), investment (1.5–2.1), and profits (0.15). The elasticity of substitution between H-2B and US workers is very low (0.8–2.2). Thus, the effect on US employment is zero or positive overall, and positive in rural areas. Forensic analysis suggests similarly low substitutability of black-market labor. (JEL J15, J24, J46, J61, J82, K37)",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Ethnic Diversity, Historical Economic Exchange, and Development: Evidence from Andean Peru",
-            "title_zh": "种族多样性、历史经济交流与发展：来自安第斯山脉秘鲁的证据",
-            "url": "https://doi.org/10.1257/app.20240281",
-            "abstract_en": "Is ethnic diversity good or bad for economic development? Most studies find corrosive effects. This paper shows that historical exposure to economic exchange can mitigate these effects in the long run. I collect data from a natural experiment of Peru's colonial history: the forced resettlement of native populations in the sixteenth century. Where the resettlement concentrated ethnically diverse populations with a history of internal crop exchange, contemporary populations perform better systematically. Additional evidence suggests that prior experience with mutually beneficial crop exchange shaped more open attitudes toward out-group members. Economic complementarities helped sustain long-run, market-oriented cooperation and local trade. (JEL F54, J15, N16, N36, N56, O15, Q12)",
-            "abstract_zh": "种族多样性对经济发展是好是坏？大多数研究发现其具有腐蚀性影响。本文表明，历史上的经济交流接触可以在长期内减轻这些影响。我收集了秘鲁殖民历史的自然实验数据：16世纪对土著人口的强制重新安置。在重新安置集中了具有内部作物交换历史的种族多样性人口的地方，当代人口的表现系统性地更好。额外的证据表明，先前的经验与互惠互利的作物交换塑造了对外部群体成员更开放的态度。经济互补性有助于维持长期的、面向市场的合作和地方贸易。（JEL F54, J15, N16, N36, N56, O15, Q12）",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Wealth, Marriage, and Sex Selection",
-            "title_zh": "财富、婚姻与性别选择",
-            "url": "https://doi.org/10.1257/app.20220361",
-            "abstract_en": "Two mechanisms have been proposed to explain sex selection in India: son preference, in which parents desire a male heir, and daughter aversion, in which dowry payments make parents worse off with girls. Our model incorporates both mechanisms, providing microfoundations, based on the organization of the marriage institution, for daughter aversion. Marital matching, sex selection, and dowries are jointly determined in the model, whose implications are tested on a representative sample of rural households. Simulations of the model indicate that existing policies targeting daughter aversion might exacerbate the problem, while identifying other policies that could be effective. (JEL D31, G51, J12, J16, O12, O18, Z13)",
-            "abstract_zh": "提出了两种机制来解释印度的性别选择：儿子偏好，即父母希望有男性继承人，以及女儿厌恶，即嫁妆支付使父母因有女儿而境况更糟。我们的模型结合了这两种机制，基于婚姻制度的组织提供了女儿厌恶的微观基础。在模型中，婚姻匹配、性别选择和嫁妆是共同决定的，其含义在代表性的农村家庭样本上进行了测试。对模型的模拟表明，针对女儿厌恶的现有政策可能加剧问题，同时识别了其他可能有效的政策。（JEL D31, G51, J12, J16, O12, O18, Z13）",
+            "title_en": "Decentralizing Development: The Economic Impacts of Government Splits",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/app.20240009",
+            "abstract_en": "Changes in political boundaries aimed at devolving power to local governments are common across many countries. We examine the economic impacts of government unit creation through splitting. Exploiting reforms that led to sharp increases in the number of municipalities in Brazil, we show that voluntary splitting enlarges the public sector, enhances public service delivery, and stimulates long-term economic activity in new local governments. These gains are not offset by losses elsewhere and are stronger in peripheral, remote, and underdeveloped areas neglected by parent governments. Higher fiscal revenues and decentralized decision-making contribute to the positive effects on local economic activity. (JEL D72, H41, H75, H76, H77, Q53, R51)",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "The Long-Term Impacts of Mixing the Rich and Poor: Evidence from Conscript Dorms",
-            "title_zh": "贫富混合的长期影响：来自征兵宿舍的证据",
-            "url": "https://doi.org/10.1257/app.20240173",
-            "abstract_en": "To what extent is economic success determined by with whom individuals interact socially? We tackle this question by exploiting a large-scale natural experiment in the Finnish conscription. Our research design is based on the alphabetization of dorms, which is shown to induce as good as random variation in peer composition. Dormmates from high-income families have a positive impact on earnings, with the largest effect among individuals from high-income families. For them, a one standard deviation increase in dormmates' parental income increases long-term earnings by 5.7 percent. The results support labor market networks among the rich as the key mechanism. (JEL D12, D31, G51, I32, J31, J45)",
-            "abstract_zh": "个人在社会交往中与谁互动在多大程度上决定了经济成功？我们通过利用芬兰征兵中的大规模自然实验来解决这个问题。我们的研究设计基于宿舍的字母排序，这被证明可以引起同伴组成的随机变化。来自高收入家庭的室友对收入有积极影响，其中对来自高收入家庭的个体影响最大。对他们来说，室友父母收入每增加一个标准差，长期收入就增加5.7%。结果支持富人之间的劳动市场网络是关键机制。（JEL D12, D31, G51, I32, J31, J45）",
+            "title_en": "The Political Geography of Cities",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/app.20230301",
+            "abstract_en": "We study the link between regional capitals and urban development. We exploit new global data on hundreds of first-order administrative and capital city reforms from 1987 until 2018 to estimate the capital city premium. Gaining capital status increases city growth in the medium term, spilling over to nearby cities. The capital premium varies with the size of the territory governed by the city, and political status complements favorable economic fundamentals. We document two mechanisms: migration of educated individuals to capital cities and heightened public and private investment, with private investment favoring capital cities with stronger economic fundamentals. (JEL D72, E22, H54, O18, R11, R12, R58)",
+            "abstract_zh": "",
             "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Fostering Cooperation: The Conflict-Reducing Effects of Intervillage Competition for Government Transfers",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/app.20240377",
+            "abstract_en": "We examine the effect of intergroup competition on within-group violent conflict in Indonesia. Using a triple-differences design, we find that higher competition for national government transfers between villages reduces within-village conflict. These effects persist regardless of the competition’s outcome, are stronger in ethnically fractionalized and segregated villages, and are accompanied by higher attendance in village meetings. Our results are consistent with external competition favoring participation and cooperation within otherwise divided communities, suggesting that economic incentives to compete with out-groups combined with forms of civic engagement can be important mechanisms to reduce violence within communities. (JEL D74, H70, O15, O17, O18, Z13)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
               "创新药"
             ]
           }
@@ -887,8 +888,8 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 3,
-        "total_in_issue": 16,
+        "matched_count": 4,
+        "total_in_issue": 22,
         "papers": [
           {
             "title_en": "Evaluating the environmental and economic implications of curbing transboundary pollution: Evidence from China",
@@ -905,6 +906,16 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103832",
             "abstract_en": "Public procurement in developing countries accounts for approximately 13% of GDP, offering a significant market opportunity for domestic firms, especially those facing demand constraints. This paper explores the impact of selling to government entities on firm performance in Uganda, leveraging detailed administrative data and an event study methodology that corrects for firm self-selection and heterogeneity in the timing of the treatment. The results reveal that while firms increase their total sales after entering government contracts, they do not see improvements in productivity (measured by value added per worker). Moreover, sales to non-government customers drop sharply. This reallocation effect is persistent. This effect is not observed when firms start to sell to large private-sector buyers. Drawing on an original survey of firms engaged in public procurement, we highlight potential drivers of these dynamics, including capacity constraints and profitability differences between public and private sector sales.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "The mental health impact for adolescents ageing out of South Africa’s child support grant",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103863",
+            "abstract_en": "While the benefits of cash transfers are well documented, little attention has been given to the negative effects of their cessation, particularly on mental health. We examined this question using South African longitudinal survey data comprising 7899 unique adolescents tracked as they age out of the Child Support Grant , the country’s largest cash transfer. We find that loss of the Child Support Grant leads to a decline in mental health equivalent to 0.42 of a standard deviation in the CES-D score, robust across model specifications and falsification tests. Increased job search activity points to resource mobilisation as a plausible mechanism, consistent with the Conservation of Resources framework. Effects are concentrated among adolescents in urban areas and households with lower and less diversified income. The results point to a neglected aspect of social protection: how and when cash transfers are withdrawn, particularly when this coincides with critical life stages.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
@@ -1243,8 +1254,8 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 3,
-        "total_in_issue": 4,
+        "matched_count": 4,
+        "total_in_issue": 10,
         "papers": [
           {
             "title_en": "Price discrimination under minimum advertised price restriction",
@@ -1264,6 +1275,16 @@
             "abstract_zh": "传递率在多种情境中都很重要，比如估算反垄断损害赔偿。人们经常声称，焦点定价——只收取特殊价格的做法，例如以9结尾的价格——降低了一个行业的传递率。这一主张产生了严重后果；例如，它导致了一些备受瞩目的反垄断案件被驳回。然而，它没有经济理论或证据的支持。我在一个简单但通用的框架中证明，预期的传递率不会因为焦点定价限制的存在而改变。因此，一个行业以焦点定价限制为特征，并不意味着它也会以低传递率为特征。",
             "matched_topics": [
               "产业经济"
+            ]
+          },
+          {
+            "title_en": "Innovation and startup acquisition",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103307",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
             ]
           },
           {
@@ -1287,8 +1308,18 @@
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 13,
+        "total_in_issue": 14,
         "papers": [
+          {
+            "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105534",
+            "abstract_en": "I propose that the concept of ‘systems of use’ can be a valuable lens for more deeply understanding user innovation processes and outcomes. I define a system of use as a group of components that interact during use to accomplish a system-level goal. Each component, which may be a physical or digital product, or a human behavior, plays a role in a specific system of use by accepting inputs, processing them, and providing outputs within and beyond that system. To date, research on innovation has largely focused on the nature of, and innovative history of, and value of specific product innovations. A system of use perspective adds a focus onto the contexts within whichspecific innovations function. This altered focus, in turn, draws attention to related adaptations and innovations that are often required to integrate specific innovations into such systems. Specifically, a system focus can highlight behavioral system of use components that are often overlooked - especially when they are diffused peer-to-peer rather than being sold on markets. Further, a system focus can document the often rapid changes that end users may make to their own systems of use as they adapt to new circumstances, but without changing the major product components that are normally tracked as a way to identify system change.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
           {
             "title_en": "Understanding regional readiness to contribute to the bioeconomy: The role of higher education institutions and other regional characteristics",
             "title_zh": "",
@@ -1301,24 +1332,13 @@
             ]
           },
           {
-            "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
+            "title_en": "Do societal promises influence patent value? An analysis of inventions in artificial intelligence",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105534",
+            "url": "https://doi.org/10.1016/j.respol.2026.105566",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
-            ]
-          },
-          {
-            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105541",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
             ]
           },
           {
@@ -1329,6 +1349,17 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105541",
+            "abstract_en": "The foundation industries that underpin modern economies are undergoing discontinuous transformations around sustainability and decarbonisation. However, key assumptions in the existing innovation literature are based on analyses of a narrow set of industry contexts largely focused on disruptive innovation. Alternative pathways to discontinuous change remain under-researched. This paper presents the first comparative case study of two of the world's most advanced green steel innovation ventures – Stegra and HYBRIT in northern Sweden. The two ventures were set up as, respectively, a start-up and an incumbent-driven joint venture, each with a different strategy for disrupting legacy steelmaking. However, neither followed a path predicted by the innovation literature. We find that the inherent resource constraints that are hallmarks of foundation industries led to a convergence of the two ventures' innovation pathways. We develop theory on discontinuous innovation for foundation industries and argue that system-level drivers, including policy triggers, material resource constraints, and non-material resource enablers shape firm-level innovation pathways. Regardless of their starting point as start-ups or incumbents, ventures in such settings converge on an innovation pathway of creative accumulation rather than creative destruction.",
+            "abstract_zh": "",
+            "matched_topics": [
               "企业创新",
               "创新药"
             ]
@@ -1384,6 +1415,17 @@
             ]
           },
           {
+            "title_en": "How do within-industry CVC investments shape industry concentration?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105567",
+            "abstract_en": "Corporate venture capital (CVC) investments can shape industry dynamics in different ways. On one hand, they provide financial resources, expertise, and credibility that help new ventures survive and grow, thereby fostering competition. On the other hand, incumbents can use CVC to absorb knowledge and capabilities from entrepreneurial ventures, strengthening CVC investors' market positions and limiting rivalry. Given these opposing forces, it remains an open question whether higher levels of CVC investments raise or lower industry concentration. This paper advances the literature by uncovering three mechanisms underscoring the impact of within-industry CVC investments (i.e., those with both investors and investees operating in the same industry) on industry concentration and conducting an empirical analysis across U.S. industries from 2001 to 2019. Results show that greater salience of within-industry CVC investments leads to higher industry concentration. The findings carry important implications for entrepreneurial ventures, incumbents, and policymakers.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "产业经济"
+            ]
+          },
+          {
             "title_en": "Patent pledging as collateral: Navigating the strategic dilemma from patents' private-market values",
             "title_zh": "专利质押作为抵押品：从专利的私人市场价值出发，解决战略困境",
             "url": "https://doi.org/10.1016/j.respol.2026.105538",
@@ -1391,26 +1433,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
-            ]
-          },
-          {
-            "title_en": "Business model innovation pathways: Digital transformation after disruption at The New York Times and The Washington Post",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105536",
-            "abstract_en": "Digital technologies increasingly challenge firms by disrupting the complementary assets that support value capture—such as distribution and monetization channels. While the phenomenon of complementary-asset discontinuity has begun to attract scholarly attention, we still lack an understanding of the different business model innovation pathways incumbents can pursue in response, especially when adapting to specific types of discontinuous changes. We address these gaps through a comparative case analysis of the digital transformation of two leading newspapers, The New York Times and The Washington Post between 2009 and 2021. Despite facing the same technological discontinuity, the two firms pursued very distinct pathways: The New York Times progressively moved toward a model characterized by “business-to-consumer knowledge leadership” by extending its editorial core into new consumer-facing offerings, whereas The Washington Post developed infrastructure-centric solutions, repositioning its model toward a “business-to-business technology leadership.” From these cases, we developed a process framework of two alternative business model innovation pathways that specifies the antecedents (strategic focus), mechanisms (asset reconfiguration), and outcomes (business model innovation) shaping divergent responses. The study advances the literatures on business model innovation, technological change, and complementary assets.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "From expertise to action: STEM-related human capital in top management teams and corporate climate adaptation and resilience",
-            "title_zh": "从专长到行动：高层管理团队中的STEM相关人力资本与企业气候适应和韧性",
-            "url": "https://doi.org/10.1016/j.respol.2026.105516",
-            "abstract_en": "To safeguard long-term value creation and capture, incumbent firms face growing pressure to pursue corporate climate adaptation and resilience strategies. Given the pivotal role of top managers in driving adaptive change, this study examines how top management teams' human capital shapes firms' engagement in climate adaptation and resilience across different organizational and environmental contexts. Drawing on the attention-based view, we argue that science, technology, engineering, and mathematics (STEM) education directs managerial attention toward climate-related risks and opportunities, prioritizing climate adaptation and resilience responses over competing strategic concerns. We further theorize that this relationship is contingent on firms' inventiveness, their exposure to physical climate hazards, and climate change sentiment expressed by financial stakeholders. Depending on these contexts, STEM-educated top management team members are particularly valuable in processing climate-related information, developing corporate climate adaptation and resilience strategies that reconfigure existing business models and value chains, and mobilizing organizational support for their implementation. Analyzing data from the Carbon Disclosure Project from large, listed U.S. firms from 2013 to 2020, we find empirical support for our hypotheses. Additional analyses show that STEM education is more strongly associated with engagement in climate adaptation and resilience than other educational backgrounds and that its association varies across STEM subfields. Our findings advance understanding of how executive cognition and attention-directing contexts jointly shape firms' responses to climate-related challenges and highlight the role of STEM expertise in enabling disruptive, sustainability-oriented transformation. We also derive implications for executive hiring, leadership development, and climate-related policy design.",
-            "abstract_zh": "为了保障长期价值创造和捕获，现有企业面临着越来越大的压力，需要追求企业气候适应和弹性战略。鉴于高层管理者在推动适应性变革中的关键作用，本研究考察了高层管理团队的人力资本如何塑造企业在不同组织和环境背景下参与气候适应和弹性的情况。基于注意力基础观点，我们认为科学、技术、工程和数学（STEM）教育将管理者的注意力引向与气候相关的风险和机遇，优先考虑气候适应和弹性响应，而不是其他战略关切。我们进一步理论化，这种关系取决于企业的创造力、对物理气候危害的暴露程度以及金融利益相关者表达的气候变化情绪。在这些背景下，受过STEM教育的高层管理团队成员在处理与气候相关的信息、制定重新配置现有商业模式和价值链的企业气候适应和弹性战略以及动员组织支持其实施方面特别有价值。分析2013年至2020年美国大型上市公司的碳披露项目数据，我们发现我们的假设得到了经验支持。额外的分析表明，与其他教育背景相比，STEM教育与参与气候适应和弹性的关联更强，并且其关联在STEM子领域之间有所不同。我们的发现推进了对高管认知和注意力导向背景如何共同塑造企业对气候相关挑战的响应的理解，并强调了STEM专长在实现颠覆性、面向可持续性的转型中的作用。我们还推导出了对高管招聘、领导力发展和气候相关政策设计的影响。",
-            "matched_topics": [
-              "创新药"
             ]
           }
         ],
@@ -1628,8 +1650,8 @@
         "resolved_name": "Journal of Business Venturing",
         "issue_title": "Volume 41, Issue 5",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
-        "matched_count": 4,
-        "total_in_issue": 8,
+        "matched_count": 5,
+        "total_in_issue": 9,
         "papers": [
           {
             "title_en": "Navigating moral boundaries: How entrepreneurs manage stigma premiums in morally contested markets",
@@ -1648,6 +1670,17 @@
             "abstract_en": "Female entrepreneurship is increasingly common, yet we know little about how it affects women's romantic prospects, a crucial outcome with implications for family formation. We propose that female entrepreneurs, particularly those pursuing growth-oriented ventures, face diminished romantic prospects, potentially shaped by gendered trait inferences and concerns about time demand. Using two field experiments, supplemented by a survey experiment, we provide causal evidence that female entrepreneurs are on average penalized in romantic relationship initiation, but are preferred by male entrepreneurs. Further analysis offers suggestive evidence on mechanisms underlying this romantic penalty. By examining the impact of female entrepreneurship on romantic prospects, our study extends the family embeddedness perspective in entrepreneurship research. It also contributes to female entrepreneurship research by documenting a romantic penalty as a previously underexplored challenge.",
             "abstract_zh": "女性创业日益普遍，但我们对其如何影响女性的浪漫前景知之甚少，这是一个对家庭形成具有重要影响的关键结果。我们提出，女性创业者，特别是那些追求增长导向型企业的女性，面临减少的浪漫前景，可能受到性别化特质推断和对时间需求的担忧的影响。通过两个现场实验，辅以一项调查实验，我们提供了因果证据，表明女性创业者在浪漫关系启动中平均受到惩罚，但受到男性创业者的青睐。进一步分析提供了关于这种浪漫惩罚背后机制的暗示性证据。通过检查女性创业对浪漫前景的影响，我们的研究扩展了创业研究中的家族嵌入视角。它还通过记录浪漫惩罚作为一种以前未充分探讨的挑战，为女性创业研究做出了贡献。",
             "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Aspirations, performance feedback, and informal entrepreneurs' decision to formalize",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106620",
+            "abstract_en": "We develop a theory explaining the conditions influencing entrepreneurs' decisions to formalize versus remain informal. Building on the behavioral theory of the firm, we argue that formalization is a viable strategy for informal entrepreneurs with growth needs who perform below opportunity-based aspirations to generate new sources of revenue, and for entrepreneurs with survival needs who perform above necessity-based aspirations to secure a durable livelihood. Conversely, entrepreneurs performing above their opportunity-based aspirations avoid formalization to maintain informal advantages, whereas entrepreneurs performning below their necessity-based aspirations perceive survival as particularly salient and thus avoid formalization. Moreover, the likelihood of formalizing, as a function of the performance relative to both necessity- and opportunity-based aspirations, is moderated by the level of meso-institutional support for formalization. We contribute by conceptualizing formalization as a complex strategic decision surrounded by severe uncertainty with important consequences for informal entrepreneurship. This reconceptualization enables us to frame aspirations as an important source of heterogeneity among informal entrepreneurs, shaping how they evaluate and respond to the prospect of formalization.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
               "企业创新"
             ]
           },
@@ -1696,10 +1729,61 @@
             ]
           },
           {
+            "title_en": "Beyond the surface: Exploring configurations for digital innovation based on digital technology affordance theory",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103628",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Platform Thinking in Action: A design science research to bring the platform revolution in legacy firms",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103629",
+            "abstract_en": "Digital platforms have become a dominant logic for value creation and innovation, yet legacy firms still struggle to translate platform principles into actionable organizational transformation. A central reason is cognitive: managers often mis-frame platforms as digital services rather than as ecosystem-based value architectures. This paper adopts a Design Science approach to develop and refine the Platform Thinking Journey, a composite managerial artifact that supports platform transformation in incumbent firms. Developed through a three-year, multi-firm collaboration within the Platform Thinking HUB, the artifact evolved across three iterative waves from exploratory tools into a validated journey structured around four phases: Framing, Design, Ignition, and Growth. The resulting Platform Thinking Journey combines a process model, bounded decision cycles, and an integrated physical and digital, or “phygital”, support architecture, including cards, canvases, workshops, digital templates, and a GenAI co-thinker. Its core mechanism is to make platform theory actionable by presenting structured alternatives grounded in the literature, focusing managerial attention, reducing ambiguity, and aligning interpretation before teams consolidate choices through design tools and milestones. The study contributes to platform and innovation management research by showing how platform transformation can be actively supported through design, and by identifying five design principles for incumbent firms: reframing from products to interactions before solutioning, structuring the process as bounded decision cycles, materializing reasoning through boundary objects, balancing conceptual depth with cognitive manageability, and sustaining reflection through phygital continuity. Methodologically, the paper offers a rigorous application of Design Science to a non-technical managerial artifact in a multi-wave, multi-firm collaborative setting. For managers, the Platform Thinking Journey provides a structured way to reframe platform opportunities, make key design choices explicit, and sustain reflection across the transformation process.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Supportive or exhausting: How resources synergize in network embedding innovation process to improve sustainability",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103631",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "Digital technology adoption and servitization of manufacturing firms —The role of knowledge coupling and collaborative network cohesion",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103627",
             "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Value (in)congruence of patent pledges and its impact on corporate green innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103635",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "AI-powered innovation tournament evaluations: A hybrid NLP approach",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103622",
+            "abstract_en": "Innovation tournaments require expert evaluators to assess large volumes of lengthy, unstructured proposals under significant time pressure and cognitive constraints. This study investigates how transformer-based natural language processing (NLP) models can be integrated into this context as decision-support tools within the evaluation process. Using real-world data from a national Brazilian innovation tournament comprising 1151 startup proposals, we examine whether NLP models can learn patterns associated with expert-assigned scores and support early-stage screening. We fine-tune Portuguese-language transformer models (BERT) for classification tasks and refine long-text processing through chunking and document-level aggregation. To contextualize performance, we benchmark the neural models against lighter architectures and classical machine-learning baselines. Although the models exhibit persistent ambiguity in distinguishing intermediate-quality proposals, the best-performing configuration consistently avoids extreme misclassifications and adopts a conservative screening profile that prioritizes the retention of high-potential submissions.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -1753,59 +1837,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
-            ]
-          },
-          {
-            "title_en": "Twin transition in manufacturing firms: The role of supply chain orchestration and supply chain business model innovation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103626",
-            "abstract_en": "Twin transition, the concurrent development of digitalization practices and circular practices, are believed to be the key to firm performance. However, empirical evidence is currently scarce regarding the effect of twin transition on firm performance and the complementary practices that enable and realize it. This study draws on a survey of 188 Swedish manufacturing firms and employs PLS structural equation modelling to test the hypothesis. The results indicate that firm performance can be improved through digitalization practices but with circular practices as a mediator. Moreover, our results show a significant and positive moderation effect of supply chain orchestration and supply chain business model innovation as complementary mechanisms for enabling and realizing the process. This implies time sequencing between the two twin transition dimensions. These results carry theoretical implications for twin transition research and circular economy literatures. The results also provide novel managerial insights by showing that digital investments must be coupled with early orchestration of supply chain partners and aligned business model innovation to effectively scale circular practices and realize performance benefits.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Digital transformation and social sustainability: the mediating role of employees’ digital competencies",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103607",
-            "abstract_en": "Corporate Social Sustainability (CSS) has emerged as a cornerstone of contemporary organisational strategy. Indeed, the concept deliberately integrates equitable practices, employee empowerment, and community resilience into core operational frameworks. Digital transformation holds the potential to enhance CSS by fostering innovation, inclusivity, and operational efficiency; yet the process also presents risks, including labour displacement, data privacy concerns, and environmental challenges. This study examines how the digital competencies of employees mediate the relationship between digital transformation and CSS, drawing on the integration of the Resource-Based View and Stakeholder Theory to position these competencies as strategic organisational resources. The dual effects of digital transformation on CSS were unravelled based on longitudinal data from 452 publicly listed European firms collected over the 2015–2021 seven-year period as well as panel data techniques. The development of digital competencies proved to be essential to achieve CSS. Our findings contribute to the literature by demonstrating that employees’ digital competencies are a key mechanism through which digital transformation can be translated into socially sustainable outcomes. The combination of the Resource-Based View and Stakeholder Theory allowed clarifying how human capital capabilities enable firms to achieve social sustainability through digitalisation. The study findings offer organisations and policymakers actionable guidance for designing digital upskilling and inclusion strategies that effectively advance corporate sustainability goals.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Extending the potential of venture creation programmes for the commercialisation of research-based technologies",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103619",
-            "abstract_en": "This paper explores the processes undertaken by students in a venture creation programme (VCP) who engage in early-stage technology commercialisation of research-based technologies provided by external institutions. Our research question is: How can VCPs support students in the commercialisation of research-based technologies? We conducted a process study of a spinoff company that is based on a technology developed at the European Organisation for Nuclear Research (CERN). Facilitated by a VCP and through a formal agreement with an external research institution, it is possible for novice students to identify and create opportunities within a complex and uncertain context, including a highly advanced technological field. Guided by a process study approach, the paper conceptualised the sequence of events during the students’ entrepreneurial process. The paper builds on the conceptual frame of reference that VCPs combine several approaches to supporting entrepreneurship and commercialisation at universities. Thus, it contributes to the literature on research commercialisation processes with insights into the processual micro-foundations of overcoming challenges and junctures in the commercialisation process. We suggest that involving VCP students represents an alternative model of technology commercialisation in high-cost economies that fosters fruitful collaboration among the VCP, VCP students and researchers.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Exploration versus exploitation: The innovation propensity of academic spin-offs during the sustainable returns phase",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103621",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Corrigendum to “The double-edged sword effect of generative AI applications on corporate innovation” [Technovation 154 (2026) 103561]",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103624",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
             ]
           }
         ],
@@ -1914,9 +1945,33 @@
         "resolved_name": "Journal of Health Economics",
         "issue_title": "Published 2026-07",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
-        "matched_count": 2,
-        "total_in_issue": 9,
+        "matched_count": 4,
+        "total_in_issue": 11,
         "papers": [
+          {
+            "title_en": "Integrating equity and productivity in health evaluation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jhealeco.2026.103156",
+            "abstract_en": "This paper develops a unified framework for evaluating health outcomes that jointly incorporates equity and productivity. Extending beyond traditional QALYs, PALYs, and the more recent PQALYs, we introduce a broader class of evaluation functions that integrate equity- and productivity-sensitive conditions. By imposing several normative criteria, including independence from measurement scales and Pigou-Dalton transfer principles, we obtain tractable power-form representations. In balancing equity and efficiency, the framework provides a coherent foundation for assessing interventions in contexts where both health and productive capacity are at stake.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Competition matters: Uniform vs. indication-based pricing of pharmaceuticals",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jhealeco.2026.103157",
+            "abstract_en": "Pharmaceutical expenditures are rising rapidly, driven in part by the innovation of highly effective but very expensive drug therapies that treat multiple diseases, implying that payers face a critical trade-off between cost containment and access to new medicines. A key policy question is whether producers should be restricted to uniform pricing or allowed to use indication-based pricing, where prices vary across patient groups. We use a two-market model to analyse how this choice affects drug producers' incentives to invest in new indications, their pricing strategies, and the resulting surplus for health plans. In a monopoly setting, indication-based pricing yields higher profits and thus strengthens incentives to invest in new indications, while the payer prefers uniform pricing unless the fixed investment costs cannot be recouped. However, monopoly-based insights may not hold if the multi-indication producer faces therapeutic competition in one of the markets. Specifically, we identify a softening-of-competition effect, where a uniform pricing restriction serves as a credible commitment to raise prices in the competitive market. In this case, the health plan might favour indication-based pricing to reduce costs. Overall, our findings suggest that neither pricing scheme is universally optimal, underscoring the need for case-by-case assessments across drug classes.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "产业经济",
+              "企业创新",
+              "医药产业",
+              "创新药"
+            ]
+          },
           {
             "title_en": "Income and immunity: The consequences of social security administration reform for childhood infection risk",
             "title_zh": "",
@@ -2011,71 +2066,70 @@
         "query_name": "PharmacoEconomics",
         "issn": "1170-7690",
         "resolved_name": "PharmacoEconomics",
-        "issue_title": "Volume 44, Issue 6",
+        "issue_title": "Volume 44, Issue 7",
         "issue_url": "https://link.springer.com/journal/40273",
         "matched_count": 6,
-        "total_in_issue": 8,
+        "total_in_issue": 9,
         "papers": [
           {
-            "title_en": "Chronic Kidney Disease (CKD): Systematic Review of the Cost Effectiveness of SGLT2 Inhibitors and Other Novel Nephroprotective Drugs",
-            "title_zh": "慢性肾脏病（CKD）：SGLT2抑制剂及其他新型肾脏保护药物成本效益的系统综述",
-            "url": "https://doi.org/10.1007/s40273-026-01611-6",
-            "abstract_en": "BACKGROUND: Chronic kidney disease (CKD) is a major global cause of morbidity and mortality. Recent nephroprotective therapies have improved CKD management, yet their cost effectiveness across settings remains uncertain. This review systematically identified and compared cost-effectiveness studies of novel CKD treatments for both broad CKD populations and disease-specific subgroups. METHODS: A systematic search was conducted in PubMed and the Cochrane Library using terms related to \"chronic kidney disease,\" \"cost-effectiveness,\" \"cost-utility,\" \"health technology assessment,\" \"SGLT2 inhibitor,\" and commercial and generic names of nephroprotective drugs approved since 2013. Eligible studies were full-length articles in English published between January 2015 and September 2025. Costs, quality-adjusted life-years (QALYs), and incremental cost-effectiveness ratios were extracted. All monetary values were standardized to 2025 US dollars. RESULTS: The search yielded 172 records, of which 26 met inclusion criteria. A supplementary search identified ten additional studies, resulting in 36 evaluations. Most studies assessed sodium-glucose cotransporter 2 inhibitors or finerenone. Across evaluations, these therapies consistently improved outcomes, with QALY gains reported in all studies (0.012-1.44 QALYs gained). Most concluded that the interventions were cost effective compared with standard of care, and 13 reported cost-saving results. Only three studies reported an incremental cost-efffectiveness ratio above $100,000 per QALY threshold. Cost effectiveness was observed in both general CKD and CKD with diabetes mellitus, although estimates varied by country, time horizon, and analytic perspective. CONCLUSIONS: Current evidence indicates that novel nephroprotective therapies for CKD are generally cost effective, and in some settings cost saving. These findings support their value in both general CKD and diabetic populations and highlight the importance of early treatment adoption to delay disease progression and reduce long-term healthcare costs.",
-            "abstract_zh": "背景：慢性肾脏病（CKD）是全球主要的发病率和死亡率原因。近期的肾脏保护治疗改善了CKD的管理，但它们在不同环境下的成本效益仍不确定。本综述系统地识别并比较了针对广泛CKD人群和疾病特定亚组的新CKD治疗的成本效益研究。方法：在PubMed和Cochrane图书馆中使用与“慢性肾脏病”、“成本效益”、“成本效用”、“健康技术评估”、“SGLT2抑制剂”以及自2013年以来批准的肾脏保护药物的商业和通用名称相关的术语进行系统搜索。符合条件的研究是2015年1月至2025年9月间发表的英文全文文章。提取了成本、质量调整生命年（QALYs）和增量成本效益比。所有货币价值均标准化为2025年美元。结果：搜索得到172条记录，其中26条符合纳入标准。补充搜索确定了10项额外研究，共36项评估。大多数研究评估了钠-葡萄糖共转运蛋白2抑制剂或finerenone。在评估中，这些治疗一致改善了结果，所有研究报告了QALY增益（0.012-1.44 QALYs增益）。大多数得出结论，与标准护理相比，这些干预措施是成本效益的，13项报告了成本节省结果。只有三项研究报告了每QALY阈值超过100,000美元的增量成本效益比。在一般CKD和糖尿病性CKD中均观察到成本效益，尽管估计值因国家、时间范围和分析视角而异。结论：当前证据表明，针对CKD的新肾脏保护治疗通常具有成本效益，在某些环境下节省成本。这些发现支持它们在一般CKD和糖尿病人群中的价值，并强调早期治疗采用的重要性，以延迟疾病进展并降低长期医疗成本。",
+            "title_en": "Correction: Ten Recommendations for Modelling Cost Effectiveness of Screening: Perspectives of an International Stakeholder Group",
+            "title_zh": "",
+            "url": "https://doi.org/10.1007/s40273-026-01627-y",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "What is the Value of Developing an HTA Process?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1007/s40273-026-01613-4",
+            "abstract_en": "Health technology assessment (HTA) processes are becoming increasingly established and embedded in healthcare decision making around the world. Yet, there is limited evidence on whether HTA processes at the system level offer value for money to those presiding over their creation, such as governments and ministries of health. That is, whether the value of improvements in the health system exceed the costs. To address this issue, we outline the approaches adopted in a sample of recent evaluations of HTA systems and propose a set of considerations for measuring and valuing HTA processes. The scale and remit of the process can help identify the relevant system-level impacts of HTA such as those on productive efficiency and population health, health equity, guiding innovation and care pathways, and broader impacts. We further describe the methodological challenges and potential approaches to evaluating HTA including the appropriateness of approaches. The considerations discussed can reveal the potential for ill-designed HTA processes to generate less social value than intended.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
               "医疗创新",
               "创新药"
             ]
           },
           {
-            "title_en": "Evaluating the Cost Effectiveness of Rapid Diagnostic Testing for the Identification of Pathogens and Resistance Genes in Bloodstream Infections",
-            "title_zh": "快速诊断检测在血流感染中识别病原体和耐药基因的成本效益评估",
-            "url": "https://doi.org/10.1007/s40273-026-01608-1",
-            "abstract_en": "Bloodstream infections (BSI) are a leading cause of mortality worldwide. Rapid detection of the causative pathogen can help optimise therapy, reduce mortality, curb antimicrobial resistance, and lower healthcare costs. This study evaluates the cost effectiveness of adding molecular rapid diagnostic tests (mRDTs) to microbiology standard-of-care (SoC) methods. mRDTs evaluated include the Cobas® Eplex blood culture identification (BCID) panels, BioFire BCID panel, BioFire BCID2 panel, Accelerate PhenoTest™ blood culture (BC) kit and Diasorin Verigene® BCID panels. A decision-tree model was built to quantify the incremental costs and outcomes associated with adding mRDTs to the SoC. The inputs were derived from the published literature. The analysis considered a population aged 65 years and 45% female, admitted to a United States (US) hospital with a suspected BSI. Model outcomes included costs, 30-day mortality, quality-adjusted life years (QALYs) and adverse events (Clostridioides difficile infection and acute kidney injury [AKI]). A United Kingdom (UK) setting in place of the US setting was also considered in the scenario analysis. A strategy involving the Cobas Eplex BCID panels as an adjunct test to the SoC dominated SoC alone without Cobas Eplex BCID panels, saving US$164 per patient and averting 24 deaths per 10,000 patients. Earlier optimisation of ineffective empiric therapy generated half of the lives saved, with the majority of the remainder from reductions in AKI. This strategy was also dominant compared with other mRDTs. In a UK setting, Cobas Eplex BCID panels remained cost effective, saving £51 compared with SoC. Results were robust to scenarios varying key model inputs including time to pathogen identification with SoC. The model demonstrated improved patient survival and reduced average total costs with mRDT. The Cobas Eplex BCID panels, which have the largest pathogen coverage, reduced both mortality and overall costs compared with other mRDTs. Bloodstream infections (BSI) are responsible for significant morbidity and mortality, causing 250,000 deaths each year in Europe and the United States (US) [1]. Rapid treatment with an effective antimicrobial is potentially one of the most important elements of care for patients with BSI, and patients are typically treated with two broad-spectrum antimicrobials rapidly (within an hour) if BSI is suspected. Conventional methods to identify the cause of the BSI require culturation of blood culture bottles followed by Gram stain and sub-culture onto solid agar plates to isolate individual colonies. Molecular rapid diagnostic tests (mRDTs) allow detection of a range of different pathogens causing BSIs within a few hours of a blood culture bottle flagging positive [2]. These tests offer the potential to improve care by reducing time to appropriate therapy, which in turn can save lives and lower costs. This analysis used a decision-tree model to evaluate the costs and benefits of adding mRDTs to conventional methods. The study finds that mRDTs save lives and generate lower overall costs compared with standard of care (SoC) methods alone. Among the mRDTs, the Cobas® Eplex BCID panels, which detect the broadest spectrum of pathogens, were associated with the highest reduction in mortality and overall costs compared with other mRDTs.",
+            "title_en": "The Economic Burden of Duchenne Muscular Dystrophy: A Systematic Review",
+            "title_zh": "",
+            "url": "https://doi.org/10.1007/s40273-026-01610-7",
+            "abstract_en": "OBJECTIVE: Duchenne muscular dystrophy (DMD) is a rare, progressive, severely disabling and ultimately fatal genetic neuromuscular disease requiring lifelong multidisciplinary clinical care and support. The objective of this study was to conduct a systematic review and synthesis of estimates of costs of illness of DMD. METHODS: In this systematic review (International Prospective Register of Systematic Reviews [PROSPERO] identifier: CRD420251153340), we searched PubMed, MEDLINE, Embase, the Health Technology Assessment Database, and the National Health Service Economic Evaluation Database for studies reporting costs of DMD. Risk of bias was assessed using the Newcastle-Ottawa scale. RESULTS: We identified 19 publications involving 6993 children and adults with DMD from 14 countries (Australia, Brazil, Bulgaria, Denmark, Egypt, France, Germany, Hungary, Italy, Portugal, Spain, Sweden, the UK, and the USA). Across studies and strata, the mean per-patient annual direct medical cost of illness (in 2025 international US dollars) was estimated at between $2620 and $209,980, the mean per-patient annual direct nonmedical cost between $5670 and $103,800, and the mean per-patient annual indirect (productivity) cost between $400 and $48,390. Most studies exhibited some risk of bias. CONCLUSIONS: DMD is associated with a substantial economic burden related to the formal disease management, as well as extensive informal care and indirect (productivity) costs shouldered by parents and other nonprofessional caregivers. Although relatively well-captured for a few countries, comprehensive cost data are lacking for many geographical settings. Our portfolio of costs of DMD will help inform assessments of burden of illness, health technology evaluations of new therapies, and data gap analyses for future research.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
+              "医疗创新",
               "创新药"
             ]
           },
           {
-            "title_en": "Cost-Effectiveness of Immunising Interventions to Reduce Respiratory Syncytial Virus Disease Burden in Infants in Australia",
-            "title_zh": "澳大利亚婴儿减少呼吸道合胞病毒疾病负担的免疫干预措施的成本效益",
-            "url": "https://doi.org/10.1007/s40273-026-01601-8",
-            "abstract_en": "Two immunising products are emerging to prevent the burden of respiratory syncytial virus (RSV) in infants: long-lasting monoclonal antibodies (mAbs) and maternal vaccines given during pregnancy (MV). This study assesses the potential cost-effectiveness of programs involving each product to help inform policy decisions related to their implementation in the Australian context. We developed an individual-based dynamic transmission model of RSV infection, linked to a clinical pathways model and cost-effectiveness model. We modelled key scenarios exploring varying eligibility and coverage of immunisation products for at-risk and not-at-risk populations, in addition to sensitivity analyses of immunisation characteristics, program costs and the impact of potential under-ascertainment of RSV burden. We estimated the cost-effectiveness of each program from a health system perspective, with results presented as incremental cost-effectiveness ratios in terms of cost per quality-adjusted life year gained (QALY). We found a combined program in which administration of MV during pregnancy is supplemented with a birth-dose of mAbs for newborns born without protection from MV is likely to be cost-saving, compared with the status quo of no MV or mAbs delivered. This program averted on average 41% of infant hospitalisations per year and reduced QALY losses by 33%. Programs combining infant immunisation products are likely to significantly reduce the burden of RSV disease in Australia, and be cost-saving. However, their estimated impact and cost-effectiveness is strongly dependent on key assumptions (i) the consistency and completeness of ascertainment of disease burden over time; (ii) the cost of a hospitalisation and immunising dose; (iii) the efficacy and durability of protection of the modelled products; and (iv) the timing and coverage of the immunisation delivery. Respiratory syncytial virus in infants causes significant disease burden in Australia and worldwide. Multiple immunising products are emerging—vaccines given during pregnancy to protect the newborn, and long-lasting monoclonal antibodies given to infants—but it is uncertain what the impact of these products will be at a population level. We found, using an individual-based model, that a combined program of products is likely to be cost-saving from a health system perspective.",
-            "abstract_zh": "两种免疫产品正在出现，以预防婴儿呼吸道合胞病毒（RSV）的负担：持久的单克隆抗体（mAbs）和怀孕期间给予的母体疫苗（MV）。本研究评估了涉及每种产品的计划的潜在成本效益，以帮助通知与它们在澳大利亚背景下实施相关的政策决策。我们开发了一个基于个体的RSV感染动态传播模型，与临床路径模型和成本效益模型相连。我们模拟了关键场景，探索了针对有风险和无风险人群的免疫产品的不同资格和覆盖范围，以及对免疫特征、计划成本和潜在的RSV负担低估影响的敏感性分析。我们从卫生系统的角度估计了每个计划的成本效益，结果以每增加一个质量调整生命年（QALY）的成本增量成本效益比（ICER）呈现。我们发现，与没有MV或mAbs交付的现状相比，一个结合计划，即在怀孕期间给予MV，并为没有MV保护的新生儿补充出生剂量的mAbs，可能是节省成本的。该计划平均每年避免了41%的婴儿住院，并减少了33%的QALY损失。结合婴儿免疫产品的计划可能会显著减少澳大利亚的RSV疾病负担，并且节省成本。然而，它们估计的影响和成本效益强烈依赖于关键假设：（i）随时间确定疾病负担的一致性和完整性；（ii）住院和免疫剂量的成本；（iii）模型产品保护的有效性和持久性；以及（iv）免疫交付的时机和覆盖范围。婴儿的呼吸道合胞病毒在澳大利亚和全球都造成了重大的疾病负担。多种免疫产品正在出现——怀孕期间给予的疫苗以保护新生儿，以及给予婴儿的持久单克隆抗体——但这些产品在人口层面上的影响尚不确定。我们发现，使用基于个体的模型，结合产品的计划可能从卫生系统的角度节省成本。",
+            "title_en": "Economic Evaluation of Pre-emptive Pharmacogenetic Panel Testing versus No Genetic Testing in a Multi-ethnic Asian Population",
+            "title_zh": "",
+            "url": "https://doi.org/10.1007/s40273-026-01586-4",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医药产业"
+            ]
+          },
+          {
+            "title_en": "The Cost Utility of Rhythm Control Treatment Sequences in Patients with Atrial Fibrillation: Anti-arrhythmic Drugs Versus Catheter Ablation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1007/s40273-026-01604-5",
+            "abstract_en": "BACKGROUND AND OBJECTIVE: Despite evidence on the cost effectiveness of catheter ablation (CA) as a rhythm control strategy in patients with atrial fibrillation, CAs form a substantial share of medical resource consumption, raising questions about optimal timing and maximum CAs per patient. This study addresses these questions using a newly developed open source model integrating observational and clinical trial data. The objective was to estimate the cost effectiveness of rhythm control strategies including anti-arrhythmic drugs (AADs) and/or CA in different sequences from a societal perspective in the Netherlands. METHODS: Time to atrial fibrillation symptom recurrence after a CA was estimated using parametric survival functions estimated on health insurance data (n = 24,286). Relative efficacy of CAs versus AADs was derived from meta-analyses, accounting for previous treatment exposure. Six treatment lines were modeled, incorporating AADs and CAs as rhythm control strategies. Medical and societal costs were included and the model had a lifetime time horizon. Model results were generated in 2024 Euros using Dutch input data with a cost-per-quality-adjusted life-year threshold of €20,000. For the probabilistic sensitivity analyses, we simultaneously varied all parameters across 1000 model runs with 5000 patients each. RESULTS: Treatment sequences including at least one CA were cost effective compared with only AADs. Catheter ablation costs are counterbalanced by reduced medical resource consumption in the years following CA. 51.6% of patients with first-line CA remain symptom free over a lifetime versus 6.9% with AADs. The most cost-effective strategy starts with CA, manages atrial fibrillation recurrences with AADs, and uses a maximum of three repeat ablations. CONCLUSIONS: Our model suggests that rhythm control with at least one CA is cost effective compared with only AADs in patients with atrial fibrillation requiring rhythm control. Within shared decision making, first-line CA, followed by AADs to manage atrial fibrillation recurrences, with a maximum of three repeat ablations, represents the most cost-effective strategy for patients with symptomatic atrial fibrillation requiring rhythm control.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Public Health Impact and Cost-Effectiveness of Revising the Adolescent Meningococcal Vaccine Schedule in the United States",
-            "title_zh": "美国青少年脑膜炎球菌疫苗接种时间表修订的公共卫生影响及成本效益",
-            "url": "https://doi.org/10.1007/s40273-026-01599-z",
-            "abstract_en": "BACKGROUND: In 2025, invasive meningococcal disease (IMD) vaccination in United States (US) adolescents consisted of two standard of care (SoC) schedules: Q-Q-B-B (routine MenACWY [Q] at ages 11 and 16 years; MenB [B] under shared clinical decision-making [SCDM] at age 16 years and 6 months later) or Q-P-B (routine MenACWY at ages 11 and 16 years; MenABCWY [P] at age 16 years and MenB under SCDM 6 months later). We assessed public health impact (PHI) and cost-effectiveness (CE) of intervention strategies on the basis of potential implementation options and revisions to the adolescent meningococcal vaccine schedule proposed in June 2024 by the Centers for Disease Control and Prevention's Advisory Committee on Immunization Practices. METHODS: A model utilizing epidemiological and economic inputs compared projected outcomes for 27 intervention strategies (distinguished by vaccine type [Q, P, and/or B], recommendation type [routine, risk-based], and dosing interval for MenB-containing vaccines [0,6-month , 0,24-month]) versus no vaccination or SoC over 15 years (2025-2039). Discounted outcomes (societal perspective) included IMD cases, deaths, and quality-adjusted life-year losses averted; total direct and indirect costs; and incremental CE ratios. RESULTS: Retaining routine MenACWY at age 11-12 years and including routine or risk-based MenB-containing vaccines at age 16 years improved PHI versus SoC, particularly with 0,6-month dosing interval for MenB-containing vaccines. Five strategies incorporating MenABCWY improved PHI and were cost-saving versus SoC: Q-Q-B-B. CONCLUSIONS: Adolescent meningococcal vaccine schedule revisions retaining routine MenACWY and incorporating risk-based or routine MenABCWY may increase PHI in a cost-effective manner, minimizing the humanistic and economic burden of IMD.",
-            "abstract_zh": "背景：到2025年，美国青少年侵袭性脑膜炎球菌病（IMD）疫苗接种包括两种标准护理（SoC）时间表：Q-Q-B-B（11岁和16岁时常规接种MenACWY[Q]；16岁和6个月后根据共享临床决策制定（SCDM）接种MenB[B]）或Q-P-B（11岁和16岁时常规接种MenACWY；16岁时接种MenABCWY[P]，6个月后根据SCDM接种MenB）。我们根据疾病控制和预防中心免疫实践咨询委员会在2024年6月提出的青少年脑膜炎球菌疫苗接种时间表的潜在实施选项和修订，评估了干预策略的公共卫生影响（PHI）和成本效益（CE）。方法：一个利用流行病学和经济输入的模型比较了27种干预策略（根据疫苗类型[Q、P和/或B]、推荐类型[常规、基于风险]以及含MenB疫苗的剂量间隔[0,6个月，0,24个月]）与不接种疫苗或SoC在15年（2025-2039）内的预期结果。折现结果（社会视角）包括避免的IMD病例、死亡和质量调整寿命年损失；总直接和间接成本；以及增量CE比率。结果：保留11-12岁常规接种MenACWY，并在16岁时包括常规或基于风险的含MenB疫苗，与SoC相比提高了PHI，特别是对于含MenB疫苗的0,6个月剂量间隔。五种包含MenABCWY的策略提高了PHI，并且与SoC相比节省了成本：Q-Q-B-B。结论：保留常规MenACWY并纳入基于风险或常规MenABCWY的青少年脑膜炎球菌疫苗接种时间表修订，可能以成本效益的方式增加PHI，最小化IMD的人道和经济负担。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Component Clinical and Cost Outcomes Complementing Value of Information: Case Study of a Tuberculosis Diagnostics Clinical Trial",
-            "title_zh": "组件临床和成本结果补充信息价值：结核病诊断临床试验案例研究",
-            "url": "https://doi.org/10.1007/s40273-026-01595-3",
-            "abstract_en": "PURPOSE: Conventional value-of-information (VOI) analysis bases decisions on a composite cost-effectiveness measure that aggregates clinical and cost outcomes. We sought to highlight potentially informative tradeoffs by estimating and reporting the \"disaggregated\" components, allowing stakeholders-such as clinicians, patients, trial funders, policymakers, and trial networks-to identify what drives the value of additional research. METHODS: We used a microsimulation to project the value of a hypothetical trial comparing mortality associated with different tuberculosis screening strategies among hospitalized patients with human immunodeficiency virus (HIV) in South Africa. Apart from expressing VOI as conventional, \"aggregated\" net monetary benefit (NMB), we assessed \"disaggregated\" outcomes that contribute to NMB calculations: tuberculosis cases detected, deaths, life-years, and healthcare costs associated with trial-informed decisions. We varied key parameters in probabilistic sensitivity analysis. We considered two willingness-to-pay thresholds: US $3000/year of life saved (YLS) (~50% of South Africa's per-capita gross domestic product [GDP]); and $780/YLS, the willingness-to-pay value where decision uncertainty is highest, per the baseline analysis. RESULTS: At willingness to pay = $3000/YLS, implementing the post-trial optimal strategy would produce favorable incremental NMB ($654.3 million) and better clinical outcomes (57,000 additional tuberculosis cases detected, 16,000 fewer deaths, and 294,000 more life-years), but it would incur an additional $37.4 million in healthcare costs over 5 years. At willingness to pay = $780/YLS, implementing the post-trial optimal strategy would yield positive incremental NMB of $2.5 million while lowering healthcare costs by $11 million, but it would produce worse clinical outcomes: 18,000 fewer tuberculosis cases detected, 6,000 additional deaths, and 80,000 fewer life-years. CONCLUSIONS: Though a trial may yield positive NMB in conventional VOI analysis owing to expected cost savings, some clinical outcomes might be unfavorable. To better inform priorities, VOI studies should include disaggregated outcomes alongside aggregated NMB.",
-            "abstract_zh": "目的：传统的价值信息（VOI）分析基于一个综合的成本效益度量来做出决策，该度量聚合了临床和成本结果。我们试图通过估算和报告“分解”的组成部分来突出可能的信息权衡，使利益相关者（如临床医生、患者、试验资助者、政策制定者和试验网络）能够识别额外研究的价值驱动因素。方法：我们使用微观模拟来预测一个假设试验的价值，该试验比较了在南非住院的人类免疫缺陷病毒（HIV）患者中，不同结核病筛查策略相关的死亡率。除了将VOI表示为传统的“聚合”净货币效益（NMB）外，我们还评估了对NMB计算有贡献的“分解”结果：检测到的结核病例、死亡、寿命年和与试验知情决策相关的医疗成本。我们在概率敏感性分析中变化了关键参数。我们考虑了两个支付意愿阈值：美国3000美元/年的寿命拯救（YLS）（约南非人均国内生产总值[GDP]的50%）；和780美元/YLS，这是基线分析中决策不确定性最高的支付意愿值。结果：在支付意愿=3000美元/YLS时，实施试验后的最佳策略将产生有利的增量NMB（6.543亿美元）和更好的临床结果（额外检测到57,000例结核病例，减少16,000例死亡，增加294,000寿命年），但它将在5年内增加3740万美元的医疗成本。在支付意愿=780美元/YLS时，实施试验后的最佳策略将产生正的增量NMB250万美元，同时降低1100万美元的医疗成本，但它将产生更差的临床结果：少检测到18,000例结核病例，增加6,000例死亡，减少80,000寿命年。结论：尽管试验可能因预期的成本节省而在传统的VOI分析中产生正的NMB，但一些临床结果可能是不利的。为了更好地通知优先事项，VOI研究应包括与聚合NMB一起的分解结果。",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "From Paper to Platform: Updating the Dutch Costing Manual and Launching a Web Application",
-            "title_zh": "从纸张到平台：更新荷兰成本手册并推出网络应用程序",
-            "url": "https://doi.org/10.1007/s40273-026-01590-8",
-            "abstract_en": "BACKGROUND AND OBJECTIVE: The Dutch costing manual, part of the national guideline for economic evaluations, provides reference prices and standardized cost calculation methods to ensure transparency and comparability. Since its last update in 2015, new evidence, updated cost data, and user needs prompted an updated version to reflect current best practices and expand scope. The aim of this article is to present the update of the costing manual and the introduction of the web application facilitating regular updates. METHODS: The update of the costing manual followed a three-step approach. First, improvement needs were identified by user surveys and experts. Secondly, methodological guidance was revised using recent literature, national data sources, and expert input. Thirdly, the reference prices were updated. In parallel, a technical web application was developed and tested to facilitate ongoing digital access and regular updates. RESULTS: The updated costing manual consists of revised and updated references prices, including expanded intersectoral reference prices (e.g., education and justice). Clearer methodological guidance and improved transparency were established. Testing showed that the web-based application was intuitive to use and accurately reproduced reference prices consistent with the updated costing manual. CONCLUSIONS: The costing manual was updated in line with the recent guidelines for economic evaluations. The manual is a comprehensive manual for use in costing studies for economic evaluations in healthcare from a societal perspective. The web-based application translated the costing manual into a practical digital tool, automating cost calculations and demonstrated usability, accuracy, and consistency with the manual.",
-            "abstract_zh": "背景与目的：荷兰成本手册是国家经济评估指南的一部分，提供参考价格和标准化成本计算方法，以确保透明度和可比性。自2015年上次更新以来，新的证据、更新的成本数据和用户需求促使更新版本以反映当前最佳实践并扩大范围。本文的目的是介绍成本手册的更新和引入网络应用程序以促进定期更新。方法：成本手册的更新遵循了三步方法。首先，通过用户调查和专家确定改进需求。其次，使用最新文献、国家数据源和专家意见修订方法指导。第三，更新参考价格。同时，开发并测试了一个技术网络应用程序，以促进持续的数字访问和定期更新。结果：更新后的成本手册包括修订和更新的参考价格，包括扩大的跨部门参考价格（例如，教育和司法）。建立了更清晰的方法指导和提高透明度。测试表明，基于网络的应用程序易于使用，并准确再现了与更新后的成本手册一致的参考价格。结论：成本手册根据最新的经济评估指南进行了更新。该手册是一个全面的手册，用于从社会角度进行卫生保健经济评估的成本研究。基于网络的应用程序将成本手册转化为实用的数字工具，自动化成本计算，并展示了可用性、准确性和与手册的一致性。",
+            "title_en": "Ten Recommendations for Modelling Cost Effectiveness of Screening: Perspectives of an International Stakeholder Group",
+            "title_zh": "",
+            "url": "https://doi.org/10.1007/s40273-026-01602-7",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
@@ -2088,131 +2142,49 @@
         "query_name": "Value in Health",
         "issn": "1098-3015",
         "resolved_name": "Value in Health",
-        "issue_title": "Volume 29, Issue 6",
+        "issue_title": "Volume 29, Issue 7",
         "issue_url": "https://www.valueinhealthjournal.com/",
-        "matched_count": 12,
-        "total_in_issue": 27,
+        "matched_count": 4,
+        "total_in_issue": 28,
         "papers": [
           {
-            "title_en": "Advances in Methods and Measures for Equity-Informative Evaluations",
+            "title_en": "Transparency, Repricing, and Price Convergence in Cancer Care",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.04.004",
-            "abstract_en": "You may struggle to find anyone who would disagree with the notion that equity is a fundamental component of value in health and healthcare. However, ask people to define exactly what fairness means and how we might operationalize it in research to support our health systems, and you may equally struggle. Although economic evaluation is widely used to support resource allocation in health, work continues to develop methods and applications of equity-informative evaluation. The articles in this Value in Health themed section illustrate a range of methodological issues and novel approaches being developed to facilitate the application of distributional analysis for economic evaluation.",
+            "url": "https://doi.org/10.1016/j.jval.2026.01.002",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Health Economic Evaluations Alongside Adaptive Platform Trials: A Systematic Review",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.03.001",
+            "abstract_en": "OBJECTIVES: Adaptive platform trials (APTs) present an unprecedented opportunity to enhance clinical trial efficiency and accelerate decision making. Limited evidence exists on how health economic evaluation studies are planned or conducted alongside APTs for translation and resource allocation. This review aims to identify and synthesize published evidence on the planning and conduct of economic evaluations (EEs) alongside the flexible APT design. METHODS: Eligible trials were identified from electronic bibliographic databases, clinical trial registries, and other sources - MEDLINE, Embase, Cochrane Trials, EconLit, CINAHL, Web of Science, Scopus, ClinicalTrials.gov, ANZCTR, the World Health Organization's ICTRP, reviews, and trial alliances up to November 2024. APTs with EE analysis planned or conducted, and accessible core protocols, were included. Information was extracted from protocols and health economic analysis plans. EE methods were narratively synthesized, with strengths and limitations appraised. RESULTS: Seventeen APTs mentioned plans to embed EEs, among which 15 (14%; n = 104) had EE results published or core protocols accessible. The EEs were primarily designed as secondary objectives or outcomes of APTs, with methods centrally planned for individual domains within the platform. Efficient use of long-term data collection methods was observed. None planned to conduct EE during interim analysis. Value of information analysis was conducted in one and planned within another APT to inform value of future research. CONCLUSIONS: Almost 1 in 5 APTs embedded EE plans. APTs utilize health economics methods to achieve outcomes beyond cost-effectiveness results, such as research resource prioritization and data collection. Platform-level, centrally planned EE methods were observed, indicating a focus on methodological efficiency.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Value-Based Pricing of Health Services With Health Equity Considerations",
+            "title_en": "Healthcare Utilization Among Older Adults With Dementia in France: A Comparative Analysis of a Dementia Village and Traditional Nursing Homes",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2025.12.014",
-            "abstract_en": "OBJECTIVES: Many health systems aim to reduce health inequalities. Reimbursement mechanisms for healthcare providers, including pay-for-performance, are common policy levers to align provider behavior with health systems objectives. We develop a methodology to incorporate equity concerns into value-based pricing in the English National Health Service. We focus on socioeconomic inequalities in health measured by deprivation quintiles. We show how changes in the design of a national pay-for-performance scheme in primary care, the Quality Outcome Framework, can be evaluated in terms of their effects on the level and distribution of health across socioeconomic status. METHODS: After developing our theoretical framework, which is based on Distributional Cost-Effectiveness Analysis and contract theory, we calibrate a model of physician behavior using information on costs and health benefits of different incentivized activities, achievement rates, and supply responsiveness to prices. We evaluate the effect of hypothetical 20% increases in price of 1 incentivized activity, which is financed by a reduction in another price to retain budget neutrality. Trade-offs between efficiency and socioeconomic inequalities in health are evaluated using the Equally Distributed Equivalent level of health. RESULTS: We illustrate our methodology using 3 scenarios: changes in prices for 2 incentivized activities for the same health condition (diabetes), different health conditions (diabetes and chronic obstructive pulmonary disease), and across socioeconomic groups within the same activity (flu vaccination for diabetes patients). CONCLUSIONS: Our analysis illustrates how inequality aversion can be incorporated into value-based pricing when assessing the effect of financial incentives on the health distribution across socioeconomic groups.",
+            "url": "https://doi.org/10.1016/j.jval.2026.02.011",
+            "abstract_en": "OBJECTIVES: The Dementia Village model is emerging as an alternative to traditional nursing homes (NHs) for individuals with Alzheimer's disease and related dementias. This study evaluates the impact of the French Dementia Village, Village Landais Alzheimer Henri Emmanuelli (VLAHE), on healthcare utilization among older adults with dementia. METHODS: This study uses an indirect comparative cohort design using data from 2 sources: a longitudinal observational study of VLAHE residents and an ad hoc cohort from the French Nationwide claims database of NH residents. To improve comparability, the Matching-Adjusted Indirect Comparison method was applied. Weighted statistical tests and logistic regression models were used, yielding odds ratios with 95% confidence intervals. The outcomes analyzed include hospital admission rates, hospital stay duration, mortality, and place of death over a 2-year follow-up period between January 2021 and December 2022. RESULTS: VLAHE residents had fewer hospitalizations and shorter stays (10.5 vs 15.2 days, P = .0004) than comparable NH residents, particularly for acute care. Quarterly hospitalization rates were consistently lower (6.4% vs 11.1%), whereas no significant differences were found for psychiatric or rehabilitation stays. Fewer VLAHE residents died in hospital (9% vs 31%), suggesting improved end-of-life care (OR: 5.75, 95% CI [1.75-18.90]). CONCLUSIONS: The VLAHE model may reduce hospitalizations and enhance end-of-life care through a structured, patient-centered approach. However, because of a potential residual clinical difference between groups and limitations of the matching method, further longitudinal research is needed to confirm its effectiveness.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
-              "产业经济",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Unintended Consequences of Expanded Magnetic Resonance Imaging Reimbursement: A Nationwide Analysis Revealing Low Clinical Efficiency",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.01.017",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
               "医药产业"
-            ]
-          },
-          {
-            "title_en": "A Systematic Review of Elicitation Methods for Distributional Preferences in Healthcare Regarding the Concentration and Dispersion of Health Benefits",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.03.012",
-            "abstract_en": "OBJECTIVES: In conventional quality-adjusted life-year maximization, each unit of health is valued equally. It overlooks distributional preferences, such as whether health improvements should be concentrated on a smaller number of individuals or dispersed across a larger population. It is plausible that these preferences follow an S-shaped pattern, in which marginal social value of health gains initially increases before diminishing after a threshold. This review aims to identify and evaluate the methods used in empirical studies to elicit S-shaped preferences. METHODS: Searches were conducted in PubMed, PsycINFO, and EconLit in August 2024 and October 2025, with 1 round of citation chasing for 4 key articles. Studies were included if they elicited preferences on concentration and dispersion of health gains among otherwise identical individuals. Data synthesis was conducted narratively. RESULTS: Thirteen studies published between 1994 and 2025 were included, collectively involving 6799 participants. All studies used a Person Trade-Off (PTO) approach, but 2 also used Time Trade-off. Five key methodological themes emerged: whether health gains should be measured in life-years or health-related quality of life, the threshold between concentration and dispersion, perspective, framing effects, and specification of the social welfare functions. CONCLUSIONS: This review highlights methodological challenges associated with eliciting preferences for concentration and dispersion. Although there is a consensus on the use of PTO, other heterogeneity such as pool size or perspective and sparse evidence on the threshold effect warrants further research.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Health Utilities and Disutilities Associated With Complications of Type 1 Diabetes: A Systematic Review and Recommendations for Health Economic Models",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.01.011",
-            "abstract_en": "OBJECTIVES: Health economic models for type 1 diabetes (T1D) typically require utilities or disutilities associated with diabetes-related complications. We conducted a systematic review of studies reporting utilities and disutilities associated with T1D-related complications and assessed their methodological quality to identify a set of preferred disutilities. METHODS: We searched 6 databases from inception to 30 April 2024. Data were extracted on study design, participant characteristics, complications, utility measurement methods, and reported values. Study quality was assessed based on sample size, population representativeness, appropriateness of the value sets, and statistical methods. Preferred disutilities for economic evaluations were selected from higher-quality studies. RESULTS: From the 14 122 records identified, 25 were included for data extraction. Most studies identified complications via self-reporting (n = 12) or clinical assessment (n = 9). Of 22 studies analyzing health utilities derived from multiattribute utility instruments, only 8 used value sets from the same countries as the study cohorts, and 14 did not report the value sets used. We derived disutilities for 66 complications/conditions. Fifteen studies used statistical models to estimate disutilities for 44 complications. Disutilities for several complications varied widely, eg, stroke (-0.470 to -0.015), end-stage renal disease (-0.340 to -0.021), and diabetic neuropathy (-0.358 to -0.045). Quality assessment yielded preferred disutilities for 26 complications. CONCLUSIONS: This review provides a comprehensive database of utilities and disutilities for T1D complications and a recommended set of disutilities for economic evaluations. Because of methodological and patient heterogeneity, these values should be used cautiously, with careful alignment between modeled health states and source study characteristics.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Validity, Reliability, and Framing Effects in Equity-Efficiency Trade-Off Studies: A Systematic Review",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2025.11.002",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Dominance-Based Distributional Cost-Effectiveness Analysis of Cardiovascular Disease Risk Screening in Sri Lanka",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2025.09.3062",
-            "abstract_en": "OBJECTIVES: Screening for cardiovascular disease (CVD) risk is potentially cost-effective; however, its net health impact by socioeconomic status (SES) likely depends on (1) who is screened, (2) the socioeconomic profile of risk factors, and (3) the criteria for prescribing preventive medication. We conducted a dominance-based distributional cost-effectiveness analysis of CVD risk screening strategies in Sri Lanka to compare their equity-efficiency trade-offs. METHODS: Using nationally representative data, we modeled 4 strategies of opportunistic CVD risk screening at public outpatient clinics and the current screening program (comparator). We measured SES with an assets index. For each strategy, we simulated costs, quality-adjusted life-years (QALYs) and the distribution of QALYs net of health opportunity costs by SES. Assuming aversion to pro-rich inequality, we used generalized concentration curve dominance to rank these distributions and calculated equally distributed equivalent net QALYs for each. RESULTS: The most cost-effective (lowest incremental cost-effectiveness ratio) strategy was opportunistic (vs invited) screening at age ≥ 40 (vs ≥35) with statins prescribed at CVD risk ≥10% (vs ≥20%) and antihypertensives at blood pressure ≥130/80 mm Hg (vs ≥140/90) for those risks and people with diabetes. Given net QALYs generated by SES and aversion to pro-rich inequality, this strategy dominated all others (except one), and it generated more equally distributed equivalent net QALYs. This strategy dominated another with a similar incremental cost-effectiveness ratio that added statins for people with diabetes. CONCLUSIONS: Dominance-based distributional cost-effectiveness analysis identified modifications to CVD risk screening in Sri Lanka that would likely improve equity while remaining efficient.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "The Inequality-Adjusted Incremental Cost-Effectiveness Ratio",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.03.2236",
-            "abstract_en": "OBJECTIVES: To adjust the incremental cost-effectiveness ratio (ICER) to capture trade-offs between maximization of total health and impact on social inequality in health. METHODS: We used equity weights derived from a social welfare function to calculate an inequality-adjusted ICER, both indirectly and directly. We demonstrated equivalence of decision rules based on the inequality-adjusted ICER and equity-weighted net health benefit. We defined a health inequality modifier (HIM) to the cost-effectiveness threshold-the ratio of the ICER to the inequality-adjusted ICER-and illustrated its application to hypothetical treatments for 1336 diseases in England. We used hospital admissions to estimate disease prevalence and health benefits by 5 social deprivation groups, assumed no social gradient in health opportunity costs and examined \"high,\" \"medium,\" and \"low\" health inequality aversion scenarios based on UK general public sample estimates. RESULTS: Assuming medium inequality aversion, the interpercentile HIM range was 0.96 to 1.18, indicating that inequality adjustment would reduce the threshold by 4% at the bottom percentile and increase it by 18% at the top percentile of diseases. The threshold was reduced by at least 10% for only 2 of 1336 (0.15%) diseases and raised by at least 10% for 142 of 1336 (10.6%). High inequality aversion widened the interpercentile HIM range to 0.93 to 1.31. CONCLUSIONS: Use of the inequality-adjusted ICER would effectively modify the cost-effectiveness threshold to consider health inequality impact. In England, the modification would rarely exceed 30%, even assuming high inequality aversion, but could exceed 10% for about one-tenth of diseases assuming medium aversion.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Minimally Important Differences for Preference-Weighted Health Measurement Scales: There Is Nothing Mystical About Them",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.01.005",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "An Overdue Denunciation of the Minimal Important Difference When Applied to Health State Values",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.01.003",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Development and Pretesting of the Children and Young People’s Time-Use Questionnaire for Use in Economic Evaluation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2025.12.018",
-            "abstract_en": "OBJECTIVES: Patients' time spent receiving care incurs an opportunity cost, which ought to be considered when conducting an economic evaluation from a societal perspective. Instruments for capturing time-related costs are presently lacking, especially for children and young people (CYP). To address this gap, we developed and pretested the Children and Young People's Time-Use Questionnaire for use in Economic Evaluation (CYP-TUQEE), producing versions for direct completion by CYP aged 11 to 17 years, and proxy completion by parents/carers of CYP aged up to 10 years. METHODS: The CYP-TUQEE was developed using an iterative process involving scoping reviews, consultation with a Working Group of experts, and pretesting through think-aloud interviews with 20 CYP and 9 parents/carers. This process aimed to produce a comprehensive, adaptable questionnaire that is not onerous to complete by CYP or parents/carers within the target age ranges. RESULTS: Participants engaged well with the think-aloud process and provided feedback to inform the development of a novel, standardized instrument to facilitate the collection and inclusion of resource- and time-use data for pediatric economic evaluations. Feedback indicates that the CYP-TUQEE is easy to complete, clear, and ready for additional validation. CONCLUSIONS: The CYP-TUQEE addresses a prominent gap by providing an accessible tool for resource-use and time-use data collection, tailored to CYP. Inclusion of patient time costs can assist in decision making and ensure prioritization of interventions respectful of patients' time. Future research will involve additional testing of the CYP-TUQEE in a real-world setting for further validation and refinement, and elicitation of a value ('unit cost') for CYP's time.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Strengthening Methods and International Evidence on Health Inequality Aversion",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2025.11.006",
-            "abstract_en": "OBJECTIVES: This article summarizes areas of methodological agreement about health inequality aversion and proposes a research agenda to strengthen methods and international evidence to inform priority setting. METHODS: This article arises from a workshop in November 2024 that brought together methodologists and applied researchers fr12 countries, including ethicists, physicians, epidemiologists, and health economists. The workshop comprised methods and research application presentations culminating in a guided discussion to gain consensus on methods and research agenda. RESULTS: Participants agreed that (1) the magnitude of health inequality aversion may depend on the concept of inequality used; (2) both the concept and magnitude of aversion may vary by decision-making context; (3) pre-existing preferences are often incomplete or internally inconsistent; (4) comparisons across broad ordinal categories of inequality aversion are more robust than point estimates; (5) underlying social value judgments should be clearly communicated to decision makers and the public; (6) health inequality aversion is relevant across a wide range of social decisions; and (7) an international database of estimates would facilitate data sharing and comparability. The proposed research agenda prioritizes investigation into (1) the nature and shape of inequality aversion; (2) how the choice of health measure influences responses; (3) interactions among multiple dimensions of social disadvantage; (4) cultural variation in the understanding of health inequality; (5) reasons underpinning quantitative responses; (6) framing effects; and (7) the validity and representativeness of elicited preferences. CONCLUSIONS: There are substantial opportunities to advance methods so that estimates of health inequality aversion can routinely inform decision making. Progress will require interdisciplinary collaboration beyond health economics, medicine, and ethics, drawing on disciplines such as political science, psychology, and sociology, and application across a wider range of settings.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Designing and Implementing Real-World Patient-Reported Outcomes—Emerging Recommendations: A Good Practices Report of an ISPOR Task Force",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.02.018",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
             ]
           }
         ],
