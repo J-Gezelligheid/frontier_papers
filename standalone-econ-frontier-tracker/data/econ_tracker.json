@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-05 07:39:19",
+  "updated_at": "2026-07-12 07:23:49",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 213,
+    "fail_count": 281,
     "failed_examples": [
       "Understanding High-Wage Firms: Monopoly, Monopsony, and Bargaining Power :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "I study how firm market power and worker bargaining power shape wages and welfar :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
@@ -234,16 +234,6 @@
             ]
           },
           {
-            "title_en": "A Welfare Analysis of Policies Impacting Climate Change",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20250166",
-            "abstract_en": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
             "title_en": "Monetary Policy without Commitment",
             "title_zh": "",
             "url": "https://doi.org/10.1257/aer.20241925",
@@ -251,6 +241,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
+            ]
+          },
+          {
+            "title_en": "A Welfare Analysis of Policies Impacting Climate Change",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20250166",
+            "abstract_en": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
             ]
           },
           {
@@ -282,79 +282,99 @@
         "query_name": "Quarterly Journal of Economics",
         "issn": "0033-5533",
         "resolved_name": "The Quarterly Journal of Economics",
-        "issue_title": "Volume 141, Issue 2",
+        "issue_title": "Volume 141, Issue 3",
         "issue_url": "https://academic.oup.com/qje",
-        "matched_count": 7,
-        "total_in_issue": 16,
+        "matched_count": 9,
+        "total_in_issue": 15,
         "papers": [
           {
-            "title_en": "Trust and Innovation Within the Firm: Evidence from Matched CEO-Firm Data",
-            "title_zh": "企业内部信任与创新：基于匹配的CEO-企业数据的证据",
-            "url": "https://doi.org/10.1093/qje/qjag013",
-            "abstract_en": "Abstract This article shows that a CEO’s trust enhances innovation within a firm, providing a novel micro-foundation for the well-known trust-growth relationship. I build a new matched CEO-firm-patent data set covering 5,753 CEOs in 3,598 U.S. public firms and 700,000 patents during 2000–2011. I exploit variation in generalized trust across CEO ethnic origins, inferred from their last names using deanonymized historical censuses. Following CEO turnovers, a one standard deviation increase in a CEO’s generalized trust is associated with 6% more future patents and 4%–6% higher average patent quality, driven entirely by higher-quality patents. Text analysis of employee reviews shows that the CEO’s trust enhances a firm’s trust culture. These results are consistent with insights from qualitative interviews suggesting that the CEO's trust and the firm’s trust culture encourage researchers to undertake high-risk explorative research and development. In addition, changes in the CEO’s bilateral trust toward inventors in different countries have comparable effects on inventors’ patenting, controlling for CEO and other fixed effects.",
-            "abstract_zh": "摘要 本文表明，首席执行官（CEO）的信任能够增强公司内部的创新，为广为人知的信任-增长关系提供了一个新的微观基础。我构建了一个新的匹配的CEO-公司-专利数据集，涵盖了2000-2011年间美国3598家上市公司的5753位CEO和70万项专利。我利用CEO族裔起源中普遍信任的变化，这些变化是从他们的姓氏中推断出来的，使用的是去匿名化的历史人口普查数据。在CEO更迭之后，CEO的普遍信任每增加一个标准差，与未来专利数量增加6%和平均专利质量提高4%-6%相关，这完全是由更高质量的专利所驱动的。对员工评价的文本分析显示，CEO的信任增强了公司的信任文化。这些结果与定性访谈的见解一致，表明CEO的信任和公司的信任文化鼓励研究人员进行高风险的探索性研究与开发。此外，在控制CEO和其他固定效应的情况下，CEO对不同国家发明家的双边信任变化对发明家的专利申请有类似的影响。",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Monetary Policy and Sovereign Risk in Emerging Economies (NK-Default)",
-            "title_zh": "货币政策与新兴经济体的主权风险（NK违约）",
-            "url": "https://doi.org/10.1093/qje/qjag012",
-            "abstract_en": "Abstract This article develops a New Keynesian model with sovereign default risk. Inflation is set by forward-looking firms, monetary policy is an interest rate rule, and the fiscal government borrows externally, long-term, with an option to default. In this framework, default risk creates inflation pressures through an expectations channel, and tight monetary policy disincentivizes fiscal overborrowing. The model sheds light on temporary inflation events in emerging-market data: short-lived spikes in inflation, spreads, and domestic policy rates. As spreads rise, firms increase their prices in expectation of higher future inflation and low consumption during default. Monetary policy tightens, which reduces inflation and helps bring spreads down by disciplining government borrowing. These monetary-fiscal interactions imply that delivering the flexible-prices allocation may not be optimal for monetary policy.",
-            "abstract_zh": "摘要 本文构建了一个包含主权违约风险的新凯恩斯模型。通货膨胀由前瞻性企业设定，货币政策遵循利率规则，财政政府通过外部长期借款，并有违约选择权。在此框架下，违约风险通过预期渠道产生通胀压力，紧缩货币政策抑制财政过度借贷。该模型解释了新兴市场数据中的临时通胀事件：通货膨胀、利差和国内政策利率的短期飙升。随着利差的上升，企业预期未来通胀上升和违约期间消费低迷而提高价格。货币政策收紧，这降低了通胀并有助于通过约束政府借贷来降低利差。这些货币-财政互动意味着实现灵活价格配置可能并非货币政策的最优选择。",
+            "title_en": "Business, Liquidity, and Information Cycles",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/qje/qjag029",
+            "abstract_en": "Abstract Stock markets play a dual role: they provide information about firms’ fundamentals, which improves resource allocations, and they provide liquidity. We propose a setting in which these two roles interact: if stocks are used more intensively for liquidity, then prices reveal less information about fundamentals. We structurally estimate stock price informativeness for several countries and show that it declines when alternative liquidity sources, such as banks, are in distress. To study the real effects of this mechanism, we devise a strategy to integrate our stock-trading module into a dynamic general equilibrium model with heterogeneous firms. We calibrate the model to the United States and simulate recessions with and without banking distress. In a standalone recession, prices become more informative and allocation improves, mitigating output losses by 4.4%. If the recession coincides with banking distress, agents rely more on stock markets to obtain liquidity, prices become less informative, and allocation deteriorates, magnifying output losses by 22%.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Civil War–Induced Displacement and Human Capital",
-            "title_zh": "内战引发的流离失所与人力资本",
-            "url": "https://doi.org/10.1093/qje/qjag009",
-            "abstract_en": "Abstract We study the effect of conflict-induced displacement on human capital and occupational shifts, focusing on the Mozambican civil war (1977–1992), during which millions of civilians were forced to flee to the countryside, cities, and neighboring countries. Reconstructing the wartime mobility histories of the surviving population, we examine the consequences of multiple displacement trajectories in a unified framework. First, we characterize the education and sectoral employment of the universe of (non-)displaced. Second, we exploit differences in relocation trajectories among extended kin members during their schooling years. Displacement is associated with significant gains in education. Third, using a movers design, we show that minors displaced earlier to better districts experienced an increase in educational attainment. Focusing on moves during the intensification of the war and when comparing members of the same household, regional childhood exposure effects remain strong, whereas spatial sorting becomes negligible. Fourth, we jointly estimate place-based, spatial sorting, and uprootedness effects, showing that all forces are at play. Fifth, a small survey in Mozambique’s largest northern city reveals long-term effects: internally displaced people report higher education than their siblings who stayed behind but lower social capital and worse mental health relative to locals. Our findings demonstrate that displacement shocks can foster human capital accumulation, even in very low-income settings, albeit at the cost of enduring social and psychological traumas.",
-            "abstract_zh": "摘要 我们研究了冲突引起的流离失所对人力资本和职业转变的影响，重点关注1977-1992年的莫桑比克内战期间，数百万平民被迫逃往农村、城市和邻国。我们重建了幸存人口的战时流动史，在一个统一框架下考察了多重流离失所轨迹的后果。首先，我们描述了（非）流离失所者的教育和行业就业情况。其次，我们利用在学龄期间扩展亲属成员之间的搬迁轨迹差异。流离失所与教育的显著增长相关。第三，使用搬迁者设计，我们展示了早期被安置到更好地区的未成年人在教育成就上有所提高。专注于战争加剧期间的搬迁以及比较同一家庭的成员时，区域性童年暴露效应仍然很强，而空间排序变得微不足道。第四，我们联合估计了基于地点、空间排序和连根拔起效应，表明所有力量都在起作用。第五，在莫桑比克最大的北部城市进行的一项小型调查显示了长期效应：国内流离失所者报告的教育水平高于留守的兄弟姐妹，但相对于当地人，他们的社会资本更低，心理健康更差。我们的发现表明，即使在非常低收入的环境中，流离失所冲击也可以促进人力资本积累，尽管代价是持久的社会和心理创伤。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Disaggregated Economic Accounts",
-            "title_zh": "分部门经济账户",
-            "url": "https://doi.org/10.1093/qje/qjag010",
-            "abstract_en": "Abstract We develop a system of disaggregated economic accounts. The system breaks down national accounting positions into bilateral flows between consistently defined groups of consumers (consumer cells), groups of producers (producer cells), the government, and the rest of the world. We disaggregate the full circular flow of money, including consumer spending, labor compensation, firm profits, intermediates trade, foreign trade, and government transactions, while satisfying all national accounting identities. We implement the disaggregated system for small region-by-industry cells in Denmark and present stylized facts, such as variation in domestic spending, local and urban bias in consumer spending, and a pattern of triangular flows across regions. Cell-level measures of spending intensity capture how much spending by a cell contributes to the income of cells experiencing unemployment after a shock. Using a general equilibrium model, we show that fiscal transfers raise aggregate GDP by more when they target cells with high spending intensity on unemployed cells. The disaggregated economic accounts help governments select more effective policies.",
-            "abstract_zh": "摘要 我们开发了一套分解的经济账户体系。该体系将国民核算位置分解为在消费者（消费者单元）、生产者（生产者单元）、政府和世界其他地区之间一致定义的群体之间的双边流动。我们在满足所有国民核算恒等式的同时，分解了包括消费支出、劳动报酬、企业利润、中间品贸易、外贸和政府交易在内的完整货币循环流动。我们在丹麦为小区域-行业单元实施了分解系统，并提出了一些风格化的事实，例如国内支出的变化、消费者支出的地方和城市偏好，以及各地区之间三角流动的模式。单元级别的支出强度度量捕捉了一个单元的支出对经历冲击后失业单元收入的贡献程度。利用一般均衡模型，我们展示了当财政转移支付针对高支出强度的失业单元时，能够更多地提高总GDP。分解的经济账户有助于政府选择更有效的政策。",
+            "title_en": "Public Services Under Private Management",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/qje/qjag028",
+            "abstract_en": "Abstract Theory predicts that outsourcing public services to the private sector can reduce costs and improve efficiency but can also induce cost-cutting and compromise quality. We assess the Brazilian Organizações Sociais de Saude model (OSS), which outsources management of public hospital services to the private sector while the state remains the residual claimant. We show that this enhances hospital production and operational efficiency without adverse effects on hospital quality and equity. Increased inpatient production addresses previously unmet demand, expanding local access to hospital care and reducing population mortality. Performance gains arise from improved operational efficiency achieved through increased hospital management capacity. This facilitates staffing adjustments, favoring higher-skilled personnel, dismissing lower-productivity staff, and adopting flexible, performance-tied employment contracts. Effects are larger among private organizations with more management experience, underscoring returns to managerial capacity. Our findings show that incentive-ownership structures can address the quantity-quality trade-off in public service delivery, even when contracts are incomplete and quality is hard to measure.",
+            "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
               "创新药"
             ]
           },
           {
-            "title_en": "How Do You Identify a Good Manager?",
-            "title_zh": "如何识别优秀的管理者？",
-            "url": "https://doi.org/10.1093/qje/qjag004",
-            "abstract_en": "Abstract We introduce and validate a novel approach to identifying good managers. In a preregistered lab experiment, we causally identify managerial contributions by randomly assigning managers to teams and controlling for individual skill. We find that manager contributions are crucial for team success, and that people who self-select into management roles perform worse than randomly assigned managers. Managerial performance is strongly predicted by economic decision-making skill but not by demographic characteristics. Two validation studies support our experimental results. Participants who succeed in the lab receive more real-world promotions and, in a separate study of retail store managers, skill measures strongly predict store sales. A one standard deviation increase in manager quality increases annual per store sales by US$4.1 million (25% increase). Selecting managers on skills rather than demographic characteristics or the desire to lead could substantially improve organizational performance.",
-            "abstract_zh": "摘要 我们引入并验证了一种识别优秀管理者的新方法。在一个预先注册的实验室实验中，我们通过随机将管理者分配给团队并控制个人技能，因果识别了管理贡献。我们发现管理者的贡献对团队成功至关重要，而那些自选进入管理角色的人比随机分配的管理者表现更差。管理绩效强烈预测于经济决策技能，而不是人口统计特征。两项验证研究支持我们的实验结果。在实验室中成功的参与者在现实世界中获得更多的晋升，而在另一项关于零售店管理者的单独研究中，技能测量强烈预测了商店销售。管理者质量每提高一个标准差，每家商店的年销售额增加410万美元（增长25%）。选择管理者时，基于技能而非人口统计特征或领导愿望，可以显著提高组织绩效。",
+            "title_en": "The Power of Proximity to Coworkres",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/qje/qjag027",
+            "abstract_en": "Abstract How does proximity to coworkers affect training and productivity? We study software engineers at a Fortune 500 firm from 2019 to 2024, leveraging two shocks to proximity: the office closures in 2020 and the subsequent return-to-office mandates in 2022 and 2023. In both cases, co-located teams experienced bigger changes in proximity than distributed ones, facilitating difference-in-differences designs. We find that sitting near teammates increases coding feedback by 18.3% and improves code quality. Gains are concentrated among less-tenured and younger employees, who are building human capital. However, there is a trade-off: experienced engineers write less code when sitting near teammates. In national U.S. data, we find evidence that the rise of remote work has had scarring effects on young college graduates. In remotable jobs, young graduates’ unemployment rate increased relative to older graduates’ post-pandemic (2022–2024) compared to pre-pandemic (2017–2019), a pattern we do not observe in non-remotable jobs.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "International Reserve Management Under Rollover Crises",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/qje/qjag025",
+            "abstract_en": "Abstract This article investigates how a government should manage international reserves when it faces the risk of a rollover crisis. We ask: Should the government accumulate reserves or reduce debt to make itself less vulnerable? We show that the optimal policy entails initially reducing debt, followed by a subsequent increase in both debt and reserves as the government approaches a safe zone. Furthermore, we find that issuing additional debt to accumulate reserves can lead to a reduction in sovereign spreads. Evidence from a panel of emerging economies is consistent with these predictions: increases in reserves financed by public external borrowing are associated with lower spreads, and reserve holdings are not systematically drawn down during crisis episodes.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Growth Experiences and Trust in Government",
-            "title_zh": "经济增长经验与政府信任",
-            "url": "https://doi.org/10.1093/qje/qjaf056",
-            "abstract_en": "Abstract This article explores the relationship between economic growth and trust in government using variation in GDP growth experienced over a lifetime since birth. We assemble a newly harmonized global data set across 11 major opinion surveys, comprising 3.3 million respondents in 166 countries since 1990. Exploiting cohort-level variation, we find that people who have experienced higher GDP growth are more prone to trust their governments, with larger effects found in democracies. Higher-growth experiences are also associated with improved perceptions of government performance and living standards. We find no similar channel between growth experience and interpersonal trust. Second, more recent growth experiences appear to matter most for trust in government, with no detectable effect of growth experienced during one’s formative years, closer to birth, or before birth. Third, we find evidence of a “trust paradox” whereby average trust in government is lower in democracies than in autocracies. Our results are robust to a range of falsification exercises, robustness checks, and single-country evidence using the American National Election Studies and the Swiss Household Panel.",
-            "abstract_zh": "摘要 本文利用自出生以来一生中经历的GDP增长变化，探讨了经济增长与对政府信任之间的关系。我们汇集了自1990年以来在166个国家进行的11个主要民意调查的新近协调的全球数据集，涵盖了330万受访者。利用队列级别的变化，我们发现经历过更高GDP增长的人更倾向于信任他们的政府，这种效应在民主国家中更为显著。更高的增长经历也与对政府绩效和生活水平的改善感知相关联。我们没有发现增长经历与人际信任之间存在类似的渠道。其次，最近的增长经历似乎对政府信任最为重要，而在形成期、更接近出生或出生前经历的增长对政府信任没有可检测的影响。第三，我们发现了一种“信任悖论”，即民主国家的平均政府信任度低于独裁国家。我们的结果对一系列证伪练习、稳健性检验以及使用美国国家选举研究和瑞士家庭小组的单个国家证据都具有稳健性。",
+            "title_en": "The Effects of Mandatory Profit-Sharing on Workers and Firms: Evidence from France",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/qje/qjag022",
+            "abstract_en": "Abstract Since 1967, all French firms with more than 100 employees have been required to share a fraction of their excess profits with their employees. Through this scheme, firms with excess profits distribute, on average, 10.5% of their pretax income to workers. In 1990, the eligibility threshold was reduced to 50 employees. We exploit this regulatory change to identify the effects of mandated profit-sharing on firms and their employees. The cost of mandated profit-sharing for firms is evident in the significant bunching at the 100-employee threshold observed prior to the reform, which completely disappears post-reform. Using a difference-in-differences strategy, we find that at the firm level, mandated profit-sharing (i) increases the labor share by 1.8 percentage points, (ii) reduces the profit share by 1.4 percentage points, and (iii) has small to nonexistent effects on investment and productivity. At the employee level, mandated profit-sharing increases lower-skilled workers’ total compensation and leaves high-skilled workers’ total compensation unchanged. Overall, mandated profit-sharing redistributes excess profits to lower-skilled workers in the firm without generating significant distortions or productivity effects.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Changing Opportunity: Sociological Mechanisms Underlying Growing Class Gaps and Shrinking Race Gaps in Economic Mobility",
-            "title_zh": "变化中的机遇：社会学机制下经济流动性中日益扩大的阶级差距和缩小的种族差距",
-            "url": "https://doi.org/10.1093/qje/qjaf057",
-            "abstract_en": "Abstract We show that intergenerational mobility changed rapidly by race and class in recent decades in the United States and study the causal mechanisms underlying those changes. Between the 1978 and 1992 birth cohorts, earnings increased for white children from high-income families relative to white children from low-income families, increasing earnings gaps by parental income (class) by 30%. Earnings increased for Black children at all parental income levels, reducing white-Black earnings gaps for children from low-income families by 30%. Class gaps grew and race gaps shrank similarly for nonmonetary outcomes such as educational attainment, standardized test scores, and mortality rates. Using a quasi-experimental design, we show that the divergent trends in economic mobility were caused by differential changes in childhood environments, as proxied by parental employment rates, in local communities defined by race, class, and childhood county. Outcomes improve across birth cohorts for children who grow up in communities with increasing parental employment rates, with larger effects for children who move to such communities at younger ages. Children’s outcomes are most strongly related to the parental employment rates of peers they are more likely to interact with, such as those in their own birth cohort, suggesting that the relationship between children’s outcomes and parental employment rates is mediated by social interaction.",
-            "abstract_zh": "摘要 我们展示了近几十年来美国不同种族和阶级间代际流动性的快速变化，并研究了这些变化背后的因果机制。在1978年和1992年出生队列之间，高收入家庭的白人儿童相对于低收入家庭的白人儿童的收入增加了，按父母收入（阶级）计算的收入差距增加了30%。所有父母收入水平的黑人儿童的收入都有所增加，低收入家庭的白人-黑人儿童收入差距减少了30%。对于教育程度、标准化考试成绩和死亡率等非货币结果，阶级差距增长和种族差距缩小的趋势也类似。通过使用准实验设计，我们表明经济流动性的不同趋势是由当地社区中儿童环境的差异变化引起的，这些社区由种族、阶级和儿童所在县定义，以父母就业率作为代理变量。对于在父母就业率增加的社区长大的儿童，其结果在出生队列中有所改善，对于在更年轻的时候搬到这些社区的儿童效果更大。儿童的结果与他们更有可能与之互动的同龄人的父母就业率关系最为密切，例如与他们同一出生队列的人，这表明儿童结果与父母就业率之间的关系是通过社会互动来调节的。",
+            "title_en": "Collusion with Optimal Information Disclosure",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/qje/qjag020",
+            "abstract_en": "Abstract Motivated by recent concerns surrounding the use of third-party pricing algorithms by competing firms, we study repeated Bertrand competition where market demand or the cost of serving the market is observed by an intermediary (or “algorithm”) that selectively discloses demand or cost information to maximize firms’ collusive profit. We show that an upper censorship disclosure policy is optimal, which leads to price rigidity and supra-monopoly prices in some states. Improving the algorithm’s accuracy reduces expected consumer surplus whenever it does so under monopoly pricing. When the state is positively correlated over time, the algorithm discloses more information when recent demand was lower or costs were higher. The analysis extends to a generalized model that accommodates product differentiation and capacity constraints. We relate our findings to recent antitrust cases.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Codification, Technology Absorption, and the Globalization of the Industrial Revolution",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/qje/qjag021",
+            "abstract_en": "Abstract This article examines the global adoption of technology in the late nineteenth century. We construct several novel data sets to test the idea that the codification of technical knowledge in the vernacular was necessary for countries to absorb the technologies of the first Industrial Revolution. We find that comparative advantage shifted to industries that could benefit from these technologies in countries and colonies with access to codified technical knowledge, but not in other regions. Using the rapid and unprecedented codification of technical knowledge in Meiji Japan as a natural experiment, we show that this pattern emerged only after the Japanese government codified vast amounts of technical knowledge. Our findings shed new light on the frictions associated with technological diffusion and offer a novel explanation for why Meiji Japan was unique among non-Western countries in successfully industrializing during the first wave of globalization.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "“Compensate the Losers?” Economic Policy and the Origins of U.S. Partisan Realignment",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/qje/qjag019",
+            "abstract_en": "Abstract We argue that the Democratic Party’s evolution on economic policy helps explain partisan realignment by education. First, we document that educated Americans differentially oppose “predistribution” (e.g., job guarantees, higher minimum wages, protectionism, and stronger unions), while the educational gradient for redistribution (taxes and transfers) is close to zero. These relationships have been largely unchanged since the 1940s. Second, focusing on politicians and donors as key party actors, we show that the Democratic Party has moved away from predistribution since the 1970s. The number of predistribution bills introduced by Democratic House Speakers has declined by half since the 1970s. Unions—the traditional lobbying force for predistribution—see their share of Democratic Party PAC donations decline from 90% to 40% from 1968 to 1980, following 1970s legislation that facilitated corporate PAC donations. From 1980 onward, the Democrats rely increasingly on individual contributions from educated donors relative to the Republicans. We show the increased reliance on corporate PACs and educated donors is driven by the rise of a self-described “New Democrat’’ faction particularly conservative on predistribution and social issues. Finally, we trace the reaction of voters to these changes in the Democratic Party. Less-educated Americans begin to leave the party in the 1970s, after decades of serving as its base. We also show that in the crucial transition period of the 1970s through 1990s, New Democrat candidates outperform other Democrats among more-educated voters in both survey questions and actual Congressional elections. As the New Democrats are more socially conservative than other Democrats, their success with educated voters suggests that social issues alone cannot explain educational realignment.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Peer Effects and the Gender Gap in Corporate Leadership: Evidence from MBA Students",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/qje/qjag015",
+            "abstract_en": "Abstract Women continue to be underrepresented in corporate leadership positions. This article studies the role of social connections in women’s career advancement. We investigate whether access to a larger share of female peers in business school affects the gender gap in senior managerial positions. Merging administrative data from a top 10 U.S. business school with public LinkedIn profiles, we first document that female MBAs are 24% less likely than male MBAs to enter senior management within 15 years of graduation. Next we use the exogenous assignment of students into sections to show that a larger proportion of female MBA section peers increases the likelihood of entering senior management for women but not for men. This effect is driven by female-friendly firms, such as those with more generous maternity leave policies and greater work-schedule flexibility. A larger proportion of female MBA peers induces women to transition to these firms where they attain senior management roles. A survey of female MBA alumnae reveals three key mechanisms: (i) information sharing, especially related to gender-specific advice, (ii) higher ambitions and self-confidence, and (iii) increasing support from male MBA peers. These findings highlight the role of social connections in reducing the gender gap in senior management positions.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
@@ -495,110 +515,121 @@
         "query_name": "Review of Economic Studies",
         "issn": "0034-6527",
         "resolved_name": "The Review of Economic Studies",
-        "issue_title": "Volume 93, Issue 3",
+        "issue_title": "Volume 93, Issue 4",
         "issue_url": "https://academic.oup.com/restud",
-        "matched_count": 10,
-        "total_in_issue": 21,
+        "matched_count": 11,
+        "total_in_issue": 20,
         "papers": [
           {
-            "title_en": "The Impact of EITC on Education, Labour Market Trajectories, and Inequalities",
-            "title_zh": "劳动所得税抵免对教育、劳动市场轨迹和不平等的影响",
-            "url": "https://doi.org/10.1093/restud/rdaf073",
-            "abstract_en": "Abstract As a complement to the federal earned income tax credit (EITC), some states offer their own EITC, typically calculated as a percentage of the federal EITC. In this paper, we analyse the effect of state EITC on education using policy discontinuities at US state borders. Our estimates reveal that an increase in the state EITC leads to a statistically significant increase in the high school dropout rate. We then use a life-cycle matching model with directed search and endogenous educational choices, search intensities, hirings, hours worked, and separations to investigate the effects of EITC on the labour market in the long run and along the transitional dynamics. We show that a tax credit targeted at low-wage (and low-skilled) workers reduces the relative return to schooling, thereby generating a powerful disincentive to pursue long-term studies. In the long run, this results in an increase in the proportion of low-skilled workers in the economy, which may have important implications for employment, productivity, and income inequality. Finally, we use the model to determine the optimal design of the EITC.",
-            "abstract_zh": "摘要：作为联邦劳动所得税抵免（EITC）的补充，一些州提供自己的EITC，通常按联邦EITC的百分比计算。本文利用美国州边界的政策不连续性分析州EITC对教育的影响。我们的估计显示，州EITC的增加导致高中辍学率的统计显著增加。然后，我们使用一个生命周期匹配模型，结合有向搜索和内生教育选择、搜索强度、招聘、工作小时数和离职情况，来研究EITC对劳动市场的长期影响以及过渡动态。我们表明，针对低工资（和低技能）工人的税收抵免降低了教育的相对回报，从而产生了强大的不鼓励进行长期学习的动力。从长远来看，这导致经济中低技能工人比例的增加，这可能对就业、生产力和收入不平等产生重要影响。最后，我们使用该模型来确定EITC的最佳设计。",
+            "title_en": "All Along the Watchtower: Military Landholders and Serfdom Consolidation in Early Modern Russia",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdaf095",
+            "abstract_en": "Abstract This article examines the emergence of coercive labour institutions using the case of serfdom in early modern Russia. We argue that serfdom consolidated under the pressure of landholding military elites who gained political influence due to the prolonged struggle with steppe nomads. To contain nomadic raids, the Russian state erected defence lines on the southern frontier, and granted land in the area to soldiers in charge of its defence. The soldiers could not farm while on defence duty, nor could they compete in the market for peasant labour, as the land had been selected for its defensive rather than agricultural value. The system was therefore only sustainable by restricting labour mobility. In response to the volume of landholders’ collective petitions, the Russian state gradually tied peasants to the land and institutionalized serfdom in the written law. Using newly digitized population data from the 17th century, we show a higher prevalence of serfs and military landholders in districts on the defence line. We also find a higher prevalence of small estates—up to 25 serf households—sufficient to support a soldier and his family. Placebo tests show that these patterns do not hold for non-serf peasants, or for merchants and artisans. To ensure causality, we develop a novel algorithm that reconstructs the optimal invasion routes for nomads and pinpoints the optimal location of the defence line using topographic data. Our results highlight the primacy of political economy factors over purely economic ones, such as the land–labour ratio or the grain trade, in the development of serfdom. This sheds new light on the possible mechanisms of institutional divergence between Eastern and Western Europe in the early modern period.",
+            "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Religion, Education, and the State",
-            "title_zh": "宗教、教育与国家",
-            "url": "https://doi.org/10.1093/restud/rdaf071",
-            "abstract_en": "Abstract This paper explores how state and religious providers of education compete during the nation building process. Using novel administrative data, we characterize the evolution of Indonesia’s Islamic education system and religious school choice after the introduction of mass public primary schooling in the 1970s. Funded through informal taxation, Islamic schools competed with the state by entering in the same markets. While primary enrollment shifted towards state schools, religious education increased overall as Islamic schools absorbed growing demand for secondary education. In the short run, electoral support for the secular regime weakened in markets with greater public school construction. Over the long run, Islamic schools established at this juncture are more differentiated in terms of religious curriculum, and cohorts exposed to mass public schooling as children are more invested in religion than in the national identity. Our findings offer a new perspective on the political economy of education reforms and the emergence of parallel systems of public goods provision.",
-            "abstract_zh": "摘要 本文探讨了在国家建设过程中，国家和宗教教育提供者之间的竞争。利用新的行政数据，我们描述了20世纪70年代大规模公立初等教育引入后，印度尼西亚伊斯兰教育体系和宗教学校选择的演变。伊斯兰学校通过非正式征税获得资金，与国家竞争，进入相同的市场。虽然小学入学转向了公立学校，但随着伊斯兰学校吸收了对中等教育日益增长的需求，宗教教育总体上增加了。短期内，在公立学校建设更多的市场中，对世俗政权的选举支持有所减弱。从长远来看，在这个时期建立的伊斯兰学校在宗教课程方面更加多样化，而作为儿童接受大规模公立教育的群体在宗教上的投入比对国家身份的投入更多。我们的发现为教育改革的政治经济学和公共产品供给平行系统的出现提供了新的视角。",
+            "title_en": "Demand Stimulus as Social Policy",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdaf096",
+            "abstract_en": "Abstract We exploit a panel of city-level data with rich demographic information to estimate the distributional effects of Department of Defense spending and its effects on a range of social outcomes. The income and employment generated by defence spending accrue predominantly to households without a bachelor's degree. These households as well as Black and Hispanic households tend to disproportionately benefit from this spending. Defence spending also promotes a range of beneficial social outcomes that are often targeted by government programs, including reductions in poverty, divorce rates, disability rates, and mortality rates, as well as increases in homeownership rates, health insurance rates, and occupational prestige. We compare the effects of defence spending with the effects of general demand shocks and explore reasons for the differential effects of the shocks.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Policy Diffusion and Polarization across U.S. States",
-            "title_zh": "美国各州政策扩散与极化",
-            "url": "https://doi.org/10.1093/restud/rdaf070",
-            "abstract_en": "Abstract Economists have studied the impact of numerous state laws, from welfare rules to voting ID requirements. Yet for all this policy evaluation, what do we know about policy diffusion—how these policies are introduced and spread from state to state? We present a series of facts based on a data set of 602 U.S. state policies spanning the past seven decades. First, proxies of state capacity do not predict a higher likelihood of innovating new policies, but the political leaning of the state does predict a higher likelihood of introducing partisan laws since 1990. Second, the diffusion of policies from 1950 to 2000 is best predicted by proximity—a state is more likely to adopt a policy if nearby states have already done so—as well as similarity in voter policy preferences. Third, since 2000, party alignment has become the strongest predictor of diffusion, and the speed of adoption has increased. Models of learning and correlated preferences can account for the earlier patterns, but the findings for the last two decades indicate a sharply increasing role of party control. We conclude that party polarization has emerged as a key factor recently for policy adoption, plausibly leading to a worse match between state policies and voter preferences.",
-            "abstract_zh": "摘要：经济学家已经研究了众多州法律的影响，从福利规则到投票身份证要求。然而，在所有这些政策评估中，我们对政策扩散——这些政策是如何从州到州引入和传播的——了解多少？我们基于过去七十年602项美国州政策的数据集，提出了一系列事实。首先，州能力的代理并不预测创新新政策的更高可能性，但自1990年以来，州的政治倾向确实预测了引入党派法律的更高可能性。其次，1950年至2000年的政策扩散最好由邻近性预测——如果附近州已经这样做了，一个州更有可能采纳政策——以及选民政策偏好的相似性。第三，自2000年以来，党派对齐已成为扩散的最强预测因素，采纳速度也有所增加。学习和相关偏好的模型可以解释早期的模式，但过去二十年的发现表明，党派控制的作用急剧增加。我们得出结论，党派极化最近已成为政策采纳的关键因素，可能导致州政策与选民偏好之间的匹配更差。",
+            "title_en": "Slum Upgrading and Long-Run Urban Development: Evidence from Indonesia",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdaf090",
+            "abstract_en": "Abstract Developing countries face massive urbanization and slum upgrading is a popular policy to improve shelter for many. Yet, preserving slums at the expense of formal developments can raise concerns of misallocation of land. We estimate causal, long-term impacts of the 1969–84 KIP programme, which provided basic upgrades to 5 million residents covering 25% of land in Jakarta, Indonesia. We assemble high-resolution data on programme boundaries and 2015 outcomes and address programme selection bias through localized comparisons. On average, KIP areas today have lower land values, shorter buildings, and are more informal, per a photographs-based slum index. The negative effects are concentrated within 5 km of the CBD. We develop a spatial equilibrium model to characterize the welfare implications of KIP. Counterfactuals suggest that 79% of the welfare effects stem from removing KIP in the centre and highlight how to mitigate losses to displaced residents.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Globalization and the Ladder of Development: Pushed to the Top or Held at the Bottom?",
-            "title_zh": "全球化与发展阶梯：被推至顶端还是被限制在底部？",
-            "url": "https://doi.org/10.1093/restud/rdaf077",
-            "abstract_en": "Abstract We study the relationship between international trade and development in a model where countries differ in their capability, goods differ in their complexity, and capability growth is a function of a country’s pattern of specialization. Theoretically, we show that it is possible for international trade to increase capability growth in all countries and, in turn, to push all countries up the development ladder. This occurs if (i) shifting employment towards more complex sectors raises capability growth and if (ii) foreign competition is tougher in less complex sectors for all countries. Empirically, we provide causal evidence consistent with (i) using the entry of countries into the World Trade Organization as an instrumental variable for other countries’ patterns of specialization. The opposite of (ii), however, holds in the data. Through the lens of our model, these two empirical observations imply dynamic welfare losses from trade that are pervasive, albeit small for the median country. The same economic forces also suggest that the emergence of China has held back capability growth for a number of African countries who are pushed away from their most-complex sectors, which China exports, and into their least-complex sectors, which China imports.",
-            "abstract_zh": "摘要 我们在一个模型中研究国际贸易与发展之间的关系，其中国家在能力上存在差异，商品在复杂性上存在差异，能力增长是一国专业化模式的函数。从理论上讲，我们展示了国际贸易有可能增加所有国家的能力增长，并进而推动所有国家向上发展。这发生在：（i）将就业转移到更复杂的部门会提高能力增长，以及（ii）对所有国家而言，外国竞争在较不复杂的部门更为激烈。从实证上看，我们使用各国加入世界贸易组织作为其他国家专业化模式的工具变量，提供了与（i）一致的因果证据。然而，数据中的情况与（ii）相反。通过我们的模型视角，这两个实证观察意味着贸易带来的动态福利损失普遍存在，尽管对于中位数国家来说规模较小。同样的经济力量也表明，中国的崛起阻碍了一些非洲国家的能力增长，这些国家被从中国出口的最复杂部门推向中国进口的他们最不复杂的部门。",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Brokering Votes With Information Spread Via Social Networks",
-            "title_zh": "通过社交网络传播信息进行选票掮客活动",
-            "url": "https://doi.org/10.1093/restud/rdaf075",
-            "abstract_en": "Abstract Politicians rely on political brokers to buy votes throughout much of the developing world. We investigate how social networks facilitate these vote-buying exchanges. Our conceptual framework suggests brokers should be particularly well-placed within the network to learn about non-copartisans’ reciprocity in order to target transfers effectively. As a result, parties should recruit brokers who are central among non-copartisans. We combine village network data from brokers and citizens with broker reports of vote buying, allowing us to use broker and citizen fixed effects. We show that networks diffuse information about citizens to brokers who leverage it to target transfers. In particular, among those citizens who are not registered to their party, brokers target reciprocal citizens about whom they can learn more through their network, and these citizens are more likely to support the brokers’ party. Moreover, recruited brokers are significantly more central than other citizens among non-copartisans, but not among copartisans. These results highlight the importance of information diffusion through social networks for vote buying, broker recruitment, and ultimately for political outcomes.",
-            "abstract_zh": "摘要：在许多发展中国家，政治家依赖政治掮客来购买选票。我们研究了社会网络如何促进这些购买选票的交易。我们的概念框架表明，掮客在网络中应该处于特别有利的位置，以了解非党派人士的互惠性，以便有效地定位转移支付。因此，政党应该招募在非党派人士中处于中心位置的掮客。我们将掮客和公民的村庄网络数据与掮客报告的购买选票行为结合起来，使我们能够使用掮客和公民的固定效应。我们表明，网络将有关公民的信息传播给掮客，掮客利用这些信息来定位转移支付。特别是，在那些没有注册到他们党的公民中，掮客针对他们可以通过网络了解更多信息的互惠公民，而这些公民更有可能支持掮客的党。此外，被招募的掮客在非党派人士中明显比其他公民更处于中心位置，但在同党派人士中则不是。这些结果突出了通过社会网络传播信息对购买选票、掮客招募以及最终政治结果的重要性。",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Bewley Banks",
-            "title_zh": "贝利银行",
-            "url": "https://doi.org/10.1093/restud/rdaf062",
-            "abstract_en": "Abstract How do movements in the distributions of bank size and income affect the macroeconomy? To answer this question, we develop a dynamic general equilibrium model with heterogeneous financial intermediaries, incomplete markets, and aggregate uncertainty. We find that market incompleteness and uninsured idiosyncratic bank rate of return risk generate minimal concentration in the bank net worth distribution, leading to an “as-if” result, whereby the economy behaves as if it had a representative bank. However, introducing ex ante heterogeneity in the banks’ rates of return significantly raises concentration and amplifies real and financial fluctuations relative to the representative-bank case, as this increases a key sufficient statistic, the average marginal propensity to lend. We then extend the model with two empirically validated features of the banking sector—countercyclical return risk and deposit market power—and show that these amplify and dampen aggregate fluctuations, respectively. Finally, because in the model with ex ante heterogeneity the distribution of bank size is highly concentrated, shocks to the largest banks can account for almost all of the aggregate variation that is due to idiosyncratic risk, leading to granular banking and economic cycles. The failure of granular banks (“too big to fail”) produces sizeable macroeconomic crises.",
-            "abstract_zh": "摘要：银行规模和收入分布的变化如何影响宏观经济？为了回答这个问题，我们开发了一个具有异质性金融中介、不完全市场和总体不确定性的动态一般均衡模型。我们发现，市场的不完全性和未保险的特有银行回报率风险在银行净值分布中产生了最小的集中度，导致了一个“仿佛”结果，即经济表现得就好像它有一个代表性银行。然而，引入银行回报率的事先异质性显著提高了集中度，并相对于代表性银行案例放大了实际和金融波动，因为这增加了一个关键的充分统计量，即平均边际贷款倾向。然后，我们将模型扩展到银行业的两个经验验证特征——逆周期回报风险和存款市场力量——并表明这些分别放大和抑制了总体波动。最后，由于在具有事先异质性的模型中银行规模分布高度集中，对最大银行的冲击可以解释几乎所有由于特有风险引起的总体变化，导致颗粒状银行和经济周期。颗粒状银行（“大而不倒”）的失败产生了相当大的宏观经济危机。",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "The Geography of Business Dynamism and Skill-Biased Technical Change",
-            "title_zh": "商业活力的地理分布与技能偏向型技术变革",
-            "url": "https://doi.org/10.1093/restud/rdaf063",
-            "abstract_en": "Abstract This paper shows that the growing disparities between big and small cities in the U.S. since 1980 can be explained by firms endogenously responding to a skill-biased technology shock. With the introduction of a new skill-biased technology that is high fixed cost but low marginal cost, firms endogenously adopt more in big cities, cities that offer abundant amenities for high-skilled workers, and cities that are more productive in using high-skilled labour. In cities with more adoption, small and unproductive firms are more likely to exit the market, increasing the equilibrium rate of turnover or business dynamism—a selection effect similar to Melitz (2003). Differences in technology adoption and selection account for three key components of the growing regional disparities, known as the Great Divergence: (1) big cities saw a larger increase in the relative wages and supply of skilled workers, (2) big cities saw a smaller decline in business dynamism, and (3) firms in big cities invest more intensively in information and communication technology.",
-            "abstract_zh": "摘要 本文表明，自1980年以来美国大城市与小城市之间日益扩大的差距可以通过企业对技能偏向型技术冲击的内生反应来解释。随着一种新的技能偏向型技术的引入，这种技术具有高固定成本但低边际成本，企业在大城市内生性地采用更多，这些城市为高技能工人提供丰富的便利设施，并且在使用高技能劳动力方面更具生产力。在采用更多的城市中，小型和低效企业更有可能退出市场，增加了市场更替或商业活力的均衡率——这是一种类似于Melitz（2003）的选择效应。技术采用和选择的差异解释了日益扩大的区域差异的三个关键组成部分，即所谓的“大分化”：（1）大城市看到技能工人的相对工资和供应量增加更多，（2）大城市看到商业活力的下降幅度较小，以及（3）大城市的企业在信息和通信技术方面投资更为密集。",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Women in the Courtroom: Technology and Justice",
-            "title_zh": "女性在法庭：技术与正义",
-            "url": "https://doi.org/10.1093/restud/rdaf066",
-            "abstract_en": "Abstract Our study analyses 6 million civil judgments in China from 2014 to 2018, documenting gender disparities that disfavour female litigants. We investigate the impact of an open justice reform that mandated courts to broadcast legal proceedings live on a centralized online platform. By exploiting variations in its implementation across courts and over time and employing both difference-in-differences and Bartik IV approaches, we find that gender disparities in chances of winning decrease as broadcast intensity increases. Analysis of the textual content of judicial decisions provides further evidence that these changes in judicial outcomes stem from altered judge behaviours (i.e. attention and effort) under enhanced judicial transparency. Our results demonstrate how information technology shapes judges’ conduct, underscoring its broader potential to improve accountability in public institutions.",
-            "abstract_zh": "摘要 我们的研究分析了2014年至2018年中国的600万份民事判决书，记录了对女性诉讼当事人不利的性别差异。我们研究了一项开放司法改革的影响，该改革要求法院在一个集中的在线平台上实时直播法律程序。通过利用其在不同法院和时间上的实施差异，并采用双重差分和Bartik IV方法，我们发现随着直播强度的增加，性别差异在胜诉机会上减少。对司法决定的文本内容分析进一步提供了证据，表明这些司法结果的变化源于在增强的司法透明度下法官行为（即注意力和努力）的改变。我们的结果展示了信息技术如何塑造法官的行为，强调了其在提高公共机构问责制方面的更广泛潜力。",
+            "title_en": "The Origins and Control of Forest Fires in the Tropics",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdaf088",
+            "abstract_en": "Abstract Environmental externalities—uncompensated damages imposed on others—lie at the root of climate change, pollution, deforestation and biodiversity loss. Empirical evidence is limited, however, as to how externalities drive private decision making. We study one such behaviour, illegal tropical forest fires, using 15 years of daily satellite data covering over 107,000 fires across Indonesia. Weather-induced variation in fire spread risk and variation in who owns surrounding land allow us to identify how far externalities influence the decision to use fire. Relative to when all spread risks are internalized, we find that firms overuse fire when surrounded by unleased government lands where property rights are weak. In contrast, and consistent with the Coase Theorem, firms treat risks to nearby private concessions similarly to risks to their own land. Government sanctions, concentrated on fires spreading to populated areas, also deter fires, consistent with Pigouvian deterrence.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Reallocative Auctions and Core Selection",
-            "title_zh": "重分配拍卖与核心选择",
-            "url": "https://doi.org/10.1093/restud/rdaf065",
-            "abstract_en": "Abstract When selling goods like wireless spectrum or electricity contracts, designers often opt for core-selecting mechanisms—i.e. those that induce outcomes in the core—in order to balance revenue and efficiency goals. But increasingly, auctions—such as the Federal Communications Commission’s Incentive Auction and those explored for natural resources—seek to reallocate goods, not just sell them. We show that when bidders can both buy and sell, substitutability among goods is no longer sufficient or necessary for core selection. In particular, in these environments, core selection can fail even with a single good and positive revenue, and can succeed even when some or all bidders view goods as complements. Instead, we show that the key feature that determines core selection is heterogeneity among the bidders. With too much heterogeneity, reallocation mostly realises pre-existing gains from trade among the bidders, and core selection fails. With limited heterogeneity, most gains from trade among the bidders are created by the quantity auctioned, and a core-selecting mechanism is possible.",
-            "abstract_zh": "摘要：在销售无线频谱或电力合同等商品时，设计者通常选择核心选择机制——即那些在核心中产生结果的机制——以平衡收入和效率目标。但越来越多地，拍卖——如联邦通信委员会的激励性拍卖以及探索用于自然资源的拍卖——寻求重新分配商品，而不仅仅是出售它们。我们表明，当竞拍者可以买卖时，商品之间的可替代性不再是核心选择的充分或必要条件。特别是在这些环境中，即使只有一个商品和正收入，核心选择也可能失败；即使一些或所有竞拍者将商品视为互补品，核心选择也可能成功。相反，我们表明，决定核心选择的关键特征是竞拍者之间的异质性。异质性过大时，重新分配主要实现了竞拍者之间已有的贸易收益，核心选择失败。异质性有限时，竞拍者之间的大部分贸易收益是由拍卖数量创造的，可能实现核心选择机制。",
+            "title_en": "Patents, News, and Business Cycles",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdaf086",
+            "abstract_en": "Abstract We exploit information in patent applications to construct an instrumental variable for the identification of technology news shocks that relaxes all the identifying assumptions traditionally used in the literature. The instrument recovers news shocks that have no effect on aggregate productivity in the short-run, but are a significant driver of its trend component. The shock prompts a broad-based expansion in anticipation of the future increase in total factor productivity (TFP), with output, consumption, and investment all rising well before any material increase in TFP is recorded. Despite the positive conditional comovements, the shock only accounts for a modest share of fluctuations of macroeconomic aggregates at business cycle frequencies. Financial markets price-in news shocks on impact, while most of the macro aggregates respond with some delay.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "The Surrogate Index: Combining Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdaf087",
+            "abstract_en": "Abstract A common challenge in estimating the impact of interventions (e.g. job training programmes, educational programmes) is that many outcomes of interest (e.g. lifetime earnings or other labour market outcomes) are observed with a long delay. In biomedical settings, this is often addressed by using short-term outcomes as so-called “surrogates” for the outcome of interest, e.g. tumour size as a surrogate for mortality in cancer studies. We build on this literature by combining multiple, possibly qualitatively distinct, short-term outcomes (e.g. short-run earnings and employment indicators) systematically into a “surrogate index”. Under the Prentice surrogacy assumption, which requires that the primary outcome is independent of the treatment conditional on the surrogates, we show that the average treatment effect on the surrogate index equals the treatment effect on the long-term outcome. We also relate the surrogacy assumption to a set of structural, causal assumptions. We then characterize the bias that arises from violations of each of the key assumptions, and we provide simple methods to validate these assumptions using additional observed outcomes. We apply our method to analyse the long-term impacts of a multi-site job training experiment in California. Rather than waiting a full 9 years to directly observe the long-term impact, we show that it is possible to use short-term (the first six quarters) outcomes as surrogates. Given the surrogacy assumption one could have estimated the programme’s long-term impacts on mean employment rates using the employment rates observed in the first six quarters, with a 35% reduction in standard errors relative to a simple difference in means estimator based on all 9 years of data.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Sanctions and the Exchange Rate",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdaf085",
+            "abstract_en": "Abstract Trade wars and financial sanctions are again becoming an increasingly common part of the international economic landscape, and the dynamics of the exchange rate are often used in real time to evaluate the effectiveness of sanctions and policy responses. We show that sanctions limiting a country’s exports or freezing its assets depreciate the exchange rate, while sanctions limiting imports appreciate it, even when both types of policies have exactly the same effect on real allocations, including household welfare and government fiscal revenues. Beyond the direct effect from sanctions, increased precautionary savings in foreign currency also depreciate the exchange rate when they are not offset by the sale of official reserves or financial repression of foreign-currency savings. We show that the dynamics of the ruble exchange rate following Russia’s invasion of Ukraine in February 2022 are quantitatively consistent with the combined effects of these forces calibrated to the observed sanctions and government policies. We evaluate the associated welfare, fiscal and inflationary consequences for both Russia and the coalition of Western countries.",
+            "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
+              "国际经济",
               "创新药"
             ]
           },
           {
-            "title_en": "Estimating Welfare Effects in a Non-Parametric Choice Model: The Case of School Vouchers",
-            "title_zh": "非参数选择模型中的福利效应估计：以学校代金券为例",
-            "url": "https://doi.org/10.1093/restud/rdaf064",
-            "abstract_en": "Abstract We develop new robust discrete choice tools to learn about the average willingness to pay for a price subsidy and its effects on demand given exogenous, discrete variation in prices. Our starting point is a non-parametric, non-separable model of choice. We exploit the insight that our welfare parameters in this model can be expressed as functions of demand for the different alternatives. However, while the variation in the data reveals the value of demand at the observed prices, the parameters generally depend on its values beyond these prices. We show how to sharply characterize what we can learn when demand is specified to be entirely non-parametric or to be parametrized in a flexible manner, both of which imply that the parameters are not necessarily point identified. We use our tools to analyse the welfare effects of price subsidies provided by school vouchers in the DC Opportunity Scholarship Program. We find that the provision of the status quo voucher and a wide range of counterfactual vouchers of different amounts can have positive and potentially large benefits net of costs. The positive effect can be explained by the popularity of low-tuition schools in the programme; removing them from the programme can result in a negative net benefit. We also find that various standard logit specifications, in comparison, limit attention to demand functions with low demand for the voucher, which do not capture the large magnitudes of benefits credibly consistent with the data.",
-            "abstract_zh": "摘要 我们开发了新的稳健离散选择工具，以了解对价格补贴的平均支付意愿及其对需求的影响，这是在给定外生、离散的价格变化的情况下。我们的出发点是一个非参数、不可分的选择模型。我们利用这样一个洞见：该模型中的福利参数可以表示为不同选择的需求函数。然而，尽管数据中的变化揭示了在观察到的价格下需求的价值，但参数通常依赖于这些价格之外的需求值。我们展示了在需求被指定为完全非参数化或以灵活的方式参数化时，我们可以学到什么，这两种情况都意味着参数不一定是点识别的。我们使用这些工具分析了华盛顿特区机会奖学金计划中学校代金券提供的价格补贴的福利效应。我们发现，提供现状代金券和一系列不同金额的反事实代金券可以带来积极且可能巨大的净收益。这种积极效应可以通过项目中低学费学校的受欢迎程度来解释；将它们从项目中移除可能导致负的净收益。我们还发现，与此相比，各种标准逻辑规范限制了对代金券需求低的需求函数的关注，这些函数无法可靠地捕捉与数据一致的大额福利。",
+            "title_en": "Repurchase Options in the Market for Lemons",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdaf082",
+            "abstract_en": "Abstract We study repurchase options (repo contracts) in a competitive asset market with adverse selection. Gains from trade emerge from a liquidity need, but private information about asset quality prevents the full realization of trades. In equilibrium, a single repo contract pools all assets. The embedded repurchase option mitigates adverse selection by improving the volume of trades relative to outright sales. However, liquidity provision can be inefficiently low as lenders compete to attract high-quality assets via high haircuts and low rates. The equilibrium has a closed form and aligns well with empirical patterns across Mortgage-Backed Securities repos.",
+            "abstract_zh": "",
             "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Algorithmic Recommendations and Human Discretion",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdaf084",
+            "abstract_en": "Abstract Human decision-makers frequently override the recommendations generated by predictive algorithms, but it is unclear whether these discretionary overrides add valuable private information or reintroduce human biases and mistakes. We develop new quasi-experimental tools to measure the impact of human discretion over an algorithm on the accuracy of decisions, even when the outcome of interest is only selectively observed, in the context of bail decisions. We find that 90% of the judges in our setting underperform the algorithm when they make a discretionary override, with most making override decisions that are no better than random. Yet the remaining 10% of judges outperform the algorithm in terms of both accuracy and fairness when they make a discretionary override. We provide suggestive evidence on the behaviour underlying these differences in judge performance, showing that the high-performing judges are more likely to use relevant private information and are less likely to overreact to highly salient events compared to the low-performing judges.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Supply Chain Disruption and Reorganization: Theory and Evidence From Ukraine’s War",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdaf080",
+            "abstract_en": "Abstract How do localized conflicts disrupt supply chains and prompt firms to reorganize them? How do these forces affect firm-level and aggregate economic activity? Using firm-to-firm Ukrainian railway-shipment data before and during the 2014 Russia–Ukraine conflict, we document that firms with prior supplier and buyer exposure to the conflict areas substantially decreased their output. Simultaneously, firms reorganized their production linkages away from partners directly or indirectly exposed to the conflict shock. We build a general-equilibrium production-network model with endogeneous link formation, and we show that our model’s sufficient statistics accurately explains the observed relative decline in firm output once we account for network reorganization. Calibrating our model to the Ukrainian economy, we find that the localized conflict decreased aggregate output in nonconflict areas by 5.5%. This effect increases to 8.4% if we abstract from endogeneous link formation, suggesting that production-network reorganization partially mitigates the detrimental, far-reaching aggregate economic costs of conflicts.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Normalizations and Misspecification in Skill Formation Models",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdaf078",
+            "abstract_en": "Abstract An important class of structural models studies the determinants of skill formation and the optimal timing of interventions. In this article, I provide new identification results for these models and investigate the effects of seemingly innocuous scale and location restrictions on parameters of interest. To do so, I first characterize the identified set of all parameters without these additional restrictions and show that important policy-relevant parameters are point identified under weaker assumptions than commonly used in the literature. The implications of imposing standard scale and location restrictions depend on how the model is specified, but they generally impact the interpretation of parameters and may affect counterfactuals. Importantly, with the popular constant elasticity of substitution (CES) production function, commonly used scale restrictions fix identified parameters and lead to misspecification. Consequently, simply changing the units of measurements of observed variables might yield ineffective investment strategies and misleading policy recommendations. I show how existing estimators can easily be adapted to solve these issues. As a byproduct, this article also presents a general and formal definition of when restrictions are truly normalizations.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
               "创新药"
             ]
           }
@@ -818,7 +849,7 @@
             "title_en": "Trade models, trade elasticities, and the gains from trade",
             "title_zh": "贸易模型、贸易弹性与贸易收益",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104268",
-            "abstract_en": "",
+            "abstract_en": "We consider five models of international trade that belong to the class of models in which the trade elasticity and domestic trade share are sufficient statistics for the welfare cost of autarky. Three are fixed-variety models featuring increasing micro-level margins of adjustment: versions of the Armington model, the Ricardian model, and its variable-markup counterpart. Two are endogenous-variety models featuring monopolistic competition: versions of the Krugman model and the Melitz model. For the three fixed-variety models, we show theoretically that, although they imply the same mapping from the trade elasticity to welfare, they imply different mappings from the trade elasticity to observed order statistics of price gaps of identical goods across countries. This result implies that choosing the parameter that governs the elasticity of trade to match the same order statistics in the data differentially impacts each model's measured welfare cost of autarky. We quantify these differences for all five models.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
@@ -907,14 +938,13 @@
             ]
           },
           {
-            "title_en": "The price of delay: Supply chain disruptions and pricing dynamics",
-            "title_zh": "延迟的代价：供应链中断与定价动态",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104265",
+            "title_en": "Liability dollarization and exchange rate pass-through to domestic prices",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104294",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
-              "产业经济"
+              "国际经济"
             ]
           }
         ],
@@ -927,9 +957,19 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 6,
-        "total_in_issue": 26,
+        "matched_count": 7,
+        "total_in_issue": 31,
         "papers": [
+          {
+            "title_en": "The expenditure elasticity for food and calories: Evidence from unconditional cash transfers in Kenya",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103869",
+            "abstract_en": "Accurate estimates of food and nutrient elasticities are important inputs for the design of efficient policies targeting the poor. In this paper we estimate the expenditure elasticity of food and calories using exogenous variation in budget from two unconditional cash transfer programs in rural Kenya, combined with detailed data on food expenditure, nutrition and prices. We find an elasticity of food expenditure of 0.86 and of calories of 0.66. Although these estimates are higher than those reported in many previous studies — plausibly because our study focuses on extremely poor households — they are significantly lower than those obtained using a non-experimental analysis in our context.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
           {
             "title_en": "Evaluating the environmental and economic implications of curbing transboundary pollution: Evidence from China",
             "title_zh": "",
@@ -999,126 +1039,137 @@
         "query_name": "Review of International Economics",
         "issn": "0965-7576",
         "resolved_name": "Review of International Economics",
-        "issue_title": "Volume 34, Issue 2",
+        "issue_title": "Volume 34, Issue 3",
         "issue_url": "https://onlinelibrary.wiley.com/journal/14679396",
-        "matched_count": 11,
+        "matched_count": 12,
         "total_in_issue": 13,
         "papers": [
           {
-            "title_en": "Correction to “Does <scp>US</scp> Monetary Policy Affect the Interconnectedness of Global Financial Markets?”",
+            "title_en": "Correction to “The Impact of Foreign Direct Investment on Firms' Cash Holdings: Evidence From China”",
             "title_zh": "",
-            "url": "https://doi.org/10.1111/roie.70045",
-            "abstract_en": "Zhou, H., J. Bian, Q. Qin, and M. Yu. 2025. “ Does US Monetary Policy Affect the Interconnectedness of Global Financial Markets?.” Review of International Economics 33, no. 4: 988–1016. https://doi.org/10.1111/roie.12812. On the first page, the “Correspondence: Mei Yu ([email protected]) | Qilin Qin ([email protected])” was incorrect. This should have read “Correspondence: Jiangze Bian ([email protected]) | Qilin Qin ([email protected]) | Mei Yu ([email protected])” We apologize for this error.",
+            "url": "https://doi.org/10.1111/roie.70065",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "国际经济"
             ]
           },
           {
-            "title_en": "Revisiting the Leontief Paradox From a Value‐Added Trade Perspective",
-            "title_zh": "从增加值贸易视角重新审视列昂惕夫悖论",
-            "url": "https://doi.org/10.1111/roie.70037",
-            "abstract_en": "ABSTRACT This study revisits a well‐known thesis in international trade theory—the Leontief paradox—from a value‐added trade perspective within a global industrial linkage framework. Using the Heckscher–Ohlin model as a foundation, this paper employs world input–output tables and socioeconomic accounts compiled by the European Union to calculate the value added embodied in bilateral trade for specific economies. The analysis computes the capital‐to‐labor ratios of all traded goods for these economies from 2000 to 2014, aiming to identify the potential existence of the Leontief paradox. Our findings reveal that the Leontief paradox appears in many instances in the United States, especially within the services sector. However, when the value‐added trade concept is applied, the paradox is observed only in a few bilateral cases in the services sector. By contrast, the Leontief paradox is almost nonexistent in India, as a developing country with an abundant labor endowment, whether from a conventional trade perspective or a value‐added trade one is used.",
-            "abstract_zh": "摘要 本研究从全球产业联系框架中的价值增加贸易视角重新审视国际贸易理论中一个著名的论题——列昂惕夫悖论。本文以赫克歇尔-俄林模型为基础，利用欧盟编制的世界投入产出表和社会经济账户，计算特定经济体双边贸易中所包含的价值增加。分析计算了2000年至2014年这些经济体所有贸易商品的资本-劳动比率，旨在识别列昂惕夫悖论的潜在存在。我们的发现揭示了列昂惕夫悖论在美国许多情况下都会出现，特别是在服务业领域。然而，当应用价值增加贸易概念时，悖论仅在服务业的少数双边案例中被观察到。相比之下，作为一个拥有丰富劳动力禀赋的发展中国家，印度几乎不存在列昂惕夫悖论，无论是从传统贸易视角还是价值增加贸易视角来看。",
+            "title_en": "Trade and Selection With Heterogeneous Firms and Perfect Competition",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70051",
+            "abstract_en": "ABSTRACT This paper extends the Heckscher–Ohlin–Samuelson framework to allow for heterogeneous firms with capacity constraints. We show that the central theorems of the HOS model (as well as their standard generalizations via duality) carry over to our setting. Each firm has a supply curve that arises from random draws of cost/productivity for each unit of capacity. Units of capacity with costs below a threshold are active, and this threshold is called the selection cutoff. The lower this cost cutoff, the higher the firm's productivity. We show that selection is driven by the capital intensity in entry costs relative to unit production costs in the sector. Such selection is assumed away in previous work, which consequently predicts that trade makes selection in the comparative advantage sector stricter and, hence, productivity in this sector higher. Our model shows that things are less simple and depend on the trade's effect on selection, as well as on the change in factor prices. Finally, we present empirical evidence supporting our predictions about the effect of trade on productivity using Chinese firm‐level data, when the U.S. granted permanent normal trade relations (PNTR) to China upon its WTO membership.",
+            "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
               "创新药"
             ]
           },
           {
-            "title_en": "The Impact of Foreign Direct Investment on Firms' Cash Holdings: Evidence From China",
-            "title_zh": "外商直接投资对企业现金持有的影响：来自中国的证据",
-            "url": "https://doi.org/10.1111/roie.70038",
-            "abstract_en": "ABSTRACT This paper investigates how foreign direct investment (FDI) affects firms' cash holdings in manufacturing sectors by taking the plausibly exogenous shock of FDI liberalization in 2002 as an instrumental variable. Using data from the Chinese annual survey of industrial firms from 1998 to 2007, it is found that a 1% increase in industry‐level FDI decreases firms' cash holdings by 7.10% on average. Two explanations of the effect of FDI, that is, investment squeezing and financial constraint alleviation, are explored. Both mechanisms lead to a decrease in firms' cash holdings. In contrast to the effect of horizontal FDI, vertical FDI sourced from upstream industries exerts a positive effect on firms' cash holdings. Furthermore, heterogeneity analyses suggest that the reduction in cash holdings caused by FDI inflows mainly affects smaller firms, privately owned firms, and firms belonging to competitive industries.",
-            "abstract_zh": "摘要 本文利用2002年外商直接投资（FDI）自由化的外生冲击作为工具变量，研究了FDI如何影响制造业企业现金持有量。利用1998至2007年中国工业企业年度调查数据，发现行业层面FDI每增加1%，企业现金持有量平均减少7.10%。文章探讨了FDI效应的两种解释，即投资挤出效应和金融约束缓解效应，两种机制均导致企业现金持有量减少。与水平FDI不同，来自上游产业的垂直FDI对企业现金持有量产生正面影响。此外，异质性分析表明，FDI流入引起的现金持有量减少主要影响小型企业、私营企业和竞争性行业的企业。",
-            "matched_topics": [
-              "国际经济"
-            ]
-          },
-          {
-            "title_en": "Labor‐Eliminating Technological Progress and Foreign Direct Investment",
-            "title_zh": "劳动替代型技术进步与外商直接投资",
-            "url": "https://doi.org/10.1111/roie.70033",
-            "abstract_en": "ABSTRACT Capital‐scarce emerging economies/developing countries often depend heavily on the inflow of foreign direct investment (FDI) to sustain economic growth. However, if a developing economy experiences labor‐eliminating technological change through the adoption of automating technologies in manufacturing, an inflow of capital may replace labor in manufacturing. This, in turn, may compel policymakers to advocate for a foreign investment tax to restrict the inflow of capital. Contrary to this view, we show that in such an environment, wages will rise, and any policy that restricts the inflow of foreign capital does not benefit workers.",
-            "abstract_zh": "摘要：资本稀缺的新兴经济体/发展中国家往往严重依赖外国直接投资（FDI）流入以维持经济增长。然而，如果一个发展中经济体通过在制造业采用自动化技术经历劳动替代型技术变革，资本流入可能会取代制造业中的劳动力。这反过来可能会迫使政策制定者主张征收外国投资税以限制资本流入。与此观点相反，我们表明，在这种环境下，工资将会上升，任何限制外国资本流入的政策都不会使工人受益。",
-            "matched_topics": [
-              "国际经济",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Conflict and Knowledge Flows: Evidence From the 9/11 Attacks",
-            "title_zh": "冲突与知识流动：9/11袭击的证据",
-            "url": "https://doi.org/10.1111/roie.70034",
-            "abstract_en": "ABSTRACT We assess how geopolitical conflict affects cross‐border knowledge flows by exploring an unexpected event: the 9/11 attacks. Exploiting cross‐country patent citation, collaboration data from the PATSTAT (1990–2015), patent transaction and grant outcome data from Bureau van Dijk's Orbis (Q1 2001–Q4 2003), we show that the trust ‐erosion shock between ethnic groups significantly reduced knowledge flows between NATO and Muslim‐majority countries, with sharper declines in high‐ trust sectors and patents involving Muslim inventors. Our analysis reveals that trust erosion, rather than conventional economic channels like trade, FDI, or migration serves as the primary mechanism, evidenced by asymmetric knowledge flow patterns, and mitigated effects for Muslim‐majority countries with stronger pre‐existing NATO ties. Our results highlight the enduring impact of geopolitical conflict on knowledge flows, underscoring trust as a critical yet vulnerable component for global knowledge exchange.",
-            "abstract_zh": "摘要 我们通过研究一个意外事件：9/11恐怖袭击，来评估地缘政治冲突如何影响跨境知识流动。利用PATSTAT（1990-2015年）的跨国专利引用和合作数据，以及Bureau van Dijk的Orbis（2001年第一季度至2003年第四季度）的专利交易和授权结果数据，我们发现民族群体间信任侵蚀的冲击显著减少了北约和穆斯林占多数国家之间的知识流动，特别是在高信任部门和涉及穆斯林发明人的专利中下降更为明显。我们的分析揭示，信任侵蚀，而非传统的经济渠道如贸易、外国直接投资或移民，是主要机制，这一点从不对称的知识流动模式和对与北约关系更紧密的穆斯林占多数国家影响较小中得到证明。我们的结果强调了地缘政治冲突对知识流动的持久影响，强调信任是全球知识交换中一个关键但脆弱的组成部分。",
-            "matched_topics": [
-              "国际贸易",
-              "国际经济",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Services Liberalization and Manufacturing Imports: Evidence From Chinese Firms",
-            "title_zh": "服务自由化与制造业进口：来自中国企业的证据",
-            "url": "https://doi.org/10.1111/roie.70031",
-            "abstract_en": "ABSTRACT This study investigates how services liberalization influences firm import behavior, leveraging China's 2002 revision of the Catalogue for the Guidance of Foreign Investment Industries (CIFD) as a quasi‐natural experiment. Using Chinese firm‐level panel data, we demonstrate that services liberalization significantly increases imports by alleviating financing constraints, expanding production scale, and enhancing production efficiency. These effects are more pronounced among non‐state‐owned firms, upstream manufacturers, capital‐intensive industries, and exporters. Although services liberalization increases imports of intermediate and capital goods, it exerts no significant impact on consumer goods imports. Sectoral analysis reveals positive effects from liberalizing finance, distribution, and transportation. Furthermore, an analysis employing a region‐industry‐year perspective based on China's post‐WTO commitments under the General Agreement on Trade in Services (GATS) robustly corroborates these findings. Broader conceptual analysis shows that services liberalization also facilitates firms' entry into import markets, expands their imported product baskets, upgrades import quality, accelerates industry‐level import growth, and induces product switching. Finally, we establish that import growth spurred by liberalization enhances firm performance, highlighting its tangible economic benefits.",
-            "abstract_zh": "摘要 本研究利用中国2002年修订的《外商投资产业指导目录》（CIFD）作为准自然实验，探讨服务业自由化如何影响企业的进口行为。利用中国企业层面的面板数据，我们证明服务业自由化通过缓解融资约束、扩大生产规模和提高生产效率显著增加了进口。这些效应在非国有企业、上游制造商、资本密集型行业和出口商中更为明显。尽管服务业自由化增加了中间品和资本货物的进口，但对消费品进口没有显著影响。行业分析显示，金融、分销和运输的自由化产生了积极效应。此外，基于中国加入世界贸易组织（WTO）后在《服务贸易总协定》（GATS）下的承诺，采用地区-行业-年份视角的分析也有力地证实了这些发现。更广泛的概念分析表明，服务业自由化还促进了企业进入进口市场，扩大了它们的进口产品篮子，提高了进口质量，加速了行业层面的进口增长，并引发了产品转换。最后，我们确立了自由化刺激的进口增长提高了企业绩效，突出了其有形的经济利益。",
+            "title_en": "Cross‐Country Productivity Asymmetry and the Quest for Global Free Trade",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70036",
+            "abstract_en": "ABSTRACT This paper develops a theoretical model to study how cross‐country productivity asymmetry affects the endogenous formation of global free trade. The main theoretical prediction is that (i) when productivity levels are sufficiently similar, the equilibrium is global free trade; and (ii) when productivity levels are sufficiently asymmetric, the equilibrium outcome is the status quo regime. We empirically confirm the main theoretical prediction using panel data from 195 × 194 country pairs, along with information on all FTAs formed in the world from 1950 to 2017. The empirical results suggest that country pairs with higher productivity asymmetry are less likely to sign a reciprocal trade agreement. Therefore, this paper rationalizes the inclusion of productivity differences in empirical studies on the formation of trade agreements.",
+            "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Nipping Alcohol or Sipping Coffee: Two Tales of Beverages and Their Industrial Growth in the National Cultural Setting",
-            "title_zh": "饮酒还是品咖啡：两种饮品及其在国家文化背景下的产业增长故事",
-            "url": "https://doi.org/10.1111/roie.70027",
-            "abstract_en": "ABSTRACT As global consumption patterns shift, coffee is rising as a productivity‐linked stimulant while alcohol is declining amid public health and cultural transformations. This study tests the hypothesis that coffee consumption substitutes for alcohol consumption and explores how national culture moderates this relationship. At the substitution effect level, we used the competing logic between two beverages. At the moderation level, we used cultural values as contingencies. Using a robust cross‐national dataset of alcohol consumption as the outcome and coffee consumption as the predictor in 112 countries, we used multilevel analysis for the four cultural dimensions: Power Distance, Individualism, Masculinity, and Uncertainty Avoidance. The findings show that the cultural moderators strongly change the relationship between coffee and alcohol consumption levels. The interaction coefficients are significant between models, nested levels, and after reverse causality inclusion. Although the coefficient size and direction of the coefficients vary, the moderation effect of culture remains robust. These results reveal that the global contraction of alcohol consumption is not simply a function of rising coffee demand in universal patterns but is filtered through culturally embedded norms. The findings position national culture as a key institutional layer in shaping industry trajectories and consumer substitution effects, offering novel implications for international economics, public health policy, and cross‐cultural market strategies.",
-            "abstract_zh": "摘要：随着全球消费模式的转变，咖啡作为与生产力相关的刺激剂而崛起，而酒精消费则在公共卫生和文化转型中下降。本研究测试了咖啡消费替代酒精消费的假设，并探讨了国家文化如何调节这种关系。在替代效应层面，我们使用了两种饮料之间的竞争逻辑。在调节层面，我们使用文化价值观作为条件。利用112个国家的酒精消费作为结果和咖啡消费作为预测因子的稳健跨国数据集，我们对四个文化维度：权力距离、个人主义、男性气质和不确定性回避进行了多层次分析。研究结果表明，文化调节因素强烈改变了咖啡和酒精消费水平之间的关系。模型之间、嵌套层次之间以及反向因果关系纳入后的交互系数均显著。尽管系数的大小和方向不同，但文化的调节效应仍然稳健。这些结果揭示了全球酒精消费的收缩不仅仅是普遍模式下咖啡需求上升的函数，而是通过文化内嵌的规范过滤的。这些发现将国家文化定位为塑造行业轨迹和消费者替代效应的关键制度层面，为国际经济学、公共卫生政策和跨文化市场策略提供了新的含义。",
+            "title_en": "Politicizing the Monetary System Through Sanctions as a Four‐Period Game",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70049",
+            "abstract_en": "ABSTRACT This article advances the analysis of sanctions' politicization of monetary systems through a novel four‐period game‐theoretic model, capturing sequential strategic interactions between a sanctioned country and a sanctioning entity. While the international monetary system has long been politicized, sanctions amplify this dynamic by leveraging financial interdependencies for geopolitical ends. Solving for subgame perfect Nash equilibria, the article illuminates decision‐making dynamics, exemplified by Russia's 2022 SWIFT exclusion. The primary equilibrium, where Russia provokes and persists while the West sustains sanctions, reveals Russia's resilience via BRICS trade against Western trade‐offs. Multiple equilibria reveal the variable and context‐dependent nature of sanction outcomes, from mutual de‐escalation to prolonged attrition. By integrating a novel sequential structure with retaliation—calibrated to real‐world data on trade, GDP, and monetary disruptions—the model provides policymakers with a rigorous, empirically grounded framework to assess the strategic trade‐offs of economic statecraft, including the persistence of deterrence even in finite‐horizon settings.",
+            "abstract_zh": "",
             "matched_topics": [
+              "国际贸易",
               "国际经济"
             ]
           },
           {
-            "title_en": "Fossil Fuels, Trade Liberalization, and the Environment: Evidence From China",
-            "title_zh": "化石燃料、贸易自由化与环境：来自中国的证据",
-            "url": "https://doi.org/10.1111/roie.70029",
-            "abstract_en": "ABSTRACT This paper examines the environmental impact of trade liberalization on firms through two types of import tariff reductions. We find that lowering import tariffs on intermediate goods reduces both sulfur dioxide (SO 2 ) emissions and emission intensity among Chinese firms. To explore the underlying mechanisms, we incorporate firms' pollution behavior into a procurement model and describe how the reduction in input tariffs decreases pollution by encouraging firms to switch from coal to crude oil in their production processes. Based on our model, we conduct an empirical analysis using detailed micro‐level data on firm pollution in China from 1998 to 2005. We find that the reduction in input tariffs led more firms, especially those previously heavily reliant on coal, to switch to oil, resulting in a decrease in firm‐level pollution. Additionally, we explore and rule out other potential channels that could influence firms' pollution intensity, including the pollution haven effect, entry–exit effect, and abatement investment effect. Overall, the findings of this paper provide new evidence on the environmental impact of trade liberalization in developing countries while also elucidating the underlying mechanisms of the “technique effect.”",
-            "abstract_zh": "摘要 本文通过两种类型的进口关税降低，考察了贸易自由化对企业环境影响。我们发现，降低中间产品的进口关税既减少了中国企业的二氧化硫（SO2）排放，也降低了排放强度。为了探索背后的机制，我们将企业的污染行为纳入采购模型，并描述了输入关税的降低如何通过鼓励企业在生产过程中从煤炭转向原油来减少污染。基于我们的模型，我们使用1998年至2005年中国企业污染的详细微观层面数据进行了实证分析。我们发现，输入关税的降低导致更多企业，特别是那些以前严重依赖煤炭的企业转向石油，从而降低了企业层面的污染。此外，我们还探讨并排除了其他可能影响企业污染强度的潜在渠道，包括污染避难所效应、进入-退出效应和减排投资效应。总体而言，本文的发现为发展中国家贸易自由化的环境影响提供了新的证据，同时也阐明了“技术效应”背后的机制。",
+            "title_en": "Guns and Gravity: Is There a Home‐Market Effect in the Global Arms Trade?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70050",
+            "abstract_en": "ABSTRACT This paper examines whether the home‐market effect (HME)—a foundational prediction of trade theory—applies to the global arms trade. Using bilateral weapons trade data from 1950 to 2007 and building on the framework of Costinot et al. (2019), we construct a country‐year‐specific composite demand proxy to test for the presence of HME in the weapons industry. Our baseline and robustness results consistently show no evidence of a home‐market effect, either in its weak or strong form. Additional analyzes using alternative proxies, estimation methods, and data sources confirm this finding. However, we identify a weak HME during the Cold War period, suggesting structural differences before and after the dissolution of the Soviet Union. Further gravity estimations reveal that arms trade flows are shaped more by geopolitical factors—such as sanctions and alliances—than by domestic demand. Our findings highlight the unique nature of the global arms market compared to conventional industries.",
+            "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
               "创新药"
             ]
           },
           {
-            "title_en": "Asymmetric Exchange Rate Pass‐Through",
-            "title_zh": "非对称汇率传递效应",
-            "url": "https://doi.org/10.1111/roie.70030",
-            "abstract_en": "ABSTRACT This article investigates how asymmetric exchange rate pass‐through affects the welfare costs of domestic and foreign productivity shocks. This is achieved by modifying a standard two‐country dynamic general equilibrium model to include an exchange rate pass‐through parameter. This parameter is empirically estimated using the local projections method on a panel of 84 countries, showing that pass‐through is significantly higher during currency depreciations, in periods of higher inflation, and in countries with higher exchange rate volatility. The corresponding welfare simulations suggest that domestic productivity shocks are most costly in cases of currency depreciation, higher inflation, and higher exchange rate volatility, whereas foreign productivity shocks result in significantly greater welfare losses in cases of currency appreciation, lower inflation, and lower exchange rate volatility. These findings imply that to mitigate welfare losses, policymakers should account for asymmetric exchange rate pass‐through, considering both state‐dependent economic conditions and the origin of the shock.",
-            "abstract_zh": "摘要 本文研究了非对称汇率传递对国内外生产率冲击福利成本的影响。通过在标准两国动态一般均衡模型中引入汇率传递参数来实现这一点。该参数使用局部投影方法在84个国家的面板数据上进行实证估计，结果显示，在货币贬值期间、高通胀时期以及汇率波动较大的国家，传递率显著更高。相应的福利模拟表明，在货币贬值、高通胀和高汇率波动的情况下，国内生产率冲击的成本最高，而国外生产率冲击在货币升值、低通胀和低汇率波动的情况下导致显著更大的福利损失。这些发现意味着，为了减轻福利损失，政策制定者应考虑非对称汇率传递，同时考虑依赖于经济状况的状态和冲击的来源。",
+            "title_en": "Grow Global, Act Digital: The Impact of Digitalization on Global Value Chain Positioning",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70046",
+            "abstract_en": "ABSTRACT Despite rapid advancements in digital technologies, the relationship between digitalization and trade, particularly within global value chains (GVCs), remains unclear. This study investigates the causal impact of digitalization on firm GVC positioning, a key determinant of both supply chain resilience and value‐added upgrading. Using data on Chinese exporters and an instrumental variable (IV) strategy to address endogeneity, we find that digitalization enables firms to expand their span of production stages by sourcing inputs from more upstream segments and shifting exports closer to final demand. Mechanism analysis shows that this effect can be attributed to the influence of digitalization on strengthening firm innovation capability, increasing high‐skilled labor utilization, improving resource allocation efficiency, and reducing information costs.",
+            "abstract_zh": "",
             "matched_topics": [
-              "国际经济",
-              "创新药"
+              "国际贸易",
+              "企业创新"
             ]
           },
           {
-            "title_en": "Extreme Heat and the Domestic Value‐Added Ratio in Exports",
-            "title_zh": "极热天气与出口中的国内增加值比率",
-            "url": "https://doi.org/10.1111/roie.70028",
-            "abstract_en": "ABSTRACT The impact of climate change on economic activities is an issue of widespread global concern. Using firm‐level data from China during 2000–2014, this paper examines how local extreme heat shocks affect firms' participation in global value chains, measured by the domestic value‐added ratio in exports (DVAR). Our results reveal that one additional day with a temperature exceeding 33°C in a given year leads to a decrease of 0.138% in the DVAR of Chinese firms. A back‐of‐the‐envelope calculation for the entire country suggests that each extra day of extremely high temperature was associated with an annual loss of USD 16.19 million in value‐added through export. The underlying mechanisms operate through two main channels: a direct productivity channel, in which extreme heat lowers labor productivity, and an indirect substitution channel, whereby firms increase their reliance on imported intermediate inputs from regions with lower climate risks. These mechanisms suggest that local heat shocks can propagate across supply chains, reshaping international production patterns. By emphasizing how climate risks transmit through production networks, this study provides new evidence that environmental shocks can become important determinants of comparative advantage in global trade.",
-            "abstract_zh": "摘要 气候变化对经济活动的影响是一个全球普遍关注的问题。本文利用2000-2014年中国企业层面数据，检验了当地极端高温冲击如何影响企业参与全球价值链的程度，以出口中的国内增加值比率（DVAR）来衡量。研究结果表明，一年中每增加一天温度超过33°C，中国企业的DVAR就会下降0.138%。对整个国家进行粗略计算表明，每增加一天极端高温，通过出口的增加值年度损失为1619万美元。这些机制通过两个主要渠道发挥作用：一是直接生产率渠道，极端高温降低了劳动生产率；二是间接替代渠道，企业增加了对气候风险较低地区进口中间产品的依赖。这些机制表明，当地热冲击可以通过供应链传播，重塑国际生产模式。通过强调气候风险如何通过生产网络传播，本研究提供了新的证据，表明环境冲击可能成为全球贸易中比较优势的重要决定因素。",
+            "title_en": "Tariff: The Most Beautiful Word in the Dictionary?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70043",
+            "abstract_en": "ABSTRACT We consider the welfare impacts of US tariff policy at levels proposed by President Donald J. Trump. General‐equilibrium simulations under a widely used transparent one‐sector trade model reveal sizable US welfare losses. When we extend the model to include bilateral firm selection and high resolution input–output linkages, the US losses escalate. We adopt a theory‐with‐numbers method to perform comparative static simulations over President Trump's stated tariff goals and consider retaliatory responses. Unified symmetric global retaliation to US protection, at the level of Trump's proposal, places 270% of the global efficiency loss on the US, leading to gains for all other regions except Canada. Our new results are dependent on both our incorporation of data (beyond trade flows and trade elasticities) and our structural extensions to consider bilateral selection of firms. We provide a foundation for our results in a computational analysis of optimal tariffs.",
+            "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
               "创新药"
             ]
           },
           {
-            "title_en": "Extreme Capital Flow Episodes in Emerging Markets: Incidence and Drivers",
-            "title_zh": "新兴市场中的极端资本流动事件：发生频率与驱动因素",
-            "url": "https://doi.org/10.1111/roie.70026",
-            "abstract_en": "ABSTRACT We update the dataset on extreme capital flow episodes (surges, stops, flight, and retrenchment), originally constructed by Forbes and Warnock, for 29 emerging markets from 1985 to 2020. We also create new datasets on episodes based on the components of capital flows (portfolio, banking, and foreign direct investment [FDI] flows). Using the datasets, we examine how the incidence and drivers of episodes have changed since the Global Financial Crisis (GFC) and how they differ between the various components of capital flows. We find that although the frequency of episodes has, in general, increased since the GFC, they have become more evenly distributed across time. Since the GFC, episodes have become less sensitive to changes in global risk and global growth and more sensitive to changes in oil prices. Finally, episodes based on portfolio and banking flows are correlated with global and domestic factors, while episodes based on FDI flows are more idiosyncratic.",
-            "abstract_zh": "摘要 我们更新了Forbes和Warnock最初构建的1985至2020年间29个新兴市场极端资本流动事件（激增、停止、外逃和缩减）的数据集。我们还创建了基于资本流动组成部分（投资组合、银行和外国直接投资[FDI]流动）的新数据集。利用这些数据集，我们检验了自全球金融危机（GFC）以来事件的发生率和驱动因素如何变化，以及它们在不同资本流动组成部分之间有何不同。我们发现，尽管自GFC以来事件的频率总体上有所增加，但它们在时间上的分布变得更加均匀。自GFC以来，事件对全球风险和全球增长变化的敏感性降低，而对油价变化的敏感性增加。最后，基于投资组合和银行流动的事件与全球和国内因素相关，而基于FDI流动的事件更具特异性。",
+            "title_en": "Unequal Gains: Profit Shifting, Trade Liberalization, and Welfare in Asymmetric Economies",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70047",
+            "abstract_en": "ABSTRACT Does trade liberalization enhance the welfare impact of profit shifting on asymmetric non‐haven countries? We examine the interaction between trade liberalization and corporate profit shifting within a three‐country framework featuring heterogeneous firms and monopolistic competition. Our model incorporates two non‐haven countries and a tax haven where firms can shift profits. The non‐havens are asymmetric in their concentration of multinational enterprise (MNE) headquarters, with a developed country typically hosting a larger share of MNEs. Our research shows that developing countries can suffer welfare losses from the presence of tax havens, while highly developed economies can benefit. Furthermore, we demonstrate that the interplay between trade liberalization and profit shifting yields non‐monotonic welfare outcomes that are contingent upon a country's MNE concentration.",
+            "abstract_zh": "",
             "matched_topics": [
-              "国际经济"
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Trade Liberalization and Labor Market Monopsony Power: Evidence From China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70048",
+            "abstract_en": "ABSTRACT We study the effect of trade liberalization on firms' monopsony power in the labor market. We estimate firm‐specific markdowns from production data in the manufacturing industry and document the trends in China between 1998 and 2007. Taking China's entry to the WTO as a policy shock, we use a difference‐in‐differences (DiD) approach combined with an instrumental variable (IV) strategy to show that a one percentage point decrease in input tariff reduces markdown by 1.9%–2.2%. Moreover, we explain the pattern by constructing shift‐share trade shocks and find that the number of firms increases in regions more exposed to export expansion, and decreases in regions more exposed to import competition, while the net positive effect on firm number is associated with lower monopsony power. The results highlight the opposing impacts of import and export shocks and regional heterogeneity across labor markets.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "The Surprising Bias of <scp>PPML</scp> Estimates of Structural Gravity Models With Two‐Way Fixed Effects",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70044",
+            "abstract_en": "ABSTRACT The previous literature has shown that the Poisson Pseudo‐Maximum Likelihood (PPML) estimator provides consistent and asymptotically unbiased estimates of the parameters of structural gravity models with two‐way fixed effects, although their standard errors need correction. We show that, notwithstanding this result, PPML suffers from bias in small samples. Surprisingly, that bias is evident in the types of samples typically used for gravity models, which can involve tens of thousands of observations. We explore the nature and extent of the bias both theoretically and through simulations, and we show that bias corrections based on the bootstrap and split‐sample jackknife can attenuate but not necessarily eliminate it. An empirical application suggests that, especially at the sectoral level, the bias we have identified could be significant, particularly in settings where point estimates are of primary importance, such as when gravity model estimates of the impact of a trade agreement or some other non‐tariff policy are used in a second stage general equilibrium impact assessment of a counterfactual policy change.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "U.S.‐China Trade Tensions and Their Supply Chain Relationships: Evidence From U.S. Listed Firms",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70039",
+            "abstract_en": "ABSTRACT Based on the data of U.S. listed firms from 2015 to 2021, this paper uses a difference‐in‐differences model to empirically investigate the impact of the 2018 U.S.‐China trade tensions on the supply chain arrangements of U.S. firms with China. The baseline estimation results indicate that after the trade tensions, U.S. firms have reduced their supply chain dependence on China. The results of the mechanism analyses imply that based on an implicit policy logic of “more imports, more restrictions,” the U.S. has restrained the supply chains related to China through raising import tariffs, expanding export controls, and strengthening supply chain reviews. The results of heterogeneity analyses find that U.S. firms in high‐tech industries, those with specific supply chain relationships, and those with weak market power have significantly reduced their dependence on China. The results of extended analyses reveal that after the occurrence of the trade tensions, the supply chain arrangements of U.S. firms have shown a trend of “China plus N” and “prioritizing near‐shoring and friend‐shoring.” There is a “de‐risking” trend in U.S. supply chain arrangements with China, even though they have not yet developed into a “decoupling” state.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Trade Liberalization, Market Access, and Firm Productivity",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70040",
+            "abstract_en": "ABSTRACT This study investigates the complementary relationship between trade liberalization, road infrastructure, and firm productivity in China. Leveraging China's unique context—characterized by vast geography and complex supply chains—we examine whether improved domestic market access amplifies the gains from input tariff reductions. To address endogeneity, we construct a novel time‐varying instrument based on historical courier stations from the Ming Dynasty. Our empirical results provide robust evidence that the expansion of expressway networks significantly enhances the positive effects of tariff cuts on firm productivity. Crucially, we uncover a distinct “threshold effect” through spatial heterogeneity analysis: the complementarity is predominantly driven by the Eastern region, consistent with the hypothesis that industrial agglomeration amplifies policy benefits; conversely, insignificant effects in the Western region suggest that a critical mass of industrialization is requisite for infrastructure to unlock trade gains. Mechanistically, unlike findings in smaller economies where cost pass‐through dominates, we show that in China, better roads enable firms to upgrade the variety and quality of intermediate inputs and increase markups. Furthermore, at the aggregate level, this trade‐infrastructure interaction reduces the dispersion of both TFP and markups, thereby improving resource allocation efficiency. These findings underscore that the benefits of global integration are conditional on local structural foundations, highlighting the need for coordinated trade and infrastructure policies.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
             ]
           }
         ],
@@ -1368,18 +1419,8 @@
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 14,
+        "total_in_issue": 13,
         "papers": [
-          {
-            "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105534",
-            "abstract_en": "I propose that the concept of ‘systems of use’ can be a valuable lens for more deeply understanding user innovation processes and outcomes. I define a system of use as a group of components that interact during use to accomplish a system-level goal. Each component, which may be a physical or digital product, or a human behavior, plays a role in a specific system of use by accepting inputs, processing them, and providing outputs within and beyond that system. To date, research on innovation has largely focused on the nature of, and innovative history of, and value of specific product innovations. A system of use perspective adds a focus onto the contexts within whichspecific innovations function. This altered focus, in turn, draws attention to related adaptations and innovations that are often required to integrate specific innovations into such systems. Specifically, a system focus can highlight behavioral system of use components that are often overlooked - especially when they are diffused peer-to-peer rather than being sold on markets. Further, a system focus can document the often rapid changes that end users may make to their own systems of use as they adapt to new circumstances, but without changing the major product components that are normally tracked as a way to identify system change.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
           {
             "title_en": "Understanding regional readiness to contribute to the bioeconomy: The role of higher education institutions and other regional characteristics",
             "title_zh": "",
@@ -1392,10 +1433,10 @@
             ]
           },
           {
-            "title_en": "Can FinTech innovate green finance? Scrutinising the financial ecologies and innovation dynamics of FinTech for forest restoration",
+            "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105564",
-            "abstract_en": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105534",
+            "abstract_en": "I propose that the concept of ‘systems of use’ can be a valuable lens for more deeply understanding user innovation processes and outcomes. I define a system of use as a group of components that interact during use to accomplish a system-level goal. Each component, which may be a physical or digital product, or a human behavior, plays a role in a specific system of use by accepting inputs, processing them, and providing outputs within and beyond that system. To date, research on innovation has largely focused on the nature of, and innovative history of, and value of specific product innovations. A system of use perspective adds a focus onto the contexts within whichspecific innovations function. This altered focus, in turn, draws attention to related adaptations and innovations that are often required to integrate specific innovations into such systems. Specifically, a system focus can highlight behavioral system of use components that are often overlooked - especially when they are diffused peer-to-peer rather than being sold on markets. Further, a system focus can document the often rapid changes that end users may make to their own systems of use as they adapt to new circumstances, but without changing the major product components that are normally tracked as a way to identify system change.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -1405,6 +1446,16 @@
             "title_en": "Do societal promises influence patent value? An analysis of inventions in artificial intelligence",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105566",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Can FinTech innovate green finance? Scrutinising the financial ecologies and innovation dynamics of FinTech for forest restoration",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105564",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1486,9 +1537,9 @@
             ]
           },
           {
-            "title_en": "Utility model patent regimes around the world and over time: Strictness, usage, and economic development",
-            "title_zh": "全球及不同时期实用新型专利制度：严格性、使用情况与经济发展",
-            "url": "https://doi.org/10.1016/j.respol.2026.105517",
+            "title_en": "Patent protection and software firm financing",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105571",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1579,26 +1630,26 @@
         "query_name": "Management Science",
         "issn": "0025-1909",
         "resolved_name": "Management Science",
-        "issue_title": "Volume 72, Issue 6",
+        "issue_title": "Volume 72, Issue 7",
         "issue_url": "https://pubsonline.informs.org/journal/mnsc",
         "matched_count": 12,
-        "total_in_issue": 16,
+        "total_in_issue": 13,
         "papers": [
           {
-            "title_en": "The Role of Networks in Loan Syndicate Markets",
+            "title_en": "Group Discussions Improve Competence Calibration: Making Self-Perceived Competence Valuable When Harnessing the Wisdom of Crowds",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.06313",
-            "abstract_en": "Several large, well-connected banks jointly underwrite the vast majority of syndicated loans. Although syndication reduces risk by spreading large loans across multiple banks and may benefit borrowers, the process may also facilitate collusive pricing. Disentangling these two effects requires a network view of loan syndicates as traditional measures of market concentration do not capture the collaborative nature of syndication. We find that well-connected banks offer 5- to 15-basis-point-lower loan rates. Well-connected lenders leverage their network position to structure larger, more dispersed syndicates with fewer coarrangers, allowing them to earn higher fee income and reduce their loan risk exposure. We address potential selection biases by exploiting the stickiness in firm-bank relationships and the transfer of credit relationships around forced mergers during the 2007–2009 financial crisis. Using new supervisory data on borrowers’ loan repayment and on-site inspections, we find little evidence that connectedness is related to superior monitoring or performance. Our findings suggest that connectivity is instrumental in lowering loan prices rather than facilitating collusive pricing. This paper was accepted by Kay Giesecke, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06313 .",
+            "url": "https://doi.org/10.1287/mnsc.2022.03061",
+            "abstract_en": "This paper experimentally demonstrates that group discussions can serve as an instrument to improve competence calibration, which in turn allows getting more wisdom out of the crowd through competence weighting. While the alignment of individuals’ estimation accuracy and self-perceived competence is typically poor and competence-weighted aggregates do not even match the accuracy of simple averaging, we find that preceding group discussions on unrelated judgment problems enhance competence calibration. Consequently, the subsequent performance of competence-weighted aggregation schemes rises to and beyond prediction market levels, suggesting an easy-to-implement approach for effectively exploiting crowd wisdom. This paper was accepted by Manel Baucells, behavioral economics and decision analysis. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03061 .",
             "abstract_zh": "",
             "matched_topics": [
-              "产业经济"
+              "创新药"
             ]
           },
           {
-            "title_en": "The Interplay Between Product Variety and Customer Retention: Theory and Evidence",
+            "title_en": "How Do Behavioral Approaches to Increase Savings Compare? Evidence from Multiple Interventions in the U.S. Army",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.00985",
-            "abstract_en": "The optimal number of products to offer consumers is one of the core strategic problems that firms face. This is increasingly so in digital markets where many firms offer a large product variety. In these markets, consumers purchase products repeatedly, making customer retention an important aspect for firm performance. In this paper, we study the interplay between these two variables, product variety and customer retention. First, we provide a novel game-theoretic model to analyze this interplay and also determine how the optimal product variety depends on the market environment. Second, we provide suggestive evidence for our theoretical predictions using data for video games from Steam. Our data set allows us to measure the key variables in our game-theoretic model and additionally contains plausible instrumental variables for empirical identification. We show theoretically that investment in product portfolio size and investment in customer retention are substitutes because the former increases demand from switching consumers, whereas the latter increases the repurchase probability of current consumers. We then derive predictions on how market conditions determine a firm’s product variety, for which we find evidence in our empirical analyses: there is (i) a negative relation between product portfolio size and customer retention, (ii) an inverted U-shaped relationship between market value and product variety, and (iii) a positive relation between consumer heterogeneity and product variety. Both our theoretical and empirical results are robust to a wide set of robustness checks. This paper was accepted by Alfonso Gambardella, business strategy. Funding: This work was supported by Deutsche Forschungsgemeinschaft (DFG) [Grant 462020252]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00985 .",
+            "url": "https://doi.org/10.1287/mnsc.2024.04939",
+            "abstract_en": "How can we compare approaches to increase retirement savings? Messaging interventions, active choice frameworks, and automatic enrollment all increase retirement savings, but evidence supporting these approaches spans widely different institutional settings, populations, and time periods. In this study, we use experimental and quasi-experimental variation in these approaches within a constant setting using interventions in the U.S. military during 2016–2018. We find large differences in the efficacy of these approaches, with active choice and automatic enrollment programs being about 10 and 100 times more effective than messaging interventions, respectively. We also collect novel data on program costs and generate estimates of cost-effectiveness for each program. We find that active choice and automatic enrollment are consistently more cost effective than any messaging interventions, active choice programs are the most cost-effective for small firms, and automatic enrollment is the most cost-effective program for larger firms. This paper was accepted by Jack Soll, behavioral economics and decision analysis. Funding: The authors thank the TIAA Institute, Wharton School’s Pension Research Council and Boettner Center, the Social Security Administration, and the NBER Retirement and Disability Research Center for financial support. The research reported herein was performed pursuant to a grant from the U.S. Social Security Administration [SSA Grant Number RDR18000003] funded as part of the Retirement and Disability Research Consortium. The opinions and conclusions expressed are solely those of the author(s) and do not represent the opinions or policy of the Social Security Administration, any agency of the Federal Government, the NBER, the TIAA Institute, or Wharton School’s Pension Research Council/Boettner Center. Neither the U.S. Government nor any agency thereof, nor any of their employees, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of the contents of this research. Reference herein to any specific commercial product, process or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply endorsement, recommendation or favoring by the U.S. Government or any agency thereof. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04939 .",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -1606,73 +1657,50 @@
             ]
           },
           {
-            "title_en": "Venture Capital and Private M&amp;A Contracting",
+            "title_en": "Dynamic Portfolio Selection Under Quantile Maximization",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.00654",
-            "abstract_en": "This study investigates the role of venture capital (VC) firms in private mergers and acquisitions (M&A) contracting, particularly in reducing information asymmetry. Analyzing a proprietary data set of 851 startup acquisitions from 2015 to 2020, I find that M&A contracts are significantly less likely to include earnouts, mechanisms designed to mitigate information asymmetry, when a VC is involved in the transaction. Further analysis reveals that earnouts are more likely in transactions with high information asymmetry between the VC and the buyer. The study also examines the effect of prior relationships between VCs and buyers, showing that these connections not only increase the chances of repeat transactions but also further reduce the reliance on earnouts. These findings suggest that VCs play a crucial role in mitigating information asymmetry, reducing the need for earnouts, and ultimately improving M&A outcomes. This paper was accepted by Bo Becker, finance. Funding: Research funding was provided by the University of Chicago Booth School of Business. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00654 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Shareholderism Around the World: Corporate Purpose, Culture, and Law",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.00463",
-            "abstract_en": "We provide the first comprehensive analysis of directors’ shareholderism: their principled stance toward shareholders and stakeholders in forming strategy. We develop an analytical framework that links shareholderism to individual and institutional factors and test our theoretical predictions using a sample of more than 900 directors originating from 55 countries and serving in 23 countries. Directors’ shareholderism varies according to their individual values; their cultural heritage of egalitarianism, harmony, and embeddedness; and their status as expatriate directors. Directors’ shareholderism does not appear to depend on the distinction between common and civil law. Instrumental variable regressions that address the endogeneity of directors’ expatriate status suggest that expatriates’ and local directors’ shareholderism reflect different cultural emphases. To be effective, current approaches to ensuring corporations do the “right” thing through legal injunctions may need to be mindful of the stability and resilience of individual values and culture. This paper was accepted by David Simchi-Levi, business strategy. Funding: A. N. Licht acknowledges financial support from the Israeli Science Foundation [Grant 342/08]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2222.00463 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.03182",
+            "abstract_en": "Although maximizing quantiles is intuitively appealing and has an axiomatic foundation, it is difficult to find the optimal portfolio strategy because of time inconsistency. Using an intrapersonal equilibrium approach and focusing on the class of time-varying affine strategies, we find that the only viable outcome is from the median maximization because for other quantiles, either the equilibrium does not exist or there is no investment in risky assets. We also prove that maximizing the median endogenizes the use of portfolio insurance. The calibration of the model uncovers a new empirical phenomenon: “portfolio share smile.” This paper was accepted by Giesecke Kay, finance. Funding: This research was supported by the General Research Fund of the Research Grants Council of Hong Kong SAR [Grant 14207620], Early Career Scheme of the Research Grants Council of Hong Kong SAR [Grant 25213424], the National Natural Science Foundation of China [Grant 12401622], and the Hong Kong Polytechnic University [Grant P0042708]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03182 .",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Evaluating the Efficacy of Application Costs for Managing Congestion in Online Matching Markets",
+            "title_en": "Model Aggregation for Risk Evaluation and Robust Optimization",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2021.03495",
-            "abstract_en": "Matching platforms seek to facilitate market clearing, but congestion arises with imbalances in supply and demand. In online labor markets, when workers can apply to jobs without restriction, they may apply to an excessive volume of positions to maximize their likelihood of securing work, overwhelming employers and making screening difficult if not altogether unmanageable. Prior research has theoretically argued that imposing application costs on workers can mitigate this issue. However, the efficacy of such a solution has yet to be evaluated empirically in matching platforms where employers incur significant screening costs. We address that gap here, considering a prominent online labor market that imposed application costs on workers. We report evidence that application costs successfully improved matching outcomes via at least two channels. First, the application costs reduced bid volumes, lowering employer screening costs in turn. Second, the application costs led workers to become more selective in their applications, focusing on the employers and jobs that they were best suited for and putting greater effort into differentiating themselves, including actively reaching out to employers via direct messages. These worker-side, secondary responses enhance the first-order benefit of the application costs (i.e., constraining application volumes). Finally, the workers’ increased selectivity comes paired with risk aversion among workers, who become more likely to apply for jobs requiring familiar skills and less likely to apply for jobs posted by employers in different time zones or speaking a different language. We discuss the implications of our findings for workers’ longer-term career trajectories and market sustainability generally. This paper was accepted by D. J. Wu, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.03495 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.03523",
+            "abstract_en": "We introduce a new approach for prudent risk evaluation based on stochastic dominance, and it is called the model aggregation (MA) approach. In contrast to the classic worst case risk (WR) approach, the MA approach produces not only a robust value of risk evaluation but also a robust distributional model, independent of any specific risk measure. The MA risk evaluation can be computed through explicit formulas in the lattice theory of stochastic dominance, and under some standard assumptions, the MA robust optimization admits a convex program reformulation. The MA approach for Wasserstein and mean-variance uncertainty sets admits explicit formulas for the obtained robust models. Via an equivalence property between the MA and WR approaches, new axiomatic characterizations are obtained for the value at risk and the expected shortfall (also known as conditional value at risk). The new approach is illustrated with various risk measures and examples from portfolio optimization. This paper was accepted by Chung Piaw Teo, optimization. Funding: This research was supported by the National Natural Science Foundation of China [Grants 12371476, 71921001, 71671176, 71871208], the Natural Sciences and Engineering Research Council of Canada [Grants CRC-2022-00141, RGPIN-2024-03728, RGPAS-2018-522590, RGPIN-2018-03823], and the Society of Actuaries Center of Actuarial Excellence Research Grant. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03523 .",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "E-backtesting",
+            "title_en": "The Competitive Ratio of Threshold Policies for Online Unit-Density Knapsack Problems",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.01659",
-            "abstract_en": "In the recent Basel Accords, the Expected Shortfall (ES) replaces the Value-at-Risk (VaR) as the standard risk measure for market risk in the banking sector, making it the most important risk measure in financial regulation. One of the most challenging tasks in risk modeling practice is to backtest ES forecasts provided by financial institutions. To design a model-free backtesting procedure for ES, we make use of the recently developed techniques of e-values and e-processes. Backtest e-statistics are introduced to formulate e-processes for risk measure forecasts, and unique forms of backtest e-statistics for VaR and ES are characterized using recent results on identification functions. For a given backtest e-statistic, a few criteria for optimally constructing the e-processes are studied. The proposed method can be naturally applied to many other risk measures and statistical quantities. We conduct extensive simulation studies and data analysis to illustrate the advantages of the model-free backtesting method, and compare it with the ones in the literature. This paper was accepted by Agostino Capponi, finance. Funding: R. Wang acknowledges financial support from the Natural Sciences and Engineering Research Council of Canada [Grants RGPIN-2024-03728 and CRC-2022-00141]. J. Ziegel acknowledges financial support from the Swiss National Science Foundation. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01659 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.01577",
+            "abstract_en": "We study a wholesale supply chain ordering problem. In this problem, the supplier has an initial stock and faces an unpredictable stream of incoming orders, making real-time decisions on whether to accept or reject each order. What makes this wholesale supply chain ordering problem special is its knapsack constraint; that is, we do not allow partially accepting an order or splitting an order. The objective is to maximize the utilized stock. We model this wholesale supply chain ordering problem as an online unit-density knapsack problem. We study randomized threshold algorithms that accept an item as long as its size exceeds the threshold. We derive two optimal threshold distributions, the first is 0.4324-competitive relative to the optimal off-line integral packing, and the second is 0.4285-competitive relative to the optimal off-line fractional packing. Both results require optimizing the cumulative distribution function of the random threshold, which are challenging infinite-dimensional optimization problems. We also consider the generalization to multiple knapsacks, in which an arriving item has a different size in each knapsack. We derive a 0.2142-competitive algorithm for this problem. We also show that any randomized algorithm for this problem cannot be more than 0.4605-competitive. This is the first upper bound strictly less than 0.5, which implies the intrinsic challenge of the knapsack constraint. We show how to naturally implement our optimal threshold distributions in the warehouses of a Latin American chain department store. We run simulations on its order data that demonstrate the efficacy of our proposed algorithms. This paper was accepted by George Shanthikumar, data science. Funding: This work was supported by the Massachusetts Institute of Technology–Accenture Alliance for Business Analytics. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01577 .",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
-              "创新药"
+              "国际贸易"
             ]
           },
           {
-            "title_en": "Green Bonds: Reputational Bonding via Media Coverage",
+            "title_en": "Effects of Financial Constraints on Supply Chain Financing Choices and Operational Decisions",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.05701",
-            "abstract_en": "Building on prior literature showing that green bond issuance signals a firm’s environmental commitment, this paper provides empirical evidence on a mechanism that gives credibility to this signal: reputational bonding through increased media coverage. Compared with matched firms, media coverage of a firm’s environmental performance increases significantly after issuing green bonds. This increase persists over time and extends to aspects of environmental performance that go beyond the contractual obligations of the green bond. Although this result is more pronounced for positive news, the increase in negative news is significantly larger for green bond issuers with environmental controversies after green bond issuance. Cross-sectional analyses show that this media coverage increase is concentrated among green bond issuers that are larger, listed on green bond exchanges, and in countries with weaker institutional oversight of environmental issues. To shed light on the effectiveness of this reputational bonding mechanism, I find that higher media attention following green bond issuance is associated with higher environmental performance. This paper was accepted by Ranjani Krishnan, accounting. Funding: S. Lu gratefully acknowledges financial support from Harvard Business School, the University of Chicago Booth School of Business, and the Bradley Fellowship awarded by the Stigler Center for the Study of the Economy and the State. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05701 .",
+            "url": "https://doi.org/10.1287/mnsc.2024.08465",
+            "abstract_en": "Bank credit access allows firms to borrow funds from banks and other financial institutions. Although theories have been developed on how bank financing affects firms’ operational decisions, empirical investigations in operations management (OM) literature remain limited. This study examines firms’ inventory management strategies in response to the enhanced credit lines from the adoption of interstate bank branching laws, which introduced staggered access to bank credit for operational firms. By merging multiple datasets with credit line information from 10-K SEC filings, we constructed a panel data set covering 1990–2005. Utilizing a difference-in-differences (DID) approach, we find that improved bank credit access leads to a 6% faster inventory turnover, rather than an increase in inventory investment. This outcome appears to stem from short-term increases in capacity investments leveraging their enhanced bank credit and increased use of trade credit, alongside long-term improvements in infrastructure and capital intensity. While these developments are more pronounced for small firms in concentrated markets, their advantage translates into increased competition, negatively impacting the market position and profitability of larger firms. Additionally, in a broader supply chain context, focal firms experience faster inventory turnover when their major customers access more bank credit. The effect is especially prominent for large suppliers in competitive markets, driven by increased sales volumes. This research enhances understanding of the extensive impact of bank credit on operational management and offers insights for policymakers about the diverse effects of bank regulations across different market players and sectors. This paper was accepted by J. George Shanthikumar, data science. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08465 .",
             "abstract_zh": "",
             "matched_topics": [
-              "创新药"
+              "国际贸易"
             ]
           },
           {
-            "title_en": "Financial Shocks and Firm Innovation in Supply Chain Networks",
+            "title_en": "Incentivizing Information Exchange Within Groups: The Role of Voting Protocols in U.S. Food and Drug Administration Advisory Committees",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.03601",
-            "abstract_en": "We study the influence of supply chains on the transmission of financial shocks to firms’ innovation. Using matched Italian firm-bank data over the 2007–2017 period, we find that firms’ engagement in supply chains enhanced the resilience of innovation activities to the banking shock caused by the “twin financial crises” (Great Financial Crisis and sovereign debt crisis). The results suggest that, amid the banking shock, supply chains facilitated purchases of innovative intermediates through trade credit provision and helped to sustain firms’ joint research and development efforts. The estimates imply, however, that the support offered by supply chains did not extend to radical product advances. This paper was accepted by Bo Becker, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03601 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Takeover Threats and Mandatory Disclosure Avoidance: Evidence from Contract Redactions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.05948",
-            "abstract_en": "Mandatory disclosure is a primary source of public information available to acquirers, yet little is known about how potential target managers respond to takeover threats by avoiding mandatory disclosure. This study focuses on redactions in material contracts as a setting of mandatory disclosure avoidance. We find that managers facing takeover threats are more likely to redact material contracts than other managers. To better differentiate the motives for redactions, we classify redacted contracts into nine different categories and examine managers’ redaction decisions on the three most prominently redacted types. We find managers facing takeover threats redact research and development contracts more heavily when firms possess trade secrecy, as a strategy to thwart technological acquisitions aiming at innovation combinations. By contrast, managers redact purchase and sales contracts and license and royalty contracts more heavily when they have greater private control benefits. Overall, our results highlight new tactics that managers use when they face takeover threats, especially under threats of technological acquisitions. This paper was accepted by Suraj Srinivasan, accounting. Funding: L. (N.) Su acknowledges the financial support from the Faculty of Business, The Hong Kong Polytechnic University. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05948 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.03649",
+            "abstract_en": "Complex and important decisions are often made with advice from a committee of experts. But how do a committee’s “rules of engagement” affect the way individuals discuss, how they vote, and ultimately the quality of their collective recommendation? Compiling verbatim transcripts from U.S. Food and Drug Administration advisory committee meetings, we study how a 2007 switch from sequential to simultaneous voting procedures changed discussions, information exchange, and decision making. Consistent with past findings, we show that, compared with a sequential voting protocol, simultaneous voting led to a reduction in the likelihood of unanimous votes. Importantly, we show novel evidence that the majority of this reduction in unanimity was mediated by changes in discussion patterns—specifically, by the increased diversity of information surfaced during discussions. We also find evidence of behavioral and linguistic changes that support our theory that voting protocols changed the incentives for members to elicit more diverse information from each other: under simultaneous voting, members exhibited greater equality in talking time, directed a greater proportion of questions to each other, and adopted language that was more positive, authentic, and equal in projecting status and confidence. Finally, we show that recommendations under simultaneous voting were more likely to be accurate, as drugs recommended and approved were less likely to encounter safety-related postmarket events. In sum, voting protocols affect the incentives for individuals to engage in robust discussions, leading to marked improvements in how information is exchanged between individuals, and in the process by which groups of experts arrive at joint recommendations. This paper was accepted by Sridhar Tayur, entrepreneurship and innovation. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03649 .",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -1681,34 +1709,57 @@
             ]
           },
           {
-            "title_en": "What Happens to Corporate Investment in Bad Times?",
+            "title_en": "No Gifts Returned: Surprise Bonuses Reduce Productivity in a Natural Field Experiment",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.04350",
-            "abstract_en": "Recent studies suggest monitoring increases during economic downturns. In this study, we test whether firms’ abnormal investment activity changes across the business cycle. Focusing on recessions, we find that firms not only curtail overinvestment but also reduce underinvestment, with the combined effect representing a significant 9% of average investment. Employing various proxies for monitoring intensity, we demonstrate that stronger governance mechanisms are associated with more pronounced reductions in abnormal investment. Importantly, the influence of governance on abnormal investment is magnified during recessions relative to other periods. These results are robust to a wide array of control variables, methodologies, and potential endogeneity concerns. Our findings underscore the time-varying benefits of corporate monitoring and highlight the periods when governance mechanisms may be most effective. This paper was accepted by Bo Becker, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04350 .",
+            "url": "https://doi.org/10.1287/mnsc.2022.04085",
+            "abstract_en": "The gift exchange hypothesis posits that workers reciprocate above-market wages with increased productivity. This paper tests this hypothesis in a natural field experiment where one or both workers in a pair received a discretionary bonus after an initial round of data entry tasks. Bonuses were assigned based on one of three criteria: (i) relative productivity in the initial round, (ii) economic need, or (iii) an arbitrary decision. Two conditions where neither or both workers received a bonus served as the baseline. Contrary to the gift exchange hypothesis, we found a significant decline in postbonus productivity, especially when both workers received the bonus. This result suggests that workers interpreted the bonus as a signal of employer contentment, allowing them to reduce their effort. We conjectured that the postbonus productivity decline may result from either (a) a lower perceived risk of repercussions from slacking, such as early dismissal, or (b) a reduced sense of obligation to reciprocate the employer’s kindness. A follow-up experiment replicated the primary result, providing moderate evidence for the explanation based on reduced fear of dismissal. The main effect of bonuses on productivity was substantial, with effort reductions of 15.1% in the first experiment and 8.4% in the follow-up relative to baseline. In cases where only one worker received a bonus, nonrecipients’ inequality aversion appeared to decrease productivity markedly in the economic need treatment, whereas status-seeking behavior slightly increased productivity by bonus recipients in the productivity treatment. This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis. Funding: F. Bogliacino acknowledges funding from the Fundación Universitaria Konrad Lorenz [Internal Grant 7INV1141], Open Evidence [Research Grant 009], and the Universidad Nacional [Internal Grant 26007]. G. Grimalda and D. Pipke gratefully acknowledge funding for the follow-up experiment from the Kiel Institute for the World Economy. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.04085 .",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Overcoming Deceptive Evasions in Earnings Calls: The Role of Investor Suspicion",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2025.01197",
-            "abstract_en": "Evasive responses enable managers to escape difficult questions in earnings calls without lying. Although such tactics are common in corporate communication and other important settings, we still know little about how investors and other listeners can avoid being misled by them. Drawing on theories from multiple disciplines, I predict that a common type of nonanswer leads to equivocal interpretations, whereas artful dodges escape detection in earnings calls. However, when investors adopt a suspicious state of mind—characterized by suspended judgment, balanced information search, and consideration of plausible rival possibilities—they are better able to distinguish potentially deceptive evasive tactics from proper responses. My experimental results support these predictions, showing that suspicious thinking allows investors to overcome nonanswers and dodges without punishing adequate responses. I also provide evidence that nonanswers and dodges are unique evasive strategies and that simple interventions aligned with the context of earnings calls can prompt suspicion. These findings contribute to research on the informational role of earnings calls and offer new insights into how suspicion influences deception judgments and into previous research on evasive responses in earnings calls. This paper was accepted by Ranjani Krishnan, accounting. Funding: The author acknowledges financial support from the Deloitte Foundation, the Roberto C. Goizueta Foundation, the W. P. Carey School of Business, and the Sheth Fellowship Fund. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01197 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
               "创新药"
             ]
           },
           {
-            "title_en": "OTC Discount",
+            "title_en": "Learning Personalized Treatment Strategies with Predictive and Prognostic Covariates in Adaptive Clinical Trials",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.00194",
-            "abstract_en": "We document a pecking order of transaction costs in the interdealer market for German sovereign bonds, where three trading protocols coexist. Dealers can trade over the counter (OTC), either bilaterally or via brokers, as well as on an exchange. Trading on the exchange is more expensive than OTC, and broker-intermediated trades are more costly than bilateral OTC trades. The existence of an OTC discount is difficult to square with theories centered around search-and-bargaining frictions but is in line with models of hybrid markets based on information frictions. Consistently, we show that dealers’ information impacts their choice of trading protocol and that the pecking order of transaction costs is aligned with the informational content of order flows across protocols. Search and bargaining as well as information proxies explain differences in OTC discount within protocols. A realistic description of hybrid markets thus requires both types of frictions. This paper was accepted by Agostino Capponi, finance. Funding: L. Pelizzon and M. Schneider acknowledge funding by the Deutsche Forschungsgemeinschaft [Grant 329107530]. L. Pelizzon thanks the Leibniz Institute for Financial Research SAFE for financially sponsoring this research. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00194 .",
+            "url": "https://doi.org/10.1287/mnsc.2022.02048",
+            "abstract_en": "Biomedical research may uncover insights regarding the interaction of the treatments of a disease with patient covariates. We show how to use such insights to improve the efficiency of adaptive clinical trials for precision medicine by extending ideas from optimal Bayesian learning. We present a model for response-adaptive multi-arm clinical trials that leverages knowledge about the predictive-prognostic covariate structure to accelerate the learning of personalized treatment strategies that obtain the best expected outcomes for post-trial patients. Our base model is a contextual linear bandit for best-arm identification, and outcomes may be observed with delay. We characterize the optimal policy for sequentially allocating treatments to in-trial patients and, because it is hard to compute, propose several computable heuristics based on Bayesian one-step look-ahead techniques. We prove that several of our proposed heuristics are asymptotically optimal in learning treatment strategies. Numerical results based on two case studies motivated by sepsis management show that our heuristics can significantly improve clinical trial efficiency to learn a treatment strategy for precision medicine. We provide extensions that allow for rewards from outcomes of in-trial patients (resolving the exploration-exploitation tradeoff) and for inferring covariate structure using Lasso when biomedical insights on covariate structure are lacking. Our proposed trial design is of interest to funders, designers, and managers of clinical trials. It may also apply to other contextual bandit problems in settings where insights about covariate-treatment interactions are available. This paper was accepted by Stefan Scholtes, healthcare management. Funding: This work was supported by the Marie Skłodowska-Curie Actions under the European Union’s Horizon 2020 research and innovation programme [Grant 676129]. S. E. Chick gratefully acknowledges the support of Dr Simba Gill and Sabi Dau to the INSEAD Healthcare Management Initiative. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02048 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Deciphering the PCAOB Inspection Process: Evidence and Predictive Insights from Public Data",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.08084",
+            "abstract_en": "Little is known about how the Public Company Accounting Oversight Board (PCAOB) selects audits for inspections. We exploit public data that track PCAOB searches of issuer Securities and Exchange Commission (SEC) filings and the trial transcripts of United States of America v. David Middendorf to provide the first large-sample evidence on confidential PCAOB monitoring activities. We initially validate that PCAOB searches spike during actual inspections of triennially inspected auditors and for a list of KPMG audits inspected in 2016. Importantly, we find that PCAOB searches vary predictably with ongoing audit-flagged events, client corporate events, and client characteristics, and these screening and inspection activities extend beyond enforcement actions. Using KPMG data, we introduce a PCAOB inspection prediction model for Big 4 clients based solely on public data, with predicted incidence closely aligning with actual inspections. One implication of our study is that, perhaps to mitigate political costs, the PCAOB relies overly on conspicuous trigger events that already signal low audit quality (i.e., restatements, auditor changes, chief financial officer turnovers, bankruptcies, and SEC comment letters), raising the question of how its risk-based inspection program is designed to improve overall audit quality or minimize large audit failures. In addition, although model-inferred PCAOB inspections are not associated with future restatements, broader PCAOB monitoring activities, as proxied by search intensity, exhibit modest predictive power. Overall, our study provides a more nuanced understanding of the PCAOB inspection program and the factors driving its revealed preferences. This paper was accepted by Ranjani Krishnan, accounting. Funding: This work was supported by the Jones Graduate School of Business at Rice University, Baruch College, and the Penn State Smeal College of Business. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08084 .",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Systematic Mispricing of Speculative Stocks and the Cross-Sectional Risk-Return Trade-off",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.08815",
+            "abstract_en": "We examine the cross-section of returns from the perspective of a benchmark model that only includes systematic mispricing factors. In contrast to conclusions from standard benchmark models, we recover robust positive risk-return relations for many cross-sectional risk, distress, and friction proxies. Our findings are consistent with systematic mispricing that primarily affects speculative stocks and predominantly results in overpricing, predicting lower returns. Hence, failing to control for exposure to systematic mispricing can bias tests of risk-return trade-offs for anomalies with one speculative leg (e.g., risky, distressed, or high-friction stocks) and one nonspeculative leg. Overall, our study offers novel economic insight for this subset of anomalies, indicating that a positive risk-return trade-off can be resurrected after purging out the systematic mispricing component. The evidence suggests that a small shift in perspective generates a substantially different interpretation of the same data. This paper was accepted by Lukas Schmid, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08815 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "产业经济",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "How Does Health Insurance Affect Firm Employment and Performance? Evidence from Obamacare",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.03761",
+            "abstract_en": "This article discusses how mandating employers to provide health insurance of a minimum quality and the associated increases in health insurance premia affect firm employment and performance. Using firm-level employee health insurance data around the passage of the Patient Protection and Affordable Care Act (PPACA), we show that the PPACA is associated with a significant increase in health insurance premia for employees in company-sponsored health insurance plans. In response, employers with greater exposure to the PPACA reduce employee enrollments in their health insurance plans to a larger extent after the law’s enactment. Our analysis suggests that employers achieve this reduction in enrollment by shifting employment composition from full-time employees to part-time, temporary, or seasonal workers, who are not covered in employer-sponsored health insurance plans. Furthermore, we find no evidence of deterioration in performance at companies more exposed to the increase in health insurance premia. Overall, our findings illustrate how firms adapt to and mitigate cost increases associated with regulatory changes through strategic labor practices. This paper was accepted by Lin William Cong, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03761 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           }
         ],
@@ -1722,7 +1773,7 @@
         "issue_title": "Volume 41, Issue 5",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
         "matched_count": 6,
-        "total_in_issue": 11,
+        "total_in_issue": 12,
         "papers": [
           {
             "title_en": "Navigating moral boundaries: How entrepreneurs manage stigma premiums in morally contested markets",
@@ -1810,6 +1861,16 @@
             ]
           },
           {
+            "title_en": "Inventor team diversity and patent quality: Gender–geography interaction and the role of national innovation system complexity",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103639",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "From hammers to toolkits: A methodological framework for applying design science to orchestrating collaborative innovation processes",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103632",
@@ -1830,17 +1891,6 @@
             ]
           },
           {
-            "title_en": "Platform Thinking in Action: A design science research to bring the platform revolution in legacy firms",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103629",
-            "abstract_en": "Digital platforms have become a dominant logic for value creation and innovation, yet legacy firms still struggle to translate platform principles into actionable organizational transformation. A central reason is cognitive: managers often mis-frame platforms as digital services rather than as ecosystem-based value architectures. This paper adopts a Design Science approach to develop and refine the Platform Thinking Journey, a composite managerial artifact that supports platform transformation in incumbent firms. Developed through a three-year, multi-firm collaboration within the Platform Thinking HUB, the artifact evolved across three iterative waves from exploratory tools into a validated journey structured around four phases: Framing, Design, Ignition, and Growth. The resulting Platform Thinking Journey combines a process model, bounded decision cycles, and an integrated physical and digital, or “phygital”, support architecture, including cards, canvases, workshops, digital templates, and a GenAI co-thinker. Its core mechanism is to make platform theory actionable by presenting structured alternatives grounded in the literature, focusing managerial attention, reducing ambiguity, and aligning interpretation before teams consolidate choices through design tools and milestones. The study contributes to platform and innovation management research by showing how platform transformation can be actively supported through design, and by identifying five design principles for incumbent firms: reframing from products to interactions before solutioning, structuring the process as bounded decision cycles, materializing reasoning through boundary objects, balancing conceptual depth with cognitive manageability, and sustaining reflection through phygital continuity. Methodologically, the paper offers a rigorous application of Design Science to a non-technical managerial artifact in a multi-wave, multi-firm collaborative setting. For managers, the Platform Thinking Journey provides a structured way to reframe platform opportunities, make key design choices explicit, and sustain reflection across the transformation process.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
             "title_en": "Supportive or exhausting: How resources synergize in network embedding innovation process to improve sustainability",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103631",
@@ -1852,9 +1902,40 @@
             ]
           },
           {
+            "title_en": "Platform Thinking in Action: A design science research to bring the platform revolution in legacy firms",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103629",
+            "abstract_en": "Digital platforms have become a dominant logic for value creation and innovation, yet legacy firms still struggle to translate platform principles into actionable organizational transformation. A central reason is cognitive: managers often mis-frame platforms as digital services rather than as ecosystem-based value architectures. This paper adopts a Design Science approach to develop and refine the Platform Thinking Journey, a composite managerial artifact that supports platform transformation in incumbent firms. Developed through a three-year, multi-firm collaboration within the Platform Thinking HUB, the artifact evolved across three iterative waves from exploratory tools into a validated journey structured around four phases: Framing, Design, Ignition, and Growth. The resulting Platform Thinking Journey combines a process model, bounded decision cycles, and an integrated physical and digital, or “phygital”, support architecture, including cards, canvases, workshops, digital templates, and a GenAI co-thinker. Its core mechanism is to make platform theory actionable by presenting structured alternatives grounded in the literature, focusing managerial attention, reducing ambiguity, and aligning interpretation before teams consolidate choices through design tools and milestones. The study contributes to platform and innovation management research by showing how platform transformation can be actively supported through design, and by identifying five design principles for incumbent firms: reframing from products to interactions before solutioning, structuring the process as bounded decision cycles, materializing reasoning through boundary objects, balancing conceptual depth with cognitive manageability, and sustaining reflection through phygital continuity. Methodologically, the paper offers a rigorous application of Design Science to a non-technical managerial artifact in a multi-wave, multi-firm collaborative setting. For managers, the Platform Thinking Journey provides a structured way to reframe platform opportunities, make key design choices explicit, and sustain reflection across the transformation process.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Less is more: Leveraging bricolage and exaptation for frugal innovation and firm growth",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103641",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "Digital technology adoption and servitization of manufacturing firms —The role of knowledge coupling and collaborative network cohesion",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103627",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Profiling the Entrepreneurship and Innovation Ecosystem (EIE) of Crete: A Quintuple Innovation Helix perspective",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103642",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1889,36 +1970,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
-            ]
-          },
-          {
-            "title_en": "Integrating sustainability with disruptive innovation: A comprehensive framework to identify key characteristics, barriers, and enablers",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103606",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Co-creating frugal innovation at the bottom of the pyramid",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103605",
-            "abstract_en": "Frugal innovation, characterised by affordable, cost-effective, resource-efficient solutions, has become increasingly significant for addressing the needs of the Bottom of the Pyramid (BoP) in emerging markets. It necessitates concerted efforts by key stakeholders with the shared goal of co-creating new solutions to enhance the quality of life at the BoP. However, the exploration of co-creation in devising affordable solutions for the underserved BoP market is limited in the literature. This study explores how entrepreneurs collaborate with key stakeholders to co-create frugal innovations for the BoP customers in an emerging market. We employed a multiple case study approach to address the research question. Analyzing data from 12 start-ups, including 43 interviews, our findings revealed the collaboration mechanisms in the frugal innovation process addressing BOP needs. We also demonstrate how start-ups form collaborative networks co-create frugal innovations, overcoming multiple constraints by utilising shared resources, knowledge, and capabilities. Furthermore, we reveal the key outcomes of frugal innovations. The findings advance the frugal innovation literature by incorporating co-creation as a strategic approach to addressing innovation challenges at the BoP. We extend both co-creation and frugal innovation literature by stressing the significance of co-creation in identifying problems, understanding complex scenarios, and devising affordable solutions.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "The venture clienting readiness canvas: How corporations can assess their organizational readiness for new venture collaboration",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103602",
-            "abstract_en": "Venture clienting (VCL) emerged as an increasingly prominent form of collaboration between corporations and new ventures. However, many VCL initiatives stall because corporations are not organizationally prepared to collaborate with new ventures. Using a design science (DS) methodology, this study introduces the Venture Clienting Readiness Canvas, an ex-ante assessment tool that helps corporations evaluate the internal conditions necessary for successful VCL before engagement begins. We derived five readiness domains—strategic alignment, collaboration governance, communication and trust, organizational culture, and collaboration processes—from a systematic literature review. In addition, we refined the canvas through four practitioner workshops with experienced VCL experts as part of a formative evaluation and subsequently assessed the artifact in a summative evaluation involving nine additional VCL practitioners. The results demonstrate that the canvas offers a structured, actionable approach to assessing organizational readiness for VCL. Thus, this study contributes prescriptive design knowledge on how corporations can anticipate the organizational tensions, coordination demands, and organizational change necessities inherent in collaborating with new ventures.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
             ]
           }
         ],
@@ -2027,8 +2078,8 @@
         "resolved_name": "Journal of Health Economics",
         "issue_title": "Published 2026-07",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
-        "matched_count": 5,
-        "total_in_issue": 15,
+        "matched_count": 6,
+        "total_in_issue": 18,
         "papers": [
           {
             "title_en": "Integrating equity and productivity in health evaluation",
@@ -2069,6 +2120,16 @@
             "title_zh": "提供标准化“简单选择”计划对联邦促进的ACA市场保费的影响",
             "url": "https://doi.org/10.1016/j.jhealeco.2026.103142",
             "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Improving disability benefit take-up: Experimental evidence from a public information campaign in Vietnam",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jhealeco.2026.103163",
+            "abstract_en": "Despite substantial disability-related costs, participation in public disability benefit programs remains incomplete in many countries. This is particularly the case in low- and middle-income countries where disability programs are relatively new and awareness of eligibility rules may be limited. This paper evaluates whether reducing information frictions can increase enrolment in Vietnam’s national disability benefits program. In a randomised controlled trial across 70 rural communes, standardised information about disability benefits was embedded within routine government loudspeaker broadcasts over a five-week period. Using commune-level administrative data observed approximately two years after the intervention, the results show that program enrolment was 9 percent higher in treated communes. The effects are concentrated among individuals classified with severe disabilities, for whom enrolment increased by 12 percent. Smaller effects are observed among persons with the most severe disabilities, who were likely already well covered by the program. Larger effects are also observed among children and older adults than working-age individuals, who are eligible for higher monthly disability pension amounts. These findings demonstrate that a low-cost and scalable information campaign delivered through existing government communication infrastructure can substantially increase participation in disability-related social protection programs.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
@@ -2287,67 +2348,77 @@
         "query_name": "Health Affairs",
         "issn": "0278-2715",
         "resolved_name": "Health Affairs",
-        "issue_title": "Volume 45, Issue 6",
+        "issue_title": "Volume 45, Issue 7",
         "issue_url": "https://www.healthaffairs.org/journal/hlthaff",
-        "matched_count": 6,
+        "matched_count": 7,
         "total_in_issue": 15,
         "papers": [
           {
-            "title_en": "Medicaid Tobacco And Nicotine Cessation Treatment Rates Remained Low, 2019–24",
+            "title_en": "Prior Authorization In Medicare Advantage: Beneficiary Exposure And Plan Disenrollment In 2021",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01350",
-            "abstract_en": "Tobacco use drives large health and fiscal costs for Medicaid, yet few enrollees who use these products receive cessation pharmacotherapy. We estimated that 10.4 percent of daily tobacco or nicotine users received cessation medications in 2024, and Medicaid programs spent $137.6 million on such treatments that year. State-level treatment rates ranged from 1.3 percent to 26.6 percent.",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01373",
+            "abstract_en": "Medicare Advantage plans use prior authorization to manage health care use. In recent years, these practices have come under intense scrutiny from policy makers. Using beneficiary enrollment data and contract-level prior authorization data from 2021, we documented three facts about prior authorization in Medicare Advantage. First, beneficiaries who live in different areas of the country enrolled in contracts with widely varying prior authorization rates. Second, Hispanic, Asian, Black or African American, and dual-eligible beneficiaries were disproportionately likely to enroll in plans with high prior authorization rates. Third, beneficiaries enrolled in contracts with higher prior authorization rates were more likely to disenroll from their contract-moving either to another Medicare Advantage contract or to traditional Medicare-than beneficiaries in contracts with lower prior authorization rates. Beneficiaries exposed to the highest quartile of prior authorization rates were 4.7 percentage points more likely to disenroll than beneficiaries exposed to the lowest quartile, a 44 percent difference. Higher disenrollment may suggest that beneficiaries are dissatisfied with plans that have higher prior authorization rates. Reducing overall rates of prior authorization could improve beneficiary retention in the Medicare Advantage program.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Trends In Care Needs Among Older US Adults Diverged By Age, 2011–22",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01355",
+            "abstract_en": "Changing late-life disability and care patterns that may accompany population aging have profound consequences for the nation's health and related public policies. Drawing on two cross-sectional rounds of the National Health and Aging Trends Study, we examined trends among US adults ages 65 and older in 2011, when the oldest members of the baby-boom generation turned age 65, and in 2022, when about half of the generation was ages 65-74. We found increases in the percentage of adults ages 65-74 who reported activity limitations, receiving paid care in the community, and having unmet care needs. In contrast, for older age groups, we found declines in the receipt of care overall and in residential settings, particularly nursing care, without increases in unmet care needs. All else equal, had the sociodemographic and health profile of the group ages 65-74 not differed from the preceding cohort-especially in terms of increased educational attainment-the increases experienced by this age group would have been even larger. Findings portend growing challenges in caring for older US adults in the future.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Long-Acting Injectable Buprenorphine: Uptake Was Rapid But Uneven, 2021–24",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01584",
+            "abstract_en": "We analyzed nationwide IQVIA pharmacy buprenorphine prescription episodes to characterize patterns, prescribers, and payers of long-acting injectable buprenorphine during the period 2021-24. Among 2,266,202 episodes, 41,488 (1.83 percent) were identified as being initiated with long-acting injectables, varying greatly across states. By 2024, Medicaid emerged as the most likely payer (71 percent of episodes), and most long-acting injectable episodes were prescribed by advanced practice clinicians such as nurse practitioners (62 percent).",
             "abstract_zh": "",
             "matched_topics": [
               "医药产业"
             ]
           },
           {
-            "title_en": "Points-Based Attendance Systems Associated With Presenteeism Despite Paid Sick Leave Protections",
+            "title_en": "The South Had The Lowest Rates Of Hospice And Palliative Medicine–Certified Providers In The US, 2024",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.00995",
-            "abstract_en": "Presenteeism, or attending work despite being ill enough to warrant absence, is endemic among working Americans. Although research suggests that paid sick leave mandates reduce presenteeism, it has not considered whether workers exposed to points systems for work attendance are more likely to work while sick or how points systems may interact with paid sick leave mandates. We used 2024 data from the Shift Project on service workers employed at sixty-three large firms to study the relationship between points systems and presenteeism and to determine whether that relationship varied by employee coverage under a paid sick leave law. We found that exposure to a points system was associated with an 18.9-percentage-point increase in presenteeism, with effects observed even among workers who had not incurred points. Paid sick leave mandates did not moderate exposure to a points system or the association between exposure to points systems and presenteeism. Results suggest that points-based attendance systems undermine the public health benefits of paid sick leave mandates. To reduce presenteeism in jurisdictions with paid sick leave mandates, outreach to covered workers and employers and stronger enforcement efforts may be needed.",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01485",
+            "abstract_en": "To improve access to care for serious illness, policy makers need evidence on how workforce capacity aligns with the need for palliative care. This study evaluated the palliative care workforce and policy environments at the state level, using a new data source: the 2024 Center to Advance Palliative Care's comprehensive Serious Illness Scorecard. We describe variation in the palliative care workforce relative to serious illness deaths across states and by five policy types related to serious illness: serious illness task forces, continuing medical education (CME), pediatric Medicaid waivers, adult payment policies, and Medicaid expansion. States varied from 2.91 to 19.86 hospice and palliative medicine-certified providers per 1,000 serious illness deaths, and seven states in the South census region had the lowest rates. CME for serious illness care and Medicaid expansion were significantly associated with higher rates. Between-state variation raises concerns about whether the workforce is sufficient to meet needs for people with serious illness in some southern states.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "The Opacity Of Price Transparency",
+            "title_en": "Black Patients Underdiagnosed With Long COVID In The US Compared With White Patients",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01530",
-            "abstract_en": "The success of price transparency initiatives requires that prices be defined using a common payment methodology. In this article, we explore how coding schemas and pricing approaches varied in five major markets in the United States in 2024. We investigated how frequently inpatient and outpatient payment were based on the use of Medicare Severity Diagnosis Related Group (MS-DRG) or Healthcare Common Procedure Coding System (HCPCS) codes with fixed prices versus alternative methods, such as per diem revenue codes or a percentage of billed charges for all services. We estimated that fixed-price MS-DRG or HCPCS methods were used for a preponderance of services in only 48 percent of inpatient contracts and 53 percent of outpatient contracts in 2024. Within markets, carriers seldom used fixed-price contracts for all hospitals. Similarly, most hospitals were not paid using fixed-price methods by all carriers. These results suggest that price comparisons by consumers, employers, academics, and other stakeholders face significant barriers because of the heterogeneity of payment methodologies. Moreover, efforts to promote price transparency will also need to confront the heterogeneity in pricing approaches when trying to present prices across different hospitals.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Medicaid Expansion Through Ballot Initiatives Increased Medicaid Enrollment And Reduced Uninsurance Among Adults",
-            "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01102",
-            "abstract_en": "Between 2019 and 2021, six states expanded Medicaid through voter-approved ballot initiatives, overcoming legislative opposition. We used 2016-23 data from the American Community Survey to compare health insurance coverage outcomes in these six ballot initiative states with those in ten nonexpansion states. We estimated stacked event study regression models to account for variation in expansion timing and control for socioeconomic differences. Overall, ballot initiative expansions increased Medicaid enrollment by 3.2 percentage points and decreased uninsurance by 2.2 percentage points among nonelderly adults two years after expansion. Among low-income adults, Medicaid coverage increased by 10.1 percentage points, and uninsurance fell by 6.2 percentage points. These findings show that Medicaid expansions enacted through ballot initiatives significantly increased coverage, even in politically resistant environments. However, sustaining these gains may be difficult amid ongoing state-level opposition and new federal mandates. As opportunities for future ballot-driven expansions narrow, this study highlights both the potential and the limitations of direct democracy in advancing health policy.",
+            "url": "https://doi.org/10.1377/hlthaff.2025.00179",
+            "abstract_en": "Long COVID has debilitating effects but is inconsistently diagnosed because of subjective criteria, limited treatments, and variations in health care access. We analyzed electronic health records from the National Clinical Cohort Collaborative for patients diagnosed with acute COVID-19 in the US between January 2022 and March 2023. Using six race and ethnicity categories, we evaluated 222 symptoms and long COVID diagnoses (International Statistical Classification of Diseases and Related Health Problems, Tenth Revision, code U09.9) within twelve months after infection. We assessed the relationship between race and ethnicity and long COVID diagnosis, adjusting for patient covariates and long COVID symptomatology set to the presence of at least one documented long COVID-associated symptom. Among 2.4 million patients, Black patients were less likely to be diagnosed with long COVID than White patients under a scenario in which a symptom was present and health care monitoring was at least bimonthly. For the remaining racial and ethnic groups, we found no statistically significant differences in long COVID diagnoses compared with White patients. Although the magnitude was small, the difference in diagnosis likelihood suggests the presence of potential diagnostic bias.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Rhode Island’s Affordability Standards Led To Substantial Reductions In Hospital Staffing And Labor Costs By 2022",
+            "title_en": "Access To Community Pharmacies Associated With Reduced Racial And Ethnic Disparities In Use Of Prescription Drugs, 2010–19",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01548",
-            "abstract_en": "States have emerged as laboratories to test policies to contain health care spending. In 2010, Rhode Island adopted novel affordability standards that reduced commercial prices and hospital revenues. How hospitals responded operationally to the standards is unknown. For instance, Rhode Island hospitals may have sought to reduce labor costs, as these make up the majority of hospitals' operating expenses. Using Medicare labor survey data, we performed a difference-in-differences analysis to evaluate the impact of the standards on staffing and wages for Rhode Island hospitals. We found that by 2022, the standards had resulted in a substantial reduction in labor costs relative to control hospitals. For registered nurses, the standards decreased staffing per bed by 13.4 percent and reduced wages by 3.8 percent from 2006 to 2022. Among US states, Rhode Island hospitals' ranking on staffing per bed for registered nurses fell from twenty-first before implementation of the standards to thirtieth after, whereas its ranking on wages for registered nurses remained at fifteenth. Our results suggest that Rhode Island's affordability standards led to substantial reductions in hospital staffing and labor costs. Policy makers should monitor and assess potential trade-offs, particularly for the quality of care, associated with cost control and delivery system capacity.",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01459",
+            "abstract_en": "Racial and ethnic disparities in access to medicines persist across the US. Community pharmacies serve as critical access points for prescription drugs, yet their availability varies widely, potentially contributing to health disparities. We estimated the share of the population living within ten minutes of a community pharmacy across counties, by race and ethnicity, during the period 2010-23. We linked these measures to race and ethnicity-specific, state-level estimates of age- and prevalence-standardized medication use for twenty-seven health condition categories through 2019. A 1 percent increase in people living within ten minutes of a community pharmacy at the state level was associated with 0.7 percent higher use of medications per prevalent case. This association was strongest for Asian/Pacific Islander, Black, and Hispanic populations. In addition, a 1 percent increase in ten-minute community pharmacy access was associated with a 0.52 percent decrease in racial and ethnic disparities in medication use. These findings suggest that uneven community pharmacy access may exacerbate racial and ethnic disparities in medication use. Policy makers seeking to improve medication access should consider targeted interventions to preserve or expand pharmacy availability for underserved communities.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
+              "医药产业",
               "创新药"
             ]
           },
           {
-            "title_en": "Medicare’s Hospital Wage Index Exceptions Grew By Nearly 60% From 2016 To 2024",
+            "title_en": "IRA Reforms To Medicare Part D Reinsurance Were Associated With Plan Exits And Higher Premiums, 2024–25",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01378",
-            "abstract_en": "The hospital wage index standardizes Medicare hospital payments for labor cost differences, paying otherwise equivalent hospitals more when they operate in areas with higher labor costs than in areas with lower labor costs. However, because of a plethora of exceptions, labor costs are commonly disconnected from the originally assigned wage index, and policy makers have expressed concerns that exceptions are not justified. Using publicly available wage index and Centers for Medicare and Medicaid Services impact files, we found that wage index exceptions increased by nearly 60 percent from 2016 to 2024 and were highly prevalent, with more than 70 percent of hospitals receiving exceptions by 2024 (compared with 46 percent in 2016). Growth was disproportionate across states and hospital types. Two exceptions-geographic reclassifications and rural floor adjustments-increased annual hospital revenues by an average of $650,000 and $930,000, respectively. Growth in costly exceptions distorts wage index accuracy and impedes the policy's intended goal of calibrating payments to actual labor costs.",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01518",
+            "abstract_en": "The Inflation Reduction Act (IRA) of 2022 altered the financing of prescription drug purchases for more than fifty-five million Medicare beneficiaries. Before 2025, the federal government contributed 80 percent of expenditure after a beneficiary exceeded a threshold, but beginning in 2025, this share was reduced to 20 percent. We studied the effect of the reinsurance reforms on exit, premium, and benefit design for free-standing Medicare Part D plans. We found that after the reforms, previous reinsurance payments became a strong predictor of plan exit. In a first look at the 2025 Medicare Part D Premium Stabilization Demonstration, we found that plans with higher pre-IRA reinsurance were more likely to receive the demonstration's targeted subsidy. However, plans with higher pre-IRA reinsurance increased premiums substantially in 2024 and 2025, even after the demonstration subsidies. Finally, we found no significant relationship between pre-IRA reinsurance and benefit design outcomes (for example, coverage and out-of-pocket spending). Together, our findings highlight the role of reinsurance reform in recent Part D market volatility.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
