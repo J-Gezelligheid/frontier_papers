@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-12 07:23:49",
+  "updated_at": "2026-07-19 07:13:56",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 281,
+    "fail_count": 285,
     "failed_examples": [
       "Understanding High-Wage Firms: Monopoly, Monopsony, and Bargaining Power :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "I study how firm market power and worker bargaining power shape wages and welfar :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
@@ -234,16 +234,6 @@
             ]
           },
           {
-            "title_en": "Monetary Policy without Commitment",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20241925",
-            "abstract_en": "This paper studies the implications of central bank credibility for long-run inflation and inflation dynamics. We introduce central bank lack of commitment into a standard nonlinear New Keynesian economy with sticky-price monopolistically competitive firms. Inflation is driven by the interaction of lack of commitment and the economic environment. We show that long-run inflation increases following an unanticipated permanent increase in the labor wedge or decrease in the elasticity of substitution across varieties. In the transition, inflation overshoots and then gradually declines. Quantitatively, inflation overshooting is persistent, and the welfare loss from lack of commitment relative to inflation targeting is large. (JEL D43, E12, E23, E24, E31, E52, E58)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
             "title_en": "A Welfare Analysis of Policies Impacting Climate Change",
             "title_zh": "",
             "url": "https://doi.org/10.1257/aer.20250166",
@@ -251,6 +241,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Monetary Policy without Commitment",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20241925",
+            "abstract_en": "This paper studies the implications of central bank credibility for long-run inflation and inflation dynamics. We introduce central bank lack of commitment into a standard nonlinear New Keynesian economy with sticky-price monopolistically competitive firms. Inflation is driven by the interaction of lack of commitment and the economic environment. We show that long-run inflation increases following an unanticipated permanent increase in the labor wedge or decrease in the elasticity of substitution across varieties. In the transition, inflation overshoots and then gradually declines. Quantitatively, inflation overshooting is persistent, and the welfare loss from lack of commitment relative to inflation targeting is large. (JEL D43, E12, E23, E24, E31, E52, E58)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           },
           {
@@ -309,7 +309,7 @@
             ]
           },
           {
-            "title_en": "The Power of Proximity to Coworkres",
+            "title_en": "The Power of Proximity to Coworkers",
             "title_zh": "",
             "url": "https://doi.org/10.1093/qje/qjag027",
             "abstract_en": "Abstract How does proximity to coworkers affect training and productivity? We study software engineers at a Fortune 500 firm from 2019 to 2024, leveraging two shocks to proximity: the office closures in 2020 and the subsequent return-to-office mandates in 2022 and 2023. In both cases, co-located teams experienced bigger changes in proximity than distributed ones, facilitating difference-in-differences designs. We find that sitting near teammates increases coding feedback by 18.3% and improves code quality. Gains are concentrated among less-tenured and younger employees, who are building human capital. However, there is a trade-off: experienced engineers write less code when sitting near teammates. In national U.S. data, we find evidence that the rise of remote work has had scarring effects on young college graduates. In remotable jobs, young graduates’ unemployment rate increased relative to older graduates’ post-pandemic (2022–2024) compared to pre-pandemic (2017–2019), a pattern we do not observe in non-remotable jobs.",
@@ -410,101 +410,59 @@
         "query_name": "Econometrica",
         "issn": "0012-9682",
         "resolved_name": "Econometrica",
-        "issue_title": "Volume 94, Issue 3",
+        "issue_title": "Volume 94, Issue 4",
         "issue_url": "https://onlinelibrary.wiley.com/journal/14680262",
-        "matched_count": 9,
-        "total_in_issue": 17,
+        "matched_count": 5,
+        "total_in_issue": 15,
         "papers": [
           {
-            "title_en": "Existence of Myopic‐Farsighted Stable Sets in Matching Markets",
-            "title_zh": "匹配市场中近视-远视稳定集的存在性",
-            "url": "https://doi.org/10.3982/ecta24060",
-            "abstract_en": "In the context of one‐to‐one matching markets, we study myopic‐farsighted stable sets , which are internally and externally stable when myopic agents consider immediate payoffs from their deviations, while farsighted agents anticipate counter‐deviations and consider final payoffs. We constructively prove the existence of a (rational expectations) myopic‐farsighted stable set, in which farsighted agents receive a single payoff while myopic agents may receive multiple payoffs. Our existence result extends to settings with enforcing coalitions of arbitrary size, yielding coalitional myopic‐farsighted stable sets , and to settings where not all members of an enforcing coalition must strictly gain, yielding myopic‐farsighted weakly stable sets . When all farsighted agents have unit demand, our results also extend to many‐to‐one matching markets. As a key corollary, we provide a foundation for the efficiency‐adjusted deferred acceptance algorithm by showing that its outcome constitutes a singleton myopic‐farsighted stable set when one side is farsighted and the other is myopic.",
-            "abstract_zh": "在一对一匹配市场的背景下，我们研究了近视-远视稳定集，这些稳定集在近视代理考虑其偏离行为的即时收益时是内部和外部稳定的，而远视代理预期反偏离行为并考虑最终收益。我们建设性地证明了（理性预期）近视-远视稳定集的存在，其中远视代理获得单一收益，而近视代理可能获得多重收益。我们的存在结果扩展到具有任意规模执行联盟的设置，产生了联盟近视-远视稳定集，以及在执行联盟的所有成员不必严格获益的设置中，产生了近视-远视弱稳定集。当所有远视代理具有单位需求时，我们的结果也扩展到多对一匹配市场。作为一个关键的推论，我们为效率调整的延迟接受算法提供了基础，表明当一方是远视而另一方是近视时，其结果构成了一个单一的近视-远视稳定集。",
+            "title_en": "The Inference‐Forecast Gap in Belief Updating",
+            "title_zh": "",
+            "url": "https://doi.org/10.3982/ecta23334",
+            "abstract_en": "Evidence from the laboratory and the field has uncovered both underreaction and overreaction to new information. We provide new experimental evidence on the underlying mechanisms of under‐ and overreaction by comparing how people make inferences and revise forecasts in the same information environment. Participants underreact to signals when inferring about underlying states, but overreact to the same signals when revising forecasts about future outcomes—a phenomenon we term “the inference‐forecast gap.” We show that this gap is largely driven by different simplifying heuristics used in the two tasks. Additional treatments suggest that the choice of heuristics is affected by the similarity between statistics in the information environment and the statistic elicited by the belief‐updating problem.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Training Specificity and Occupational Mobility: Evidence From German Apprenticeships",
-            "title_zh": "培训的特定性与职业流动性：来自德国学徒制的证据",
-            "url": "https://doi.org/10.3982/ecta21835",
-            "abstract_en": "Apprenticeships play a key role in enabling successful school‐to‐work transitions in many countries, but in the presence of imperfect information, the specificity of this type of training may entail important costs for those working outside their training fields. I study this issue in one of the most prominent training settings, the German apprenticeship system. Using administrative data and a broad occupational classification, I find that 40% of individuals work in occupations different from their training. I estimate the cost of mismatch using vacancy instruments and extend methodological approaches in high‐dimensional selection settings. Lacking training in one's occupation entails an average wage penalty of 14%, the equivalent of two years of work experience. The penalty increases with the task distance between training and occupation. My findings suggest that retraining is crucial to mitigate the adverse consequences from imperfect information in specialized training settings.",
-            "abstract_zh": "在许多国家，学徒制在促进学校到工作的顺利过渡中发挥着关键作用，但在信息不完全的情况下，这种培训的特定性可能给那些在培训领域之外工作的人带来重大成本。我在德国学徒制这一最突出的培训环境中研究了这一问题。利用行政数据和广泛的职业分类，我发现40%的人在与他们培训不同的职业中工作。我使用空缺工具估计错配的成本，并扩展了高维选择设置中的方法论方法。在职业中缺乏培训会导致平均14%的工资惩罚，相当于两年的工作经验。随着培训和职业之间的任务距离增加，惩罚会增加。我的发现表明，再培训对于减轻专业培训环境中不完全信息的不利后果至关重要。",
+            "title_en": "Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions",
+            "title_zh": "",
+            "url": "https://doi.org/10.3982/ecta21839",
+            "abstract_en": "This paper explores the impact of information design on the auctioneer's revenue in the U.S. offshore oil/gas lease auctions where, post‐auction, the winner decides whether to explore the auctioned tract and must pay the government a royalty on its production value. I first document that there is a positive correlation between the exploration rate and publicly observed losing bids. This suggests that the winning bidder uses the rivals' bids to infer their private information about the tract's potential. I then characterize the equilibrium bidding strategy when the auctioneer designs and commits to how to reveal information on losing bids to the winning bidder. Counterfactual exercises reveal that alternative bid disclosure policies significantly improve auctioneer revenue.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Dynamic Screening of Buyers With Heterogeneous Purchase Frequency",
+            "title_zh": "",
+            "url": "https://doi.org/10.3982/ecta23049",
+            "abstract_en": "We consider a dynamic buyer–seller interaction. Instead of the buyer's valuation, it is the frequency with which he needs to trade that is the buyer's private information. The difference matters. With commitment, full surplus extraction is possible, for instance via limited‐time offers. Without commitment, ratcheting is mitigated, as not buying is not necessarily a sign of strength. Because time is informative, the seller learns and may adjust her behavior over time. When finding a suitable alternative seller is easy, she starts with a pooling offer before permanently switching to a screening offer. When finding a suitable alternative seller takes time, she starts with a pooling offer before occasionally experimenting with separating offers.",
+            "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Holding up Green Energy: Counterparty Risk in the Indian Solar Power Market",
-            "title_zh": "撑起绿色能源：印度太阳能市场的对手方风险",
-            "url": "https://doi.org/10.3982/ecta21084",
-            "abstract_en": "This paper studies how the risk of hold‐up affects procurement. I use data on the universe of solar power auctions in India. The Indian context allows clean estimates of counterparty risk, because solar plants set up in the same states, by the same firms, are procured in auctions intermediated by either risky states themselves or the trusted central government. I find that the counterparty risk of an average state increases solar prices by 10%. This risk premium sharply reduces investment, because demand for green energy is elastic. Contract intermediation by the central government eliminates the counterparty risk premium.",
-            "abstract_zh": "本文研究了敲诈风险如何影响采购。我使用了印度太阳能发电拍卖的全面数据。印度的背景允许对对手方风险进行清晰的估计，因为由同一家公司在相同州设立的太阳能电厂，通过风险州自身或受信任的中央政府中介的拍卖进行采购。我发现，一个平均州的对手方风险使太阳能价格增加了10%。这种风险溢价大幅降低了投资，因为对绿色能源的需求是弹性的。中央政府的合同中介消除了对手方风险溢价。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Reply to comments on <i>‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’</i>",
-            "title_zh": "对《“费舍尔-舒尔茨讲座：药品目录和回扣的合同问题”》评论的回应",
-            "url": "https://doi.org/10.3982/ecta24816",
-            "abstract_en": "",
+            "title_en": "Firm‐to‐Firm Trade: Imports, Exports, and the Labor Market",
+            "title_zh": "",
+            "url": "https://doi.org/10.3982/ecta20506",
+            "abstract_en": "Customs data reveal the heterogeneity and granularity of relationships among buyers and sellers, showing how more exports to a destination break down into more firms selling there and more buyers per exporter. We develop a quantitative general equilibrium model of firm‐to‐firm matching that builds on this insight to separate the roles of iceberg costs and matching frictions in gravity. In the cross section, we find matching frictions as important as iceberg costs in impeding trade, and more sensitive to distance. Because domestic and imported intermediates compete directly with labor in performing production tasks, our model also fits the heterogeneity of labor shares across French producers. Applying the framework to the 2004 expansion of the European Union, reduced iceberg costs and reduced matching frictions contributed equally to the increase in French exports to the new members. While workers benefited overall, those competing most directly with imports gained less, even losing in some countries entering the EU.",
             "abstract_zh": "",
             "matched_topics": [
-              "医药产业"
+              "国际贸易"
             ]
           },
           {
-            "title_en": "Communicating Scientific Uncertainty via Approximate Posteriors",
-            "title_zh": "通过近似后验传递科学不确定性",
-            "url": "https://doi.org/10.3982/ecta22613",
-            "abstract_en": "We cast the problem of communicating scientific uncertainty as one of reporting a posterior distribution on an unknown parameter to an audience of Bayesian decision‐makers. We establish novel bounds on the audience's regret when the analyst reports an approximation to a posterior that the audience treats as exact. Under a palatable restriction on the audience's decision problems, the bounds take an especially convenient form. Under a further restriction on the audience's priors, a bootstrap distribution can be used as a stand‐in posterior. We propose a practical recipe for checking whether a conventional statistical report (say, a normal parameterized by a point estimate and standard error) is a good approximation, and for improving the report if it is not. We illustrate our proposals using the articles in the 2021 American Economic Review that use a bootstrap for inference.",
-            "abstract_zh": "我们将传达科学不确定性的问题视为向贝叶斯决策者群体报告一个未知参数的后验分布的问题。我们为分析者报告的后验近似值与受众视为精确值时受众的遗憾建立了新的界限。在对受众决策问题的合理限制下，这些界限呈现出特别方便的形式。在对受众先验的进一步限制下，可以使用自助分布作为替代后验。我们提出了一个实用的方案，用于检查传统的统计报告（例如，由点估计和标准误差参数化的正态分布）是否是一个好的近似值，如果不是，如何改进报告。我们使用2021年《美国经济评论》中使用自助推断的文章来说明我们的建议。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Comment on <i>‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin S. Lee</i>",
-            "title_zh": "对《‘费舍尔-舒尔茨讲座：药品目录和回扣的合同问题’》的评论，作者：凯特·霍和罗宾·S·李",
-            "url": "https://doi.org/10.3982/ecta23938",
-            "abstract_en": "",
+            "title_en": "Job Ladder and Wealth Dynamics in General Equilibrium",
+            "title_zh": "",
+            "url": "https://doi.org/10.3982/ecta22542",
+            "abstract_en": "This paper develops a macroeconomic model that combines an incomplete‐markets overlapping‐generations economy with a job ladder featuring sequential wage bargaining, endogenous search effort of employed and non‐employed workers, and differences in match quality. With these ingredients, our model provides a joint microfoundation for the three main inputs in aggregate production: capital, employment, and labor efficiency. The calibrated model offers a good fit to the empirical age profiles of search activity, job‐finding rates, wages, and savings. We use the model to analyze the impact of tax and transfer policies for labor market dynamics and aggregate economic activity via capital, employment, and labor efficiency channels. Lower unemployment benefits and a less progressive tax schedule bring about welfare losses for a newborn worker which are mainly driven by higher consumption risk and costlier search effort; both policies have differential effects along the age, income, and wealth dimensions.",
             "abstract_zh": "",
             "matched_topics": [
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates",
-            "title_zh": "费舍尔-舒尔茨讲座：药品目录和回扣的合同问题",
-            "url": "https://doi.org/10.3982/ecta22488",
-            "abstract_en": "We investigate how formularies used by pharmacy benefit managers (PBMs) affect equilibrium manufacturer rebates for branded drugs through tiering and exclusion. We develop a theoretical model of multidimensional contracting in which a PBM negotiates with drug manufacturers over menus of formulary‐contingent rebates and chooses a formulary. We then estimate consumer demand responses to tier placement for statins using claims data from Princeton University, a large employer contracting with a single PBM to offer prescription drug coverage to its employees. Combining the theoretical model with demand estimates and observed list prices, we quantify how allowing for differential tier placement and exclusion affect equilibrium rebates. Our predictions are consistent with available aggregate rebate data, and we find that allowing a PBM to place branded drugs on preferred‐ and non‐preferred tiers can substantially increase negotiated rebate payments.",
-            "abstract_zh": "我们研究了药品福利管理机构（PBMs）使用的药品目录如何通过分层和排除机制影响品牌药品的均衡制造商回扣。我们开发了一个多维合同理论模型，其中PBM与药品制造商就药品目录相关的回扣菜单进行谈判，并选择一个药品目录。然后，我们使用普林斯顿大学的大型雇主与单一PBM签订合同，为其员工提供处方药覆盖范围的索赔数据，估计消费者对他汀类药物层级放置的需求响应。将理论模型与需求估计和观察到的标价结合起来，我们量化了允许差异化层级放置和排除如何影响均衡回扣。我们的预测与可用的聚合回扣数据一致，我们发现允许PBM将品牌药品放置在优先和非优先层级上，可以大幅增加谈判回扣支付。",
-            "matched_topics": [
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "Assortative Matching on Income",
-            "title_zh": "收入上的配对选择",
-            "url": "https://doi.org/10.3982/ecta21097",
-            "abstract_en": "We analyze marital matching on income using an extremely rich Dutch data set containing all income tax files over seven years. We develop a novel methodology that directly extends previous contributions to allow for highly flexible matching patterns. Investigating all marriages that took place between 2013 and 2019, we find that marital patterns are particularly intriguing. While a majority of couples match assortatively, a small but significant minority display negative assortative matching. We also show that standard approaches, which consider all married couples using current incomes (as opposed to pre‐marriage incomes used in our approach), may generate misleading conclusions.",
-            "abstract_zh": "我们利用包含七年所有所得税文件的极其丰富的荷兰数据集，分析了基于收入的婚姻匹配情况。我们开发了一种新颖的方法论，直接扩展了以往的贡献，允许高度灵活的匹配模式。研究了2013年至2019年间发生的所有婚姻，我们发现婚姻模式特别引人入胜。虽然大多数夫妇呈现出正向匹配，但也有一小部分但显著的少数群体显示出负向匹配。我们还展示了标准方法可能会产生误导性结论，这些方法考虑了所有已婚夫妇使用当前收入（与我们方法中使用的婚姻前收入相对）。",
-            "matched_topics": [
               "创新药"
-            ]
-          },
-          {
-            "title_en": "Comment on <i>‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin Lee</i>",
-            "title_zh": "对《‘费舍尔-舒尔茨讲座：药品配方和回扣的合同问题’》的评论，作者：凯特·霍和罗宾·李",
-            "url": "https://doi.org/10.3982/ecta24210",
-            "abstract_en": "Biopharmaceuticals advance health and economic growth. Unlike central bargaining abroad, the United States uses private firms, pharmacy benefit managers (PBMs), to manage medicine access and spending. Yet, PBMs' roles in advancing efficiency are understudied. Ho and Lee model PBMs' use of tiered formularies, lists of covered medicines, without the use of proprietary data on the price concessions drug makers offer for preferred placement. They find PBMs' use of tiered formularies generate significant payor savings through competition. Complementing Ho and Lee, Feng and Maini (2024) model how patient demand inertia limits PBMs' ability to extract price concessions from drug makers which consequently erodes the efficacy gains of PBM formularies. Conti, Frandsen, Powell, and Rebitzer (2021) model formulary auctions where PBM size drives payor savings, but also spurs endogenously set high list prices, reducing patient access. Future economic research should focus on PBM market entry and vertical integration, pharmacy steering, and effects on innovation.",
-            "abstract_zh": "生物制药促进健康和经济增长。与国外中央议价不同，美国使用私营企业，即药品福利管理公司（PBMs），来管理药品获取和支出。然而，PBMs在提高效率方面的作用研究不足。何和李模拟了PBMs使用分层药品目录（覆盖药品的清单）而不使用制药商为优先放置提供的价格优惠的专有数据。他们发现PBMs使用分层药品目录通过竞争产生显著的支付方节省。与何和李相辅相成，冯和迈尼（2024年）模拟了患者需求惯性如何限制PBMs从制药商那里获取价格优惠的能力，这反过来又侵蚀了PBM药品目录的效率增益。孔蒂、弗兰森、鲍威尔和雷比策（2021年）模拟了药品目录拍卖，其中PBM规模推动支付方节省，但也促使内生地设定高清单价格，减少患者获取。未来的经济研究应关注PBM市场进入和垂直整合、药房引导以及对创新的影响。",
-            "matched_topics": [
-              "产业经济",
-              "企业创新",
-              "医药产业"
             ]
           }
         ],
@@ -955,83 +913,11 @@
         "query_name": "Journal of Development Economics",
         "issn": "0304-3878",
         "resolved_name": "Journal of Development Economics",
-        "issue_title": "Published 2026-09",
+        "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 7,
-        "total_in_issue": 31,
-        "papers": [
-          {
-            "title_en": "The expenditure elasticity for food and calories: Evidence from unconditional cash transfers in Kenya",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103869",
-            "abstract_en": "Accurate estimates of food and nutrient elasticities are important inputs for the design of efficient policies targeting the poor. In this paper we estimate the expenditure elasticity of food and calories using exogenous variation in budget from two unconditional cash transfer programs in rural Kenya, combined with detailed data on food expenditure, nutrition and prices. We find an elasticity of food expenditure of 0.86 and of calories of 0.66. Although these estimates are higher than those reported in many previous studies — plausibly because our study focuses on extremely poor households — they are significantly lower than those obtained using a non-experimental analysis in our context.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Evaluating the environmental and economic implications of curbing transboundary pollution: Evidence from China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103854",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Foreign direct investment, global value chains, and labor rights: No race-to-the-bottom?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103865",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "国际经济"
-            ]
-          },
-          {
-            "title_en": "Government demand and firm growth",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103832",
-            "abstract_en": "Public procurement in developing countries accounts for approximately 13% of GDP, offering a significant market opportunity for domestic firms, especially those facing demand constraints. This paper explores the impact of selling to government entities on firm performance in Uganda, leveraging detailed administrative data and an event study methodology that corrects for firm self-selection and heterogeneity in the timing of the treatment. The results reveal that while firms increase their total sales after entering government contracts, they do not see improvements in productivity (measured by value added per worker). Moreover, sales to non-government customers drop sharply. This reallocation effect is persistent. This effect is not observed when firms start to sell to large private-sector buyers. Drawing on an original survey of firms engaged in public procurement, we highlight potential drivers of these dynamics, including capacity constraints and profitability differences between public and private sector sales.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The forsaken road: Reassessing living standards following the Cuban Revolution and the American embargo",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103831",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The mental health impact for adolescents ageing out of South Africa’s child support grant",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103863",
-            "abstract_en": "While the benefits of cash transfers are well documented, little attention has been given to the negative effects of their cessation, particularly on mental health. We examined this question using South African longitudinal survey data comprising 7899 unique adolescents tracked as they age out of the Child Support Grant , the country’s largest cash transfer. We find that loss of the Child Support Grant leads to a decline in mental health equivalent to 0.42 of a standard deviation in the CES-D score, robust across model specifications and falsification tests. Increased job search activity points to resource mobilisation as a plausible mechanism, consistent with the Conservation of Resources framework. Effects are concentrated among adolescents in urban areas and households with lower and less diversified income. The results point to a neglected aspect of social protection: how and when cash transfers are withdrawn, particularly when this coincides with critical life stages.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Local and spillover effects of trade on structural transformation: Evidence from Brazil",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103840",
-            "abstract_en": "This paper investigates the impact of trade liberalization on structural transformation, using quasi-experimental tariff reductions from Brazil's 1990s reforms. Building on recent cross-regional macroeconomic literature, we extend the traditional shift-share framework to estimate both local and spatial spillover effects on sectoral employment shares, providing insights on aggregate outcomes. Regions more exposed to tariff cuts saw declines in manufacturing employment, increases in the primary sector, and reductions in non-tradables. Spillover effects—mediated through migration or proximity—partially offset local deindustrialization in manufacturing but amplified declines in non-tradables. These effects persisted for over twenty years and proved robust to alternative explanations, including competing structural transformation hypotheses and other economic shocks during the period of analysis. Overall, our findings support theories highlighting comparative advantage as a potential driver of trade-induced structural transformation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 1,
+        "papers": [],
         "error": null
       },
       {
@@ -1366,7 +1252,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 4,
-        "total_in_issue": 10,
+        "total_in_issue": 11,
         "papers": [
           {
             "title_en": "Price discrimination under minimum advertised price restriction",
@@ -1422,6 +1308,16 @@
         "total_in_issue": 13,
         "papers": [
           {
+            "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105534",
+            "abstract_en": "I propose that the concept of ‘systems of use’ can be a valuable lens for more deeply understanding user innovation processes and outcomes. I define a system of use as a group of components that interact during use to accomplish a system-level goal. Each component, which may be a physical or digital product, or a human behavior, plays a role in a specific system of use by accepting inputs, processing them, and providing outputs within and beyond that system. To date, research on innovation has largely focused on the nature of, and innovative history of, and value of specific product innovations. A system of use perspective adds a focus onto the contexts within whichspecific innovations function. This altered focus, in turn, draws attention to related adaptations and innovations that are often required to integrate specific innovations into such systems. Specifically, a system focus can highlight behavioral system of use components that are often overlooked - especially when they are diffused peer-to-peer rather than being sold on markets. Further, a system focus can document the often rapid changes that end users may make to their own systems of use as they adapt to new circumstances, but without changing the major product components that are normally tracked as a way to identify system change.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "Understanding regional readiness to contribute to the bioeconomy: The role of higher education institutions and other regional characteristics",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105547",
@@ -1433,10 +1329,10 @@
             ]
           },
           {
-            "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
+            "title_en": "Can FinTech innovate green finance? Scrutinising the financial ecologies and innovation dynamics of FinTech for forest restoration",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105534",
-            "abstract_en": "I propose that the concept of ‘systems of use’ can be a valuable lens for more deeply understanding user innovation processes and outcomes. I define a system of use as a group of components that interact during use to accomplish a system-level goal. Each component, which may be a physical or digital product, or a human behavior, plays a role in a specific system of use by accepting inputs, processing them, and providing outputs within and beyond that system. To date, research on innovation has largely focused on the nature of, and innovative history of, and value of specific product innovations. A system of use perspective adds a focus onto the contexts within whichspecific innovations function. This altered focus, in turn, draws attention to related adaptations and innovations that are often required to integrate specific innovations into such systems. Specifically, a system focus can highlight behavioral system of use components that are often overlooked - especially when they are diffused peer-to-peer rather than being sold on markets. Further, a system focus can document the often rapid changes that end users may make to their own systems of use as they adapt to new circumstances, but without changing the major product components that are normally tracked as a way to identify system change.",
+            "url": "https://doi.org/10.1016/j.respol.2026.105564",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -1446,16 +1342,6 @@
             "title_en": "Do societal promises influence patent value? An analysis of inventions in artificial intelligence",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105566",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Can FinTech innovate green finance? Scrutinising the financial ecologies and innovation dynamics of FinTech for forest restoration",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105564",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1473,17 +1359,6 @@
             ]
           },
           {
-            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105541",
-            "abstract_en": "The foundation industries that underpin modern economies are undergoing discontinuous transformations around sustainability and decarbonisation. However, key assumptions in the existing innovation literature are based on analyses of a narrow set of industry contexts largely focused on disruptive innovation. Alternative pathways to discontinuous change remain under-researched. This paper presents the first comparative case study of two of the world's most advanced green steel innovation ventures – Stegra and HYBRIT in northern Sweden. The two ventures were set up as, respectively, a start-up and an incumbent-driven joint venture, each with a different strategy for disrupting legacy steelmaking. However, neither followed a path predicted by the innovation literature. We find that the inherent resource constraints that are hallmarks of foundation industries led to a convergence of the two ventures' innovation pathways. We develop theory on discontinuous innovation for foundation industries and argue that system-level drivers, including policy triggers, material resource constraints, and non-material resource enablers shape firm-level innovation pathways. Regardless of their starting point as start-ups or incumbents, ventures in such settings converge on an innovation pathway of creative accumulation rather than creative destruction.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
             "title_en": "At cross purposes? Housing markets and innovation in American Political Economy",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105561",
@@ -1491,6 +1366,17 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105541",
+            "abstract_en": "The foundation industries that underpin modern economies are undergoing discontinuous transformations around sustainability and decarbonisation. However, key assumptions in the existing innovation literature are based on analyses of a narrow set of industry contexts largely focused on disruptive innovation. Alternative pathways to discontinuous change remain under-researched. This paper presents the first comparative case study of two of the world's most advanced green steel innovation ventures – Stegra and HYBRIT in northern Sweden. The two ventures were set up as, respectively, a start-up and an incumbent-driven joint venture, each with a different strategy for disrupting legacy steelmaking. However, neither followed a path predicted by the innovation literature. We find that the inherent resource constraints that are hallmarks of foundation industries led to a convergence of the two ventures' innovation pathways. We develop theory on discontinuous innovation for foundation industries and argue that system-level drivers, including policy triggers, material resource constraints, and non-material resource enablers shape firm-level innovation pathways. Regardless of their starting point as start-ups or incumbents, ventures in such settings converge on an innovation pathway of creative accumulation rather than creative destruction.",
+            "abstract_zh": "",
+            "matched_topics": [
               "企业创新",
               "创新药"
             ]
@@ -1517,16 +1403,6 @@
             ]
           },
           {
-            "title_en": "Leaky mess or safety vaults? Team knowledge production and post-mobility knowledge spillover",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105548",
-            "abstract_en": "Teams have become the primary unit for organizing knowledge production. While existing research has extensively investigated whether and how teams enhance knowledge production, it has paid scant attention to their role in safeguarding against knowledge spillover following inventor mobility. The literature presents conflicting arguments on this issue. Drawing on team innovation research, we contend that team production generates two types of knowledge: task-specific knowledge and metaknowledge. Task-specific knowledge is economically valuable and is fragmented among co-inventors, so that its risk of post-mobility knowledge spillover is lower when it is produced by larger teams. While metaknowledge is shared within the team and prone to mobility-induced spillover, it has limited value with the corresponding task-specific knowledge. Analyzing a sample of mobility events among industrial inventors using a within-event design, we find that knowledge produced by larger teams is more resistant to post-mobility spillover, being significantly less likely to be utilized by the destination firm. This protective effect is attenuated when co-inventors co-move and when the knowledge is inherently complex. Our study contributes to the literature on team innovation and inventor mobility by underscoring the role of team production in knowledge protection in the context of inventor mobility.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
             "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
             "title_zh": "理解邪恶：面向挑战的创新政策的方向性启发式",
             "url": "https://doi.org/10.1016/j.respol.2026.105513",
@@ -1537,13 +1413,23 @@
             ]
           },
           {
-            "title_en": "Patent protection and software firm financing",
+            "title_en": "Leaky mess or safety vaults? Team knowledge production and post-mobility knowledge spillover",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105571",
-            "abstract_en": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105548",
+            "abstract_en": "Teams have become the primary unit for organizing knowledge production. While existing research has extensively investigated whether and how teams enhance knowledge production, it has paid scant attention to their role in safeguarding against knowledge spillover following inventor mobility. The literature presents conflicting arguments on this issue. Drawing on team innovation research, we contend that team production generates two types of knowledge: task-specific knowledge and metaknowledge. Task-specific knowledge is economically valuable and is fragmented among co-inventors, so that its risk of post-mobility knowledge spillover is lower when it is produced by larger teams. While metaknowledge is shared within the team and prone to mobility-induced spillover, it has limited value with the corresponding task-specific knowledge. Analyzing a sample of mobility events among industrial inventors using a within-event design, we find that knowledge produced by larger teams is more resistant to post-mobility spillover, being significantly less likely to be utilized by the destination firm. This protective effect is attenuated when co-inventors co-move and when the knowledge is inherently complex. Our study contributes to the literature on team innovation and inventor mobility by underscoring the role of team production in knowledge protection in the context of inventor mobility.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "When government shuts down science: Evidence from U.S. Antarctic research",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105572",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           }
         ],
@@ -1772,8 +1658,8 @@
         "resolved_name": "Journal of Business Venturing",
         "issue_title": "Volume 41, Issue 5",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
-        "matched_count": 6,
-        "total_in_issue": 12,
+        "matched_count": 7,
+        "total_in_issue": 13,
         "papers": [
           {
             "title_en": "Navigating moral boundaries: How entrepreneurs manage stigma premiums in morally contested markets",
@@ -1801,6 +1687,16 @@
             "url": "https://doi.org/10.1016/j.jbusvent.2026.106608",
             "abstract_en": "Female entrepreneurship is increasingly common, yet we know little about how it affects women's romantic prospects, a crucial outcome with implications for family formation. We propose that female entrepreneurs, particularly those pursuing growth-oriented ventures, face diminished romantic prospects, potentially shaped by gendered trait inferences and concerns about time demand. Using two field experiments, supplemented by a survey experiment, we provide causal evidence that female entrepreneurs are on average penalized in romantic relationship initiation, but are preferred by male entrepreneurs. Further analysis offers suggestive evidence on mechanisms underlying this romantic penalty. By examining the impact of female entrepreneurship on romantic prospects, our study extends the family embeddedness perspective in entrepreneurship research. It also contributes to female entrepreneurship research by documenting a romantic penalty as a previously underexplored challenge.",
             "abstract_zh": "女性创业日益普遍，但我们对其如何影响女性的浪漫前景知之甚少，这是一个对家庭形成具有重要影响的关键结果。我们提出，女性创业者，特别是那些追求增长导向型企业的女性，面临减少的浪漫前景，可能受到性别化特质推断和对时间需求的担忧的影响。通过两个现场实验，辅以一项调查实验，我们提供了因果证据，表明女性创业者在浪漫关系启动中平均受到惩罚，但受到男性创业者的青睐。进一步分析提供了关于这种浪漫惩罚背后机制的暗示性证据。通过检查女性创业对浪漫前景的影响，我们的研究扩展了创业研究中的家族嵌入视角。它还通过记录浪漫惩罚作为一种以前未充分探讨的挑战，为女性创业研究做出了贡献。",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Migrating to a golden opportunity: The gold rush and the roots of persistence of interregional differences in entrepreneurship",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106626",
+            "abstract_en": "Regional differences in entrepreneurship are persistent over time. However, little is known about the historical roots of this persistence and the mechanisms linking these roots to entrepreneurial activity over time. In this paper, we aim to explore the persistence of regional entrepreneurship in the U.S., which we trace back to the gold rushes of the 19th century. In this exploratory paper, our focus is mainly on the migration of entrepreneurially minded individuals as a mechanism through which the gold rush influenced entrepreneurship over time. We find empirical evidence of selective migration from entrepreneurial regions and from individuals employed in entrepreneurial occupations to gold rush counties over a period of 100 years. Moreover, migration to the gold rush counties made people more entrepreneurial compared to both migrants moving elsewhere and non-migrants. We also find some evidence that states strongly affected by the gold rush have in contemporary times more entrepreneurship-friendly laws and regulations as well as a more entrepreneurial culture. Lastly, we show that gold rush regions, compared to neighboring regions without a gold rush, have persistently higher entrepreneurship rates from the earliest available data in 1910 to the present. Taken together, our analyses indicate that the gold rush and subsequent migration patterns had a long-term positive effect on entrepreneurship.",
+            "abstract_zh": "",
             "matched_topics": [
               "企业创新"
             ]
@@ -1847,7 +1743,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
         "matched_count": 12,
-        "total_in_issue": 16,
+        "total_in_issue": 17,
         "papers": [
           {
             "title_en": "Multinational enterprises and strategic foresight: The path to eco-innovation",
@@ -1864,6 +1760,16 @@
             "title_en": "Inventor team diversity and patent quality: Gender–geography interaction and the role of national innovation system complexity",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103639",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Openness and key core technology innovation: The moderating role of the interdisciplinary knowledge base",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103643",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1923,6 +1829,16 @@
             ]
           },
           {
+            "title_en": "Competition intensity and business model innovation: The distinctive role of strategic innovation readiness in European family and non-family SMEs",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103651",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "Digital technology adoption and servitization of manufacturing firms —The role of knowledge coupling and collaborative network cohesion",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103627",
@@ -1947,26 +1863,6 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103635",
             "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "AI-powered innovation tournament evaluations: A hybrid NLP approach",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103622",
-            "abstract_en": "Innovation tournaments require expert evaluators to assess large volumes of lengthy, unstructured proposals under significant time pressure and cognitive constraints. This study investigates how transformer-based natural language processing (NLP) models can be integrated into this context as decision-support tools within the evaluation process. Using real-world data from a national Brazilian innovation tournament comprising 1151 startup proposals, we examine whether NLP models can learn patterns associated with expert-assigned scores and support early-stage screening. We fine-tune Portuguese-language transformer models (BERT) for classification tasks and refine long-text processing through chunking and document-level aggregation. To contextualize performance, we benchmark the neural models against lighter architectures and classical machine-learning baselines. Although the models exhibit persistent ambiguity in distinguishing intermediate-quality proposals, the best-performing configuration consistently avoids extreme misclassifications and adopts a conservative screening profile that prioritizes the retention of high-potential submissions.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Understanding innovation in coopetitive contexts: A meta-analysis",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103608",
-            "abstract_en": "Research on coopetition suggests that cooperation and competition can jointly shape firm innovation outcomes. Central to this literature is the management of relational dynamics, reflected in the varying intensity of cooperation, competition, and their joint manifestation in coopetition. However, empirical findings remain inconclusive regarding the magnitude and contextual conditions under which relational dynamics, namely cooperation intensity, competition intensity, and coopetition intensity, relate to innovation outcomes. Informed by the coopetition paradox perspective and contingency logic, this study synthesises prior research by conducting a meta-analysis of 51 quantitative studies comprising 118,467 observations. The analysis estimates effect sizes for the relationships between relational dynamics and innovation outcomes and examines how these relationships vary across contextual and methodological characteristics. The results indicate that cooperation intensity and coopetition intensity are positively associated with innovation outcomes, whereas competition intensity does not show a consistent direct association across studies. Meta-regression analyses indicate that these relationships vary selectively across key contextual (e.g., industry type, geographic scope, and innovation radicalness) and methodological characteristics (e.g., measurement approach and unit of analysis). This study thus extends the coopetition–innovation literature by showing that coopetition is better understood not as a unified construct, but as distinct dimensions of relational dynamics whose associations with innovation outcomes vary across contexts.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -2079,7 +1975,7 @@
         "issue_title": "Published 2026-07",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
         "matched_count": 6,
-        "total_in_issue": 18,
+        "total_in_issue": 21,
         "papers": [
           {
             "title_en": "Integrating equity and productivity in health evaluation",
@@ -2129,7 +2025,7 @@
             "title_en": "Improving disability benefit take-up: Experimental evidence from a public information campaign in Vietnam",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jhealeco.2026.103163",
-            "abstract_en": "Despite substantial disability-related costs, participation in public disability benefit programs remains incomplete in many countries. This is particularly the case in low- and middle-income countries where disability programs are relatively new and awareness of eligibility rules may be limited. This paper evaluates whether reducing information frictions can increase enrolment in Vietnam’s national disability benefits program. In a randomised controlled trial across 70 rural communes, standardised information about disability benefits was embedded within routine government loudspeaker broadcasts over a five-week period. Using commune-level administrative data observed approximately two years after the intervention, the results show that program enrolment was 9 percent higher in treated communes. The effects are concentrated among individuals classified with severe disabilities, for whom enrolment increased by 12 percent. Smaller effects are observed among persons with the most severe disabilities, who were likely already well covered by the program. Larger effects are also observed among children and older adults than working-age individuals, who are eligible for higher monthly disability pension amounts. These findings demonstrate that a low-cost and scalable information campaign delivered through existing government communication infrastructure can substantially increase participation in disability-related social protection programs.",
+            "abstract_en": "Despite substantial disability-related costs, participation in public disability benefit programs remains incomplete in many countries. This is particularly the case in low- and middle-income countries where disability programs are relatively new and awareness of eligibility rules may be limited. This paper evaluates whether reducing information frictions can increase enrolment in Vietnam's national disability benefits program. In a randomised controlled trial across 70 rural communes, standardised information about disability benefits was embedded within routine government loudspeaker broadcasts over a five-week period. Using commune-level administrative data observed approximately two years after the intervention, the results show that program enrolment was 9 percent higher in treated communes. The effects are larger among individuals classified with severe disabilities, for whom enrolment increased by 12 percent. Smaller effects are observed among persons with the most severe disabilities, who were likely already well covered by the program. Larger effects are also observed among children who are eligible for higher monthly disability pension amounts. These findings demonstrate that a low-cost and scalable information campaign delivered through existing government communication infrastructure can substantially increase participation in disability benefit programs.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
@@ -2219,72 +2115,96 @@
         "query_name": "PharmacoEconomics",
         "issn": "1170-7690",
         "resolved_name": "PharmacoEconomics",
-        "issue_title": "Volume 44, Issue 7",
+        "issue_title": "Volume 44, Issue 8",
         "issue_url": "https://link.springer.com/journal/40273",
-        "matched_count": 6,
+        "matched_count": 8,
         "total_in_issue": 9,
         "papers": [
           {
-            "title_en": "Correction: Ten Recommendations for Modelling Cost Effectiveness of Screening: Perspectives of an International Stakeholder Group",
+            "title_en": "A Systematic Literature Review of Health Economic Modelling Approaches Used to Evaluate Treatment Resistant and Uncontrolled Hypertension: A Critical Appraisal and Considerations for the Design of Future Model Analyses",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01627-y",
-            "abstract_en": "",
+            "url": "https://doi.org/10.1007/s40273-026-01625-0",
+            "abstract_en": "BACKGROUND AND AIMS: Uncontrolled hypertension (ucHTN) and treatment-resistant hypertension (trHTN) are associated with a substantial increase in the risk of cardiorenal events and mortality compared with well-controlled hypertension. Treatment strategies that can optimise blood pressure management are urgently needed to improve health outcomes in ucHTN and trHTN populations; health economic models play a key role in assessing the economic value of new and existing treatments and supporting resource allocation. This systematic literature review critically assesses the construct and quality of existing health economic modelling used in the evaluation of management approaches for ucHTN and trHTN, to inform the design and development of future health economic models. MATERIALS AND METHODS: This review was conducted and reported following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 checklist. Searches were conducted on Medline, Embase, EconLit, the Cost-effectiveness Analysis and the International HTA database. Searches were run from inception to May 2024 and re-run in February 2026. Although no date limits were placed on the electronic searches, a limit of 2005 and onwards was applied during study selection. Economic model studies were included if they assessed pharmacological or renal denervation (RDN) interventions for treatment of either ucHTN or trHTN in adult populations. Study eligibility, data extraction and quality assessment using the Drummond checklist were conducted independently by two reviewers. RESULTS: After deduplication, a total of 2754 records were identified. Of these, 2556 did not meet the eligibility criteria after title and abstract screening; 198 full texts were reassessed for eligibility. A total of 21 modelling studies were included: 16 economic evaluations (14 cost-utility analyses, 1 cost-effectiveness analysis and 1 cost-minimization analysis), 4 burden-of-illness studies and 1 budget impact analysis. The majority of studies focused on people with ucHTN and employed a healthcare system perspective. Economic evaluations were based on treatment effects on systolic blood pressure estimated from clinical trials. Several models predicted long-term cardiorenal events and mortality on the basis of published, validated risk equations; however, these risk equations were not developed in populations with ucHTN or trHTN. Although models were generally assessed to be of good quality, models incorporated health-related quality of life and cost data from controlled hypertensive or non-hypertensive populations, rather than those with ucHTN and trHTN. CONCLUSIONS: A range of economic models were identified and considered structurally relevant. These models demonstrated that treatment related improvements in blood pressure were cost-effective and robust in scenario analysis. However, important model limitations include their lack of use of population-specific health-related quality-of-life data and risk equations which may result in underestimation of treatment cost effectiveness. To reduce uncertainty and support improved economic modelling that can accurately contextualize emerging therapies for ucHTN and trHTN, future economic model analyses in ucHTN and trHTN need appropriate population health and cost data for these underserved populations.",
             "abstract_zh": "",
             "matched_topics": [
+              "国际贸易",
+              "医药产业",
               "创新药"
             ]
           },
           {
-            "title_en": "What is the Value of Developing an HTA Process?",
+            "title_en": "Using Proportional and Absolute Shortfall in Reimbursement Decision-Making in the Netherlands: Implications for Oncology Drugs for Older Patients",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01613-4",
-            "abstract_en": "Health technology assessment (HTA) processes are becoming increasingly established and embedded in healthcare decision making around the world. Yet, there is limited evidence on whether HTA processes at the system level offer value for money to those presiding over their creation, such as governments and ministries of health. That is, whether the value of improvements in the health system exceed the costs. To address this issue, we outline the approaches adopted in a sample of recent evaluations of HTA systems and propose a set of considerations for measuring and valuing HTA processes. The scale and remit of the process can help identify the relevant system-level impacts of HTA such as those on productive efficiency and population health, health equity, guiding innovation and care pathways, and broader impacts. We further describe the methodological challenges and potential approaches to evaluating HTA including the appropriateness of approaches. The considerations discussed can reveal the potential for ill-designed HTA processes to generate less social value than intended.",
+            "url": "https://doi.org/10.1007/s40273-026-01626-z",
+            "abstract_en": "In the Netherlands, proportional shortfall is the primary metric for threshold-setting in cost-effectiveness analyses, while absolute shortfall is also reported and considered during appraisal. Although conceptually and mathematically related, the two metrics can yield discordant results. Their theoretical differences are well recognised; nevertheless, debate continues regarding which metric should be used for operationalising disease severity in health technology assessment (HTA). This study describes the rationale behind the combined use of proportional and absolute shortfall by the National Health Care Institute (ZIN) and provides empirical evidence on how the two severity metrics relate in real-world reimbursement practice. We analysed proportional and absolute shortfall levels reported in 56 of all 57 appraised reimbursement dossiers published by ZIN between May 2018 and April 2026. While the two metrics are systematically related, we observed a distinct cluster of 28 dossiers showed high proportional shortfall (mean 0.88) but relatively low absolute shortfall (mean 14.28 QALYs). Of these, 27 concerned oncology drugs for older patients, which were significantly more likely to fall into this cluster than non-oncology drugs. These findings demonstrate that differences between proportional and absolute shortfall, previously discussed largely at a theoretical level, translate into observable patterns in reimbursement practice. By making explicit how the two metrics profile technologies differently, this study contributes empirical evidence to ongoing policy discussions about the operationalisation of disease severity in HTA. More specifically, the analysis clarifies how ZIN's current practice of reporting both metrics may support more transparent, better-informed and consistent use of disease severity in reimbursement decision-making.",
             "abstract_zh": "",
             "matched_topics": [
-              "企业创新",
+              "医药产业",
               "医疗创新",
               "创新药"
             ]
           },
           {
-            "title_en": "The Economic Burden of Duchenne Muscular Dystrophy: A Systematic Review",
+            "title_en": "Comparison of Alternative Outcome Measures in Cost-Effectiveness Analysis: Three Applications Within Oncology",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01610-7",
-            "abstract_en": "OBJECTIVE: Duchenne muscular dystrophy (DMD) is a rare, progressive, severely disabling and ultimately fatal genetic neuromuscular disease requiring lifelong multidisciplinary clinical care and support. The objective of this study was to conduct a systematic review and synthesis of estimates of costs of illness of DMD. METHODS: In this systematic review (International Prospective Register of Systematic Reviews [PROSPERO] identifier: CRD420251153340), we searched PubMed, MEDLINE, Embase, the Health Technology Assessment Database, and the National Health Service Economic Evaluation Database for studies reporting costs of DMD. Risk of bias was assessed using the Newcastle-Ottawa scale. RESULTS: We identified 19 publications involving 6993 children and adults with DMD from 14 countries (Australia, Brazil, Bulgaria, Denmark, Egypt, France, Germany, Hungary, Italy, Portugal, Spain, Sweden, the UK, and the USA). Across studies and strata, the mean per-patient annual direct medical cost of illness (in 2025 international US dollars) was estimated at between $2620 and $209,980, the mean per-patient annual direct nonmedical cost between $5670 and $103,800, and the mean per-patient annual indirect (productivity) cost between $400 and $48,390. Most studies exhibited some risk of bias. CONCLUSIONS: DMD is associated with a substantial economic burden related to the formal disease management, as well as extensive informal care and indirect (productivity) costs shouldered by parents and other nonprofessional caregivers. Although relatively well-captured for a few countries, comprehensive cost data are lacking for many geographical settings. Our portfolio of costs of DMD will help inform assessments of burden of illness, health technology evaluations of new therapies, and data gap analyses for future research.",
+            "url": "https://doi.org/10.1007/s40273-026-01619-y",
+            "abstract_en": "BACKGROUND: Quality-adjusted life-years (QALYs) are the predominant health benefit measure used in health technology assessment. In response to legal and policy constraints on the use of QALYs in some jurisdictions, alternative outcome measures, such as equal value life-years and health years in total, have been proposed. However, there is limited illustration of how these alternative measures behave when applied to common health economic model structures. METHODS: Three stylized oncology economic models, reflecting typical features of published cost-effectiveness analyses, were used to examine how alternative outcome measures re-express identical underlying survival and health-related quality-of-life inputs. Outcomes based on QALYs were compared with those based on life-years, equal value life-years, and health years in total for renal cell carcinoma, chronic myeloid leukemia, and non-small cell lung cancer. RESULTS: Incremental health years in total were consistently larger than incremental QALYs (13-46% higher). The relationship between life-years and QALYs varied across indications (from 63% lower to 43% higher). CONCLUSIONS: When applied to identical model inputs, alternative outcome measures primarily re-express existing information rather than incorporate additional dimensions of health benefit. Differences relative to QALYs reflect alternative weighting of survival and health-related quality-of-life effects and depend on the balance between these components. These findings highlight the need for careful interpretation of alternative measures when used alongside QALYs in economic evaluation.",
             "abstract_zh": "",
             "matched_topics": [
-              "医疗创新",
-              "创新药"
+              "医疗创新"
             ]
           },
           {
-            "title_en": "Economic Evaluation of Pre-emptive Pharmacogenetic Panel Testing versus No Genetic Testing in a Multi-ethnic Asian Population",
+            "title_en": "Application of a Prevalence-Adjusted Cost-Effectiveness Threshold Framework for Pulmonary Arterial Hypertension",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01586-4",
-            "abstract_en": "",
+            "url": "https://doi.org/10.1007/s40273-026-01616-1",
+            "abstract_en": "BACKGROUND: Pulmonary arterial hypertension (PAH) is a rare, progressive condition associated with high per-patient treatment costs and substantial clinical burden. Interpreting cost-effectiveness evidence for rare diseases remains challenging when uniform thresholds are applied across conditions that differ markedly in prevalence and scale of healthcare production. OBJECTIVE: The aim of this study was to estimate a prevalence-adjusted effective cost-effectiveness threshold for PAH and illustrate how disease prevalence and production scale influence the interpretation of cost-effectiveness evidence under a fixed health care budget. METHODS: We applied a previously developed prevalence-adjusted cost-effectiveness threshold framework, referred to as a generalized dynamic prevalence (GeDP) approach, to PAH using nationally representative disease prevalence data from the Medical Expenditure Panel Survey. A flexible statistical transformation was used to accommodate the highly right skewed distribution of disease prevalence and to estimate the relationship between prevalence and effective thresholds. The analysis was anchored to an empirically estimated US health opportunity cost benchmark and applied to PAH, with comparisons to selected common and rare diseases. Illustrative scenarios examined how effective thresholds evolve under changes in disease prevalence over time. RESULTS: Effective cost-effectiveness thresholds increased as disease prevalence declined, reflecting production-side scale effects rather than differences in societal preferences. For PAH (prevalence ≈ 0.013%), the prevalence-adjusted effective threshold was estimated at US$582,270 per QALY (95% CI 581,319-583,163), representing more than a five-fold increase relative to the reference opportunity-cost benchmark of US$104,000 per QALY applied to highly prevalent conditions. Dynamic scenarios showed that effective cost-effectiveness thresholds decline as prevalence changes over time, with larger adjustments observed for initially rare conditions. CONCLUSION: Applying a uniform cost-effectiveness threshold across diseases implicitly assumes homogeneous production conditions and opportunity costs. Prevalence-adjusted effective thresholds derived under the GeDP framework provide a quantitative, descriptive approach for contextualizing cost-effectiveness evidence for rare diseases such as PAH without redefining societal willingness to pay or prescribing decision rules. This approach can complement existing pharmacoeconomic evaluations by improving transparency around the role of prevalence and scale in shaping opportunity costs.",
             "abstract_zh": "",
             "matched_topics": [
               "医药产业"
             ]
           },
           {
-            "title_en": "The Cost Utility of Rhythm Control Treatment Sequences in Patients with Atrial Fibrillation: Anti-arrhythmic Drugs Versus Catheter Ablation",
+            "title_en": "Developing French Population Tariffs for the ICECAP-A Using Best–Worst Scaling",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01604-5",
-            "abstract_en": "BACKGROUND AND OBJECTIVE: Despite evidence on the cost effectiveness of catheter ablation (CA) as a rhythm control strategy in patients with atrial fibrillation, CAs form a substantial share of medical resource consumption, raising questions about optimal timing and maximum CAs per patient. This study addresses these questions using a newly developed open source model integrating observational and clinical trial data. The objective was to estimate the cost effectiveness of rhythm control strategies including anti-arrhythmic drugs (AADs) and/or CA in different sequences from a societal perspective in the Netherlands. METHODS: Time to atrial fibrillation symptom recurrence after a CA was estimated using parametric survival functions estimated on health insurance data (n = 24,286). Relative efficacy of CAs versus AADs was derived from meta-analyses, accounting for previous treatment exposure. Six treatment lines were modeled, incorporating AADs and CAs as rhythm control strategies. Medical and societal costs were included and the model had a lifetime time horizon. Model results were generated in 2024 Euros using Dutch input data with a cost-per-quality-adjusted life-year threshold of €20,000. For the probabilistic sensitivity analyses, we simultaneously varied all parameters across 1000 model runs with 5000 patients each. RESULTS: Treatment sequences including at least one CA were cost effective compared with only AADs. Catheter ablation costs are counterbalanced by reduced medical resource consumption in the years following CA. 51.6% of patients with first-line CA remain symptom free over a lifetime versus 6.9% with AADs. The most cost-effective strategy starts with CA, manages atrial fibrillation recurrences with AADs, and uses a maximum of three repeat ablations. CONCLUSIONS: Our model suggests that rhythm control with at least one CA is cost effective compared with only AADs in patients with atrial fibrillation requiring rhythm control. Within shared decision making, first-line CA, followed by AADs to manage atrial fibrillation recurrences, with a maximum of three repeat ablations, represents the most cost-effective strategy for patients with symptomatic atrial fibrillation requiring rhythm control.",
+            "url": "https://doi.org/10.1007/s40273-026-01614-3",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Balancing Innovation and Access: Insights from AIM’s Fair Pricing Model and Its Current and Future Applications",
+            "title_zh": "",
+            "url": "https://doi.org/10.1007/s40273-026-01615-2",
+            "abstract_en": "OBJECTIVE: Access to affordable medicines is a cornerstone of equitable healthcare, yet escalating drug prices increasingly strain national healthcare systems. Cost-based pricing can be a useful complement to value-based pricing, provided that relevant variables are considered. METHODS: We applied the International Association of Mutual Benefit Societies (AIM) Fair Pricing Model to ten market-protected medicines authorized by the European Medicines Agency between 2015 and 2018, covering oncology, rare diseases, and chronic conditions. Analyses were conducted across six European countries-Belgium, Estonia, Germany, the Netherlands, Slovenia, and Switzerland-to assess discrepancies between calculated fair prices and actual market prices. Fair prices were calculated using a standardized research and development (R&D) lump sum of €800 million per medicine with sensitivity analyses at €250 million and €2.5 billion. Fair prices were compared with 2020 list prices, and where available, estimated net prices. Potential budgetary savings were estimated by deriving a weighted reduction percentage from the expenditure gap between actual prices and fair prices and applying this to national spending on newly marketed medicines. RESULTS: The analysis demonstrated that fair prices were up to 97% lower than list prices, and on average, 53% lower. When confidential discounts were considered, fair prices remained on average 33% below net prices. Applying fair prices to the ten selected medicines resulted in an average weighted reduction of 77% in gross expenditures and 73% in net expenditures of the six participating countries. When extrapolated to the European level, this corresponds to potential annual net savings of €27 billion for new medicines. CONCLUSIONS: These findings align with previous studies in Germany and Belgium, which reported potential savings of more than €13 billion and €1 billion, respectively (with R&D costs of €250 million). Currently, the model supports price negotiations of Dutch insurers and is being integrated into the Horizon Europe funded project ASCERTAIN. Overall, AIM's model offers a useful framework for both innovative and repurposed medicines, improving transparency and fairness in pricing. Current prices paid for new medicines are not justified by the underlying costs of research or their therapeutic value. Therefore, applying this model can generate substantial savings for European health systems.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
+              "企业创新",
               "创新药"
             ]
           },
           {
-            "title_en": "Ten Recommendations for Modelling Cost Effectiveness of Screening: Perspectives of an International Stakeholder Group",
+            "title_en": "Accounting for Genomic Testing Costs in Cost-Effectiveness Evaluations: Challenges and Lessons Learned from the NICE Single Technology Appraisal of Erdafitinib for Treating Unresectable or Metastatic Urothelial Cancer with FGFR3 Alterations After a PD-1 or PD-L1 Inhibitor",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01602-7",
+            "url": "https://doi.org/10.1007/s40273-026-01592-6",
+            "abstract_en": "Precision medicine incorporates genomic and molecular profiling into clinical decision-making, enabling treatments to be tailored to the unique characteristics of each patient and their disease [ 1 , 2 ]. For instance, therapies may target epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) mutations, B-Raf proto-oncogene (BRAF) variants, or programmed death-ligand 1 (PD-L1) expression levels [ 3 ]. Over the past decade, the implementation of precision medicine in oncology has resulted in improved survival rates, reduced off-target toxicities, and enhanced quality of life compared with non-targeted therapies [ 3 , 4 , 5 , 6 , 7 ]. However, precision oncology presents new challenges. Alongside the high acquisition costs of precision therapies, influenced by the complex research, development, and smaller treatment populations [ 8 ], patients must undergo additional genomic testing to determine eligibility [ 4 ]. These diagnostic requirements introduce further costs that can influence cost-effectiveness evaluations, especially when genomic testing is not (yet) part of routine clinical practice, and the prevalence of actionable mutations is low [ 9 , 10 ]. Applying the full cost of genomic testing to populations with low prevalence can substantially increase incremental cost-effectiveness ratios (ICERs), which may risk discouraging innovation [ 11 , 12 ]. In contrast, in larger populations, testing costs are distributed across more patients, thereby reducing their impact. Yet, oncology is increasingly moving towards molecularly defined subgroups as more targeted therapies emerge [ 3 , 8 ]. This commentary highlights the challenges and key learnings of integrating genomic testing costs in cost-effectiveness evaluations from an External Assessment Group (EAG) perspective, using the example of the National Institute for Health and Care Excellence (NICE) Single Technology Appraisal (STA) of erdafitinib for treating unresectable or metastatic urothelial cancer (UC) with fibroblast growth factor receptor 3 (FGFR3) alterations after a programmed death receptor-1 (PD-1) or PD-L1 inhibitor in adults.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Schrodinger’s Pricing: Conceptual and Practical Challenges of Conditional PAS in the NICE Technology Appraisal of Lorlatinib for Untreated ALK-Positive Advanced Non-small-cell Lung Cancer (Review of TA1103): An External Assessment Group Perspective",
+            "title_zh": "",
+            "url": "https://doi.org/10.1007/s40273-026-01593-5",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "创新药"
+              "产业经济"
             ]
           }
         ],
