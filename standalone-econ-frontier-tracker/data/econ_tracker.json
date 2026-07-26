@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-19 07:13:56",
+  "updated_at": "2026-07-26 07:20:45",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 285,
+    "fail_count": 263,
     "failed_examples": [
       "Understanding High-Wage Firms: Monopoly, Monopsony, and Bargaining Power :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "I study how firm market power and worker bargaining power shape wages and welfar :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
@@ -234,16 +234,6 @@
             ]
           },
           {
-            "title_en": "A Welfare Analysis of Policies Impacting Climate Change",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20250166",
-            "abstract_en": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
             "title_en": "Monetary Policy without Commitment",
             "title_zh": "",
             "url": "https://doi.org/10.1257/aer.20241925",
@@ -251,6 +241,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
+            ]
+          },
+          {
+            "title_en": "A Welfare Analysis of Policies Impacting Climate Change",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20250166",
+            "abstract_en": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
             ]
           },
           {
@@ -778,107 +778,26 @@
         "query_name": "Journal of International Economics",
         "issn": "0022-1996",
         "resolved_name": "Journal of International Economics",
-        "issue_title": "Published 2026-08",
+        "issue_title": "Published 2026-10",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 12,
-        "total_in_issue": 19,
+        "matched_count": 6,
+        "total_in_issue": 10,
         "papers": [
           {
-            "title_en": "Reducing trade with Russia: Sanctions vs. firms’ voluntary suspension of activities",
+            "title_en": "Trade fragmentation, inflationary pressures and monetary policy",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104284",
-            "abstract_en": "The invasion of Ukraine in February 2022 led to large and unprecedented sanctions against Russia. In parallel, many multinational firms voluntarily decided to suspend their activities in Russia. Using Spanish firm-level data, this paper quantifies the impact of trade sanctions and firms’ voluntary decisions to suspend activities on exports and imports with Russia. We find that firms’ voluntary decisions to suspend activities in Russia contributed to the reduction in exports and imports by 20% and 24%, respectively, while sanctions contributed by 10% and 34%, respectively. The results show that the combination of sanctions and firms’ voluntary suspension of activities caused a much greater reduction in trade with Russia than sanctions alone would have achieved.",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104219",
+            "abstract_en": "How does trade fragmentation affect inflationary pressures? What is the response of monetary policy needed to sustain inflation at target? To address these questions, we develop a two-sector, small open-economy model featuring imperfect international risk-sharing and household heterogeneity, capturing both the supply-side and demand-side effects of fragmentation. In the model, fragmentation takes the form of import-price increases or a decline in tradable-sector productivity. The sign and magnitude of its impact on inflationary pressures, and the appropriate policy response, depend not only on the direct effect of higher import prices or lower productivity on supply but also, crucially, on how aggregate demand adjusts to lower real incomes. In turn, this depends on the pace of fragmentation (gradual versus front-loaded) and other key structural factors highlighted by the model. We compare outcomes under Taylor-type monetary policy rules to a constrained-efficient allocation.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Financial frictions, FX reserves, and exchange rate management with local-currency debt",
+            "title_en": "Playing with blocs: Quantifying decoupling",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104282",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际经济"
-            ]
-          },
-          {
-            "title_en": "Trade models, trade elasticities, and the gains from trade",
-            "title_zh": "贸易模型、贸易弹性与贸易收益",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104268",
-            "abstract_en": "We consider five models of international trade that belong to the class of models in which the trade elasticity and domestic trade share are sufficient statistics for the welfare cost of autarky. Three are fixed-variety models featuring increasing micro-level margins of adjustment: versions of the Armington model, the Ricardian model, and its variable-markup counterpart. Two are endogenous-variety models featuring monopolistic competition: versions of the Krugman model and the Melitz model. For the three fixed-variety models, we show theoretically that, although they imply the same mapping from the trade elasticity to welfare, they imply different mappings from the trade elasticity to observed order statistics of price gaps of identical goods across countries. This result implies that choosing the parameter that governs the elasticity of trade to match the same order statistics in the data differentially impacts each model's measured welfare cost of autarky. We quantify these differences for all five models.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Equity financing and exports: Evidence from IPO approvals in China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104292",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "U.S. liquid government liabilities and emerging market capital flows",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104299",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际经济",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Governments’ home bias and efficiency losses: Evidence from national and subnational governments",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104285",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Burn now or never? Climate policy exposure and investment of fossil fuel firms",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104267",
-            "abstract_en": "We investigate the impact of expectations about future climate policy on investment decisions of fossil fuel firms. Our empirical analysis reveals that within the fossil fuel industry, firms with high exposure to climate policy significantly increased their investment in response to the Paris Agreement relative to firms with low exposure. Importantly, the result is driven by traditional investment in fossil fuel exploration and extraction with no indications that firms invested in a transition towards renewable energy production, nor in reducing the carbon-intensity of fossil fuel production. Our findings contribute to the ongoing discussion about the potential adverse effects of delaying the implementation of planned climate regulation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Fiscal policy and inflation in the Euro Area",
-            "title_zh": "欧元区的财政政策与通货膨胀",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104281",
-            "abstract_en": "We investigate the relationship between fiscal policy and inflation dynamics in the Euro Area, with a focus on the post-pandemic inflation surge. Using a BVAR identified via sign restrictions, we disentangle the effects of various demand- and supply-side shocks, including fiscal policy, on inflation. First, while both positive demand and adverse supply shocks contributed to the inflation surge, demand shocks were relatively more important. Second, fiscal stimulus played a substantial and progressively increasing role, particularly in influencing domestic-based measures of inflation. Finally, the relative impact of fiscal shocks on inflation dynamics varies across (selected) Euro Area countries.",
-            "abstract_zh": "我们研究了欧元区财政政策与通胀动态之间的关系，重点关注疫情后通胀的激增。通过使用符号限制识别的BVAR模型，我们分离了包括财政政策在内的各种需求和供应冲击对通胀的影响。首先，尽管正向需求和不利供应冲击都对通胀激增有所贡献，但需求冲击相对更为重要。其次，财政刺激发挥了显著且逐渐增加的作用，特别是在影响基于国内的通胀指标方面。最后，财政冲击对通胀动态的相对影响在（选定的）欧元区国家之间有所不同。",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Air access to foreign markets and export-biased growth: Evidence from business entries",
-            "title_zh": "航空通达性与出口导向型增长：来自企业进入的证据",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104270",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Optimal bailouts in banking and sovereign crises",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104283",
-            "abstract_en": "We study optimal bailout policies in the presence of banking and sovereign crises. First, we use European data to document that asset guarantees are the most prevalent way in which sovereigns intervene during banking crises. Then, we build a model of sovereign borrowing with limited commitment, where domestic banks hold government debt and also provide credit to the private sector. Shocks to bank capital can trigger banking crises, with the government sometimes finding it optimal to extend guarantees over bank assets. This leads to a trade-off: Larger bailouts relax domestic financial frictions and increase output, but also imply increasing government fiscal needs and possible heightened default risk (i.e., they create a 'diabolic loop'). We find that the optimal bailouts exhibit clear properties. Other things equal, the fraction of banking losses that the bailouts cover is: (i) decreasing in the level of government debt; (ii) increasing in aggregate productivity; and (iii) increasing in the severity of the banking crisis. Even though bailouts mitigate the adverse effects of banking crises, we find that the economy is ex ante better off without bailouts: Having access to bailouts lowers the cost of defaults, which in turn increases the default frequency, and reduces the levels of debt, output, and consumption.",
+            "url": "https://doi.org/10.1016/j.jinteco.2025.104204",
+            "abstract_en": "We adopt a data-driven approach to measure trade decoupling over 2015-2023. Countries are classified into three groups according to changes in their data-inferred trade costs with the US and China: those shifting toward the US bloc, those shifting toward the China bloc, and those with no change in alignment. We document that while cross-bloc trade costs rose, they were accompanied by falling within-bloc trade costs, with average trade costs falling marginally in line with global trade resilience. We use a quantitative model to compute the real income effects of this reconfiguration of trade costs. Model simulations suggest that real income in the median country in the world, and the median country within each bloc, rose by 0.4-0.6%. Finally, we find a modest amount of bloc misalignment: the median country would be better off switching blocs. These results suggest that trade decoupling may not follow trade-driven economic interests.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -886,23 +805,45 @@
             ]
           },
           {
-            "title_en": "International trade finance and learning dynamics",
+            "title_en": "How to grow an invoicing currency: Micro evidence from Argentina",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104286",
-            "abstract_en": "We study how learning within trading relationships determines export and trade finance dynamics jointly. Using micro-level Chilean data, we document that new exporters are more likely to use cash-in-advance (CIA) payments and gradually switch to providing trade credit. These dynamics affect export growth and relationship length and are more salient for firms with less exporting experience and selling to riskier destinations. We set up an international trade model in which firms make exporting and trade financing decisions subject to demand and counterparty risks and estimate it using microdata. We then quantify the relative importance of demand and counterparty risks and investigate how trade finance choices and learning affect export dynamics. The equilibrium response of aggregate exports to shocks to aggregate interest rates can overshoot in the short run if long-term relationships are destroyed. These responses depend on the riskiness of export destinations.",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104290",
+            "abstract_en": "How can a currency achieve more widespread international use? We study the internationalization of the Chinese renminbi (RMB) through the lens of a unique policy experiment in Argentina. In 2023, amid a severe dollar shortage, Argentina expanded a currency swap line with the People’s Bank of China. Within the next few months, the share of imports from China invoiced in RMB surged rapidly to nearly 50% – displacing the US dollar, which had previously accounted for virtually all invoicing. Following the presidential election of late 2023, as macroeconomic policies changed and the dollar shortage eased, invoicing in RMB declined. We explore the mechanisms behind this aggregate pattern, using rich firm-level data on imports, bank-firm loan relationships, and bank balance sheets. Our results indicate that banks played a key role, in line with the dollar shortage narrative. First, firms with pre-existing relationships to banks with limited US dollar loans were more likely to switch to RMB. Second, firms borrowing from a Chinese state-owned bank were significantly more likely to use RMB. We also document firm-level spillovers, with RMB use for imports from China increasing the likelihood of RMB use for imports from other countries. Finally, we observe an effect on trade volumes. Firms switching to RMB saw increased total imports",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Liability dollarization and exchange rate pass-through to domestic prices",
+            "title_en": "Central banker to the world: Foreign reserve management and U.S. money market liquidity",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104294",
-            "abstract_en": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2025.104203",
+            "abstract_en": "We develop a model that shows how foreign reserve management decisions can adversely affect U.S. money market liquidity. Consistent with the March 2020 dash-for-cash, our model suggests that as export-price volatility increases, a foreign central bank that pegs its exchange rate shifts reserves from relatively illiquid Treasuries to the Fed’s reverse repo facility. Over the relevant horizon, this precautionary behavior drains liquidity from U.S. money markets and raises repo spreads. These predictions provide a credible channel to identify the effect of foreign central bank demand for dollar liquidity on repo spreads, exploiting the characteristics of commodity exporters with pegged exchange rates. Empirical evidence supports the model’s predictions: precautionary sales by these central banks lead to a statistically and economically significant widening of repo spreads, accompanied by a drawdown in Treasury balances. These results underscore how the Fed’s foreign-repo facilities mitigate global dollar-funding stress and protect U.S. short-term funding markets.",
             "abstract_zh": "",
             "matched_topics": [
+              "国际贸易",
               "国际经济"
+            ]
+          },
+          {
+            "title_en": "Granularity in the current account",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104225",
+            "abstract_en": "We present new empirical evidence on the role of granularity in the current account (CA), using a unique and comprehensive firm-level dataset for Switzerland. We show that idiosyncratic shocks to large firms account for almost two thirds of the fluctuations in the headline CA and are the primary source of CA volatility. The granular effect is present across goods, services, and income components and persists over both short- and medium-term horizons. In addition to their direct impact, idiosyncratic shocks propagate through inter-firm linkages via input–output relationships and cross-product connections associated with multinational enterprise activity. Our findings complement standard macroeconomic models by providing a micro-founded perspective and demonstrating the importance of granularity in explaining fluctuations in external balances.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Seizing central bank assets?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2025.104207",
+            "abstract_en": "We study the global impacts of sanctions on central bank assets. We build a database on freezes and seizures of central bank assets spanning 1914–2024. We show that the scale of the freeze on today’s Central Bank of Russia’s assets is rarely seen in history and that non-belligerent countries have never seized central bank assets to finance reconstruction in a third country in an ongoing war. We propose a three-country DSGE model to understand the global impacts of sanctions on central bank assets and tease out the macroeconomic mechanisms. One insight of the model is that seizing central bank assets can result in adverse effects on the sanctioning country in general equilibrium. Calibrated model simulations suggest that seizing Russia’s immobilized sovereign assets could result in higher interest rates on sanctioning countries’ government bonds. The increase in interest rate payments could surpass the assets’ amount seized after about three years.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           }
         ],
@@ -915,9 +856,20 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 0,
-        "total_in_issue": 1,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 6,
+        "papers": [
+          {
+            "title_en": "The Green Revolution and individualism: Evidence from Indonesia",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103877",
+            "abstract_en": "This paper studies the effects of the Green Revolution, one of the largest development projects in the late 20th-Century, on individualism. We use a difference-in-differences approach to investigate how rapid technological and organizational changes in traditional agriculture reshaped cultural norms in Indonesia, where Green Revolution rollout was largely driven by centralized government interventions. Regions with greater exposure to Green Revolution policies experienced significant and persistent increases in individualism (as measured by a higher prevalence of infrequent names) decades after the end of the program. Results are not driven by pre-trends and hold across a battery of robustness checks. We further document suggestive, correlational evidence of a persistent fall in community funding for public goods, a key measure of collective action. Our findings suggest that technical change can lead to rapid and persistent changes in culture.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -1740,132 +1692,30 @@
         "query_name": "Technovation",
         "issn": "0166-4972",
         "resolved_name": "Technovation",
-        "issue_title": "Published 2026-08",
+        "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 12,
-        "total_in_issue": 17,
+        "matched_count": 2,
+        "total_in_issue": 3,
         "papers": [
           {
-            "title_en": "Multinational enterprises and strategic foresight: The path to eco-innovation",
+            "title_en": "From circularity to sustainability: Leveraging Industry 4.0 for circular and supply chain resilience",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103603",
-            "abstract_en": "This study applies neo-institutional theory and dynamic capability theory to an aerospace multinational case study for examining how firms can plan for eco-innovation through strategic foresight and how such planning shapes and is shaped by the institutional environment. The findings show that strategic foresight enables organisations to interpret institutional pressures and reconfigure dynamic capabilities to support eco-innovation. To ensure coherence and continuity, multinational enterprises (MNEs) should assign responsibility for eco-innovation to a dedicated unit, supported by collaboration across internal divisions and with customers. Foresight activities guide the introduction of eco-innovation initiatives and embed them into the daily operations of all units. Overall, this case study shows how policymaking processes, design dynamics, and societal demands can motivate an MNE to integrate eco-innovation across its organisation and clarifies the central role of strategic foresight. Large firms are shown to be pivotal actors in eco-innovation, influencing change within their internal units and across the entire value chain.",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103653",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "The low-value trap: Sustaining multi-actor collaboration across problem spaces in emerging technology commercialization",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103657",
+            "abstract_en": "Despite the potential applications of bio-marine technologies, many promising innovations remain confined to the laboratory, missing potential high-value applications and damaging the overall perception of the emerging technology. Prior research has highlighted the positive impact of multi-actor collaborations on technology development, particularly to bridge the gap between the lab and the market. However, we know little about the mechanisms that sustain productive multi-actor collaboration in emerging technology commercialization and why they prove insufficient as actors move from low-to high-value applications. We study the case of an emerging technology – the utilization and application of fucoidan, a bio-marine extract – to explore how collaboration is sustained among actors as they face the increasing complexity of the technology commercialization for high-value applications. By building on patents and publications and analyzing in-depth interviews, we identify three key mechanisms that support effective collaboration: anchoring a shared vision, coordinating across knowledge boundaries, and structuring an operational framework. We show how these mechanisms need to be recalibrated, not simply scaled, when actors transition across problem spaces from low to high-value applications, and why the failure to do so produces a low-value trap for the emerging technology.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新",
               "创新药"
-            ]
-          },
-          {
-            "title_en": "Inventor team diversity and patent quality: Gender–geography interaction and the role of national innovation system complexity",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103639",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Openness and key core technology innovation: The moderating role of the interdisciplinary knowledge base",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103643",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "From hammers to toolkits: A methodological framework for applying design science to orchestrating collaborative innovation processes",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103632",
-            "abstract_en": "Collaborative innovation is crucial in addressing complex challenges such as sustainability-oriented and technological transformation. While previous research has explored the mechanisms and outcomes of collaborative innovation, scholars and practitioners still lack clear, actionable guidance on how to design, select, adapt, and evaluate the tools and methods—referred to as artifacts—that support the collaborative innovation process. This paper addresses that question. Drawing on an Action Design Research (ADR) study across three cases and five iterative build-intervene-evaluate cycles, we develop the Orchestrating Collaborative Innovation (OCI) methodological framework. Grounded in a process perspective, organization theory, and empirical insights, OCI introduces 18 phase-specific design principles for innovation community participants and 10 for orchestrators to guide artifact development. OCI is a methodological framework for design science scholars and innovation orchestrators. It supports scholars and practitioners in designing, adapting, and selecting artifacts that align with a specific phase of the collaborative innovation process and evaluating them accordingly. By doing so, the innovation community can become more cohesive, align on shared goals, and co-create innovation. Beyond collaborative innovation, the framework contributes to advancing a process perspective in design science by emphasising the evolving, relational, and performative nature of the innovation process.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Beyond the surface: Exploring configurations for digital innovation based on digital technology affordance theory",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103628",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Supportive or exhausting: How resources synergize in network embedding innovation process to improve sustainability",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103631",
-            "abstract_en": "As sustainability improvement becomes increasingly complex and uncertain, firms are increasingly dependent on networked innovation capability to integrate dispersed knowledge and technologies from external entities. However, the transformation from networked innovation capability to sustainability involves a procedural mechanism that requires effective synergy among limited multidimensional financial and digital resources. This procedural mechanism and the role of resource synergy within it remain underexplored. Based on network embeddedness theory, innovation value chain theory, and resource synergy theory, this study constructs an integrated “Networked Innovation Capabilities-Process-Resources” synergy framework and employs stepwise regression analysis on a sample of 165 new energy vehicle firms. Results show that: (1) Networked knowledge innovation capability promotes sustainability through a procedural mechanism involving networked technology innovation capability and market value. (2) Multidimensional financial resources exert heterogeneous effects across different links of the procedural mechanism, with financial leverage and profitability showing significantly positive moderating effects, while operational efficiency shows no significant effect. (3) Multidimensional digital resources exert dual supportive or exhausting influences on the synergistic effects of financial resources, where digital development orientation provides consistent support, whereas digital software and hardware investment exhibit both supportive and exhausting effects contingent upon the specific link of the procedural mechanism. This study elucidates how networked innovation capability affects sustainability through a procedural mechanism and how diverse yet limited resources synergize in this process. It provides theoretical and practical insights for firms and governments to promote networked innovation capability and optimize the allocation of financial and digital resources in innovation process for sustainability.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Platform Thinking in Action: A design science research to bring the platform revolution in legacy firms",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103629",
-            "abstract_en": "Digital platforms have become a dominant logic for value creation and innovation, yet legacy firms still struggle to translate platform principles into actionable organizational transformation. A central reason is cognitive: managers often mis-frame platforms as digital services rather than as ecosystem-based value architectures. This paper adopts a Design Science approach to develop and refine the Platform Thinking Journey, a composite managerial artifact that supports platform transformation in incumbent firms. Developed through a three-year, multi-firm collaboration within the Platform Thinking HUB, the artifact evolved across three iterative waves from exploratory tools into a validated journey structured around four phases: Framing, Design, Ignition, and Growth. The resulting Platform Thinking Journey combines a process model, bounded decision cycles, and an integrated physical and digital, or “phygital”, support architecture, including cards, canvases, workshops, digital templates, and a GenAI co-thinker. Its core mechanism is to make platform theory actionable by presenting structured alternatives grounded in the literature, focusing managerial attention, reducing ambiguity, and aligning interpretation before teams consolidate choices through design tools and milestones. The study contributes to platform and innovation management research by showing how platform transformation can be actively supported through design, and by identifying five design principles for incumbent firms: reframing from products to interactions before solutioning, structuring the process as bounded decision cycles, materializing reasoning through boundary objects, balancing conceptual depth with cognitive manageability, and sustaining reflection through phygital continuity. Methodologically, the paper offers a rigorous application of Design Science to a non-technical managerial artifact in a multi-wave, multi-firm collaborative setting. For managers, the Platform Thinking Journey provides a structured way to reframe platform opportunities, make key design choices explicit, and sustain reflection across the transformation process.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Less is more: Leveraging bricolage and exaptation for frugal innovation and firm growth",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103641",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Competition intensity and business model innovation: The distinctive role of strategic innovation readiness in European family and non-family SMEs",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103651",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Digital technology adoption and servitization of manufacturing firms —The role of knowledge coupling and collaborative network cohesion",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103627",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Profiling the Entrepreneurship and Innovation Ecosystem (EIE) of Crete: A Quintuple Innovation Helix perspective",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103642",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Value (in)congruence of patent pledges and its impact on corporate green innovation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103635",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
             ]
           }
         ],
@@ -1972,76 +1822,11 @@
         "query_name": "Journal of Health Economics",
         "issn": "0167-6296",
         "resolved_name": "Journal of Health Economics",
-        "issue_title": "Published 2026-07",
+        "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
-        "matched_count": 6,
-        "total_in_issue": 21,
-        "papers": [
-          {
-            "title_en": "Integrating equity and productivity in health evaluation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jhealeco.2026.103156",
-            "abstract_en": "This paper develops a unified framework for evaluating health outcomes that jointly incorporates equity and productivity. Extending beyond traditional QALYs, PALYs, and the more recent PQALYs, we introduce a broader class of evaluation functions that integrate equity- and productivity-sensitive conditions. By imposing several normative criteria, including independence from measurement scales and Pigou-Dalton transfer principles, we obtain tractable power-form representations. In balancing equity and efficiency, the framework provides a coherent foundation for assessing interventions in contexts where both health and productive capacity are at stake.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Competition matters: Uniform vs. indication-based pricing of pharmaceuticals",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jhealeco.2026.103157",
-            "abstract_en": "Pharmaceutical expenditures are rising rapidly, driven in part by the innovation of highly effective but very expensive drug therapies that treat multiple diseases, implying that payers face a critical trade-off between cost containment and access to new medicines. A key policy question is whether producers should be restricted to uniform pricing or allowed to use indication-based pricing, where prices vary across patient groups. We use a two-market model to analyse how this choice affects drug producers' incentives to invest in new indications, their pricing strategies, and the resulting surplus for health plans. In a monopoly setting, indication-based pricing yields higher profits and thus strengthens incentives to invest in new indications, while the payer prefers uniform pricing unless the fixed investment costs cannot be recouped. However, monopoly-based insights may not hold if the multi-indication producer faces therapeutic competition in one of the markets. Specifically, we identify a softening-of-competition effect, where a uniform pricing restriction serves as a credible commitment to raise prices in the competitive market. In this case, the health plan might favour indication-based pricing to reduce costs. Overall, our findings suggest that neither pricing scheme is universally optimal, underscoring the need for case-by-case assessments across drug classes.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "产业经济",
-              "企业创新",
-              "医药产业",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Income and immunity: The consequences of social security administration reform for childhood infection risk",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jhealeco.2026.103153",
-            "abstract_en": "We analyse the impact of a change in the administration of social security payments, occurring in utero and early infancy, on health in early childhood. We identify this impact through the gradual rollout of the so-called 'income management' policy in Aboriginal communities in Australia's Northern Territory in 2007. This policy changed the delivery method of social security payments but not their value - however, implementation challenges meant that many families did not receive their payments on time. Using linked administrative data, we find that children who were exposed to the policy rollout in utero or in their first three months of life (the 'fourth trimester') were at higher risk of severe infection requiring hospitalisation. These children spent, on average, 4.7 more days in hospital between birth and their 8th birthday. Most of this impact is concentrated in hospitalisations for infection, which increased by 23 percent. These admissions are driven by a range of infection types: bacterial, viral and respiratory. We link our findings to the 'immune programming hypothesis', i.e. maternal stress and poor nutrition during key stages in immune system development can permanently weaken the child's immune system. Our findings highlight the importance of attention to key phases in child development when designing policies that affect households' financial resources, even temporarily.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "The effect of offering standardized “Simple Choice” plans on premiums in the Federally Facilitated ACA marketplaces",
-            "title_zh": "提供标准化“简单选择”计划对联邦促进的ACA市场保费的影响",
-            "url": "https://doi.org/10.1016/j.jhealeco.2026.103142",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Improving disability benefit take-up: Experimental evidence from a public information campaign in Vietnam",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jhealeco.2026.103163",
-            "abstract_en": "Despite substantial disability-related costs, participation in public disability benefit programs remains incomplete in many countries. This is particularly the case in low- and middle-income countries where disability programs are relatively new and awareness of eligibility rules may be limited. This paper evaluates whether reducing information frictions can increase enrolment in Vietnam's national disability benefits program. In a randomised controlled trial across 70 rural communes, standardised information about disability benefits was embedded within routine government loudspeaker broadcasts over a five-week period. Using commune-level administrative data observed approximately two years after the intervention, the results show that program enrolment was 9 percent higher in treated communes. The effects are larger among individuals classified with severe disabilities, for whom enrolment increased by 12 percent. Smaller effects are observed among persons with the most severe disabilities, who were likely already well covered by the program. Larger effects are also observed among children who are eligible for higher monthly disability pension amounts. These findings demonstrate that a low-cost and scalable information campaign delivered through existing government communication infrastructure can substantially increase participation in disability benefit programs.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Retirement and cognitive abilities: Evidence from the German early retirement age reform for women",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jhealeco.2026.103161",
-            "abstract_en": "We study the effects of retirement on cognitive functioning among women aged 63 to 67 by exploiting a German retirement reform that raised the early retirement age for women born after 1951 by three years, from 60 to 63. Our indicators of cognitive functioning are objective cognitive test scores (word recall, semantic fluency, and the Stroop test) from a large biomedical dataset, as well as the diagnosis of cognitive disorders from administrative health insurance claims. We find reductions of around 13% of a standard deviation per year in retirement for measures of fluid intelligence, whereas crystallized intelligence remains unaffected. These estimates reflect the reform-induced shift in retirement duration for compliers around the eligibility cutoff. In contrast, additional years in retirement do not affect diagnosis of cognitive disorder and decrease diagnoses of dementia-related risk factors such as hypertension, depression, and sleep problems. The improvement in health outcomes suggests that cognitive decline is not driven by health deterioration but might possibly be due to reduced cognitive engagement after leaving work.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 2,
+        "papers": [],
         "error": null
       },
       {
@@ -2201,7 +1986,7 @@
             "title_en": "Schrodinger’s Pricing: Conceptual and Practical Challenges of Conditional PAS in the NICE Technology Appraisal of Lorlatinib for Untreated ALK-Positive Advanced Non-small-cell Lung Cancer (Review of TA1103): An External Assessment Group Perspective",
             "title_zh": "",
             "url": "https://doi.org/10.1007/s40273-026-01593-5",
-            "abstract_en": "",
+            "abstract_en": "Schrodinger's Pricing: Conceptual and Practical Challenges of Conditional PAS in the NICE Technology Appraisal of Lorlatinib for Untreated ALK-Positive Advanced Non-small-cell Lung Cancer (Review of TA1103): An External Assessment Group Perspective",
             "abstract_zh": "",
             "matched_topics": [
               "产业经济"
