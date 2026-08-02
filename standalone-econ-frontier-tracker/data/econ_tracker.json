@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-26 07:20:45",
+  "updated_at": "2026-08-02 07:20:48",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 263,
+    "fail_count": 289,
     "failed_examples": [
-      "Understanding High-Wage Firms: Monopoly, Monopsony, and Bargaining Power :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "I study how firm market power and worker bargaining power shape wages and welfar :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "Germs in the Family: The Short- and Long-Term Consequences of Intrahousehold Dis :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "Preschool-aged children get sick frequently and spread disease to other family m :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "The Effect of Omitted Variables on the Sign of Regression Coefficients :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "We show that, depending on how the impact of omitted variables is measured, it c :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p"
+      "Energy Transitions in Regulated Markets :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "Natural gas has replaced coal as the dominant fuel for US electricity generation :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "Designing Dynamic Reassignment Mechanisms: Evidence from GP Allocation :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "We study the problem of designing a dynamic reassignment mechanism when agents'  :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "The Productivity of Professions: Evidence from the Emergency Department :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "This paper studies the productivity of nurse practitioners (NPs) and physicians, :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p"
     ],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
   },
@@ -167,97 +167,26 @@
         "query_name": "American Economic Review",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 7",
+        "issue_title": "Volume 116, Issue 8",
         "issue_url": "https://www.aeaweb.org/journals/aer",
-        "matched_count": 10,
-        "total_in_issue": 15,
+        "matched_count": 6,
+        "total_in_issue": 12,
         "papers": [
           {
-            "title_en": "Understanding High-Wage Firms: Monopoly, Monopsony, and Bargaining Power",
+            "title_en": "Energy Transitions in Regulated Markets",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20230344",
-            "abstract_en": "I study how firm market power and worker bargaining power shape wages and welfare. Using French micro-data, I document patterns linking wages and firm market power that existing models cannot explain. A model in which firms produce vertically differentiated goods and share profits with workers explains those patterns. The model (i) reveals new challenges in estimating monopsony and bargaining power, proposing an alternative approach; (ii) shows that the passthrough of firm-specific shocks to wages depends on the type of shock; (iii) explains how markups shape firm wage premia; and (iv) formalizes how strengthening worker bargaining power affects wages and welfare. (JEL D22, J31, J42, J52, L12, L22)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Germs in the Family: The Short- and Long-Term Consequences of Intrahousehold Disease Spread",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20231521",
-            "abstract_en": "Preschool-aged children get sick frequently and spread disease to other family members. Despite the universality of this experience, there is limited causal evidence on the magnitudes and consequences of these externalities, especially for infant siblings with developing immune systems and brains. We show in Danish administrative data that during infancy, younger siblings have two to three times higher hospitalization rates for respiratory conditions than older siblings. We combine birth order and within-municipality variation in respiratory disease prevalence among young children, finding lasting differential impacts of early-life respiratory disease exposure on younger siblings' earnings, educational attainment, chronic respiratory health, and mental health-related outcomes. (JEL D13, D62, I12, J12, J13, J24, J31)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The Effect of Omitted Variables on the Sign of Regression Coefficients",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20230242",
-            "abstract_en": "We show that, depending on how the impact of omitted variables is measured, it can be substantially easier for omitted variables to flip coefficient signs than to drive them to zero. This behavior occurs with “Oster's delta” (Oster 2019a), a widely reported robustness measure. Consequently, any time this measure is large—suggesting omitted variables may be unimportant—a much smaller value reverses the sign of the parameter of interest. We propose a modified measure of robustness to address this concern. We illustrate our results in four empirical applications and two meta-analyses. We implement our methods in the companion Stata module “regsensitivity.” (JEL C18, C21, C52)",
+            "url": "https://doi.org/10.1257/aer.20240094",
+            "abstract_en": "Natural gas has replaced coal as the dominant fuel for US electricity generation. However, utilities in regulated US states have retired coal more slowly than others. We build a structural model of rate-of-return regulation during an energy transition where utilities face trade-offs between lowering costs and maintaining and using legacy capacity. A regulated utility facing carbon taxes lowers short-run coal generation 48 percent as much as a cost minimizer would. Thirty years after a sudden energy transition, a cost minimizer has retired 71 percent more coal capacity than the regulated utility. Alternative regulations may jeopardize affordability and reliability goals during energy transitions. (JEL D24, L94, L98, Q35, Q48)",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "The Effect of High-Tech Clusters on the Productivity of Top Inventors: Comment",
+            "title_en": "Designing Dynamic Reassignment Mechanisms: Evidence from GP Allocation",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20231415",
-            "abstract_en": "Moretti (2021) reports a positive elasticity between technology cluster size and patenting, and uses an event study and instrumental variables regressions to justify a causal interpretation. The event study does not use the variation generated by inventors moving across cities, and the instrument is constructed incorrectly due to a coding error. I run a corrected event study and fix the coding error, and find null effects. The reported elasticity may not be causal. (JEL J24, L60, O31, O34, R32)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "A Theory of Price Caps on Nonrenewable Resources",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20250064",
-            "abstract_en": "What is the optimal response of a resource exporter when a price cap is imposed on its main export? This paper develops a dynamic framework incorporating stochastic prices, financial frictions, and market power to study this novel tool of statecraft. With the right design, a price cap can incentivize increased extraction, stabilizing prices in the global market. But the stabilizing effects diminish when there is leakage outside the cap. Consequently, weak enforcement of the policy worsens the trade-off faced by the sanctioning policymaker. We provide a systematic approach to setting and enforcing an optimal cap level in these circumstances. (JEL F12, F14, F51, L71, P28, P33, Q35)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Ideological Alignment and Evidence-Based Policy Adoption",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20240673",
-            "abstract_en": "The implementation of evidence-based policies hinges on the dissemination of evidence to policymakers, a process influenced by the attributes of the sender. We conducted a nationwide RCT with ideologically opposite think tanks, major newspapers, and a research institution with nonsalient ideology to communicate a nonideological, cost-effective policy to local policymakers. Results show a 65 percent increase in policy adoption when informing institutions align ideologically with policymakers. We compare the impact of think tanks versus media outlets on implementation, finding both equally effective when ideologically aligned. We explore three actions where ideology may influence adoption: information exposure, belief updating and implementation. (JEL C93, D72, D78, D83, I23)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Monetary Policy without Commitment",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20241925",
-            "abstract_en": "This paper studies the implications of central bank credibility for long-run inflation and inflation dynamics. We introduce central bank lack of commitment into a standard nonlinear New Keynesian economy with sticky-price monopolistically competitive firms. Inflation is driven by the interaction of lack of commitment and the economic environment. We show that long-run inflation increases following an unanticipated permanent increase in the labor wedge or decrease in the elasticity of substitution across varieties. In the transition, inflation overshoots and then gradually declines. Quantitatively, inflation overshooting is persistent, and the welfare loss from lack of commitment relative to inflation targeting is large. (JEL D43, E12, E23, E24, E31, E52, E58)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "A Welfare Analysis of Policies Impacting Climate Change",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20250166",
-            "abstract_en": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Market Opacity and Fragility: Why Liquidity Evaporates When It Is Most Needed",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20231613",
-            "abstract_en": "Lack of market transparency can impair the liquidity provision of nonstandard liquidity suppliers and make liquidity demand increasing in illiquidity. This can yield strategic complementarities and induce multiple equilibria. Then an initial dearth of liquidity may degenerate into a liquidity rout (as in a “flash crash”), and traders faced with the largest cost of trading are those trading more intensely at equilibrium. An increase in order flow transparency and/or in the mass of dealers who are in the market at all times has a positive impact on total welfare. (JEL G12, G14, G41)",
+            "url": "https://doi.org/10.1257/aer.20240617",
+            "abstract_en": "We study the problem of designing a dynamic reassignment mechanism when agents' preferences over objects change over time. In the context of Norway's system for (re)assigning patients to general practitioners (GPs), we provide direct evidence of misallocation under the current mechanism—patients waiting for each others' GPs, but who cannot trade—and estimate a structural model of GP-switching behavior to evaluate alternatives. Introducing top trading cycles (TTC) would, on average, reduce waiting times and increase patient welfare. However, patients endowed with less desirable GPs would be harmed. Prioritizing these patients can avoid these harms while preserving most of the gains from TTC. (JEL D82, H51, I11, I13, I18)",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -265,13 +194,45 @@
             ]
           },
           {
-            "title_en": "Nobel Lecture: The Past and Future of Innovation: Can Progress Be Sustained?",
+            "title_en": "The Productivity of Professions: Evidence from the Emergency Department",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.116.7.2299",
-            "abstract_en": "",
+            "url": "https://doi.org/10.1257/aer.20241007",
+            "abstract_en": "This paper studies the productivity of nurse practitioners (NPs) and physicians, two professions performing overlapping tasks but with starkly different backgrounds, training, and pay. Using quasi-experimental variation in patient assignment to NPs versus physicians in Veterans Health Administration emergency departments, we find that, on average, NPs use more resources and exhibit a higher 30-day preventable hospitalization rate than physicians. However, the NP-physician performance difference varies by case complexity and severity. Importantly, even larger productivity variation exists within each profession, leading to substantial overlap between the productivity distributions of the two professions; NPs outperform physicians in 38 percent of random pairs. (JEL I11, I18, J24, J44, M53)",
             "abstract_zh": "",
             "matched_topics": [
-              "企业创新"
+              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Merger Effects and Antitrust Enforcement: Evidence from US Consumer Packaged Goods",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20240497",
+            "abstract_en": "We document the effects of a comprehensive set of mergers of consumer packaged goods manufacturers on prices, quantities, and product assortment. Across specifications, we find a small average price effect of mergers (−0.5−1.1 percent) but substantial heterogeneity, with a standard deviation between 3.9 and 7.6 percentage points. Through a model of enforcement, we find that agencies act as if they challenge mergers they expect would increase prices more than 4.8 to 6.3 percent. Increases in stringency would reduce prices and the prevalence of completed price-increasing mergers, with minimal impacts on blocked price-decreasing mergers, at significantly greater agency burden. (JEL D43, G34, K21, L13, L41, L66)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20250295",
+            "abstract_en": "Mechanisms that aim to reduce environmental degradation at low cost can be undermined when participants' conservation actions are not marginal to the incentive—or “additional”—as the lowest-cost participants may not be the highest social value. We investigate this challenge in the Conservation Reserve Program's auction mechanism for ecosystem services, linking bids to satellite-derived land use. Three-quarters of marginal auction winners are not additional. The heterogeneity in counterfactual land use introduces adverse selection. We develop a model of bidding and additionality to quantify welfare implications. Alternative auctions increase efficiency by using scoring rules that incorporate expected land use impacts. (JEL D44, D82, Q24, Q57, R14)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Random Utility with Unobservable Alternatives",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20240712",
+            "abstract_en": "The random utility model (RUM), a cornerstone in economics, is typically studied under the assumption that choice frequencies of all alternatives are observable. In practice, however, some alternatives have unobservable choice frequencies and are commonly aggregated into a single category called an outside option. We study RUM in such environments and derive a finite, nonredundant system of inequality constraints on observed choice frequencies that characterizes RU-rationalizability. We show that the conventional practice of aggregating unobserved alternatives can miss key information leading to incorrect conclusions such as that observed choices are rationalizable, even when no RUM is consistent with them. (JEL D11, D44, D83)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           }
         ],
@@ -389,20 +350,9 @@
         "resolved_name": "Journal of Political Economy",
         "issue_title": "Volume 134, Issue 7",
         "issue_url": "https://www.journals.uchicago.edu/journals/jpe",
-        "matched_count": 1,
+        "matched_count": 0,
         "total_in_issue": 10,
-        "papers": [
-          {
-            "title_en": "A Method to Estimate Discrete Choice Models That Is Robust to Consumer Search",
-            "title_zh": "",
-            "url": "https://doi.org/10.1086/740223",
-            "abstract_en": "We state a sufficient condition under which choice data alone suffices to identify consumer preferences when choices are not fully informed. Suppose that: (i) the data generating process is a search model in which the attribute hidden to consumers is observed by the econometrician; (ii) if a consumer searches good j, she also searches goods which are better than j in terms of the non-hidden component of utility; and (iii) consumers choose the good that maximizes overall utility among searched goods. Canonical models will be biased: the value of the hidden attribute will be understated because consumers will be unresponsive to variation in the attribute for goods that they do not search. Under the conditions above and additional mild restrictions, an alternative method of recovering preferences using cross derivatives of choice probabilities succeeds regardless of the search protocol and is thus robust to whether consumers are informed. The approach nests several standard models, including full information. Our methods suggest natural tests for full information and can be used to forecast how consumers will respond to additional information. We verify in a lab experiment that our approach succeeds in recovering preferences when consumers engage in costly search.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          }
-        ],
+        "papers": [],
         "error": null
       },
       {
@@ -663,109 +613,78 @@
         "query_name": "American Economic Journal: Economic Policy",
         "issn": "1945-7731",
         "resolved_name": "American Economic Journal Economic Policy",
-        "issue_title": "Volume 18, Issue 2",
+        "issue_title": "Volume 18, Issue 3",
         "issue_url": "https://www.aeaweb.org/journals/pol",
-        "matched_count": 10,
+        "matched_count": 7,
         "total_in_issue": 17,
         "papers": [
           {
-            "title_en": "Medical Technology and Life Expectancy: Evidence from the Antitoxin Treatment of Diphtheria",
-            "title_zh": "医学技术与预期寿命：白喉抗毒素治疗的证据",
-            "url": "https://doi.org/10.1257/pol.20240087",
-            "abstract_en": "We examine the impact of the free supply of diphtheria antitoxin, the first effective medical treatment for an infectious disease, on the historical health transition in Massachusetts. Using newly collected municipality-level data on the distribution of antitoxin and information from over 1.5 million death certificates from 1880 to 1914, we find that the rapid availability of antitoxin treatment significantly increased life expectancy at young ages. Our findings suggest that medicine, combined with an effective public health policy, played a more important role in improving life expectancy in the early twentieth century than previously thought. (JEL H75, I12, I18, J13, N31)",
-            "abstract_zh": "我们研究了白喉抗毒素免费供应对马萨诸塞州历史上健康转型的影响。白喉抗毒素是针对传染病的第一种有效医疗治疗。利用新收集的抗毒素分配的市政级别数据以及1880年至1914年超过150万份死亡证明的信息，我们发现抗毒素治疗的快速可用性显著提高了年轻人的预期寿命。我们的发现表明，医学结合有效的公共卫生政策在20世纪初提高预期寿命方面发挥了比之前认为的更重要的作用。（JEL H75, I12, I18, J13, N31）",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Cooking, Health, and Daily Exposure to Pollution Spikes",
-            "title_zh": "烹饪、健康与日常暴露于污染峰值",
-            "url": "https://doi.org/10.1257/pol.20240290",
-            "abstract_en": "Many routine daily activities—such as cooking and commuting—cause large recurring pollution spikes that may impact health without significantly affecting average exposure. We study pollution spikes by combining experimental variation in cooking technology with high-frequency data on individual pollution exposure and time-use in Kenya. Improved cookstoves reduce PM2.5 spikes while cooking by 51.3 μg/m 3 (41 percent) and cause a 0.24 standard deviation reduction in self-reported respiratory symptoms. However, even after more than three years of daily use, we find no clinical health improvements, possibly because we detect no impact on average exposure. Clinical health improvements may require reductions in ambient concentrations. (JEL I12, O12, O13, Q51, Q53)",
-            "abstract_zh": "许多日常活动，如烹饪和通勤，会导致大规模的周期性污染峰值，这可能会影响健康，但不会显著影响平均暴露水平。我们通过结合肯尼亚烹饪技术实验变化和高频个人污染暴露及时间使用数据，研究污染峰值。改进的炉灶在烹饪过程中将PM2.5峰值降低了51.3微克/立方米（41%），并导致自报呼吸系统症状的标准差降低了0.24。然而，即使在三年多的日常使用后，我们发现没有临床健康改善，可能是因为我们没有检测到对平均暴露的影响。临床健康改善可能需要降低环境浓度。（JEL I12, O12, O13, Q51, Q53）",
+            "title_en": "When the Effects of Informational Interventions Are Driven by Salience—Evidence from School Parents in Brazil",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20220777",
+            "abstract_en": "Do informational interventions work because they lead subjects to merely update beliefs in the right direction or, to a large extent, because they increase the salience of the decision they target? We randomly assign parents to either an information group that receives text messages with weekly data on their child's attendance and school effort or a salience group that receives messages that try to redirect their attention without child-specific information. While information has large impacts on attendance, test scores, and grade promotion relative to the control group, outcomes in the salience group improve by at least as much. (JEL C93, D83, D91, I21, J13, O12)",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Adjustable Product Attributes, Indirect Network Effects, and Subsidy Design: The Case of Electric Vehicles",
-            "title_zh": "可调整产品属性、间接网络效应与补贴设计：以电动汽车为例",
-            "url": "https://doi.org/10.1257/pol.20230294",
-            "abstract_en": "This paper develops a structural model of endogenous product attribute choice in the presence of indirect network effects to study electric vehicle (EV) subsidies. Using data on the German EV market, I find that a support scheme almost doubled EV sales but substantially affected EVs’ price and driving range. These adjustments create a trade-off between optimizing different policy objectives when designing subsidies. Large purchase subsidies maximize EV sales, whereas large charging station subsidies maximize consumer and total surplus. The results suggest that maximizing EV sales can lead to unintended consequences in the form of price and range adjustments. (JEL D12, D22, D85, H25, L14, L62, R41)",
-            "abstract_zh": "本文建立了一个在间接网络效应存在下内生产品属性选择的结构模型，以研究电动汽车（EV）补贴。利用德国电动汽车市场的数据，我发现支持计划几乎使电动汽车销量翻倍，但显著影响了电动汽车的价格和续航里程。这些调整在设计补贴时创造了优化不同政策目标之间的权衡。大规模购买补贴最大化电动汽车销量，而大规模充电站补贴最大化消费者和总剩余。结果表明，最大化电动汽车销量可能导致价格和续航里程调整的意外后果。（JEL D12, D22, D85, H25, L14, L62, R41）",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Fiscal Procyclicality in Commodity Exporting Countries: How Much Does It Pour and Why?",
-            "title_zh": "标题：商品出口国的财政顺周期性：影响有多大，原因何在？",
-            "url": "https://doi.org/10.1257/pol.20230668",
-            "abstract_en": "A large literature has documented that fiscal policy is procyclical in emerging markets/developing countries and acyclical/countercyclical in advanced economies. This paper analyzes fiscal procyclicality in commodity-exporting countries. The paper makes two novel contributions. First, based on the “when it rains, it pours” phenomenon (that is, contractionary fiscal policy amplifies the business cycle), the paper shows that, on average, government spending magnifies the business cycle by 21 percent of the initial drop in output following a fall in commodity prices. Second, the paper estimates the welfare costs of fiscal procyclicality at 36 percent of the commodity business cycle. (JEL E32, E62, F14, H50, O19, Q02)",
-            "abstract_zh": "大量文献记录了财政政策在新兴市场/发展中国家是顺周期的，在发达经济体是无周期性/逆周期性的。本文分析了大宗商品出口国的财政顺周期性。本文有两个新颖的贡献。首先，基于“不雨则已，一雨倾盆”现象（即紧缩性财政政策放大了商业周期），文章表明，平均而言，政府支出将商业周期放大了21%，这是在大宗商品价格下跌后产出初始下降的百分比。其次，文章估计财政顺周期性的福利成本为大宗商品商业周期的36%。（JEL E32, E62, F14, H50, O19, Q02）",
+            "title_en": "Racial and Ethnic Inequality and the China Shock",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240478",
+            "abstract_en": "Minority workers tend to be disproportionately harmed by negative economic shocks. Indeed, we show that Hispanic populations experienced worse employment losses, relative to Whites, due to import competition from China largely due to lower education levels. In contrast, Black–White employment and wage gaps actually narrowed due to relative growth in nonmanufacturing sectors. We show that Black workers, compared to Whites, were less attached to manufacturing by 2000 and were therefore more poised to take advantage of China shock–induced reallocation to services. The lasting negative impacts of the China shock on exposed communities were primarily driven by White workers. (JEL F13, F14, F16, J15, J22, J31, R23)",
+            "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
               "创新药"
             ]
           },
           {
-            "title_en": "Prediction Errors, Incarceration, and Violent Crime: Evidence from Linking Prosecutor Surveys to Court Records",
-            "title_zh": "预测误差、监禁与暴力犯罪：将检察官调查与法庭记录相联系的证据",
-            "url": "https://doi.org/10.1257/pol.20230812",
-            "abstract_en": "Incarceration is often justified by a defendant’s risk of future crime. To what extent do biased beliefs about predictors of crime distort incarceration decisions? We survey prosecutors about how violent rearrest rates vary by defendant age and criminal history. Surveyed prosecutors make systematic errors: They underestimate the decline in rearrest with age and overestimate the increase with criminal history. By linking prosecutors’ beliefs to their quasi-randomly assigned cases, we show that prosecutors’ beliefs predict incarceration patterns by defendant age and criminal history in their cases. Finally, we find that prosecutors with more accurate beliefs simultaneously reduce violent rearrest and incarceration. (JEL D83, K14, K41, K42)",
-            "abstract_zh": "监禁常常以被告未来犯罪的风险为理由。对犯罪预测因素的偏见信念在多大程度上扭曲了监禁决策？我们调查检察官关于被告年龄和犯罪史如何影响暴力再逮捕率的看法。受访检察官存在系统性错误：他们低估了随着年龄增长再逮捕率的下降，并高估了犯罪史的增加。通过将检察官的信念与他们准随机分配的案件联系起来，我们展示了检察官的信念如何预测他们案件中被告年龄和犯罪史的监禁模式。最后，我们发现拥有更准确信念的检察官同时减少了暴力再逮捕和监禁。（JEL D83, K14, K41, K42）",
+            "title_en": "Are Building Codes an Effective Adaptation to Wind Risk? Evidence from Remotely Detected Blue Tarps",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240544",
+            "abstract_en": "Hurricanes cause significant wind and water damage, yet economic research primarily focuses on the latter due to data limitations. We overcome this problem by analyzing photographs taken after Hurricane Irma (2017) to locate blue-tarped homes. Using a regression discontinuity framework, we find the 2001 Florida Building Code impacted wind risk for over 500,000 homeowners. Adopters were 22 percent less likely to experience wind damage and saw a 27 percent reduction in damage severity. Unrepaired properties also sold for 13.3 percent ($29,400) less and were harder to sell, underscoring the importance of building codes in mitigating risk and promoting climate change adaptation. (JEL Q54, R31, R38)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Perils of the Paperwork: The Impact of Information and Application Assistance on Social Benefit Take-Up in India",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240212",
+            "abstract_en": "Governments worldwide administer social programs for vulnerable groups, yet many eligible citizens fail to benefit. This paper studies barriers to take-up of an unconditional cash transfer program for poor women in Delhi, India, where only one-third of eligible individuals were enrolled. In a randomized experiment with eligible women, providing program information alone increased applications only among the literate. Adding basic or intensive application assistance, however, raised average application rates by 41 percent and 70 percent, respectively, and expanded access among more vulnerable women. These results suggest that application ordeals can limit take-up by those with high need. (JEL D83, I32, I38, J16, O15)",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Vertical Integration and Cream Skimming of Profitable Referrals: The Case of Hospital-Owned Skilled Nursing Facilities",
-            "title_zh": "垂直整合与利润丰厚转诊的筛选：医院拥有的熟练护理设施案例",
-            "url": "https://doi.org/10.1257/pol.20200892",
-            "abstract_en": "We examine whether vertical integration of hospitals and skilled nursing facilities (SNFs) could lessen competition by foreclosing rival SNFs’ access to lucrative referrals. We find that it could: Among integrated providers, a 1 percent increase in SNF reimbursement for a given patient discharged from the upstream hospital increases the self-referral rate to the hospital’s downstream SNF(s) by 1.8 percent. We find no evidence of offsetting benefits for patients and payers: These increased self-referrals have an imprecisely estimated zero effect on patient outcomes and Medicare spending. (JEL G34, I11, I13, J14, L14, L22)",
-            "abstract_zh": "我们研究了医院与熟练护理机构（SNFs）的纵向整合是否会通过剥夺竞争对手SNFs获得有利可图的转诊机会来减少竞争。我们发现确实如此：在整合提供者中，上游医院出院的特定患者的SNF报销率每增加1%，医院自我转诊到下游SNF（s）的比率就会增加1.8%。我们没有发现对患者和支付者有抵消效益的证据：这些增加的自我转诊对患者结果和医疗保险支出的估计影响为零。（JEL G34, I11, I13, J14, L14, L22）",
-            "matched_topics": [
-              "产业经济",
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "State Recreational Cannabis Laws and Racial Disparities in the Criminal Legal System",
-            "title_zh": "标题：州娱乐性大麻法律与刑事法律体系中的种族差异",
-            "url": "https://doi.org/10.1257/pol.20230670",
-            "abstract_en": "We estimate the direct and spillover effects of cannabis legalization on longstanding racial disparities in criminal justice outcomes. We find that legalization reduces cannabis possession and sales arrests for White and Black populations, narrowing but not eliminating disparities. We also find spillover increases in hospitalizations involving cannabis and other illegal drugs. However, spillovers on arrests, incarcerations, and crimes involving serious violent or property offenses are insignificant or even decrease. Other illegal drug sales arrests decrease across populations, while illegal drug incarcerations decrease only among White populations. Spillovers on other low-level offenses are insignificant for White but mixed for Black populations. (JEL I12, J15, K14, K41, K42)",
-            "abstract_zh": "我们估计了大麻合法化对长期存在的种族间刑事司法结果差异的直接影响和溢出效应。我们发现，合法化减少了白人和黑人群体的大麻持有和销售逮捕，缩小但并未消除差异。我们还发现，涉及大麻和其他非法药物的住院治疗出现溢出增加。然而，对逮捕、监禁和涉及严重暴力或财产犯罪的犯罪的溢出效应不显著，甚至有所减少。其他非法药物销售逮捕在各群体中减少，而非法药物监禁只在白人群体中减少。对其他低级犯罪的溢出效应对白人群体不显著，但对黑人群体则好坏参半。（JEL I12, J15, K14, K41, K42）",
+            "title_en": "Hurricanes, Climate Change Policies, and Electoral Accountability",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20230070",
+            "abstract_en": "This paper studies the conditions under which legislators promote policies that may be unpopular in the short term but yield long-term benefits. Using data on the universe of federal disaster declarations from 1989 to 2020, we document that representatives from congressional districts impacted by hurricanes are more inclined to support environmental legislation addressing climate change. However, this response depends on political circumstances: Only those in safe seats can change their political agenda toward policies that involve short-term costs for long-term gains. These results highlight the role of electoral incentives in shaping politicians' attitudes toward farsighted policymaking. (JEL D72, Q54, Q58)",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Short- and Long-Term Effects of Universal Preschool: Evidence from the Arab Population in Israel",
-            "title_zh": "以色列阿拉伯人口普遍学前教育的短期和长期效应：证据",
-            "url": "https://doi.org/10.1257/pol.20240044",
-            "abstract_en": "We estimate the causal impacts of universal preschool by leveraging a quasi-experimental design based on Israel’s implementation of free public preschool for children ages 3 and 4 beginning in September 1999. We focus on the Arab population, who were the main beneficiaries of the first phase of the law’s implementation. Using a difference-in-differences (DID) research design, we find that universal preschool enhanced individuals’ academic performance from elementary school through high school, improved the learning environment, and increased postsecondary enrollment. Additional benefits include reduced juvenile delinquency among males and decreased early marriage among females. (JEL I21, I24, I28, J15, J16)",
-            "abstract_zh": "我们利用以色列1999年9月开始实施的3至4岁儿童免费公立学前班政策，采用准实验设计来估计普及学前班的因果影响。我们关注阿拉伯人口，他们是法律实施第一阶段的主要受益者。通过使用差异-差异（DID）研究设计，我们发现普及学前班提高了个体从小学到高中的学术表现，改善了学习环境，并增加了大学后入学率。其他好处包括减少男性青少年犯罪和降低女性早婚现象。（JEL I21, I24, I28, J15, J16）",
+            "title_en": "Flood Risk Mapping and the Distributional Impacts of Climate Information",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20230552",
+            "abstract_en": "This paper examines the provision of official flood risk information in the United States and its distributional impacts on residential flood insurance take-up. Assembling all flood maps produced after Hurricane Katrina, I document that updated maps decreased the number of properties zoned in high-risk floodplains and incorrectly omitted five million properties, primarily in neighborhoods with more Black and Hispanic residents. Leveraging the staggered timing of map updates, I estimate that updated maps decreased flood insurance take-up and exacerbated racial disparities in insurance coverage. While past map updates distorted risk and price signals, correcting flood maps would yield substantial welfare gains. (JEL D83, G22, G52, J15, Q54)",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "The Segregative Effects of Charter Schools",
-            "title_zh": "特许学校隔离效应",
-            "url": "https://doi.org/10.1257/pol.20230539",
-            "abstract_en": "I study the effects of charters on student racial segregation, identifying a novel mechanism: the assignment of White and non-White students to regular classrooms within their school-grade. Exploiting almost 100 entries of elementary charters in North Carolina from 1997 to 2015, I show that the announcement of an opening significantly increases classroom segregation within public schools nearby, relative to schools farther away, especially within non-majority-White schools and for charter openings that enroll a relatively large share of White students. Accounting for classrooms is unlikely to reverse the literature’s conclusion that the charter effects on student segregation are modest in magnitude. (JEL H75, I21, I24, I28, J15)",
-            "abstract_zh": "我研究了特许学校对学生种族隔离的影响，发现了一个新机制：将白人和非白人学生分配到学校年级的普通教室中。利用1997年至2015年北卡罗来纳州近100所小学特许学校的入学数据，我表明，特许学校开设的消息显著增加了附近公立学校的课堂隔离程度，相对于更远的学校，特别是在非白人多数学校和招收相对较多白人学生的特许学校开设中。考虑课堂不太可能改变文献的结论，即特许学校对学生隔离的影响在规模上是适度的。（JEL H75，I21，I24，I28，J15）",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Punishing Financial Crimes: The Impact of Prison Sentences on Defendants and Their Colleagues",
-            "title_zh": "惩治金融犯罪：监禁判决对被告及其同事的影响",
-            "url": "https://doi.org/10.1257/pol.20240121",
-            "abstract_en": "Financial crimes are costly to society but less severely punished than other nonviolent crimes. We investigate whether prison sentences reduce financial crimes. Using random assignment of judges in Finland to identify causal impacts, we find a prison sentence reduces defendant reoffending by 42.9 percentage points three years postsentencing. Given prior evidence of financial misconduct “contagion,” we also explore spillovers on colleagues. A prison sentence reduces the likelihood that a financial crime defendant’s colleagues commit crimes by 27 percentage points, suggesting broader deterrent effects of harsher punishments, but only for fraud cases. Last, we show financial crimes are not victimless crimes. (JEL K14, K22, K41, K42)",
-            "abstract_zh": "金融犯罪对社会造成巨大损失，但与其他非暴力犯罪相比，受到的惩罚较轻。我们研究了监禁判决是否能够减少金融犯罪。利用芬兰法官的随机分配来识别因果影响，我们发现监禁判决使被告在判决后三年内再犯的比率降低了42.9个百分点。鉴于先前有关金融不当行为“传染”的证据，我们还探讨了对同事的溢出效应。监禁判决使金融犯罪被告的同事犯罪的可能性降低了27个百分点，这表明更严厉的惩罚具有更广泛的威慑效果，但仅限于欺诈案件。最后，我们展示了金融犯罪并非无受害者的犯罪。（JEL K14, K22, K41, K42）",
+            "title_en": "Estimating the Economic Value of Zoning Reform",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20230542",
+            "abstract_en": "We estimate the economic value of zoning reform in São Paulo, which altered maximum permitted construction along transportation corridors. Developers increased filings for multifamily construction in blocks affected by the reform, leading to more housing supply and lower housing prices in neighborhoods that allow more densification. Our equilibrium model of housing markets estimates an aggregate 1.6 percent increase in housing stock and a 0.4 percent reduction in prices, resulting in large housing wealth transfers from current to future homeowners. The reform produced welfare gains of 0.65 percent of city GDP, mostly due to developer profits and consumer gains from the newly built environment. (JEL G51, O18, R11, R23, R31, R41, R52)",
+            "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
@@ -857,7 +776,7 @@
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 1,
-        "total_in_issue": 6,
+        "total_in_issue": 10,
         "papers": [
           {
             "title_en": "The Green Revolution and individualism: Evidence from Indonesia",
@@ -1281,6 +1200,17 @@
             ]
           },
           {
+            "title_en": "Follow the technology or follow the leader? Radical innovation and strategic leadership at a crossroads",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105579",
+            "abstract_en": "Radical innovation and strategic leadership research share a foundational challenge of theorizing how firms make choices about an uncertain future that shape their competitiveness, survival, and long-term performance. Yet, each field has developed a distinct explanatory signature. Radical innovation research has followed the technology, tracing how the architecture and trajectories of technological discontinuities determine organizational fates. Strategic leadership research has followed the leader(s), tracing how the cognition, composition, and interactions of those at the organizational apex shape organizational choices. We argue that this productive division of labor is being jointly frustrated by four shifts in contemporary organizing: structurally , innovation is migrating from firms to ecosystems; technologically , AI is transforming both the creative process and the cognitive conditions of leadership; relationally , permeable boundaries are redistributing influence across actors; and culturally , evaluative criteria are expanding from performance to purpose. We identify the foundational assumptions these shifts unsettle and propose four research frontiers organized around where, how, with whom, and why radical innovation happens. We conclude with key reflections from three foundational scholars on the future of the field.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Can FinTech innovate green finance? Scrutinising the financial ecologies and innovation dynamics of FinTech for forest restoration",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105564",
@@ -1372,16 +1302,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
-            ]
-          },
-          {
-            "title_en": "When government shuts down science: Evidence from U.S. Antarctic research",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105572",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
             ]
           }
         ],
@@ -1694,8 +1614,8 @@
         "resolved_name": "Technovation",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 2,
-        "total_in_issue": 3,
+        "matched_count": 5,
+        "total_in_issue": 6,
         "papers": [
           {
             "title_en": "From circularity to sustainability: Leveraging Industry 4.0 for circular and supply chain resilience",
@@ -1708,6 +1628,26 @@
             ]
           },
           {
+            "title_en": "A global analysis of female innovative entrepreneurship and the role of financial development",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103659",
+            "abstract_en": "Drawing on feminist and institutional perspectives, this study analyses whether women are equally likely as men to engage in innovative entrepreneurship and whether the maturity of debt and equity markets strengthens women's participation. We use data from 71,888 early-stage ventures across 101 countries and show that women are as likely as men to engage in innovative entrepreneurship, once crucial individual and country-level factors are controlled for. Further, we demonstrate that both debt and equity market development positively moderate this relationship. These findings reveal that gender gaps in innovative entrepreneurship reflect structural and institutional conditions rather than intrinsic propensities and highlight the role that financial development plays in supporting female innovative entrepreneurship.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "The impact of balance in the policy mix on firm innovation performance: A motivation–opportunity–ability perspective",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103665",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "The low-value trap: Sustaining multi-actor collaboration across problem spaces in emerging technology commercialization",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103657",
@@ -1716,6 +1656,16 @@
             "matched_topics": [
               "企业创新",
               "创新药"
+            ]
+          },
+          {
+            "title_en": "From value creation to value appropriation: How firms exploit disruptive innovation opportunities in emerging economies",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103666",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
             ]
           }
         ],
@@ -1726,46 +1676,16 @@
         "query_name": "Industrial and Corporate Change",
         "issn": "0960-6491",
         "resolved_name": "Industrial and Corporate Change",
-        "issue_title": "Volume 35, Issue 3",
+        "issue_title": "Volume 35, Issue 4",
         "issue_url": "https://academic.oup.com/icc",
-        "matched_count": 8,
-        "total_in_issue": 10,
+        "matched_count": 9,
+        "total_in_issue": 14,
         "papers": [
           {
-            "title_en": "From bounded rationality to ecological rationality",
+            "title_en": "If the state is incompetent, do it yourself: private alliance as an institutional architect in the catch-up process",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtag017",
-            "abstract_en": "Abstract Herbert Simon’s bounded rationality offers three principles for building a theory of behavior: (i) to study the process of actual decision making (as opposed to as-if models of expected utility maximization), (ii) to study how decisions are made in situations of uncertainty and intractability (as opposed to risk and ambiguity alone), and (iii) to study how minds adapt to environments (as opposed to modeling solely the mind or the environment). Economists hijacked bounded rationality by reinterpreting it to mean optimization under constraints, and psychologists by reinterpreting it as the study of cognitive biases, that is, deviations from optimization. This contradictory double-takeover silenced the revolutionary essence of Simon’s program. My colleagues and I have revived and extended Simon’s lost program, choosing the term ecological rationality to avoid any confusion. As opposed to the cognitive biases program, the study of ecological rationality is both descriptive and prescriptive. It investigates the repertoire of heuristics individuals or institutions have at their disposal (their adaptive toolbox) as well as the conditions under which each heuristic is successful and thus should be used, as measured by real-world criteria (the ecological rationality of heuristics). The study of the adaptive toolbox relies on observation and experimentation; the study of the conditions under which various heuristics should be used relies on mathematical analyses and computer simulations. This combination of descriptive and prescriptive analysis offers a novel perspective for behavioral economics and the study of decision-making in general.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Cognitive turns and decision-making",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf067",
-            "abstract_en": "Abstract We briefly introduce and analyze Herbert A. Simon’s original manuscript, ‘Organizational Behavior and Rational Behavior,’ which was previously available only in a 1955 French translation. In this article, Simon discusses the main milestones of his research agenda on organizations with his usual remarkable clarity and sharpness. The paper not only anticipates the cognitive revolution but also develops a representationalist perspective on the social and organization sciences, including scholarship on organizational routines. We hope that the publication of this almost unknown paper will provide additional insight into the intellectual journey of one of the greatest thinkers of the second half of the 20th century and contribute as well to correct some misinterpretations thereof.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The influence of financial constraints on participation in and the impact of public policies for private R&amp;D",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf036",
-            "abstract_en": "Abstract Financial constraints (FC) and access to external funding are widely recognized as barriers to R&D activities and are often cited as strong justifications for public support of R&D. However, the mediating role of these constraints in influencing the impact of policies on R&D spending by firms has received little attention. The main novelty of this article lies in the simultaneous use of a comprehensive set of 17 quantitative indicators which reflect the solvency, indebtedness, liquidity, and credit costs of firms as reflected in their balance sheets. These indicators were combined into seven synthetic measures through factor analysis. We addressed two research hypotheses. First, Spanish firms that face greater FC receive public support more frequently. The results suggest that highly indebted firms and those with greater solvency are less likely to participate in public support programs. Conversely, firms with higher costs associated with loans are more likely to receive support. Second, public support has a greater impact on the R&D expenditures of financially constrained firms (level of financial additionality [FA]) than on the R&D spending of less constrained firms. To assess this hypothesis, we use a propensity score matching model. The findings suggest higher FA for both the most solvent and the most indebted firms. However, if the costs of these debts are high, an effect of below-average additionality is observed.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Modularity, life cycle and new entry without fundamental patents: lessons from the American household refrigerator industry before and after the great crash of 1929",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf034",
-            "abstract_en": "Abstract Despite the absence of live fundamental patents, early movers in a new industry can face a daunting task to create a mass market. Using historical methods and rich archival materials we explore the role of modularity in shaping an industry’s market structure. We show how shifting dynamics undermined established industry “kingpins,” who invested heavily in product design, giant factories, and considerable marketing expenditures. However, those investments paved the way for new entrants, using lower-cost strategies. Falling costs associated with standardization, modularity, and third-party component manufacturers enabled late entrants to undercut the prices of the successful early movers, leading to a substantial “shake-in” of small firms and the dethroning of industry kingpins. The case of the household refrigerator shows the implications of a low intellectual property regime that captured value before the rise of a dominant design, but increasingly lost value capture on maturity.",
+            "url": "https://doi.org/10.1093/icc/dtag011",
+            "abstract_en": "Abstract We examine the Finnish pulp and paper industry’s century-long catch-up journey, focusing on the intertwined development of technical and institutional capabilities. Using historical methods, we highlight how a private, self-organized R&D alliance evolved into an institutional architect, ultimately shaping not only governance but also regulation and entire innovation systems. Our findings demonstrate that sectoral systems of innovation emerge from both technological advancements and from private actors crafting adaptive institutions. The role of private actors is critical when governments are incapable of formulating and enforcing industrial policy. Overall, we propose that substantive experts contribute not only to technical but also to institutional capability.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新",
@@ -1773,45 +1693,90 @@
             ]
           },
           {
-            "title_en": "Antecedents of university entry into association for technology transfer political action",
+            "title_en": "Impact of business services on quality specialization",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf035",
-            "abstract_en": "Abstract Organizations increasingly rely on nonmarket, political action to advance their interests, either individually or collectively. In this article, we contribute to the theory by examining the antecedents of an organization’s decision to join an association, a standard vehicle for collective political action. We leverage panel data from 83 universities in England and Scotland covering the period from 1994 to 2008. Drawing from the resource-based view, we empirically show that universities with ample tangible and intangible resources are the ones that join Knowledge Exchange UK, the British technology transfer association. Specifically, universities are more likely to enter the association if they possess financial slack, reputation, and experience. Our findings suggest that an organization’s decision to join an association is driven not only by access to shared material benefits but also by power and political ambition. We discuss the managerial and theoretical implications of our study and propose new research avenues in the fields of technology transfer, association entry, and corporate political action.",
+            "url": "https://doi.org/10.1093/icc/dtag015",
+            "abstract_en": "Abstract This study demonstrates the effects of business service inputs on the export share of high-quality products. It uses data covering 12 manufacturing sectors in 31 countries during 2000–2014 and constructed using the subsystem approach. The main finding is that the effect is positive and large, and reduces gradually as product quality declines. By manufacturing sector, the effect is higher on low-tech sectors than on high-tech sectors. Business services can potentially contribute to the dynamic transformation of comparative advantages.",
             "abstract_zh": "",
             "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Which discoveries are paradigm shifting?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtag002",
+            "abstract_en": "Abstract To more closely align theories of paradigm-shifting discoveries and their empirical quantification, we propose a novel measure that incorporates a discovery’s impact, novelty, and tendency to break with the past into a single, coherent measure. Calibration using the National Inventor Hall of Fame data reveals that the three dimensions are strict complements, meaning, for example, that greater impact cannot substitute for moderate novelty. We illustrate how the measure works and validate it in several complementary ways using data on the United States Patent and Trademark Office patents from 1982 to 2015. High values of the measure are strongly predictive of discoveries that are simultaneously exceptional in terms of their impact, novelty, and disruptiveness.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Does manufacturing still matter? The revival of industrial policy and manufacturing’s contribution to development in high- and middle-income countries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf065",
+            "abstract_en": "Abstract This paper aims to analyze manufacturing’s contribution to development in high-income (HIC) and middle-income countries (MIC) from 2000 to 2019, revisiting the link between manufacturing and economic development by testing the inverted-U curve hypothesis (Rowthorn (1994); Palma (2005, Beyond Reforms: Structural Dynamics and Macroeconomic Vulnerability); Rodrik (2016, Journal of Economic Growth, 21, 1–33)) from an intra-manufacturing perspective. The original contribution of the analysis presented in this paper is to test the validity of this relationship for MIC and HIC by examining not the share of manufacturing in GDP (measured by value added), but the contribution of the manufacturing sector to development measured by the structural decomposition of productivity and wage growth. The paper’s main findings are: (i) the results do not indicate a decline in the contribution of manufacturing to development among middle- and high-income countries (MICs and HICs) as they attain higher levels of per capita income. In fact, across nearly all econometric specifications, no evidence of an inverted-U-shaped curve was observed between the manufacturing’s contribution to development and per capita income levels; (ii) in MIC, the empirical evidence reveals a broadly consistent pattern whereby rising per capita income is associated with an increasing contribution of manufacturing to development, whether measured in terms of productivity growth or wage growth, and (iii) For HIC, contrary to what can be inferred from the interpretations of normal or positive deindustrialization, no inverted-U curve is observed regarding the behavior of productivity. Regarding the wage variable, there is an almost generalized tendency for its contribution to development to decline as per capita income rises, except within the structural change component for high-technology sectors. Although counterintuitive, this pattern may reflect intensified international competition—mainly via global value chains—pushing down manufacturing costs in high-income economies. These findings challenge the notion of “natural” deindustrialization and highlight the persistent relevance of manufacturing, especially in technologically intensive sectors. They underscore the need for industrial and innovation policies tailored to sectoral heterogeneity and national contexts, particularly in light of digital and green transitions that are reshaping global production systems.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Measuring artificial intelligence: a systematic assessment and implications for governance",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf047",
+            "abstract_en": "Abstract Governing artificial intelligence (AI) inventions is a major policy concern. Yet, definitions and measurement approaches remain contested. We compare four patent-based definitions reflecting distinct understandings of AI. Using US patents (1990–2019), we assess the degree to which each approach describes AI as a general-purpose technology (GPT) and examine patent concentration by a few dominant firms. We find that between 3% and 17% of all US patents in 2019 are classified by at least one of the approaches as AI patents. Yet, only 1.4% of all AI patents are simultaneously identified by all four approaches. All approaches are consistent with AI having GPT characteristics, with the Keyword-based patents exhibiting the highest growth and generality. GPT indicates public good characteristics, which could be used to justify public support. Across methods, AI patents are concentrated among a few firms, highlighting market power and regulatory challenges. The wide variation in the subsets and characteristics of AI patents identified by these approaches suggests that currently multiple classification methods should be considered to formulate robust, inclusive, and effective analyses for AI governance.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Experimentally organized innovation systems: lessons from DARPA, Apple, Amazon, Google, and Operation Warp Speed",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf054",
+            "abstract_en": "Abstract This article examines the experimental organization in some of the world’s most successful innovation systems: DARPA (The Defense Advanced Research Projects Agency), Apple, Amazon, and Operation Warp Speed (OWS). All these ventures are essentially experimentally organized innovation systems. The most important common feature is their infrastructure for innovation that enables them to experiment and pursue multiple approaches simultaneously, bear the cost of many failures, absorb new technology, rapidly commercialize innovations through marketing and new business formation, and scale up economic activity.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Unraveling the impacts of green knowledge spillovers on SMEs’ green innovation, economic performance, and exporting: evidence from Germany",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf053",
+            "abstract_en": "Abstract Green innovation is critical for the green transition, yet little is known about green knowledge spillovers across industries. Based on the knowledge-spillovers literature and using empirical evidence from German manufacturing small- and medium-sized enterprises (SMEs) during 2009–2019, this analysis reveals that SMEs benefit from horizontal green knowledge spillovers to boost green innovation and from backward spillovers to enhance productivity and profitability. SMEs can leverage these green innovations to expand into international markets through exporting. These effects vary across industries and sub-national locations.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Entrepreneurial orientation and innovation performance: do breadth and depth of external knowledge search matter?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf055",
+            "abstract_en": "Abstract This study explores how a firm’s entrepreneurial orientation (EO) influences innovation performance. Specifically, by extending theoretical connections among EO, external knowledge search, and the attention-based view framework, it examines how the breadth and depth of external knowledge search moderate the U-shaped effect of EO on innovation performance. By analyzing unique firm-level data on EO and innovation from Korean manufacturing industries, it finds that the breadth of external knowledge search weakens the U-shaped effect of EO, but the depth of external knowledge search strengthens its effect. This work sheds light on the combination of EO and search strategies (breadth and depth) required to enhance innovation performance, while addressing constraints of managerial attention for internal EO implementation and external knowledge search.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "International evidence on investor rewards to firms generating environmental innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf048",
+            "abstract_en": "Abstract Using firm patents across 38 countries, we explore whether, and if so, how investors value environmental innovations (EIs). We integrate the natural-resource-based view and innovation literature not only to predict a nonlinear link between EI and market valuation but also to hypothesize that firms with stronger absorptive capacity (AC) and those with higher stakeholder influence capacity (SIC) stand to benefit the most from EI. We provide evidence in support of these predictions. Our main analysis reveals a nonlinear valuation effect of EI, but the marginal effect is positive only for firms in the top 11% of EI distribution. However, the shape of the relation varies with firm characteristics, across jurisdictions, and over time. Investors discount EI in lower AC firms, while the shares of higher AC firms trade at a premium. The differential median valuation between higher and lower SIC firms is €564.2 million. Finally, the median European firm trades at a premium, but its North American and Japanese peers trade at a discount. Our results bear implications for the modest propensity of firms to generate EI and for the observed large cross-regional variations in EI.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新",
               "创新药"
-            ]
-          },
-          {
-            "title_en": "The impact of mergers on aggregate productivity: an empirical analysis using productivity decomposition",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf032",
-            "abstract_en": "Abstract This study examines the impact of mergers on aggregate productivity by focusing on the reallocation of resources from firms exiting through a merger to incumbent firms. To this end, we decompose aggregate productivity growth in Japan into the contribution of different exit modes such as bankruptcy, closure, and merger using a large panel dataset of Japanese firms. We find the following. First, the performance of firms that exit through a merger is on average better than that of incumbents, meaning that exit through a merger has a negative effect on aggregate productivity. Second, we find that mergers have a positive impact on the productivity growth of acquirers. Third and most importantly, given that this positive effect on acquirers is larger than the negative exit effect of the exit of merger targets, the reallocation of resources from the acquired firm to the acquiring firm through a merger has a positive effect on aggregate productivity growth in Japan.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Gender equality and firm innovation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf033",
-            "abstract_en": "Abstract This study investigates the relationship between gender equality and innovation using micro establishment-level data pertaining to 72 countries and the Global Gender Gap Index as a proxy for gender equality. We find that female-owned firms are more innovative in economies with low gender inequality. Interestingly, male-owned firms are also beneficiaries of gender equality. Further, we identify three channels through which innovation is associated with gender equality—access to finance, human capital, and gender diversity and labour force participation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "What do R&amp;D spillovers from universities and firms contribute to productivity? Plant level productivity and technological and geographic proximity in Japan",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf030",
-            "abstract_en": "Abstract We examine the simultaneous influences of spillovers due to R&D by firms and universities on total factor productivity in a panel of over 20,000 Japanese manufacturing plants in Japan. Estimating fixed effects models and taking into account the geographic distribution of the population of plants operated by firms with R&D activities as well as the population of universities in Japan, we find a positive influence of both firm and university R&D that is technologically proximate. Inter-plant R&D spillovers decay exponentially in distance and lose 80% of their strength at a distance of 200 km. University R&D spillovers occur in proximity and are only significant at the municipal level. Decomposition analysis shows that the exit of geographically proximate plants operated by R&D intensive firms, which may be associated with a relocation of manufacturing activity abroad, plays a notable role in declining R&D spillovers and is an important phenomenon in major industrial agglomerations such as Tokyo and Osaka.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
             ]
           }
         ],
@@ -1824,9 +1789,20 @@
         "resolved_name": "Journal of Health Economics",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
-        "matched_count": 0,
+        "matched_count": 1,
         "total_in_issue": 2,
-        "papers": [],
+        "papers": [
+          {
+            "title_en": "The effect of health insurance expansion on price and demand for medications among the uninsured",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jhealeco.2026.103164",
+            "abstract_en": "Social health insurance expansions can affect not only new beneficiaries but also those who remain outside the program. This paper studies these spillovers in the context of Medicare Part D. Increases in insured demand can raise or lower price depending on market conditions: they may increase price when pharmaceutical firms face less elastic demand, but reduce price when demand concentration strengthens bargaining and pass-through in competitive markets. I find that Part D lowered the out-of-pocket unit price paid by Americans under age 65 without prescription drug insurance. Price declines are larger in therapeutic classes more exposed to Part D and in classes with stronger within-class competition, consistent with a demand-concentration channel. Demand increases mainly for generic drugs and among existing users. The implied consumer-surplus gain is roughly $76 per person per year, comprising about $65 from lower price on inframarginal consumption and $11 from additional consumption. Demand responses appear strongest among lower-income, younger, and healthier uninsured individuals, consistent with greater pre-existing non-adherence. Although price fall across several drug classes, demand does not increase significantly for medications associated with greater overuse in the United States, suggesting potentially positive net health spillovers.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医药产业"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -1834,46 +1810,16 @@
         "query_name": "Health Economics",
         "issn": "1057-9230",
         "resolved_name": "Health Economics",
-        "issue_title": "Volume 35, Issue 8",
+        "issue_title": "Volume 35, Issue 9",
         "issue_url": "https://onlinelibrary.wiley.com/journal/10991050",
         "matched_count": 5,
-        "total_in_issue": 8,
+        "total_in_issue": 10,
         "papers": [
           {
-            "title_en": "Evaluation of a Partial Ban on Rx‐Rebates in Germany",
+            "title_en": "Assessing the Estimands and Estimates of Hospitalization Rates in Health Economics and Clinical Medicine",
             "title_zh": "",
-            "url": "https://doi.org/10.1002/hec.70112",
-            "abstract_en": "ABSTRACT We investigate patients' price sensitivity for prescription (Rx) drugs with regards to patronizing online or brick‐and‐mortar pharmacies. In doing so, we exploit a policy change in Germany that prohibited online pharmacies from granting rebates to one part of the population, the members of the statutory health insurance scheme. This policy change created a natural experiment, allowing us to analyze its impact on the pharmaceutical market using Difference‐in‐Differences (DiD). Utilizing a novel dataset obtained from merchandize information systems, we find that the ban led to a shift in consumer behavior, increasing offline pharmacy Rx sales by 1.42%–1.67%. In a second step, we assess to what extent the policy change achieved its alleged goal of supporting brick‐and‐mortar pharmacies. Our findings indicate that pharmacies with low revenues, which are most exposed to market exit, saw only a minor increase in annual revenues of around € 1587. At the same time, pharmacies in the highest decile gained roughly four times that amount. This indicates that the policy change alone was insufficient to reverse the declining trend in pharmacy numbers in Germany. To strengthen the comprehensive supply of pharmaceuticals to the general population, additional reforms seem necessary.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "The Weight of Education: Nutritional Impacts of a Schooling Program in Bangladesh",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/hec.70111",
-            "abstract_en": "ABSTRACT The double burden of malnutrition—characterized by the coexistence of undernutrition and overnutrition—is an emerging public health challenge in many low‐ and middle‐income countries, including Bangladesh. We examine the role of education in shaping long‐term nutritional outcomes by leveraging the Female Secondary School Stipend Program (FSSSP), which provides stipends and tuition subsidies to rural girls. Using a difference‐in‐differences model that exploits variation in program exposure by birth cohort and rural residence, we show that the FSSSP led to substantial increases in secondary schooling among eligible cohorts. We also find that full exposure to the program reduced the probability of being underweight by 3 percentage points, and of being normal weight by 5.1 percentage points, while increasing the likelihood of being overweight and obese by 4.6 and 3.5 percentage points, respectively. These findings underscore the complex and sometimes unintended nutritional consequences of education programs in low‐income settings undergoing rapid nutrition transitions.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "How Does the Ethical Environment Matter to Hospital Performance?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/hec.70106",
-            "abstract_en": "ABSTRACT This study investigates how hospital performance may be influenced by environmental ethics, measured by regional medical corruption cases. To address the endogeneity issue, we use corruption cases in non‐medical sectors as instrumental variables for medical corruption in regions with hospital operations. Our analysis combines data on corruption investigations with hospital management and performance measures from the World Management Survey, covering more than 500 hospitals in China from 2014 to 2016. We found that a one‐third increase in corruption cases in a region reduces management quality by 0.05 standard deviations, increases the complication rate by 3%, and increases the length of stay by 0.15 days. Subgroup analyses revealed that the negative effects of corruption are particularly pronounced for management quality in younger hospitals and for performance outcomes in older hospitals. Furthermore, we found that compared with corruption at the hospital‐leader level, corruption among hospital staff has stronger negative effects on management quality and service outcomes. Our findings also show that corruption can distort the incentives and operational priorities within hospitals. Our work helps improve the understanding of the relationships between the ethical environment and hospital performance outcomes, offering insightful implications for better governance and policy settings in developing and transitional health systems.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Effect of Austerity Measures on Infant Mortality: Evidence From Greece",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/hec.70107",
-            "abstract_en": "ABSTRACT Governments frequently adopt austerity policies when facing economic crises, yet their long‐term consequences for population health remain incompletely understood. This paper examines the impact of large‐scale fiscal austerity on infant mortality by exploiting the Troika‐led economic adjustment program implemented in Greece beginning in 2010 as a quasi‐experimental shock. Using the synthetic control method, we construct a counterfactual for Greece based on OECD and Union for the Mediterranean countries that did not experience austerity of comparable depth or duration. Relative to this counterfactual, Greece experienced a sharp and persistent increase in infant mortality following the onset of austerity. The divergence emerges immediately after 2010, remains statistically significant throughout the post‐intervention period, and shows little evidence of full reversion prior to the COVID‐19 pandemic. The estimated effect corresponds to an average 43 percent increase in the infant mortality rate. Mortality effects are larger for boys than for girls and are concentrated in the neonatal period. Accounting explicitly for the fertility decline, we estimate approximately 854 excess infant deaths cumulatively from 2010 to 2020. Extensive robustness checks support the findings. The results identify the total effect of austerity and highlight the importance of protecting early‐life health during fiscal consolidation.",
+            "url": "https://doi.org/10.1002/hec.70117",
+            "abstract_en": "ABSTRACT Even though data on hospital admissions are widely used in health research, hospitalization‐related estimands measured using these data are not always clearly conceptualized. Consequently, estimators of these quantities can have unclear rationales and undesirable properties. We evaluate three “rate” estimators for measuring hospitalization‐related estimands. Using the Grossman human capital model, we motivate the importance of measuring healthy time. We show that an upper bound on healthy time can be calculated using lengths of hospital stay without assumptions about health status outside the hospital. We illustrate the empirical value of these bounds. Next, we find that an admission rate conventionally used in clinical research is a patient follow‐up time weighted average that lacks a clear basis for the weights. We propose an alternative estimator with more desirable properties and weaker assumptions. We assess its performance using a model of hospital admissions and death. Finally, we evaluate the Centers for Medicare and Medicaid Services (CMS) use of risk‐standardized readmission rates to penalize hospitals by showing that risk‐standardized rates can be sensitive to patient case mix, potentially leading to hospital rankings that do not reflect hospital quality. We propose treating hospital specific intercepts in the CMS risk‐standardization model as a measure of quality.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -1881,15 +1827,46 @@
             ]
           },
           {
-            "title_en": "Pharmaceutical Pricing and R&amp;D as a Global Public Good",
+            "title_en": "A Shelter for the Heart: The Impact of Teacher Quality on Students' Mental Health",
             "title_zh": "",
-            "url": "https://doi.org/10.1002/hec.70105",
-            "abstract_en": "ABSTRACT This paper examines the international variation in the prices of branded pharmaceuticals. We consider short‐run profits, or quasi‐rents, as representing each country's contribution toward the global public good of therapeutic information embodied in new pharmaceuticals. We characterize globally optimal contributions through the Samuelson‐Lindahl criteria and contrast the resulting outcomes with the Nash noncooperative equilibrium as developed in the Olson‐Zeckhauser theory of international alliances. That theory predicts both the undersupply of public goods and the “exploitation” of large countries by small ones. We calculate national contributions to the global public good with data from a recent RAND report. Other countries' contributions resulting from their prices are much lower than those in the United States, but their free riding is not complete. We also find that country size is a powerful determinant of contributions and that larger countries contribute disproportionately more. Finally, we suggest a cooperative policy approach that would move us closer to optimality with health benefits for all countries.",
+            "url": "https://doi.org/10.1002/hec.70118",
+            "abstract_en": "ABSTRACT Adolescent mental health has become a growing public health concern. This study examines the impact of teacher quality, proxied by teacher experience, on student mental health. To address potential endogeneity concerns and identify causal effects, we exploit data from a sample of schools where students and teachers are plausibly randomly assigned to classes. Our results indicate that students assigned to head teachers with greater experience exhibit significantly improved mental health. By contrast, we find no such effects for subject teachers who are solely responsible for academic instruction. The mechanism analysis suggests that more experienced head teachers strengthen teacher–student relationships, engage more with parents, report higher work satisfaction, and promote more supportive peer interactions. Our results highlight the important role of school environments in determining adolescents' mental health and offer actionable insights for interventions.",
             "abstract_zh": "",
             "matched_topics": [
-              "产业经济",
-              "医药产业",
+              "国际贸易",
               "创新药"
+            ]
+          },
+          {
+            "title_en": "Policy Progress in Using Economic Policy Instruments to Improve Nutrition: Challenges and Opportunities",
+            "title_zh": "",
+            "url": "https://doi.org/10.1002/hec.70115",
+            "abstract_en": "ABSTRACT Economic policy can be a powerful instrument to influence food environments and support improved diets and health. Over the past 20 years, the use of fiscal policy to improve diets has increased dramatically. This paper reviews the trajectory of policy change, and explores the ways in which research has informed three different dimensions of economic policy change in relation to nutrition: policy paradigms, policy instruments and policy settings. The increasing use of fiscal policy contrasts to more limited use of other economic policy instruments, including trade policy, to shape food environments for improved nutrition. Insights from the case studies explored in this paper indicate the important role of research in supporting policy change, including through generating evidence that speaks to sectoral needs and priorities, which can enable policy makers to identify and support potential synergies, as well as providing evidence from real‐world evaluations of policy measures. The case studies also highlight the importance of constructive engagement between nutrition and economic policy makers. Finally, the paper identifies three considerations for research moving forward related to policy innovation, knowledge equity, and gender.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Does Nutrition‐Led Multifaceted Program Impact Adolescent Girls' Educational and Learning Outcomes? Evidence From India",
+            "title_zh": "",
+            "url": "https://doi.org/10.1002/hec.70114",
+            "abstract_en": "ABSTRACT While extensive literature is available on the impact of early childhood nutritional food program on human capital gains, little we know about the impact of targeted nutritious food provisioning at a later stage on human capital gains. This paper fills this gap in the literature. We examine the causal impact of the Rajiv Gandhi Scheme for Empowerment of Adolescent Girls (SABLA), a nutrition‐led multifaceted program for adolescent girls aged 11–18 years introduced by the central government in India in 2010, on girls' educational and learning outcomes. The implementation of this program provides us with enough variation in treatment. We glean data from multiple nationally representative datasets and employ difference‐in‐differences framework to estimate the causal impact of the SABLA program. Our results indicate that the program significantly improved enrollment and basic learning outcomes, including reading ability and math skills. We attribute the salutary effects of the program to significant improvement in health status (BMI and weight) of the adolescent girls exposed to the program and increased child‐specific educational expenditure. Our findings are consistent across different datasets, and robust to potential confounding factors, and alternative empirical specifications.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Occupational Licensing and Psychologist Supply",
+            "title_zh": "",
+            "url": "https://doi.org/10.1002/hec.70110",
+            "abstract_en": "ABSTRACT Does reducing interstate licensing barriers increase the supply of mental health providers? We study this question using the U.S. Psychology Interjurisdictional Compact (PSYPACT), which allows psychologists to practice across state lines via telemedicine without obtaining additional state licenses. Because interstate telemedicine entry is difficult to track using physical practice locations, we utilize data from a large mental health provider search platform, where providers choose which zipcodes they are listed in as search results. Leveraging states' staggered accession timings for identification, we find a nuanced supply response: although joining PSYPACT increases listings in a state by 7.7% within a year, the response is entirely driven by incumbent psychologists within a state listing for the first time. We find evidence consistent with incumbents responding to a perceived threat of entry, as states with ex ante high licensing costs exhibit the largest treatment effects, and incumbents choose to list in underserved, high‐income areas within those states.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新"
             ]
           }
         ],
@@ -1986,10 +1963,12 @@
             "title_en": "Schrodinger’s Pricing: Conceptual and Practical Challenges of Conditional PAS in the NICE Technology Appraisal of Lorlatinib for Untreated ALK-Positive Advanced Non-small-cell Lung Cancer (Review of TA1103): An External Assessment Group Perspective",
             "title_zh": "",
             "url": "https://doi.org/10.1007/s40273-026-01593-5",
-            "abstract_en": "Schrodinger's Pricing: Conceptual and Practical Challenges of Conditional PAS in the NICE Technology Appraisal of Lorlatinib for Untreated ALK-Positive Advanced Non-small-cell Lung Cancer (Review of TA1103): An External Assessment Group Perspective",
+            "abstract_en": "Patient access schemes (PAS) are confidential commercial arrangements made between pharmaceutical companies and the National Health Service (NHS), allowing companies to provide discounts on a pharmaceutical technology’s list price. These schemes are commonly proposed as part of a National Institute for Health and Care Excellence (NICE) technology appraisal, aiming to enhance the drug’s cost effectiveness and support a positive recommendation.",
             "abstract_zh": "",
             "matched_topics": [
-              "产业经济"
+              "产业经济",
+              "医药产业",
+              "创新药"
             ]
           }
         ],
@@ -2000,15 +1979,80 @@
         "query_name": "Value in Health",
         "issn": "1098-3015",
         "resolved_name": "Value in Health",
-        "issue_title": "Volume 29, Issue 7",
+        "issue_title": "Volume 29, Issue 8",
         "issue_url": "https://www.valueinhealthjournal.com/",
-        "matched_count": 4,
-        "total_in_issue": 28,
+        "matched_count": 11,
+        "total_in_issue": 26,
         "papers": [
           {
-            "title_en": "Transparency, Repricing, and Price Convergence in Cancer Care",
+            "title_en": "Variation in Telehealth Reimbursement After Hospital Discharge: Evidence Across Payers, Providers, and Market Characteristics",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.01.002",
+            "url": "https://doi.org/10.1016/j.jval.2026.01.024",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医药产业"
+            ]
+          },
+          {
+            "title_en": "Fast Science, Slow Evaluation: What Makes Health Technology Assessment of Genetic and Genomic Technologies So Complicated? A Systematic Review of Methodological Challenges and Identified Suggestions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.03.004",
+            "abstract_en": "OBJECTIVES: The implementation of new applications into healthcare systems and practices frequently relies on health technology assessment (HTA). Given their complexity, HTA of genetic and genomic technologies (GGTs) faces multiple challenges; yet, no comprehensive synthesis exists. We systematically reviewed and summarized HTA challenges for GGTs, overall and by HTA domain. METHODS: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, we searched 3 databases (OSF protocol h4qg2). Eligible studies primarily discussed HTA challenges/barriers for GGTs across any HTA domain. Issues were classified into 9 EUnetHTA's Core Model domains plus a \"framework\" category. Results were synthesized narratively. RESULTS: Twenty records published between 2007 and 2025 were included: heterogeneous in structure, most discussed multiple HTA domains, and some reported suggestions. Economic (n = 12), clinical (n = 9), and social (n = 8) considerations predominated, whereas safety and organizational aspects were underrepresented. Across domains, we identified a persistent mismatch between the rapid evolution of GGTs and the slower generation of evidence, along with insufficient standardization and validation of key procedures that hinder cross-study comparability. Other major issues included defining clear healthcare pathways, valuing genomic testing, and strengthening regulatory frameworks to protect patient rights, data integrity, and equity of access. Suggested remedies were adopting living/rapid HTA, defining core outcome sets, harnessing real-world data sources, standardizing guidelines, engaging stakeholders, and enhancing national commitment. CONCLUSIONS: Fast-moving science and inadequate methods hamper HTA of GGTs. Adopting flexible HTA methods, standardized outcomes and procedures, and multistakeholder engagement, supported by national infrastructures, can shift HTA toward a more agile, resource-enabled system that better supports timely, generalizable, and equitable decision making in genomics.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Real-World Evidence in the First Round of the United States Inflation Reduction Act Drug Price Negotiations: A Citation Analysis of the Centers for Medicare and Medicaid Services’ Maximum Fair Price Explanation Documents",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.03.006",
+            "abstract_en": "OBJECTIVES: To quantify and characterize the use of real-world evidence (RWE) in the Centers for Medicare and Medicaid Services (CMS) in the CMS drug pricing negotiations to assess the transparency and methodological consistency of RWE incorporation. METHODS: We extracted and reviewed all 1822 unique citations across the 10 MFP explanation documents available on the CMS's website. For each citation, we identified whether the study constituted RWE, the data source (eg, claims, electronic health records registry/clinical cohort), study design, and whether external health technology assessments were cited. We calculated drug-specific and overall RWE proportions and summarized the methodological features of RWE studies. RESULTS: RWE was cited for all 10 drugs, but its use varied substantially. The share of RWE ranged from 13.8% (Farxiga) to 41.5% (Xarelto). Across all drugs, nearly half of RWE studies used claims/administrative data (47.0%), followed by electronic health record data (17.1%) and registry/clinical cohort data (17.1%). Most RWE studies employed cohort or longitudinal designs (82.1%). Three drugs' citation lists included external health technology assessments HTAs (by the Institute for Clinical and Economic Review or the National Institute for Health and Care Excellence). Despite the broad inclusion of RWE, the maximum fair price documents did not specify how RWE influenced negotiated prices or how CMS evaluated the quality or relevance of these studies. CONCLUSION: These findings underscore the need for greater transparency and consistent methodological standards for evaluating RWE, aligning Medicare's process more closely with international health technology assessment practices.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
+              "医药产业",
+              "医疗创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Determinants of Unmet Demand for Surgery: The Case of Transcatheter Aortic Valve Replacement",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.02.003",
+            "abstract_en": "OBJECTIVES: To examine the determinants of unmet transcatheter aortic valve replacement (TAVR) needs and their impact on patient survival among Medicare beneficiaries with aortic stenosis. METHODS: We developed a county-level mismatch score measuring the gap between actual TAVR procedures performed and expected need based on population differences. Counties were classified as metropolitan, semiurban, or rural. Factors associated with larger mismatches were identified, and mortality rates among aortic stenosis (AS) patients were examined in relation to mismatch scores. We analyzed Medicare data from 2016 to 2022 across 3129 US counties. The mismatch score was developed to account for population differences and county urbanicity classification. Statistical analyses identified factors associated with TAVR mismatch and its relationship to mortality outcomes. RESULTS: We found substantial geographic variation in TAVR delivery. Counties with higher TAVR mismatch scores showed associations with fewer TAVR-providing hospitals, less market concentration, higher AS prevalence, and lower household incomes. Counties with greater gaps between needed and actual TAVR procedures were also associated with higher mortality rates. This relationship between mismatch and mortality was particularly strong in semiurban counties. CONCLUSIONS: Our findings identify associations between TAVR access gaps and patient outcomes, as well as factors linked to these access patterns. Counties with higher TAVR mismatch scores showed correlations with healthcare capacity constraints, geographic location, and socioeconomic factors. These associations suggest that mismatches may be addressed through targeted approaches based on local needs to improve care delivery for patients with AS in regions currently experiencing access challenges.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Development of the Medical Device Economic Evaluation Methodological Quality (DEEM-Q) Assessment Checklist",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.03.002",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新"
+            ]
+          },
+          {
+            "title_en": "A Roadmap to Embedding Real-World Evidence Into Health Technology Assessment Processes for Cancer Medicines: Experiences From Scotland",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.03.011",
+            "abstract_en": "OBJECTIVES: To describe the development of a robust, sustainable pathway for the generation of real-world evidence (RWE) for cancer medicines, and how this was embedded into routine Health Technology Assessment (HTA) processes in Scotland to support decision making. METHODS: Requirements were agreed between Scotland's HTA body (Scottish Medicines Consortium, SMC) and Cancer Medicines Outcomes Programme-Public Health Scotland (CMOP-PHS). Nationally held administrative healthcare data are used to estimate patient numbers and identify comparator treatments. An educational workshop was held for SMC staff to explain CMOP-PHS reports. Feedback was sought from SMC assessors via an online form aimed at understanding the informativeness of CMOP-PHS reports and findings. RESULTS: Out of 13 requests made by SMC between February and July 2025, CMOP-PHS provided RWE reports for 8 (61.5%) cancer medicine assessments: 7 initial assessments, and one reassessment. Reports provided information on the number of patients being treated for the indication of interest in the last 12 months; the regimens used for treatment; and patient characteristics. Reasons for not providing RWE related to data completeness/granularity and insufficient patient numbers. Feedback indicated positive experiences; all responses (n = 13) confirmed that CMOP-PHS's work was informative. Respondents most strongly agreed that information on the number of patients treated for the same conditions in the last 12 months, and information on current comparator treatments, were helpful. CONCLUSIONS: CMOP-PHS has developed a rigorous, standardized approach for providing RWE to inform cancer HTA, which is now firmly embedded into SMC processes. Future developments are aimed at further improving data availability and quality.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Alternative Pricing Policies for Multi-Indication Products: A Quantitative Analysis",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.02.009",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -2016,33 +2060,45 @@
             ]
           },
           {
-            "title_en": "Health Economic Evaluations Alongside Adaptive Platform Trials: A Systematic Review",
+            "title_en": "Toward a Harmonized Definition of Digital Health Technologies for Use in Health Technology Assessment: A Scoping Review and Modified Delphi Consensus Study",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.03.001",
-            "abstract_en": "OBJECTIVES: Adaptive platform trials (APTs) present an unprecedented opportunity to enhance clinical trial efficiency and accelerate decision making. Limited evidence exists on how health economic evaluation studies are planned or conducted alongside APTs for translation and resource allocation. This review aims to identify and synthesize published evidence on the planning and conduct of economic evaluations (EEs) alongside the flexible APT design. METHODS: Eligible trials were identified from electronic bibliographic databases, clinical trial registries, and other sources - MEDLINE, Embase, Cochrane Trials, EconLit, CINAHL, Web of Science, Scopus, ClinicalTrials.gov, ANZCTR, the World Health Organization's ICTRP, reviews, and trial alliances up to November 2024. APTs with EE analysis planned or conducted, and accessible core protocols, were included. Information was extracted from protocols and health economic analysis plans. EE methods were narratively synthesized, with strengths and limitations appraised. RESULTS: Seventeen APTs mentioned plans to embed EEs, among which 15 (14%; n = 104) had EE results published or core protocols accessible. The EEs were primarily designed as secondary objectives or outcomes of APTs, with methods centrally planned for individual domains within the platform. Efficient use of long-term data collection methods was observed. None planned to conduct EE during interim analysis. Value of information analysis was conducted in one and planned within another APT to inform value of future research. CONCLUSIONS: Almost 1 in 5 APTs embedded EE plans. APTs utilize health economics methods to achieve outcomes beyond cost-effectiveness results, such as research resource prioritization and data collection. Platform-level, centrally planned EE methods were observed, indicating a focus on methodological efficiency.",
+            "url": "https://doi.org/10.1016/j.jval.2026.03.009",
+            "abstract_en": "OBJECTIVES: The objectives of this study are to map definitions of digital health, eHealth, mHealth, telehealth, telemedicine, and artificial intelligence to further expand an existing conceptual map to distinguish between these terms and propose a harmonized definition for \"digital health technologies.\" METHODS: A scoping review was conducted to identify definitions of digital health, eHealth, mHealth, telehealth, telemedicine, and artificial intelligence. PubMed/MEDLINE, Embase, Cochrane Library, and EconLit were searched between January 2015 and May 2024. A 2-round modified Delphi, informed by the scoping review, was undertaken to develop a harmonized definition of digital health technologies (DHTs). Numerical summary analyses were performed for identified definitions and Delphi responses, and thematic and content analyses were applied to the definitions and free-text responses. RESULTS: The search yielded 11,041 records, of which 482 articles were included after screening and snowballing. A total of 328 definitions were identified for digital health, eHealth, mHealth, telehealth, telemedicine, and artificial intelligence. Higher number of definitions were identified for the term telehealth/telemedicine. Across the definitions, 3 key components consistently emerged: purpose, users, and underlying technology. Round 1 of the Delphi received 118 complete responses, and round 2 received 54. Consensus was achieved on the key components, their subcomponents, and the final definition of DHTs. CONCLUSION: This study proposes a unified definition of DHTs, grounded in the components of purpose, users, and technology. Recognition of AI within the definition reflects its growing role in digital health. This definition provides a foundation for developing classification criteria that support consistent health technology assessment of DHTs.",
             "abstract_zh": "",
             "matched_topics": [
+              "医疗创新",
               "创新药"
             ]
           },
           {
-            "title_en": "Healthcare Utilization Among Older Adults With Dementia in France: A Comparative Analysis of a Dementia Village and Traditional Nursing Homes",
+            "title_en": "Distributional Cost-Effectiveness Analysis of Antenatal Lifestyle Interventions to Reduce the Incidence of Gestational Diabetes and Type-2 Diabetes",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.02.011",
-            "abstract_en": "OBJECTIVES: The Dementia Village model is emerging as an alternative to traditional nursing homes (NHs) for individuals with Alzheimer's disease and related dementias. This study evaluates the impact of a French dementia village, Village Landais Alzheimer Henri Emmanuelli (VLAHE), on healthcare utilization among older adults with dementia. METHODS: This study uses an indirect comparative cohort design using data from 2 sources: a longitudinal observational study of VLAHE residents and an ad hoc cohort from the French nationwide claims database of NH residents. To improve comparability, the Matching-Adjusted Indirect Comparison method was applied. Weighted statistical tests and logistic regression models were used, yielding odds ratios with 95% confidence intervals. The outcomes analyzed include hospital admission rates, hospital stay duration, mortality, and place of death over a 2-year follow-up period between January 2021 and December 2022. RESULTS: VLAHE residents had fewer hospitalizations and shorter stays (10.5 vs 15.2 days, P = .0004) than comparable NH residents, particularly for acute care. Quarterly hospitalization rates were consistently lower (6.4% vs 11.1%), whereas no significant differences were found for psychiatric or rehabilitation stays. Fewer VLAHE residents died in hospital (9% vs 31%), suggesting improved end-of-life care (OR: 5.75, 95% CI [1.75-18.90]). CONCLUSIONS: The VLAHE model may reduce hospitalizations and enhance end-of-life care through a structured, patient-centered approach. However, because of a potential residual clinical difference between groups and limitations of the matching method, further longitudinal research is needed to confirm its effectiveness.",
+            "url": "https://doi.org/10.1016/j.jval.2026.03.005",
+            "abstract_en": "OBJECTIVES: To evaluate the population net health benefit and distributional health impact across socioeconomic subgroups when considering alternative target populations for implementing antenatal lifestyle interventions in Australia. METHODS: Differences in the distributions of health within population subgroups defined by Socioeconomic Index for Areas quintiles were compared for standard care (no routine antenatal lifestyle intervention) versus subsidized provision to (1) all pregnant women, (2) women with body mass index (BMI) ≥ 25, (3) women aged ≥ 30 years, or (4) women giving birth within the public health system. Distributional cost-effectiveness analysis of the alternative implementation strategies was conducted to model the impact on disease incidence (gestational and type-2 diabetes), direct healthcare costs, opportunity costs, mortality and quality-adjusted life-years for socioeconomic subgroups. Data were obtained from national statistics, registries and the literature. Value judgements regarding aversion to social inequality in health were captured using the Atkinson index. Extensive sensitivity analyses were conducted. RESULTS: At an opportunity-cost threshold of AU$31 157 (2024 prices), all implementation strategies improved overall population health and reduced health inequality compared with current standard care. Provision to women with a BMI ≥ 25 generated the highest population net health benefit, whereas provision only within the public health system generated the greatest reduction in health inequality. Sensitivity analyses did not materially change these findings. CONCLUSIONS: Among the targeted strategies evaluated, limiting implementation to women with BMI ≥ 25 is likely to result in the greatest incremental population net health gains and is the preferred strategy when trade-offs between efficiency and health equity are considered.",
             "abstract_zh": "",
             "matched_topics": [
+              "国际贸易",
               "创新药"
             ]
           },
           {
-            "title_en": "Unintended Consequences of Expanded Magnetic Resonance Imaging Reimbursement: A Nationwide Analysis Revealing Low Clinical Efficiency",
+            "title_en": "“Concept or Calculation?” Reassessing the Foundations of Return-on-Investment Thresholds in Health Economic Evaluation",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.01.017",
+            "url": "https://doi.org/10.1016/j.jval.2025.12.020",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "医药产业"
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Methods to Include Environmental Impacts in a Cost-Effectiveness Analysis: A Case Study of Surveillance Imaging After Treatment for Stage III Melanoma",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.02.015",
+            "abstract_en": "OBJECTIVES: To demonstrate methods to include carbon emissions in a cost-effectiveness analysis of different positron emission tomography and computed tomography surveillance imaging schedules for detecting metastasis in patients treated for stage III melanoma. METHODS: Decision-analytic modeling was used to compare 12-monthly imaging with no routinely scheduled imaging. The health outcome was the proportion of patients without a false-negative result for a distant metastasis. Health system costs were included in 2023 Australian dollars. A 5% discount per year was applied. Carbon emissions were obtained from existing studies. Four methods were demonstrated: (1) reporting emissions in parallel, (2) the incremental carbon footprint cost ratio, (3) the incremental carbon footprint effectiveness ratio, and (4) integrating emissions as a cost in the incremental cost-effectiveness ratio (ICER). RESULTS: -e per false-negative avoided. Valuing emissions using New South Wales carbon values increased the ICER modestly to $73 919 per false-negative avoided. Using the mortality-accounting social cost of carbon increased the ICER to $107 297 per false-negative avoided. CONCLUSIONS: Parallel methods are difficult to interpret without agreed value thresholds. Integrated methods meaningfully altered the results of the base-case analysis when higher monetary values of carbon emissions were used.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           }
         ],
