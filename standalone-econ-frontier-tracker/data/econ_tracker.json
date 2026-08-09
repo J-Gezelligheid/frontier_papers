@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-02 07:20:48",
+  "updated_at": "2026-08-09 05:49:01",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 289,
+    "fail_count": 301,
     "failed_examples": [
       "Energy Transitions in Regulated Markets :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "Natural gas has replaced coal as the dominant fuel for US electricity generation :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
@@ -697,47 +697,37 @@
         "query_name": "Journal of International Economics",
         "issn": "0022-1996",
         "resolved_name": "Journal of International Economics",
-        "issue_title": "Published 2026-10",
+        "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 6,
-        "total_in_issue": 10,
+        "matched_count": 4,
+        "total_in_issue": 5,
         "papers": [
           {
-            "title_en": "Trade fragmentation, inflationary pressures and monetary policy",
+            "title_en": "Global production networks and imperfect competition",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104219",
-            "abstract_en": "How does trade fragmentation affect inflationary pressures? What is the response of monetary policy needed to sustain inflation at target? To address these questions, we develop a two-sector, small open-economy model featuring imperfect international risk-sharing and household heterogeneity, capturing both the supply-side and demand-side effects of fragmentation. In the model, fragmentation takes the form of import-price increases or a decline in tradable-sector productivity. The sign and magnitude of its impact on inflationary pressures, and the appropriate policy response, depend not only on the direct effect of higher import prices or lower productivity on supply but also, crucially, on how aggregate demand adjusts to lower real incomes. In turn, this depends on the pace of fragmentation (gradual versus front-loaded) and other key structural factors highlighted by the model. We compare outcomes under Taylor-type monetary policy rules to a constrained-efficient allocation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Playing with blocs: Quantifying decoupling",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2025.104204",
-            "abstract_en": "We adopt a data-driven approach to measure trade decoupling over 2015-2023. Countries are classified into three groups according to changes in their data-inferred trade costs with the US and China: those shifting toward the US bloc, those shifting toward the China bloc, and those with no change in alignment. We document that while cross-bloc trade costs rose, they were accompanied by falling within-bloc trade costs, with average trade costs falling marginally in line with global trade resilience. We use a quantitative model to compute the real income effects of this reconfiguration of trade costs. Model simulations suggest that real income in the median country in the world, and the median country within each bloc, rose by 0.4-0.6%. Finally, we find a modest amount of bloc misalignment: the median country would be better off switching blocs. These results suggest that trade decoupling may not follow trade-driven economic interests.",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104315",
+            "abstract_en": "How do global production networks and market structure interact to shape the gains from trade and competition policy? We develop a quantifiable model with two-sided firm heterogeneity, matching frictions, and imperfect competition. More productive buyers match with more suppliers, which spurs tougher competition, lowers input costs, and raises profits. Reduced-form evidence confirms that larger French and Chilean firms import higher quantities at lower prices as more Chinese suppliers enter, and that suppliers charge diversified buyers lower markups. We estimate the model by extending recent methods for combinatorial discrete-choice problems. Counterfactuals reveal that entry upstream benefits primarily high-productivity buyers, while lower trade or matching costs favor mid-productivity firms. Moreover, the interaction between endogenous networks and markups significantly amplifies the welfare gains from entry upstream, as well as from packaging trade liberalization with reductions in matching or entry costs.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
-              "创新药"
+              "产业经济"
             ]
           },
           {
-            "title_en": "How to grow an invoicing currency: Micro evidence from Argentina",
+            "title_en": "Horizontal regulatory barriers in international trade: Evidence from electric plugs",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104290",
-            "abstract_en": "How can a currency achieve more widespread international use? We study the internationalization of the Chinese renminbi (RMB) through the lens of a unique policy experiment in Argentina. In 2023, amid a severe dollar shortage, Argentina expanded a currency swap line with the People’s Bank of China. Within the next few months, the share of imports from China invoiced in RMB surged rapidly to nearly 50% – displacing the US dollar, which had previously accounted for virtually all invoicing. Following the presidential election of late 2023, as macroeconomic policies changed and the dollar shortage eased, invoicing in RMB declined. We explore the mechanisms behind this aggregate pattern, using rich firm-level data on imports, bank-firm loan relationships, and bank balance sheets. Our results indicate that banks played a key role, in line with the dollar shortage narrative. First, firms with pre-existing relationships to banks with limited US dollar loans were more likely to switch to RMB. Second, firms borrowing from a Chinese state-owned bank were significantly more likely to use RMB. We also document firm-level spillovers, with RMB use for imports from China increasing the likelihood of RMB use for imports from other countries. Finally, we observe an effect on trade volumes. Firms switching to RMB saw increased total imports",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104312",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Central banker to the world: Foreign reserve management and U.S. money market liquidity",
+            "title_en": "Persistent global growth differences and euro area adjustment: Real activity, trade and the real exchange rate",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2025.104203",
-            "abstract_en": "We develop a model that shows how foreign reserve management decisions can adversely affect U.S. money market liquidity. Consistent with the March 2020 dash-for-cash, our model suggests that as export-price volatility increases, a foreign central bank that pegs its exchange rate shifts reserves from relatively illiquid Treasuries to the Fed’s reverse repo facility. Over the relevant horizon, this precautionary behavior drains liquidity from U.S. money markets and raises repo spreads. These predictions provide a credible channel to identify the effect of foreign central bank demand for dollar liquidity on repo spreads, exploiting the characteristics of commodity exporters with pegged exchange rates. Empirical evidence supports the model’s predictions: precautionary sales by these central banks lead to a statistically and economically significant widening of repo spreads, accompanied by a drawdown in Treasury balances. These results underscore how the Fed’s foreign-repo facilities mitigate global dollar-funding stress and protect U.S. short-term funding markets.",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104313",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -745,24 +735,13 @@
             ]
           },
           {
-            "title_en": "Granularity in the current account",
+            "title_en": "Different no more: Country spreads in advanced and emerging economies",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104225",
-            "abstract_en": "We present new empirical evidence on the role of granularity in the current account (CA), using a unique and comprehensive firm-level dataset for Switzerland. We show that idiosyncratic shocks to large firms account for almost two thirds of the fluctuations in the headline CA and are the primary source of CA volatility. The granular effect is present across goods, services, and income components and persists over both short- and medium-term horizons. In addition to their direct impact, idiosyncratic shocks propagate through inter-firm linkages via input–output relationships and cross-product connections associated with multinational enterprise activity. Our findings complement standard macroeconomic models by providing a micro-founded perspective and demonstrating the importance of granularity in explaining fluctuations in external balances.",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104316",
+            "abstract_en": "Interest rate spreads vary widely across time and countries and are a central driver of business cycles in emerging market economies (EMEs). Since 2008, advanced market economies (AMEs) have exhibited persistently higher and more volatile spreads, alongside increased macroeconomic volatility and stronger co-movement with EMEs. We document six facts showing that AMEs have become more similar to EMEs along key dimensions. We interpret these patterns through a small open economy model and uncover a stark dichotomy: higher spreads reflect greater indebtedness and lower debt tolerance, whereas greater macroeconomic volatility and co-movement are driven by stronger global shocks.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Seizing central bank assets?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2025.104207",
-            "abstract_en": "We study the global impacts of sanctions on central bank assets. We build a database on freezes and seizures of central bank assets spanning 1914–2024. We show that the scale of the freeze on today’s Central Bank of Russia’s assets is rarely seen in history and that non-belligerent countries have never seized central bank assets to finance reconstruction in a third country in an ongoing war. We propose a three-country DSGE model to understand the global impacts of sanctions on central bank assets and tease out the macroeconomic mechanisms. One insight of the model is that seizing central bank assets can result in adverse effects on the sanctioning country in general equilibrium. Calibrated model simulations suggest that seizing Russia’s immobilized sovereign assets could result in higher interest rates on sanctioning countries’ government bonds. The increase in interest rate payments could surpass the assets’ amount seized after about three years.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
+              "国际经济"
             ]
           }
         ],
@@ -775,9 +754,39 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 1,
-        "total_in_issue": 10,
+        "matched_count": 4,
+        "total_in_issue": 14,
         "papers": [
+          {
+            "title_en": "Suing the leviathan: The effect of trans-regional jurisdiction reform on corporate investment",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103880",
+            "abstract_en": "We study how the Trans-Regional Jurisdiction reform (TRJ) affects corporate investment. The reform moves administrative lawsuits to courts outside the defendant government's home jurisdiction, which limits local government influence over the courts. We use a stacked difference-in-differences design that draws on the staggered rollout of the reform across cities. We find that the reform raises corporate investment by about 28.7 percent of the sample mean. Complementary evidence shows that the reform improves court outcomes for firms, has stronger effects where pre-reform trust in local institutions is higher, and is associated with lower institutional transaction costs and financing constraints. The effect is larger for firms with more irreversible investment, lower state ownership, and better access to finance. The reform also leads firms to acquire more land and take on more risk, although part of the higher investment appears as overinvestment. These results show how a focused judicial reform can change firm behavior where legal institutions are weak.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "When wages rise, quality falls: Minimum wages and the hidden trade-off in competitive e-commerce markets",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103893",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Exploitation vs. Exploration: How knowledge spillovers shape healthcare practices and innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103892",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
           {
             "title_en": "The Green Revolution and individualism: Evidence from Indonesia",
             "title_zh": "",
@@ -796,122 +805,67 @@
         "query_name": "Review of International Economics",
         "issn": "0965-7576",
         "resolved_name": "Review of International Economics",
-        "issue_title": "Volume 34, Issue 3",
+        "issue_title": "Volume 34, Issue 4",
         "issue_url": "https://onlinelibrary.wiley.com/journal/14679396",
-        "matched_count": 12,
-        "total_in_issue": 13,
+        "matched_count": 9,
+        "total_in_issue": 12,
         "papers": [
           {
-            "title_en": "Correction to “The Impact of Foreign Direct Investment on Firms' Cash Holdings: Evidence From China”",
+            "title_en": "Labor Market Outcomes Under Tariff Cuts and Individual Higher Education Choices",
             "title_zh": "",
-            "url": "https://doi.org/10.1111/roie.70065",
-            "abstract_en": "",
+            "url": "https://doi.org/10.1111/roie.70058",
+            "abstract_en": "ABSTRACT This paper examines the effect of tariff cuts on labor market outcomes within a multi‐country, multisector general equilibrium framework. Individuals self‐assess the feasibility of earning a college degree when deciding whether to pursue higher education. Goods are produced using skilled labor, unskilled labor, and materials aggregated from domestically and internationally sourced intermediate goods. I provide a novel finding that tariff cuts can make education more affordable by reducing the prices of materials used in education production. A lower education price exerts upward pressure on the skilled labor supply, thereby placing downward pressure on the skill premium. Changes in the trade deficit following tariff cuts significantly influence the welfare response.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Does Conflict Reshape the Military– <scp>FDI</scp> Nexus? Evidence From a Dynamic Panel Analysis",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70062",
+            "abstract_en": "ABSTRACT This paper examines the relationship between military expenditure and foreign direct investment (FDI) inflows in 61 low‐ and middle‐income countries over 1990–2018, with a focus on how this relationship is shaped by conflict dynamics and institutional contexts. Using a dynamic panel estimator (Arellano–Bover/Blundell–Bond), we find that military expenditure has no significant effect on FDI in non‐conflict settings. During conflict, however, higher military spending is positively associated with FDI inflows, suggesting that foreign investors may interpret such spending as a signal of state commitment to security. This effect is concentrated in lower‐income and institutionally weaker countries, where military expenditure may substitute for weak governance as a signal to foreign investors. The effect is also strongest at conflict onset and in the early years of conflict but fades as conflicts persist. In addition, military expenditure increases FDI during minor conflicts but has no significant effect during major conflicts, and we find no evidence of anticipation effects from future conflicts. Overall, the results suggest that military spending can reassure investors in the short run under specific conflict conditions, but that its effectiveness weakens as conflict endures and does not replace broader institutional improvements.",
             "abstract_zh": "",
             "matched_topics": [
               "国际经济"
             ]
           },
           {
-            "title_en": "Trade and Selection With Heterogeneous Firms and Perfect Competition",
+            "title_en": "Export Adjustment to Import Protectionism: The Role of Input–Output Linkages in the <scp>US</scp> ‐China Trade War",
             "title_zh": "",
-            "url": "https://doi.org/10.1111/roie.70051",
-            "abstract_en": "ABSTRACT This paper extends the Heckscher–Ohlin–Samuelson framework to allow for heterogeneous firms with capacity constraints. We show that the central theorems of the HOS model (as well as their standard generalizations via duality) carry over to our setting. Each firm has a supply curve that arises from random draws of cost/productivity for each unit of capacity. Units of capacity with costs below a threshold are active, and this threshold is called the selection cutoff. The lower this cost cutoff, the higher the firm's productivity. We show that selection is driven by the capital intensity in entry costs relative to unit production costs in the sector. Such selection is assumed away in previous work, which consequently predicts that trade makes selection in the comparative advantage sector stricter and, hence, productivity in this sector higher. Our model shows that things are less simple and depend on the trade's effect on selection, as well as on the change in factor prices. Finally, we present empirical evidence supporting our predictions about the effect of trade on productivity using Chinese firm‐level data, when the U.S. granted permanent normal trade relations (PNTR) to China upon its WTO membership.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Cross‐Country Productivity Asymmetry and the Quest for Global Free Trade",
-            "title_zh": "",
-            "url": "https://doi.org/10.1111/roie.70036",
-            "abstract_en": "ABSTRACT This paper develops a theoretical model to study how cross‐country productivity asymmetry affects the endogenous formation of global free trade. The main theoretical prediction is that (i) when productivity levels are sufficiently similar, the equilibrium is global free trade; and (ii) when productivity levels are sufficiently asymmetric, the equilibrium outcome is the status quo regime. We empirically confirm the main theoretical prediction using panel data from 195 × 194 country pairs, along with information on all FTAs formed in the world from 1950 to 2017. The empirical results suggest that country pairs with higher productivity asymmetry are less likely to sign a reciprocal trade agreement. Therefore, this paper rationalizes the inclusion of productivity differences in empirical studies on the formation of trade agreements.",
+            "url": "https://doi.org/10.1111/roie.70061",
+            "abstract_en": "ABSTRACT In response to the heightened tariffs imposed by the US on Chinese exports since 2018, China correspondingly imposed retaliatory tariffs on imports from the US. Using monthly disaggregated Chinese customs data for the period from January 2017 to December 2019, this paper analyzes how Chinese exporters respond to China's retaliatory tariff exposure in the US‐China Trade War. The empirical evidence uncovers a vertical spillover effect, where the import‐side shock of China's retaliatory tariffs transmits to the exports along the production chain, resulting in a concurrent decline in both the values and prices of Chinese exports to third markets. Mechanism analysis highlights the prominence of the export quality‐downgrading effect as a pivotal determinant in the passing down, outweighing the influence of the competition effect. Furthermore, the impacts of retaliatory tariffs exposure are heterogeneous across export margins, trade modes, product categories, and destination markets.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Politicizing the Monetary System Through Sanctions as a Four‐Period Game",
+            "title_en": "Does Openness Amplify Money‐Financed Fiscal Stimulus? A Fiscal Theory Perspective",
             "title_zh": "",
-            "url": "https://doi.org/10.1111/roie.70049",
-            "abstract_en": "ABSTRACT This article advances the analysis of sanctions' politicization of monetary systems through a novel four‐period game‐theoretic model, capturing sequential strategic interactions between a sanctioned country and a sanctioning entity. While the international monetary system has long been politicized, sanctions amplify this dynamic by leveraging financial interdependencies for geopolitical ends. Solving for subgame perfect Nash equilibria, the article illuminates decision‐making dynamics, exemplified by Russia's 2022 SWIFT exclusion. The primary equilibrium, where Russia provokes and persists while the West sustains sanctions, reveals Russia's resilience via BRICS trade against Western trade‐offs. Multiple equilibria reveal the variable and context‐dependent nature of sanction outcomes, from mutual de‐escalation to prolonged attrition. By integrating a novel sequential structure with retaliation—calibrated to real‐world data on trade, GDP, and monetary disruptions—the model provides policymakers with a rigorous, empirically grounded framework to assess the strategic trade‐offs of economic statecraft, including the persistence of deterrence even in finite‐horizon settings.",
+            "url": "https://doi.org/10.1111/roie.70060",
+            "abstract_en": "ABSTRACT Does economic openness enhance or diminish the effectiveness of money‐financed (MF) fiscal stimulus? This study re‐examines this question within a small open economy framework, emphasizing the fiscal regime governing government debt valuation. While the authors of an earlier study show that MF fiscal expansions generate larger output responses as openness increases, we demonstrate that this conclusion is not robust when the fiscal theory of the price level (FTPL) is operative. Under the FTPL, the relationship between openness and the output response to MF fiscal stimulus becomes fiscal‐regime contingent. Specifically, under normal conditions, greater openness weakens the output response, reversing the positive openness–multiplier relationship documented in the existing literature. In contrast, under strong deflationary pressure such as at the zero lower bound, greater openness amplifies the output response, although through a distinct transmission mechanism. Our analysis is primarily a positive, regime‐comparison study. As a supplementary normative benchmark, we also report a welfare comparison based on a second‐order approximation of household utility. The broader implication is cautionary: policy conclusions drawn under a Ricardian framework may not generalize to environments in which fiscal‐monetary interactions are central to price‐level determination.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
-              "国际经济"
-            ]
-          },
-          {
-            "title_en": "Guns and Gravity: Is There a Home‐Market Effect in the Global Arms Trade?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1111/roie.70050",
-            "abstract_en": "ABSTRACT This paper examines whether the home‐market effect (HME)—a foundational prediction of trade theory—applies to the global arms trade. Using bilateral weapons trade data from 1950 to 2007 and building on the framework of Costinot et al. (2019), we construct a country‐year‐specific composite demand proxy to test for the presence of HME in the weapons industry. Our baseline and robustness results consistently show no evidence of a home‐market effect, either in its weak or strong form. Additional analyzes using alternative proxies, estimation methods, and data sources confirm this finding. However, we identify a weak HME during the Cold War period, suggesting structural differences before and after the dissolution of the Soviet Union. Further gravity estimations reveal that arms trade flows are shaped more by geopolitical factors—such as sanctions and alliances—than by domestic demand. Our findings highlight the unique nature of the global arms market compared to conventional industries.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
+              "国际经济",
               "创新药"
             ]
           },
           {
-            "title_en": "Grow Global, Act Digital: The Impact of Digitalization on Global Value Chain Positioning",
+            "title_en": "Tariffs and Supply‐Function Competition in General Equilibrium",
             "title_zh": "",
-            "url": "https://doi.org/10.1111/roie.70046",
-            "abstract_en": "ABSTRACT Despite rapid advancements in digital technologies, the relationship between digitalization and trade, particularly within global value chains (GVCs), remains unclear. This study investigates the causal impact of digitalization on firm GVC positioning, a key determinant of both supply chain resilience and value‐added upgrading. Using data on Chinese exporters and an instrumental variable (IV) strategy to address endogeneity, we find that digitalization enables firms to expand their span of production stages by sourcing inputs from more upstream segments and shifting exports closer to final demand. Mechanism analysis shows that this effect can be attributed to the influence of digitalization on strengthening firm innovation capability, increasing high‐skilled labor utilization, improving resource allocation efficiency, and reducing information costs.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Tariff: The Most Beautiful Word in the Dictionary?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1111/roie.70043",
-            "abstract_en": "ABSTRACT We consider the welfare impacts of US tariff policy at levels proposed by President Donald J. Trump. General‐equilibrium simulations under a widely used transparent one‐sector trade model reveal sizable US welfare losses. When we extend the model to include bilateral firm selection and high resolution input–output linkages, the US losses escalate. We adopt a theory‐with‐numbers method to perform comparative static simulations over President Trump's stated tariff goals and consider retaliatory responses. Unified symmetric global retaliation to US protection, at the level of Trump's proposal, places 270% of the global efficiency loss on the US, leading to gains for all other regions except Canada. Our new results are dependent on both our incorporation of data (beyond trade flows and trade elasticities) and our structural extensions to consider bilateral selection of firms. We provide a foundation for our results in a computational analysis of optimal tariffs.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Unequal Gains: Profit Shifting, Trade Liberalization, and Welfare in Asymmetric Economies",
-            "title_zh": "",
-            "url": "https://doi.org/10.1111/roie.70047",
-            "abstract_en": "ABSTRACT Does trade liberalization enhance the welfare impact of profit shifting on asymmetric non‐haven countries? We examine the interaction between trade liberalization and corporate profit shifting within a three‐country framework featuring heterogeneous firms and monopolistic competition. Our model incorporates two non‐haven countries and a tax haven where firms can shift profits. The non‐havens are asymmetric in their concentration of multinational enterprise (MNE) headquarters, with a developed country typically hosting a larger share of MNEs. Our research shows that developing countries can suffer welfare losses from the presence of tax havens, while highly developed economies can benefit. Furthermore, we demonstrate that the interplay between trade liberalization and profit shifting yields non‐monotonic welfare outcomes that are contingent upon a country's MNE concentration.",
+            "url": "https://doi.org/10.1111/roie.70059",
+            "abstract_en": "ABSTRACT This paper studies how trade policy can affect not only the level of markups but also the mode and intensity of competition in general equilibrium. We embed a tractable form of supply‐function competition—where firms commit ex ante to upward‐sloping supply schedules—into Neary's general oligopolistic equilibrium (GOLE) framework. Firms endogenously choose the slope of their supply schedules at a convex real‐resource cost, which we interpret as a flexibility investment. In a symmetric two‐country benchmark with per‐unit tariffs, equilibrium reduces to a single scalar condition in aggregate supply responsiveness; when multiple roots arise, a local stability criterion selects the relevant branch. Comparative statics show that, on the stable interior equilibrium, higher tariffs raise equilibrium supply responsiveness and thereby change competitive conduct, with general‐equilibrium implications for wages and welfare. Welfare falls because higher responsiveness crowds labor into flexibility investment and away from production.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Trade Liberalization and Labor Market Monopsony Power: Evidence From China",
+            "title_en": "Markup Centrality and International Incidence in Global Production Networks",
             "title_zh": "",
-            "url": "https://doi.org/10.1111/roie.70048",
-            "abstract_en": "ABSTRACT We study the effect of trade liberalization on firms' monopsony power in the labor market. We estimate firm‐specific markdowns from production data in the manufacturing industry and document the trends in China between 1998 and 2007. Taking China's entry to the WTO as a policy shock, we use a difference‐in‐differences (DiD) approach combined with an instrumental variable (IV) strategy to show that a one percentage point decrease in input tariff reduces markdown by 1.9%–2.2%. Moreover, we explain the pattern by constructing shift‐share trade shocks and find that the number of firms increases in regions more exposed to export expansion, and decreases in regions more exposed to import competition, while the net positive effect on firm number is associated with lower monopsony power. The results highlight the opposing impacts of import and export shocks and regional heterogeneity across labor markets.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "The Surprising Bias of <scp>PPML</scp> Estimates of Structural Gravity Models With Two‐Way Fixed Effects",
-            "title_zh": "",
-            "url": "https://doi.org/10.1111/roie.70044",
-            "abstract_en": "ABSTRACT The previous literature has shown that the Poisson Pseudo‐Maximum Likelihood (PPML) estimator provides consistent and asymptotically unbiased estimates of the parameters of structural gravity models with two‐way fixed effects, although their standard errors need correction. We show that, notwithstanding this result, PPML suffers from bias in small samples. Surprisingly, that bias is evident in the types of samples typically used for gravity models, which can involve tens of thousands of observations. We explore the nature and extent of the bias both theoretically and through simulations, and we show that bias corrections based on the bootstrap and split‐sample jackknife can attenuate but not necessarily eliminate it. An empirical application suggests that, especially at the sectoral level, the bias we have identified could be significant, particularly in settings where point estimates are of primary importance, such as when gravity model estimates of the impact of a trade agreement or some other non‐tariff policy are used in a second stage general equilibrium impact assessment of a counterfactual policy change.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "U.S.‐China Trade Tensions and Their Supply Chain Relationships: Evidence From U.S. Listed Firms",
-            "title_zh": "",
-            "url": "https://doi.org/10.1111/roie.70039",
-            "abstract_en": "ABSTRACT Based on the data of U.S. listed firms from 2015 to 2021, this paper uses a difference‐in‐differences model to empirically investigate the impact of the 2018 U.S.‐China trade tensions on the supply chain arrangements of U.S. firms with China. The baseline estimation results indicate that after the trade tensions, U.S. firms have reduced their supply chain dependence on China. The results of the mechanism analyses imply that based on an implicit policy logic of “more imports, more restrictions,” the U.S. has restrained the supply chains related to China through raising import tariffs, expanding export controls, and strengthening supply chain reviews. The results of heterogeneity analyses find that U.S. firms in high‐tech industries, those with specific supply chain relationships, and those with weak market power have significantly reduced their dependence on China. The results of extended analyses reveal that after the occurrence of the trade tensions, the supply chain arrangements of U.S. firms have shown a trend of “China plus N” and “prioritizing near‐shoring and friend‐shoring.” There is a “de‐risking” trend in U.S. supply chain arrangements with China, even though they have not yet developed into a “decoupling” state.",
+            "url": "https://doi.org/10.1111/roie.70057",
+            "abstract_en": "ABSTRACT This paper develops a framework to measure how markups amplify prices through global production networks and to attribute final‐demand price wedges to upstream country‐industry sources. The approach defines a compound markup as the ratio of observed prices to counterfactual pure‐cost prices that would prevail if all markups in the network were one. Using an input‐output price model under a Cobb‐Douglas benchmark, the method yields an implementable mapping from direct markups to network‐propagated wedges and an exact decomposition into upstream contributions. The framework is implemented with the World Input‐Output Database 2016 release. The decomposition identifies upstream nodes with high markup centrality and quantifies the international incidence of the aggregate wedge, including destination‐specific attributions that separate domestic from foreign contributions and an exact ordered ranking of foreign‐incidence exposure across WIOD destinations. Compound markups provide a rigorous accounting of how market power propagates through global value chains, with most of the aggregate wedge explained by a small number of propagation rounds and concentrated upstream contributors.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -919,13 +873,32 @@
             ]
           },
           {
-            "title_en": "Trade Liberalization, Market Access, and Firm Productivity",
+            "title_en": "Firm Productivity and Product Quality Mismatch: The Role of Processing Trade",
             "title_zh": "",
-            "url": "https://doi.org/10.1111/roie.70040",
-            "abstract_en": "ABSTRACT This study investigates the complementary relationship between trade liberalization, road infrastructure, and firm productivity in China. Leveraging China's unique context—characterized by vast geography and complex supply chains—we examine whether improved domestic market access amplifies the gains from input tariff reductions. To address endogeneity, we construct a novel time‐varying instrument based on historical courier stations from the Ming Dynasty. Our empirical results provide robust evidence that the expansion of expressway networks significantly enhances the positive effects of tariff cuts on firm productivity. Crucially, we uncover a distinct “threshold effect” through spatial heterogeneity analysis: the complementarity is predominantly driven by the Eastern region, consistent with the hypothesis that industrial agglomeration amplifies policy benefits; conversely, insignificant effects in the Western region suggest that a critical mass of industrialization is requisite for infrastructure to unlock trade gains. Mechanistically, unlike findings in smaller economies where cost pass‐through dominates, we show that in China, better roads enable firms to upgrade the variety and quality of intermediate inputs and increase markups. Furthermore, at the aggregate level, this trade‐infrastructure interaction reduces the dispersion of both TFP and markups, thereby improving resource allocation efficiency. These findings underscore that the benefits of global integration are conditional on local structural foundations, highlighting the need for coordinated trade and infrastructure policies.",
+            "url": "https://doi.org/10.1111/roie.70053",
+            "abstract_en": "ABSTRACT The conventional wisdom is that high‐productivity firms produce high‐quality goods. However, using Chinese firm‐level and highly disaggregated product‐level transaction trade data from 2000 to 2007, this paper finds that such thinking is invalid, particularly for capital‐intensive sectors: high‐quality products are produced by low‐productivity firms. Rich empirical search reveals that the mismatch between productivity and quality is mainly due to the role of processing trade: the productivity of processing firms is lower than that of ordinary firms, but the export quality is higher. Contingent on trade type, more productive firms export higher quality products. Further analysis demonstrates that processing firms' quality advantage stems from greater access to imported intermediate inputs. A heterogeneous trade model with novel elements of endogenously‐chosen trade type and product quality is developed to explain the empirical findings.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Cultural Proximity and Bilateral Trade Costs",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70055",
+            "abstract_en": "ABSTRACT We draw on recently derived measures of trade costs to test whether two measures of cultural proximity, bilateral trust and scores from the Eurovision Song Contest (ESC), are associated with trade costs. After controlling for distance, common border, geographical barriers, and other cultural proximity variables and using Ordinary Least Squares and Pseudo‐Poisson estimation, we find that higher trust and ESC scores are associated with lower bilateral trade costs. Interestingly, and consistent with the literature on informational barriers, the negative cost association between ESC scores and trade costs is substantially stronger for trade in manufacturing (differentiated) goods and negligible for agricultural (homogeneous) goods, and the magnitude of the effect increases when using Instrumental Variable (IV) estimation. Furthermore, we find that the association between ESC scores and bilateral trade costs remains statistically significant and robust across all our specifications, whereas the association between trust and trade costs is less robust under some specifications. Overall, our results suggest that ESC scores capture a trade‐cost channel rather than operating solely through preferences as suggested in earlier studies.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Beyond Counting Treaties: Using Network Analysis to Reveal the Structural Changes in the Spaghetti Bowl",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70056",
+            "abstract_en": "ABSTRACT Since the 1990s, the proliferation of Regional Integration Agreements (RIAs) has created a complex trading environment where countries belong to multiple agreements simultaneously. The Spaghetti Bowl (SB)—a tangled web of overlapping agreements—has primarily been viewed as a visual metaphor. However, this overlooks its multidimensional nature and the interplay between membership and content overlap, lacking an empirical account. This paper presents a more formal, empirically grounded definition of the SB, using a network‐based framework to measure it, capturing its multidimensionality and tracing its regional and temporal evolution with historical RIA data. In contrast to the linear SB growth implied by the traditional count of agreements, our network measures indicate that the SB was essentially nonexistent before 1970. This is followed by three distinct waves of SB growth. Our analysis shows the SB rapidly expanded in the 1970s, became regional in the 1990s and early 2000s, and has become increasingly global since 2010 due to Interregional RIAs. Furthermore, we argue that global entanglement levels are becoming more widespread, even as individual RIAs contribute less to the phenomenon. This recent increase in SB prevalence is underestimated by the method of counting the active RIAs.",
+            "abstract_zh": "",
+            "matched_topics": [
               "创新药"
             ]
           }
@@ -1122,8 +1095,8 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 4,
-        "total_in_issue": 11,
+        "matched_count": 5,
+        "total_in_issue": 12,
         "papers": [
           {
             "title_en": "Price discrimination under minimum advertised price restriction",
@@ -1153,6 +1126,17 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "Gatekeepers and the Endogenous Design of Consumer Preferences under Personalized Pricing",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103320",
+            "abstract_en": "We develop a Hotelling duopoly model of competition on a gatekeeper platform in which firms choose between uniform pricing and personalized pricing. Implementing personalized pricing requires access to a platform-provided pricing technology and entails a per-transaction fee set by the platform. The platform also designs rankings and recommendations that affect the distribution of consumers between loyal and marginal types. We show that the platform may strategically reshape the demand environment to make personalized pricing more attractive to firms and thereby raise the fee it can charge. By reallocating mass from loyal to marginal and more disloyal consumers, the platform intensifies competition under uniform pricing and relaxes firms’ adoption constraint. Excessive centralization, however, erodes the rents that sustain fee extraction, so the platform chooses an interior degree of demand centralization. Relative to a no-manipulation benchmark, this reallocates surplus toward the gatekeeper and away from firms and consumers. When the platform also appropriates a share of seller profits, its incentives may reverse: it may favor loyalty-enhancing designs that soften downstream competition. The analysis highlights how platform monetization and recommendation design jointly determine downstream competition and its welfare consequences.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
+              "创新药"
             ]
           },
           {
@@ -1189,10 +1173,10 @@
             ]
           },
           {
-            "title_en": "Understanding regional readiness to contribute to the bioeconomy: The role of higher education institutions and other regional characteristics",
+            "title_en": "Follow the technology or follow the leader? Radical innovation and strategic leadership at a crossroads",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105547",
-            "abstract_en": "The transformation from a fossil-based economy toward the bioeconomy offers a promising avenue for addressing various Sustainable Development Goals but also poses a major societal challenge (SC). Designing effective place-based innovation policies to tackle this SC requires acknowledging that regions differ in their readiness to contribute to the bioeconomy transformation and understanding which place-specific characteristics underpin this readiness. This study was conducted to identify regional characteristics—capturing regional capabilities and resources, network embeddedness, institutional configurations, as well as higher education institutions (HEIs) and the research landscape—that are robustly correlated with regional readiness. We paid particular attention to the role of HEIs because they possess unique capacities to contribute to innovation and transformation. Taking Germany as an example, we measured the regional readiness of the 401 German NUTS-3 regions using the RE-SCORE index and employed Bayesian model averaging to assess the robustness of 55 potential predictor variables. Our findings highlight the potential of rural regions and further show that regional readiness is associated with embeddedness in interregional networks and the prevalence of pro-environmental attitudes. HEIs were found to enhance regional readiness through education rather than research. Relevant research output is generated by research institutes. The results suggest that HEIs can help rural regions leverage their potential.",
+            "url": "https://doi.org/10.1016/j.respol.2026.105579",
+            "abstract_en": "Radical innovation and strategic leadership research share a foundational challenge of theorizing how firms make choices about an uncertain future that shape their competitiveness, survival, and long-term performance. Yet, each field has developed a distinct explanatory signature. Radical innovation research has followed the technology, tracing how the architecture and trajectories of technological discontinuities determine organizational fates. Strategic leadership research has followed the leader(s), tracing how the cognition, composition, and interactions of those at the organizational apex shape organizational choices. We argue that this productive division of labor is being jointly frustrated by four shifts in contemporary organizing: structurally , innovation is migrating from firms to ecosystems; technologically , AI is transforming both the creative process and the cognitive conditions of leadership; relationally , permeable boundaries are redistributing influence across actors; and culturally , evaluative criteria are expanding from performance to purpose. We identify the foundational assumptions these shifts unsettle and propose four research frontiers organized around where, how, with whom, and why radical innovation happens. We conclude with key reflections from three foundational scholars on the future of the field.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新",
@@ -1200,10 +1184,10 @@
             ]
           },
           {
-            "title_en": "Follow the technology or follow the leader? Radical innovation and strategic leadership at a crossroads",
+            "title_en": "Understanding regional readiness to contribute to the bioeconomy: The role of higher education institutions and other regional characteristics",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105579",
-            "abstract_en": "Radical innovation and strategic leadership research share a foundational challenge of theorizing how firms make choices about an uncertain future that shape their competitiveness, survival, and long-term performance. Yet, each field has developed a distinct explanatory signature. Radical innovation research has followed the technology, tracing how the architecture and trajectories of technological discontinuities determine organizational fates. Strategic leadership research has followed the leader(s), tracing how the cognition, composition, and interactions of those at the organizational apex shape organizational choices. We argue that this productive division of labor is being jointly frustrated by four shifts in contemporary organizing: structurally , innovation is migrating from firms to ecosystems; technologically , AI is transforming both the creative process and the cognitive conditions of leadership; relationally , permeable boundaries are redistributing influence across actors; and culturally , evaluative criteria are expanding from performance to purpose. We identify the foundational assumptions these shifts unsettle and propose four research frontiers organized around where, how, with whom, and why radical innovation happens. We conclude with key reflections from three foundational scholars on the future of the field.",
+            "url": "https://doi.org/10.1016/j.respol.2026.105547",
+            "abstract_en": "The transformation from a fossil-based economy toward the bioeconomy offers a promising avenue for addressing various Sustainable Development Goals but also poses a major societal challenge (SC). Designing effective place-based innovation policies to tackle this SC requires acknowledging that regions differ in their readiness to contribute to the bioeconomy transformation and understanding which place-specific characteristics underpin this readiness. This study was conducted to identify regional characteristics—capturing regional capabilities and resources, network embeddedness, institutional configurations, as well as higher education institutions (HEIs) and the research landscape—that are robustly correlated with regional readiness. We paid particular attention to the role of HEIs because they possess unique capacities to contribute to innovation and transformation. Taking Germany as an example, we measured the regional readiness of the 401 German NUTS-3 regions using the RE-SCORE index and employed Bayesian model averaging to assess the robustness of 55 potential predictor variables. Our findings highlight the potential of rural regions and further show that regional readiness is associated with embeddedness in interregional networks and the prevalence of pro-environmental attitudes. HEIs were found to enhance regional readiness through education rather than research. Relevant research output is generated by research institutes. The results suggest that HEIs can help rural regions leverage their potential.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新",
@@ -1224,7 +1208,7 @@
             "title_en": "Do societal promises influence patent value? An analysis of inventions in artificial intelligence",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105566",
-            "abstract_en": "",
+            "abstract_en": "This paper investigates the relationship between narratives on the societal impact of artificial intelligence (AI) and patent value, in the context of the US patenting system. We advance the construct of public value expressions (PVEs), defined as statements that describe societal problems, or solutions to these problems, as offered by the invention being patented. Our dataset comprises 154,934 USPTO AI patent documents, which we analyze using a generative language model for label generation and a discriminative language model for training and large-scale classification, complemented by 12 interviews with patent attorneys, examiners, inventors and a linguist. Implementing a count data regression approach, we find a significant positive relationship between the occurrence and density of PVEs and well-established indicators of patent value, including forward citations, family size, claims count, and the number of technology classes, holding key confounders constant. The study makes two contributions to the STI policy and patent value literatures. First, we demonstrate that PVEs in AI patents are associated with indicators of higher technological and commercial value. This suggests that articulations of societal relevance may play a role in enhancing a patent’s private value and reveal a paradox in which narratives of public benefit are mobilized to support processes that primarily target private interests and rewards. Second, to explain this paradox, we introduce the concept of \"societal value embedding\", a patent drafting practice through which inventors and attorneys signal the potential societal benefits of their inventions, both to align with institutional expectations (normative function) and to support patentability discussions (instrumental function).",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -1312,16 +1296,46 @@
         "query_name": "Strategic Management Journal",
         "issn": "0143-2095",
         "resolved_name": "Strategic Management Journal",
-        "issue_title": "Volume 47, Issue 8",
+        "issue_title": "Volume 47, Issue 9",
         "issue_url": "https://onlinelibrary.wiley.com/journal/10970266",
         "matched_count": 6,
-        "total_in_issue": 9,
+        "total_in_issue": 8,
         "papers": [
           {
-            "title_en": "Persuasion in the political marketplace: How firms snitch on rivals to encourage regulatory enforcement",
+            "title_en": "Do multinational enterprises from developed and emerging economies differ in their price discrimination strategies? Evidence from Africa",
             "title_zh": "",
-            "url": "https://doi.org/10.1002/smj.70092",
-            "abstract_en": "Abstract Research Summary We study an important, but largely overlooked, non‐market strategy used by firms in the enforcement stage of policy: “snitching,” that is, providing intelligence about potential violations of their rivals in an attempt to persuade regulators to fine them. Building on political marketplace theory, we develop and test a theoretical model of how firms use snitching during regulatory enforcement. We show that in equilibrium, firms snitch when the rival's violations are likely to cause significant harm to the population. We then derive several boundary conditions outlining when firms will engage in more or less snitching. We find support for our theory in panel data on enforcement actions by the U.S. Environmental Protection Agency for more than 8000 facilities over 12 years. Managerial Summary Firms can use their corporate political activity (CPA) not only to help themselves, but also to snitch on their rivals. Using a formal model, we look at how CPA influences regulatory enforcement. We find firms are most likely to snitch on their rivals when their rivals' potential violations are likely to cause significant harm, since this is when regulators care the most. Our model also outlines when this is most and least likely to occur. We then test our theory using data from the U.S. Environmental Protection Agency (EPA) and find support for our claims. The EPA is more likely to fine facilities for infractions that process many toxic chemicals, but this effect is much greater when a firm's rivals are actively lobbying the EPA.",
+            "url": "https://doi.org/10.1002/smj.70102",
+            "abstract_en": "Abstract Research Summary Do multinational enterprises from developed (DMNEs) and emerging (EMNEs) economies differ in their price discrimination strategies in Sub‐Saharan Africa? Using an abductive approach, we analyze novel data from laundry detergent markets in Cameroon, Ghana, and Ivory Coast, where frugal products are widely consumed. We find that, compared to EMNEs, DMNEs charge smaller price premia for frugal relative to non‐frugal products by 21%–28%. We examine several plausible explanations and find suggestive evidence that the greater visibility of DMNEs motivates them to exercise caution in setting greater price premia for their frugal relative to non‐frugal products. Even within DMNEs, more visible firms charge smaller price premia than less visible firms. Managerial Summary Our investigation reveals an intriguing difference in the pricing strategies of multinational enterprises selling basic consumer goods in Africa. We analyze laundry detergent products sold in Cameroon, Ghana, and Ivory Coast. We find that, compared to multinational enterprises from developed economies (DMNEs), those from emerging economies (EMNEs) charge materially higher price premium on small packs relative to large packs. A key driver appears to be differences in exposure to reputational risk. DMNEs are more cautious about pricing small packs in ways that could be perceived as exploiting resource‐constrained consumers. Even within DMNEs, more visible firms charge smaller price premium than less visible ones. These findings highlight that pricing decisions for frugal products entail social considerations, as firms differ in their exposure to stakeholder scrutiny.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Collaboration post‐acquisition: The role of acquirers' motives",
+            "title_zh": "",
+            "url": "https://doi.org/10.1002/smj.70096",
+            "abstract_en": "Abstract Research Summary What role do collaborations with a target's partners play in an acquisition, and how do these collaborations evolve post‐acquisition? Research suggests that these collaborations are an important reason to acquire but often diminish post‐acquisition. But if they tend to diminish, why are they a reason to acquire? Our analysis of acquirers’ motives of 143 acquisitions of firms that collaborate with partners on 298 open‐source projects resolves the outlined puzzle and reveals two types of acquisition motives: protection‐motivated acquisitions—where acquirers focus on protecting the complementarity with the technology and the partners, and extraction‐motivated acquisitions—where acquirers focus on extracting technology and employees. We find that protection‐motivated acquisitions are associated with an intensification of collaborations, meanwhile extraction‐motivated acquisitions are associated with a diminishment of the collaboration. We contribute to research on acquisitions, collaboration, and OSS. Managerial Summary Acquisitions don’t just change ownership—they reshape collaboration with the target's partners. We studied 143 acquisitions of firms that sponsor and collaborate with partners on 298 open‐source software projects. We track contributions before and after the acquisition. We find that the motives of the acquirers are associated with different outcomes. When acquirers aim to protect complementarities, contributions from the acquired target and its partners tend to rise. When they aim to extract resources—redeploying code or talent—contributions typically decline. Managerial takeaway: when you are a stakeholder in a particular OSS, examine how likely the acquisition of its sponsors is, and what the acquirers’ motives are.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Fast learning and sustained exploration: The role of timely performance feedback",
+            "title_zh": "",
+            "url": "https://doi.org/10.1002/smj.70098",
+            "abstract_en": "Abstract Research Summary How should organizations manage learning dynamics? Strategy theories suggest “more‐is‐better”—fast, frictionless sharing enhances performance—while organizational learning theory warns that “less‐is‐more,” as fast learning causes premature convergence. We reconcile this tension by showing that the “less‐is‐more” prediction depends critically on a key assumption in classic computational models: that information about agents' performance is not continuously updated. When performance information is timely, fast learning enhances exploration. The mechanism is Target Diversity: fast learning allows many individuals to rapidly reach the performance frontier, increasing the set of imitation targets. Organizations thus learn from a diverse, shifting set of targets. The implication is that organizations achieve superior performance not by restricting information or slowing learning, but by making data on choices and performance available more quickly. Managerial Summary Innovation relies on recombining diverse knowledge, yet facilitating this is challenging. Organizations often encourage copying stars with established track records or reputations, but this can lead to suboptimal results. We demonstrate a superior approach: provide up‐to‐date performance data and spotlight emergent top performers, regardless of their history. When feedback is timely, rapid learning allows “underdogs”—employees starting from lower positions—to quickly catch up to the frontier via unique knowledge combinations. Spotlighting these emergent successes creates “Target Diversity,” providing the organization with a continually renewed and diverse set of imitation targets. Such a design enhances the exploitation of diverse knowledge and improves long‐run performance.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Local regulatory anticipation and <scp>GHG</scp> emissions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1002/smj.70097",
+            "abstract_en": "Abstract Research Summary Regulatory anticipation is a nonmarket response whereby firms, foreseeing future penalties, adjust their behavior when peers are targeted by regulators. Prior research defines peers using broad jurisdictional boundaries. Instead, I argue that regulatory anticipation may emerge locally, driven by two channels: proximity to peer scrutiny and firms' perceived sanction risks. Examining U.S. facilities' GHG emissions, I exploit variation in local‐peer scrutiny arising from a change in the EPA's High‐Priority‐Violation policy. Difference‐in‐differences estimates show that heightened scrutiny of county peers is associated with 7% lower emissions among non‐targeted firms, driven by those facing higher sanction risks. Distance‐decay analyses indicate that these anticipation patterns weaken with geographic separation. The findings encourage managerial attention to local regulatory conditions and suggest that avoiding regulatory deserts could improve policy effectiveness. Managerial Summary This paper examines how stricter regulatory scrutiny of one firm can prompt nearby, non‐targeted firms to reduce their emissions. Using U.S. data on facilities' greenhouse gas (GHG) emissions, I find that when a county peer faces heightened oversight, non‐targeted firms are associated with about 7% lower GHG emissions on average. These patterns are stronger for firms already at higher risk of environmental penalties, declining as geographic distance from scrutinized peers increases. For managers, the findings highlight the importance of monitoring local regulatory activity and the behavior of nearby peers, as local comparisons can shape stakeholder expectations. For policymakers, the results suggest that avoiding regulatory ‘deserts’ may enhance the effectiveness of climate‐related and environmental regulation.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -1329,54 +1343,24 @@
             ]
           },
           {
-            "title_en": "Beyond coal: When can outsider stakeholders drive transformative change?",
+            "title_en": "Stakeholder synergies in acquisitions",
             "title_zh": "",
-            "url": "https://doi.org/10.1002/smj.70087",
-            "abstract_en": "Abstract Research Summary Organizations grant stakeholders who provide valuable resources insider status in governance, excluding less valuable outsiders. Firms thereby assemble a value‐maximizing resource portfolio but face challenges when environmental shifts require adaptation that harms some insiders. We combine and extend new stakeholder and social movement theories, hypothesizing how various stakeholders influence such adaptation. Outsiders can enable adaptation depending on organizational governance and the array of insider stakeholders. For‐profit firms are less open to outsider influence, but a wider array of insiders enables outsiders to align with certain groups to overcome the opposition of others who resist change. The nature of these alignments shapes whether adaptation involves transformative divestments or exploratory investments. We test our theory in the context of the Beyond Coal movement to divest coal plants. Managerial Summary To gain access to valuable resources, organizations commit to stakeholders who provide these resources. However, this creates problems when adapting to changes in the environment that undermine the value of these resources. How can managers balance their stakeholder commitments with the need to integrate the concerns of other stakeholders demanding adaptive changes? We find that organizational governance and the configuration of stakeholder interests can create openings for adaptation. Studying a period of rapid environmental change in the US electric utility industry, for‐profit utilities were more likely to retire coal generators when activists aligned with consumer advocates, and more likely to invest in solar generators when activists aligned with prosumers.",
+            "url": "https://doi.org/10.1002/smj.70100",
+            "abstract_en": "Abstract Research Summary Acquisitions can create synergies by combining an acquirer's and a target's pre‐existing relationships with nonmarket stakeholders. We introduce the “reset effect” as a novel mechanism that occurs when a firm with cooperative stakeholder relationships combines with a firm that has conflictual relationships, prompting the affected stakeholders to re‐evaluate their pre‐acquisition strategies. We argue that post‐acquisition conflict with nonmarket stakeholders will decline when the cooperative and conflictual stakeholders brought together by an acquisition are aligned on one or more of the three elements that characterize stakeholder fields: (1) issues stakeholders care about, (2) relationships between stakeholders, and (3) preferences for how issues should be addressed. We find support for these arguments by studying changes in Fortune 500 firms' conflict with environmental movement organizations after acquisitions. Managerial Summary Acquisitions can create synergies by resetting a firm's relationships with external stakeholders. Studying 25 years of Fortune 500 acquisitions and environmental stakeholder interactions, we find that acquisitions can reduce stakeholder conflict when one firm's cooperative stakeholder relationships complement the other firm's conflictual ones. Complementary relationships exist when cooperative and conflictual stakeholders are aligned on issues or have pre‐existing relationships with one another. Simply combining conflictual‐cooperative stakeholder relationships is not enough, however, and post‐acquisition conflict can increase when stakeholder groups are divided over how issues should be addressed. These findings can help managers understand when an acquisition will ease or exacerbate external conflict with stakeholders.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Thinking and feeling about novelty: How cognition and emotion shape investment in novel ideas",
+            "title_en": "Abortion restriction laws and mobility of scientists",
             "title_zh": "",
-            "url": "https://doi.org/10.1002/smj.70085",
-            "abstract_en": "Abstract While prior research on the strategic framing of innovation highlights the cognitive mechanisms underlying novelty evaluation, we know little about the corresponding emotional mechanisms. Drawing on appraisal theory, construal level theory, and the literature on emotions, we theorize two distinct appraisal‐emotion pathways through which the framing of novel ideas evokes hope and awe among investors with different motives. We argue that high‐construal framing supplements economically motivated investors' low‐level feasibility orientation, which evokes hope and increases their willingness to invest. By contrast, low‐construal framing supplements non‐economically motivated investors' high‐level desirability orientation, which evokes awe and increases their willingness to invest. We test and find some support for these within‐motive pathways across three studies. Our study offers new theoretical and practical insights on the strategic framing of novel ideas.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Families in venture capital",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/smj.70082",
-            "abstract_en": "Abstract Research Summary This exploratory paper introduces a new type of family business by studying the investment strategies of family‐managed venture capital funds (“Family VCs”) across a multi‐country setting. It shows that Family VCs are more likely to invest in (syndicate with) geographically proximate startups (investors), indicating a preference for local investments. This tendency is stronger when the VC is named after the family and the family is closely involved in the decision‐making process of the fund. I provide suggestive evidence that this pattern reflects both superior local knowledge (rational response) and home bias (non‐rational response), with the latter becoming more pronounced when performance pressure is lower. Managerial Summary Family‐managed VC funds (Family VCs), managing roughly $29 billion, represent an important segment of the venture capital industry. I show that family control shapes both the selection of startups and syndicate partners. Family VCs are indeed more likely to support ventures and partner with investors from their communities, particularly when family members are highly involved in investment decisions and the fund is named after the family. I provide suggestive evidence that this local preference stems from both rational factors, like superior local knowledge and networks, and a non‐rational preference for local investments. Their local focus becomes relatively less pronounced when families must demonstrate strong financial performance, such as when a follow‐on fund has not yet been raised and during competitive market conditions.",
+            "url": "https://doi.org/10.1002/smj.70093",
+            "abstract_en": "Abstract Research Summary We track the enactment of targeted regulation of abortion providers (TRAP) laws in the United States and analyze 4.98 million person‐year mobility records for 535,568 biomedical scientists from 1990 to 2018. Our estimations reveal a 0.8–1.6 percentage‐point increase in scientists' relocation probability after states enacted abortion‐restrictive laws, with substantially stronger effects among junior scientists (1.6–3.9 percentage points). Anti‐abortion states also became less likely to be chosen as relocation destinations, particularly by higher‐quality scientists. These responses appear driven by ideological misalignment and research‐related concerns in fields affected by abortion‐related regulation. We further find that states that have adopted TRAP laws experienced declines in scientific research quality, federal research funding, and patenting in relevant technological fields and among local firms. Managerial Summary Social policies influence the location choices of creative talent, with further implications for organizational and regional innovations. Research scientists are an important part of the regional innovation ecosystem, whose work is intricately related to innovation activities in firms. In a large‐scale study of 4.98 million records of half a million biomedical scientists from 1990 to 2018, we reveal that restrictive policies, such as restrictions on abortion providers, deter high‐quality scientific talent from relocating to certain regions. Our analysis highlights that ideological (mis)alignment and research‐opportunity‐related concerns, rather than practical concerns like access to abortion services, heighten the effect of abortion‐restriction laws on the observed mobility patterns, underscoring the broader implications of policy choices in the sociopolitical environment on where scientific talent chooses to live and work.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "When creation and capture diverge: Why breakthrough inventions do not break through alike",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/smj.70086",
-            "abstract_en": "Abstract Reserch Summary Breakthrough inventions are central to firms' competitive advantage, yet what constitutes a breakthrough remains unclear. We examine the relationship between technological quality (measured by forward citations) and economic value (measured by grant‐day abnormal stock‐returns) of patents. Using U.S. patents assigned to publicly listed firms, we find that among the most exceptional inventions—that is, breakthroughs—the correlation between these two measures disappears: technologically outstanding patents are not necessarily the most economically valuable. We attribute this divergence to a structural tension between value creation and value capture in patenting, driven by novelty, the availability of complementary assets, and competitive dynamics. Firms that successfully manage both dimensions earn a disproportionate market premium. This outcome is often associated with firms that diversify their technological portfolios asynchronously across technology S‐curves. Managerial Summary Breakthrough innovations are widely viewed as the lifeblood of corporate success. Yet what truly defines a breakthrough—and how its value should be assessed—remains unclear. Companies typically rely on two indicators: technological quality (measured by forward citations) and economic value (captured by stock market reactions at patent grant). Conventional wisdom assumes these move together. Our analysis of U.S. patents challenges this view. For the most exceptional inventions, technological quality and economic value diverge. We identify the drivers of this tension and show that firms able to manage it earn disproportionate market returns.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Information‐seeking lobbying and strategic stockpiling under trade policy uncertainty",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/smj.70083",
-            "abstract_en": "Abstract Research Summary This study investigates how firms engage in information‐seeking lobbying to address trade policy uncertainty. I argue that lobbying enables firms to gain early insights into forthcoming tariff actions, allowing them to strategically stockpile products likely to be targeted. Using shipping records of US firms during the 2018 US–China trade war, I find that lobbying firms increased imports of soon‐to‐be‐tariffed products before tariff lists were publicly released, compared to non‐lobbying firms. This selective stockpiling pattern disappeared after tariff announcements. Further analysis shows that lobbying firms were less likely to request tariff exemptions for products they had preemptively stockpiled, suggesting that information‐seeking lobbying during policy formulation provides an additional benefit by reducing the need for costly government engagement during the implementation phase. Managerial Summary To manage heightened trade policy uncertainty, firms often adjust global supply chains or engage with the government—but how can they integrate these strategies? This study proposes that firms can engage in lobbying not just to influence policy outcomes, but to gain early insights into pending trade actions. Using data from the 2018 US–China trade war, I find that lobbying firms stockpiled more of the products that were later targeted by tariffs before those tariffs were publicly announced. These firms were also less likely to request tariff exemptions for products they had preemptively stockpiled, indicating potential cost savings by avoiding expensive government engagement. The findings underscore the strategic value of early‐stage lobbying and highlight the importance of coordination between government affairs and operation departments.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
+              "企业创新",
               "创新药"
             ]
           }
@@ -1388,26 +1372,26 @@
         "query_name": "Management Science",
         "issn": "0025-1909",
         "resolved_name": "Management Science",
-        "issue_title": "Volume 72, Issue 7",
+        "issue_title": "Volume 72, Issue 8",
         "issue_url": "https://pubsonline.informs.org/journal/mnsc",
         "matched_count": 12,
-        "total_in_issue": 13,
+        "total_in_issue": 16,
         "papers": [
           {
-            "title_en": "Group Discussions Improve Competence Calibration: Making Self-Perceived Competence Valuable When Harnessing the Wisdom of Crowds",
+            "title_en": "Who Falls Prey to the Wolf of Wall Street? Investor Participation in Market Manipulation",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.03061",
-            "abstract_en": "This paper experimentally demonstrates that group discussions can serve as an instrument to improve competence calibration, which in turn allows getting more wisdom out of the crowd through competence weighting. While the alignment of individuals’ estimation accuracy and self-perceived competence is typically poor and competence-weighted aggregates do not even match the accuracy of simple averaging, we find that preceding group discussions on unrelated judgment problems enhance competence calibration. Consequently, the subsequent performance of competence-weighted aggregation schemes rises to and beyond prediction market levels, suggesting an easy-to-implement approach for effectively exploiting crowd wisdom. This paper was accepted by Manel Baucells, behavioral economics and decision analysis. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03061 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.03181",
+            "abstract_en": "Price distortions created by so-called “pump-and-dump” schemes are well documented, but relatively little is known about the investors in these schemes. By examining 470 pump-and-dump schemes and a large data set of trading records for over 110,000 individual investors from a major German bank, we provide comprehensive evidence on the participation rate, the magnitude of the investments, the losses, and the characteristics of the individuals who invest in such schemes. Participation is quite common, with nearly 8% of active retail investors participating in at least one pump-and-dump losing on average nearly 30%. We identify several distinct types of participating investors, some of which (e.g., speculating day trader) should not be viewed as falling prey to the schemes. We also show that portfolio composition and past trading behavior better explain scheme participation than demographics. Last, we document longer-lasting effects on participating investors beyond their immediate financial losses. Our analysis highlights that an effective regulatory response to pump-and-dump schemes requires understanding who invests in such schemes and why, as, for instance, not all investors are likely to be dissuaded from investing by traditional regulatory disclosures. This paper was accepted by Eric So, accounting. Funding: This work was supported by the Clark Center for Global Markets at the University of Chicago and the Danish Finance Institute. Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03181 .",
             "abstract_zh": "",
             "matched_topics": [
-              "创新药"
+              "国际贸易"
             ]
           },
           {
-            "title_en": "How Do Behavioral Approaches to Increase Savings Compare? Evidence from Multiple Interventions in the U.S. Army",
+            "title_en": "From Food Deserts to Fresh Food: The Role of Digital Accessibility in Nutrition Assistance Programs",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.04939",
-            "abstract_en": "How can we compare approaches to increase retirement savings? Messaging interventions, active choice frameworks, and automatic enrollment all increase retirement savings, but evidence supporting these approaches spans widely different institutional settings, populations, and time periods. In this study, we use experimental and quasi-experimental variation in these approaches within a constant setting using interventions in the U.S. military during 2016–2018. We find large differences in the efficacy of these approaches, with active choice and automatic enrollment programs being about 10 and 100 times more effective than messaging interventions, respectively. We also collect novel data on program costs and generate estimates of cost-effectiveness for each program. We find that active choice and automatic enrollment are consistently more cost effective than any messaging interventions, active choice programs are the most cost-effective for small firms, and automatic enrollment is the most cost-effective program for larger firms. This paper was accepted by Jack Soll, behavioral economics and decision analysis. Funding: The authors thank the TIAA Institute, Wharton School’s Pension Research Council and Boettner Center, the Social Security Administration, and the NBER Retirement and Disability Research Center for financial support. The research reported herein was performed pursuant to a grant from the U.S. Social Security Administration [SSA Grant Number RDR18000003] funded as part of the Retirement and Disability Research Consortium. The opinions and conclusions expressed are solely those of the author(s) and do not represent the opinions or policy of the Social Security Administration, any agency of the Federal Government, the NBER, the TIAA Institute, or Wharton School’s Pension Research Council/Boettner Center. Neither the U.S. Government nor any agency thereof, nor any of their employees, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of the contents of this research. Reference herein to any specific commercial product, process or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply endorsement, recommendation or favoring by the U.S. Government or any agency thereof. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04939 .",
+            "url": "https://doi.org/10.1287/mnsc.2025.00012",
+            "abstract_en": "One in 10 U.S. households experience food insecurity, with millions of low-income families lacking access to fresh food. In response, federal and state governments recently launched the Supplemental Nutrition Assistance Program (SNAP) Online Purchasing Pilot (SNAP Online), enabling SNAP benefits to cover online food purchases. Although prior research suggests that the SNAP Online program may increase overall food consumption, its impact on fresh food consumption remains unclear. This research leverages NielsenIQ consumer panel data and employs a Difference-in-Differences approach to address this question. Our findings reveal that the SNAP Online program increases fresh food consumption among low-income households by 7.1%. However, the effect is minimal in areas with limited access to online grocery delivery and among households with poor prior fresh food consumption habits. These results underscore the potential of supply-side policies, such as expanding online purchasing options, to improve fresh food consumption. They also highlight the importance of addressing demand-side barriers and enhancing digital accessibility to maximize the effectiveness of nutrition assistance programs. This paper was accepted by D. J. Wu, information systems. Funding: Z. Li received financial support from the National Science Foundation Division of Social and Economic Sciences [CAREER Award 2243736]. Supplemental Material: The web appendix and data files are available at https://doi.org/10.1287/mnsc.2025.00012 .",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -1415,109 +1399,106 @@
             ]
           },
           {
-            "title_en": "Dynamic Portfolio Selection Under Quantile Maximization",
+            "title_en": "Smart Stochastic Discount Factors",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.03182",
-            "abstract_en": "Although maximizing quantiles is intuitively appealing and has an axiomatic foundation, it is difficult to find the optimal portfolio strategy because of time inconsistency. Using an intrapersonal equilibrium approach and focusing on the class of time-varying affine strategies, we find that the only viable outcome is from the median maximization because for other quantiles, either the equilibrium does not exist or there is no investment in risky assets. We also prove that maximizing the median endogenizes the use of portfolio insurance. The calibration of the model uncovers a new empirical phenomenon: “portfolio share smile.” This paper was accepted by Giesecke Kay, finance. Funding: This research was supported by the General Research Fund of the Research Grants Council of Hong Kong SAR [Grant 14207620], Early Career Scheme of the Research Grants Council of Hong Kong SAR [Grant 25213424], the National Natural Science Foundation of China [Grant 12401622], and the Hong Kong Polytechnic University [Grant P0042708]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03182 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Model Aggregation for Risk Evaluation and Robust Optimization",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.03523",
-            "abstract_en": "We introduce a new approach for prudent risk evaluation based on stochastic dominance, and it is called the model aggregation (MA) approach. In contrast to the classic worst case risk (WR) approach, the MA approach produces not only a robust value of risk evaluation but also a robust distributional model, independent of any specific risk measure. The MA risk evaluation can be computed through explicit formulas in the lattice theory of stochastic dominance, and under some standard assumptions, the MA robust optimization admits a convex program reformulation. The MA approach for Wasserstein and mean-variance uncertainty sets admits explicit formulas for the obtained robust models. Via an equivalence property between the MA and WR approaches, new axiomatic characterizations are obtained for the value at risk and the expected shortfall (also known as conditional value at risk). The new approach is illustrated with various risk measures and examples from portfolio optimization. This paper was accepted by Chung Piaw Teo, optimization. Funding: This research was supported by the National Natural Science Foundation of China [Grants 12371476, 71921001, 71671176, 71871208], the Natural Sciences and Engineering Research Council of Canada [Grants CRC-2022-00141, RGPIN-2024-03728, RGPAS-2018-522590, RGPIN-2018-03823], and the Society of Actuaries Center of Actuarial Excellence Research Grant. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03523 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The Competitive Ratio of Threshold Policies for Online Unit-Density Knapsack Problems",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.01577",
-            "abstract_en": "We study a wholesale supply chain ordering problem. In this problem, the supplier has an initial stock and faces an unpredictable stream of incoming orders, making real-time decisions on whether to accept or reject each order. What makes this wholesale supply chain ordering problem special is its knapsack constraint; that is, we do not allow partially accepting an order or splitting an order. The objective is to maximize the utilized stock. We model this wholesale supply chain ordering problem as an online unit-density knapsack problem. We study randomized threshold algorithms that accept an item as long as its size exceeds the threshold. We derive two optimal threshold distributions, the first is 0.4324-competitive relative to the optimal off-line integral packing, and the second is 0.4285-competitive relative to the optimal off-line fractional packing. Both results require optimizing the cumulative distribution function of the random threshold, which are challenging infinite-dimensional optimization problems. We also consider the generalization to multiple knapsacks, in which an arriving item has a different size in each knapsack. We derive a 0.2142-competitive algorithm for this problem. We also show that any randomized algorithm for this problem cannot be more than 0.4605-competitive. This is the first upper bound strictly less than 0.5, which implies the intrinsic challenge of the knapsack constraint. We show how to naturally implement our optimal threshold distributions in the warehouses of a Latin American chain department store. We run simulations on its order data that demonstrate the efficacy of our proposed algorithms. This paper was accepted by George Shanthikumar, data science. Funding: This work was supported by the Massachusetts Institute of Technology–Accenture Alliance for Business Analytics. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01577 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Effects of Financial Constraints on Supply Chain Financing Choices and Operational Decisions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.08465",
-            "abstract_en": "Bank credit access allows firms to borrow funds from banks and other financial institutions. Although theories have been developed on how bank financing affects firms’ operational decisions, empirical investigations in operations management (OM) literature remain limited. This study examines firms’ inventory management strategies in response to the enhanced credit lines from the adoption of interstate bank branching laws, which introduced staggered access to bank credit for operational firms. By merging multiple datasets with credit line information from 10-K SEC filings, we constructed a panel data set covering 1990–2005. Utilizing a difference-in-differences (DID) approach, we find that improved bank credit access leads to a 6% faster inventory turnover, rather than an increase in inventory investment. This outcome appears to stem from short-term increases in capacity investments leveraging their enhanced bank credit and increased use of trade credit, alongside long-term improvements in infrastructure and capital intensity. While these developments are more pronounced for small firms in concentrated markets, their advantage translates into increased competition, negatively impacting the market position and profitability of larger firms. Additionally, in a broader supply chain context, focal firms experience faster inventory turnover when their major customers access more bank credit. The effect is especially prominent for large suppliers in competitive markets, driven by increased sales volumes. This research enhances understanding of the extensive impact of bank credit on operational management and offers insights for policymakers about the diverse effects of bank regulations across different market players and sectors. This paper was accepted by J. George Shanthikumar, data science. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08465 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Incentivizing Information Exchange Within Groups: The Role of Voting Protocols in U.S. Food and Drug Administration Advisory Committees",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.03649",
-            "abstract_en": "Complex and important decisions are often made with advice from a committee of experts. But how do a committee’s “rules of engagement” affect the way individuals discuss, how they vote, and ultimately the quality of their collective recommendation? Compiling verbatim transcripts from U.S. Food and Drug Administration advisory committee meetings, we study how a 2007 switch from sequential to simultaneous voting procedures changed discussions, information exchange, and decision making. Consistent with past findings, we show that, compared with a sequential voting protocol, simultaneous voting led to a reduction in the likelihood of unanimous votes. Importantly, we show novel evidence that the majority of this reduction in unanimity was mediated by changes in discussion patterns—specifically, by the increased diversity of information surfaced during discussions. We also find evidence of behavioral and linguistic changes that support our theory that voting protocols changed the incentives for members to elicit more diverse information from each other: under simultaneous voting, members exhibited greater equality in talking time, directed a greater proportion of questions to each other, and adopted language that was more positive, authentic, and equal in projecting status and confidence. Finally, we show that recommendations under simultaneous voting were more likely to be accurate, as drugs recommended and approved were less likely to encounter safety-related postmarket events. In sum, voting protocols affect the incentives for individuals to engage in robust discussions, leading to marked improvements in how information is exchanged between individuals, and in the process by which groups of experts arrive at joint recommendations. This paper was accepted by Sridhar Tayur, entrepreneurship and innovation. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03649 .",
+            "url": "https://doi.org/10.1287/mnsc.2024.05750",
+            "abstract_en": "We provide a no-arbitrage framework for stochastic discount factors (SDFs) that satisfy convex pricing constraints in markets characterized by a wide range of trading frictions. We demonstrate a duality relationship connecting minimum dispersion SDFs to portfolio optimization problems with penalty functions directly capturing the underlying frictions. Empirically, we examine how mispricing impacts the SDF’s effectiveness in explaining both cross-sectional and time series variation in asset returns. We find that a minimum-variance SDF, constructed by combining the capital asset pricing model SDF with a portfolio that constrains the mispricing of nonmarket risks, achieves a favorable tradeoff between time series and cross-sectional fit. This paper was accepted by Kay Giesecke, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05750 .",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Spectral Volume Models: Universal High-Frequency Periodicities in Intraday Trading Activities",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.06215",
+            "abstract_en": "We develop spectral volume models to systematically estimate, explain, and exploit the high-frequency periodicity in intraday trading activities using Fourier analysis. The framework consistently recovers periodicities at specific frequencies in three steps, despite their low signal-to-noise ratios. This reveals persistent and universal high-frequency periodicities in the United States and Chinese stock markets in recent years, and the dominant frequencies explain a significant fraction of the total variance of intraday volumes. We provide evidence that this phenomenon likely reflects the behaviors of trading algorithms with repeated and regular trading instructions. Finally, we demonstrate that uncovering such high-frequency periodicities improves intraday volume predictions and volume weighted average price execution qualities, yields insights for price informativeness of algorithmic trading, and generates excess returns. This paper was accepted by William Lin Cong, finance. Funding: This work was supported by the National Key Research and Development Program of China [Grant 2022YFA1007900], the National Natural Science Foundation of China [Grants 12271013 and 72342004], and the Peking University’s Fundamental Research Funds for the Central Universities. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06215 .",
+            "abstract_zh": "",
+            "matched_topics": [
               "企业创新",
               "创新药"
             ]
           },
           {
-            "title_en": "No Gifts Returned: Surprise Bonuses Reduce Productivity in a Natural Field Experiment",
+            "title_en": "Government Deleveraging and the Reverse Crowding-In Effect: Evidence from Subnational Debt and Government Contractors",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.04085",
-            "abstract_en": "The gift exchange hypothesis posits that workers reciprocate above-market wages with increased productivity. This paper tests this hypothesis in a natural field experiment where one or both workers in a pair received a discretionary bonus after an initial round of data entry tasks. Bonuses were assigned based on one of three criteria: (i) relative productivity in the initial round, (ii) economic need, or (iii) an arbitrary decision. Two conditions where neither or both workers received a bonus served as the baseline. Contrary to the gift exchange hypothesis, we found a significant decline in postbonus productivity, especially when both workers received the bonus. This result suggests that workers interpreted the bonus as a signal of employer contentment, allowing them to reduce their effort. We conjectured that the postbonus productivity decline may result from either (a) a lower perceived risk of repercussions from slacking, such as early dismissal, or (b) a reduced sense of obligation to reciprocate the employer’s kindness. A follow-up experiment replicated the primary result, providing moderate evidence for the explanation based on reduced fear of dismissal. The main effect of bonuses on productivity was substantial, with effort reductions of 15.1% in the first experiment and 8.4% in the follow-up relative to baseline. In cases where only one worker received a bonus, nonrecipients’ inequality aversion appeared to decrease productivity markedly in the economic need treatment, whereas status-seeking behavior slightly increased productivity by bonus recipients in the productivity treatment. This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis. Funding: F. Bogliacino acknowledges funding from the Fundación Universitaria Konrad Lorenz [Internal Grant 7INV1141], Open Evidence [Research Grant 009], and the Universidad Nacional [Internal Grant 26007]. G. Grimalda and D. Pipke gratefully acknowledge funding for the follow-up experiment from the Kiel Institute for the World Economy. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.04085 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Learning Personalized Treatment Strategies with Predictive and Prognostic Covariates in Adaptive Clinical Trials",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.02048",
-            "abstract_en": "Biomedical research may uncover insights regarding the interaction of the treatments of a disease with patient covariates. We show how to use such insights to improve the efficiency of adaptive clinical trials for precision medicine by extending ideas from optimal Bayesian learning. We present a model for response-adaptive multi-arm clinical trials that leverages knowledge about the predictive-prognostic covariate structure to accelerate the learning of personalized treatment strategies that obtain the best expected outcomes for post-trial patients. Our base model is a contextual linear bandit for best-arm identification, and outcomes may be observed with delay. We characterize the optimal policy for sequentially allocating treatments to in-trial patients and, because it is hard to compute, propose several computable heuristics based on Bayesian one-step look-ahead techniques. We prove that several of our proposed heuristics are asymptotically optimal in learning treatment strategies. Numerical results based on two case studies motivated by sepsis management show that our heuristics can significantly improve clinical trial efficiency to learn a treatment strategy for precision medicine. We provide extensions that allow for rewards from outcomes of in-trial patients (resolving the exploration-exploitation tradeoff) and for inferring covariate structure using Lasso when biomedical insights on covariate structure are lacking. Our proposed trial design is of interest to funders, designers, and managers of clinical trials. It may also apply to other contextual bandit problems in settings where insights about covariate-treatment interactions are available. This paper was accepted by Stefan Scholtes, healthcare management. Funding: This work was supported by the Marie Skłodowska-Curie Actions under the European Union’s Horizon 2020 research and innovation programme [Grant 676129]. S. E. Chick gratefully acknowledges the support of Dr Simba Gill and Sabi Dau to the INSEAD Healthcare Management Initiative. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02048 .",
+            "url": "https://doi.org/10.1287/mnsc.2024.05679",
+            "abstract_en": "We document a novel trade-credit channel through which government deleveraging affects the private economy. Our empirical analysis exploits China’s 2017 deleveraging campaign that reduced local governments’ net financing capacity and a purpose-built data set of listed firms matched with government procurement contracts. Compared with noncontractors, private contractors experience larger increases in accounts receivable and deterioration in financial conditions, leading to fewer investments, worse operating performance, and higher probabilities of ownership changes. The effects are muted among state-owned enterprises, which demonstrate lower productivity. Our findings thus reveal a reverse crowding-in effect whereby government deleveraging adversely affects private firms and reduces allocative efficiency. This paper was accepted by Lin William Cong, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05679 .",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
-              "企业创新",
               "创新药"
             ]
           },
           {
-            "title_en": "Deciphering the PCAOB Inspection Process: Evidence and Predictive Insights from Public Data",
+            "title_en": "Whence LASSO? A Rational Interpretation",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.08084",
-            "abstract_en": "Little is known about how the Public Company Accounting Oversight Board (PCAOB) selects audits for inspections. We exploit public data that track PCAOB searches of issuer Securities and Exchange Commission (SEC) filings and the trial transcripts of United States of America v. David Middendorf to provide the first large-sample evidence on confidential PCAOB monitoring activities. We initially validate that PCAOB searches spike during actual inspections of triennially inspected auditors and for a list of KPMG audits inspected in 2016. Importantly, we find that PCAOB searches vary predictably with ongoing audit-flagged events, client corporate events, and client characteristics, and these screening and inspection activities extend beyond enforcement actions. Using KPMG data, we introduce a PCAOB inspection prediction model for Big 4 clients based solely on public data, with predicted incidence closely aligning with actual inspections. One implication of our study is that, perhaps to mitigate political costs, the PCAOB relies overly on conspicuous trigger events that already signal low audit quality (i.e., restatements, auditor changes, chief financial officer turnovers, bankruptcies, and SEC comment letters), raising the question of how its risk-based inspection program is designed to improve overall audit quality or minimize large audit failures. In addition, although model-inferred PCAOB inspections are not associated with future restatements, broader PCAOB monitoring activities, as proxied by search intensity, exhibit modest predictive power. Overall, our study provides a more nuanced understanding of the PCAOB inspection program and the factors driving its revealed preferences. This paper was accepted by Ranjani Krishnan, accounting. Funding: This work was supported by the Jones Graduate School of Business at Rice University, Baruch College, and the Penn State Smeal College of Business. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08084 .",
+            "url": "https://doi.org/10.1287/mnsc.2024.06127",
+            "abstract_en": "This paper develops an economic setting to rationalize the use of the “least absolute shrinkage and selection operator” (LASSO) in estimating asset returns. In this setting, multiple traders engage in trading based on information extracted from historical asset prices. Facing model uncertainty in forecasting asset returns, these traders adopt robust-trading strategies. Within this context, the use of LASSO for estimating asset returns emerges endogenously as an equilibrium outcome. We further extend our analysis to rationalize the application of elastic-net estimation. Although LASSO-type strategies enhance traders’ profits by mitigating competition among them, they also introduce biases in trading decisions, which can adversely affect profitability. This dual effect highlights the nuanced tradeoffs associated with employing such estimation techniques in financial markets. This paper has been This paper was accepted by Will Cong for the Special Issue on AI for Finance and Business Decisions. Funding: This work was supported by the Social Sciences and Humanities Research Council of Canada [Grant 435-2021-0040] and the Bank of Canada [Fellowship]. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.06127 .",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Systematic Mispricing of Speculative Stocks and the Cross-Sectional Risk-Return Trade-off",
+            "title_en": "Why Do Product Prices Affect Review Ratings? Evidence from a Japanese Online Travel Agency",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.08815",
-            "abstract_en": "We examine the cross-section of returns from the perspective of a benchmark model that only includes systematic mispricing factors. In contrast to conclusions from standard benchmark models, we recover robust positive risk-return relations for many cross-sectional risk, distress, and friction proxies. Our findings are consistent with systematic mispricing that primarily affects speculative stocks and predominantly results in overpricing, predicting lower returns. Hence, failing to control for exposure to systematic mispricing can bias tests of risk-return trade-offs for anomalies with one speculative leg (e.g., risky, distressed, or high-friction stocks) and one nonspeculative leg. Overall, our study offers novel economic insight for this subset of anomalies, indicating that a positive risk-return trade-off can be resurrected after purging out the systematic mispricing component. The evidence suggests that a small shift in perspective generates a substantially different interpretation of the same data. This paper was accepted by Lukas Schmid, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08815 .",
+            "url": "https://doi.org/10.1287/mnsc.2024.05043",
+            "abstract_en": "I examine why the prices that consumers pay influence their ratings of products. In the context of hotel reviews on an online booking platform, I find that prices have larger impact on ratings when consumers face larger uncertainty about hotel quality, indicating that prices affect satisfaction through consumers’ quality expectation. On the other hand, I find that the mere fact that the reviewer received higher surplus through a lower price by itself is not a primary reason for a higher rating. I also present suggestive evidence of consumer reciprocation, in which consumers experiencing a high-quality staff service likely become more forgiving of higher prices. I show that introductory pricing can have a substantial impact on the distribution of review rankings among new entrants because of the role of prices as quality signals. Understanding the price effect on ratings is crucial to designing review systems robust to potential distortion. This paper was accepted by Raphael Thomadsen, marketing. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05043 .",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
-              "产业经济",
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Firms’ Stock Prices, Stock Returns, and Remaining Lifetime Earnings",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2022.03251",
+            "abstract_en": "We document the disconnect between earnings expectations as captured in stock prices and the ultimate realization of earnings over long periods. To do so, we compare firms’ stock prices on the first trading day and the beginning of each year to the realized earnings over their remaining lifetime (RLTEP ratio). We document that the RLTEP ratio, averaged over long periods and over 15,000 U.S. domestic public firms, approximates one, suggesting that expectations match actuals in the aggregate. However, most firms fail to deliver an RLTEP ratio greater than one. Acquisition prices are the largest contributors to the RLTEP ratio, with many surviving firms failing to generate enough earnings even after operating for between 15 and 45 years. The RLTEP ratio for survivors is positively associated with the future RLTEP ratio, future lifetime wealth creation, and future lifetime stock returns. Significant returns-based wealth creation by firms in the short term does not persist in the long term unless it is supported by fundamental wealth creation (high past RLTEP ratio). This paper was accepted by Eric So, accounting. Funding: Financial support from SC Johnson Graduate School of Management, Cornell University, Columbia Business School, Columbia University, Binghamton University School of Management, and Haskayne School of Business, University of Calgary is gratefully acknowledged. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.03251 .",
+            "abstract_zh": "",
+            "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "How Does Health Insurance Affect Firm Employment and Performance? Evidence from Obamacare",
+            "title_en": "A Flash in the Pan(Demic)? Migration Risks and Municipal Bonds",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.03761",
-            "abstract_en": "This article discusses how mandating employers to provide health insurance of a minimum quality and the associated increases in health insurance premia affect firm employment and performance. Using firm-level employee health insurance data around the passage of the Patient Protection and Affordable Care Act (PPACA), we show that the PPACA is associated with a significant increase in health insurance premia for employees in company-sponsored health insurance plans. In response, employers with greater exposure to the PPACA reduce employee enrollments in their health insurance plans to a larger extent after the law’s enactment. Our analysis suggests that employers achieve this reduction in enrollment by shifting employment composition from full-time employees to part-time, temporary, or seasonal workers, who are not covered in employer-sponsored health insurance plans. Furthermore, we find no evidence of deterioration in performance at companies more exposed to the increase in health insurance premia. Overall, our findings illustrate how firms adapt to and mitigate cost increases associated with regulatory changes through strategic labor practices. This paper was accepted by Lin William Cong, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03761 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.02674",
+            "abstract_en": "We show that migration induced by the COVID-19 pandemic significantly predicts changes in municipal bond yields. Negative migration shocks have made debt more expensive, especially in the areas and bonds most exposed to the work-from-home (WFH) transition. Over the full sample, a one-standard-deviation increase in COVID period out-migration predicts an approximate 4.5-basis-point rise in municipal bond yields, after controlling for a range of local economic factors including state- or core-based statistical area (CBSA)-year fixed effects. This effect is 40% larger for areas in the top decile of WFH exposure and approximately twice as large for transportation-backed bonds. Moreover, areas containing the most exposed bonds (i.e., those with out-migration and high WFH exposure) also experience relatively large post-COVID declines in municipal revenue. Overall, our results suggest that investors have changed their estimates of the level or uncertainty of municipalities’ future cash flows, especially for areas and bonds most exposed to the transition toward remote work. This paper was accepted by Bo Becker, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02674 .",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
+            ]
+          },
+          {
+            "title_en": "Redesigning VolunteerMatch’s Search Algorithm: Toward More Equitable Access to Volunteers",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.03838",
+            "abstract_en": "In collaboration with VolunteerMatch (VM)—the world’s largest online platform for connecting volunteers with volunteering opportunities—we designed and implemented a new display ranking algorithm. VM’s original ranking algorithm was intended to maximize efficiency (i.e., the total number of connections), but as a consequence, it repeatedly displayed the same few opportunities at the top of its ranking, effectively limiting access to volunteers for the other opportunities. To incorporate VM’s desire for equity (defined as the weekly number of opportunities with at least one connection) along with efficiency, we propose a modeling framework for online display ranking in settings where it is important to manage the trade-off between the total number of connections and the equitable allocation of these connections. We take an adversarial approach in evaluating the performance of online algorithms and show that a class of algorithms that applies a penalty to opportunities after each connection provides a strong (and, in certain regimes, optimal) performance guarantee. Inspired by our theoretical results yet mindful of practical considerations on VM’s platform, we propose SmartSort, a simple score-based ranking algorithm that enjoys comparable guarantees in many regimes. We implemented SmartSort in two experiments, covering Dallas–Fort Worth and all of Southern California. Using a difference-in-differences analysis, we find that the implementation of SmartSort led to an estimated 8% increase in the weekly average number of opportunities with at least one connection (consistent across both experiments) without any significant decrease in the total number of connections. If SmartSort has a similar distributional effect on a national scale, an additional 30,000 connections every year will go to opportunities that would have otherwise lacked access to volunteers. This paper was accepted by Omar Besbes, revenue management and market analytics. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03838 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Contextual Offline Demand Learning and Pricing with Separable Models",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.04026",
+            "abstract_en": "This paper, inspired by a collaboration with a leading consumer electronics retailer in the Middle East, explores the challenge of demand learning and pricing using separable demand models. The data scarcity issue, characterized by limited price changes and low sales volumes, renders traditional models ineffective in deriving reasonable price elasticity. To address this issue, we advocate a separable model that leverages two submodels to distinctly capture the effects of price and contextual information. The separable structure enables us to invest special emphasis on the role of price and impose specific structural assumptions on the submodel for pricing effects, such as the monotone decreasing property. Theoretical analysis sheds light on the statistical complexity of demand learning with the separable structure, highlighting its capacity to reduce the necessary sample size to achieve a desired level of accuracy. We also introduce a computationally efficient iterative algorithm for deriving submodels from offline datasets, complete with convergence guarantees. In an empirical context, we demonstrate how our method can yield meaningful price elasticity estimations and revenue increase based on real sales data from the retailer. This paper was accepted by J. George Shanthikumar, data science. Funding: This work was supported by funding from the MIT Data Science Lab, Hong Kong Research Grants Council (RGC) General Research Fund [CityU11508223], and Hong Kong Research Grants Council (RGC) Early Career Scheme [CityU21505825]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04026 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Evaluating the Impact of Privacy Regulation on E-Commerce Firms: Evidence from Apple’s App Tracking Transparency",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.06600",
+            "abstract_en": "Assembling novel data sets on online advertiser spending, performance, and revenue, we quantify the economic effects of Apple’s App Tracking Transparency (ATT) privacy policy on e-commerce firms. We find that conversion-optimized Meta advertisements, affected most by ATT, saw a 37% reduction in click-through rates after ATT. Although firms responded by shifting ad spending from Meta to the Google ecosystem, firms with higher baseline Meta dependence nevertheless experienced a substantial decline in firm-wide revenue relative to firms with lower baseline Meta dependence. We quantify these effects using a variety of methods, finding revenue decreases in the range between 8% and 40% relative to less exposed firms. These declines were primarily borne by smaller e-commerce firms, raising questions about the tradeoffs between consumer privacy and the ability of smaller e-commerce and direct-to-consumer firms to succeed in the product market. This paper was accepted by Jean-Pierre Dube, marketing. Funding: This work was supported by the LEC Program on Economics & Privacy, MSI Research Grant [4001820]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06600 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
             ]
           }
         ],
@@ -1528,83 +1509,11 @@
         "query_name": "Journal of Business Venturing",
         "issn": "0883-9026",
         "resolved_name": "Journal of Business Venturing",
-        "issue_title": "Volume 41, Issue 5",
+        "issue_title": "Volume 41, Issue 6",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
-        "matched_count": 7,
-        "total_in_issue": 13,
-        "papers": [
-          {
-            "title_en": "Navigating moral boundaries: How entrepreneurs manage stigma premiums in morally contested markets",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106622",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Chronos meets Kairos: The strategic enactment of time in corporate entrepreneurship",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106627",
-            "abstract_en": "This study extends current knowledge on time and temporal work in entrepreneurship by exploring how corporate entrepreneurs navigate the temporal complexity underlying their situated entrepreneurial endeavors. By drawing on a sample of corporate entrepreneurs operating in large and established Finnish organizations, I develop a model of temporal work which unpacks the practices that corporate entrepreneurs skillfully deploy to leverage and influence the temporal structures that condition their entrepreneurial work. Moreover, the study elucidates the nature of time—represented by the two opposing temporal ‘forces’ of chronos and kairos underlying corporate entrepreneurship—as a pivotal element at play in corporate entrepreneurial processes, further illuminating the consequences of such temporal work for corporate entrepreneurs and their employing firms.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "A romantic penalty? Female entrepreneurship and relationship initiation in online dating",
-            "title_zh": "浪漫的代价？女性创业与在线约会中的关系开始",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106608",
-            "abstract_en": "Female entrepreneurship is increasingly common, yet we know little about how it affects women's romantic prospects, a crucial outcome with implications for family formation. We propose that female entrepreneurs, particularly those pursuing growth-oriented ventures, face diminished romantic prospects, potentially shaped by gendered trait inferences and concerns about time demand. Using two field experiments, supplemented by a survey experiment, we provide causal evidence that female entrepreneurs are on average penalized in romantic relationship initiation, but are preferred by male entrepreneurs. Further analysis offers suggestive evidence on mechanisms underlying this romantic penalty. By examining the impact of female entrepreneurship on romantic prospects, our study extends the family embeddedness perspective in entrepreneurship research. It also contributes to female entrepreneurship research by documenting a romantic penalty as a previously underexplored challenge.",
-            "abstract_zh": "女性创业日益普遍，但我们对其如何影响女性的浪漫前景知之甚少，这是一个对家庭形成具有重要影响的关键结果。我们提出，女性创业者，特别是那些追求增长导向型企业的女性，面临减少的浪漫前景，可能受到性别化特质推断和对时间需求的担忧的影响。通过两个现场实验，辅以一项调查实验，我们提供了因果证据，表明女性创业者在浪漫关系启动中平均受到惩罚，但受到男性创业者的青睐。进一步分析提供了关于这种浪漫惩罚背后机制的暗示性证据。通过检查女性创业对浪漫前景的影响，我们的研究扩展了创业研究中的家族嵌入视角。它还通过记录浪漫惩罚作为一种以前未充分探讨的挑战，为女性创业研究做出了贡献。",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Migrating to a golden opportunity: The gold rush and the roots of persistence of interregional differences in entrepreneurship",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106626",
-            "abstract_en": "Regional differences in entrepreneurship are persistent over time. However, little is known about the historical roots of this persistence and the mechanisms linking these roots to entrepreneurial activity over time. In this paper, we aim to explore the persistence of regional entrepreneurship in the U.S., which we trace back to the gold rushes of the 19th century. In this exploratory paper, our focus is mainly on the migration of entrepreneurially minded individuals as a mechanism through which the gold rush influenced entrepreneurship over time. We find empirical evidence of selective migration from entrepreneurial regions and from individuals employed in entrepreneurial occupations to gold rush counties over a period of 100 years. Moreover, migration to the gold rush counties made people more entrepreneurial compared to both migrants moving elsewhere and non-migrants. We also find some evidence that states strongly affected by the gold rush have in contemporary times more entrepreneurship-friendly laws and regulations as well as a more entrepreneurial culture. Lastly, we show that gold rush regions, compared to neighboring regions without a gold rush, have persistently higher entrepreneurship rates from the earliest available data in 1910 to the present. Taken together, our analyses indicate that the gold rush and subsequent migration patterns had a long-term positive effect on entrepreneurship.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Aspirations, performance feedback, and informal entrepreneurs' decision to formalize",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106620",
-            "abstract_en": "We develop a theory explaining the conditions influencing entrepreneurs' decisions to formalize versus remain informal. Building on the behavioral theory of the firm, we argue that formalization is a viable strategy for informal entrepreneurs with growth needs who perform below opportunity-based aspirations to generate new sources of revenue, and for entrepreneurs with survival needs who perform above necessity-based aspirations to secure a durable livelihood. Conversely, entrepreneurs performing above their opportunity-based aspirations avoid formalization to maintain informal advantages, whereas entrepreneurs performning below their necessity-based aspirations perceive survival as particularly salient and thus avoid formalization. Moreover, the likelihood of formalizing, as a function of the performance relative to both necessity- and opportunity-based aspirations, is moderated by the level of meso-institutional support for formalization. We contribute by conceptualizing formalization as a complex strategic decision surrounded by severe uncertainty with important consequences for informal entrepreneurship. This reconceptualization enables us to frame aspirations as an important source of heterogeneity among informal entrepreneurs, shaping how they evaluate and respond to the prospect of formalization.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Compassion and passion: Exploring beneficiary wealth destruction in social entrepreneurship",
-            "title_zh": "同情与激情：探索社会创业中的受益者财富破坏",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106607",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Skin lightening: The process of exploiting colorism-based opportunities",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106618",
-            "abstract_en": "People with dark skin can be discriminated against, generating various adverse outcomes for them. Due to this colorism, entrepreneurs have exploited colorism-based opportunities—products and services that lighten skin color. Through an inductive qualitative study of skin-lightening businesses and their customers in cities across India, we move beyond supply and demand economics to theorize the psychological and social drivers that motivate people to treat the symptoms of this discrimination (yet, in doing so, reinforce this discrimination and exacerbate income inequality). Therefore, the study contributes to the entrepreneurship literature with new research on the process of exploiting colorism-based opportunities and their positive and (unintended) negative consequences. Executive summary We set out to explore the business of skin lightening. The skin-lightening industry is large in scale and scope. Entrepreneurs and their customers aim to lighten skin color to avoid or minimize colorism. Colorism is a “social hierarchy based on gradations of skin tone within and between racial/ethnic groups” ( Glenn, 2008 : 2811) in which individuals with darker skin are disadvantaged compared to those with lighter skin. While there is substantial research on racism, in comparison, research on colorism is limited, especially on how entrepreneurs exploit opportunities to alleviate some of the discrimination their customers face because of their darker skin color. We use the term colorism-based opportunity to refer to a situation in which an entrepreneur can offer a product or service to reduce how much an individual is perceived (by themselves and others) as inferior because of their darker skin tone.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 1,
+        "papers": [],
         "error": null
       },
       {
@@ -1614,9 +1523,20 @@
         "resolved_name": "Technovation",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 5,
-        "total_in_issue": 6,
+        "matched_count": 12,
+        "total_in_issue": 13,
         "papers": [
+          {
+            "title_en": "Unpacking how integrator state-owned enterprises respond to institutional demand tensions in complex product systems innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103663",
+            "abstract_en": "As hybrid organizations situated at the nexus of market and state logics, integrator state-owned enterprises (SOEs) face the daunting challenge of navigating competing institutional demands. In the process of CoPS innovation, such tensions coalesce into a persistent trade-off between legitimacy and autonomy. Drawing on an inductive multiple-case study of three large integrator SOEs operating in two representative CoPS domains in China, this study examines how these firms respond to legitimacy–autonomy tensions across different phases of CoPS innovation. We identify two response strategies, namely, aggregate projection and parallel coordination , that address goal conflicts in the goal-setting phase and means conflicts in the resource-allocation phase, respectively. Moreover, we propose a theoretical model illustrating how these mutually constitutive response strategies jointly enable integrator SOEs to secure legitimacy while preserving autonomy in achieving CoPS innovation. These findings deepen the scholars’ understanding of organizational responses to institutional demands, while also contributing to literature on CoPS innovation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
+            ]
+          },
           {
             "title_en": "From circularity to sustainability: Leveraging Industry 4.0 for circular and supply chain resilience",
             "title_zh": "",
@@ -1625,6 +1545,27 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Coopetitive portfolio configurations for product innovation: A crisp-set Qualitative Comparative Analysis",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103656",
+            "abstract_en": "Firms create and manage coopetitive portfolios (i.e., alliance portfolios including competitors) to foster product innovation, as they provide access to various complementary but also compatible resources and knowledge that are essential for innovation. The presence of competitors in coopetitive portfolios can create specific synergies but also conflicts with other partners that could enhance or limit the occurrence of product innovation. To understand under which combinations of partner types in a coopetitive portfolio product innovation can occur, we use a crisp-set Qualitative Comparative Analysis (csQCA) on a sample of 921 Dutch firms in the period 2010-2016. We show that alliances with competitors are complementary with customer alliances in promoting the occurrence of product innovation. In addition, our analysis reveals that when ties with universities are present in a coopetitive portfolio, suppliers must be present as well to introduce new products. Finally, we highlight that coopetitive portfolio configurations leading to product innovation vary according to the focal firm's size and industry dynamics.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Navigating codified, tacit and novel rules: Mapping the human-AI creativity frontier",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103660",
+            "abstract_en": "This paper examines the boundary between human and machine creativity by analysing 593 tasks across 126 occupations in the cultural and creative industries. Theoretically, we propose an evolutionary conceptualisation of creativity, structured around three rule types corresponding to retention (codified), adoption (tacit), and origination (novel) phases. Empirically, using GPT-4, we generate synthetic annotations of the semantic content of task descriptions in the Australian Skills Classification. We derive indicators of cognitive and behavioural rules within tasks and their carriers (human, AI, or hybrid human-AI) to capture creativity, and indicators of AI autonomy feasibility and efficiency potential to capture GenAI exposure scenarios. The agent-rule matching suggests a specialisation of agents in carrying defined, tacit, or novel rules, as well as two mechanisms. The first is the structured novelty effect, whereby AI autonomy feasibility is higher when defined cognitive rules combine with novel rule creation. The second is the tacit knowledge boundary, whereby tacit rules are negatively associated with AI autonomy feasibility. In our interpretation, these mechanisms reflect an efficacy logic (matching the right agent to each rule type) that differs from an efficiency logic (optimising technically feasible gain potentials). Combining both logics, we derive a simulated classification of tasks into three categories. The mixed category, involving hybrid carrier configurations, predominates (86.3%), alongside limited replacement (2.7%) and AI immune (11.0%) categories. We identify two levels of human-AI complementarity. The first lies in rule types within tasks and engages different forms of creativity (combinatorial, exploratory, transformational). The second concerns efficiency potential when performing tasks.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           },
           {
@@ -1648,6 +1589,40 @@
             ]
           },
           {
+            "title_en": "Digital platform archetypes as catalysts for circular economy innovation in technology industries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103685",
+            "abstract_en": "Digital platform technologies are reshaping traditional linear value chains and are increasingly positioned as primary facilitators of circular economy implementation in electronics manufacturing. This study investigates how leading manufacturers, including Apple, Samsung, Xiaomi, and Dell, use digital platforms to support circular strategies through a comparative multi-case analysis of electronics platform archetypes. The analysis identifies two distinct digital platform archetypes. Premium integrated ecosystems, represented by Apple and Samsung, target higher-value consumer segments and emphasise component integration, lifecycle control, and tightly governed proprietary platforms. These models prioritise repair, refurbishment, and lifecycle extension within highly integrated product–service systems. In contrast, accessible ecosystem orchestrators, such as Xiaomi and Dell, promote broader participation across partners and users, focusing on asset management, service modularity, and affordability for price-sensitive consumers and business clients. The findings highlight how platform design influences circular outcomes, with governance structures, business models, and digital infrastructure needing alignment with market positioning and user needs. Overall, the paper contributes to research on digital platforms and circular business models by clarifying how platform archetypes shape pathways toward more circular electronics systems.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Brokerage, power and individual innovation: When do brokers act on their structural advantage?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103662",
+            "abstract_en": "Prior research has found that brokers, those who stand between two disconnected parties, may access non-redundant information that is conducive to higher innovation. However, research has also shown that occupying brokering network positions does not systematically translate into higher innovation; in other words, brokers do not always exploit such structural opportunity. To better understand the conditions under which brokers innovate, we adopt a contingency approach and theorize that the relationship between brokerage and individual innovation is contingent on individuals’ perception of their power over alters, an important aspect of individuals’ representation of the situation they are in. Using a social network analysis at a consulting and training organization in The Netherlands, we found support for our theory: employees perceiving higher power over alters achieved higher innovation in brokering network positions than employees in these positions who perceived lower power over alters.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Teaching to learn and learning to teach: using machine training to develop artificial intelligence partners in new product development",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103661",
+            "abstract_en": "Artificial intelligence (AI) is increasingly shaping how innovation is developed, and new product development (NPD) is an important domain at the centre of this shift, given its data-rich, high-uncertainty contexts. In this paper, we focus on the design and training of AI systems in which human expertise is encoded into machine models and the future scope of human and machine agency is determined. Drawing on organizational learning theory, we argue that training strategies defining who provides labels, which data are used, and how feedback is generated and reused, constitute design decisions that differ in how feedback is recursively structured, where knowledge is located, and how deeply expert judgment is codified. We develop and test three strategies, experiential, nudging, and generative, and instantiate them through computational simulations in the domain of geotechnical services for underwater exploration. We further assess the cross-context portability of the most effective strategy by redeploying the trained model in a second NPD setting. Our results show that strategies that recursively incorporate expert feedback across training cycles produce reliable, transferable models, whereas those that decouple human expertise from the training process converge prematurely on narrow solution spaces. These findings suggest that how firms structure the training of AI systems directly shapes model reliability and transferability, and provide a basis for theorizing how organizational routines, competencies, and relational forms of AI agency may develop as AI systems become embedded in NPD processes.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "The low-value trap: Sustaining multi-actor collaboration across problem spaces in emerging technology commercialization",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103657",
@@ -1666,6 +1641,17 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "The innovators scalpel: A knowledge-based view of corporate divestitures &amp; technological performance",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103664",
+            "abstract_en": "Extensive research examines how firms expand their knowledge bases through alliances and acquisitions. Considerably less attention has been paid to how firms reshape their knowledge bases through divestitures. Drawing on the Knowledge-Based View (KBV), we conceptualize divestitures as mechanisms through which firms reconfigure the structure and governance of their knowledge bases. We argue that, on average, divestitures are associated with weaker technological performance because they reduce the size of firms’ knowledge bases, disrupt innovation routines, and create organizational uncertainty. However, we also argue that this negative association is weakened, and in some cases reversed, when divestitures increase knowledge coherence, reduce knowledge dispersion, or lower coordination burden. We test our hypotheses using a sample of 919 unique firms in four high-tech industries that announced 1794 divestitures and filed 414,128 patent applications over a 15-year period. Our findings show that while divestitures are, on average, associated with lower innovation output, this association depends on the form of knowledge complexity divestitures remove. Knowledge Coherence conditions patent quality and breakthrough inventions, but only at relatively high levels of coherence, observed in 12.2% and 20.2% of divesting firm-years, respectively. Knowledge Dispersion conditions patent quantity and patent quality at more moderate levels, observed in roughly one-quarter of divesting firm-years. Coordination Burden shows the broadest pattern, conditioning all three innovation outcomes and exceeding the relevant thresholds in more than 60% of divesting firm-years. In doing so, our study contributes to the corporate strategy and innovation literatures by showing that divestitures are not merely acts of scale reduction, but can function as knowledge-based boundary choices that reshape technological performance by selectively cutting away excess complexity.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
             ]
           }
         ],
@@ -1789,9 +1775,19 @@
         "resolved_name": "Journal of Health Economics",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
-        "matched_count": 1,
-        "total_in_issue": 2,
+        "matched_count": 3,
+        "total_in_issue": 4,
         "papers": [
+          {
+            "title_en": "Hospital Billing Regulations and Financial Well-being: Evidence from California’s Fair Pricing Law",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jhealeco.2026.103173",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
           {
             "title_en": "The effect of health insurance expansion on price and demand for medications among the uninsured",
             "title_zh": "",
@@ -1800,6 +1796,17 @@
             "abstract_zh": "",
             "matched_topics": [
               "医药产业"
+            ]
+          },
+          {
+            "title_en": "Consolidation of Local Health Authorities and mortality in the Italian NHS",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jhealeco.2026.103174",
+            "abstract_en": "This paper studies the health consequences of administrative centralization in healthcare, focusing on the consolidation of Local Health Authorities (LHAs) within the Italian National Health Service. This type of reform fits within a broader set of cost-containment efforts aimed at reducing administrative expenditures and exploiting economies of scale. In the Italian case, the reform centralized governance and expanded the scale of health administration, creating authorities with substantially larger catchment areas and shifting decision-making to more heterogeneous jurisdictions. Such changes may affect the responsiveness of healthcare provision to local needs, the coordination of service delivery, and access to care. Using an event-study Difference-in-Differences design, we estimate the policy’s impact on municipal mortality rates, accounting for heterogeneous treatment effects and co-occurring fiscal adjustment policies. We find a significant increase in mortality starting four years after implementation, with an average treatment effect on the treated of 2.1%. The effects are concentrated in municipalities belonging to absorbed LHAs and in those exposed to mergers involving relatively large pre-reform LHAs and substantial post-merger expansions in catchment areas; they are also unevenly distributed, creating new vulnerable areas. Welfare estimates based on life-years lost indicate that the monetary costs of increased mortality exceed plausible administrative savings by roughly an order of magnitude.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
+              "创新药"
             ]
           }
         ],
@@ -2109,66 +2116,26 @@
         "query_name": "Health Affairs",
         "issn": "0278-2715",
         "resolved_name": "Health Affairs",
-        "issue_title": "Volume 45, Issue 7",
+        "issue_title": "Volume 45, Issue 8",
         "issue_url": "https://www.healthaffairs.org/journal/hlthaff",
-        "matched_count": 7,
-        "total_in_issue": 15,
+        "matched_count": 11,
+        "total_in_issue": 16,
         "papers": [
           {
-            "title_en": "Prior Authorization In Medicare Advantage: Beneficiary Exposure And Plan Disenrollment In 2021",
+            "title_en": "The Economics Of Orphan Blockbuster Drug Development",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01373",
-            "abstract_en": "Medicare Advantage plans use prior authorization to manage health care use. In recent years, these practices have come under intense scrutiny from policy makers. Using beneficiary enrollment data and contract-level prior authorization data from 2021, we documented three facts about prior authorization in Medicare Advantage. First, beneficiaries who live in different areas of the country enrolled in contracts with widely varying prior authorization rates. Second, Hispanic, Asian, Black or African American, and dual-eligible beneficiaries were disproportionately likely to enroll in plans with high prior authorization rates. Third, beneficiaries enrolled in contracts with higher prior authorization rates were more likely to disenroll from their contract-moving either to another Medicare Advantage contract or to traditional Medicare-than beneficiaries in contracts with lower prior authorization rates. Beneficiaries exposed to the highest quartile of prior authorization rates were 4.7 percentage points more likely to disenroll than beneficiaries exposed to the lowest quartile, a 44 percent difference. Higher disenrollment may suggest that beneficiaries are dissatisfied with plans that have higher prior authorization rates. Reducing overall rates of prior authorization could improve beneficiary retention in the Medicare Advantage program.",
+            "url": "https://doi.org/10.1377/hlthaff.2026.00209",
+            "abstract_en": "The Medicare Drug Price Negotiation Program exempts or delays negotiation for drugs with orphan indications. Whether these protections are necessary to sustain orphan drug development is unclear. We compared clinical trial costs, worldwide revenues, and time to cost recovery for 167 drugs projected to exceed $200 million in annual Medicare spending, classified by orphan status: exempt under the Inflation Reduction Act (IRA); exempt under the One Big Beautiful Bill Act (OBBBA); subject to delay under the OBBBA; and not orphan or not qualifying for exemption or delay. Overall, 94 percent recovered clinical trial costs within ten years of global launch. IRA-exempt drugs were younger, had lower trial costs but comparable revenues, and recovered costs more quickly than nonqualifying drugs. OBBBA-exempt and OBBBA-delayed drugs did not differ significantly from nonqualifying drugs. Drugs benefiting from orphan protections recovered development costs at rates comparable to or faster than those of nonqualifying peers, calling into question the need to protect blockbuster orphan drugs from negotiation.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Trends In Care Needs Among Older US Adults Diverged By Age, 2011–22",
+            "title_en": "Highly Novel Drugs Outperformed Less Novel Drugs In Gross And Net Revenues In The US, Driven Primarily By Utilization, 2013–19",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01355",
-            "abstract_en": "Changing late-life disability and care patterns that may accompany population aging have profound consequences for the nation's health and related public policies. Drawing on two cross-sectional rounds of the National Health and Aging Trends Study, we examined trends among US adults ages 65 and older in 2011, when the oldest members of the baby-boom generation turned age 65, and in 2022, when about half of the generation was ages 65-74. We found increases in the percentage of adults ages 65-74 who reported activity limitations, receiving paid care in the community, and having unmet care needs. In contrast, for older age groups, we found declines in the receipt of care overall and in residential settings, particularly nursing care, without increases in unmet care needs. All else equal, had the sociodemographic and health profile of the group ages 65-74 not differed from the preceding cohort-especially in terms of increased educational attainment-the increases experienced by this age group would have been even larger. Findings portend growing challenges in caring for older US adults in the future.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Long-Acting Injectable Buprenorphine: Uptake Was Rapid But Uneven, 2021–24",
-            "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01584",
-            "abstract_en": "We analyzed nationwide IQVIA pharmacy buprenorphine prescription episodes to characterize patterns, prescribers, and payers of long-acting injectable buprenorphine during the period 2021-24. Among 2,266,202 episodes, 41,488 (1.83 percent) were identified as being initiated with long-acting injectables, varying greatly across states. By 2024, Medicaid emerged as the most likely payer (71 percent of episodes), and most long-acting injectable episodes were prescribed by advanced practice clinicians such as nurse practitioners (62 percent).",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "The South Had The Lowest Rates Of Hospice And Palliative Medicine–Certified Providers In The US, 2024",
-            "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01485",
-            "abstract_en": "To improve access to care for serious illness, policy makers need evidence on how workforce capacity aligns with the need for palliative care. This study evaluated the palliative care workforce and policy environments at the state level, using a new data source: the 2024 Center to Advance Palliative Care's comprehensive Serious Illness Scorecard. We describe variation in the palliative care workforce relative to serious illness deaths across states and by five policy types related to serious illness: serious illness task forces, continuing medical education (CME), pediatric Medicaid waivers, adult payment policies, and Medicaid expansion. States varied from 2.91 to 19.86 hospice and palliative medicine-certified providers per 1,000 serious illness deaths, and seven states in the South census region had the lowest rates. CME for serious illness care and Medicaid expansion were significantly associated with higher rates. Between-state variation raises concerns about whether the workforce is sufficient to meet needs for people with serious illness in some southern states.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Black Patients Underdiagnosed With Long COVID In The US Compared With White Patients",
-            "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.00179",
-            "abstract_en": "Long COVID has debilitating effects but is inconsistently diagnosed because of subjective criteria, limited treatments, and variations in health care access. We analyzed electronic health records from the National Clinical Cohort Collaborative for patients diagnosed with acute COVID-19 in the US between January 2022 and March 2023. Using six race and ethnicity categories, we evaluated 222 symptoms and long COVID diagnoses (International Statistical Classification of Diseases and Related Health Problems, Tenth Revision, code U09.9) within twelve months after infection. We assessed the relationship between race and ethnicity and long COVID diagnosis, adjusting for patient covariates and long COVID symptomatology set to the presence of at least one documented long COVID-associated symptom. Among 2.4 million patients, Black patients were less likely to be diagnosed with long COVID than White patients under a scenario in which a symptom was present and health care monitoring was at least bimonthly. For the remaining racial and ethnic groups, we found no statistically significant differences in long COVID diagnoses compared with White patients. Although the magnitude was small, the difference in diagnosis likelihood suggests the presence of potential diagnostic bias.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Access To Community Pharmacies Associated With Reduced Racial And Ethnic Disparities In Use Of Prescription Drugs, 2010–19",
-            "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01459",
-            "abstract_en": "Racial and ethnic disparities in access to medicines persist across the US. Community pharmacies serve as critical access points for prescription drugs, yet their availability varies widely, potentially contributing to health disparities. We estimated the share of the population living within ten minutes of a community pharmacy across counties, by race and ethnicity, during the period 2010-23. We linked these measures to race and ethnicity-specific, state-level estimates of age- and prevalence-standardized medication use for twenty-seven health condition categories through 2019. A 1 percent increase in people living within ten minutes of a community pharmacy at the state level was associated with 0.7 percent higher use of medications per prevalent case. This association was strongest for Asian/Pacific Islander, Black, and Hispanic populations. In addition, a 1 percent increase in ten-minute community pharmacy access was associated with a 0.52 percent decrease in racial and ethnic disparities in medication use. These findings suggest that uneven community pharmacy access may exacerbate racial and ethnic disparities in medication use. Policy makers seeking to improve medication access should consider targeted interventions to preserve or expand pharmacy availability for underserved communities.",
+            "url": "https://doi.org/10.1377/hlthaff.2026.00054",
+            "abstract_en": "Whether US pharmaceutical markets reward novel therapies more than incremental follow-on drugs remains unclear. We examined trends in prescription drug revenues across three dimensions of pharmacological novelty-molecular structure, therapeutic target, and delivery properties-using a retrospective analysis of branded small-molecule drugs approved by the Food and Drug Administration and marketed between 2000 and 2019. Novelty measures derived from ChEMBL, a comprehensive database of bioactive molecules with druglike properties, were linked to nationally representative utilization and spending data from the Medical Expenditure Panel Survey, with rebate-adjusted net revenues estimated using SSR Health data. Beginning around 2013, gross and net revenues rose disproportionately for highly novel drugs across all three dimensions of novelty, whereas revenues for medium- and low-novelty drugs remained relatively stable. From 2013 to 2019, mean gross revenue more than tripled for drugs with high molecular or target novelty and more than doubled for those with high delivery novelty. These revenue gains were associated with increased prescription volume, rather than higher prices. The timing of this divergence coincided with the expansion of pharmacy benefit managers' formulary exclusion policies, which may have reduced the usage of drugs with close substitutes and increased market returns to pharmacological novelty.",
             "abstract_zh": "",
             "matched_topics": [
               "医药产业",
@@ -2176,10 +2143,94 @@
             ]
           },
           {
-            "title_en": "IRA Reforms To Medicare Part D Reinsurance Were Associated With Plan Exits And Higher Premiums, 2024–25",
+            "title_en": "The Expanded Child Tax Credit: Highest Burdens, Smallest Improvements Among Low-Income, Female-Headed Households",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01518",
-            "abstract_en": "The Inflation Reduction Act (IRA) of 2022 altered the financing of prescription drug purchases for more than fifty-five million Medicare beneficiaries. Before 2025, the federal government contributed 80 percent of expenditure after a beneficiary exceeded a threshold, but beginning in 2025, this share was reduced to 20 percent. We studied the effect of the reinsurance reforms on exit, premium, and benefit design for free-standing Medicare Part D plans. We found that after the reforms, previous reinsurance payments became a strong predictor of plan exit. In a first look at the 2025 Medicare Part D Premium Stabilization Demonstration, we found that plans with higher pre-IRA reinsurance were more likely to receive the demonstration's targeted subsidy. However, plans with higher pre-IRA reinsurance increased premiums substantially in 2024 and 2025, even after the demonstration subsidies. Finally, we found no significant relationship between pre-IRA reinsurance and benefit design outcomes (for example, coverage and out-of-pocket spending). Together, our findings highlight the role of reinsurance reform in recent Part D market volatility.",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01656",
+            "abstract_en": "The 2021 expansion of the Child Tax Credit provided advance monthly cash transfers to most US households with children. Although prior evaluations documented overall improvements in household well-being, less is known about variation by household structure. This study examined policy-period changes in parental mental health and material hardship among female-headed households. Using data from 1.3 million respondents to the Census Bureau's Household Pulse Survey (2020-25) and an intersectional framework, we applied difference-in-differences and multilevel models to estimate changes in parental mental health and material hardship before, during, and after expanded Child Tax Credit implementation. Non-female-headed households showed improvements in depression, anxiety, and housing insecurity, whereas female-headed households, particularly those with low incomes and Black, Hispanic, and Asian households, showed smaller or no comparable gains. Food insecurity did not improve across groups. Intersectional analyses showed that the highest burdens and smallest improvements were concentrated among low-income, female-headed households across racial and ethnic groups. Findings suggest that the expanded Child Tax Credit did not fully close baseline disparities, underscoring the importance of household structure and intersecting social positions in policy design and evaluation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "National Trends In US Opioid-Related Hospitalizations, 2016–23",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01754",
+            "abstract_en": "The opioid crisis has remained a public health challenge in the US for more than two decades. After increasing from 2002 to 2012, opioid-related hospitalizations decreased from 2016 to 2019, but more recent trends are unknown. We sought to determine trends in incidence and outcomes of US opioid-related hospitalizations in recent years. We conducted a serial cross-sectional study of adult primary and secondary opioid-related hospitalizations, using the 2016-23 National Inpatient Survey and regression models, annual percent change, and z-tests to examine change during the study period. Measures included annual opioid-related hospitalizations, hospital stay outcomes, and sociodemographic characteristics. Among the 1.48 million opioid-related hospitalizations during 2016-23, survey-weighted to 7.42 million, 0.93 million were classified as primary and 6.49 million as secondary opioid-related hospitalizations. Hospitalizations decreased through 2023 for all groups except patients who were Hispanic or Native American, who reported Medicaid as their payer, or who were older than age sixty-five. The greatest decline occurred among people younger than age thirty-five. The proportion of hospitalizations ending in death and self-directed discharge increased by 0.58 percentage points and 2.68 percentage points, respectively. Overall, differential reductions in opioid-related hospitalizations and increasing mortality and self-directed discharge highlight opportunities for interventions.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "The Elephant In The Room",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2025.00257",
+            "abstract_en": "To be a Black mother: living within the gaps of health care.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Most Hospitals With Vertically Integrated MA Plans Charge Similar Prices To Affiliated And Unaffiliated Plans",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01475",
+            "abstract_en": "Vertical integration between Medicare Advantage (MA) plans and hospital providers is increasingly common, but little is known about how vertically integrated plans pay affiliated providers for medical services. Providers may accept lower prices from affiliated plans to give those plans a competitive edge in the MA market. Conversely, plans may pay vertically integrated providers higher prices to increase their medical loss ratios-a measure of revenues spent directly on health care required by the Centers for Medicare and Medicaid Services. Using a novel data set of vertically integrated MA plans matched with negotiated hospital pricing data, we found that in 2024, 66-73 percent of hospitals charged similar prices to affiliated and unaffiliated plans, but prices differed at a sizeable minority of hospitals. On average, affiliated plan prices were 5.3 percent higher than unaffiliated plan prices for the same procedure at the same hospital. Affiliated plan prices were higher relative to unaffiliated plan prices in the inpatient (rather than outpatient) setting, in more concentrated MA markets, and where MA hospital prices were lower relative to traditional Medicare hospital prices. Our results suggest that vertically integrated MA plans behave differently from standard MA plans, but strategies vary by market and hospital characteristics.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Hospice Acquisitions By Certain Firms And Corporations Were Associated With Reductions In Care Intensity, 2010–21",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01535",
+            "abstract_en": "The rapid growth of private equity (PE) and publicly traded corporation (PTC) ownership in hospice has raised concerns that investor-driven profit incentives may undermine care quality. Evidence on how these acquisitions affect care delivery remains limited. We linked a national PE and PTC acquisition database to Medicare claims for a beneficiary sample for the period 2010-21 and used a difference-in-differences event study to compare acquired versus nonacquired for-profit hospices on process-based quality measures and Medicare reimbursement. After PE acquisition, registered nurse, social worker, and home hospice aide minutes per thirty days declined 5.14 percent, 12.32 percent, and 6.62 percent, respectively; after PTC acquisition, registered nurse and home hospice aide minutes per thirty days declined 4.63 percent and 9.09 percent. Declines in visit minutes also were observed in the last seven days of life. Reductions in visit minutes were driven by four large acquirers. These findings highlight the need for increased transparency and oversight policies, as well as payment reforms that align reimbursement with care intensity and quality.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "医药产业"
+            ]
+          },
+          {
+            "title_en": "The Uneven Distribution Of Patient Portal Messages Across Patients And Physicians",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01416",
+            "abstract_en": "Responding to patient-initiated portal messages is a growing source of work for physicians, yet little is known about how these messages are distributed across patients and physicians. Understanding the distribution is critical for developing interventions to reduce burden and for designing reimbursement policy. Using data from 487,442 patients at University of California San Francisco (UCSF) Health and national electronic health record (EHR) metadata from 224,068 ambulatory care physicians in the US, we examined the distribution of patient-initiated medical advice request messages across patients and physicians. The distribution was highly skewed at both the patient and physician levels. The top 5 percent of UCSF Health patients accounted for 52.8 percent of all messages. Among physicians nationally, primary care physicians received a median of 9.6 messages per week, whereas the top quartile received 53.3 messages per week. Physicians with higher visit volume received fewer messages per visit, and higher message volume was associated with greater EHR work outside of work. These findings highlight the need for targeted interventions and payment models that account for the uneven distribution of asynchronous portal-based care.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医药产业"
+            ]
+          },
+          {
+            "title_en": "Profitability Of Infused Biologics For Hospitals And Physician Practices: Case Study Of Keytruda",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2026.00334",
+            "abstract_en": "Physician-administered drugs and biologics account for a growing share of pharmaceutical spending, but they also generate substantial revenues for the hospitals and physician practices that acquire the products at one price and are reimbursed at a higher price. This study analyzed insurer expenditures and provider margins with a focus on Keytruda, the world's largest biologic in terms of sales, using detailed insurer, provider, and market data on 59,717 patients treated in 5,008 hospitals and physician practices. Keytruda expenditures by private insurers increased by 142 percent from 2020 to 2024, while the number of patients using Keytruda increased by 110 percent. Price markups-the ratio of the reimbursement price charged to insurers compared with the acquisition price paid to the manufacturer-averaged 173 percent in hospitals eligible for 340(B) discounts, 78 percent in hospitals not eligible for those discounts, and 16 percent in community-based physician practices. For hospitals eligible for 340(B) discounts, each Keytruda patient was associated with $102,680 in annual revenue, measured through insurer reimbursement, after organizational, patient, and market factors were adjusted for. Each Keytruda patient was associated with $67,825 in revenue at noneligible hospitals and $3,094 in revenue at physician practices.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医药产业",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "MA Dental Plan Enrollment And Generosity Increased, But Continuity Of Coverage Declined, 2010–25",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01470",
+            "abstract_en": "Medicare Advantage (MA) has become a major source of dental coverage for older US adults. However, little is known about enrollment in plans with dental coverage or about the scope and continued availability of coverage over time. Using Centers for Medicare and Medicaid Services Plan Benefit Package and enrollment data, we examined county-level variation in dental plan enrollment, generosity of benefits, and continuity of dental plan availability across conventional MA plans and MA Special Needs Plans (SNPs) during the period 2010-25. Enrollment in conventional MA plans with any dental benefits rose from 50.3 percent in 2010 to 97.1 percent in 2025. Enrollment in SNPs with dental benefits increased from 68.6 percent to 93.5 percent during this period. Among plans continuously available for at least five years, benefit generosity rose after 2019, but plan continuity declined after 2021 as a result of plan exits and the withdrawal of dental benefits. Net losses of insurers offering dental benefits in conventional MA plans were more likely in counties with relatively high percentages of Black and Hispanic residents, in dental Health Professional Shortage Areas, and in areas with midlevel social deprivation. These findings underscore the need for strong oversight of MA dental benefits and strategies to achieve sustained and equitable access to dental coverage.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "ACA Marketplace Take-Up Was High After Facilitated Enrollment In California; Disparities Remained",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01585",
+            "abstract_en": "During the unwinding of the continuous coverage requirements related to the COVID-19 public health emergency in 2023, as an unprecedented volume of consumers were transitioning out of Medicaid, California launched a facilitated enrollment program for people who lost Medicaid and were eligible for subsidized Marketplace coverage. We conducted a survey in 2023-24 to assess coverage outcomes among Californians who lost Medicaid coverage, were assigned to a default plan, and had thirty days to opt in to coverage under the program. Although national surveys indicate high rates of uninsurance after loss of Medicaid, we found that 85 percent of those who were eligible for an Affordable Care Act Marketplace subsidy had some form of health insurance. Among those without other available coverage, nearly two-thirds opted in to a Marketplace plan. People with a high school education or less were least likely to enroll in Covered California, as were those who rated their health status as poor. Even after we accounted for premium amounts, income, education, health status, and language preference, take-up was higher among Asian/Asian American (84 percent) and White (79 percent) people than among Hispanic/Latino (53 percent) and Black/African American (54 percent) people. Our findings indicate that facilitated enrollment interventions should be strengthened to overcome administrative and other burdens that persist among subpopulations.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
