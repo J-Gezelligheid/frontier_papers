@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-09 05:49:01",
+  "updated_at": "2026-08-16 05:14:03",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 301,
+    "fail_count": 304,
     "failed_examples": [
       "Energy Transitions in Regulated Markets :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "Natural gas has replaced coal as the dominant fuel for US electricity generation :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
@@ -699,9 +699,19 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 4,
-        "total_in_issue": 5,
+        "matched_count": 5,
+        "total_in_issue": 8,
         "papers": [
+          {
+            "title_en": "Exporter survival with uncertainty and experimentation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104311",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
           {
             "title_en": "Global production networks and imperfect competition",
             "title_zh": "",
@@ -754,8 +764,8 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 4,
-        "total_in_issue": 14,
+        "matched_count": 5,
+        "total_in_issue": 17,
         "papers": [
           {
             "title_en": "Suing the leviathan: The effect of trans-regional jurisdiction reform on corporate investment",
@@ -795,6 +805,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
+            ]
+          },
+          {
+            "title_en": "Dual-track in the family: How spousal state employment fuels entrepreneurship",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103899",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
             ]
           }
         ],
@@ -996,93 +1016,124 @@
         "query_name": "RAND Journal of Economics",
         "issn": "0741-6261",
         "resolved_name": "The RAND Journal of Economics",
-        "issue_title": "Volume 57, Issue 2",
+        "issue_title": "Volume 57, Issue 3",
         "issue_url": "https://onlinelibrary.wiley.com/journal/17562171",
-        "matched_count": 8,
-        "total_in_issue": 12,
+        "matched_count": 11,
+        "total_in_issue": 16,
         "papers": [
           {
-            "title_en": "Physicians as Persuaders: Evidence from Hospitals in China",
-            "title_zh": "医生作为说服者：来自中国的医院证据",
-            "url": "https://doi.org/10.1111/1756-2171.70041",
-            "abstract_en": "ABSTRACT I estimate a Bayesian persuasion model to examine how financial incentives and asymmetric information shape physician–patient interactions. This approach offers new insights into the role of insurance. First, the model predicts that patients' coinsurance moderates physicians' responsiveness to increases in service fees. This prediction is supported by a difference‐in‐differences analysis using Chinese health insurance claims data with random variation in physicians' reimbursement and patients' coinsurance rates. Second, the model implies that lower coinsurance rates reduce both patient price elasticity and skepticism, increasing the likelihood of physicians misdirecting patients toward unnecessary treatments. Using structural model estimates, I show that for a diagnosis where surgical treatment is discretionary, nearly half of the patients who received surgery would not have done so were they fully informed. Such misdirection from physicians is greater when coinsurance rates decrease, highlighting a new inefficiency channel beyond moral hazard. I decompose the effect of lowering coinsurance into moral hazard and the novel greater misdirection effect. Counterfactual analysis shows that, while patients benefit from lower out‐of‐pocket costs, greater misdirection nearly offsets these welfare gains.",
-            "abstract_zh": "摘要：我估计了一个贝叶斯说服模型，以检验金融激励和信息不对称如何塑造医生与患者之间的互动。这种方法为保险的作用提供了新的见解。首先，模型预测患者的共同保险会调节医生对服务费增加的反应。这一预测得到了使用中国健康保险索赔数据的差异-差异分析的支持，这些数据中医生的报销和患者的共同保险率存在随机变化。其次，模型意味着较低的共同保险率降低了患者的价格弹性和怀疑，增加了医生误导患者接受不必要治疗的可能性。利用结构模型估计，我展示了在诊断中手术治疗是自由裁量的情况下，几乎一半接受手术的患者如果完全知情就不会这样做。当共同保险率降低时，医生的这种误导更大，突出了一个超越道德风险的新效率损失渠道。我将降低共同保险的影响分解为道德风险和新的更大误导效应。反事实分析表明，尽管患者从较低的自付成本中受益，但更大的误导几乎抵消了这些福利收益。",
-            "matched_topics": [
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "Strategic Trading and Blockholder Dynamics",
-            "title_zh": "战略交易与大股东动态",
-            "url": "https://doi.org/10.1111/1756-2171.70040",
-            "abstract_en": "ABSTRACT We study strategic trading by a privately informed blockholder who monitors a company and trades its shares. Private information results in larger block sizes in good states, but by increasing the speed of the blockholder's selling, it can result in lower block sizes in bad states. Despite the heterogeneous impact on expected block size, we show that asymmetric information leads to Pareto improvements: it raises stock prices, benefits small uninformed shareholders, and benefits the block owner, despite the negative impact on liquidity.",
-            "abstract_zh": "摘要 我们研究了一个私人信息知情的大股东对公司进行监控并交易其股票的战略行为。私人信息导致在良好状态下的持股规模更大，但通过增加大股东的卖出速度，它可能导致在不利状态下的持股规模更小。尽管对预期持股规模产生了异质性影响，我们表明，信息不对称导致了帕累托改进：它提高了股票价格，使小型非知情股东受益，并且使持股者受益，尽管对流动性产生了负面影响。",
+            "title_en": "Pulp Friction: The Value of Quantity Contracts in Decentralized Markets",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70068",
+            "abstract_en": "ABSTRACT Firms in decentralized markets often trade using quantity contracts, agreements specifying quantity prior to the point of sale. These contracts are valuable because they provide quantity assurance, as trading frictions could prevent a buyer and seller from matching in the spot market. However, quantity contracts prevent sellers from optimally allocating production across buyers after market conditions realize. Using proprietary invoice data, we estimate a model of quantity contracts in the pulp and paper industry. The average value of a quantity contract is 10% of profits, but would be 55% larger if sellers could optimally allocate production after market conditions realize.",
+            "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Acquisitions, Innovation and the Entrenchment of Monopoly",
-            "title_zh": "收购、创新与垄断的巩固",
-            "url": "https://doi.org/10.1111/1756-2171.70038",
-            "abstract_en": "ABSTRACT We analyze a dynamic model of repeated innovation where inventors may either be acquired by an incumbent or else resist takeover and challenge for leadership. In the short run, acquisitions always spur innovation because of the invention‐for‐buyout effect. In the longer run, however, they may stifle it because of a countervailing effect, the entrenchment of monopoly. The latter occurs when the incumbent's dominance depends on past levels of activity and is therefore reinforced by recurrent acquisitions. We show that if the entrenchment effect is sufficiently strong, forward‐looking policymakers should prohibit acquisitions in anticipation of the long‐run negative impact on innovation. This argument sets out a new theory of harm that can be used to block acquisitions that could otherwise go unchallenged.",
-            "abstract_zh": "摘要 我们分析了一个重复创新的动态模型，其中发明者可能被在位企业收购，或者抵抗收购并挑战领导地位。短期内，收购总是由于发明-收购效应而刺激创新。然而，从长远来看，它们可能会因为垄断的固化效应而抑制创新。后者发生在在位企业的主导地位依赖于过去的活动水平，因此被反复的收购所加强。我们表明，如果固化效应足够强，具有前瞻性的决策者应该禁止收购，以预期对创新的长期负面影响。这一论点提出了一种新的损害理论，可以用来阻止那些否则可能不受挑战的收购。",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Inflated Recommendations",
-            "title_zh": "膨胀的推荐",
-            "url": "https://doi.org/10.1111/1756-2171.70036",
-            "abstract_en": "ABSTRACT Biased recommendations arise naturally in markets with heterogeneous consumers. We study a model in which a monopolist offers an experience good to a population of consumers with heterogeneous tastes and makes personalized purchase recommendations. We provide conditions under which a firm makes welfare‐reducing purchase recommendations with positive probability, resulting in inflated recommendations. We extend this insight to a setting in which an intermediary makes the recommendations, whereas a seller sets the retail price. Regulatory interventions that forbid inflated recommendations may lead to higher social welfare or may backfire.",
-            "abstract_zh": "摘要 在具有异质性消费者的市场中，有偏见的推荐自然产生。我们研究了一个模型，其中一家垄断者向具有异质性口味的消费者群体提供体验商品，并提供个性化购买推荐。我们提供了在何种条件下，企业以正概率做出减少福利的购买推荐，导致推荐膨胀。我们将这一洞见扩展到一个中介机构做出推荐，而卖家设定零售价格的情境。禁止膨胀推荐的监管干预可能会导致更高的社会福利，或者可能适得其反。",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Dynamic Pricing With Recommendation and Consumer Feedback",
-            "title_zh": "动态定价、推荐与消费者反馈",
-            "url": "https://doi.org/10.1111/1756-2171.70016",
-            "abstract_en": "ABSTRACT A long‐lived seller sells a new product of unknown value by offering prices and recommendations to short‐lived consumers in continuous time. The seller receives consumer feedback about the product at a rate that increases with the instantaneous sales volume. The optimal selling mechanism features episodes of price discounts, during which the seller discontinuously lowers the price and offers unwarranted recommendations to consumers. The optimal pricing strategy depends on the nature of consumer feedback and may involve early or late discounts, dynamic price backtracking, and below‐cost pricing.",
-            "abstract_zh": "摘要：一个长期存在的卖家通过在连续时间内提供价格和建议，向短期存在的消费者销售一个价值未知的新产品。卖家收到关于产品的消费者反馈的速度随着即时销售量的增加而增加。最优销售机制包括价格折扣的阶段，在这些阶段中，卖家会不连续地降低价格并向消费者提供无保证的建议。最优定价策略取决于消费者反馈的性质，可能涉及早期或晚期折扣、动态价格回溯和低于成本的定价。",
-            "matched_topics": [
-              "产业经济",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Storage games",
-            "title_zh": "存储博弈",
-            "url": "https://doi.org/10.1111/1756-2171.70015",
-            "abstract_en": "ABSTRACT We study a long‐horizon, oligopolistic market with random shocks to demand that can be arbitraged by two storage operators with finite capacity. This problem applies to any storable commodity—that is, most commodities. Because the arbitrage spread is so sensitive to market power, storage operators face strong incentives to restrain quantities by tacitly colluding. This cooperation takes new forms thanks to the multiplicity of actions they must take: selling, buying, or both. We construct payoff‐maximizing equilibria of this stochastic game, and uncover a new form of Partial Cooperation that trades off quantities and delay. While collusive, Partial Cooperation delivers higher consumer surplus thanks to the market power effect. Head‐on competition is not always an equilibrium of the long‐horizon game when market power becomes large enough. We draw implications for policy and suggest poorly competitive storage is a negative externality to the development of the underlying commodity—for example, renewable energy.",
-            "abstract_zh": "摘要 我们研究了一个长期、寡头垄断市场，该市场受到需求随机冲击的影响，这些冲击可以被两个有限容量的存储运营商套利。这个问题适用于任何可储存商品，即大多数商品。由于套利价差对市场力量极为敏感，存储运营商面临通过默契勾结来限制数量的强烈动机。由于他们必须采取多种行动：销售、购买或两者兼而有之，这种合作呈现出新的形式。我们构建了这个随机博弈的收益最大化均衡，并揭示了一种新的部分合作形式，即在数量和延迟之间进行权衡。尽管是勾结性的，部分合作由于市场力量效应，能够带来更高的消费者剩余。当市场力量变得足够大时，正面竞争并不总是长期博弈的均衡。我们为政策制定提出了启示，并建议竞争力不足的存储是底层商品发展的一种负外部性——例如，可再生能源。",
+            "title_en": "The Incidence of Coarse Certification: Evidence From the ENERGY STAR Program",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70071",
+            "abstract_en": "ABSTRACT A coarse certification provides simple but incomplete information. Its rationale is to help consumers trade off dimensions of quality that are complex and lack salience. In imperfectly competitive markets, it may induce excess bunching at the certification requirement, crowd out quality, and facilitate price discrimination. Who will ultimately benefit from a coarse certification thus depends on the degree of market power firms can exercise as well as on consumers' sophistication in responding to such information. I use a structural econometric model of the U.S. appliance market to illustrate these insights using the ENERGY STAR certification as a case study.",
+            "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
               "产业经济"
             ]
           },
           {
-            "title_en": "The Political Economy of Patent Buyouts",
-            "title_zh": "专利收购的政治经济学",
-            "url": "https://doi.org/10.1111/1756-2171.70017",
-            "abstract_en": "ABSTRACT Incentivizing innovation through buyouts may alleviate the social costs associated with patent power, but the political economy and feasibility of this potentially important financing mechanism have been understudied. We study an international setting of countries with different innovation and financing capabilities, and where financing governments rely on taxes to fund buyouts and care about the electoral popularity of their decisions. Subsequent distributional conflict arises between countries as some may benefit from the now‐public knowledge without contributing equally to financing, whereas taxpayers within a country may disagree over the desired extent of tax financing for buyouts. We show that these conflicts reduce the feasibility of buyouts relative to patents, identify the conditions under which this harms global welfare, and discuss possibilities for overcoming these constraints. The international public good and public financing dimensions of buyouts emerge as essential for understanding their potential to supplant patents and to improve social welfare.",
-            "abstract_zh": "摘要：通过收购激励创新可能减轻与专利权相关的社会成本，但这种潜在重要的融资机制的政治经济和可行性一直未得到充分研究。我们研究了一个国际背景，其中不同国家的创新和融资能力各异，而融资政府依赖税收来资助收购，并关心其决策的选举受欢迎程度。随后，国家之间出现了分配冲突，因为一些国家可能从现在公开的知识中受益，而没有平等地贡献资金，而一个国家的纳税人可能对税收资助收购的期望程度存在分歧。我们表明，这些冲突降低了收购相对于专利的可行性，确定了这种情况损害全球福利的条件，并讨论了克服这些限制的可能性。收购的国际公共产品和公共融资维度对于理解其取代专利和提高社会福利的潜力至关重要。",
+            "title_en": "Welfare Effects of Trade Associations: The Case of the Chilean Salmon Export Industry",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70073",
+            "abstract_en": "ABSTRACT This article examines the welfare consequences of a trade association in an exporting country on consumers in destination countries. We estimate a structural model of the Chilean Salmon exporting industry that endogenizes firms' pricing and export decisions. Our results show that the trade association has a positive effect on consumer utility and involves higher marginal costs of production, consistent with higher quality products. Reduced form analysis estimates price effects associated with trade association membership of 3 to 8 percent. Our counterfactual analysis reveals that eliminating the trade association would reduce consumer welfare by 1.7 billion USD in destination countries.",
+            "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
-              "企业创新",
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Market Effects of Brand Search Advertising",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70060",
+            "abstract_en": "ABSTRACT We study the market effects of sponsored search auctions for advertising space on searches for brands. In our model, firms simultaneously choose the price of their product and the bids for the advertising auctions triggered by their own and rivals' brand keywords search. In any symmetric equilibrium, each firm wins its own keyword auction, and relative to a no‐ads benchmark, online advertising raises the winning brand's marginal cost and ultimately market prices. Only in an environment with strong initial asymmetries do we find that brand advertising might be beneficial.",
+            "abstract_zh": "",
+            "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Buyer‐Optimal Platform Design",
-            "title_zh": "买家最优平台设计",
-            "url": "https://doi.org/10.1111/1756-2171.70014",
-            "abstract_en": "ABSTRACT A platform matches a unit mass of sellers, each owning a single product of heterogeneous quality, to a unit mass of buyers with differing valuations for unit‐quality. After matching, sellers make take‐it‐or‐leave‐it price‐offers to buyers. Initially, valuations of buyers are only known to them and the platform, but sellers make inferences from the matching algorithm. The efficient matching is positive assortative, but buyer‐optimal matchings are stochastically negative assortative when there are few low‐value buyers (i.e., compared to lower‐quality sellers, high‐quality ones are matched to buyers with lower expected valuation). Although everyone trades, generating rents for the side lacking bargaining power results in inefficient matching.",
-            "abstract_zh": "摘要：一个平台将拥有不同质量异质产品的单一单位质量卖家与对单位质量有不同估值的单一单位质量买家进行匹配。匹配后，卖家向买家提出接受或放弃的价格提议。最初，只有买家和平台知道买家的估值，但卖家会从匹配算法中推断。有效的匹配是正向选择性的，但当低估值买家较少时（即，与低质量卖家相比，高质量卖家与预期估值较低的买家匹配），买家最优匹配是随机负向选择性的。尽管每个人都进行交易，为缺乏议价能力的一方创造租金，但会导致匹配效率低下。",
+            "title_en": "The Competitive Effects of Mergers with Cournot Competition",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70059",
+            "abstract_en": "ABSTRACT This article provides a full characterization of the competitive effects of horizontal mergers in the Cournot model with heterogeneous firms and constant marginal costs. We show that price effects depend only on the smaller merging firm's market share and the number of firms but are independent of the distribution of market shares among other firms. Standard concentration measures, instead, are often misleading. We also provide simple—yet general—closed‐form solutions for merger effects based on pre‐merger parameters. Moreover, we extend the model to study the combination of output and input market power and relate our results to the Merger Guidelines.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Nonlinear Pricing in Oligopoly: How Brand Preferences Shape Market Outcomes",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70061",
+            "abstract_en": "ABSTRACT We study oligopolistic competition by firms practicing second‐degree price discrimination. In line with the literature on demand estimation, our theory allows consumers' propensity to switch brands to vary with tastes for product quality. If low‐type consumers are sufficiently more (respectively, less) prone to switch brands than are high types, (i) quality provision is inefficiently low at the bottom (respectively, high at the top) of the product line, and (ii) informational rents are positive (respectively, negative) for high types and negative (respectively, positive) for low types. Interestingly, we show that an increase in the number of competing firms may decrease welfare (by tightening incentive constraints), so much so that monopoly may be welfare superior to oligopoly. Pure‐strategy equilibria fail to exist, resulting in price‐quality dispersion across firms, whenever the propensity to switch brands is sufficiently different across consumers types.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70069",
+            "abstract_en": "ABSTRACT In this article, we examine the importance of individual physicians in explaining the significant variation in prescription drug spending in Medicare Part D. By tracking prescribing behavior before and after physician relocations, we find that movers' prescribing converges toward the average of their new location. However, this convergence is far from complete, highlighting the importance of idiosyncratic physician‐specific factors. Overall, these physician‐specific factors explain about 60 to 70 percent of the cross‐sectional variation in prescription drug spending, suggesting that physicians are one of the most important supply‐side determinants of this variation. We investigate several potential mechanisms behind this partial convergence.",
+            "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Mergers in the Presence of Adverse Selection",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70070",
+            "abstract_en": "ABSTRACT In the presence of adverse selection, mergers can increase welfare through a reduction in inefficient sorting. I characterize the sorting externality internalized between merging firms in a tractable discrete choice model. Mergers benefit consumers when the firms are small, willingness to pay is moderately increasing in cost, and consumer costs are skewed. Applying the model to the non‐group health insurance market, 13% of potential mergers would improve consumer surplus. In markets where the sorting distortion exceeds $5 per person, nearly one‐third of mergers improve consumer surplus, highlighting the importance of considering adverse selection in merger evaluation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Price Discrimination With Manipulable Observables",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70058",
+            "abstract_en": "ABSTRACT This article studies price discrimination by a seller who uses data on observables that buyers can control (or manipulate) at a cost. If the seller's discriminatory prices are offered covertly, equilibrium market segmentation is always coarse, resulting in limited price discrimination. In contrast, if prices must be transparently posted, every buyer pays a personalized price in equilibrium, though this does not always reduce buyer or social welfare. The analysis sheds new light on calls for transparency in how sellers utilize consumer data to customize prices and highlights potential issues with assessing welfare using (only) observed prices, pricing conduct, and market coverage.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Cleaner but Volatile Energy? The Effect of Coal Plant Retirement on Market Competition in the Wholesale Electricity Market",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70064",
+            "abstract_en": "ABSTRACT The energy transition from coal to gas is reshaping the power sector to rely more on gas generation, which is cleaner but has more variable input costs. Using counterfactual analysis, I study the competitive effects of this transition, by considering several transition paths that differ in the types of firms involved in retiring coal plants and investing in gas plants. I show that the variable nature of the marginal cost of gas generation creates an environment in which market power could increase after the transition. However, the transition's impact on competition depends on the characteristics of the firms investing in new gas generation; the adverse impact is mitigated under a well‐planned transition that leads to a more competitive industry structure.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Output Quality, Productivity, and Demand: Evidence from the Chinese Steel Industry",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70063",
+            "abstract_en": "ABSTRACT Unobserved objective output quality complicates the analysis of firm productivity and demand because higher‐quality products entail higher costs but offer greater consumption benefits. Using a panel of firms with output quality data, we decompose quantity‐based productivity into fundamental productivity and the costs of quality, and separate the demand residual into fundamental demand and quality benefits. Fundamental demand accounts for most revenue variation, whereas quality's revenue‐enhancing benefits are largely offset by its costs. During the 2008 global financial crisis, shifts in quality diverged from changes in fundamental productivity and demand, highlighting the role of quality in assessing firm and industry performance.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           }
         ],
@@ -1093,43 +1144,13 @@
         "query_name": "International Journal of Industrial Organization",
         "issn": "0167-7187",
         "resolved_name": "International Journal of Industrial Organization",
-        "issue_title": "Published 2026-08",
+        "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 5,
-        "total_in_issue": 12,
+        "matched_count": 1,
+        "total_in_issue": 1,
         "papers": [
           {
-            "title_en": "Price discrimination under minimum advertised price restriction",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103292",
-            "abstract_en": "A minimum advertised price (MAP) policy is a popular vertical restraint. We study retail pricing under MAP using price data of Seagate hard disk drives on US online retailers. The data suggest that MAP is not a form of minimum resale price maintenance (RPM). First, we find that retail prices are often lower than MAP. Second, retail prices of products subject to MAP have greater dispersions between retailers. Lastly, some retail prices can increase after a MAP decrease. These observations are consistent with the predictions of a search model that interprets MAP as a form of information restraint.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Focal pricing constraints and pass-through of input cost changes",
-            "title_zh": "焦点定价约束与输入成本变化的传导",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103288",
-            "abstract_en": "Pass-through rates are relevant in a variety of contexts, such as estimating antitrust damages. It is often asserted that focal pricing, the practice of charging only special prices, e.g. ending in 9s, reduces the degree of pass-through in an industry. This claim has had serious consequences; for example, it has contributed to the dismissal of high-profile antitrust cases. However, it is not grounded in economic theory or evidence. I prove that, in a simple but general framework, expected pass-through is unchanged by the presence of focal pricing constraints. Therefore, the fact that an industry is characterised by focal pricing constraints does not entail that it will also be characterised by a low pass-through rate.",
-            "abstract_zh": "传递率在多种情境中都很重要，比如估算反垄断损害赔偿。人们经常声称，焦点定价——只收取特殊价格的做法，例如以9结尾的价格——降低了一个行业的传递率。这一主张产生了严重后果；例如，它导致了一些备受瞩目的反垄断案件被驳回。然而，它没有经济理论或证据的支持。我在一个简单但通用的框架中证明，预期的传递率不会因为焦点定价限制的存在而改变。因此，一个行业以焦点定价限制为特征，并不意味着它也会以低传递率为特征。",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Innovation and startup acquisition",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103307",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Gatekeepers and the Endogenous Design of Consumer Preferences under Personalized Pricing",
+            "title_en": "Gatekeepers and the endogenous design of consumer preferences under personalized pricing",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.ijindorg.2026.103320",
             "abstract_en": "We develop a Hotelling duopoly model of competition on a gatekeeper platform in which firms choose between uniform pricing and personalized pricing. Implementing personalized pricing requires access to a platform-provided pricing technology and entails a per-transaction fee set by the platform. The platform also designs rankings and recommendations that affect the distribution of consumers between loyal and marginal types. We show that the platform may strategically reshape the demand environment to make personalized pricing more attractive to firms and thereby raise the fee it can charge. By reallocating mass from loyal to marginal and more disloyal consumers, the platform intensifies competition under uniform pricing and relaxes firms’ adoption constraint. Excessive centralization, however, erodes the rents that sustain fee extraction, so the platform chooses an interior degree of demand centralization. Relative to a no-manipulation benchmark, this reallocates surplus toward the gatekeeper and away from firms and consumers. When the platform also appropriates a share of seller profits, its incentives may reverse: it may favor loyalty-enhancing designs that soften downstream competition. The analysis highlights how platform monetization and recommendation design jointly determine downstream competition and its welfare consequences.",
@@ -1137,16 +1158,6 @@
             "matched_topics": [
               "产业经济",
               "创新药"
-            ]
-          },
-          {
-            "title_en": "Financial structure and mergers",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103302",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济"
             ]
           }
         ],
@@ -1157,47 +1168,15 @@
         "query_name": "Research Policy",
         "issn": "0048-7333",
         "resolved_name": "Research Policy",
-        "issue_title": "Volume 55, Issue 8",
+        "issue_title": "Volume 55, Issue 9",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 12,
-        "total_in_issue": 13,
+        "matched_count": 2,
+        "total_in_issue": 2,
         "papers": [
           {
-            "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
+            "title_en": "Searching together: Human–AI complementarities in innovation search",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105534",
-            "abstract_en": "I propose that the concept of ‘systems of use’ can be a valuable lens for more deeply understanding user innovation processes and outcomes. I define a system of use as a group of components that interact during use to accomplish a system-level goal. Each component, which may be a physical or digital product, or a human behavior, plays a role in a specific system of use by accepting inputs, processing them, and providing outputs within and beyond that system. To date, research on innovation has largely focused on the nature of, and innovative history of, and value of specific product innovations. A system of use perspective adds a focus onto the contexts within whichspecific innovations function. This altered focus, in turn, draws attention to related adaptations and innovations that are often required to integrate specific innovations into such systems. Specifically, a system focus can highlight behavioral system of use components that are often overlooked - especially when they are diffused peer-to-peer rather than being sold on markets. Further, a system focus can document the often rapid changes that end users may make to their own systems of use as they adapt to new circumstances, but without changing the major product components that are normally tracked as a way to identify system change.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Follow the technology or follow the leader? Radical innovation and strategic leadership at a crossroads",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105579",
-            "abstract_en": "Radical innovation and strategic leadership research share a foundational challenge of theorizing how firms make choices about an uncertain future that shape their competitiveness, survival, and long-term performance. Yet, each field has developed a distinct explanatory signature. Radical innovation research has followed the technology, tracing how the architecture and trajectories of technological discontinuities determine organizational fates. Strategic leadership research has followed the leader(s), tracing how the cognition, composition, and interactions of those at the organizational apex shape organizational choices. We argue that this productive division of labor is being jointly frustrated by four shifts in contemporary organizing: structurally , innovation is migrating from firms to ecosystems; technologically , AI is transforming both the creative process and the cognitive conditions of leadership; relationally , permeable boundaries are redistributing influence across actors; and culturally , evaluative criteria are expanding from performance to purpose. We identify the foundational assumptions these shifts unsettle and propose four research frontiers organized around where, how, with whom, and why radical innovation happens. We conclude with key reflections from three foundational scholars on the future of the field.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Understanding regional readiness to contribute to the bioeconomy: The role of higher education institutions and other regional characteristics",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105547",
-            "abstract_en": "The transformation from a fossil-based economy toward the bioeconomy offers a promising avenue for addressing various Sustainable Development Goals but also poses a major societal challenge (SC). Designing effective place-based innovation policies to tackle this SC requires acknowledging that regions differ in their readiness to contribute to the bioeconomy transformation and understanding which place-specific characteristics underpin this readiness. This study was conducted to identify regional characteristics—capturing regional capabilities and resources, network embeddedness, institutional configurations, as well as higher education institutions (HEIs) and the research landscape—that are robustly correlated with regional readiness. We paid particular attention to the role of HEIs because they possess unique capacities to contribute to innovation and transformation. Taking Germany as an example, we measured the regional readiness of the 401 German NUTS-3 regions using the RE-SCORE index and employed Bayesian model averaging to assess the robustness of 55 potential predictor variables. Our findings highlight the potential of rural regions and further show that regional readiness is associated with embeddedness in interregional networks and the prevalence of pro-environmental attitudes. HEIs were found to enhance regional readiness through education rather than research. Relevant research output is generated by research institutes. The results suggest that HEIs can help rural regions leverage their potential.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Can FinTech innovate green finance? Scrutinising the financial ecologies and innovation dynamics of FinTech for forest restoration",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105564",
+            "url": "https://doi.org/10.1016/j.respol.2026.105597",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1205,84 +1184,10 @@
             ]
           },
           {
-            "title_en": "Do societal promises influence patent value? An analysis of inventions in artificial intelligence",
+            "title_en": "Are circular innovations disruptive? An analysis of the role of inventor networks in the European semiconductor industry",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105566",
-            "abstract_en": "This paper investigates the relationship between narratives on the societal impact of artificial intelligence (AI) and patent value, in the context of the US patenting system. We advance the construct of public value expressions (PVEs), defined as statements that describe societal problems, or solutions to these problems, as offered by the invention being patented. Our dataset comprises 154,934 USPTO AI patent documents, which we analyze using a generative language model for label generation and a discriminative language model for training and large-scale classification, complemented by 12 interviews with patent attorneys, examiners, inventors and a linguist. Implementing a count data regression approach, we find a significant positive relationship between the occurrence and density of PVEs and well-established indicators of patent value, including forward citations, family size, claims count, and the number of technology classes, holding key confounders constant. The study makes two contributions to the STI policy and patent value literatures. First, we demonstrate that PVEs in AI patents are associated with indicators of higher technological and commercial value. This suggests that articulations of societal relevance may play a role in enhancing a patent’s private value and reveal a paradox in which narratives of public benefit are mobilized to support processes that primarily target private interests and rewards. Second, to explain this paradox, we introduce the concept of \"societal value embedding\", a patent drafting practice through which inventors and attorneys signal the potential societal benefits of their inventions, both to align with institutional expectations (normative function) and to support patentability discussions (instrumental function).",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Scaling innovation through public procurement: Market acceleration, building, and transformation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105563",
-            "abstract_en": "Public procurement of innovation (PPI) is increasingly recognised as a powerful demand-side instrument for generating solutions to complex societal challenges. Yet realising this transformative potential requires innovations to scale beyond isolated implementation contexts. We contribute to the literature by bridging innovation scaling and market shaping perspectives to develop a novel conceptual framework for scaling in the context of PPI. We identify three distinct scaling modes: ‘market acceleration’, where buyers stimulate business growth by facilitating innovation development, adoption, and dissemination across contexts, ‘market building’, where buyers aggregate public sector needs and broaden the scope of PPI, and ‘market transformation’, where buyers embed innovations by reshaping socio-technical systems. Through empirical investigation of twelve publicly-funded PPI projects in Finland, we identify scaling practices used by public buyers throughout the procurement lifecycle, spanning information dissemination, demand coordination, and institutional norm-shaping. Our findings advance theoretical understanding of how public procurement shapes innovation scaling, while providing practical insights into mechanisms through which public buyers can strategically influence market development.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "At cross purposes? Housing markets and innovation in American Political Economy",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105561",
-            "abstract_en": "The Comparative Political Economy (CPE) literature offers two distinct but insufficiently integrated institutional accounts of US growth dynamics: the Varieties of Capitalism (VoC) approach, emphasising the economy's capacity for radical innovation, and the CPE growth models perspective, which views the US economy as consumption-driven, supported by rising house prices and household debt. This paper argues that these two institutional complexes coexist within the US economy, generating conflicting pressures on innovation capacity that existing CPE frameworks have not adequately theorised. Specifically, the demand-side dynamics sustaining consumption-driven growth, supported by financial product innovations widening access to mortgage credit, may undermine the supply-side conditions underpinning innovation capacity, a cross-level tension that neither the VoC nor the CPE growth models perspective has incorporated. Using error correction models applied to an unbalanced panel of 50 US states from 1975 to 2016, the long-run results show that rising house prices are significant negative long-run predictors of innovation outputs, whilst expansionary state government fiscal expenditure can compensate for these negative effects. Furthermore, left-leaning state governments produce short-run innovation gains but long-run negative effects. Together, these findings suggest that understanding US growth dynamics requires moving beyond frameworks that treat the innovation-and-consumption-oriented institutional complexes as complementary, toward a more integrated account that incorporates the conflicting pressures they generate and the compensatory state government fiscal policies through which those pressures can be managed, with important implications for understanding the conditions underpinning US’ growth and its international economic competitiveness.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105541",
-            "abstract_en": "The foundation industries that underpin modern economies are undergoing discontinuous transformations around sustainability and decarbonisation. However, key assumptions in the existing innovation literature are based on analyses of a narrow set of industry contexts largely focused on disruptive innovation. Alternative pathways to discontinuous change remain under-researched. This paper presents the first comparative case study of two of the world's most advanced green steel innovation ventures – Stegra and HYBRIT in northern Sweden. The two ventures were set up as, respectively, a start-up and an incumbent-driven joint venture, each with a different strategy for disrupting legacy steelmaking. However, neither followed a path predicted by the innovation literature. We find that the inherent resource constraints that are hallmarks of foundation industries led to a convergence of the two ventures' innovation pathways. We develop theory on discontinuous innovation for foundation industries and argue that system-level drivers, including policy triggers, material resource constraints, and non-material resource enablers shape firm-level innovation pathways. Regardless of their starting point as start-ups or incumbents, ventures in such settings converge on an innovation pathway of creative accumulation rather than creative destruction.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The impact of digital startups' IPO events on complementary developers' contributions to open-source software communities",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105544",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Do public credit guarantees boost R&amp;D and innovation?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105560",
-            "abstract_en": "Public credit guarantees (PCGs) have been around for a long time, but their use has proliferated during both the global financial crisis and the COVID-19 pandemic to support the corporate sector and thus economic recovery. Given the scale of these programmes and their likely implications for public finances, existing work on PCGs focuses primarily on whether the provision of public guarantees has improved credit allocation and financial outcomes. In contrast, this paper examines whether PCGs impact firms’ R&D and innovation efforts, utilizing a rich data set from Turkey’s Credit Guarantee Fund—one of the largest schemes of this kind—and employing difference-in-differences and propensity score matching methodologies. We observe significant improvements in both innovation efforts, such as R&D expenditure, and innovation outcomes, such as high-tech exports by firms that received guaranteed loans relative to those that didn’t. We also find that this beneficial impact is substantially larger for firms that were already engaged in innovation activity or had the potential to innovate before participating in the programme. Our findings have important implications for regulatory authorities in their design of credit support programmes.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
-            "title_zh": "理解邪恶：面向挑战的创新政策的方向性启发式",
-            "url": "https://doi.org/10.1016/j.respol.2026.105513",
-            "abstract_en": "This article contributes to the burgeoning literature on directionality challenges by introducing directionality heuristics as a lens to conceptualize how policymakers and other stakeholders interpret and respond to problems in challenge-led innovation policy. Our starting point is that the “wickedness” of problems is strongly shaped by subjective and context-specific perceptions. We therefore utilize and adapt a sense-making framework, originally developed in the management literature, to distinguish different ways in which actors engage with the complexity and uncertainty of such problems. Building on this perspective, we conceptualize directionality heuristics as domain-specific rules of thumb that guide how policymakers interpret and address problems. We demonstrate the usefulness of this concept by applying it retrospectively to the Dutch Mission-oriented Topsector and Innovation Policy. The illustration highlights how stakeholders' differing views on the wickedness of problems translate into particular directionality challenges as well as suitable practices to address those. We conclude by outlining three key propositions, which emphasize the main conceptual contributions and provide concrete paths for future research and policy. • Sense-making helps to understand how policymakers view and tackle wicked problems. • Directionality heuristics are mental shortcuts used to interpret and address problems. • Different degrees of wickedness call for different directionality heuristics. • Nescience creates additional directionality challenges for challenge-led policies.",
-            "abstract_zh": "本文通过引入方向性启发式作为视角，为日益增长的方向性挑战文献做出贡献，以概念化政策制定者和其他利益相关者如何解释和应对挑战引领型创新政策中的问题。我们的出发点是，问题的“恶果”在很大程度上受到主观和情境特定的感知的影响。因此，我们利用并适应了最初在管理文献中发展起来的意义构建框架，以区分行动者与这类问题的复杂性和不确定性的不同互动方式。基于这一视角，我们将方向性启发式概念化为特定领域的经验法则，指导政策制定者如何解释和解决问题。我们通过将其应用于荷兰任务导向型顶级部门和创新政策，展示了这一概念的有用性。这一说明突出了利益相关者对问题恶果的不同观点如何转化为特定的方向性挑战以及解决这些问题的适当做法。我们最后概述了三个关键命题，强调了主要的概念贡献，并为未来的研究和政策提供了具体路径。• 意义构建有助于理解政策制定者如何看待和解决恶果问题。• 方向性启发式是用于解释和解决问题的心理捷径。• 不同程度的问题恶果需要不同的方向性启发式。• 无知为挑战引领型政策创造了额外的方向性挑战。",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Leaky mess or safety vaults? Team knowledge production and post-mobility knowledge spillover",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105548",
-            "abstract_en": "Teams have become the primary unit for organizing knowledge production. While existing research has extensively investigated whether and how teams enhance knowledge production, it has paid scant attention to their role in safeguarding against knowledge spillover following inventor mobility. The literature presents conflicting arguments on this issue. Drawing on team innovation research, we contend that team production generates two types of knowledge: task-specific knowledge and metaknowledge. Task-specific knowledge is economically valuable and is fragmented among co-inventors, so that its risk of post-mobility knowledge spillover is lower when it is produced by larger teams. While metaknowledge is shared within the team and prone to mobility-induced spillover, it has limited value with the corresponding task-specific knowledge. Analyzing a sample of mobility events among industrial inventors using a within-event design, we find that knowledge produced by larger teams is more resistant to post-mobility spillover, being significantly less likely to be utilized by the destination firm. This protective effect is attenuated when co-inventors co-move and when the knowledge is inherently complex. Our study contributes to the literature on team innovation and inventor mobility by underscoring the role of team production in knowledge protection in the context of inventor mobility.",
+            "url": "https://doi.org/10.1016/j.respol.2026.105574",
+            "abstract_en": "The expansion of advanced technologies is intensifying demand for energy, materials, and efficiency of production systems, with semiconductors exemplifying the tension between rapid technological progress and resource sustainability, and the development of circular innovations. Yet it remains unclear whether circular innovations in this sector tend to be genuinely disruptive. This study examines the disruptiveness of circular (vs. non-circular) innovations and analyses the role of inventor network structures. The empirical analysis relies on the patents of 299 European Semiconductor Equipment Manufacturing (SEM) companies retrieved from the ORBIS IP database for the period 2013-2022. First, we operationalize disruptiveness by adopting a citation-based measure to reveal whether subsequent inventions build upon or bypass a focal patent’s prior art. Then, co-inventor networks are constructed, and inventor centrality and cohesion measures are aggregated to the patent level to link inventor network structure to disruptive outcomes over time. Our findings show that circular patents exhibit, on average, higher disruptiveness than non-circular patents, and that inventor network structures characterized by more peripheral and high local cohesive configurations align with disruptive circular outcomes. The effect of the network antecedents differs systematically between circular and non-circular innovations, indicating distinct pathways to disruption. The study contributes to the innovation literature by integrating a structural disruptiveness measure with inventor network analytics, offering one of the first patent-level comparisons of circular versus non-circular disruptiveness in the semiconductor industry, and by deriving implications for organizing collaboration portfolios and policy instruments that foster circular transitions.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -1375,7 +1280,7 @@
         "issue_title": "Volume 72, Issue 8",
         "issue_url": "https://pubsonline.informs.org/journal/mnsc",
         "matched_count": 12,
-        "total_in_issue": 16,
+        "total_in_issue": 15,
         "papers": [
           {
             "title_en": "Who Falls Prey to the Wolf of Wall Street? Investor Participation in Market Manipulation",
@@ -1462,16 +1367,6 @@
             ]
           },
           {
-            "title_en": "A Flash in the Pan(Demic)? Migration Risks and Municipal Bonds",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.02674",
-            "abstract_en": "We show that migration induced by the COVID-19 pandemic significantly predicts changes in municipal bond yields. Negative migration shocks have made debt more expensive, especially in the areas and bonds most exposed to the work-from-home (WFH) transition. Over the full sample, a one-standard-deviation increase in COVID period out-migration predicts an approximate 4.5-basis-point rise in municipal bond yields, after controlling for a range of local economic factors including state- or core-based statistical area (CBSA)-year fixed effects. This effect is 40% larger for areas in the top decile of WFH exposure and approximately twice as large for transportation-backed bonds. Moreover, areas containing the most exposed bonds (i.e., those with out-migration and high WFH exposure) also experience relatively large post-COVID declines in municipal revenue. Overall, our results suggest that investors have changed their estimates of the level or uncertainty of municipalities’ future cash flows, especially for areas and bonds most exposed to the transition toward remote work. This paper was accepted by Bo Becker, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02674 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
             "title_en": "Redesigning VolunteerMatch’s Search Algorithm: Toward More Equitable Access to Volunteers",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2023.03838",
@@ -1479,6 +1374,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
+            ]
+          },
+          {
+            "title_en": "A Flash in the Pan(Demic)? Migration Risks and Municipal Bonds",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.02674",
+            "abstract_en": "We show that migration induced by the COVID-19 pandemic significantly predicts changes in municipal bond yields. Negative migration shocks have made debt more expensive, especially in the areas and bonds most exposed to the work-from-home (WFH) transition. Over the full sample, a one-standard-deviation increase in COVID period out-migration predicts an approximate 4.5-basis-point rise in municipal bond yields, after controlling for a range of local economic factors including state- or core-based statistical area (CBSA)-year fixed effects. This effect is 40% larger for areas in the top decile of WFH exposure and approximately twice as large for transportation-backed bonds. Moreover, areas containing the most exposed bonds (i.e., those with out-migration and high WFH exposure) also experience relatively large post-COVID declines in municipal revenue. Overall, our results suggest that investors have changed their estimates of the level or uncertainty of municipalities’ future cash flows, especially for areas and bonds most exposed to the transition toward remote work. This paper was accepted by Bo Becker, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02674 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           },
           {
@@ -1511,9 +1416,20 @@
         "resolved_name": "Journal of Business Venturing",
         "issue_title": "Volume 41, Issue 6",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
-        "matched_count": 0,
-        "total_in_issue": 1,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 3,
+        "papers": [
+          {
+            "title_en": "The yin and yang: Utility and reform perspectives on social impact in social entrepreneurship research",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106630",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -1524,7 +1440,7 @@
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
         "matched_count": 12,
-        "total_in_issue": 13,
+        "total_in_issue": 14,
         "papers": [
           {
             "title_en": "Unpacking how integrator state-owned enterprises respond to institutional demand tensions in complex product systems innovation",
@@ -1534,6 +1450,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Technological relatedness in green innovation disruptiveness: the role of entry pace and rhythm",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103686",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
               "企业创新"
             ]
           },
@@ -1623,10 +1549,10 @@
             ]
           },
           {
-            "title_en": "The low-value trap: Sustaining multi-actor collaboration across problem spaces in emerging technology commercialization",
+            "title_en": "Government support, co-creation, and digital transformation on the road to sustainable innovation",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103657",
-            "abstract_en": "Despite the potential applications of bio-marine technologies, many promising innovations remain confined to the laboratory, missing potential high-value applications and damaging the overall perception of the emerging technology. Prior research has highlighted the positive impact of multi-actor collaborations on technology development, particularly to bridge the gap between the lab and the market. However, we know little about the mechanisms that sustain productive multi-actor collaboration in emerging technology commercialization and why they prove insufficient as actors move from low-to high-value applications. We study the case of an emerging technology – the utilization and application of fucoidan, a bio-marine extract – to explore how collaboration is sustained among actors as they face the increasing complexity of the technology commercialization for high-value applications. By building on patents and publications and analyzing in-depth interviews, we identify three key mechanisms that support effective collaboration: anchoring a shared vision, coordinating across knowledge boundaries, and structuring an operational framework. We show how these mechanisms need to be recalibrated, not simply scaled, when actors transition across problem spaces from low to high-value applications, and why the failure to do so produces a low-value trap for the emerging technology.",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103687",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新",
@@ -1634,20 +1560,10 @@
             ]
           },
           {
-            "title_en": "From value creation to value appropriation: How firms exploit disruptive innovation opportunities in emerging economies",
+            "title_en": "The low-value trap: Sustaining multi-actor collaboration across problem spaces in emerging technology commercialization",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103666",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "The innovators scalpel: A knowledge-based view of corporate divestitures &amp; technological performance",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103664",
-            "abstract_en": "Extensive research examines how firms expand their knowledge bases through alliances and acquisitions. Considerably less attention has been paid to how firms reshape their knowledge bases through divestitures. Drawing on the Knowledge-Based View (KBV), we conceptualize divestitures as mechanisms through which firms reconfigure the structure and governance of their knowledge bases. We argue that, on average, divestitures are associated with weaker technological performance because they reduce the size of firms’ knowledge bases, disrupt innovation routines, and create organizational uncertainty. However, we also argue that this negative association is weakened, and in some cases reversed, when divestitures increase knowledge coherence, reduce knowledge dispersion, or lower coordination burden. We test our hypotheses using a sample of 919 unique firms in four high-tech industries that announced 1794 divestitures and filed 414,128 patent applications over a 15-year period. Our findings show that while divestitures are, on average, associated with lower innovation output, this association depends on the form of knowledge complexity divestitures remove. Knowledge Coherence conditions patent quality and breakthrough inventions, but only at relatively high levels of coherence, observed in 12.2% and 20.2% of divesting firm-years, respectively. Knowledge Dispersion conditions patent quantity and patent quality at more moderate levels, observed in roughly one-quarter of divesting firm-years. Coordination Burden shows the broadest pattern, conditioning all three innovation outcomes and exceeding the relevant thresholds in more than 60% of divesting firm-years. In doing so, our study contributes to the corporate strategy and innovation literatures by showing that divestitures are not merely acts of scale reduction, but can function as knowledge-based boundary choices that reshape technological performance by selectively cutting away excess complexity.",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103657",
+            "abstract_en": "Despite the potential applications of bio-marine technologies, many promising innovations remain confined to the laboratory, missing potential high-value applications and damaging the overall perception of the emerging technology. Prior research has highlighted the positive impact of multi-actor collaborations on technology development, particularly to bridge the gap between the lab and the market. However, we know little about the mechanisms that sustain productive multi-actor collaboration in emerging technology commercialization and why they prove insufficient as actors move from low-to high-value applications. We study the case of an emerging technology – the utilization and application of fucoidan, a bio-marine extract – to explore how collaboration is sustained among actors as they face the increasing complexity of the technology commercialization for high-value applications. By building on patents and publications and analyzing in-depth interviews, we identify three key mechanisms that support effective collaboration: anchoring a shared vision, coordinating across knowledge boundaries, and structuring an operational framework. We show how these mechanisms need to be recalibrated, not simply scaled, when actors transition across problem spaces from low to high-value applications, and why the failure to do so produces a low-value trap for the emerging technology.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新",
@@ -1802,7 +1718,7 @@
             "title_en": "Consolidation of Local Health Authorities and mortality in the Italian NHS",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jhealeco.2026.103174",
-            "abstract_en": "This paper studies the health consequences of administrative centralization in healthcare, focusing on the consolidation of Local Health Authorities (LHAs) within the Italian National Health Service. This type of reform fits within a broader set of cost-containment efforts aimed at reducing administrative expenditures and exploiting economies of scale. In the Italian case, the reform centralized governance and expanded the scale of health administration, creating authorities with substantially larger catchment areas and shifting decision-making to more heterogeneous jurisdictions. Such changes may affect the responsiveness of healthcare provision to local needs, the coordination of service delivery, and access to care. Using an event-study Difference-in-Differences design, we estimate the policy’s impact on municipal mortality rates, accounting for heterogeneous treatment effects and co-occurring fiscal adjustment policies. We find a significant increase in mortality starting four years after implementation, with an average treatment effect on the treated of 2.1%. The effects are concentrated in municipalities belonging to absorbed LHAs and in those exposed to mergers involving relatively large pre-reform LHAs and substantial post-merger expansions in catchment areas; they are also unevenly distributed, creating new vulnerable areas. Welfare estimates based on life-years lost indicate that the monetary costs of increased mortality exceed plausible administrative savings by roughly an order of magnitude.",
+            "abstract_en": "This paper studies the health consequences of administrative centralization in healthcare, focusing on the consolidation of Local Health Authorities (LHAs) within the Italian National Health Service. This type of reform fits within a broader set of cost-containment efforts aimed at reducing administrative expenditures and exploiting economies of scale. In the Italian case, the reform centralized governance and expanded the scale of health administration, creating authorities with substantially larger catchment areas and shifting decision-making to more heterogeneous jurisdictions. Such changes may affect the responsiveness of healthcare provision to local needs, the coordination of service delivery, and access to care. Using an event-study Difference-in-Differences design, we estimate the policy's impact on municipal mortality rates, accounting for heterogeneous treatment effects and co-occurring fiscal adjustment policies. We find a significant increase in mortality starting four years after implementation, with an average treatment effect on the treated of 2.1%. The effects are concentrated in municipalities belonging to absorbed LHAs and in those exposed to mergers involving relatively large pre-reform LHAs and substantial post-merger expansions in catchment areas; they are also unevenly distributed, creating new vulnerable areas. Welfare estimates based on life-years lost indicate that the monetary costs of increased mortality exceed plausible administrative savings by roughly an order of magnitude.",
             "abstract_zh": "",
             "matched_topics": [
               "产业经济",
