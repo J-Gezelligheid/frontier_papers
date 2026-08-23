@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-16 05:14:03",
+  "updated_at": "2026-08-23 05:19:28",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 304,
+    "fail_count": 310,
     "failed_examples": [
       "Energy Transitions in Regulated Markets :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "Natural gas has replaced coal as the dominant fuel for US electricity generation :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
@@ -699,8 +699,8 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 5,
-        "total_in_issue": 8,
+        "matched_count": 7,
+        "total_in_issue": 10,
         "papers": [
           {
             "title_en": "Exporter survival with uncertainty and experimentation",
@@ -745,6 +745,16 @@
             ]
           },
           {
+            "title_en": "Reshaping factory Asia: How did the US-China trade war affect the Asian-Pacific supply chain?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104327",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
             "title_en": "Different no more: Country spreads in advanced and emerging economies",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104316",
@@ -752,6 +762,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际经济"
+            ]
+          },
+          {
+            "title_en": "Transportation networks, technology adoption, and structural transformation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104325",
+            "abstract_en": "We examine how transportation influences agricultural technology adoption and structural transformation. Our empirical findings show that better transportation network reducing non-labor input prices, promoting less labor-intensive technologies, which in turn enhancing productivity and supporting structural transformation. Our model reveals that improved transportation alone accounts for 3.3 percentage points reduction in India's agricultural employment share, representing 24% of the observed decline. The model also highlights mechanism complementarity that lowering fixed adoption costs amplifies the effect of reduced non-labor costs, further promotes modern technology adoption. The counterfactual analysis indicates that eliminating farmers' ability to select technology types decreases structural transformation by 67%.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
             ]
           }
         ],
@@ -764,8 +784,8 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 5,
-        "total_in_issue": 17,
+        "matched_count": 7,
+        "total_in_issue": 27,
         "papers": [
           {
             "title_en": "Suing the leviathan: The effect of trans-regional jurisdiction reform on corporate investment",
@@ -808,6 +828,16 @@
             ]
           },
           {
+            "title_en": "Self-medication under uncertainty: Insights on drug quality and consumer behavior in Burkina Faso",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103890",
+            "abstract_en": "How does drug quality affect self-medication behavior? We address this question in the context of Burkina Faso, where self-medication with antibiotics is widespread. Using chemical quality tests, we find that one in three antibiotics on the market is substandard or falsified, posing significant health risks. While consumers are broadly aware of the prevalence of poor-quality drugs, they struggle to assess quality based on observable cues such as price or packaging. To identify causal effects, we conduct a novel lab-in-the-field experiment that varies the probability of purchasing effective medicine. We find that self-medication increases as drug quality becomes more certain. These results suggest that market-level interventions to improve drug quality may unintentionally increase inappropriate antibiotic use, with implications for health policy and antimicrobial resistance.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Dual-track in the family: How spousal state employment fuels entrepreneurship",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103899",
@@ -815,6 +845,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "Race-to-the-bottom dynamics in industrial land pricing: Asymmetric effects of China’s 2009 price floor adjustment policy",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103910",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
             ]
           }
         ],
@@ -1146,9 +1186,19 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 1,
-        "total_in_issue": 1,
+        "matched_count": 2,
+        "total_in_issue": 3,
         "papers": [
+          {
+            "title_en": "Procompetitive effects of vertical mergers? Evidence from the European Union",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103321",
+            "abstract_en": "This study examines the relationship between mergers and firm-level financial measures using a sample of 4,482 acquisition targets in the European Union from 2007 to 2021. Findings suggest that horizontal mergers lack statistically significant results, whereas vertical mergers entail changes in markups (-0.7%), market share (+2.5%), Return on Fixed Assets (ROFA) (+2.3%), and capital intensity (-7.2%). The result for vertical mergers increases over time, and is larger when the number of pre-existing subsidiaries is greater. Our results suggest the elimination of double profit margins as a potential explanation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
           {
             "title_en": "Gatekeepers and the endogenous design of consumer preferences under personalized pricing",
             "title_zh": "",
@@ -1170,8 +1220,8 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 9",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 2,
-        "total_in_issue": 2,
+        "matched_count": 3,
+        "total_in_issue": 6,
         "papers": [
           {
             "title_en": "Searching together: Human–AI complementarities in innovation search",
@@ -1188,6 +1238,16 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105574",
             "abstract_en": "The expansion of advanced technologies is intensifying demand for energy, materials, and efficiency of production systems, with semiconductors exemplifying the tension between rapid technological progress and resource sustainability, and the development of circular innovations. Yet it remains unclear whether circular innovations in this sector tend to be genuinely disruptive. This study examines the disruptiveness of circular (vs. non-circular) innovations and analyses the role of inventor network structures. The empirical analysis relies on the patents of 299 European Semiconductor Equipment Manufacturing (SEM) companies retrieved from the ORBIS IP database for the period 2013-2022. First, we operationalize disruptiveness by adopting a citation-based measure to reveal whether subsequent inventions build upon or bypass a focal patent’s prior art. Then, co-inventor networks are constructed, and inventor centrality and cohesion measures are aggregated to the patent level to link inventor network structure to disruptive outcomes over time. Our findings show that circular patents exhibit, on average, higher disruptiveness than non-circular patents, and that inventor network structures characterized by more peripheral and high local cohesive configurations align with disruptive circular outcomes. The effect of the network antecedents differs systematically between circular and non-circular innovations, indicating distinct pathways to disruption. The study contributes to the innovation literature by integrating a structural disruptiveness measure with inventor network analytics, offering one of the first patent-level comparisons of circular versus non-circular disruptiveness in the semiconductor industry, and by deriving implications for organizing collaboration portfolios and policy instruments that foster circular transitions.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Data and methods for identifying artificial intelligence-related patents",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105599",
+            "abstract_en": "This paper evaluates existing approaches to identifying artificial intelligence (AI)-related patents and introduces a novel, scalable framework for improving classification performance. Motivated by growing reliance on patent data in innovation research, we assess widely used methods, including patent class-based approaches and the USPTO’s Artificial Intelligence Patent Dataset (AIPD), with an independent, human-expert-annotated ground-truth dataset. We document substantial performance limitations in existing approaches, particularly in terms of precision and generalizability. To address these challenges, we develop a CPC-informed, iterative positive-unlabeled (PU) learning framework for constructing high-quality training data. Our approach integrates hierarchical patent classification with data-driven refinement procedures to reduce label noise and improve representativeness. Using this refined dataset, we train a range of machine learning, deep learning, and transformer-based models. Our results show that models trained within our framework significantly outperform existing methods, including AIPD, achieving improvements over AIPD in F1 scores of approximately 18–21% on the same benchmark dataset. These gains are primarily driven by enhanced precision without sacrificing recall, highlighting the central role of training data quality in classification performance. We further demonstrate the empirical value of improved AI patent identification through two applications, showing that the release of ChatGPT increased both the market valuation of AI patents and firms’ allocation of innovative effort toward AI technologies. To support future research, we release our training data, source code, and patent-level predictions, with ongoing updates to reflect the evolving nature of AI innovation.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -1440,7 +1500,7 @@
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
         "matched_count": 12,
-        "total_in_issue": 14,
+        "total_in_issue": 13,
         "papers": [
           {
             "title_en": "Unpacking how integrator state-owned enterprises respond to institutional demand tensions in complex product systems innovation",
@@ -1474,6 +1534,17 @@
             ]
           },
           {
+            "title_en": "What makes an effective ideator? The distinct roles of cognition, personality, and experience in early-stage venture ideation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103683",
+            "abstract_en": "A microfoundational account of organizational innovation capability should explain which individual-level attributes distinguish ideators who are better able to generate, select, and elaborate ideas into investment-worthy business concepts. Yet research remains fragmented because prior studies often examine isolated traits and fail to distinguish among key creative ideation outcomes. Drawing on Trait Activation Theory, we conceptualize venture ideation as a staged, trait-relevant context in which cognitive abilities, personality traits, and creative domain experience are differentially expressed across successive stages. We examine this theorizing using a task-based assessment that separates idea quantity , idea originality , and idea quality . Innovation-exposed experts, including R&D experts, managers, and entrepreneurs (n = 208), generated multiple business ideas for a disruptive technology, selected their most promising idea, and refined it into a product or service concept incorporating core elements of a viable business model. Experienced technology-focused venture capitalists evaluated idea quality by indicating whether these concepts merited investment interest. We quantified semantic distinctiveness using multiple large language models as a semantic proxy for selected-idea originality. Divergent thinking predicted idea quantity, but not investor-evaluated idea quality. In contrast, investment-interest judgments were predicted by ideators’ Openness to Experience, creative domain experience, and convergent thinking ability. Overall, our findings show that early-stage venture ideation is not a unitary creative process. Different attributes help ideators generate many ideas and develop selected ideas into investment-worthy business model concepts, advancing a microfoundational account of organizational innovation capability in technology-based venture creation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Coopetitive portfolio configurations for product innovation: A crisp-set Qualitative Comparative Analysis",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103656",
@@ -1499,6 +1570,16 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103659",
             "abstract_en": "Drawing on feminist and institutional perspectives, this study analyses whether women are equally likely as men to engage in innovative entrepreneurship and whether the maturity of debt and equity markets strengthens women's participation. We use data from 71,888 early-stage ventures across 101 countries and show that women are as likely as men to engage in innovative entrepreneurship, once crucial individual and country-level factors are controlled for. Further, we demonstrate that both debt and equity market development positively moderate this relationship. These findings reveal that gender gaps in innovative entrepreneurship reflect structural and institutional conditions rather than intrinsic propensities and highlight the role that financial development plays in supporting female innovative entrepreneurship.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "How sharing-platform SMEs innovate their business models in developing economies: A process and ecosystem perspective",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103684",
+            "abstract_en": "Sharing-platform small and medium-sized enterprises (SPSMEs) are a critical player in the sharing economy. However, how they innovate their business models in the developing economies setting is still unclear. This is because most research focuses on large sharing-platform firms in developed economies, often treating their business models as relatively static configurations, while explaining their innovation mainly from the firm's internal perspective. Accordingly, we ask: how SPSMEs, that operate in developing economies, adapt and reconfigure their business models over time while responding to challenging external conditions (including weak institutions, regulatory uncertainty, low digital awareness, fragmented provider networks, and limited ecosystem support). Drawing on multiple-case studies comprising seven SPSMEs in Jordan and the UAE, we develop a 3Ts process model (Triggering, Theming and Transforming) which explains how SPSMEs recognise opportunities, define value logics, and reconfigure their digital activity systems over time. We also show that the SPSMEs business ecosystem consists of two networks (the Digital Activity Network and the Digital Business Network), whose actors enable, constrain and redirect the business model innovation process. The study contributes to research on business model innovation (BMI) and the sharing economy literature by showing that BMI in SPSMEs is not a one-off design outcome. Rather, it is an evolving and context-sensitive process shaped by firm-level adaptation and business ecosystem conditions, particularly in developing economies.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -1546,28 +1627,6 @@
             "matched_topics": [
               "国际贸易",
               "企业创新"
-            ]
-          },
-          {
-            "title_en": "Government support, co-creation, and digital transformation on the road to sustainable innovation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103687",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The low-value trap: Sustaining multi-actor collaboration across problem spaces in emerging technology commercialization",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103657",
-            "abstract_en": "Despite the potential applications of bio-marine technologies, many promising innovations remain confined to the laboratory, missing potential high-value applications and damaging the overall perception of the emerging technology. Prior research has highlighted the positive impact of multi-actor collaborations on technology development, particularly to bridge the gap between the lab and the market. However, we know little about the mechanisms that sustain productive multi-actor collaboration in emerging technology commercialization and why they prove insufficient as actors move from low-to high-value applications. We study the case of an emerging technology – the utilization and application of fucoidan, a bio-marine extract – to explore how collaboration is sustained among actors as they face the increasing complexity of the technology commercialization for high-value applications. By building on patents and publications and analyzing in-depth interviews, we identify three key mechanisms that support effective collaboration: anchoring a shared vision, coordinating across knowledge boundaries, and structuring an operational framework. We show how these mechanisms need to be recalibrated, not simply scaled, when actors transition across problem spaces from low to high-value applications, and why the failure to do so produces a low-value trap for the emerging technology.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
             ]
           }
         ],
@@ -1692,7 +1751,7 @@
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
         "matched_count": 3,
-        "total_in_issue": 4,
+        "total_in_issue": 5,
         "papers": [
           {
             "title_en": "Hospital Billing Regulations and Financial Well-being: Evidence from California’s Fair Pricing Law",
@@ -1800,28 +1859,16 @@
         "query_name": "PharmacoEconomics",
         "issn": "1170-7690",
         "resolved_name": "PharmacoEconomics",
-        "issue_title": "Volume 44, Issue 8",
+        "issue_title": "Volume 44, Issue 9",
         "issue_url": "https://link.springer.com/journal/40273",
-        "matched_count": 8,
-        "total_in_issue": 9,
+        "matched_count": 5,
+        "total_in_issue": 10,
         "papers": [
           {
-            "title_en": "A Systematic Literature Review of Health Economic Modelling Approaches Used to Evaluate Treatment Resistant and Uncontrolled Hypertension: A Critical Appraisal and Considerations for the Design of Future Model Analyses",
+            "title_en": "A Critical Systematic Review of Modelling Approaches and Methodologies used in Hyperlipidaemia Economic Evaluations",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01625-0",
-            "abstract_en": "BACKGROUND AND AIMS: Uncontrolled hypertension (ucHTN) and treatment-resistant hypertension (trHTN) are associated with a substantial increase in the risk of cardiorenal events and mortality compared with well-controlled hypertension. Treatment strategies that can optimise blood pressure management are urgently needed to improve health outcomes in ucHTN and trHTN populations; health economic models play a key role in assessing the economic value of new and existing treatments and supporting resource allocation. This systematic literature review critically assesses the construct and quality of existing health economic modelling used in the evaluation of management approaches for ucHTN and trHTN, to inform the design and development of future health economic models. MATERIALS AND METHODS: This review was conducted and reported following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 checklist. Searches were conducted on Medline, Embase, EconLit, the Cost-effectiveness Analysis and the International HTA database. Searches were run from inception to May 2024 and re-run in February 2026. Although no date limits were placed on the electronic searches, a limit of 2005 and onwards was applied during study selection. Economic model studies were included if they assessed pharmacological or renal denervation (RDN) interventions for treatment of either ucHTN or trHTN in adult populations. Study eligibility, data extraction and quality assessment using the Drummond checklist were conducted independently by two reviewers. RESULTS: After deduplication, a total of 2754 records were identified. Of these, 2556 did not meet the eligibility criteria after title and abstract screening; 198 full texts were reassessed for eligibility. A total of 21 modelling studies were included: 16 economic evaluations (14 cost-utility analyses, 1 cost-effectiveness analysis and 1 cost-minimization analysis), 4 burden-of-illness studies and 1 budget impact analysis. The majority of studies focused on people with ucHTN and employed a healthcare system perspective. Economic evaluations were based on treatment effects on systolic blood pressure estimated from clinical trials. Several models predicted long-term cardiorenal events and mortality on the basis of published, validated risk equations; however, these risk equations were not developed in populations with ucHTN or trHTN. Although models were generally assessed to be of good quality, models incorporated health-related quality of life and cost data from controlled hypertensive or non-hypertensive populations, rather than those with ucHTN and trHTN. CONCLUSIONS: A range of economic models were identified and considered structurally relevant. These models demonstrated that treatment related improvements in blood pressure were cost-effective and robust in scenario analysis. However, important model limitations include their lack of use of population-specific health-related quality-of-life data and risk equations which may result in underestimation of treatment cost effectiveness. To reduce uncertainty and support improved economic modelling that can accurately contextualize emerging therapies for ucHTN and trHTN, future economic model analyses in ucHTN and trHTN need appropriate population health and cost data for these underserved populations.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "医药产业",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Using Proportional and Absolute Shortfall in Reimbursement Decision-Making in the Netherlands: Implications for Oncology Drugs for Older Patients",
-            "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01626-z",
-            "abstract_en": "In the Netherlands, proportional shortfall is the primary metric for threshold-setting in cost-effectiveness analyses, while absolute shortfall is also reported and considered during appraisal. Although conceptually and mathematically related, the two metrics can yield discordant results. Their theoretical differences are well recognised; nevertheless, debate continues regarding which metric should be used for operationalising disease severity in health technology assessment (HTA). This study describes the rationale behind the combined use of proportional and absolute shortfall by the National Health Care Institute (ZIN) and provides empirical evidence on how the two severity metrics relate in real-world reimbursement practice. We analysed proportional and absolute shortfall levels reported in 56 of all 57 appraised reimbursement dossiers published by ZIN between May 2018 and April 2026. While the two metrics are systematically related, we observed a distinct cluster of 28 dossiers showed high proportional shortfall (mean 0.88) but relatively low absolute shortfall (mean 14.28 QALYs). Of these, 27 concerned oncology drugs for older patients, which were significantly more likely to fall into this cluster than non-oncology drugs. These findings demonstrate that differences between proportional and absolute shortfall, previously discussed largely at a theoretical level, translate into observable patterns in reimbursement practice. By making explicit how the two metrics profile technologies differently, this study contributes empirical evidence to ongoing policy discussions about the operationalisation of disease severity in HTA. More specifically, the analysis clarifies how ZIN's current practice of reporting both metrics may support more transparent, better-informed and consistent use of disease severity in reimbursement decision-making.",
+            "url": "https://doi.org/10.1007/s40273-026-01631-2",
+            "abstract_en": "BACKGROUND AND OBJECTIVES: Health economic modelling integrates evidence from multiple sources and relies on transparency to support reimbursement decisions. Hyperlipidaemia is a major contributor to cardiovascular disease and is routinely evaluated within health technology assessment frameworks. This systematic review examines health economic models of hyperlipidaemia, evaluates the methodological approaches used in the model development and identifies opportunities to improve model quality and transparency. METHODS: A systematic literature search was conducted in MEDLINE and Embase between 1987 and 2025 to identify hyperlipidaemia health economic models. Screening, data extraction and quality assessment were performed manually, and artificial intelligence (AI) software was used for additional checking, this was followed by conflict resolution. Findings are presented through narrative synthesis. This study was registered in the International Prospective Register of Systematic Reviews (PROSPERO; CRD420251043922). The review assessed key aspects of model structure including model type, type of hyperlipidaemia, population, hyperlipidaemia-related events, model outcomes, time horizon, software used and discounting approach. We assessed methodological quality through the Philips checklist, with a focus on model structure, data usage, the way in which studies addressed uncertainty through sensitivity analysis and model validation. RESULTS: A total of 154 unique model-based economic evaluations were identified, comprising 132 Markov models, 9 microsimulation models and 1 discrete event simulation. Most economic evaluations explored general hypercholesterolaemia in 138 studies, followed by familial hypercholesterolaemia in 23 studies, while lipoprotein(a) was investigated in two studies. Primary prevention was examined in 89 models, secondary prevention in 50 models and a combination of both in 15 evaluations. Overall methodological quality was assessed as high for models' structure and data usage; however, it was moderate for model consistency. CONCLUSIONS: Hyperlipidaemia models generally had transparent assumptions and a justified structure. However, current models often lack systematic data-selection practices to identify the most appropriate evidence for evaluation. Extensive uncertainty analysis and model validation were frequently absent in the assessed models. To support decision-making, model results should be displayed in an open-source format with publicly available code. Furthermore, patient values are rarely incorporated in current modelling practices, representing missed opportunities for patient-centred care.",
             "abstract_zh": "",
             "matched_topics": [
               "医药产业",
@@ -1830,68 +1877,44 @@
             ]
           },
           {
-            "title_en": "Comparison of Alternative Outcome Measures in Cost-Effectiveness Analysis: Three Applications Within Oncology",
+            "title_en": "Cost-Utility Analysis of Calcitonin Gene-Related Peptide Monoclonal Antibodies for Patients with Episodic Migraine Headache in the USA",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01619-y",
-            "abstract_en": "BACKGROUND: Quality-adjusted life-years (QALYs) are the predominant health benefit measure used in health technology assessment. In response to legal and policy constraints on the use of QALYs in some jurisdictions, alternative outcome measures, such as equal value life-years and health years in total, have been proposed. However, there is limited illustration of how these alternative measures behave when applied to common health economic model structures. METHODS: Three stylized oncology economic models, reflecting typical features of published cost-effectiveness analyses, were used to examine how alternative outcome measures re-express identical underlying survival and health-related quality-of-life inputs. Outcomes based on QALYs were compared with those based on life-years, equal value life-years, and health years in total for renal cell carcinoma, chronic myeloid leukemia, and non-small cell lung cancer. RESULTS: Incremental health years in total were consistently larger than incremental QALYs (13-46% higher). The relationship between life-years and QALYs varied across indications (from 63% lower to 43% higher). CONCLUSIONS: When applied to identical model inputs, alternative outcome measures primarily re-express existing information rather than incorporate additional dimensions of health benefit. Differences relative to QALYs reflect alternative weighting of survival and health-related quality-of-life effects and depend on the balance between these components. These findings highlight the need for careful interpretation of alternative measures when used alongside QALYs in economic evaluation.",
+            "url": "https://doi.org/10.1007/s40273-026-01624-1",
+            "abstract_en": "OBJECTIVE: We aimed to evaluate the cost effectiveness of eptinezumab and erenumab as a preventive treatment of migraine in patients with episodic migraine with different routes of administration, from the US healthcare payer perspective. METHODS: A hybrid decision tree-Markov model was constructed to assess the cost effectiveness of eptinezumab and erenumab as a preventive treatment for migraines compared to topiramate among patients with episodic migraine from the US healthcare payer's perspective. A decision tree model simulated the probability of patients experiencing adequate responses to treatments in the first 6 months, which fed into a Markov model using a 2-year time horizon. The Markov model consisted of three states: \"Off Preventive Treatment,\" \"Preventive Treatment,\" and death. Total costs, quality-adjusted life-years, and incremental cost-effectiveness ratios were estimated for each strategy followed by sensitivity analyses. An annual discount rate of 3% was applied to both costs and utility values, and costs were reported in 2025 US dollars. RESULTS: In the base-case results, total costs of eptinezumab and erenumab were $21,767 and $21,739, respectively. Total quality-adjusted life-years for eptinezumab and erenumab were 1.32 and 1.30, respectively. Base-case incremental cost-effectiveness ratios of eptinezumab and erenumab compared to topiramate were $117,626 and $155,259 per quality-adjusted life-year gained, respectively. Erenumab was eliminated because of extended dominance; thus, eptinezumab was selected for additional sensitivity analyses. In the one-way sensitivity analysis, treatment response, utility values, and drug costs were influential in changing the study's conclusions. In the probabilistic sensitivity analysis, eptinezumab was cost effective in 1.8%, 33.6%, and 78.6% of simulations when the willingness-to-pay threshold was $50,000, $100,000, and $150,000 per quality-adjusted life-year gained, respectively. CONCLUSIONS: Our analysis suggests that eptinezumab might be cost effective at a willingness-to-pay threshold of $150,000 per quality-adjusted life-year gained compared with topiramate, with uncertainties on health state utilities and pharmaceutical costs. Policymakers should carefully consider the tradeoffs between costs and benefits when making decisions regarding formulary coverage for the episodic migraine population.",
             "abstract_zh": "",
             "matched_topics": [
-              "医疗创新"
-            ]
-          },
-          {
-            "title_en": "Application of a Prevalence-Adjusted Cost-Effectiveness Threshold Framework for Pulmonary Arterial Hypertension",
-            "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01616-1",
-            "abstract_en": "BACKGROUND: Pulmonary arterial hypertension (PAH) is a rare, progressive condition associated with high per-patient treatment costs and substantial clinical burden. Interpreting cost-effectiveness evidence for rare diseases remains challenging when uniform thresholds are applied across conditions that differ markedly in prevalence and scale of healthcare production. OBJECTIVE: The aim of this study was to estimate a prevalence-adjusted effective cost-effectiveness threshold for PAH and illustrate how disease prevalence and production scale influence the interpretation of cost-effectiveness evidence under a fixed health care budget. METHODS: We applied a previously developed prevalence-adjusted cost-effectiveness threshold framework, referred to as a generalized dynamic prevalence (GeDP) approach, to PAH using nationally representative disease prevalence data from the Medical Expenditure Panel Survey. A flexible statistical transformation was used to accommodate the highly right skewed distribution of disease prevalence and to estimate the relationship between prevalence and effective thresholds. The analysis was anchored to an empirically estimated US health opportunity cost benchmark and applied to PAH, with comparisons to selected common and rare diseases. Illustrative scenarios examined how effective thresholds evolve under changes in disease prevalence over time. RESULTS: Effective cost-effectiveness thresholds increased as disease prevalence declined, reflecting production-side scale effects rather than differences in societal preferences. For PAH (prevalence ≈ 0.013%), the prevalence-adjusted effective threshold was estimated at US$582,270 per QALY (95% CI 581,319-583,163), representing more than a five-fold increase relative to the reference opportunity-cost benchmark of US$104,000 per QALY applied to highly prevalent conditions. Dynamic scenarios showed that effective cost-effectiveness thresholds decline as prevalence changes over time, with larger adjustments observed for initially rare conditions. CONCLUSION: Applying a uniform cost-effectiveness threshold across diseases implicitly assumes homogeneous production conditions and opportunity costs. Prevalence-adjusted effective thresholds derived under the GeDP framework provide a quantitative, descriptive approach for contextualizing cost-effectiveness evidence for rare diseases such as PAH without redefining societal willingness to pay or prescribing decision rules. This approach can complement existing pharmacoeconomic evaluations by improving transparency around the role of prevalence and scale in shaping opportunity costs.",
-            "abstract_zh": "",
-            "matched_topics": [
+              "国际贸易",
               "医药产业"
             ]
           },
           {
-            "title_en": "Developing French Population Tariffs for the ICECAP-A Using Best–Worst Scaling",
+            "title_en": "Cost-Effectiveness and Budget-Impact Analysis of Semaglutide in Heart Failure with Preserved Ejection Fraction and Obesity in the German Health-Care System",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01614-3",
-            "abstract_en": "",
+            "url": "https://doi.org/10.1007/s40273-026-01621-4",
+            "abstract_en": "BACKGROUND: Heart failure with preserved ejection fraction (HFpEF) is common, debilitating, and has limited availability of disease-modifying therapies. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) such as semaglutide improved symptoms and weight in the Semaglutide Treatment Effect in People with obesity and HFpEF (STEP-HFpEF) trial but their economic value in HFpEF is unclear. METHODS: We developed a cohort state-transition (Markov) model based on STEP-HFpEF to evaluate semaglutide versus placebo in patients with HFpEF and obesity from the German statutory health insurance (SHI) perspective. Health states were defined by Kansas City Cardiomyopathy Questionnaire-Clinical Summary Score (KCCQ-CSS) quartiles and death. Outcomes included costs, quality-adjusted life-years (QALYs), and incremental cost-effectiveness ratios (ICERs). Deterministic, probabilistic, time-horizon, and structural KCCQ trajectory scenario analyses were performed. A 1-year prevalence-based budget impact analysis estimated additional SHI expenditure under alternative eligibility and uptake scenarios. RESULTS: Over 5 years, semaglutide increased total costs (2025 €) (17,690.5 € versus 12,748.6 €) and QALYs (3.371 versus 3.208), yielding an ICER of 30,443 €/QALY and a positive incremental net monetary benefit. Over 1 year, the ICER was 82,237 €/QALY. At the base-case price, the probability that semaglutide is cost-effective at 100,000 €/QALY was 0.911, rising with further price reductions. The 1-year budget impact ranged from approximately 168 million € to 864 million €, depending on eligibility and uptake. CONCLUSIONS: Semaglutide appears cost-effective for HFpEF with obesity under the base-case assumptions and over longer analytic horizons. Yet it generates substantial budget impact, indicating that affordability and pricing will be critical for its sustainable implementation.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易"
+              "产业经济"
             ]
           },
           {
-            "title_en": "Balancing Innovation and Access: Insights from AIM’s Fair Pricing Model and Its Current and Future Applications",
+            "title_en": "Identifying and Comparing Intervention Cost Components in Remote Patient Monitoring: A Scoping Review",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01615-2",
-            "abstract_en": "OBJECTIVE: Access to affordable medicines is a cornerstone of equitable healthcare, yet escalating drug prices increasingly strain national healthcare systems. Cost-based pricing can be a useful complement to value-based pricing, provided that relevant variables are considered. METHODS: We applied the International Association of Mutual Benefit Societies (AIM) Fair Pricing Model to ten market-protected medicines authorized by the European Medicines Agency between 2015 and 2018, covering oncology, rare diseases, and chronic conditions. Analyses were conducted across six European countries-Belgium, Estonia, Germany, the Netherlands, Slovenia, and Switzerland-to assess discrepancies between calculated fair prices and actual market prices. Fair prices were calculated using a standardized research and development (R&D) lump sum of €800 million per medicine with sensitivity analyses at €250 million and €2.5 billion. Fair prices were compared with 2020 list prices, and where available, estimated net prices. Potential budgetary savings were estimated by deriving a weighted reduction percentage from the expenditure gap between actual prices and fair prices and applying this to national spending on newly marketed medicines. RESULTS: The analysis demonstrated that fair prices were up to 97% lower than list prices, and on average, 53% lower. When confidential discounts were considered, fair prices remained on average 33% below net prices. Applying fair prices to the ten selected medicines resulted in an average weighted reduction of 77% in gross expenditures and 73% in net expenditures of the six participating countries. When extrapolated to the European level, this corresponds to potential annual net savings of €27 billion for new medicines. CONCLUSIONS: These findings align with previous studies in Germany and Belgium, which reported potential savings of more than €13 billion and €1 billion, respectively (with R&D costs of €250 million). Currently, the model supports price negotiations of Dutch insurers and is being integrated into the Horizon Europe funded project ASCERTAIN. Overall, AIM's model offers a useful framework for both innovative and repurposed medicines, improving transparency and fairness in pricing. Current prices paid for new medicines are not justified by the underlying costs of research or their therapeutic value. Therefore, applying this model can generate substantial savings for European health systems.",
+            "url": "https://doi.org/10.1007/s40273-026-01620-5",
+            "abstract_en": "BACKGROUND AND OBJECTIVE: Remote patient monitoring has shown promising outcomes, such as improved disease awareness and reduced hospital stay. However, assessing the cost of the remote patient monitoring itself is challenging owing to the lack of standardization and transparency in economic evaluations of remote patient monitoring. This review aims to identify and compare the cost components used to estimate the remote patient monitoring intervention costs and the reported challenges in assessing them. METHODS: We performed a scoping review of studies published in PubMed, Embase, and Web of Science that conducted an economic evaluation of a remote patient monitoring between January 2019 and March 2026. Titles and abstracts were screened. Relevant articles were subjected to full-text screening to assess eligibility, and reported cost components were counted based on predefined categories. Difficulties reported by the economic evaluation authors (challenges) were extracted and analyzed using thematic synthesis. RESULTS: A total of 1282 articles were identified, of which 84 studies met the eligibility criteria. Forty-nine (58%) studies had an observational design, and the remaining studies had a model design. Components of remote patient monitoring intervention costs were reported in 71 (85%) of the included studies, with staff salaries (62%) and equipment/technology (56%) costs being the most frequently reported. The most commonly reported challenge was uncertainty about which remote patient monitoring cost categories to include. CONCLUSIONS: This review highlights the disparities in the assessment and reporting of remote patient monitoring intervention costs in economic evaluations. We offer an updated checklist and guidance for assessing and reporting intervention costs in future economic evaluations.",
             "abstract_zh": "",
             "matched_topics": [
-              "产业经济",
-              "企业创新",
               "创新药"
             ]
           },
           {
-            "title_en": "Accounting for Genomic Testing Costs in Cost-Effectiveness Evaluations: Challenges and Lessons Learned from the NICE Single Technology Appraisal of Erdafitinib for Treating Unresectable or Metastatic Urothelial Cancer with FGFR3 Alterations After a PD-1 or PD-L1 Inhibitor",
+            "title_en": "Real-World Economic Burden Associated with Progressive Pulmonary Fibrosis in the US: An Administrative Claims Database Analysis",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01592-6",
-            "abstract_en": "Precision medicine incorporates genomic and molecular profiling into clinical decision-making, enabling treatments to be tailored to the unique characteristics of each patient and their disease [ 1 , 2 ]. For instance, therapies may target epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) mutations, B-Raf proto-oncogene (BRAF) variants, or programmed death-ligand 1 (PD-L1) expression levels [ 3 ]. Over the past decade, the implementation of precision medicine in oncology has resulted in improved survival rates, reduced off-target toxicities, and enhanced quality of life compared with non-targeted therapies [ 3 , 4 , 5 , 6 , 7 ]. However, precision oncology presents new challenges. Alongside the high acquisition costs of precision therapies, influenced by the complex research, development, and smaller treatment populations [ 8 ], patients must undergo additional genomic testing to determine eligibility [ 4 ]. These diagnostic requirements introduce further costs that can influence cost-effectiveness evaluations, especially when genomic testing is not (yet) part of routine clinical practice, and the prevalence of actionable mutations is low [ 9 , 10 ]. Applying the full cost of genomic testing to populations with low prevalence can substantially increase incremental cost-effectiveness ratios (ICERs), which may risk discouraging innovation [ 11 , 12 ]. In contrast, in larger populations, testing costs are distributed across more patients, thereby reducing their impact. Yet, oncology is increasingly moving towards molecularly defined subgroups as more targeted therapies emerge [ 3 , 8 ]. This commentary highlights the challenges and key learnings of integrating genomic testing costs in cost-effectiveness evaluations from an External Assessment Group (EAG) perspective, using the example of the National Institute for Health and Care Excellence (NICE) Single Technology Appraisal (STA) of erdafitinib for treating unresectable or metastatic urothelial cancer (UC) with fibroblast growth factor receptor 3 (FGFR3) alterations after a programmed death receptor-1 (PD-1) or PD-L1 inhibitor in adults.",
+            "url": "https://doi.org/10.1007/s40273-026-01623-2",
+            "abstract_en": "Among patients with non-idiopathic pulmonary fibrosis (non-IPF) interstitial lung disease (ILD), developing progressive pulmonary fibrosis (PPF) is associated with increased economic burden, inpatient (IP) admissions, and mortality. However, little is known about the burden within specific payer types. This retrospective study assessed the economic burden of PPF and associated time to first IP admission among distinct cohorts of Medicare Advantage Prescription Drug (MAPD) beneficiaries and commercial enrollees in the United States (US). Medical and pharmacy claims were analyzed among patients diagnosed with non-IPF ILD between 1/1/2017 and 11/30/2023. Patients who developed PPF (cases) were matched with those who had not yet progressed (comparators) using 1:1 propensity score matching (PSM) with replacement. The index date was the earliest PPF date for cases; the respective comparator was assigned an index date to create identical pre-index durations. Variable follow-up began on the index date and lasted for ≥ 3 months. Primary outcomes were all-cause and ILD-related healthcare resource utilization (HCRU) and costs (US dollars [USD] 2023) during follow-up. Outcomes were stratified by insurance type and weighted per patient per month (wPPPM). Multivariable models assessed all-cause costs and time to first IP admission, adjusting for covariates that remained imbalanced after PSM. A total of 60,171 matched pairs were analyzed: 50,683 MAPD and 9488 commercial. PSM generated well-balanced cohorts, except for race/ethnicity, ILD diagnosis year, unique pre-index medications filled (MAPD), and age group (commercial). For both insurance types, the PPF group was associated with significantly higher economic burden than the comparator group. All-cause costs averaged $3640 versus $1897 wPPPM (p < 0.001) in MAPD and $6164 versus $2741 (p < 0.001) in commercial. Differences were primarily driven by IP burden (MAPD: $1412 vs $507; commercial: $2094 vs $559; both p < 0.001). Mean length of IP stay was significantly longer among patients that developed PPF (MAPD: 0.9 vs 0.4 days; commercial: 0.5 vs 0.2 days; both p < 0.001). A generalized linear model showed that PPF was associated with higher adjusted all-cause costs (MAPD cost ratio [95% confidence interval {CI}]: 1.861 [1.807–1.916]; commercial: 2.096 [1.897–2.316]). Cox proportional hazards ratios (95% CI) showed a significantly higher hazard of first IP admission with PPF (MAPD: 2.060 [2.005–2.116]; commercial: 2.324 [2.133–2.532]). Notably, follow-up use of antifibrotics was low among patients with PPF (0.8% MAPD; 1.0% commercial). For MAPD and commercial cohorts, PPF was associated with significantly higher HCRU, costs, and hazard of IP admission. Differences in economic burden were primarily driven by IP utilization. These findings support the prioritization of treatments or strategies that attenuate the risk and rate of progression to mitigate downstream healthcare burden. Some people with interstitial lung diseases (ILDs)—a group of conditions that cause scarring in the lungs—may develop a more serious condition over time called progressive pulmonary fibrosis (PPF). PPF makes it harder to breathe and can lead to hospital stays, higher medical costs, and early death. This study looked at how PPF affects healthcare use and costs in the United States. Because insurance plans may differ in how patients access care and what they pay, we used insurance data from two groups of people: those with Medicare Advantage plans and those with commercial insurance. The study compared people who developed PPF with similar individuals who had not yet progressed. We examined how often patients used healthcare services—like doctor visits or hospital stays—and how much their care cost over time. We found that people with PPF had more doctor visits, more hospital stays, and higher medical costs than those who did not progress. In the Medicare Advantage group, people with PPF had average monthly healthcare costs of $3640 compared with $1897 for those without PPF. In the commercial group, those numbers were $6164 and $2741, respectively. Hospital stays were the biggest reason for these cost differences. Notably, only about 1% of patients with PPF were using treatments that may slow down the disease and reduce hospitalizations. These findings show that PPF is associated with a significantly higher burden on patients and the healthcare system. Catching the disease early and finding ways to prevent hospital stays may help reduce costs and improve care.",
             "abstract_zh": "",
             "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Schrodinger’s Pricing: Conceptual and Practical Challenges of Conditional PAS in the NICE Technology Appraisal of Lorlatinib for Untreated ALK-Positive Advanced Non-small-cell Lung Cancer (Review of TA1103): An External Assessment Group Perspective",
-            "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01593-5",
-            "abstract_en": "Patient access schemes (PAS) are confidential commercial arrangements made between pharmaceutical companies and the National Health Service (NHS), allowing companies to provide discounts on a pharmaceutical technology’s list price. These schemes are commonly proposed as part of a National Institute for Health and Care Excellence (NICE) technology appraisal, aiming to enhance the drug’s cost effectiveness and support a positive recommendation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济",
-              "医药产业",
-              "创新药"
+              "医药产业"
             ]
           }
         ],
