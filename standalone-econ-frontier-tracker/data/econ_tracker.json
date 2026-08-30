@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-08-23 05:19:28",
+  "updated_at": "2026-08-30 10:22:12",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 310,
+    "fail_count": 308,
     "failed_examples": [
-      "Energy Transitions in Regulated Markets :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "Natural gas has replaced coal as the dominant fuel for US electricity generation :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "Designing Dynamic Reassignment Mechanisms: Evidence from GP Allocation :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "We study the problem of designing a dynamic reassignment mechanism when agents'  :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "The Productivity of Professions: Evidence from the Emergency Department :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "This paper studies the productivity of nurse practitioners (NPs) and physicians, :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p"
+      "Manipulation-Robust Prediction :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "An increasing number of decisions are guided by machine learning algorithms. But :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "Rationing by Race :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "We document how deepening resource scarcity results in rationing on the basis of :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "Optimal Public Transportation Networks: Evidence from the World's Largest Bus Ra :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "Designing public transport networks involves trade-offs between coverage, servic :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p"
     ],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
   },
@@ -167,26 +167,66 @@
         "query_name": "American Economic Review",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 8",
+        "issue_title": "Volume 116, Issue 9",
         "issue_url": "https://www.aeaweb.org/journals/aer",
-        "matched_count": 6,
+        "matched_count": 7,
         "total_in_issue": 12,
         "papers": [
           {
-            "title_en": "Energy Transitions in Regulated Markets",
+            "title_en": "Manipulation-Robust Prediction",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20240094",
-            "abstract_en": "Natural gas has replaced coal as the dominant fuel for US electricity generation. However, utilities in regulated US states have retired coal more slowly than others. We build a structural model of rate-of-return regulation during an energy transition where utilities face trade-offs between lowering costs and maintaining and using legacy capacity. A regulated utility facing carbon taxes lowers short-run coal generation 48 percent as much as a cost minimizer would. Thirty years after a sudden energy transition, a cost minimizer has retired 71 percent more coal capacity than the regulated utility. Alternative regulations may jeopardize affordability and reliability goals during energy transitions. (JEL D24, L94, L98, Q35, Q48)",
+            "url": "https://doi.org/10.1257/aer.20241087",
+            "abstract_en": "An increasing number of decisions are guided by machine learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach that adjusts decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress-test this approach through a large field experiment in Kenya. When implemented, linear strategy-robust decision rules outperform standard linear models such as LASSO. (JEL C45, C93, D12, D91, G51, O12, O16)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Rationing by Race",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20240701",
+            "abstract_en": "We document how deepening resource scarcity results in rationing on the basis of race in a high-stakes setting: health care. Using detailed, time stamped data on 107,000 inpatient admissions to a large health system, we find that in-hospital mortality increases for Black but not White patients as hospitals reach capacity. These findings are not explained by differential patient selection. We identify rationing by wait times as a mechanism, documenting that sicker Black patients wait longer for care than healthier White patients at almost all capacity levels. Text analysis of unstructured clinical notes reveals rationing of provider effort as another mechanism. (JEL I11, I12, I14, J15)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Optimal Public Transportation Networks: Evidence from the World's Largest Bus Rapid Transit System in Jakarta",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20230768",
+            "abstract_en": "Designing public transport networks involves trade-offs between coverage, service frequency, and direct service. We use the expansion of the bus system in Jakarta, Indonesia, to study these trade-offs. We analyze how new direct connections, changes in bus travel time, and wait-time reductions affect bus ridership and aggregate flows and estimate a transit network demand model by matching the route launch events. Commuters in Jakarta are 2–3 times more sensitive to wait time than bus time and inattentive to long routes. We develop a flexible framework to characterize optimal networks. A less concentrated network would increase ridership and commuter welfare. (JEL L92, L98, O18, R41, R42, R48)",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Designing Dynamic Reassignment Mechanisms: Evidence from GP Allocation",
+            "title_en": "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20240617",
-            "abstract_en": "We study the problem of designing a dynamic reassignment mechanism when agents' preferences over objects change over time. In the context of Norway's system for (re)assigning patients to general practitioners (GPs), we provide direct evidence of misallocation under the current mechanism—patients waiting for each others' GPs, but who cannot trade—and estimate a structural model of GP-switching behavior to evaluate alternatives. Introducing top trading cycles (TTC) would, on average, reduce waiting times and increase patient welfare. However, patients endowed with less desirable GPs would be harmed. Prioritizing these patients can avoid these harms while preserving most of the gains from TTC. (JEL D82, H51, I11, I13, I18)",
+            "url": "https://doi.org/10.1257/aer.20241001",
+            "abstract_en": "We provide experimental evidence on the intergenerational impacts of secondary education subsidies in a low-income context, leveraging a randomized controlled trial and 15-year longitudinal follow-up. Secondary school scholarships delay fertility, reduce unwanted pregnancies, and change partner selection. Under-one mortality is reduced by half. We also document cognitive development gains of 0.24 standard deviations of test scores by age five among children of female scholarship recipients. Means-tested secondary school scholarships are a high-return investment, with a conservatively estimated US$4.1 in benefits for each US$1 the policy would cost the government in the long run. (JEL H52, I12, I21, I26, J13, J16, O15)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Risk-Sharing Tests and Covariate Shocks: Drought, Floods, and Pests in Uganda",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20240664",
+            "abstract_en": "Efficient risk sharing implies a simple factor structure for marginal utilities of expenditure (MUEs): Pareto weights divided by a common price. The standard approach infers MUEs from total expenditures, implicitly assuming homothetic preferences, unitary income elasticities, and identical price elasticities. Risk-sharing tests using total expenditures work for idiosyncratic shocks (budgets change, but not prices), but not “covariate” shocks (prices change). I describe all preferences that permit one to infer MUEs from expenditures and estimate nonhomothetic MUEs to test whether covariate shocks are shared efficiently in Uganda. This delivers sensible results; the standard approach suggests that droughts, floods, and pests are beneficial. (JEL D12, D81, O12, O13, Q12)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Defying Distance? The Provision of Medical Services in the Digital Age",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20240756",
+            "abstract_en": "Digital platforms reduce geographic frictions, enabling better matching between service providers and users. I quantify reallocation gains in Swedish online health care, using nationwide time-conditional random assignment between patients and physicians. Matching high-risk patients with doctors effective at reducing Emergency Room visits lowers such visits by 4.4 percent (SE 1.3); reallocations also reduce Counter-Guideline antibiotics by 3.1 percent (1.4). I find limited trade-offs in matching; horizontal differentiation among doctors and varied patient needs allow improvement in multiple outcomes simultaneously. Efficiency-enhancing reallocations also affect equity. The findings highlight the potential for care reorganization aligning provider heterogeneity with patient needs when geographic constraints are lifted. (JEL C78, H51, I11, I13, I14, I18)",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -194,42 +234,10 @@
             ]
           },
           {
-            "title_en": "The Productivity of Professions: Evidence from the Emergency Department",
+            "title_en": "The Environmental Bias of Corporate Income Taxation",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20241007",
-            "abstract_en": "This paper studies the productivity of nurse practitioners (NPs) and physicians, two professions performing overlapping tasks but with starkly different backgrounds, training, and pay. Using quasi-experimental variation in patient assignment to NPs versus physicians in Veterans Health Administration emergency departments, we find that, on average, NPs use more resources and exhibit a higher 30-day preventable hospitalization rate than physicians. However, the NP-physician performance difference varies by case complexity and severity. Importantly, even larger productivity variation exists within each profession, leading to substantial overlap between the productivity distributions of the two professions; NPs outperform physicians in 38 percent of random pairs. (JEL I11, I18, J24, J44, M53)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Merger Effects and Antitrust Enforcement: Evidence from US Consumer Packaged Goods",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20240497",
-            "abstract_en": "We document the effects of a comprehensive set of mergers of consumer packaged goods manufacturers on prices, quantities, and product assortment. Across specifications, we find a small average price effect of mergers (−0.5−1.1 percent) but substantial heterogeneity, with a standard deviation between 3.9 and 7.6 percentage points. Through a model of enforcement, we find that agencies act as if they challenge mergers they expect would increase prices more than 4.8 to 6.3 percent. Increases in stringency would reduce prices and the prevalence of completed price-increasing mergers, with minimal impacts on blocked price-decreasing mergers, at significantly greater agency burden. (JEL D43, G34, K21, L13, L41, L66)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20250295",
-            "abstract_en": "Mechanisms that aim to reduce environmental degradation at low cost can be undermined when participants' conservation actions are not marginal to the incentive—or “additional”—as the lowest-cost participants may not be the highest social value. We investigate this challenge in the Conservation Reserve Program's auction mechanism for ecosystem services, linking bids to satellite-derived land use. Three-quarters of marginal auction winners are not additional. The heterogeneity in counterfactual land use introduces adverse selection. We develop a model of bidding and additionality to quantify welfare implications. Alternative auctions increase efficiency by using scoring rules that incorporate expected land use impacts. (JEL D44, D82, Q24, Q57, R14)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Random Utility with Unobservable Alternatives",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20240712",
-            "abstract_en": "The random utility model (RUM), a cornerstone in economics, is typically studied under the assumption that choice frequencies of all alternatives are observable. In practice, however, some alternatives have unobservable choice frequencies and are commonly aggregated into a single category called an outside option. We study RUM in such environments and derive a finite, nonredundant system of inequality constraints on observed choice frequencies that characterizes RU-rationalizability. We show that the conventional practice of aggregating unobserved alternatives can miss key information leading to incorrect conclusions such as that observed choices are rationalizable, even when no RUM is consistent with them. (JEL D11, D44, D83)",
+            "url": "https://doi.org/10.1257/aer.20241765",
+            "abstract_en": "We study the relationship between corporate income taxation and carbon dioxide (CO 2 ) emissions in the United States. We show CO 2 -intensive firms benefit more from the tax advantage of debt and pay lower income taxes on their capital income. Building on these new facts, we provide evidence that a cut in the corporate income tax rate leads to a larger expansion of clean firms. We develop a multisector general equilibrium model that accounts for our evidence and quantify the impact of corporate tax reforms on aggregate emissions. A policy that eliminates the tax advantage of debt could reduce aggregate emissions without affecting GDP. (JEL D22, G32, H25, H32, Q52, Q54, Q58)",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
@@ -259,13 +267,12 @@
             ]
           },
           {
-            "title_en": "Public Services Under Private Management",
+            "title_en": "International Reserve Management Under Rollover Crises",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/qje/qjag028",
-            "abstract_en": "Abstract Theory predicts that outsourcing public services to the private sector can reduce costs and improve efficiency but can also induce cost-cutting and compromise quality. We assess the Brazilian Organizações Sociais de Saude model (OSS), which outsources management of public hospital services to the private sector while the state remains the residual claimant. We show that this enhances hospital production and operational efficiency without adverse effects on hospital quality and equity. Increased inpatient production addresses previously unmet demand, expanding local access to hospital care and reducing population mortality. Performance gains arise from improved operational efficiency achieved through increased hospital management capacity. This facilitates staffing adjustments, favoring higher-skilled personnel, dismissing lower-productivity staff, and adopting flexible, performance-tied employment contracts. Effects are larger among private organizations with more management experience, underscoring returns to managerial capacity. Our findings show that incentive-ownership structures can address the quantity-quality trade-off in public service delivery, even when contracts are incomplete and quality is hard to measure.",
+            "url": "https://doi.org/10.1093/qje/qjag025",
+            "abstract_en": "Abstract This article investigates how a government should manage international reserves when it faces the risk of a rollover crisis. We ask: Should the government accumulate reserves or reduce debt to make itself less vulnerable? We show that the optimal policy entails initially reducing debt, followed by a subsequent increase in both debt and reserves as the government approaches a safe zone. Furthermore, we find that issuing additional debt to accumulate reserves can lead to a reduction in sovereign spreads. Evidence from a panel of emerging economies is consistent with these predictions: increases in reserves financed by public external borrowing are associated with lower spreads, and reserve holdings are not systematically drawn down during crisis episodes.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
               "创新药"
             ]
           },
@@ -281,12 +288,13 @@
             ]
           },
           {
-            "title_en": "International Reserve Management Under Rollover Crises",
+            "title_en": "Public Services Under Private Management",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/qje/qjag025",
-            "abstract_en": "Abstract This article investigates how a government should manage international reserves when it faces the risk of a rollover crisis. We ask: Should the government accumulate reserves or reduce debt to make itself less vulnerable? We show that the optimal policy entails initially reducing debt, followed by a subsequent increase in both debt and reserves as the government approaches a safe zone. Furthermore, we find that issuing additional debt to accumulate reserves can lead to a reduction in sovereign spreads. Evidence from a panel of emerging economies is consistent with these predictions: increases in reserves financed by public external borrowing are associated with lower spreads, and reserve holdings are not systematically drawn down during crisis episodes.",
+            "url": "https://doi.org/10.1093/qje/qjag028",
+            "abstract_en": "Abstract Theory predicts that outsourcing public services to the private sector can reduce costs and improve efficiency but can also induce cost-cutting and compromise quality. We assess the Brazilian Organizações Sociais de Saude model (OSS), which outsources management of public hospital services to the private sector while the state remains the residual claimant. We show that this enhances hospital production and operational efficiency without adverse effects on hospital quality and equity. Increased inpatient production addresses previously unmet demand, expanding local access to hospital care and reducing population mortality. Performance gains arise from improved operational efficiency achieved through increased hospital management capacity. This facilitates staffing adjustments, favoring higher-skilled personnel, dismissing lower-productivity staff, and adopting flexible, performance-tied employment contracts. Effects are larger among private organizations with more management experience, underscoring returns to managerial capacity. Our findings show that incentive-ownership structures can address the quantity-quality trade-off in public service delivery, even when contracts are incomplete and quality is hard to measure.",
             "abstract_zh": "",
             "matched_topics": [
+              "国际贸易",
               "创新药"
             ]
           },
@@ -348,11 +356,42 @@
         "query_name": "Journal of Political Economy",
         "issn": "0022-3808",
         "resolved_name": "Journal of Political Economy",
-        "issue_title": "Volume 134, Issue 7",
+        "issue_title": "Volume 134, Issue 8",
         "issue_url": "https://www.journals.uchicago.edu/journals/jpe",
-        "matched_count": 0,
-        "total_in_issue": 10,
-        "papers": [],
+        "matched_count": 3,
+        "total_in_issue": 11,
+        "papers": [
+          {
+            "title_en": "Blackwell-Monotone Updating Rules",
+            "title_zh": "",
+            "url": "https://doi.org/10.1086/741272",
+            "abstract_en": "An updating rule specifies how an agent reacts to information. It is Blackwell monotone if more information is always better for an agent in any decision problem and strictly Blackwell monotone if, in addition, every strict information improvement is strictly better in some decision problem. Bayes’s law is strictly Blackwell monotone. Within a broad class of updating rules—those that distort Bayesian posteriors in a signal-independent manner—it is the only strictly Blackwell-monotone updating rule. If decisions are evaluated nonpaternalistically (according to an agent’s beliefs), the Blackwell-monotone updating rules are affine distortions of Bayesian posteriors.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Exchange Rates and Asset Prices in a Global Demand System",
+            "title_zh": "",
+            "url": "https://doi.org/10.1086/741624",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际经济"
+            ]
+          },
+          {
+            "title_en": "Do Mergers and Acquisitions Improve Efficiency? Evidence from Power Plants",
+            "title_zh": "",
+            "url": "https://doi.org/10.1086/740222",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -366,6 +405,16 @@
         "total_in_issue": 15,
         "papers": [
           {
+            "title_en": "Firm‐to‐Firm Trade: Imports, Exports, and the Labor Market",
+            "title_zh": "",
+            "url": "https://doi.org/10.3982/ecta20506",
+            "abstract_en": "Customs data reveal the heterogeneity and granularity of relationships among buyers and sellers, showing how more exports to a destination break down into more firms selling there and more buyers per exporter. We develop a quantitative general equilibrium model of firm‐to‐firm matching that builds on this insight to separate the roles of iceberg costs and matching frictions in gravity. In the cross section, we find matching frictions as important as iceberg costs in impeding trade, and more sensitive to distance. Because domestic and imported intermediates compete directly with labor in performing production tasks, our model also fits the heterogeneity of labor shares across French producers. Applying the framework to the 2004 expansion of the European Union, reduced iceberg costs and reduced matching frictions contributed equally to the increase in French exports to the new members. While workers benefited overall, those competing most directly with imports gained less, even losing in some countries entering the EU.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
             "title_en": "The Inference‐Forecast Gap in Belief Updating",
             "title_zh": "",
             "url": "https://doi.org/10.3982/ecta23334",
@@ -376,10 +425,10 @@
             ]
           },
           {
-            "title_en": "Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions",
+            "title_en": "Job Ladder and Wealth Dynamics in General Equilibrium",
             "title_zh": "",
-            "url": "https://doi.org/10.3982/ecta21839",
-            "abstract_en": "This paper explores the impact of information design on the auctioneer's revenue in the U.S. offshore oil/gas lease auctions where, post‐auction, the winner decides whether to explore the auctioned tract and must pay the government a royalty on its production value. I first document that there is a positive correlation between the exploration rate and publicly observed losing bids. This suggests that the winning bidder uses the rivals' bids to infer their private information about the tract's potential. I then characterize the equilibrium bidding strategy when the auctioneer designs and commits to how to reveal information on losing bids to the winning bidder. Counterfactual exercises reveal that alternative bid disclosure policies significantly improve auctioneer revenue.",
+            "url": "https://doi.org/10.3982/ecta22542",
+            "abstract_en": "This paper develops a macroeconomic model that combines an incomplete‐markets overlapping‐generations economy with a job ladder featuring sequential wage bargaining, endogenous search effort of employed and non‐employed workers, and differences in match quality. With these ingredients, our model provides a joint microfoundation for the three main inputs in aggregate production: capital, employment, and labor efficiency. The calibrated model offers a good fit to the empirical age profiles of search activity, job‐finding rates, wages, and savings. We use the model to analyze the impact of tax and transfer policies for labor market dynamics and aggregate economic activity via capital, employment, and labor efficiency channels. Lower unemployment benefits and a less progressive tax schedule bring about welfare losses for a newborn worker which are mainly driven by higher consumption risk and costlier search effort; both policies have differential effects along the age, income, and wealth dimensions.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
@@ -396,20 +445,10 @@
             ]
           },
           {
-            "title_en": "Firm‐to‐Firm Trade: Imports, Exports, and the Labor Market",
+            "title_en": "Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions",
             "title_zh": "",
-            "url": "https://doi.org/10.3982/ecta20506",
-            "abstract_en": "Customs data reveal the heterogeneity and granularity of relationships among buyers and sellers, showing how more exports to a destination break down into more firms selling there and more buyers per exporter. We develop a quantitative general equilibrium model of firm‐to‐firm matching that builds on this insight to separate the roles of iceberg costs and matching frictions in gravity. In the cross section, we find matching frictions as important as iceberg costs in impeding trade, and more sensitive to distance. Because domestic and imported intermediates compete directly with labor in performing production tasks, our model also fits the heterogeneity of labor shares across French producers. Applying the framework to the 2004 expansion of the European Union, reduced iceberg costs and reduced matching frictions contributed equally to the increase in French exports to the new members. While workers benefited overall, those competing most directly with imports gained less, even losing in some countries entering the EU.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Job Ladder and Wealth Dynamics in General Equilibrium",
-            "title_zh": "",
-            "url": "https://doi.org/10.3982/ecta22542",
-            "abstract_en": "This paper develops a macroeconomic model that combines an incomplete‐markets overlapping‐generations economy with a job ladder featuring sequential wage bargaining, endogenous search effort of employed and non‐employed workers, and differences in match quality. With these ingredients, our model provides a joint microfoundation for the three main inputs in aggregate production: capital, employment, and labor efficiency. The calibrated model offers a good fit to the empirical age profiles of search activity, job‐finding rates, wages, and savings. We use the model to analyze the impact of tax and transfer policies for labor market dynamics and aggregate economic activity via capital, employment, and labor efficiency channels. Lower unemployment benefits and a less progressive tax schedule bring about welfare losses for a newborn worker which are mainly driven by higher consumption risk and costlier search effort; both policies have differential effects along the age, income, and wealth dimensions.",
+            "url": "https://doi.org/10.3982/ecta21839",
+            "abstract_en": "This paper explores the impact of information design on the auctioneer's revenue in the U.S. offshore oil/gas lease auctions where, post‐auction, the winner decides whether to explore the auctioned tract and must pay the government a royalty on its production value. I first document that there is a positive correlation between the exploration rate and publicly observed losing bids. This suggests that the winning bidder uses the rivals' bids to infer their private information about the tract's potential. I then characterize the equilibrium bidding strategy when the auctioneer designs and commits to how to reveal information on losing bids to the winning bidder. Counterfactual exercises reveal that alternative bid disclosure policies significantly improve auctioneer revenue.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
@@ -555,6 +594,16 @@
         "total_in_issue": 11,
         "papers": [
           {
+            "title_en": "The Political Geography of Cities",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/app.20230301",
+            "abstract_en": "We study the link between regional capitals and urban development. We exploit new global data on hundreds of first-order administrative and capital city reforms from 1987 until 2018 to estimate the capital city premium. Gaining capital status increases city growth in the medium term, spilling over to nearby cities. The capital premium varies with the size of the territory governed by the city, and political status complements favorable economic fundamentals. We document two mechanisms: migration of educated individuals to capital cities and heightened public and private investment, with private investment favoring capital cities with stronger economic fundamentals. (JEL D72, E22, H54, O18, R11, R12, R58)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Turbocharging Profits? Contract Gaming and Revenue Allocation in Healthcare",
             "title_zh": "",
             "url": "https://doi.org/10.1257/app.20240589",
@@ -585,16 +634,6 @@
             ]
           },
           {
-            "title_en": "The Political Geography of Cities",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/app.20230301",
-            "abstract_en": "We study the link between regional capitals and urban development. We exploit new global data on hundreds of first-order administrative and capital city reforms from 1987 until 2018 to estimate the capital city premium. Gaining capital status increases city growth in the medium term, spilling over to nearby cities. The capital premium varies with the size of the territory governed by the city, and political status complements favorable economic fundamentals. We document two mechanisms: migration of educated individuals to capital cities and heightened public and private investment, with private investment favoring capital cities with stronger economic fundamentals. (JEL D72, E22, H54, O18, R11, R12, R58)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
             "title_en": "Fostering Cooperation: The Conflict-Reducing Effects of Intervillage Competition for Government Transfers",
             "title_zh": "",
             "url": "https://doi.org/10.1257/app.20240377",
@@ -619,10 +658,20 @@
         "total_in_issue": 17,
         "papers": [
           {
-            "title_en": "When the Effects of Informational Interventions Are Driven by Salience—Evidence from School Parents in Brazil",
+            "title_en": "Hurricanes, Climate Change Policies, and Electoral Accountability",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20220777",
-            "abstract_en": "Do informational interventions work because they lead subjects to merely update beliefs in the right direction or, to a large extent, because they increase the salience of the decision they target? We randomly assign parents to either an information group that receives text messages with weekly data on their child's attendance and school effort or a salience group that receives messages that try to redirect their attention without child-specific information. While information has large impacts on attendance, test scores, and grade promotion relative to the control group, outcomes in the salience group improve by at least as much. (JEL C93, D83, D91, I21, J13, O12)",
+            "url": "https://doi.org/10.1257/pol.20230070",
+            "abstract_en": "This paper studies the conditions under which legislators promote policies that may be unpopular in the short term but yield long-term benefits. Using data on the universe of federal disaster declarations from 1989 to 2020, we document that representatives from congressional districts impacted by hurricanes are more inclined to support environmental legislation addressing climate change. However, this response depends on political circumstances: Only those in safe seats can change their political agenda toward policies that involve short-term costs for long-term gains. These results highlight the role of electoral incentives in shaping politicians' attitudes toward farsighted policymaking. (JEL D72, Q54, Q58)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Perils of the Paperwork: The Impact of Information and Application Assistance on Social Benefit Take-Up in India",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240212",
+            "abstract_en": "Governments worldwide administer social programs for vulnerable groups, yet many eligible citizens fail to benefit. This paper studies barriers to take-up of an unconditional cash transfer program for poor women in Delhi, India, where only one-third of eligible individuals were enrolled. In a randomized experiment with eligible women, providing program information alone increased applications only among the literate. Adding basic or intensive application assistance, however, raised average application rates by 41 percent and 70 percent, respectively, and expanded access among more vulnerable women. These results suggest that application ordeals can limit take-up by those with high need. (JEL D83, I32, I38, J16, O15)",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
@@ -640,6 +689,16 @@
             ]
           },
           {
+            "title_en": "Estimating the Economic Value of Zoning Reform",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20230542",
+            "abstract_en": "We estimate the economic value of zoning reform in São Paulo, which altered maximum permitted construction along transportation corridors. Developers increased filings for multifamily construction in blocks affected by the reform, leading to more housing supply and lower housing prices in neighborhoods that allow more densification. Our equilibrium model of housing markets estimates an aggregate 1.6 percent increase in housing stock and a 0.4 percent reduction in prices, resulting in large housing wealth transfers from current to future homeowners. The reform produced welfare gains of 0.65 percent of city GDP, mostly due to developer profits and consumer gains from the newly built environment. (JEL G51, O18, R11, R23, R31, R41, R52)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Are Building Codes an Effective Adaptation to Wind Risk? Evidence from Remotely Detected Blue Tarps",
             "title_zh": "",
             "url": "https://doi.org/10.1257/pol.20240544",
@@ -647,26 +706,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Perils of the Paperwork: The Impact of Information and Application Assistance on Social Benefit Take-Up in India",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20240212",
-            "abstract_en": "Governments worldwide administer social programs for vulnerable groups, yet many eligible citizens fail to benefit. This paper studies barriers to take-up of an unconditional cash transfer program for poor women in Delhi, India, where only one-third of eligible individuals were enrolled. In a randomized experiment with eligible women, providing program information alone increased applications only among the literate. Adding basic or intensive application assistance, however, raised average application rates by 41 percent and 70 percent, respectively, and expanded access among more vulnerable women. These results suggest that application ordeals can limit take-up by those with high need. (JEL D83, I32, I38, J16, O15)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Hurricanes, Climate Change Policies, and Electoral Accountability",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20230070",
-            "abstract_en": "This paper studies the conditions under which legislators promote policies that may be unpopular in the short term but yield long-term benefits. Using data on the universe of federal disaster declarations from 1989 to 2020, we document that representatives from congressional districts impacted by hurricanes are more inclined to support environmental legislation addressing climate change. However, this response depends on political circumstances: Only those in safe seats can change their political agenda toward policies that involve short-term costs for long-term gains. These results highlight the role of electoral incentives in shaping politicians' attitudes toward farsighted policymaking. (JEL D72, Q54, Q58)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
             ]
           },
           {
@@ -680,10 +719,10 @@
             ]
           },
           {
-            "title_en": "Estimating the Economic Value of Zoning Reform",
+            "title_en": "When the Effects of Informational Interventions Are Driven by Salience—Evidence from School Parents in Brazil",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20230542",
-            "abstract_en": "We estimate the economic value of zoning reform in São Paulo, which altered maximum permitted construction along transportation corridors. Developers increased filings for multifamily construction in blocks affected by the reform, leading to more housing supply and lower housing prices in neighborhoods that allow more densification. Our equilibrium model of housing markets estimates an aggregate 1.6 percent increase in housing stock and a 0.4 percent reduction in prices, resulting in large housing wealth transfers from current to future homeowners. The reform produced welfare gains of 0.65 percent of city GDP, mostly due to developer profits and consumer gains from the newly built environment. (JEL G51, O18, R11, R23, R31, R41, R52)",
+            "url": "https://doi.org/10.1257/pol.20220777",
+            "abstract_en": "Do informational interventions work because they lead subjects to merely update beliefs in the right direction or, to a large extent, because they increase the salience of the decision they target? We randomly assign parents to either an information group that receives text messages with weekly data on their child's attendance and school effort or a salience group that receives messages that try to redirect their attention without child-specific information. While information has large impacts on attendance, test scores, and grade promotion relative to the control group, outcomes in the salience group improve by at least as much. (JEL C93, D83, D91, I21, J13, O12)",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
@@ -699,9 +738,19 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 7,
-        "total_in_issue": 10,
+        "matched_count": 9,
+        "total_in_issue": 12,
         "papers": [
+          {
+            "title_en": "Reshaping factory Asia: How did the US-China trade war affect the Asian-Pacific supply chain?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104327",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
           {
             "title_en": "Exporter survival with uncertainty and experimentation",
             "title_zh": "",
@@ -710,6 +759,37 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Climate policies as a catalyst for green FDI",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104331",
+            "abstract_en": "This paper assesses the role of climate policies as a catalyst for the deployment of low carbon technologies through foreign direct investment (FDI). Leveraging detailed cross-border project-level information, it identifies “green” FDI and finds that a larger number of active climate policies is associated with higher green FDI inflows. Importantly, climate policies are not linked to lower non-green FDI inflows. The paper also finds heterogeneity across sectors and policy instruments. The association between climate policies and green projects is stronger in energy and manufacturing, and when the recipient’s climate portfolio is tilted towards binding policies (taxes and regulation) and expenditure measures. Finally, results point to policy spillovers, whereby larger climate policy portfolios in the source country are linked to higher green FDI outflows. Moreover, larger climate policy portfolios in the source country can amplify the role of climate policies in the destination country as a catalyst for green FDI.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "国际经济"
+            ]
+          },
+          {
+            "title_en": "Horizontal regulatory barriers in international trade: Evidence from electric plugs",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104312",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Transportation networks, technology adoption, and structural transformation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104325",
+            "abstract_en": "We examine how transportation influences agricultural technology adoption and structural transformation. Our empirical findings show that better transportation network reducing non-labor input prices, promoting less labor-intensive technologies, which in turn enhancing productivity and supporting structural transformation. Our model reveals that improved transportation alone accounts for 3.3 percentage points reduction in India's agricultural employment share, representing 24% of the observed decline. The model also highlights mechanism complementarity that lowering fixed adoption costs amplifies the effect of reduced non-labor costs, further promotes modern technology adoption. The counterfactual analysis indicates that eliminating farmers' ability to select technology types decreases structural transformation by 67%.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
             ]
           },
           {
@@ -724,16 +804,6 @@
             ]
           },
           {
-            "title_en": "Horizontal regulatory barriers in international trade: Evidence from electric plugs",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104312",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
             "title_en": "Persistent global growth differences and euro area adjustment: Real activity, trade and the real exchange rate",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104313",
@@ -742,16 +812,6 @@
             "matched_topics": [
               "国际贸易",
               "国际经济"
-            ]
-          },
-          {
-            "title_en": "Reshaping factory Asia: How did the US-China trade war affect the Asian-Pacific supply chain?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104327",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
             ]
           },
           {
@@ -765,13 +825,13 @@
             ]
           },
           {
-            "title_en": "Transportation networks, technology adoption, and structural transformation",
+            "title_en": "Tapping into excess capacity: Chinese machinery exports and African industrialization",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104325",
-            "abstract_en": "We examine how transportation influences agricultural technology adoption and structural transformation. Our empirical findings show that better transportation network reducing non-labor input prices, promoting less labor-intensive technologies, which in turn enhancing productivity and supporting structural transformation. Our model reveals that improved transportation alone accounts for 3.3 percentage points reduction in India's agricultural employment share, representing 24% of the observed decline. The model also highlights mechanism complementarity that lowering fixed adoption costs amplifies the effect of reduced non-labor costs, further promotes modern technology adoption. The counterfactual analysis indicates that eliminating farmers' ability to select technology types decreases structural transformation by 67%.",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104329",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "企业创新"
+              "国际贸易"
             ]
           }
         ],
@@ -784,9 +844,49 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 7,
-        "total_in_issue": 27,
+        "matched_count": 9,
+        "total_in_issue": 32,
         "papers": [
+          {
+            "title_en": "Self-medication under uncertainty: Insights on drug quality and consumer behavior in Burkina Faso",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103890",
+            "abstract_en": "How does drug quality affect self-medication behavior? We address this question in the context of Burkina Faso, where self-medication with antibiotics is widespread. Using chemical quality tests, we find that one in three antibiotics on the market is substandard or falsified, posing significant health risks. While consumers are broadly aware of the prevalence of poor-quality drugs, they struggle to assess quality based on observable cues such as price or packaging. To identify causal effects, we conduct a novel lab-in-the-field experiment that varies the probability of purchasing effective medicine. We find that self-medication increases as drug quality becomes more certain. These results suggest that market-level interventions to improve drug quality may unintentionally increase inappropriate antibiotic use, with implications for health policy and antimicrobial resistance.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "The political economy of regional development: Evidence from the Cassa per il Mezzogiorno",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103900",
+            "abstract_en": "Devolution of authority over public investments can lead to agency problems and trigger tactical redistribution between different tiers of government. We test this hypothesis in the context of the Cassa per il Mezzogiorno: a massive development programme for Southern Italy (1950-1984). By 1971, the authority over funds allocation was transferred from a centralised committee to the newborn regional governments. We combine unique historical data on local administrators with detailed information on projects, and find that, after devolution, municipalities aligned with the regional government were assigned a higher number of projects, without producing any positive impact on long-run economic outcomes.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Dual-track in the family: How spousal state employment fuels entrepreneurship",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103899",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Supporting learning in and out of school: Experimental evidence from India",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103906",
+            "abstract_en": "Although targeted educational interventions for primary school children in low-income countries have led to substantial improvements in learning, the extent of their effectiveness varies considerably across studies, raising questions about how to adapt them to different settings. This paper examines a novel primary education program that combines a conventional in-school targeted pedagogical intervention with an out-of-school study group initiative facilitated by the community. We use a cross-cutting randomized experiment design across 200 villages in Assam, India. Our results show that standalone implementation of either component has no significant effect on learning outcomes, but when the components are combined in the full program they improve children’s test scores in mathematics and language by 0.11 and 0.09 standard deviations, respectively. The analysis highlights that the combined program increases program awareness and take-up, thereby increasing program effectiveness.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
           {
             "title_en": "Suing the leviathan: The effect of trans-regional jurisdiction reform on corporate investment",
             "title_zh": "",
@@ -818,36 +918,6 @@
             ]
           },
           {
-            "title_en": "The Green Revolution and individualism: Evidence from Indonesia",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103877",
-            "abstract_en": "This paper studies the effects of the Green Revolution, one of the largest development projects in the late 20th-Century, on individualism. We use a difference-in-differences approach to investigate how rapid technological and organizational changes in traditional agriculture reshaped cultural norms in Indonesia, where Green Revolution rollout was largely driven by centralized government interventions. Regions with greater exposure to Green Revolution policies experienced significant and persistent increases in individualism (as measured by a higher prevalence of infrequent names) decades after the end of the program. Results are not driven by pre-trends and hold across a battery of robustness checks. We further document suggestive, correlational evidence of a persistent fall in community funding for public goods, a key measure of collective action. Our findings suggest that technical change can lead to rapid and persistent changes in culture.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Self-medication under uncertainty: Insights on drug quality and consumer behavior in Burkina Faso",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103890",
-            "abstract_en": "How does drug quality affect self-medication behavior? We address this question in the context of Burkina Faso, where self-medication with antibiotics is widespread. Using chemical quality tests, we find that one in three antibiotics on the market is substandard or falsified, posing significant health risks. While consumers are broadly aware of the prevalence of poor-quality drugs, they struggle to assess quality based on observable cues such as price or packaging. To identify causal effects, we conduct a novel lab-in-the-field experiment that varies the probability of purchasing effective medicine. We find that self-medication increases as drug quality becomes more certain. These results suggest that market-level interventions to improve drug quality may unintentionally increase inappropriate antibiotic use, with implications for health policy and antimicrobial resistance.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Dual-track in the family: How spousal state employment fuels entrepreneurship",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103899",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
             "title_en": "Race-to-the-bottom dynamics in industrial land pricing: Asymmetric effects of China’s 2009 price floor adjustment policy",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103910",
@@ -855,6 +925,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "产业经济"
+            ]
+          },
+          {
+            "title_en": "The Green Revolution and individualism: Evidence from Indonesia",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103877",
+            "abstract_en": "This paper studies the effects of the Green Revolution, one of the largest development projects in the late 20th-Century, on individualism. We use a difference-in-differences approach to investigate how rapid technological and organizational changes in traditional agriculture reshaped cultural norms in Indonesia, where Green Revolution rollout was largely driven by centralized government interventions. Regions with greater exposure to Green Revolution policies experienced significant and persistent increases in individualism (as measured by a higher prevalence of infrequent names) decades after the end of the program. Results are not driven by pre-trends and hold across a battery of robustness checks. We further document suggestive, correlational evidence of a persistent fall in community funding for public goods, a key measure of collective action. Our findings suggest that technical change can lead to rapid and persistent changes in culture.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           }
         ],
@@ -912,16 +992,6 @@
             ]
           },
           {
-            "title_en": "Tariffs and Supply‐Function Competition in General Equilibrium",
-            "title_zh": "",
-            "url": "https://doi.org/10.1111/roie.70059",
-            "abstract_en": "ABSTRACT This paper studies how trade policy can affect not only the level of markups but also the mode and intensity of competition in general equilibrium. We embed a tractable form of supply‐function competition—where firms commit ex ante to upward‐sloping supply schedules—into Neary's general oligopolistic equilibrium (GOLE) framework. Firms endogenously choose the slope of their supply schedules at a convex real‐resource cost, which we interpret as a flexibility investment. In a symmetric two‐country benchmark with per‐unit tariffs, equilibrium reduces to a single scalar condition in aggregate supply responsiveness; when multiple roots arise, a local stability criterion selects the relevant branch. Comparative statics show that, on the stable interior equilibrium, higher tariffs raise equilibrium supply responsiveness and thereby change competitive conduct, with general‐equilibrium implications for wages and welfare. Welfare falls because higher responsiveness crowds labor into flexibility investment and away from production.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
             "title_en": "Markup Centrality and International Incidence in Global Production Networks",
             "title_zh": "",
             "url": "https://doi.org/10.1111/roie.70057",
@@ -930,6 +1000,16 @@
             "matched_topics": [
               "国际贸易",
               "产业经济"
+            ]
+          },
+          {
+            "title_en": "Tariffs and Supply‐Function Competition in General Equilibrium",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/roie.70059",
+            "abstract_en": "ABSTRACT This paper studies how trade policy can affect not only the level of markups but also the mode and intensity of competition in general equilibrium. We embed a tractable form of supply‐function competition—where firms commit ex ante to upward‐sloping supply schedules—into Neary's general oligopolistic equilibrium (GOLE) framework. Firms endogenously choose the slope of their supply schedules at a convex real‐resource cost, which we interpret as a flexibility investment. In a symmetric two‐country benchmark with per‐unit tariffs, equilibrium reduces to a single scalar condition in aggregate supply responsiveness; when multiple roots arise, a local stability criterion selects the relevant branch. Comparative statics show that, on the stable interior equilibrium, higher tariffs raise equilibrium supply responsiveness and thereby change competitive conduct, with general‐equilibrium implications for wages and welfare. Welfare falls because higher responsiveness crowds labor into flexibility investment and away from production.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
             ]
           },
           {
@@ -1094,16 +1174,6 @@
             ]
           },
           {
-            "title_en": "Market Effects of Brand Search Advertising",
-            "title_zh": "",
-            "url": "https://doi.org/10.1111/1756-2171.70060",
-            "abstract_en": "ABSTRACT We study the market effects of sponsored search auctions for advertising space on searches for brands. In our model, firms simultaneously choose the price of their product and the bids for the advertising auctions triggered by their own and rivals' brand keywords search. In any symmetric equilibrium, each firm wins its own keyword auction, and relative to a no‐ads benchmark, online advertising raises the winning brand's marginal cost and ultimately market prices. Only in an environment with strong initial asymmetries do we find that brand advertising might be beneficial.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
             "title_en": "The Competitive Effects of Mergers with Cournot Competition",
             "title_zh": "",
             "url": "https://doi.org/10.1111/1756-2171.70059",
@@ -1111,6 +1181,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "产业经济",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Market Effects of Brand Search Advertising",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70060",
+            "abstract_en": "ABSTRACT We study the market effects of sponsored search auctions for advertising space on searches for brands. In our model, firms simultaneously choose the price of their product and the bids for the advertising auctions triggered by their own and rivals' brand keywords search. In any symmetric equilibrium, each firm wins its own keyword auction, and relative to a no‐ads benchmark, online advertising raises the winning brand's marginal cost and ultimately market prices. Only in an environment with strong initial asymmetries do we find that brand advertising might be beneficial.",
+            "abstract_zh": "",
+            "matched_topics": [
               "创新药"
             ]
           },
@@ -1125,16 +1205,6 @@
             ]
           },
           {
-            "title_en": "What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration",
-            "title_zh": "",
-            "url": "https://doi.org/10.1111/1756-2171.70069",
-            "abstract_en": "ABSTRACT In this article, we examine the importance of individual physicians in explaining the significant variation in prescription drug spending in Medicare Part D. By tracking prescribing behavior before and after physician relocations, we find that movers' prescribing converges toward the average of their new location. However, this convergence is far from complete, highlighting the importance of idiosyncratic physician‐specific factors. Overall, these physician‐specific factors explain about 60 to 70 percent of the cross‐sectional variation in prescription drug spending, suggesting that physicians are one of the most important supply‐side determinants of this variation. We investigate several potential mechanisms behind this partial convergence.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
             "title_en": "Mergers in the Presence of Adverse Selection",
             "title_zh": "",
             "url": "https://doi.org/10.1111/1756-2171.70070",
@@ -1146,13 +1216,13 @@
             ]
           },
           {
-            "title_en": "Price Discrimination With Manipulable Observables",
+            "title_en": "What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration",
             "title_zh": "",
-            "url": "https://doi.org/10.1111/1756-2171.70058",
-            "abstract_en": "ABSTRACT This article studies price discrimination by a seller who uses data on observables that buyers can control (or manipulate) at a cost. If the seller's discriminatory prices are offered covertly, equilibrium market segmentation is always coarse, resulting in limited price discrimination. In contrast, if prices must be transparently posted, every buyer pays a personalized price in equilibrium, though this does not always reduce buyer or social welfare. The analysis sheds new light on calls for transparency in how sellers utilize consumer data to customize prices and highlights potential issues with assessing welfare using (only) observed prices, pricing conduct, and market coverage.",
+            "url": "https://doi.org/10.1111/1756-2171.70069",
+            "abstract_en": "ABSTRACT In this article, we examine the importance of individual physicians in explaining the significant variation in prescription drug spending in Medicare Part D. By tracking prescribing behavior before and after physician relocations, we find that movers' prescribing converges toward the average of their new location. However, this convergence is far from complete, highlighting the importance of idiosyncratic physician‐specific factors. Overall, these physician‐specific factors explain about 60 to 70 percent of the cross‐sectional variation in prescription drug spending, suggesting that physicians are one of the most important supply‐side determinants of this variation. We investigate several potential mechanisms behind this partial convergence.",
             "abstract_zh": "",
             "matched_topics": [
-              "产业经济"
+              "国际贸易"
             ]
           },
           {
@@ -1164,6 +1234,16 @@
             "matched_topics": [
               "产业经济",
               "创新药"
+            ]
+          },
+          {
+            "title_en": "Price Discrimination With Manipulable Observables",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70058",
+            "abstract_en": "ABSTRACT This article studies price discrimination by a seller who uses data on observables that buyers can control (or manipulate) at a cost. If the seller's discriminatory prices are offered covertly, equilibrium market segmentation is always coarse, resulting in limited price discrimination. In contrast, if prices must be transparently posted, every buyer pays a personalized price in equilibrium, though this does not always reduce buyer or social welfare. The analysis sheds new light on calls for transparency in how sellers utilize consumer data to customize prices and highlights potential issues with assessing welfare using (only) observed prices, pricing conduct, and market coverage.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
             ]
           },
           {
@@ -1186,19 +1266,9 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 2,
-        "total_in_issue": 3,
+        "matched_count": 3,
+        "total_in_issue": 5,
         "papers": [
-          {
-            "title_en": "Procompetitive effects of vertical mergers? Evidence from the European Union",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103321",
-            "abstract_en": "This study examines the relationship between mergers and firm-level financial measures using a sample of 4,482 acquisition targets in the European Union from 2007 to 2021. Findings suggest that horizontal mergers lack statistically significant results, whereas vertical mergers entail changes in markups (-0.7%), market share (+2.5%), Return on Fixed Assets (ROFA) (+2.3%), and capital intensity (-7.2%). The result for vertical mergers increases over time, and is larger when the number of pre-existing subsidiaries is greater. Our results suggest the elimination of double profit margins as a potential explanation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
           {
             "title_en": "Gatekeepers and the endogenous design of consumer preferences under personalized pricing",
             "title_zh": "",
@@ -1208,6 +1278,27 @@
             "matched_topics": [
               "产业经济",
               "创新药"
+            ]
+          },
+          {
+            "title_en": "Netflix and chilling effect? The impact of streaming video licenses on paid digital downloads",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103324",
+            "abstract_en": "Digital distribution has expanded monetization opportunities for media firms, but it also introduces complex tradeoffs across channels. A central challenge for studios and networks is negotiating fixed-fee licensing deals with bundled subscription video-on-demand (SVOD) platforms like Netflix, whose flat-rate access model may cannibalize à la carte sales on transactional platforms such as iTunes.We exploit the natural experiment of Netflix’s launch in Australia to estimate the causal effect of licensing a film to the service on its digital sales. On average, licensing reduces à la carte downloads by 52.5%, with effects that persist even after titles are removed from Netflix – evidence that temporary bundling can have durable effects on competing transactional channels.Crucially, we show that this treatment effect is heterogeneous: the direction and magnitude of the effect vary systematically with a film’s à la carte price and its latent demand. Lower-priced titles exhibit positive treatment effects following Netflix inclusion, while higher-priced titles experience substantial declines. Though prices are not exogenously assigned, these patterns are consistent with theoretical models in which exposure on an SVOD platform can generate promotional spillovers, sampling, or word-of-mouth for lower-cost titles.Our findings offer rare revealed-preference evidence on how SVOD bundling interacts with underlying demand, addressing classic questions in industrial organization around bundling and channel conflict.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Procompetitive effects of vertical mergers? Evidence from the European Union",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103321",
+            "abstract_en": "This study examines the relationship between mergers and firm-level financial measures using a sample of 4,482 acquisition targets in the European Union from 2007 to 2021. Findings suggest that horizontal mergers lack statistically significant results, whereas vertical mergers entail changes in markups (-0.7%), market share (+2.5%), Return on Fixed Assets (ROFA) (+2.3%), and capital intensity (-7.2%). The result for vertical mergers increases over time, and is larger when the number of pre-existing subsidiaries is greater. Our results suggest the elimination of double profit margins as a potential explanation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
             ]
           }
         ],
@@ -1220,13 +1311,33 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 9",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 3,
-        "total_in_issue": 6,
+        "matched_count": 5,
+        "total_in_issue": 8,
         "papers": [
           {
-            "title_en": "Searching together: Human–AI complementarities in innovation search",
+            "title_en": "R&amp;D investment, technology adoption and productivity dynamics: An empirical study of the productivity dispersion in Canada",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105597",
+            "url": "https://doi.org/10.1016/j.respol.2026.105602",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Data and methods for identifying artificial intelligence-related patents",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105599",
+            "abstract_en": "This paper evaluates existing approaches to identifying artificial intelligence (AI)-related patents and introduces a novel, scalable framework for improving classification performance. Motivated by growing reliance on patent data in innovation research, we assess widely used methods, including patent class-based approaches and the USPTO’s Artificial Intelligence Patent Dataset (AIPD), with an independent, human-expert-annotated ground-truth dataset. We document substantial performance limitations in existing approaches, particularly in terms of precision and generalizability. To address these challenges, we develop a CPC-informed, iterative positive-unlabeled (PU) learning framework for constructing high-quality training data. Our approach integrates hierarchical patent classification with data-driven refinement procedures to reduce label noise and improve representativeness. Using this refined dataset, we train a range of machine learning, deep learning, and transformer-based models. Our results show that models trained within our framework significantly outperform existing methods, including AIPD, achieving improvements over AIPD in F1 scores of approximately 18–21% on the same benchmark dataset. These gains are primarily driven by enhanced precision without sacrificing recall, highlighting the central role of training data quality in classification performance. We further demonstrate the empirical value of improved AI patent identification through two applications, showing that the release of ChatGPT increased both the market valuation of AI patents and firms’ allocation of innovative effort toward AI technologies. To support future research, we release our training data, source code, and patent-level predictions, with ongoing updates to reflect the evolving nature of AI innovation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Burning bridges or bridging divides: Geopolitics and collaboration in research and innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105580",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1244,10 +1355,10 @@
             ]
           },
           {
-            "title_en": "Data and methods for identifying artificial intelligence-related patents",
+            "title_en": "Searching together: Human–AI complementarities in innovation search",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105599",
-            "abstract_en": "This paper evaluates existing approaches to identifying artificial intelligence (AI)-related patents and introduces a novel, scalable framework for improving classification performance. Motivated by growing reliance on patent data in innovation research, we assess widely used methods, including patent class-based approaches and the USPTO’s Artificial Intelligence Patent Dataset (AIPD), with an independent, human-expert-annotated ground-truth dataset. We document substantial performance limitations in existing approaches, particularly in terms of precision and generalizability. To address these challenges, we develop a CPC-informed, iterative positive-unlabeled (PU) learning framework for constructing high-quality training data. Our approach integrates hierarchical patent classification with data-driven refinement procedures to reduce label noise and improve representativeness. Using this refined dataset, we train a range of machine learning, deep learning, and transformer-based models. Our results show that models trained within our framework significantly outperform existing methods, including AIPD, achieving improvements over AIPD in F1 scores of approximately 18–21% on the same benchmark dataset. These gains are primarily driven by enhanced precision without sacrificing recall, highlighting the central role of training data quality in classification performance. We further demonstrate the empirical value of improved AI patent identification through two applications, showing that the release of ChatGPT increased both the market valuation of AI patents and firms’ allocation of innovative effort toward AI technologies. To support future research, we release our training data, source code, and patent-level predictions, with ongoing updates to reflect the evolving nature of AI innovation.",
+            "url": "https://doi.org/10.1016/j.respol.2026.105597",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -1297,6 +1408,16 @@
             ]
           },
           {
+            "title_en": "Stakeholder synergies in acquisitions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1002/smj.70100",
+            "abstract_en": "Abstract Research Summary Acquisitions can create synergies by combining an acquirer's and a target's pre‐existing relationships with nonmarket stakeholders. We introduce the “reset effect” as a novel mechanism that occurs when a firm with cooperative stakeholder relationships combines with a firm that has conflictual relationships, prompting the affected stakeholders to re‐evaluate their pre‐acquisition strategies. We argue that post‐acquisition conflict with nonmarket stakeholders will decline when the cooperative and conflictual stakeholders brought together by an acquisition are aligned on one or more of the three elements that characterize stakeholder fields: (1) issues stakeholders care about, (2) relationships between stakeholders, and (3) preferences for how issues should be addressed. We find support for these arguments by studying changes in Fortune 500 firms' conflict with environmental movement organizations after acquisitions. Managerial Summary Acquisitions can create synergies by resetting a firm's relationships with external stakeholders. Studying 25 years of Fortune 500 acquisitions and environmental stakeholder interactions, we find that acquisitions can reduce stakeholder conflict when one firm's cooperative stakeholder relationships complement the other firm's conflictual ones. Complementary relationships exist when cooperative and conflictual stakeholders are aligned on issues or have pre‐existing relationships with one another. Simply combining conflictual‐cooperative stakeholder relationships is not enough, however, and post‐acquisition conflict can increase when stakeholder groups are divided over how issues should be addressed. These findings can help managers understand when an acquisition will ease or exacerbate external conflict with stakeholders.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Local regulatory anticipation and <scp>GHG</scp> emissions",
             "title_zh": "",
             "url": "https://doi.org/10.1002/smj.70097",
@@ -1304,16 +1425,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Stakeholder synergies in acquisitions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/smj.70100",
-            "abstract_en": "Abstract Research Summary Acquisitions can create synergies by combining an acquirer's and a target's pre‐existing relationships with nonmarket stakeholders. We introduce the “reset effect” as a novel mechanism that occurs when a firm with cooperative stakeholder relationships combines with a firm that has conflictual relationships, prompting the affected stakeholders to re‐evaluate their pre‐acquisition strategies. We argue that post‐acquisition conflict with nonmarket stakeholders will decline when the cooperative and conflictual stakeholders brought together by an acquisition are aligned on one or more of the three elements that characterize stakeholder fields: (1) issues stakeholders care about, (2) relationships between stakeholders, and (3) preferences for how issues should be addressed. We find support for these arguments by studying changes in Fortune 500 firms' conflict with environmental movement organizations after acquisitions. Managerial Summary Acquisitions can create synergies by resetting a firm's relationships with external stakeholders. Studying 25 years of Fortune 500 acquisitions and environmental stakeholder interactions, we find that acquisitions can reduce stakeholder conflict when one firm's cooperative stakeholder relationships complement the other firm's conflictual ones. Complementary relationships exist when cooperative and conflictual stakeholders are aligned on issues or have pre‐existing relationships with one another. Simply combining conflictual‐cooperative stakeholder relationships is not enough, however, and post‐acquisition conflict can increase when stakeholder groups are divided over how issues should be addressed. These findings can help managers understand when an acquisition will ease or exacerbate external conflict with stakeholders.",
-            "abstract_zh": "",
-            "matched_topics": [
               "创新药"
             ]
           },
@@ -1340,8 +1451,28 @@
         "issue_title": "Volume 72, Issue 8",
         "issue_url": "https://pubsonline.informs.org/journal/mnsc",
         "matched_count": 12,
-        "total_in_issue": 15,
+        "total_in_issue": 14,
         "papers": [
+          {
+            "title_en": "Are Subjective Expectations Formed as in Rational Expectations Models of Active Management?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.04419",
+            "abstract_en": "We recover forward-looking expected net-of-fee abnormal returns (alphas) for active equity mutual funds from analyst ratings. In contrast to the typical equilibrium implication of zero alphas, analyst alphas are negative for most funds, but positive for the largest funds. We compare analysts’ subjective expectations with expectations from a rational expectations learning model. The model’s rational learner believes that an increase in fund size leads to a decrease in returns, but we find no evidence that analysts believe so. Consistently, counterfactual ratings based on the rational model tend to outperform analysts’ ratings out of sample. Investor fund flows respond significantly to analyst ratings. This paper was accepted by Lukas Schmid, finance. Funding: Support from the Center for Big Data in Finance [Grant DNRF167], the Danish Finance Institute, and the Swedish House of Finance is gratefully acknowledged. This work was funded by Fundação para a Ciência e a Tecnologia (UIDB/00124/2025, UID/PRR/124/2025, Nova School of Business and Economics) and LISBOA2030 (DataLab2030 - LISBOA2030-FEDER-01314200). Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.04419 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Nonadditivity of Subjective Expectations over Different Time Intervals",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.01558",
+            "abstract_en": "We examine the additivity of expectations over different time intervals. For example, when asked about 10-year stock price growth, survey respondents report an expected change that is not equal to, but closer to zero than, the sum of their expectations over two shorter time intervals that cover the same 10 years. Such subadditivity, which we also find in expectations for other economic variables, is irrational, as it cannot stem from aggregating short-term expectations. Model estimates show that the pattern is consistent with a time perception where shorter time intervals have a proportionally larger weight. We also find that the respondents’ degree of additivity is correlated with making larger financial investments. This paper was accepted by Manel Baucells, behavioral economics and decision analysis. Funding: This work was supported by Deutsche Forschungsgemeinschaft (the German Science Foundation) via CRC TRR 190 [Grant 280092119]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01558 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
           {
             "title_en": "Who Falls Prey to the Wolf of Wall Street? Investor Participation in Market Manipulation",
             "title_zh": "",
@@ -1353,10 +1484,62 @@
             ]
           },
           {
-            "title_en": "From Food Deserts to Fresh Food: The Role of Digital Accessibility in Nutrition Assistance Programs",
+            "title_en": "Does Personality Similarity Influence the Formation of Auditor-in-Charge–Client Relationships and Audit Quality? Evidence from Swedish Military Conscription Data",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2025.00012",
-            "abstract_en": "One in 10 U.S. households experience food insecurity, with millions of low-income families lacking access to fresh food. In response, federal and state governments recently launched the Supplemental Nutrition Assistance Program (SNAP) Online Purchasing Pilot (SNAP Online), enabling SNAP benefits to cover online food purchases. Although prior research suggests that the SNAP Online program may increase overall food consumption, its impact on fresh food consumption remains unclear. This research leverages NielsenIQ consumer panel data and employs a Difference-in-Differences approach to address this question. Our findings reveal that the SNAP Online program increases fresh food consumption among low-income households by 7.1%. However, the effect is minimal in areas with limited access to online grocery delivery and among households with poor prior fresh food consumption habits. These results underscore the potential of supply-side policies, such as expanding online purchasing options, to improve fresh food consumption. They also highlight the importance of addressing demand-side barriers and enhancing digital accessibility to maximize the effectiveness of nutrition assistance programs. This paper was accepted by D. J. Wu, information systems. Funding: Z. Li received financial support from the National Science Foundation Division of Social and Economic Sciences [CAREER Award 2243736]. Supplemental Material: The web appendix and data files are available at https://doi.org/10.1287/mnsc.2025.00012 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.04195",
+            "abstract_en": "This study investigates the role of personality similarity in the formation of auditor-in-charge (AIC)–client management dyads and the development of a collaborative relationship in auditing engagements. We apply the principle of homophily from sociology, that is, the attraction of individuals with similar traits to one another, to the formation of supplier–customer dyads in auditing engagements. Our analyses suggest that AIC–management personality similarity increases the likelihood of dyad formation and facilitates client retention. Using an instrumental variable approach, we further find evidence that AIC–chief executive officer (CEO) personality similarity enhances audit quality, and that this effect is stronger for clients with higher misreporting risk and at the beginning of the AIC–client tenure relationship. Among publicly listed clients, where chief financial officer (CFO) data are available, we find that AIC–CFO personality similarity plays a more important role in AIC–client matching and audit outcomes than AIC–CEO personality similarity. Collectively, our results suggest that a personality homophily-based relationship facilitates collaboration in auditing engagements, ultimately enhancing audit quality. Overall, our evidence highlights the benefit of interpersonal relationships in the production of audit services. This paper was accepted by Ranjani Krishnan, accounting. Funding: This work was supported by the Penn State Smeal College of Business, the Handelsbanken Jan Wallanders and Tom Hedelius Foundation [Grants P25-0334 and W21-0009], the Torsten Söderbergs Foundation [Grant ET4/17], and the Mistra Center for Sustainable Markets at the Stockholm School of Economics. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04195 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Assortment Optimization with α-Similar Substitutes: Insights from Customer Browsing Patterns",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.00786",
+            "abstract_en": "We propose an approach to model assortment optimization problems based on two observations we made from customer browsing history on Taobao. First, most customers consider very few items (no more than five) before purchasing. Second, there exists a sorting of items so that most customer consideration sets are contained in small intervals in this sorting. This sorting can be discovered by the Cuthill-McKee algorithm, which is designed to work with sparse matrices. We encode these two observations into the [Formula: see text]-similar substitutes property, which requires that all customers have consideration sets that lie in intervals (in the sorting) of length at most [Formula: see text], where [Formula: see text] is a parameter we select and is fitted from data. The assortment optimization and pricing problems associated with this property are fixed-parameter tractable for a fixed [Formula: see text]. Moreover, we show that the assortment optimization for some specific choice model with [Formula: see text]-similar substitutes property is polynomial-time solvable. We demonstrate our approach—going from data to modeling (i.e., selecting an appropriate [Formula: see text]) and finally to optimization—on another data set of customer click history on JD.com. Lastly, we conduct sensitivity tests on choice models that satisfy the [Formula: see text]-similar substitutes property in the presence of customers with large consideration sets. We provide an approximation guarantee in terms of revenue when asserting the [Formula: see text]-similar substitutes property. Both theoretical and numerical results show that the optimal assortment of our estimated model captures most of the revenue even when there are customers with large consideration sets. This paper was accepted by Vivek Farias, data science. Funding: B. Jiang’s research is supported by the National Natural Science Foundation of China [Grants 72394364, 72394363, 72394360, 72171141, and 72442013]. C. T. Ryan is supported by the NSERC [Grant RGPIN-2020-06488] and the SSHRC [Grant AWD-029333]. N. Zhang is supported by Ivey Business School. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.00786 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Whence LASSO? A Rational Interpretation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.06127",
+            "abstract_en": "This paper develops an economic setting to rationalize the use of the “least absolute shrinkage and selection operator” (LASSO) in estimating asset returns. In this setting, multiple traders engage in trading based on information extracted from historical asset prices. Facing model uncertainty in forecasting asset returns, these traders adopt robust-trading strategies. Within this context, the use of LASSO for estimating asset returns emerges endogenously as an equilibrium outcome. We further extend our analysis to rationalize the application of elastic-net estimation. Although LASSO-type strategies enhance traders’ profits by mitigating competition among them, they also introduce biases in trading decisions, which can adversely affect profitability. This dual effect highlights the nuanced tradeoffs associated with employing such estimation techniques in financial markets. This paper has been This paper was accepted by Will Cong for the Special Issue on AI for Finance and Business Decisions. Funding: This work was supported by the Social Sciences and Humanities Research Council of Canada [Grant 435-2021-0040] and the Bank of Canada [Fellowship]. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.06127 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Designing Inclusive Offerings",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.06742",
+            "abstract_en": "The trend toward inclusivity in product and service design—ensuring equal access to, or benefit from, products and services—has gained significant attention in industries such as beauty, wellness, and fashion. However, to our knowledge, there is currently no rigorous definition of inclusivity in the product line design or assortment optimization literature. This paper addresses the need for rigorous models, frameworks, and methods to create inclusive product lines and to measure the inclusivity of existing ones. We introduce the first formal definition of inclusive offerings and propose two continuous measures of inclusivity. We then formulate the inclusive offering design problem, which aims to select a minimum-cardinality set of offerings from a continuous feature space to ensure suitability for all users. Despite its NP-hardness, we present an optimal algorithm for realistic settings and one-dimensional feature spaces. Additionally, we explore the inclusivity resulting from offerings designed to maximize profit, revealing a nonmonotone relationship between inclusivity and the diversity of the user population. Our methods and metrics are applied to the foundation lines of eleven leading makeup brands, demonstrating their practical relevance and impact to the inclusive beauty movement. This paper was accepted by Victor Martínez-de-Albéniz, operations management. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.06742 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Costly Rewards Sustain Cooperation with Imperfect Monitoring",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.06479",
+            "abstract_en": "This research examines the role of reward systems in enhancing cooperation, particularly when individual contributions are not fully transparent. We investigate the impact of reward mechanisms on cooperative behavior using an experimental setup known as the Voluntary Contribution Mechanism with Rewards. Our experimental design compares centralized reward (CR) systems, where an authority distributes rewards, with decentralized reward (DR) systems, where peers allocate rewards, against a no-reward baseline. The results reveal that CR generally promotes the highest level of cooperation, whereas DR achieves the greatest economic efficiency across all test environments. Participants also exhibited a strong preference for CR. These findings contribute to the existing literature by highlighting the effectiveness of reward systems in mitigating social dilemmas under conditions of imperfect information. The study offers vital insights for policymakers and organizational members in selecting incentive mechanisms that foster sustained collective action, even when individual efforts are not directly observable. This paper was accepted by Dorothea Kubler, behavioral economics and decision analysis. Funding: Financial support from the National Natural Science Foundation of China [Grants 72503075 and 72203132]; the National Social Science Foundation of China [Grants 20AZD044, 22&ZD150, and 24&ZD084]; the Natural Science Foundation of Shandong Province [Grants ZR2023QG096, ZR2023QG071, ZR2022MG068, and ZR2022QG048]; the Taishan Scholar Program of Shandong Province [Grant tsqn201909013 and tsqn202408212]; and the Project of Humanities and Social Sciences of Shandong University [Grant 21RWZD15] is gratefully acknowledged. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06479 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Government Deleveraging and the Reverse Crowding-In Effect: Evidence from Subnational Debt and Government Contractors",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.05679",
+            "abstract_en": "We document a novel trade-credit channel through which government deleveraging affects the private economy. Our empirical analysis exploits China’s 2017 deleveraging campaign that reduced local governments’ net financing capacity and a purpose-built data set of listed firms matched with government procurement contracts. Compared with noncontractors, private contractors experience larger increases in accounts receivable and deterioration in financial conditions, leading to fewer investments, worse operating performance, and higher probabilities of ownership changes. The effects are muted among state-owned enterprises, which demonstrate lower productivity. Our findings thus reveal a reverse crowding-in effect whereby government deleveraging adversely affects private firms and reduces allocative efficiency. This paper was accepted by Lin William Cong, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05679 .",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -1375,38 +1558,6 @@
             ]
           },
           {
-            "title_en": "Spectral Volume Models: Universal High-Frequency Periodicities in Intraday Trading Activities",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.06215",
-            "abstract_en": "We develop spectral volume models to systematically estimate, explain, and exploit the high-frequency periodicity in intraday trading activities using Fourier analysis. The framework consistently recovers periodicities at specific frequencies in three steps, despite their low signal-to-noise ratios. This reveals persistent and universal high-frequency periodicities in the United States and Chinese stock markets in recent years, and the dominant frequencies explain a significant fraction of the total variance of intraday volumes. We provide evidence that this phenomenon likely reflects the behaviors of trading algorithms with repeated and regular trading instructions. Finally, we demonstrate that uncovering such high-frequency periodicities improves intraday volume predictions and volume weighted average price execution qualities, yields insights for price informativeness of algorithmic trading, and generates excess returns. This paper was accepted by William Lin Cong, finance. Funding: This work was supported by the National Key Research and Development Program of China [Grant 2022YFA1007900], the National Natural Science Foundation of China [Grants 12271013 and 72342004], and the Peking University’s Fundamental Research Funds for the Central Universities. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06215 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Government Deleveraging and the Reverse Crowding-In Effect: Evidence from Subnational Debt and Government Contractors",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.05679",
-            "abstract_en": "We document a novel trade-credit channel through which government deleveraging affects the private economy. Our empirical analysis exploits China’s 2017 deleveraging campaign that reduced local governments’ net financing capacity and a purpose-built data set of listed firms matched with government procurement contracts. Compared with noncontractors, private contractors experience larger increases in accounts receivable and deterioration in financial conditions, leading to fewer investments, worse operating performance, and higher probabilities of ownership changes. The effects are muted among state-owned enterprises, which demonstrate lower productivity. Our findings thus reveal a reverse crowding-in effect whereby government deleveraging adversely affects private firms and reduces allocative efficiency. This paper was accepted by Lin William Cong, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05679 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Whence LASSO? A Rational Interpretation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.06127",
-            "abstract_en": "This paper develops an economic setting to rationalize the use of the “least absolute shrinkage and selection operator” (LASSO) in estimating asset returns. In this setting, multiple traders engage in trading based on information extracted from historical asset prices. Facing model uncertainty in forecasting asset returns, these traders adopt robust-trading strategies. Within this context, the use of LASSO for estimating asset returns emerges endogenously as an equilibrium outcome. We further extend our analysis to rationalize the application of elastic-net estimation. Although LASSO-type strategies enhance traders’ profits by mitigating competition among them, they also introduce biases in trading decisions, which can adversely affect profitability. This dual effect highlights the nuanced tradeoffs associated with employing such estimation techniques in financial markets. This paper has been This paper was accepted by Will Cong for the Special Issue on AI for Finance and Business Decisions. Funding: This work was supported by the Social Sciences and Humanities Research Council of Canada [Grant 435-2021-0040] and the Bank of Canada [Fellowship]. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.06127 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
             "title_en": "Why Do Product Prices Affect Review Ratings? Evidence from a Japanese Online Travel Agency",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2024.05043",
@@ -1417,53 +1568,14 @@
             ]
           },
           {
-            "title_en": "Firms’ Stock Prices, Stock Returns, and Remaining Lifetime Earnings",
+            "title_en": "Constructing New Product Development Portfolios with Internal and External Projects",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.03251",
-            "abstract_en": "We document the disconnect between earnings expectations as captured in stock prices and the ultimate realization of earnings over long periods. To do so, we compare firms’ stock prices on the first trading day and the beginning of each year to the realized earnings over their remaining lifetime (RLTEP ratio). We document that the RLTEP ratio, averaged over long periods and over 15,000 U.S. domestic public firms, approximates one, suggesting that expectations match actuals in the aggregate. However, most firms fail to deliver an RLTEP ratio greater than one. Acquisition prices are the largest contributors to the RLTEP ratio, with many surviving firms failing to generate enough earnings even after operating for between 15 and 45 years. The RLTEP ratio for survivors is positively associated with the future RLTEP ratio, future lifetime wealth creation, and future lifetime stock returns. Significant returns-based wealth creation by firms in the short term does not persist in the long term unless it is supported by fundamental wealth creation (high past RLTEP ratio). This paper was accepted by Eric So, accounting. Funding: Financial support from SC Johnson Graduate School of Management, Cornell University, Columbia Business School, Columbia University, Binghamton University School of Management, and Haskayne School of Business, University of Calgary is gratefully acknowledged. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.03251 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.03917",
+            "abstract_en": "In order to build a successful new product development (NPD) portfolio, a firm must ensure not only its access to a wide variety of candidate NPD projects but also its capacity to collect and verify vital information about these projects prior to project selection. In practice, a popular strategy to enrich the set of candidate projects is to contemplate investing in both internal and external NPD projects; however, this approach often interferes with the firm’s ability to evaluate its own projects reliably, which in turn results in subpar project selections. To meet this managerial challenge, the firm must carefully craft its project selection process and incentivize its project managers to evaluate projects thoroughly and share their honest evaluation of outcomes. We address these issues by developing a principal–multiagent model, and our findings yield direct managerial implications. First, we show that the relative importance of a firm’s NPD portfolio scope versus its project evaluation costs is what dictates how flexibly the firm should select between internal and external projects; of course, greater flexibility leads to broader portfolios but also to higher evaluation costs. Second, controlling the tension between internal and external NPD projects while ensuring effective project evaluation requires that the firm offers—in addition to individual performance incentives—shared incentives, which signal its project selection preferences and also limit project managers’ opportunities to extract rent. This paper was accepted by Sridhar Tayur, entrepreneurship and innovation. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2023.03917 .",
             "abstract_zh": "",
             "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Redesigning VolunteerMatch’s Search Algorithm: Toward More Equitable Access to Volunteers",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.03838",
-            "abstract_en": "In collaboration with VolunteerMatch (VM)—the world’s largest online platform for connecting volunteers with volunteering opportunities—we designed and implemented a new display ranking algorithm. VM’s original ranking algorithm was intended to maximize efficiency (i.e., the total number of connections), but as a consequence, it repeatedly displayed the same few opportunities at the top of its ranking, effectively limiting access to volunteers for the other opportunities. To incorporate VM’s desire for equity (defined as the weekly number of opportunities with at least one connection) along with efficiency, we propose a modeling framework for online display ranking in settings where it is important to manage the trade-off between the total number of connections and the equitable allocation of these connections. We take an adversarial approach in evaluating the performance of online algorithms and show that a class of algorithms that applies a penalty to opportunities after each connection provides a strong (and, in certain regimes, optimal) performance guarantee. Inspired by our theoretical results yet mindful of practical considerations on VM’s platform, we propose SmartSort, a simple score-based ranking algorithm that enjoys comparable guarantees in many regimes. We implemented SmartSort in two experiments, covering Dallas–Fort Worth and all of Southern California. Using a difference-in-differences analysis, we find that the implementation of SmartSort led to an estimated 8% increase in the weekly average number of opportunities with at least one connection (consistent across both experiments) without any significant decrease in the total number of connections. If SmartSort has a similar distributional effect on a national scale, an additional 30,000 connections every year will go to opportunities that would have otherwise lacked access to volunteers. This paper was accepted by Omar Besbes, revenue management and market analytics. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03838 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "A Flash in the Pan(Demic)? Migration Risks and Municipal Bonds",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.02674",
-            "abstract_en": "We show that migration induced by the COVID-19 pandemic significantly predicts changes in municipal bond yields. Negative migration shocks have made debt more expensive, especially in the areas and bonds most exposed to the work-from-home (WFH) transition. Over the full sample, a one-standard-deviation increase in COVID period out-migration predicts an approximate 4.5-basis-point rise in municipal bond yields, after controlling for a range of local economic factors including state- or core-based statistical area (CBSA)-year fixed effects. This effect is 40% larger for areas in the top decile of WFH exposure and approximately twice as large for transportation-backed bonds. Moreover, areas containing the most exposed bonds (i.e., those with out-migration and high WFH exposure) also experience relatively large post-COVID declines in municipal revenue. Overall, our results suggest that investors have changed their estimates of the level or uncertainty of municipalities’ future cash flows, especially for areas and bonds most exposed to the transition toward remote work. This paper was accepted by Bo Becker, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02674 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Contextual Offline Demand Learning and Pricing with Separable Models",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.04026",
-            "abstract_en": "This paper, inspired by a collaboration with a leading consumer electronics retailer in the Middle East, explores the challenge of demand learning and pricing using separable demand models. The data scarcity issue, characterized by limited price changes and low sales volumes, renders traditional models ineffective in deriving reasonable price elasticity. To address this issue, we advocate a separable model that leverages two submodels to distinctly capture the effects of price and contextual information. The separable structure enables us to invest special emphasis on the role of price and impose specific structural assumptions on the submodel for pricing effects, such as the monotone decreasing property. Theoretical analysis sheds light on the statistical complexity of demand learning with the separable structure, highlighting its capacity to reduce the necessary sample size to achieve a desired level of accuracy. We also introduce a computationally efficient iterative algorithm for deriving submodels from offline datasets, complete with convergence guarantees. In an empirical context, we demonstrate how our method can yield meaningful price elasticity estimations and revenue increase based on real sales data from the retailer. This paper was accepted by J. George Shanthikumar, data science. Funding: This work was supported by funding from the MIT Data Science Lab, Hong Kong Research Grants Council (RGC) General Research Fund [CityU11508223], and Hong Kong Research Grants Council (RGC) Early Career Scheme [CityU21505825]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04026 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Evaluating the Impact of Privacy Regulation on E-Commerce Firms: Evidence from Apple’s App Tracking Transparency",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.06600",
-            "abstract_en": "Assembling novel data sets on online advertiser spending, performance, and revenue, we quantify the economic effects of Apple’s App Tracking Transparency (ATT) privacy policy on e-commerce firms. We find that conversion-optimized Meta advertisements, affected most by ATT, saw a 37% reduction in click-through rates after ATT. Although firms responded by shifting ad spending from Meta to the Google ecosystem, firms with higher baseline Meta dependence nevertheless experienced a substantial decline in firm-wide revenue relative to firms with lower baseline Meta dependence. We quantify these effects using a variety of methods, finding revenue decreases in the range between 8% and 40% relative to less exposed firms. These declines were primarily borne by smaller e-commerce firms, raising questions about the tradeoffs between consumer privacy and the ability of smaller e-commerce and direct-to-consumer firms to succeed in the product market. This paper was accepted by Jean-Pierre Dube, marketing. Funding: This work was supported by the LEC Program on Economics & Privacy, MSI Research Grant [4001820]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06600 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
+              "国际贸易",
+              "企业创新"
             ]
           }
         ],
@@ -1476,13 +1588,23 @@
         "resolved_name": "Journal of Business Venturing",
         "issue_title": "Volume 41, Issue 6",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
-        "matched_count": 1,
-        "total_in_issue": 3,
+        "matched_count": 2,
+        "total_in_issue": 4,
         "papers": [
           {
             "title_en": "The yin and yang: Utility and reform perspectives on social impact in social entrepreneurship research",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jbusvent.2026.106630",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "More than money: The symbolic role of stock options in tech worker attraction by technology startups",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106640",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1497,135 +1619,18 @@
         "query_name": "Technovation",
         "issn": "0166-4972",
         "resolved_name": "Technovation",
-        "issue_title": "Published 2026-09",
+        "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 12,
-        "total_in_issue": 13,
+        "matched_count": 1,
+        "total_in_issue": 3,
         "papers": [
           {
-            "title_en": "Unpacking how integrator state-owned enterprises respond to institutional demand tensions in complex product systems innovation",
+            "title_en": "Institutionalizing portfolio entrepreneurship: the Venture Studio model",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103663",
-            "abstract_en": "As hybrid organizations situated at the nexus of market and state logics, integrator state-owned enterprises (SOEs) face the daunting challenge of navigating competing institutional demands. In the process of CoPS innovation, such tensions coalesce into a persistent trade-off between legitimacy and autonomy. Drawing on an inductive multiple-case study of three large integrator SOEs operating in two representative CoPS domains in China, this study examines how these firms respond to legitimacy–autonomy tensions across different phases of CoPS innovation. We identify two response strategies, namely, aggregate projection and parallel coordination , that address goal conflicts in the goal-setting phase and means conflicts in the resource-allocation phase, respectively. Moreover, we propose a theoretical model illustrating how these mutually constitutive response strategies jointly enable integrator SOEs to secure legitimacy while preserving autonomy in achieving CoPS innovation. These findings deepen the scholars’ understanding of organizational responses to institutional demands, while also contributing to literature on CoPS innovation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Technological relatedness in green innovation disruptiveness: the role of entry pace and rhythm",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103686",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103699",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "From circularity to sustainability: Leveraging Industry 4.0 for circular and supply chain resilience",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103653",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "What makes an effective ideator? The distinct roles of cognition, personality, and experience in early-stage venture ideation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103683",
-            "abstract_en": "A microfoundational account of organizational innovation capability should explain which individual-level attributes distinguish ideators who are better able to generate, select, and elaborate ideas into investment-worthy business concepts. Yet research remains fragmented because prior studies often examine isolated traits and fail to distinguish among key creative ideation outcomes. Drawing on Trait Activation Theory, we conceptualize venture ideation as a staged, trait-relevant context in which cognitive abilities, personality traits, and creative domain experience are differentially expressed across successive stages. We examine this theorizing using a task-based assessment that separates idea quantity , idea originality , and idea quality . Innovation-exposed experts, including R&D experts, managers, and entrepreneurs (n = 208), generated multiple business ideas for a disruptive technology, selected their most promising idea, and refined it into a product or service concept incorporating core elements of a viable business model. Experienced technology-focused venture capitalists evaluated idea quality by indicating whether these concepts merited investment interest. We quantified semantic distinctiveness using multiple large language models as a semantic proxy for selected-idea originality. Divergent thinking predicted idea quantity, but not investor-evaluated idea quality. In contrast, investment-interest judgments were predicted by ideators’ Openness to Experience, creative domain experience, and convergent thinking ability. Overall, our findings show that early-stage venture ideation is not a unitary creative process. Different attributes help ideators generate many ideas and develop selected ideas into investment-worthy business model concepts, advancing a microfoundational account of organizational innovation capability in technology-based venture creation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Coopetitive portfolio configurations for product innovation: A crisp-set Qualitative Comparative Analysis",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103656",
-            "abstract_en": "Firms create and manage coopetitive portfolios (i.e., alliance portfolios including competitors) to foster product innovation, as they provide access to various complementary but also compatible resources and knowledge that are essential for innovation. The presence of competitors in coopetitive portfolios can create specific synergies but also conflicts with other partners that could enhance or limit the occurrence of product innovation. To understand under which combinations of partner types in a coopetitive portfolio product innovation can occur, we use a crisp-set Qualitative Comparative Analysis (csQCA) on a sample of 921 Dutch firms in the period 2010-2016. We show that alliances with competitors are complementary with customer alliances in promoting the occurrence of product innovation. In addition, our analysis reveals that when ties with universities are present in a coopetitive portfolio, suppliers must be present as well to introduce new products. Finally, we highlight that coopetitive portfolio configurations leading to product innovation vary according to the focal firm's size and industry dynamics.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Navigating codified, tacit and novel rules: Mapping the human-AI creativity frontier",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103660",
-            "abstract_en": "This paper examines the boundary between human and machine creativity by analysing 593 tasks across 126 occupations in the cultural and creative industries. Theoretically, we propose an evolutionary conceptualisation of creativity, structured around three rule types corresponding to retention (codified), adoption (tacit), and origination (novel) phases. Empirically, using GPT-4, we generate synthetic annotations of the semantic content of task descriptions in the Australian Skills Classification. We derive indicators of cognitive and behavioural rules within tasks and their carriers (human, AI, or hybrid human-AI) to capture creativity, and indicators of AI autonomy feasibility and efficiency potential to capture GenAI exposure scenarios. The agent-rule matching suggests a specialisation of agents in carrying defined, tacit, or novel rules, as well as two mechanisms. The first is the structured novelty effect, whereby AI autonomy feasibility is higher when defined cognitive rules combine with novel rule creation. The second is the tacit knowledge boundary, whereby tacit rules are negatively associated with AI autonomy feasibility. In our interpretation, these mechanisms reflect an efficacy logic (matching the right agent to each rule type) that differs from an efficiency logic (optimising technically feasible gain potentials). Combining both logics, we derive a simulated classification of tasks into three categories. The mixed category, involving hybrid carrier configurations, predominates (86.3%), alongside limited replacement (2.7%) and AI immune (11.0%) categories. We identify two levels of human-AI complementarity. The first lies in rule types within tasks and engages different forms of creativity (combinatorial, exploratory, transformational). The second concerns efficiency potential when performing tasks.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "A global analysis of female innovative entrepreneurship and the role of financial development",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103659",
-            "abstract_en": "Drawing on feminist and institutional perspectives, this study analyses whether women are equally likely as men to engage in innovative entrepreneurship and whether the maturity of debt and equity markets strengthens women's participation. We use data from 71,888 early-stage ventures across 101 countries and show that women are as likely as men to engage in innovative entrepreneurship, once crucial individual and country-level factors are controlled for. Further, we demonstrate that both debt and equity market development positively moderate this relationship. These findings reveal that gender gaps in innovative entrepreneurship reflect structural and institutional conditions rather than intrinsic propensities and highlight the role that financial development plays in supporting female innovative entrepreneurship.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "How sharing-platform SMEs innovate their business models in developing economies: A process and ecosystem perspective",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103684",
-            "abstract_en": "Sharing-platform small and medium-sized enterprises (SPSMEs) are a critical player in the sharing economy. However, how they innovate their business models in the developing economies setting is still unclear. This is because most research focuses on large sharing-platform firms in developed economies, often treating their business models as relatively static configurations, while explaining their innovation mainly from the firm's internal perspective. Accordingly, we ask: how SPSMEs, that operate in developing economies, adapt and reconfigure their business models over time while responding to challenging external conditions (including weak institutions, regulatory uncertainty, low digital awareness, fragmented provider networks, and limited ecosystem support). Drawing on multiple-case studies comprising seven SPSMEs in Jordan and the UAE, we develop a 3Ts process model (Triggering, Theming and Transforming) which explains how SPSMEs recognise opportunities, define value logics, and reconfigure their digital activity systems over time. We also show that the SPSMEs business ecosystem consists of two networks (the Digital Activity Network and the Digital Business Network), whose actors enable, constrain and redirect the business model innovation process. The study contributes to research on business model innovation (BMI) and the sharing economy literature by showing that BMI in SPSMEs is not a one-off design outcome. Rather, it is an evolving and context-sensitive process shaped by firm-level adaptation and business ecosystem conditions, particularly in developing economies.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "The impact of balance in the policy mix on firm innovation performance: A motivation–opportunity–ability perspective",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103665",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Digital platform archetypes as catalysts for circular economy innovation in technology industries",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103685",
-            "abstract_en": "Digital platform technologies are reshaping traditional linear value chains and are increasingly positioned as primary facilitators of circular economy implementation in electronics manufacturing. This study investigates how leading manufacturers, including Apple, Samsung, Xiaomi, and Dell, use digital platforms to support circular strategies through a comparative multi-case analysis of electronics platform archetypes. The analysis identifies two distinct digital platform archetypes. Premium integrated ecosystems, represented by Apple and Samsung, target higher-value consumer segments and emphasise component integration, lifecycle control, and tightly governed proprietary platforms. These models prioritise repair, refurbishment, and lifecycle extension within highly integrated product–service systems. In contrast, accessible ecosystem orchestrators, such as Xiaomi and Dell, promote broader participation across partners and users, focusing on asset management, service modularity, and affordability for price-sensitive consumers and business clients. The findings highlight how platform design influences circular outcomes, with governance structures, business models, and digital infrastructure needing alignment with market positioning and user needs. Overall, the paper contributes to research on digital platforms and circular business models by clarifying how platform archetypes shape pathways toward more circular electronics systems.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Brokerage, power and individual innovation: When do brokers act on their structural advantage?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103662",
-            "abstract_en": "Prior research has found that brokers, those who stand between two disconnected parties, may access non-redundant information that is conducive to higher innovation. However, research has also shown that occupying brokering network positions does not systematically translate into higher innovation; in other words, brokers do not always exploit such structural opportunity. To better understand the conditions under which brokers innovate, we adopt a contingency approach and theorize that the relationship between brokerage and individual innovation is contingent on individuals’ perception of their power over alters, an important aspect of individuals’ representation of the situation they are in. Using a social network analysis at a consulting and training organization in The Netherlands, we found support for our theory: employees perceiving higher power over alters achieved higher innovation in brokering network positions than employees in these positions who perceived lower power over alters.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Teaching to learn and learning to teach: using machine training to develop artificial intelligence partners in new product development",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103661",
-            "abstract_en": "Artificial intelligence (AI) is increasingly shaping how innovation is developed, and new product development (NPD) is an important domain at the centre of this shift, given its data-rich, high-uncertainty contexts. In this paper, we focus on the design and training of AI systems in which human expertise is encoded into machine models and the future scope of human and machine agency is determined. Drawing on organizational learning theory, we argue that training strategies defining who provides labels, which data are used, and how feedback is generated and reused, constitute design decisions that differ in how feedback is recursively structured, where knowledge is located, and how deeply expert judgment is codified. We develop and test three strategies, experiential, nudging, and generative, and instantiate them through computational simulations in the domain of geotechnical services for underwater exploration. We further assess the cross-context portability of the most effective strategy by redeploying the trained model in a second NPD setting. Our results show that strategies that recursively incorporate expert feedback across training cycles produce reliable, transferable models, whereas those that decouple human expertise from the training process converge prematurely on narrow solution spaces. These findings suggest that how firms structure the training of AI systems directly shapes model reliability and transferability, and provide a basis for theorizing how organizational routines, competencies, and relational forms of AI agency may develop as AI systems become embedded in NPD processes.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
               "企业创新"
             ]
           }
@@ -1754,13 +1759,14 @@
         "total_in_issue": 5,
         "papers": [
           {
-            "title_en": "Hospital Billing Regulations and Financial Well-being: Evidence from California’s Fair Pricing Law",
+            "title_en": "Consolidation of Local Health Authorities and mortality in the Italian NHS",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jhealeco.2026.103173",
-            "abstract_en": "",
+            "url": "https://doi.org/10.1016/j.jhealeco.2026.103174",
+            "abstract_en": "This paper studies the health consequences of administrative centralization in healthcare, focusing on the consolidation of Local Health Authorities (LHAs) within the Italian National Health Service. This type of reform fits within a broader set of cost-containment efforts aimed at reducing administrative expenditures and exploiting economies of scale. In the Italian case, the reform centralized governance and expanded the scale of health administration, creating authorities with substantially larger catchment areas and shifting decision-making to more heterogeneous jurisdictions. Such changes may affect the responsiveness of healthcare provision to local needs, the coordination of service delivery, and access to care. Using an event-study Difference-in-Differences design, we estimate the policy's impact on municipal mortality rates, accounting for heterogeneous treatment effects and co-occurring fiscal adjustment policies. We find a significant increase in mortality starting four years after implementation, with an average treatment effect on the treated of 2.1%. The effects are concentrated in municipalities belonging to absorbed LHAs and in those exposed to mergers involving relatively large pre-reform LHAs and substantial post-merger expansions in catchment areas; they are also unevenly distributed, creating new vulnerable areas. Welfare estimates based on life-years lost indicate that the monetary costs of increased mortality exceed plausible administrative savings by roughly an order of magnitude.",
             "abstract_zh": "",
             "matched_topics": [
-              "产业经济"
+              "产业经济",
+              "创新药"
             ]
           },
           {
@@ -1774,14 +1780,13 @@
             ]
           },
           {
-            "title_en": "Consolidation of Local Health Authorities and mortality in the Italian NHS",
+            "title_en": "Hospital Billing Regulations and Financial Well-being: Evidence from California’s Fair Pricing Law",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jhealeco.2026.103174",
-            "abstract_en": "This paper studies the health consequences of administrative centralization in healthcare, focusing on the consolidation of Local Health Authorities (LHAs) within the Italian National Health Service. This type of reform fits within a broader set of cost-containment efforts aimed at reducing administrative expenditures and exploiting economies of scale. In the Italian case, the reform centralized governance and expanded the scale of health administration, creating authorities with substantially larger catchment areas and shifting decision-making to more heterogeneous jurisdictions. Such changes may affect the responsiveness of healthcare provision to local needs, the coordination of service delivery, and access to care. Using an event-study Difference-in-Differences design, we estimate the policy's impact on municipal mortality rates, accounting for heterogeneous treatment effects and co-occurring fiscal adjustment policies. We find a significant increase in mortality starting four years after implementation, with an average treatment effect on the treated of 2.1%. The effects are concentrated in municipalities belonging to absorbed LHAs and in those exposed to mergers involving relatively large pre-reform LHAs and substantial post-merger expansions in catchment areas; they are also unevenly distributed, creating new vulnerable areas. Welfare estimates based on life-years lost indicate that the monetary costs of increased mortality exceed plausible administrative savings by roughly an order of magnitude.",
+            "url": "https://doi.org/10.1016/j.jhealeco.2026.103173",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "产业经济",
-              "创新药"
+              "产业经济"
             ]
           }
         ],
@@ -1898,16 +1903,6 @@
             ]
           },
           {
-            "title_en": "Identifying and Comparing Intervention Cost Components in Remote Patient Monitoring: A Scoping Review",
-            "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01620-5",
-            "abstract_en": "BACKGROUND AND OBJECTIVE: Remote patient monitoring has shown promising outcomes, such as improved disease awareness and reduced hospital stay. However, assessing the cost of the remote patient monitoring itself is challenging owing to the lack of standardization and transparency in economic evaluations of remote patient monitoring. This review aims to identify and compare the cost components used to estimate the remote patient monitoring intervention costs and the reported challenges in assessing them. METHODS: We performed a scoping review of studies published in PubMed, Embase, and Web of Science that conducted an economic evaluation of a remote patient monitoring between January 2019 and March 2026. Titles and abstracts were screened. Relevant articles were subjected to full-text screening to assess eligibility, and reported cost components were counted based on predefined categories. Difficulties reported by the economic evaluation authors (challenges) were extracted and analyzed using thematic synthesis. RESULTS: A total of 1282 articles were identified, of which 84 studies met the eligibility criteria. Forty-nine (58%) studies had an observational design, and the remaining studies had a model design. Components of remote patient monitoring intervention costs were reported in 71 (85%) of the included studies, with staff salaries (62%) and equipment/technology (56%) costs being the most frequently reported. The most commonly reported challenge was uncertainty about which remote patient monitoring cost categories to include. CONCLUSIONS: This review highlights the disparities in the assessment and reporting of remote patient monitoring intervention costs in economic evaluations. We offer an updated checklist and guidance for assessing and reporting intervention costs in future economic evaluations.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
             "title_en": "Real-World Economic Burden Associated with Progressive Pulmonary Fibrosis in the US: An Administrative Claims Database Analysis",
             "title_zh": "",
             "url": "https://doi.org/10.1007/s40273-026-01623-2",
@@ -1915,6 +1910,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "医药产业"
+            ]
+          },
+          {
+            "title_en": "Identifying and Comparing Intervention Cost Components in Remote Patient Monitoring: A Scoping Review",
+            "title_zh": "",
+            "url": "https://doi.org/10.1007/s40273-026-01620-5",
+            "abstract_en": "BACKGROUND AND OBJECTIVE: Remote patient monitoring has shown promising outcomes, such as improved disease awareness and reduced hospital stay. However, assessing the cost of the remote patient monitoring itself is challenging owing to the lack of standardization and transparency in economic evaluations of remote patient monitoring. This review aims to identify and compare the cost components used to estimate the remote patient monitoring intervention costs and the reported challenges in assessing them. METHODS: We performed a scoping review of studies published in PubMed, Embase, and Web of Science that conducted an economic evaluation of a remote patient monitoring between January 2019 and March 2026. Titles and abstracts were screened. Relevant articles were subjected to full-text screening to assess eligibility, and reported cost components were counted based on predefined categories. Difficulties reported by the economic evaluation authors (challenges) were extracted and analyzed using thematic synthesis. RESULTS: A total of 1282 articles were identified, of which 84 studies met the eligibility criteria. Forty-nine (58%) studies had an observational design, and the remaining studies had a model design. Components of remote patient monitoring intervention costs were reported in 71 (85%) of the included studies, with staff salaries (62%) and equipment/technology (56%) costs being the most frequently reported. The most commonly reported challenge was uncertainty about which remote patient monitoring cost categories to include. CONCLUSIONS: This review highlights the disparities in the assessment and reporting of remote patient monitoring intervention costs in economic evaluations. We offer an updated checklist and guidance for assessing and reporting intervention costs in future economic evaluations.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           }
         ],
@@ -1931,85 +1936,10 @@
         "total_in_issue": 26,
         "papers": [
           {
-            "title_en": "Variation in Telehealth Reimbursement After Hospital Discharge: Evidence Across Payers, Providers, and Market Characteristics",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.01.024",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "Fast Science, Slow Evaluation: What Makes Health Technology Assessment of Genetic and Genomic Technologies So Complicated? A Systematic Review of Methodological Challenges and Identified Suggestions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.03.004",
-            "abstract_en": "OBJECTIVES: The implementation of new applications into healthcare systems and practices frequently relies on health technology assessment (HTA). Given their complexity, HTA of genetic and genomic technologies (GGTs) faces multiple challenges; yet, no comprehensive synthesis exists. We systematically reviewed and summarized HTA challenges for GGTs, overall and by HTA domain. METHODS: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, we searched 3 databases (OSF protocol h4qg2). Eligible studies primarily discussed HTA challenges/barriers for GGTs across any HTA domain. Issues were classified into 9 EUnetHTA's Core Model domains plus a \"framework\" category. Results were synthesized narratively. RESULTS: Twenty records published between 2007 and 2025 were included: heterogeneous in structure, most discussed multiple HTA domains, and some reported suggestions. Economic (n = 12), clinical (n = 9), and social (n = 8) considerations predominated, whereas safety and organizational aspects were underrepresented. Across domains, we identified a persistent mismatch between the rapid evolution of GGTs and the slower generation of evidence, along with insufficient standardization and validation of key procedures that hinder cross-study comparability. Other major issues included defining clear healthcare pathways, valuing genomic testing, and strengthening regulatory frameworks to protect patient rights, data integrity, and equity of access. Suggested remedies were adopting living/rapid HTA, defining core outcome sets, harnessing real-world data sources, standardizing guidelines, engaging stakeholders, and enhancing national commitment. CONCLUSIONS: Fast-moving science and inadequate methods hamper HTA of GGTs. Adopting flexible HTA methods, standardized outcomes and procedures, and multistakeholder engagement, supported by national infrastructures, can shift HTA toward a more agile, resource-enabled system that better supports timely, generalizable, and equitable decision making in genomics.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医疗创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Real-World Evidence in the First Round of the United States Inflation Reduction Act Drug Price Negotiations: A Citation Analysis of the Centers for Medicare and Medicaid Services’ Maximum Fair Price Explanation Documents",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.03.006",
-            "abstract_en": "OBJECTIVES: To quantify and characterize the use of real-world evidence (RWE) in the Centers for Medicare and Medicaid Services (CMS) in the CMS drug pricing negotiations to assess the transparency and methodological consistency of RWE incorporation. METHODS: We extracted and reviewed all 1822 unique citations across the 10 MFP explanation documents available on the CMS's website. For each citation, we identified whether the study constituted RWE, the data source (eg, claims, electronic health records registry/clinical cohort), study design, and whether external health technology assessments were cited. We calculated drug-specific and overall RWE proportions and summarized the methodological features of RWE studies. RESULTS: RWE was cited for all 10 drugs, but its use varied substantially. The share of RWE ranged from 13.8% (Farxiga) to 41.5% (Xarelto). Across all drugs, nearly half of RWE studies used claims/administrative data (47.0%), followed by electronic health record data (17.1%) and registry/clinical cohort data (17.1%). Most RWE studies employed cohort or longitudinal designs (82.1%). Three drugs' citation lists included external health technology assessments HTAs (by the Institute for Clinical and Economic Review or the National Institute for Health and Care Excellence). Despite the broad inclusion of RWE, the maximum fair price documents did not specify how RWE influenced negotiated prices or how CMS evaluated the quality or relevance of these studies. CONCLUSION: These findings underscore the need for greater transparency and consistent methodological standards for evaluating RWE, aligning Medicare's process more closely with international health technology assessment practices.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济",
-              "医药产业",
-              "医疗创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Determinants of Unmet Demand for Surgery: The Case of Transcatheter Aortic Valve Replacement",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.02.003",
-            "abstract_en": "OBJECTIVES: To examine the determinants of unmet transcatheter aortic valve replacement (TAVR) needs and their impact on patient survival among Medicare beneficiaries with aortic stenosis. METHODS: We developed a county-level mismatch score measuring the gap between actual TAVR procedures performed and expected need based on population differences. Counties were classified as metropolitan, semiurban, or rural. Factors associated with larger mismatches were identified, and mortality rates among aortic stenosis (AS) patients were examined in relation to mismatch scores. We analyzed Medicare data from 2016 to 2022 across 3129 US counties. The mismatch score was developed to account for population differences and county urbanicity classification. Statistical analyses identified factors associated with TAVR mismatch and its relationship to mortality outcomes. RESULTS: We found substantial geographic variation in TAVR delivery. Counties with higher TAVR mismatch scores showed associations with fewer TAVR-providing hospitals, less market concentration, higher AS prevalence, and lower household incomes. Counties with greater gaps between needed and actual TAVR procedures were also associated with higher mortality rates. This relationship between mismatch and mortality was particularly strong in semiurban counties. CONCLUSIONS: Our findings identify associations between TAVR access gaps and patient outcomes, as well as factors linked to these access patterns. Counties with higher TAVR mismatch scores showed correlations with healthcare capacity constraints, geographic location, and socioeconomic factors. These associations suggest that mismatches may be addressed through targeted approaches based on local needs to improve care delivery for patients with AS in regions currently experiencing access challenges.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Development of the Medical Device Economic Evaluation Methodological Quality (DEEM-Q) Assessment Checklist",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.03.002",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医疗创新"
-            ]
-          },
-          {
             "title_en": "A Roadmap to Embedding Real-World Evidence Into Health Technology Assessment Processes for Cancer Medicines: Experiences From Scotland",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jval.2026.03.011",
             "abstract_en": "OBJECTIVES: To describe the development of a robust, sustainable pathway for the generation of real-world evidence (RWE) for cancer medicines, and how this was embedded into routine Health Technology Assessment (HTA) processes in Scotland to support decision making. METHODS: Requirements were agreed between Scotland's HTA body (Scottish Medicines Consortium, SMC) and Cancer Medicines Outcomes Programme-Public Health Scotland (CMOP-PHS). Nationally held administrative healthcare data are used to estimate patient numbers and identify comparator treatments. An educational workshop was held for SMC staff to explain CMOP-PHS reports. Feedback was sought from SMC assessors via an online form aimed at understanding the informativeness of CMOP-PHS reports and findings. RESULTS: Out of 13 requests made by SMC between February and July 2025, CMOP-PHS provided RWE reports for 8 (61.5%) cancer medicine assessments: 7 initial assessments, and one reassessment. Reports provided information on the number of patients being treated for the indication of interest in the last 12 months; the regimens used for treatment; and patient characteristics. Reasons for not providing RWE related to data completeness/granularity and insufficient patient numbers. Feedback indicated positive experiences; all responses (n = 13) confirmed that CMOP-PHS's work was informative. Respondents most strongly agreed that information on the number of patients treated for the same conditions in the last 12 months, and information on current comparator treatments, were helpful. CONCLUSIONS: CMOP-PHS has developed a rigorous, standardized approach for providing RWE to inform cancer HTA, which is now firmly embedded into SMC processes. Future developments are aimed at further improving data availability and quality.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "医疗创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Alternative Pricing Policies for Multi-Indication Products: A Quantitative Analysis",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.02.009",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Toward a Harmonized Definition of Digital Health Technologies for Use in Health Technology Assessment: A Scoping Review and Modified Delphi Consensus Study",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.03.009",
-            "abstract_en": "OBJECTIVES: The objectives of this study are to map definitions of digital health, eHealth, mHealth, telehealth, telemedicine, and artificial intelligence to further expand an existing conceptual map to distinguish between these terms and propose a harmonized definition for \"digital health technologies.\" METHODS: A scoping review was conducted to identify definitions of digital health, eHealth, mHealth, telehealth, telemedicine, and artificial intelligence. PubMed/MEDLINE, Embase, Cochrane Library, and EconLit were searched between January 2015 and May 2024. A 2-round modified Delphi, informed by the scoping review, was undertaken to develop a harmonized definition of digital health technologies (DHTs). Numerical summary analyses were performed for identified definitions and Delphi responses, and thematic and content analyses were applied to the definitions and free-text responses. RESULTS: The search yielded 11,041 records, of which 482 articles were included after screening and snowballing. A total of 328 definitions were identified for digital health, eHealth, mHealth, telehealth, telemedicine, and artificial intelligence. Higher number of definitions were identified for the term telehealth/telemedicine. Across the definitions, 3 key components consistently emerged: purpose, users, and underlying technology. Round 1 of the Delphi received 118 complete responses, and round 2 received 54. Consensus was achieved on the key components, their subcomponents, and the final definition of DHTs. CONCLUSION: This study proposes a unified definition of DHTs, grounded in the components of purpose, users, and technology. Recognition of AI within the definition reflects its growing role in digital health. This definition provides a foundation for developing classification criteria that support consistent health technology assessment of DHTs.",
             "abstract_zh": "",
             "matched_topics": [
               "医疗创新",
@@ -2038,12 +1968,87 @@
             ]
           },
           {
+            "title_en": "Determinants of Unmet Demand for Surgery: The Case of Transcatheter Aortic Valve Replacement",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.02.003",
+            "abstract_en": "OBJECTIVES: To examine the determinants of unmet transcatheter aortic valve replacement (TAVR) needs and their impact on patient survival among Medicare beneficiaries with aortic stenosis. METHODS: We developed a county-level mismatch score measuring the gap between actual TAVR procedures performed and expected need based on population differences. Counties were classified as metropolitan, semiurban, or rural. Factors associated with larger mismatches were identified, and mortality rates among aortic stenosis (AS) patients were examined in relation to mismatch scores. We analyzed Medicare data from 2016 to 2022 across 3129 US counties. The mismatch score was developed to account for population differences and county urbanicity classification. Statistical analyses identified factors associated with TAVR mismatch and its relationship to mortality outcomes. RESULTS: We found substantial geographic variation in TAVR delivery. Counties with higher TAVR mismatch scores showed associations with fewer TAVR-providing hospitals, less market concentration, higher AS prevalence, and lower household incomes. Counties with greater gaps between needed and actual TAVR procedures were also associated with higher mortality rates. This relationship between mismatch and mortality was particularly strong in semiurban counties. CONCLUSIONS: Our findings identify associations between TAVR access gaps and patient outcomes, as well as factors linked to these access patterns. Counties with higher TAVR mismatch scores showed correlations with healthcare capacity constraints, geographic location, and socioeconomic factors. These associations suggest that mismatches may be addressed through targeted approaches based on local needs to improve care delivery for patients with AS in regions currently experiencing access challenges.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Methods to Include Environmental Impacts in a Cost-Effectiveness Analysis: A Case Study of Surveillance Imaging After Treatment for Stage III Melanoma",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jval.2026.02.015",
             "abstract_en": "OBJECTIVES: To demonstrate methods to include carbon emissions in a cost-effectiveness analysis of different positron emission tomography and computed tomography surveillance imaging schedules for detecting metastasis in patients treated for stage III melanoma. METHODS: Decision-analytic modeling was used to compare 12-monthly imaging with no routinely scheduled imaging. The health outcome was the proportion of patients without a false-negative result for a distant metastasis. Health system costs were included in 2023 Australian dollars. A 5% discount per year was applied. Carbon emissions were obtained from existing studies. Four methods were demonstrated: (1) reporting emissions in parallel, (2) the incremental carbon footprint cost ratio, (3) the incremental carbon footprint effectiveness ratio, and (4) integrating emissions as a cost in the incremental cost-effectiveness ratio (ICER). RESULTS: -e per false-negative avoided. Valuing emissions using New South Wales carbon values increased the ICER modestly to $73 919 per false-negative avoided. Using the mortality-accounting social cost of carbon increased the ICER to $107 297 per false-negative avoided. CONCLUSIONS: Parallel methods are difficult to interpret without agreed value thresholds. Integrated methods meaningfully altered the results of the base-case analysis when higher monetary values of carbon emissions were used.",
             "abstract_zh": "",
             "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Variation in Telehealth Reimbursement After Hospital Discharge: Evidence Across Payers, Providers, and Market Characteristics",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.01.024",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医药产业"
+            ]
+          },
+          {
+            "title_en": "Real-World Evidence in the First Round of the United States Inflation Reduction Act Drug Price Negotiations: A Citation Analysis of the Centers for Medicare and Medicaid Services’ Maximum Fair Price Explanation Documents",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.03.006",
+            "abstract_en": "OBJECTIVES: To quantify and characterize the use of real-world evidence (RWE) in the Centers for Medicare and Medicaid Services (CMS) in the CMS drug pricing negotiations to assess the transparency and methodological consistency of RWE incorporation. METHODS: We extracted and reviewed all 1822 unique citations across the 10 MFP explanation documents available on the CMS's website. For each citation, we identified whether the study constituted RWE, the data source (eg, claims, electronic health records registry/clinical cohort), study design, and whether external health technology assessments were cited. We calculated drug-specific and overall RWE proportions and summarized the methodological features of RWE studies. RESULTS: RWE was cited for all 10 drugs, but its use varied substantially. The share of RWE ranged from 13.8% (Farxiga) to 41.5% (Xarelto). Across all drugs, nearly half of RWE studies used claims/administrative data (47.0%), followed by electronic health record data (17.1%) and registry/clinical cohort data (17.1%). Most RWE studies employed cohort or longitudinal designs (82.1%). Three drugs' citation lists included external health technology assessments HTAs (by the Institute for Clinical and Economic Review or the National Institute for Health and Care Excellence). Despite the broad inclusion of RWE, the maximum fair price documents did not specify how RWE influenced negotiated prices or how CMS evaluated the quality or relevance of these studies. CONCLUSION: These findings underscore the need for greater transparency and consistent methodological standards for evaluating RWE, aligning Medicare's process more closely with international health technology assessment practices.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
+              "医药产业",
+              "医疗创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Development of the Medical Device Economic Evaluation Methodological Quality (DEEM-Q) Assessment Checklist",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.03.002",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新"
+            ]
+          },
+          {
+            "title_en": "Alternative Pricing Policies for Multi-Indication Products: A Quantitative Analysis",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.02.009",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Fast Science, Slow Evaluation: What Makes Health Technology Assessment of Genetic and Genomic Technologies So Complicated? A Systematic Review of Methodological Challenges and Identified Suggestions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.03.004",
+            "abstract_en": "OBJECTIVES: The implementation of new applications into healthcare systems and practices frequently relies on health technology assessment (HTA). Given their complexity, HTA of genetic and genomic technologies (GGTs) faces multiple challenges; yet, no comprehensive synthesis exists. We systematically reviewed and summarized HTA challenges for GGTs, overall and by HTA domain. METHODS: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, we searched 3 databases (OSF protocol h4qg2). Eligible studies primarily discussed HTA challenges/barriers for GGTs across any HTA domain. Issues were classified into 9 EUnetHTA's Core Model domains plus a \"framework\" category. Results were synthesized narratively. RESULTS: Twenty records published between 2007 and 2025 were included: heterogeneous in structure, most discussed multiple HTA domains, and some reported suggestions. Economic (n = 12), clinical (n = 9), and social (n = 8) considerations predominated, whereas safety and organizational aspects were underrepresented. Across domains, we identified a persistent mismatch between the rapid evolution of GGTs and the slower generation of evidence, along with insufficient standardization and validation of key procedures that hinder cross-study comparability. Other major issues included defining clear healthcare pathways, valuing genomic testing, and strengthening regulatory frameworks to protect patient rights, data integrity, and equity of access. Suggested remedies were adopting living/rapid HTA, defining core outcome sets, harnessing real-world data sources, standardizing guidelines, engaging stakeholders, and enhancing national commitment. CONCLUSIONS: Fast-moving science and inadequate methods hamper HTA of GGTs. Adopting flexible HTA methods, standardized outcomes and procedures, and multistakeholder engagement, supported by national infrastructures, can shift HTA toward a more agile, resource-enabled system that better supports timely, generalizable, and equitable decision making in genomics.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Toward a Harmonized Definition of Digital Health Technologies for Use in Health Technology Assessment: A Scoping Review and Modified Delphi Consensus Study",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.03.009",
+            "abstract_en": "OBJECTIVES: The objectives of this study are to map definitions of digital health, eHealth, mHealth, telehealth, telemedicine, and artificial intelligence to further expand an existing conceptual map to distinguish between these terms and propose a harmonized definition for \"digital health technologies.\" METHODS: A scoping review was conducted to identify definitions of digital health, eHealth, mHealth, telehealth, telemedicine, and artificial intelligence. PubMed/MEDLINE, Embase, Cochrane Library, and EconLit were searched between January 2015 and May 2024. A 2-round modified Delphi, informed by the scoping review, was undertaken to develop a harmonized definition of digital health technologies (DHTs). Numerical summary analyses were performed for identified definitions and Delphi responses, and thematic and content analyses were applied to the definitions and free-text responses. RESULTS: The search yielded 11,041 records, of which 482 articles were included after screening and snowballing. A total of 328 definitions were identified for digital health, eHealth, mHealth, telehealth, telemedicine, and artificial intelligence. Higher number of definitions were identified for the term telehealth/telemedicine. Across the definitions, 3 key components consistently emerged: purpose, users, and underlying technology. Round 1 of the Delphi received 118 complete responses, and round 2 received 54. Consensus was achieved on the key components, their subcomponents, and the final definition of DHTs. CONCLUSION: This study proposes a unified definition of DHTs, grounded in the components of purpose, users, and technology. Recognition of AI within the definition reflects its growing role in digital health. This definition provides a foundation for developing classification criteria that support consistent health technology assessment of DHTs.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新",
               "创新药"
             ]
           }
@@ -2071,10 +2076,10 @@
             ]
           },
           {
-            "title_en": "Highly Novel Drugs Outperformed Less Novel Drugs In Gross And Net Revenues In The US, Driven Primarily By Utilization, 2013–19",
+            "title_en": "Profitability Of Infused Biologics For Hospitals And Physician Practices: Case Study Of Keytruda",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2026.00054",
-            "abstract_en": "Whether US pharmaceutical markets reward novel therapies more than incremental follow-on drugs remains unclear. We examined trends in prescription drug revenues across three dimensions of pharmacological novelty-molecular structure, therapeutic target, and delivery properties-using a retrospective analysis of branded small-molecule drugs approved by the Food and Drug Administration and marketed between 2000 and 2019. Novelty measures derived from ChEMBL, a comprehensive database of bioactive molecules with druglike properties, were linked to nationally representative utilization and spending data from the Medical Expenditure Panel Survey, with rebate-adjusted net revenues estimated using SSR Health data. Beginning around 2013, gross and net revenues rose disproportionately for highly novel drugs across all three dimensions of novelty, whereas revenues for medium- and low-novelty drugs remained relatively stable. From 2013 to 2019, mean gross revenue more than tripled for drugs with high molecular or target novelty and more than doubled for those with high delivery novelty. These revenue gains were associated with increased prescription volume, rather than higher prices. The timing of this divergence coincided with the expansion of pharmacy benefit managers' formulary exclusion policies, which may have reduced the usage of drugs with close substitutes and increased market returns to pharmacological novelty.",
+            "url": "https://doi.org/10.1377/hlthaff.2026.00334",
+            "abstract_en": "Physician-administered drugs and biologics account for a growing share of pharmaceutical spending, but they also generate substantial revenues for the hospitals and physician practices that acquire the products at one price and are reimbursed at a higher price. This study analyzed insurer expenditures and provider margins with a focus on Keytruda, the world's largest biologic in terms of sales, using detailed insurer, provider, and market data on 59,717 patients treated in 5,008 hospitals and physician practices. Keytruda expenditures by private insurers increased by 142 percent from 2020 to 2024, while the number of patients using Keytruda increased by 110 percent. Price markups-the ratio of the reimbursement price charged to insurers compared with the acquisition price paid to the manufacturer-averaged 173 percent in hospitals eligible for 340(B) discounts, 78 percent in hospitals not eligible for those discounts, and 16 percent in community-based physician practices. For hospitals eligible for 340(B) discounts, each Keytruda patient was associated with $102,680 in annual revenue, measured through insurer reimbursement, after organizational, patient, and market factors were adjusted for. Each Keytruda patient was associated with $67,825 in revenue at noneligible hospitals and $3,094 in revenue at physician practices.",
             "abstract_zh": "",
             "matched_topics": [
               "医药产业",
@@ -2082,14 +2087,14 @@
             ]
           },
           {
-            "title_en": "The Expanded Child Tax Credit: Highest Burdens, Smallest Improvements Among Low-Income, Female-Headed Households",
+            "title_en": "Hospice Acquisitions By Certain Firms And Corporations Were Associated With Reductions In Care Intensity, 2010–21",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01656",
-            "abstract_en": "The 2021 expansion of the Child Tax Credit provided advance monthly cash transfers to most US households with children. Although prior evaluations documented overall improvements in household well-being, less is known about variation by household structure. This study examined policy-period changes in parental mental health and material hardship among female-headed households. Using data from 1.3 million respondents to the Census Bureau's Household Pulse Survey (2020-25) and an intersectional framework, we applied difference-in-differences and multilevel models to estimate changes in parental mental health and material hardship before, during, and after expanded Child Tax Credit implementation. Non-female-headed households showed improvements in depression, anxiety, and housing insecurity, whereas female-headed households, particularly those with low incomes and Black, Hispanic, and Asian households, showed smaller or no comparable gains. Food insecurity did not improve across groups. Intersectional analyses showed that the highest burdens and smallest improvements were concentrated among low-income, female-headed households across racial and ethnic groups. Findings suggest that the expanded Child Tax Credit did not fully close baseline disparities, underscoring the importance of household structure and intersecting social positions in policy design and evaluation.",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01535",
+            "abstract_en": "The rapid growth of private equity (PE) and publicly traded corporation (PTC) ownership in hospice has raised concerns that investor-driven profit incentives may undermine care quality. Evidence on how these acquisitions affect care delivery remains limited. We linked a national PE and PTC acquisition database to Medicare claims for a beneficiary sample for the period 2010-21 and used a difference-in-differences event study to compare acquired versus nonacquired for-profit hospices on process-based quality measures and Medicare reimbursement. After PE acquisition, registered nurse, social worker, and home hospice aide minutes per thirty days declined 5.14 percent, 12.32 percent, and 6.62 percent, respectively; after PTC acquisition, registered nurse and home hospice aide minutes per thirty days declined 4.63 percent and 9.09 percent. Declines in visit minutes also were observed in the last seven days of life. Reductions in visit minutes were driven by four large acquirers. These findings highlight the need for increased transparency and oversight policies, as well as payment reforms that align reimbursement with care intensity and quality.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
-              "创新药"
+              "医药产业"
             ]
           },
           {
@@ -2097,16 +2102,6 @@
             "title_zh": "",
             "url": "https://doi.org/10.1377/hlthaff.2025.01754",
             "abstract_en": "The opioid crisis has remained a public health challenge in the US for more than two decades. After increasing from 2002 to 2012, opioid-related hospitalizations decreased from 2016 to 2019, but more recent trends are unknown. We sought to determine trends in incidence and outcomes of US opioid-related hospitalizations in recent years. We conducted a serial cross-sectional study of adult primary and secondary opioid-related hospitalizations, using the 2016-23 National Inpatient Survey and regression models, annual percent change, and z-tests to examine change during the study period. Measures included annual opioid-related hospitalizations, hospital stay outcomes, and sociodemographic characteristics. Among the 1.48 million opioid-related hospitalizations during 2016-23, survey-weighted to 7.42 million, 0.93 million were classified as primary and 6.49 million as secondary opioid-related hospitalizations. Hospitalizations decreased through 2023 for all groups except patients who were Hispanic or Native American, who reported Medicaid as their payer, or who were older than age sixty-five. The greatest decline occurred among people younger than age thirty-five. The proportion of hospitalizations ending in death and self-directed discharge increased by 0.58 percentage points and 2.68 percentage points, respectively. Overall, differential reductions in opioid-related hospitalizations and increasing mortality and self-directed discharge highlight opportunities for interventions.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The Elephant In The Room",
-            "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.00257",
-            "abstract_en": "To be a Black mother: living within the gaps of health care.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
@@ -2124,17 +2119,6 @@
             ]
           },
           {
-            "title_en": "Hospice Acquisitions By Certain Firms And Corporations Were Associated With Reductions In Care Intensity, 2010–21",
-            "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01535",
-            "abstract_en": "The rapid growth of private equity (PE) and publicly traded corporation (PTC) ownership in hospice has raised concerns that investor-driven profit incentives may undermine care quality. Evidence on how these acquisitions affect care delivery remains limited. We linked a national PE and PTC acquisition database to Medicare claims for a beneficiary sample for the period 2010-21 and used a difference-in-differences event study to compare acquired versus nonacquired for-profit hospices on process-based quality measures and Medicare reimbursement. After PE acquisition, registered nurse, social worker, and home hospice aide minutes per thirty days declined 5.14 percent, 12.32 percent, and 6.62 percent, respectively; after PTC acquisition, registered nurse and home hospice aide minutes per thirty days declined 4.63 percent and 9.09 percent. Declines in visit minutes also were observed in the last seven days of life. Reductions in visit minutes were driven by four large acquirers. These findings highlight the need for increased transparency and oversight policies, as well as payment reforms that align reimbursement with care intensity and quality.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "医药产业"
-            ]
-          },
-          {
             "title_en": "The Uneven Distribution Of Patient Portal Messages Across Patients And Physicians",
             "title_zh": "",
             "url": "https://doi.org/10.1377/hlthaff.2025.01416",
@@ -2145,10 +2129,20 @@
             ]
           },
           {
-            "title_en": "Profitability Of Infused Biologics For Hospitals And Physician Practices: Case Study Of Keytruda",
+            "title_en": "ACA Marketplace Take-Up Was High After Facilitated Enrollment In California; Disparities Remained",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2026.00334",
-            "abstract_en": "Physician-administered drugs and biologics account for a growing share of pharmaceutical spending, but they also generate substantial revenues for the hospitals and physician practices that acquire the products at one price and are reimbursed at a higher price. This study analyzed insurer expenditures and provider margins with a focus on Keytruda, the world's largest biologic in terms of sales, using detailed insurer, provider, and market data on 59,717 patients treated in 5,008 hospitals and physician practices. Keytruda expenditures by private insurers increased by 142 percent from 2020 to 2024, while the number of patients using Keytruda increased by 110 percent. Price markups-the ratio of the reimbursement price charged to insurers compared with the acquisition price paid to the manufacturer-averaged 173 percent in hospitals eligible for 340(B) discounts, 78 percent in hospitals not eligible for those discounts, and 16 percent in community-based physician practices. For hospitals eligible for 340(B) discounts, each Keytruda patient was associated with $102,680 in annual revenue, measured through insurer reimbursement, after organizational, patient, and market factors were adjusted for. Each Keytruda patient was associated with $67,825 in revenue at noneligible hospitals and $3,094 in revenue at physician practices.",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01585",
+            "abstract_en": "During the unwinding of the continuous coverage requirements related to the COVID-19 public health emergency in 2023, as an unprecedented volume of consumers were transitioning out of Medicaid, California launched a facilitated enrollment program for people who lost Medicaid and were eligible for subsidized Marketplace coverage. We conducted a survey in 2023-24 to assess coverage outcomes among Californians who lost Medicaid coverage, were assigned to a default plan, and had thirty days to opt in to coverage under the program. Although national surveys indicate high rates of uninsurance after loss of Medicaid, we found that 85 percent of those who were eligible for an Affordable Care Act Marketplace subsidy had some form of health insurance. Among those without other available coverage, nearly two-thirds opted in to a Marketplace plan. People with a high school education or less were least likely to enroll in Covered California, as were those who rated their health status as poor. Even after we accounted for premium amounts, income, education, health status, and language preference, take-up was higher among Asian/Asian American (84 percent) and White (79 percent) people than among Hispanic/Latino (53 percent) and Black/African American (54 percent) people. Our findings indicate that facilitated enrollment interventions should be strengthened to overcome administrative and other burdens that persist among subpopulations.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Highly Novel Drugs Outperformed Less Novel Drugs In Gross And Net Revenues In The US, Driven Primarily By Utilization, 2013–19",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2026.00054",
+            "abstract_en": "Whether US pharmaceutical markets reward novel therapies more than incremental follow-on drugs remains unclear. We examined trends in prescription drug revenues across three dimensions of pharmacological novelty-molecular structure, therapeutic target, and delivery properties-using a retrospective analysis of branded small-molecule drugs approved by the Food and Drug Administration and marketed between 2000 and 2019. Novelty measures derived from ChEMBL, a comprehensive database of bioactive molecules with druglike properties, were linked to nationally representative utilization and spending data from the Medical Expenditure Panel Survey, with rebate-adjusted net revenues estimated using SSR Health data. Beginning around 2013, gross and net revenues rose disproportionately for highly novel drugs across all three dimensions of novelty, whereas revenues for medium- and low-novelty drugs remained relatively stable. From 2013 to 2019, mean gross revenue more than tripled for drugs with high molecular or target novelty and more than doubled for those with high delivery novelty. These revenue gains were associated with increased prescription volume, rather than higher prices. The timing of this divergence coincided with the expansion of pharmacy benefit managers' formulary exclusion policies, which may have reduced the usage of drugs with close substitutes and increased market returns to pharmacological novelty.",
             "abstract_zh": "",
             "matched_topics": [
               "医药产业",
@@ -2166,10 +2160,21 @@
             ]
           },
           {
-            "title_en": "ACA Marketplace Take-Up Was High After Facilitated Enrollment In California; Disparities Remained",
+            "title_en": "The Expanded Child Tax Credit: Highest Burdens, Smallest Improvements Among Low-Income, Female-Headed Households",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01585",
-            "abstract_en": "During the unwinding of the continuous coverage requirements related to the COVID-19 public health emergency in 2023, as an unprecedented volume of consumers were transitioning out of Medicaid, California launched a facilitated enrollment program for people who lost Medicaid and were eligible for subsidized Marketplace coverage. We conducted a survey in 2023-24 to assess coverage outcomes among Californians who lost Medicaid coverage, were assigned to a default plan, and had thirty days to opt in to coverage under the program. Although national surveys indicate high rates of uninsurance after loss of Medicaid, we found that 85 percent of those who were eligible for an Affordable Care Act Marketplace subsidy had some form of health insurance. Among those without other available coverage, nearly two-thirds opted in to a Marketplace plan. People with a high school education or less were least likely to enroll in Covered California, as were those who rated their health status as poor. Even after we accounted for premium amounts, income, education, health status, and language preference, take-up was higher among Asian/Asian American (84 percent) and White (79 percent) people than among Hispanic/Latino (53 percent) and Black/African American (54 percent) people. Our findings indicate that facilitated enrollment interventions should be strengthened to overcome administrative and other burdens that persist among subpopulations.",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01656",
+            "abstract_en": "The 2021 expansion of the Child Tax Credit provided advance monthly cash transfers to most US households with children. Although prior evaluations documented overall improvements in household well-being, less is known about variation by household structure. This study examined policy-period changes in parental mental health and material hardship among female-headed households. Using data from 1.3 million respondents to the Census Bureau's Household Pulse Survey (2020-25) and an intersectional framework, we applied difference-in-differences and multilevel models to estimate changes in parental mental health and material hardship before, during, and after expanded Child Tax Credit implementation. Non-female-headed households showed improvements in depression, anxiety, and housing insecurity, whereas female-headed households, particularly those with low incomes and Black, Hispanic, and Asian households, showed smaller or no comparable gains. Food insecurity did not improve across groups. Intersectional analyses showed that the highest burdens and smallest improvements were concentrated among low-income, female-headed households across racial and ethnic groups. Findings suggest that the expanded Child Tax Credit did not fully close baseline disparities, underscoring the importance of household structure and intersecting social positions in policy design and evaluation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "The Elephant In The Room",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2025.00257",
+            "abstract_en": "To be a Black mother: living within the gaps of health care.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
