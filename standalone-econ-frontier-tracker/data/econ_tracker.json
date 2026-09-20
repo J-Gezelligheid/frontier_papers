@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-13 09:20:18",
+  "updated_at": "2026-09-20 09:44:49",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 291,
+    "fail_count": 320,
     "failed_examples": [
       "Manipulation-Robust Prediction :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "An increasing number of decisions are guided by machine learning algorithms. But :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
@@ -399,56 +399,57 @@
         "query_name": "Econometrica",
         "issn": "0012-9682",
         "resolved_name": "Econometrica",
-        "issue_title": "Volume 94, Issue 4",
+        "issue_title": "Volume 94, Issue 5",
         "issue_url": "https://onlinelibrary.wiley.com/journal/14680262",
         "matched_count": 5,
-        "total_in_issue": 15,
+        "total_in_issue": 14,
         "papers": [
           {
-            "title_en": "Firm‐to‐Firm Trade: Imports, Exports, and the Labor Market",
+            "title_en": "The Role of Trade in Premature Deindustrialization and Industry Polarization",
             "title_zh": "",
-            "url": "https://doi.org/10.3982/ecta20506",
-            "abstract_en": "Customs data reveal the heterogeneity and granularity of relationships among buyers and sellers, showing how more exports to a destination break down into more firms selling there and more buyers per exporter. We develop a quantitative general equilibrium model of firm‐to‐firm matching that builds on this insight to separate the roles of iceberg costs and matching frictions in gravity. In the cross section, we find matching frictions as important as iceberg costs in impeding trade, and more sensitive to distance. Because domestic and imported intermediates compete directly with labor in performing production tasks, our model also fits the heterogeneity of labor shares across French producers. Applying the framework to the 2004 expansion of the European Union, reduced iceberg costs and reduced matching frictions contributed equally to the increase in French exports to the new members. While workers benefited overall, those competing most directly with imports gained less, even losing in some countries entering the EU.",
+            "url": "https://doi.org/10.3982/ecta20428",
+            "abstract_en": "We document two key patterns of structural change: premature deindustrialization and rising industry polarization. Using a dynamic open‐economy model with sector‐biased technological change (SBTC), we evaluate the role of trade in these shifts. Trade alone does not cause premature deindustrialization, but its interaction with SBTC—transmitting global technological change, amplifying the decline in manufacturing's relative price over time, and generating manufacturing trade imbalances across countries—deepens premature deindustrialization over time. Industry polarization, by contrast, emerges only through trade‐driven specialization, as countries diverge along lines of comparative advantage.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "The Inference‐Forecast Gap in Belief Updating",
+            "title_en": "Promoting Women to Managerial Roles in the Bangladeshi Garment Sector",
             "title_zh": "",
-            "url": "https://doi.org/10.3982/ecta23334",
-            "abstract_en": "Evidence from the laboratory and the field has uncovered both underreaction and overreaction to new information. We provide new experimental evidence on the underlying mechanisms of under‐ and overreaction by comparing how people make inferences and revise forecasts in the same information environment. Participants underreact to signals when inferring about underlying states, but overreact to the same signals when revising forecasts about future outcomes—a phenomenon we term “the inference‐forecast gap.” We show that this gap is largely driven by different simplifying heuristics used in the two tasks. Additional treatments suggest that the choice of heuristics is affected by the similarity between statistics in the information environment and the statistic elicited by the belief‐updating problem.",
+            "url": "https://doi.org/10.3982/ecta18759",
+            "abstract_en": "Women remain disadvantaged in promotion to managerial positions. We conduct a field experiment with 24 large garment factories in Bangladesh to test for inefficient representation of women among line supervisors. We identify the marginal female and male candidates for supervisory positions and randomly assign them to manage production lines. We document four findings: (1) In contrast to widespread negative beliefs about women's ability as supervisors at baseline, female candidates selected by the factories had similar skills to males; (2) during the trial, females performed worse than males, which we show is related to negative bias against them; (3) after the trial, however, many female candidates were retained as supervisors and, conditional on that, performed similar to males; and (4) after the end of our intervention, factories permanently increased the share of women among newly appointed supervisors. A conceptual framework of experimentation over discrimination rationalizes all these facts and cautions against the standard logic to test for discrimination: when there is uncertainty about the performance of the discriminated group, equal—or even worse—performance of the marginal candidates of that group is no longer sufficient to rule out inefficient discrimination.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Job Ladder and Wealth Dynamics in General Equilibrium",
+            "title_en": "Physician Behavior in the Presence of a Secondary Market: The Case of Prescription Opioids",
             "title_zh": "",
-            "url": "https://doi.org/10.3982/ecta22542",
-            "abstract_en": "This paper develops a macroeconomic model that combines an incomplete‐markets overlapping‐generations economy with a job ladder featuring sequential wage bargaining, endogenous search effort of employed and non‐employed workers, and differences in match quality. With these ingredients, our model provides a joint microfoundation for the three main inputs in aggregate production: capital, employment, and labor efficiency. The calibrated model offers a good fit to the empirical age profiles of search activity, job‐finding rates, wages, and savings. We use the model to analyze the impact of tax and transfer policies for labor market dynamics and aggregate economic activity via capital, employment, and labor efficiency channels. Lower unemployment benefits and a less progressive tax schedule bring about welfare losses for a newborn worker which are mainly driven by higher consumption risk and costlier search effort; both policies have differential effects along the age, income, and wealth dimensions.",
+            "url": "https://doi.org/10.3982/ecta20884",
+            "abstract_en": "This paper examines how drug diversion influences the prescribing practices of physicians and the equilibrium health impacts of prescription medications. Focusing on the case of prescription opioids, a commonly prescribed and frequently diverted medication at the heart of the worst drug crisis in U.S. history, I design and estimate a model of physician behavior in the presence of a secondary market with patient search. To access prescription opioids for medical purposes or misuse, patients search over physicians on the legal primary market or turn to an illegal secondary market. Physicians, who care both about their impact on population health and their revenue from office visits, take into account the possibility that patients might resell their prescriptions on the secondary market when prescribing. The model demonstrates that the potential for diversion will tend to make strict physicians more hesitant in their prescribing while leading lenient prescribers to loosen their prescription thresholds, thereby exacerbating prescribing differences between more and less lenient physicians. Estimates reveal that the presence of a secondary market induces most physicians to be more careful in their prescribing, which brings prescriptions closer to their optimal level, but also causes harm through the reallocation of prescriptions for abuse.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Dynamic Screening of Buyers With Heterogeneous Purchase Frequency",
+            "title_en": "Screening Property Rights for Innovation",
             "title_zh": "",
-            "url": "https://doi.org/10.3982/ecta23049",
-            "abstract_en": "We consider a dynamic buyer–seller interaction. Instead of the buyer's valuation, it is the frequency with which he needs to trade that is the buyer's private information. The difference matters. With commitment, full surplus extraction is possible, for instance via limited‐time offers. Without commitment, ratcheting is mitigated, as not buying is not necessarily a sign of strength. Because time is informative, the seller learns and may adjust her behavior over time. When finding a suitable alternative seller is easy, she starts with a pooling offer before permanently switching to a screening offer. When finding a suitable alternative seller takes time, she starts with a pooling offer before occasionally experimenting with separating offers.",
+            "url": "https://doi.org/10.3982/ecta22363",
+            "abstract_en": "We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multiround negotiation. We use natural language processing to create a measure of patent distance, which together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&D in the U.S. and show that reforms limiting the number of rounds of negotiation significantly reduce social costs.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易"
+              "企业创新",
+              "创新药"
             ]
           },
           {
-            "title_en": "Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions",
+            "title_en": "Causal Inference for Spatial Treatments",
             "title_zh": "",
-            "url": "https://doi.org/10.3982/ecta21839",
-            "abstract_en": "This paper explores the impact of information design on the auctioneer's revenue in the U.S. offshore oil/gas lease auctions where, post‐auction, the winner decides whether to explore the auctioned tract and must pay the government a royalty on its production value. I first document that there is a positive correlation between the exploration rate and publicly observed losing bids. This suggests that the winning bidder uses the rivals' bids to infer their private information about the tract's potential. I then characterize the equilibrium bidding strategy when the auctioneer designs and commits to how to reveal information on losing bids to the winning bidder. Counterfactual exercises reveal that alternative bid disclosure policies significantly improve auctioneer revenue.",
+            "url": "https://doi.org/10.3982/ecta21571",
+            "abstract_en": "Many events and policies (treatments) occur at specific spatial locations, with researchers interested in their effects on nearby units. I approach the spatial treatment setting from an experimental perspective: What ideal experiment would we design to estimate the causal effects of spatial treatments? This perspective motivates a comparison between units near realized treatment locations and units near counterfactual (unrealized) candidate locations, which differs from current empirical practice. I derive design‐based standard errors that are straightforward to compute. For observational data, I propose machine learning methods to find counterfactual candidate locations when observable characteristics, rather than potential outcomes, determine treatment probabilities. To accommodate methods for high‐dimensional data in the theory, I extend a double machine learning result to the design‐based framework with spatial correlations. I apply the proposed methods to study the causal effects of grocery stores on foot traffic to nearby businesses during COVID‐19 shelter‐in‐place policies, finding a large positive effect at very short distances, with no effect at larger distances.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
@@ -707,8 +708,8 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 11,
-        "total_in_issue": 15,
+        "matched_count": 12,
+        "total_in_issue": 17,
         "papers": [
           {
             "title_en": "Reshaping factory Asia: How did the US-China trade war affect the Asian-Pacific supply chain?",
@@ -752,6 +753,17 @@
             ]
           },
           {
+            "title_en": "The elusive link between FDI and economic growth: Sectoral heterogeneity and global value chains",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104337",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "国际经济"
+            ]
+          },
+          {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104325",
@@ -759,6 +771,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "Trade shocks and human capital: Evidence from Brazil’s trade liberalization",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104334",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
             ]
           },
           {
@@ -812,17 +834,6 @@
             "matched_topics": [
               "国际贸易"
             ]
-          },
-          {
-            "title_en": "The impact of AI and cross-border data regulation on international trade in digital services",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104328",
-            "abstract_en": "International trade in digital services, including mobile app trade (e.g., Facebook in Frankfurt, Instagram in Istanbul), is large and rapidly growing. Analyzing 2015--2020 data on 28,000 mobile apps, we find that AI increases an app's user base threefold, a massive effect. AI's handmaiden is data, including cross-border flows of personal data. Concerned with privacy and national security, policymakers have responded with thousands of conflicting regulations, ranging from guaranteeing free trade in data (USMCA) to data export bans. We are the first to show that these regulations matter: AI's massive effect is halved in countries with strict data flow restrictions.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "国际经济"
-            ]
           }
         ],
         "error": null
@@ -834,9 +845,51 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 0,
-        "total_in_issue": 4,
-        "papers": [],
+        "matched_count": 4,
+        "total_in_issue": 12,
+        "papers": [
+          {
+            "title_en": "Political career incentives and the environmental costs: Evidence from China’s promotion tournaments",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103924",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "FDI spillovers in history: Interwar Japanese “Zaikabo” investment in China's cotton spinning industry",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103925",
+            "abstract_en": "We estimate productivity spillovers from Japanese cotton-spinning firms in China (known as Zaikabo) to local Chinese cotton-spinning mills based on plant-level data for 1925 to 1938. In order to capture the important role of distance in facilitating such spillovers we geo-localised the plants. Our results provide clear evidence for positive spillovers from Zaikabo to local Chinese mills, which go hand-in-hand with an upgrade in production technology towards greater use of capital. Spillovers are very localised, being strongest within a radius of up to 10 km around the Zaikabo and particularly strong for mills in Shanghai. Exploiting information on the workforce composition of the Japanese affiliates, we find suggestive evidence of a skilled-labour channel: spillovers tend to be larger from Zaikabo employing higher shares of skilled labour. We also find some evidence in line with the idea that these gains are larger for Chinese mills with higher initial productivity, consistent with a role for absorptive capacity. Our paper is the first to document FDI productivity spillovers in a historical context and to characterise the channels through which they operate.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "国际经济"
+            ]
+          },
+          {
+            "title_en": "The grass is not always greener: The effects of local labor market information on search and employment",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103915",
+            "abstract_en": "We examine how information about local labor market conditions shapes search and employment outcomes for Indian job seekers. Participants were randomly shown information about either job postings, job applicants, or both from a popular job portal for their preferred city and occupation. Treated respondents are more likely to be employed seven months later. This overall effect varies considerably by baseline employment status. Among the initially employed , treatments reduce search off the portal and increase employment, with suggestive evidence of higher persistence in baseline jobs. In contrast, among the initially unemployed , treatments increase search activity but do not raise employment. Employment gains are concentrated among job seekers with less optimistic beliefs about labor market conditions. These findings suggest that limited information about labor market fundamentals may contribute to job churn in lower-income countries. • An RCT provides real-time local labor market information to urban job seekers. • Information raises employment by 12% after seven months. • Employment gains are concentrated among initially employed job seekers. • Employed workers retain jobs; unemployed search more but don’t find jobs. • Suggestive evidence shows largest gains for workers with lower expectations.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Perceived need and measured well-being: How well do subjective rankings capture relative poverty?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103943",
+            "abstract_en": "Subjective well-being rankings are increasingly used to target social protection programs, yet their ability to capture relative welfare and wealth remains debated. This study benchmarks self-, peer-, and elite-based poverty rankings against consumption- and wealth-based measures using Ethiopian household survey data, where about 20 households per village were ranked from neediest to least needy by themselves, peers, and community leaders. We assess concordance between subjective and conventional welfare rankings and explore sources of divergence. Subjective rankings align more with relative wealth than consumption and with total rather than per capita welfare, suggesting they overlook household composition. Elite-based rankings best capture conventional measures, followed by peers’ and self-rankings. Subjective rankings also better reflect relative deprivation among households exposed to covariate shocks. A composite index combining all three improves agreement with standard metrics. Information asymmetries, favoritism, and welfare dynamics partly explain discrepancies, offering insights for enhancing targeting in data-scarce settings.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -951,9 +1004,20 @@
         "resolved_name": "Journal of Industrial Economics",
         "issue_title": "Volume 74, Issue 3",
         "issue_url": "https://onlinelibrary.wiley.com/journal/14676451",
-        "matched_count": 2,
+        "matched_count": 3,
         "total_in_issue": 7,
         "papers": [
+          {
+            "title_en": "Issue Information",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/joie.70043",
+            "abstract_en": "rst in 1952, the Journal of Industrial Economics has a very wide international circulation, and is recognized as a leading journal in the fi eld of industrial economics.It was founded to promote the analysis of modern industry, particularly the behaviour of fi rms and the functioning of markets.Contributions are welcomed in all areas of industrial economics including: organisation of industry, applied oligopoly theory, product diff erentiation and technical change; theory of the fi rm and internal organisation; regulation, monopoly, merger and technology policy.These subjects may often draw on adjacent areas such as international economics, labour economics and law, but it is not the goal of this journal to publish papers that would better fi t in specialized journals in these other fi elds.The Journal has a tradition of publishing a blend of theory and evidence.Theoretical papers are welcomed and should be presented so as to highlight their implications for policy and/or empirical analysis.Likewise, empirical papers should have a sound theoretical base; and where novel econometric techniques are applied, these should be clearly explained.Case studies should be motivated by, and inform, economic theory and should avoid pure description.The Editors are ready to publish shorter notes which report signifi cant new data or empirical results, or are short comments on subjects which have featured in previous issues of the Journal.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际经济",
+              "产业经济"
+            ]
+          },
           {
             "title_en": "RPM and Vertical Integration With Upstream Competition and Noncontractible Efforts",
             "title_zh": "",
@@ -1168,16 +1232,39 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 10",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 4,
-        "total_in_issue": 8,
+        "matched_count": 10,
+        "total_in_issue": 14,
         "papers": [
+          {
+            "title_en": "From academic lab to spinoff: How opportunity beliefs evolve from individual to venture during technology-market matching",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105585",
+            "abstract_en": "Academic labs are central to the creation of radical-generic technologies. Yet translating these inventions into successful innovations poses a significant challenge as academic scientists often struggle to identify and prioritize viable markets in the early stages of commercialization. This study examines how individual scientists' opportunity beliefs evolve into the shared commercialization strategy of an academic spinoff. Using a longitudinal single-case study of the technology-market matching (TMM) process of a radical-generic technology, we analyze individual and team assessments of eight technology-market combinations over 15 years. We show that opportunity beliefs evolve from an initial emphasis on functional aspects of structural similarity toward an increasing emphasis on commercial viability, eventually integrating balanced similarity considerations. Within TMM, three mechanisms – productive cognitive dissonance, expanded similarity awareness, and team reflexivity – explain how heterogeneous individual beliefs evolve and coalesce into the commercialization strategy of the spinoff. We introduce “simmering-with-the-lab” as an organizational strategy through which latent technology-market options are maintained in the academic lab while the spinoff pursues a narrower set of commercial opportunities. The study advances theory on TMM and organizational learning for deep tech academic spinoffs and has practical implications for science entrepreneurship training, innovation policy, and university IP strategy.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Measuring the production of scientific human capital: New data, methods, and evidence on the U.S. scientific training ecosystem",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105605",
+            "abstract_en": "We develop a dissertation-based methodology for measuring PhD populations and use it to present new evidence on who funds STEM PhD training in the United States, how many graduates are trained in areas of strategic national importance, and the effects of public investment in PhD training on PhD production. The U.S. government is by far the largest source of financial and in-kind support for STEM PhD training in America. We identify universities and fields where PhD training has high rates of government, industry, or philanthropic support, and the organizations and universities that fund and train the most PhDs in critical technology areas such as AI, quantum science, and biotechnology. Leveraging variation in government support across agencies and over time, we provide evidence suggesting that increasing government-funded PhD trainees increases PhD production additively or with modest crowd-in. To support further research, we provide public data at multiple levels of aggregation. These data and methods complement existing data collection efforts by national statistics agencies, producing information which is otherwise hard to collect or not systematically observed, and can be extended forward in time and to other countries.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "医药产业",
+              "创新药"
+            ]
+          },
           {
             "title_en": "Dynamic platform strategies in an interconnected ecosystem: Navigating standards and complements in the emerging smart home ecosystem",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105609",
-            "abstract_en": "",
+            "abstract_en": "Whereas prior platform research has mostly assumed standardized interfaces that are platform-specific, we examine how platform strategies based on third-party standards have become prevalent in a nascent ecosystem. Based on a longitudinal analysis of 97 smart home platforms, we analyze the value creation and capture benefits of four platform modes defined by two dimensions: the source of complements (first- or third-party complements) and the standardized interfaces used to connect these complements (first- or third-party standards). Our analysis demonstrates a trend from closed strategies (only first-party complements based on first-party standards) towards strategies that (also) rely on third-party standards. We find that startups and diversifying entrants make different strategic choices at entry and that firms increasingly combine platform modes over time to leverage their distinct value creation and capture benefits. Our findings contribute insights into the ecosystem conditions and pre-entry capabilities of firms under which strategies relying on third-party standards become viable and how this contributes to the proliferation of standards, platforms, and strategies in an ecosystem. We also theorize the time-dependent strategic choices of entrants navigating a nascent ecosystem and the complex complementary and competitive relations that emerge in an ecosystem with interconnected platforms as a result.",
             "abstract_zh": "",
             "matched_topics": [
+              "企业创新",
               "创新药"
             ]
           },
@@ -1188,6 +1275,27 @@
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Bridging the gap: A scalable approach to measuring social innovation capacity",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105629",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Between expectations and outcomes: Technology adopters' narratives and technology discourse dynamics",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105622",
+            "abstract_en": "Expectations propel the evolution of emerging technologies, yet existing research generally assumes that expectations are gradually displaced by concrete outcomes as technologies mature and become widely accepted. We revisit this assumption by examining how technology adopters' temporal framings of technology performance, their expressions of concrete outcomes of technology adoption, and the broader technology discourse reflected in trade-press coverage relate to one another over time. We illuminate these patterns by tracing 21 years (2002−2022) of radio-frequency identification (RFID) adoption and analysing adopters' statements in 407 case stories published in The RFID Journal, coupled with a longitudinal corpus of trade-press coverage from the same period. Manual coding of adopters' expressions of concrete realised benefits and challenges in the case stories is combined with a purpose-built dictionary that detects five temporal positions in adopters' framings of RFID performance. We find that associations between concrete outcomes and temporal framings are selective and stage-dependent. Concrete outcomes do not simply replace expectations, instead, they become associated with specific temporal framings over time. We also find that adopters' temporal framings are associated with trade-press coverage in stage-specific ways that change over time, often amplifying but also sometimes tempering broader attention to RFID. We contribute to research on technology framing and expectations dynamics by foregrounding adopters as co-constructors of technology discourse, challenging the displacement assumption with a stage-sensitive explanation of expectation–outcome dynamics, and introducing a replicable, dictionary-based approach for large-scale analysis of temporal framings in technology narratives.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
               "企业创新"
             ]
           },
@@ -1211,6 +1319,27 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "Local implementation of transformative innovation policies: Ambiguities, strategic responses, and intertemporal conflicts",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105624",
+            "abstract_en": "Transformative Innovation Policy (TIP) offers a compelling framework for addressing societal challenges. However, its implementation requires a deeper understanding of the behavioural and relational dynamics among local actors because these dynamics can enable or hinder sustainable and inclusive policy outcomes. Drawing on an embedded case study of the implementation of residential electric vehicle charging infrastructure in England, we unveil how the interplay between policy ambiguities and emergent conflicts conditions the local pathways of TIP implementation. We show that local actors respond to ambiguities of role, means, and resourcing, and that these responses can shape three conflicts (purpose incongruence, commons contestation, and financial fragility) which evolve over time. Building on these insights, we develop a model of local TIP implementation that explains how implementing actors respond to ambiguities and how these responses shape conflicts. Overall, our analysis contributes to understanding the intertemporal and distributive challenges facing TIP implementation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Adoption survival frontiers: Artificial intelligence, financing frictions, and market structure",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105621",
+            "abstract_en": "Artificial intelligence and other general-purpose digital technologies often diffuse unevenly: large firms adopt early, while smaller firms delay adoption, contract, or abandon the active adoption option. This paper develops a survival-constrained theory of technology adoption in which firms choose when to adopt an irreversible technology while financing operations under uncertain implementation costs. Abandonment/exit is endogenous: firms leave the active adoption race when the value of preserving the adoption option falls below the passive legacy fallback (the value of abandoning the active adoption option, normalized to zero). The key object is an adoption survival frontier , a boundary in financing-cost–implementation-uncertainty space separating environments in which followers survive long enough to adopt from environments in which they abandon the active adoption option first. The Cournot block disciplines the price-pass-through component of follower payoff erosion; additional non-price appropriability losses, captured by a reduced-form term 𝜒 𝐴 (data accumulation, platform lock-in, switching frictions, and reduced access to post-adoption rents), remain reduced-form. Numerical characterization of the corrected nonhomogeneous stopping problem shows that a leader-induced regime shift moves the survival frontier inward and raises the risk that followers abandon the active adoption option before adoption. A welfare decomposition clarifies when this selection is efficient and when it reflects an accounting externality: a leader-induced payoff shift that the follower’s private stopping problem does not represent before the regime shift. We do not solve a dynamic adoption-timing game. Public EU aggregate data show that large-minus-small AI adoption gaps are measurable, but also illustrate that aggregate cross-country regressions are confounded by development gradients and cannot identify the firm-level survival-to-adoption channel; we treat this as a measurement-feasibility map for future linked-microdata tests rather than as a test of the mechanism. The paper contributes a computational theory of adoption survival and a transparent measurement-feasibility map.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
             ]
           }
         ],
@@ -1430,12 +1559,13 @@
             ]
           },
           {
-            "title_en": "On the Expansion of Risk Pooling",
+            "title_en": "Stripping the Discount Curve—A Robust Machine Learning Approach",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.06863",
-            "abstract_en": "Risk pooling has become an increasingly critical tool for managing risks among corporations, institutions, states, and nations, with examples including multinational pooling, decentralized insurance schemes, catastrophe risk pooling, and burden sharing for nuclear accidents. Although there has been a rich literature on such practices, little is known from a theoretical viewpoint regarding the operational strategies of risk pools and, in particular, on issues about the effect of a pool’s expansion on each existing member’s welfare. This paper is the first to explore these issues by establishing different notions of consensus for the expansion of a risk pool: strong consensus, where both existing members and new candidates improve their risk measures due to the pool’s expansion, and weak consensus, which refers to the willingness of existing members to remain in the pool. Under optimal risk sharing for each pool, we show that its properties regarding expansion’s effects depend strongly on the underlying pricing rule. For instance, only with risk-adjusted equilibrium pricing are existing members willing to accept highly risky new members, whereas simple linear pricing excludes such members from the pool. Additionally, the impact of exogenous reinsurance on consensus is analyzed under both pricing rules. The established framework offers valuable managerial insights and policy implications, which we illustrate through two indicative case studies based on real data. This paper was accepted by Agostino Capponi, finance. Funding: Financial support from the Tsinghua University School of Economics and Management [Research Grant 2023051001], the National Social Sciences Foundation of China [Major Grant 23&ZD178] is gratefully acknowledged, and the Tsinghua University Independent Research Grant [2024THZWYY02]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06863 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.01401",
+            "abstract_en": "We introduce a robust, flexible, and easy-to-implement method for estimating the yield curve from treasury securities. Our nonparametric method learns the discount curve in a function space that we motivate by economic principles. We show in an extensive empirical study on U.S. Treasury securities that our method strongly dominates all parametric and nonparametric benchmarks. It achieves substantially smaller out-of-sample yield and pricing errors while being robust to outliers and data selection choices. We attribute the superior performance to the optimal trade-off between flexibility and smoothness, which positions our method as the new standard for yield curve estimation. This paper was accepted by Agostino Capponi, finance. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.01401 .",
             "abstract_zh": "",
             "matched_topics": [
+              "国际贸易",
               "产业经济",
               "创新药"
             ]
@@ -1450,8 +1580,8 @@
         "resolved_name": "Journal of Business Venturing",
         "issue_title": "Volume 42, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
-        "matched_count": 1,
-        "total_in_issue": 2,
+        "matched_count": 2,
+        "total_in_issue": 3,
         "papers": [
           {
             "title_en": "Between mission pull and governance burden: Geographic distance and deal realisation in impact investing",
@@ -1461,6 +1591,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Corporate venturing in the digital era",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106653",
+            "abstract_en": "Rapid technological advances in artificial intelligence and other digital technologies play a critical role in enabling established organizations to venture into new entrepreneurial opportunities. These advances present new challenges for corporate venturing (CV): how to organize, transfer information, and execute venturing activities as existing organizational structures and competencies become obsolete. This article introduces a framework for understanding how digital technologies reshape knowledge search in CV contexts under varying levels of environmental complexity, and proposes a typology of human-machine configurations that serves as a diagnostic tool for assessing the degree of machine autonomy in CV decisions. It further explores the opportunities and unintended consequences of these evolving digital venturing practices.",
+            "abstract_zh": "",
+            "matched_topics": [
               "创新药"
             ]
           }
@@ -1474,8 +1614,8 @@
         "resolved_name": "Technovation",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 8,
-        "total_in_issue": 12,
+        "matched_count": 12,
+        "total_in_issue": 17,
         "papers": [
           {
             "title_en": "Institutionalizing portfolio entrepreneurship: the Venture Studio model",
@@ -1486,6 +1626,16 @@
             "matched_topics": [
               "企业创新",
               "创新药"
+            ]
+          },
+          {
+            "title_en": "Leveraging IoT for business model innovation in banking: The role of data-driven decision-making, Fintech innovation and artificial intelligence",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103720",
+            "abstract_en": "Drawing on Resource Orchestration Theory (ROT), this study examines whether data-driven decision-making (DDS) and adoption of Fintech innovations serves as serial mediation mechanisms linking IoT adoption and business model innovation (BMI). Moreover, it examines whether Artificial Intelligence (AI) capability significantly moderates the relationship between IoT adoption, DDS, and BMI. Using Partial Least Squares Structural Equation Modeling (PLS-SEM) on data from 689 bank managers, we found that IoT adoption positive direct relationship with BMI, DDS, and Fintech innovation adoption. Moreover, DDS and Fintech innovation adoption positively affect BMI. DDS and Fintech innovation adoption mediated and serially mediated the relationship between IoT adoption and BMI. Finally, AI capability positively moderates between IoT adoption and BMI, and IoT adoption and DDS. This study advances digital innovation research by explaining how banks transform IoT adoption into business model innovation through data-driven decision-making, Fintech innovation adoption, and AI-enabled resource orchestration. The findings offer practical implications for banking leaders seeking to enhance their innovation capabilities through IoT-driven decision-making and AI-enabled resource management.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
             ]
           },
           {
@@ -1541,9 +1691,39 @@
             ]
           },
           {
+            "title_en": "Artificial intelligence and supply chain resilience: The roles of knowledge-based dynamic capabilities and digital leadership",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103717",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Mapping urban-industrial symbiosis through a business ecosystem lens",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103718",
+            "abstract_en": "This paper examines the evolution of urban industrial symbiosis (UIS) through a business ecosystem lens. UIS, defined as the synergistic integration of urban and industrial systems where waste and by-products are repurposed as industrial inputs, has demonstrated strong potential to address climate change, urbanization challenges, and supply chain vulnerabilities. Existing UIS research has primarily focused on material flows, network structures, and policy arrangements. However, limited attention has been paid to how coordination mechanisms evolve as ecosystem interdependence and complexity increase over time. This omission is consequential because even powerful coordinators face structural limits when coordinating expanding interdependencies among heterogeneous actors and resource flows, creating a coordination gap. Drawing on case studies of Ulsan (South Korea), Händelö (Sweden), EcoPark (Hong Kong), Metro Vancouver (Canada), Kalundborg (Denmark), HS Orka (Iceland), and Kawasaki (Japan), the paper develops a process model of UIS ecosystem coordination that links generation-processing-auxiliary (G-P-A) subsystems, coordination tensions and mechanisms, and governance pathways across three analytical phases. The study advances UIS research by shifting from exchange-oriented perspectives toward dynamic ecosystem coordination and theorizing how coordination mechanisms evolve under increasing ecosystem complexity. It further extends business ecosystem theory by explaining how increasingly distributed coordination capacity sustains ecosystem resilience as growing interdependence strains centralized orchestration.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
             "title_en": "The designer's turn: Reconfiguring professional identity for project innovation in the generative AI era",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103694",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Digital transformation and innovation resilience under geopolitical conflict: Evidence from U.S.-China technology sanctions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103723",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
