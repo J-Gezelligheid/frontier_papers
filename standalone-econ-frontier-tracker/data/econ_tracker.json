@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-27 10:29:45",
+  "updated_at": "2026-10-04 10:54:46",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 331,
+    "fail_count": 355,
     "failed_examples": [
-      "Manipulation-Robust Prediction :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "An increasing number of decisions are guided by machine learning algorithms. But :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "Rationing by Race :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "We document how deepening resource scarcity results in rationing on the basis of :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "Optimal Public Transportation Networks: Evidence from the World's Largest Bus Ra :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "Designing public transport networks involves trade-offs between coverage, servic :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p"
+      "Who Marries Whom? The Role of Segregation by Race and Class :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "Americans rarely marry outside their race or class group, a pattern with well-do :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "Racial Promotion Gaps :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "We study racial disparities in promotions in a setting in which promotions are f :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "Fighting for Growth: Labor Scarcity and Technological Progress during the Britis :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "We establish a link between labor scarcity and the adoption of laborsaving techn :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p"
     ],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
   },
@@ -167,77 +167,77 @@
         "query_name": "American Economic Review",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 9",
+        "issue_title": "Volume 116, Issue 10",
         "issue_url": "https://www.aeaweb.org/journals/aer",
         "matched_count": 7,
-        "total_in_issue": 12,
+        "total_in_issue": 10,
         "papers": [
           {
-            "title_en": "Manipulation-Robust Prediction",
+            "title_en": "Who Marries Whom? The Role of Segregation by Race and Class",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20241087",
-            "abstract_en": "An increasing number of decisions are guided by machine learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach that adjusts decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress-test this approach through a large field experiment in Kenya. When implemented, linear strategy-robust decision rules outperform standard linear models such as LASSO. (JEL C45, C93, D12, D91, G51, O12, O16)",
+            "url": "https://doi.org/10.1257/aer.20250115",
+            "abstract_en": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases interclass (high- and low-parent income) marriage but has no detectable effect on interracial (White and Black) marriage. A spatial marriage model predicts that residential segregation—one of many forms of exposure—accounts for more than one-third of marital sorting by class but less than 5 percent by race. (JEL J12, J15, J62, R23)",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Rationing by Race",
+            "title_en": "Racial Promotion Gaps",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20240701",
-            "abstract_en": "We document how deepening resource scarcity results in rationing on the basis of race in a high-stakes setting: health care. Using detailed, time stamped data on 107,000 inpatient admissions to a large health system, we find that in-hospital mortality increases for Black but not White patients as hospitals reach capacity. These findings are not explained by differential patient selection. We identify rationing by wait times as a mechanism, documenting that sicker Black patients wait longer for care than healthier White patients at almost all capacity levels. Text analysis of unstructured clinical notes reveals rationing of provider effort as another mechanism. (JEL I11, I12, I14, J15)",
+            "url": "https://doi.org/10.1257/aer.20231368",
+            "abstract_en": "We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Fighting for Growth: Labor Scarcity and Technological Progress during the British Industrial Revolution",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20240393",
+            "abstract_en": "We establish a link between labor scarcity and the adoption of laborsaving technology in industrializing England. During the Napoleonic Wars, more than 10 percent of the male population served in the armed forces. Where recruitment was heavy, more machines economizing on labor were adopted. Naval recruitment, instrumented by warships' coastal access, provides exogenous variation in labor scarcity and suggests that the link between labor shortages and adoption is causal. Where mechanical skills were abundant, the impact of labor scarcity on adoption appears to be larger. (JEL J24, N13, N43, N63, N73, O14, O31)",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Optimal Public Transportation Networks: Evidence from the World's Largest Bus Rapid Transit System in Jakarta",
+            "title_en": "Knowledge Spillovers, Competition, and Individual Careers",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20230768",
-            "abstract_en": "Designing public transport networks involves trade-offs between coverage, service frequency, and direct service. We use the expansion of the bus system in Jakarta, Indonesia, to study these trade-offs. We analyze how new direct connections, changes in bus travel time, and wait-time reductions affect bus ridership and aggregate flows and estimate a transit network demand model by matching the route launch events. Commuters in Jakarta are 2–3 times more sensitive to wait time than bus time and inattentive to long routes. We develop a flexible framework to characterize optimal networks. A less concentrated network would increase ridership and commuter welfare. (JEL L92, L98, O18, R41, R42, R48)",
+            "url": "https://doi.org/10.1257/aer.20230714",
+            "abstract_en": "Exposure to better peers in the workplace can influence career trajectories through two opposing channels: positively, via knowledge spillovers, and negatively, through competition for advancement. We disentangle these effects by studying untrained labor market entrants and distinguishing between coworkers in the same occupation with whom they are likely to compete versus those with whom they are unlikely to compete. We find robust evidence of persistent knowledge spillovers but also identify countervailing competition effects of comparable magnitude. Both effects are more pronounced for men than for women. (JEL D83, J16, J24, M53, M54, O33)",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易"
+              "企业创新"
             ]
           },
           {
-            "title_en": "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana",
+            "title_en": "Truth Elicitation in a Nonstrategic Environment",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20241001",
-            "abstract_en": "We provide experimental evidence on the intergenerational impacts of secondary education subsidies in a low-income context, leveraging a randomized controlled trial and 15-year longitudinal follow-up. Secondary school scholarships delay fertility, reduce unwanted pregnancies, and change partner selection. Under-one mortality is reduced by half. We also document cognitive development gains of 0.24 standard deviations of test scores by age five among children of female scholarship recipients. Means-tested secondary school scholarships are a high-return investment, with a conservatively estimated US$4.1 in benefits for each US$1 the policy would cost the government in the long run. (JEL H52, I12, I21, I26, J13, J16, O15)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Risk-Sharing Tests and Covariate Shocks: Drought, Floods, and Pests in Uganda",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20240664",
-            "abstract_en": "Efficient risk sharing implies a simple factor structure for marginal utilities of expenditure (MUEs): Pareto weights divided by a common price. The standard approach infers MUEs from total expenditures, implicitly assuming homothetic preferences, unitary income elasticities, and identical price elasticities. Risk-sharing tests using total expenditures work for idiosyncratic shocks (budgets change, but not prices), but not “covariate” shocks (prices change). I describe all preferences that permit one to infer MUEs from expenditures and estimate nonhomothetic MUEs to test whether covariate shocks are shared efficiently in Uganda. This delivers sensible results; the standard approach suggests that droughts, floods, and pests are beneficial. (JEL D12, D81, O12, O13, Q12)",
+            "url": "https://doi.org/10.1257/aer.20251879",
+            "abstract_en": "A principal decides which party deserves a prize. Only the parties observe the state that determines who is deserving. The principal gives each party a text describing the conditions under which that party deserves the prize and asks each to report the state. The parties are nonstrategic. Each activates a known cheating procedure whose outcome depends on the state and on the text. Implementation is achieved if, whenever the parties disagree, the liar is identified by the “one-way cheating principle”: The truthful party is the unique party who could not have produced his story had the rival's story been true. (JEL D82, D91)",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Defying Distance? The Provision of Medical Services in the Digital Age",
+            "title_en": "Social Push and the Direction of Innovation",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20240756",
-            "abstract_en": "Digital platforms reduce geographic frictions, enabling better matching between service providers and users. I quantify reallocation gains in Swedish online health care, using nationwide time-conditional random assignment between patients and physicians. Matching high-risk patients with doctors effective at reducing Emergency Room visits lowers such visits by 4.4 percent (SE 1.3); reallocations also reduce Counter-Guideline antibiotics by 3.1 percent (1.4). I find limited trade-offs in matching; horizontal differentiation among doctors and varied patient needs allow improvement in multiple outcomes simultaneously. Efficiency-enhancing reallocations also affect equity. The findings highlight the potential for care reorganization aligning provider heterogeneity with patient needs when geographic constraints are lifted. (JEL C78, H51, I11, I13, I14, I18)",
+            "url": "https://doi.org/10.1257/aer.20231417",
+            "abstract_en": "What are the implications of unequal access to innovation careers for the direction of innovation and inequality? Leveraging novel linked datasets in the United States and Finland, we document that innovators create products more likely to be purchased by consumers like them in terms of gender, socioeconomic status, and age. Homophily exists both within narrow product categories and across industries and has been stable in recent decades. Incorporating this “social push” channel into a growth model, we estimate that unequal access to innovation careers has a large effect on cost of living inequality and long-run growth. (JEL D63, J16, L26, M13, O31, O33, O47)",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
-              "创新药"
+              "企业创新"
             ]
           },
           {
-            "title_en": "The Environmental Bias of Corporate Income Taxation",
+            "title_en": "Screening and Segmenting: A Consumer Surplus Perspective",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20241765",
-            "abstract_en": "We study the relationship between corporate income taxation and carbon dioxide (CO 2 ) emissions in the United States. We show CO 2 -intensive firms benefit more from the tax advantage of debt and pay lower income taxes on their capital income. Building on these new facts, we provide evidence that a cut in the corporate income tax rate leads to a larger expansion of clean firms. We develop a multisector general equilibrium model that accounts for our evidence and quantify the impact of corporate tax reforms on aggregate emissions. A policy that eliminates the tax advantage of debt could reduce aggregate emissions without affecting GDP. (JEL D22, G32, H25, H32, Q52, Q54, Q58)",
+            "url": "https://doi.org/10.1257/aer.20250206",
+            "abstract_en": "We analyze consumer surplus when a monopolist can adjust both prices and product qualities across segments, engaging in secondand third-degree price discrimination simultaneously. We characterize the consumer-optimal segmentation and show that it has a striking structure: Consumers with the same value receive the same quality in every segment, though prices differ. Under mild conditions, any segmentation harms consumers if and only if demand is sufficiently more elastic than supply. Hence, potential benefits for consumers depend critically on demand and supply elasticities. These findings have implications for regulatory policy regarding price discrimination and market segmentation. (JEL D42, D83, K21, L12, L15)",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
@@ -356,39 +356,50 @@
         "query_name": "Journal of Political Economy",
         "issn": "0022-3808",
         "resolved_name": "Journal of Political Economy",
-        "issue_title": "Volume 134, Issue 8",
+        "issue_title": "Volume 134, Issue 9",
         "issue_url": "https://www.journals.uchicago.edu/journals/jpe",
-        "matched_count": 3,
+        "matched_count": 4,
         "total_in_issue": 11,
         "papers": [
           {
-            "title_en": "Blackwell-Monotone Updating Rules",
+            "title_en": "From Doubt to Devotion: Trials and Learning-Based Pricing",
             "title_zh": "",
-            "url": "https://doi.org/10.1086/741272",
-            "abstract_en": "An updating rule specifies how an agent reacts to information. It is Blackwell monotone if more information is always better for an agent in any decision problem and strictly Blackwell monotone if, in addition, every strict information improvement is strictly better in some decision problem. Bayes’s law is strictly Blackwell monotone. Within a broad class of updating rules—those that distort Bayesian posteriors in a signal-independent manner—it is the only strictly Blackwell-monotone updating rule. If decisions are evaluated nonpaternalistically (according to an agent’s beliefs), the Blackwell-monotone updating rules are affine distortions of Bayesian posteriors.",
+            "url": "https://doi.org/10.1086/742434",
+            "abstract_en": "An informed seller designs a dynamic mechanism to sell an experience good. The seller has partial information about the product match, which affects the buyer's private consumption experience. We characterize equilibrium mechanisms of this dynamic informed principal problem. The belief gap between the informed seller and the uninformed buyer, coupled with the buyer's learning, gives rise to mechanisms that provide the skeptical buyer with limited access to the product and an option to upgrade if the buyer is swayed by a good experience. Depending on the seller's screening technology, this takes the form of free/discounted trials or tiered pricing, which are prevalent in digital markets. In contrast to static environments, having consumer data can reduce sellers' revenue in equilibrium, as they fine-tune the dynamic design with their data forecasting the buyer's learning process.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Markups: A Search-Theoretic Perspective",
+            "title_zh": "",
+            "url": "https://doi.org/10.1086/742420",
+            "abstract_en": "I derive a formula for the equilibrium distribution of markups in the search-theoretic model of imperfect competition of Butters (1977), Varian (1980), and Burdett andJudd (1983).The level of markups and the sign of the relationship between a seller's markup and its size depends on the extent of search frictions, as well as on other deep parameters.Markups are efficient.Markups are positive even though the varieties produced by sellers are perfect substitutes.Markups are heterogeneous even when all sellers operate the same production technology.Markups depend on size, even though the substitutability between a variety and the others does not depend on how much of that variety is consumed.Interpreting these markups through the lens of the monopolistic competition model of Dixit and Stiglitz (1977) would lead one to recover incorrect and unstable buyers' preferences.Interpreting these markups through the lens of the Dixit-Stiglitz model would also leads to incorrect policy recommendations.These results are a cautionary note on recent work in macroeconomics.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Exchange Rates and Asset Prices in a Global Demand System",
+            "title_en": "Optimal Tests Following Sequential Experiments",
             "title_zh": "",
-            "url": "https://doi.org/10.1086/741624",
-            "abstract_en": "",
+            "url": "https://doi.org/10.1086/742418",
+            "abstract_en": "Recent years have seen tremendous advances in the theory and application of sequential experiments. While these experiments are not always designed with hypothesis testing in mind, researchers may still be interested in performing tests after the experiment is completed. The purpose of this paper is to aid in the development of optimal tests for sequential experiments by analyzing their asymptotic properties. Our key finding is that the asymptotic power function of any test can be matched by a test in a limit experiment where a Gaussian process is observed for each treatment, and inference is made for the drifts of these processes. This result has important implications, including a powerful sufficiency result: any candidate test only needs to rely on a fixed set of statistics, regardless of the type of sequential experiment. These statistics are the number of times each treatment has been sampled by the end of the experiment, along with final value of the score (for parametric models) or efficient influence function (for non-parametric models) process for each treatment. We then characterize asymptotically optimal tests under various restrictions such as unbiasedness, α-spending constraints etc. Finally, we apply our our results to three key classes of sequential experiments: costly sampling, group sequential trials, and bandit experiments, and show how optimal inference can be conducted in these scenarios.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际经济"
+              "国际贸易"
             ]
           },
           {
-            "title_en": "Do Mergers and Acquisitions Improve Efficiency? Evidence from Power Plants",
+            "title_en": "Illiquid Lemon Markets and the Macroeconomy",
             "title_zh": "",
-            "url": "https://doi.org/10.1086/740222",
-            "abstract_en": "",
+            "url": "https://doi.org/10.1086/742435",
+            "abstract_en": "We study the macroeconomic implications of asymmetric information in capital markets.We build a quantitative capital-accumulation model in which capital is traded in illiquid markets, with sellers having more information about capital quality than buyers.Asymmetric information distorts the terms of trade for sellers of high-quality capital, who list higher prices and are willing to accept lower trading probabilities to signal their type.Led by the model's predictions, we measure the distortions from asymmetric information by studying the relationship between listed prices and trading probabilities in a unique dataset of individual capital units listed for trade.By combining the empirical measurement with the model, we show that information asymmetries can play a quantitatively large role during economic crises when the degree of asymmetric information deteriorates.",
             "abstract_zh": "",
             "matched_topics": [
-              "产业经济"
+              "国际贸易"
             ]
           }
         ],
@@ -425,16 +436,6 @@
             ]
           },
           {
-            "title_en": "Physician Behavior in the Presence of a Secondary Market: The Case of Prescription Opioids",
-            "title_zh": "",
-            "url": "https://doi.org/10.3982/ecta20884",
-            "abstract_en": "This paper examines how drug diversion influences the prescribing practices of physicians and the equilibrium health impacts of prescription medications. Focusing on the case of prescription opioids, a commonly prescribed and frequently diverted medication at the heart of the worst drug crisis in U.S. history, I design and estimate a model of physician behavior in the presence of a secondary market with patient search. To access prescription opioids for medical purposes or misuse, patients search over physicians on the legal primary market or turn to an illegal secondary market. Physicians, who care both about their impact on population health and their revenue from office visits, take into account the possibility that patients might resell their prescriptions on the secondary market when prescribing. The model demonstrates that the potential for diversion will tend to make strict physicians more hesitant in their prescribing while leading lenient prescribers to loosen their prescription thresholds, thereby exacerbating prescribing differences between more and less lenient physicians. Estimates reveal that the presence of a secondary market induces most physicians to be more careful in their prescribing, which brings prescriptions closer to their optimal level, but also causes harm through the reallocation of prescriptions for abuse.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
             "title_en": "Screening Property Rights for Innovation",
             "title_zh": "",
             "url": "https://doi.org/10.3982/ecta22363",
@@ -442,6 +443,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Physician Behavior in the Presence of a Secondary Market: The Case of Prescription Opioids",
+            "title_zh": "",
+            "url": "https://doi.org/10.3982/ecta20884",
+            "abstract_en": "This paper examines how drug diversion influences the prescribing practices of physicians and the equilibrium health impacts of prescription medications. Focusing on the case of prescription opioids, a commonly prescribed and frequently diverted medication at the heart of the worst drug crisis in U.S. history, I design and estimate a model of physician behavior in the presence of a secondary market with patient search. To access prescription opioids for medical purposes or misuse, patients search over physicians on the legal primary market or turn to an illegal secondary market. Physicians, who care both about their impact on population health and their revenue from office visits, take into account the possibility that patients might resell their prescriptions on the secondary market when prescribing. The model demonstrates that the potential for diversion will tend to make strict physicians more hesitant in their prescribing while leading lenient prescribers to loosen their prescription thresholds, thereby exacerbating prescribing differences between more and less lenient physicians. Estimates reveal that the presence of a secondary market induces most physicians to be more careful in their prescribing, which brings prescriptions closer to their optimal level, but also causes harm through the reallocation of prescriptions for abuse.",
+            "abstract_zh": "",
+            "matched_topics": [
               "创新药"
             ]
           },
@@ -558,59 +569,120 @@
         "query_name": "American Economic Journal: Applied Economics",
         "issn": "1945-7782",
         "resolved_name": "American Economic Journal Applied Economics",
-        "issue_title": "Volume 18, Issue 3",
+        "issue_title": "Volume 18, Issue 4",
         "issue_url": "https://www.aeaweb.org/journals/app",
-        "matched_count": 5,
-        "total_in_issue": 11,
+        "matched_count": 11,
+        "total_in_issue": 16,
         "papers": [
           {
-            "title_en": "The Political Geography of Cities",
+            "title_en": "Do Workfare Programs Live Up to Their Promises? Experimental Evidence from Côte d'Ivoire",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/app.20230301",
-            "abstract_en": "We study the link between regional capitals and urban development. We exploit new global data on hundreds of first-order administrative and capital city reforms from 1987 until 2018 to estimate the capital city premium. Gaining capital status increases city growth in the medium term, spilling over to nearby cities. The capital premium varies with the size of the territory governed by the city, and political status complements favorable economic fundamentals. We document two mechanisms: migration of educated individuals to capital cities and heightened public and private investment, with private investment favoring capital cities with stronger economic fundamentals. (JEL D72, E22, H54, O18, R11, R12, R58)",
+            "url": "https://doi.org/10.1257/app.20240586",
+            "abstract_en": "We study contemporaneous and post-program impacts of a public works program which provides urban youth seven months of employment at the formal minimum wage with complementary training in entrepreneurship or job search. During the program, the employment rate only increases slightly, but we find a shift toward wage jobs, higher earnings and savings, as well as positive changes in work habits, behaviors, and well-being. After the program, we find no lasting impact on employment or behaviors, with only limited gains in earnings stemming from independent activities. Using machine learning to analyze heterogeneity, we show that alternative targeting approaches can substantially improve welfare. (JEL C45, G51, H53, I38, J13, J64, O15)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Innovation through Inventor Mobility: Evidence from Noncompete Agreements",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/app.20240804",
+            "abstract_en": "Proponents of labor mobility restrictions argue that innovation incentives more than offset harm to workers. Yet the causal effect of such policies on innovation is an open empirical question. Leveraging plausibly exogenous state-level changes in the enforceability of noncompete agreements (NCAs), we find a significant negative effect on innovation. This effect is even larger for the most novel and innovative patents and firms. Further analysis shows these negative effects on innovation cannot be explained by entry alone and instead likely result from reduced knowledge flows. Our findings suggest that labor mobility plays a crucial role in spreading knowledge across firms. (JEL E24, J08, J21, K31, O31, O33)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "All Roads Lead to Rome: Global Air Connectivity and Bilateral Trade",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/app.20240370",
+            "abstract_en": "Using itinerary-level global air traffic data, this paper proposes a novel instrumental variable to estimate the effect of in-person interactions on bilateral trade. By exploiting exogenous variations in air connectivity that are driven by third-country connecting capacities, we show that increased air connections boost trade, especially for complex industries and new products. Online interactions appear to be a limited substitute for in-person contact. These findings confirm the role of in-person communications in reducing information-sharing barriers. Our estimation approach also provides a useful tool for evaluating the social and economic impacts of a complex transport network. (JEL D83, F14, L93, R41)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Money, Time, and Grant Design",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/app.20240477",
+            "abstract_en": "We conduct survey experiments to test how the design of scientific grants—the money and time awarded—can be used to manage researchers. On average, researchers are relatively unwilling to trade off money for time when choosing among grants. However, there is significant heterogeneity in researchers' preferences. Conditional on receiving a grant, different designs cause only minor changes in researchers' plans for how they would use the funding. Marginal changes in grant design are more relevant for selection effects (funders' ability to attract certain researchers) than treatment effects (funders' ability to change researchers' strategies). (JEL C83, I23, O31)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Disastrous Displacement: The Long-Run Impacts of Landslides",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/app.20240759",
+            "abstract_en": "Natural disasters displace millions of people a year, but their economic impacts are difficult to study when the affected population becomes dispersed. This paper estimates the long-run impacts of six landslides in Uganda on nearly the full affected population. The analysis exploits the sharp boundaries between households residing along a landslide path and those on the same slopes but outside the path. Years after the landslides, affected households earn 50 percent less income and are 18 percentage points less likely to report being satisfied with their lives. Further analysis points to social capital as a determinant of successful post-disaster recovery. (JEL H84, J11, O12, O13, Q54, R23, Z13)",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Turbocharging Profits? Contract Gaming and Revenue Allocation in Healthcare",
+            "title_en": "Deadwood Labor? The Effects of Eliminating Employment Protection for Older Workers",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/app.20240589",
-            "abstract_en": "Firms often exploit weaknesses in government contracts to boost revenues, yet little is known about how they allocate these funds. We study how hospitals allocated $3 billion obtained from gaming a Medicare loophole. The average gaming hospital increased Medicare and total revenue by around 10 percent, implying large spillovers on other payers. Nonprofit hospitals deployed most funds toward operating costs. For-profits—driven by a large chain—deducted funds off their balance sheets, distributing them to executives and shareholders. Accordingly, we detect reductions in mortality only at nonprofits. Our results imply that the consequences of engineered windfalls vary substantially by hospital ownership. (JEL D86, H51, I11, I12, I18, L31)",
+            "url": "https://doi.org/10.1257/app.20250414",
+            "abstract_en": "We analyze mandatory retirement in Sweden, which eliminates employment protection at age 67. Employment falls by about 10 percent and total average earnings by about 20 percent immediately at age 67. Eight percent of jobs separate immediately due to loss of protection, with effects stemming from jobs with stronger initial employment protection (long tenure, firms subject to “last in, first out” rules), and those in the public sector. We examine the effects on continuing jobs. While wages appear rigid, we uncover novel, sizable intensive-margin hours reductions, resulting in an 8 percent drop in earnings conditional on staying on the job. (JEL J14, J22, J26, J31, J63, K31)",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "The Effect of Low-Skill Immigration Restrictions on US Firms and Workers: Evidence from a Randomized Lottery",
+            "title_en": "University as a Melting Pot: Long-Term Effects of Internationalization",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/app.20250049",
-            "abstract_en": "US firms hiring foreign workers in low-skill nonfarm jobs face a binding quota on the “H-2B” visa, allocated in part through a randomized lottery. We evaluate the quota’s marginal impact using the lottery, a novel firm survey, and a pre-analysis plan. Firms exogenously employing more H-2B workers in low-skill jobs increase production (elasticity 0.20–0.22), investment (1.5–2.1), and profits (0.15). The elasticity of substitution between H-2B and US workers is very low (0.8–2.2). Thus, the effect on US employment is zero or positive overall, and positive in rural areas. Forensic analysis suggests similarly low substitutability of black-market labor. (JEL J15, J24, J46, J61, J82, K37)",
+            "url": "https://doi.org/10.1257/app.20250329",
+            "abstract_en": "This paper provides the first evidence on the impact of exposure to international students on the long-term outcomes of native students. I combine unique survey and administrative data from the Netherlands covering one million students across three decades and employ an across-cohort design. I find that exposure to international students leads natives to (i) form social ties with nonnatives, (ii) hold more positive attitudes towards migration and learning about other cultures, and (iii) seek opportunities abroad. Notably, I find precisely estimated zero effects on employment, income, entrepreneurship, and the share of international coworkers up to 25 years after university entry. (JEL F22, I23, I26, J15, Z13)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Who Profits from Amateurism? Rent Sharing in Modern College Sports",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/app.20220595",
+            "abstract_en": "Intercollegiate amateur athletics in the United States have historically prevented student-athletes from receiving market wages, creating substantial economic rents that are primarily generated by men's football and basketball programs. Using financial data from college athletic departments, we estimate rent-sharing elasticities to measure how rents flow to women's sports and other men's sports and lead to increased spending on athletic facilities and coaches' salaries. Using player-level data, we find that the rent-sharing transfers spending away from students who are more likely to be Black and come from poor neighborhoods toward students more likely to be White and come from higher-income neighborhoods. (JEL I23, J15, J16, J31, L83, Z21, Z22)",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Decentralizing Development: The Economic Impacts of Government Splits",
+            "title_en": "Globalization, Capital Taxation, and Development: Evidence from a Macrohistorical Database",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/app.20240009",
-            "abstract_en": "Changes in political boundaries aimed at devolving power to local governments are common across many countries. We examine the economic impacts of government unit creation through splitting. Exploiting reforms that led to sharp increases in the number of municipalities in Brazil, we show that voluntary splitting enlarges the public sector, enhances public service delivery, and stimulates long-term economic activity in new local governments. These gains are not offset by losses elsewhere and are stronger in peripheral, remote, and underdeveloped areas neglected by parent governments. Higher fiscal revenues and decentralized decision-making contribute to the positive effects on local economic activity. (JEL D72, H41, H75, H76, H77, Q53, R51)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Fostering Cooperation: The Conflict-Reducing Effects of Intervillage Competition for Government Transfers",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/app.20240377",
-            "abstract_en": "We examine the effect of intergroup competition on within-group violent conflict in Indonesia. Using a triple-differences design, we find that higher competition for national government transfers between villages reduces within-village conflict. These effects persist regardless of the competition’s outcome, are stronger in ethnically fractionalized and segregated villages, and are accompanied by higher attendance in village meetings. Our results are consistent with external competition favoring participation and cooperation within otherwise divided communities, suggesting that economic incentives to compete with out-groups combined with forms of civic engagement can be important mechanisms to reduce violence within communities. (JEL D74, H70, O15, O17, O18, Z13)",
+            "url": "https://doi.org/10.1257/app.20240746",
+            "abstract_en": "This paper builds and analyzes a new global macrohistorical database of effective tax rates on capital and labor in 154 countries. We establish a new stylized fact: While effective capital tax rates fell in developed countries between 1965 and 2018, they rose in developing countries after 1990. Multiple country-, sector-, and firm-level research designs suggest that trade openness contributed to this rise by increasing the share of output produced in corporations and larger firms, where effective capital taxation is higher. In contrast to a common view, globalization appears in many countries to have supported governments' ability to tax capital. (JEL F41, F62, H24, H25, O19, O23)",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
+              "国际经济",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Early Grade Retention Harms Adult Earnings",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/app.20230121",
+            "abstract_en": "This paper provides new causal evidence on the effects of grade retention on educational attainment, behavioral outcomes, and labor market performance by analyzing Texas's reading test–based retention policy. Using a fuzzy regression discontinuity design, I find that third-grade retention significantly reduces annual earnings at age 26 by $3,477 (19 percent). While temporarily improving test scores, retention increases absenteeism, violent behavior, and juvenile crime, and reduces the likelihood of high school graduation. Moreover, retained students exhibit higher community college enrollment but lower public university attendance, though neither estimate is statistically significant. (JEL D91, H75, I21, I26, I28, J31)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "The Long-Term Effects of Cash Assistance",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/app.20210064",
+            "abstract_en": "We investigate the long-term effects of cash assistance on beneficiaries and their children among participants in the Seattle-Denver Income Maintenance Experiment. Treated families in this randomized experiment received thousands of dollars in extra government benefits for three or five years in the 1970s. We match experimental records to Social Security Administration data using a novel algorithm, finding that treatment decreased adults' postexperimental annual earnings by $1,800 and increased their disability benefit applications. Effects were strongest around retirement age; evidence suggests possible occupational mechanisms. In contrast, children experienced no significant effects on earnings or interaction with the disability system. (JEL G51, H55, H75, I32, I38, J12, J14)",
+            "abstract_zh": "",
+            "matched_topics": [
               "创新药"
             ]
           }
@@ -715,7 +787,7 @@
             "title_en": "Reshaping factory Asia: How did the US-China trade war affect the Asian-Pacific supply chain?",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104327",
-            "abstract_en": "",
+            "abstract_en": "This paper examines how the US-China trade war reshaped supply chains across the Asia-Pacific region. Using self-constructed product-level input-output linkages, we document three key findings. First, US tariff hikes significantly reduced Chinese exports to the US and, through upstream linkages, caused a 6.3% decline in China’s imports from Japan, South Korea, and Taiwan. Second, both China and the US reoriented parts of their supply chains toward ASEAN, Mexico, and India. China's exports to ASEAN rose by 6%, driven by both trade diversion and industrial relocation. Third, a quantitative Armington model shows that countries like ASEAN, Mexico, and India gained in welfare, while upstream suppliers such as Taiwan and South Korea incurred losses. If the trade conflict escalates into a global tariff war, global trade would contract by 5%, and all countries would experience welfare losses. These results underscore how bilateral trade tensions can trigger far-reaching supply chain shifts.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
@@ -743,6 +815,26 @@
             ]
           },
           {
+            "title_en": "Horizontal regulatory barriers in international trade: Evidence from electric plugs",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104312",
+            "abstract_en": "Domestic policies regulating the horizontal dimensions of product differentiation can impede international trade and have become a major concern in contemporary trade negotiations. We estimate trade frictions associated with incompatible designs of electric plugs, a well-known example of a horizontal regulatory barrier. Our findings indicate that fewer electronic devices are exported to destinations with incompatible electric plugs, and this effect operates through both the extensive margin and the intensive margin of exports. These results are further corroborated by an online survey of Chinese electronics exporters. Moreover, incompatible plugs are associated with lower average quality of exported electronic devices, suggesting that horizontal regulatory barriers are linked to variation in the vertical dimension of product differentiation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "The extensive margin of restructuring: Adoption of new work in a global economy",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104326",
+            "abstract_en": "This paper examines the importance of trade-induced restructuring at the extensive margin, using a novel measure of new work---jobs employing new knowledge, skills, and technologies---based on the emergence of new job titles over time. I show that import competition significantly increases the adoption of new work in US manufacturing industries. The restructuring process, facilitated by offshoring, importantly explains compositional shifts toward non-production activities. These adjustments, amplified through supply chain linkages at the local labor market level, generate positive spillovers to local service industries. Finally, I show that new work is a key mechanism through which trade shocks can increase local wage inequality.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
             "title_en": "The elusive link between FDI and economic growth: Sectoral heterogeneity and global value chains",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104337",
@@ -751,16 +843,6 @@
             "matched_topics": [
               "国际贸易",
               "国际经济"
-            ]
-          },
-          {
-            "title_en": "Horizontal regulatory barriers in international trade: Evidence from electric plugs",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104312",
-            "abstract_en": "Domestic policies regulating the horizontal dimensions of product differentiation can impede international trade and have become a major concern in contemporary trade negotiations. We estimate trade frictions associated with incompatible designs of electric plugs, a well-known example of a horizontal regulatory barrier. Our findings indicate that fewer electronic devices are exported to destinations with incompatible electric plugs, and this effect operates through both the extensive margin and the intensive margin of exports. These results are further corroborated by an online survey of Chinese electronics exporters. Moreover, incompatible plugs are associated with lower average quality of exported electronic devices, suggesting that horizontal regulatory barriers are linked to variation in the vertical dimension of product differentiation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
             ]
           },
           {
@@ -798,6 +880,17 @@
             "title_en": "Persistent global growth differences and euro area adjustment: Real activity, trade and the real exchange rate",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104313",
+            "abstract_en": "Since the launch of the euro, the Euro Area has combined weak growth with persistent trade surpluses, a rising trade share, and the absence of a real exchange rate trend. In academic and policy debates, the Euro Area's trade surplus is often viewed as reflecting weak domestic aggregate demand. This paper argues that a purely demand-based view of the trade balance is incomplete. Using an estimated two-region framework, we find that slower productivity growth in the Euro Area has been a major driver of the trade surplus since 1999, while demand shocks play an important role in the rising trade balance following the global financial crisis. We further show that real exchange rate dynamics cannot be understood from productivity growth differentials and aggregate demand shocks alone, but also reflect longer-run shifts in trade patterns.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "国际经济"
+            ]
+          },
+          {
+            "title_en": "Keeping up with the Joneses: FDI, supply chain linkages, and industrial emissions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104343",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -816,26 +909,6 @@
               "国际经济",
               "创新药"
             ]
-          },
-          {
-            "title_en": "Different no more: Country spreads in advanced and emerging economies",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104316",
-            "abstract_en": "Interest rate spreads vary widely across time and countries and are a central driver of business cycles in emerging market economies (EMEs). Since 2008, advanced market economies (AMEs) have exhibited persistently higher and more volatile spreads, alongside increased macroeconomic volatility and stronger co-movement with EMEs. We document six facts showing that AMEs have become more similar to EMEs along key dimensions. We interpret these patterns through a small open economy model and uncover a stark dichotomy: higher spreads reflect greater indebtedness and lower debt tolerance, whereas greater macroeconomic volatility and co-movement are driven by stronger global shocks.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际经济"
-            ]
-          },
-          {
-            "title_en": "Tapping into excess capacity: Chinese machinery exports and African industrialization",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104329",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
           }
         ],
         "error": null
@@ -847,9 +920,30 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 4,
-        "total_in_issue": 15,
+        "matched_count": 7,
+        "total_in_issue": 19,
         "papers": [
+          {
+            "title_en": "Skill certifications and migrant labor market integration: Experimental evidence from Colombia",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103949",
+            "abstract_en": "This paper studies whether government-issued skill certification improves labor market integration when workers’ skills are hard to verify. We evaluate a randomized offer of access to an occupation-specific certification program in Colombia among locals and migrants, two groups with different ex ante signaling capacity. The program certifies existing skills rather than providing training. Among locals, the offer increases employment by reducing inactivity and raises hours worked. The effects persist unevenly over time and are robust to attrition bounds and alternative outcome measures. Among migrants, estimates are less precise and provide no evidence of effects in employment, hours, or wages. The results show that a common skill certification generates different patterns of labor-market adjustment among locals and migrants.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Incomplete markets, crop portfolios, and agricultural productivity",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103944",
+            "abstract_en": "Using the Uganda National Panel Survey, I document that farmers face a trade-off between crop yields and risk, that most grow both high- and low-yield crops, and that poorer farmers concentrate on the low-yield, low-risk ones. I then develop an incomplete-markets model with a crop-portfolio choice, in which households trade off income returns against consumption smoothing. Wealth-poor households optimally under-invest in intermediates and shift toward safer crops. Crop portfolios, intermediate input use, and the wealth distribution are jointly determined in equilibrium. The model also reproduces the low pass-through of both income inequality and income volatility into consumption. Calibrated to rural Uganda, it implies that completing markets raises agricultural productivity by 12.8%, with 15.8% of the gain coming from eliminating the misallocation of inputs across farmers and crops. Consumption rises by 17.6% and welfare by 17.4%, with income inequality rising slightly and consumption inequality unchanged.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
           {
             "title_en": "Political career incentives and the environmental costs: Evidence from China’s promotion tournaments",
             "title_zh": "",
@@ -879,6 +973,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
+            ]
+          },
+          {
+            "title_en": "The security unlock: How rural social pension makes people more entrepreneurial?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103923",
+            "abstract_en": "Previous literature on the determinants of entrepreneurship has not explored the role of social pension. Leveraging variation in the roll-out timing of a universal rural pension program across Chinese counties, our analysis, at both the individual and aggregate levels, reveals that pension provision led to an increase in entrepreneurship among the younger generation. We show that this effect operates through two primary channels: an intergenerational transfer channel and a local demand channel. Specifically, the pension program mitigates upward transfers from adult children to elderly parents, while boosting local consumer demand, which exerts a demand-side “pull” effect on enterprise establishment. Our findings may shed new light on the interplay between pension, intergenerational resource allocation, and entrepreneurial activity.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
             ]
           },
           {
@@ -1180,7 +1284,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 4,
-        "total_in_issue": 9,
+        "total_in_issue": 10,
         "papers": [
           {
             "title_en": "Gatekeepers and the endogenous design of consumer preferences under personalized pricing",
@@ -1235,23 +1339,23 @@
         "issue_title": "Volume 55, Issue 10",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 15,
+        "total_in_issue": 14,
         "papers": [
           {
-            "title_en": "Can artificial intelligence accelerate technological progress? Researchers' perspectives on AI in manufacturing and materials science",
+            "title_en": "From academic lab to spinoff: How opportunity beliefs evolve from individual to venture during technology-market matching",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105598",
-            "abstract_en": "Artificial intelligence (AI) raises expectations of substantial increases in rates of technological progress, but such anticipations are often not connected to detailed ground-level studies of AI use in innovation processes. Accordingly, it remains unclear how and to what extent AI can accelerate innovation. To help to fill this gap, we explore and assess results from 32 interviews with U.S.-based academic manufacturing and materials sciences researchers experienced with AI and machine learning (ML) techniques. We found that AI was primarily used for modeling of materials and manufacturing processes, facilitating cheaper and more rapid search of design spaces for materials and manufacturing processes alike. Benefits included cost, time, and computation savings in technology development. However, AI/ML tools were unreliable outside design spaces for which dense data were already available; they required skilled and judicious application in tandem with older research techniques; and concerns were raised about the potential to detrimentally circumvent opportunities for disruptive theoretical advancement. Based on these results, we suggest there is reason for optimism about acceleration in sustaining innovations through the use of AI/ML; but that support for conventional empirical, computational, and theoretical research is required to maintain the likelihood of further disruptive advances in manufacturing and materials.",
+            "url": "https://doi.org/10.1016/j.respol.2026.105585",
+            "abstract_en": "Academic labs are central to the creation of radical-generic technologies. Yet translating these inventions into successful innovations poses a significant challenge as academic scientists often struggle to identify and prioritize viable markets in the early stages of commercialization. This study examines how individual scientists' opportunity beliefs evolve into the shared commercialization strategy of an academic spinoff. Using a longitudinal single-case study of the technology-market matching (TMM) process of a radical-generic technology, we analyze individual and team assessments of eight technology-market combinations over 15 years. We show that opportunity beliefs evolve from an initial emphasis on functional aspects of structural similarity toward an increasing emphasis on commercial viability, eventually integrating balanced similarity considerations. Within TMM, three mechanisms – productive cognitive dissonance, expanded similarity awareness, and team reflexivity – explain how heterogeneous individual beliefs evolve and coalesce into the commercialization strategy of the spinoff. We introduce “simmering-with-the-lab” as an organizational strategy through which latent technology-market options are maintained in the academic lab while the spinoff pursues a narrower set of commercial opportunities. The study advances theory on TMM and organizational learning for deep tech academic spinoffs and has practical implications for science entrepreneurship training, innovation policy, and university IP strategy.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
             ]
           },
           {
-            "title_en": "From academic lab to spinoff: How opportunity beliefs evolve from individual to venture during technology-market matching",
+            "title_en": "Can artificial intelligence accelerate technological progress? Researchers' perspectives on AI in manufacturing and materials science",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105585",
-            "abstract_en": "Academic labs are central to the creation of radical-generic technologies. Yet translating these inventions into successful innovations poses a significant challenge as academic scientists often struggle to identify and prioritize viable markets in the early stages of commercialization. This study examines how individual scientists' opportunity beliefs evolve into the shared commercialization strategy of an academic spinoff. Using a longitudinal single-case study of the technology-market matching (TMM) process of a radical-generic technology, we analyze individual and team assessments of eight technology-market combinations over 15 years. We show that opportunity beliefs evolve from an initial emphasis on functional aspects of structural similarity toward an increasing emphasis on commercial viability, eventually integrating balanced similarity considerations. Within TMM, three mechanisms – productive cognitive dissonance, expanded similarity awareness, and team reflexivity – explain how heterogeneous individual beliefs evolve and coalesce into the commercialization strategy of the spinoff. We introduce “simmering-with-the-lab” as an organizational strategy through which latent technology-market options are maintained in the academic lab while the spinoff pursues a narrower set of commercial opportunities. The study advances theory on TMM and organizational learning for deep tech academic spinoffs and has practical implications for science entrepreneurship training, innovation policy, and university IP strategy.",
+            "url": "https://doi.org/10.1016/j.respol.2026.105598",
+            "abstract_en": "Artificial intelligence (AI) raises expectations of substantial increases in rates of technological progress, but such anticipations are often not connected to detailed ground-level studies of AI use in innovation processes. Accordingly, it remains unclear how and to what extent AI can accelerate innovation. To help to fill this gap, we explore and assess results from 32 interviews with U.S.-based academic manufacturing and materials sciences researchers experienced with AI and machine learning (ML) techniques. We found that AI was primarily used for modeling of materials and manufacturing processes, facilitating cheaper and more rapid search of design spaces for materials and manufacturing processes alike. Benefits included cost, time, and computation savings in technology development. However, AI/ML tools were unreliable outside design spaces for which dense data were already available; they required skilled and judicious application in tandem with older research techniques; and concerns were raised about the potential to detrimentally circumvent opportunities for disruptive theoretical advancement. Based on these results, we suggest there is reason for optimism about acceleration in sustaining innovations through the use of AI/ML; but that support for conventional empirical, computational, and theoretical research is required to maintain the likelihood of further disruptive advances in manufacturing and materials.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -1334,6 +1438,27 @@
             ]
           },
           {
+            "title_en": "An (almost) free lunch? Symbolic recognition and knowledge-sharing behavior in online communities",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105586",
+            "abstract_en": "How does symbolic recognition influence knowledge-sharing behavior in online communities? We investigate this question in the context of Stack Overflow, a large-scale, peer-curated platform for technical knowledge exchange. Exploiting the quasi-random timing of symbolic awards and employing a matched difference-in-differences design, we examine how contributors respond to the receipt of a peer-endorsed “Nice Answer” badge. We find a short-term increase in contribution volume and user engagement following the award. Over time, contributors expand into new and more distant knowledge domains, yet this broader participation is associated with a decline in contribution quality, particularly in unfamiliar areas. These findings reveal a temporal trade-off between content breadth and quality, offering behavioral insight into how symbolic incentives shape contributor effort and attention allocation. By isolating the effects of symbolic recognition in a setting free of material incentives, this study informs the design of reputation systems in online platforms and contributes to research on motivation, cognitive mobility, and knowledge production in digitally mediated communities.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Who receives R&amp;D tax incentives? Firm capabilities and stage-dependent access",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105635",
+            "abstract_en": "This paper examines which firms are able to access and progress through Colombia's R&D tax-benefit scheme. Using firm-level microdata from three waves of the Colombian Manufacturing Innovation Survey, we estimate sequential logit models to assess how firm capabilities are associated with progression from intention to apply, to application, and ultimately to receipt. The results reveal a clear stage-dependent pattern. General innovation capabilities—including R&D effort, internal innovation resources, information-source breadth, export orientation, and university cooperation—are most strongly associated with firms' initial intention to apply. Conditional on intention, progression to application is more closely related to organizational scale and university cooperation. Conditional on application, receipt is less consistently associated with broad innovation effort, while the stage-specific analysis provides only suggestive evidence of associations with more specific organizational and relational characteristics. Additional analyses indicate that exposure to other forms of public innovation support is associated primarily with initial engagement rather than with progression at later stages. These findings suggest that formal eligibility does not translate automatically into effective access to R&D tax incentives. This implies that evaluations of tax incentives should account for the selective processes that precede receipt. For policymakers, the results indicate that broad-based fiscal incentives may need to be complemented by stage-specific information, administrative assistance, and capability-building measures if access is to extend beyond firms already equipped to navigate the scheme.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "A note on the changing appropriability conditions and technological opportunities for innovation in Japan; 1994–2020",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105608",
@@ -1343,26 +1468,6 @@
               "国际贸易",
               "企业创新",
               "创新药"
-            ]
-          },
-          {
-            "title_en": "Stronger patent law increases the allocation of resources to external relative to internal R&amp;D: Empirical evidence",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105601",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "The wisdom of the diverse crowd(funders)",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105612",
-            "abstract_en": "Crowdfunding platforms aim to democratize entrepreneurial finance by creating ecosystems that elicit the ‘wisdom of crowds’—aggregating the judgments of individual and often amateur funders. However, there is limited evidence on whether crowds can effectively apply their collective wisdom on these platforms. We address this gap by analyzing MyC4, a crowdlending platform that connects Western lenders with borrowers in developing countries. We examine whether lenders effectively screen borrowers, identify platform attributes that influence lenders' screening accuracy, and uncover the underlying mechanisms driving these effects. Empirically, we leverage platform-initiated ‘top-up’ funding by MyC4 administrators, which allows us to observe the counterfactual repayment performance of loans that would otherwise have remained unfunded, enabling us to evaluate lenders' screening ability against an otherwise unobservable benchmark. Our results indicate that crowdlenders can effectively screen creditworthy borrowers, but only when financial information about borrowers is made available. Lenders' screening effectiveness diminishes substantially for prosocial loans, as many funders converge on similar, socially motivated decisions. These findings provide novel evidence on crowdlenders' performance, highlighting key trade-offs for crowdfunding platforms and offering actionable insights for their administrators.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
             ]
           }
         ],
@@ -1517,17 +1622,6 @@
             ]
           },
           {
-            "title_en": "How and When Are High-Frequency Stock Returns Predictable?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.02435",
-            "abstract_en": "This paper studies the predictability of ultrahigh-frequency stock returns and durations to relevant price, volume, and transaction events using machine learning methods. We find that contrary to low-frequency and long-horizon returns, where predictability is rare and inconsistent, predictability in high-frequency returns and durations is large, systematic, and pervasive over short horizons. We identify the relevant predictors constructed from trades and quotes data, and we examine what determines the variation in predictability across the stock’s own characteristics and market environments. Next, we compute how the predictability improves with the timeliness of the data on a scale of milliseconds and conversely degrades with delays, providing a valuation of each millisecond gained. Finally, we simulate the impact of getting an (imperfect) peek at the incoming order flow, a look-ahead ability that is often attributed to the fastest high-frequency traders, in terms of improving the predictability of the returns and durations. This paper was accepted by Will Cong, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02435 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
             "title_en": "The Changing Nature of Firm Innovation: Short-Termism and Influential Innovation in U.S. Public Firms",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2022.00857",
@@ -1536,6 +1630,17 @@
             "matched_topics": [
               "产业经济",
               "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "How and When Are High-Frequency Stock Returns Predictable?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2022.02435",
+            "abstract_en": "This paper studies the predictability of ultrahigh-frequency stock returns and durations to relevant price, volume, and transaction events using machine learning methods. We find that contrary to low-frequency and long-horizon returns, where predictability is rare and inconsistent, predictability in high-frequency returns and durations is large, systematic, and pervasive over short horizons. We identify the relevant predictors constructed from trades and quotes data, and we examine what determines the variation in predictability across the stock’s own characteristics and market environments. Next, we compute how the predictability improves with the timeliness of the data on a scale of milliseconds and conversely degrades with delays, providing a valuation of each millisecond gained. Finally, we simulate the impact of getting an (imperfect) peek at the incoming order flow, a look-ahead ability that is often attributed to the fastest high-frequency traders, in terms of improving the predictability of the returns and durations. This paper was accepted by Will Cong, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02435 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
               "创新药"
             ]
           },
@@ -1602,9 +1707,19 @@
         "resolved_name": "Journal of Business Venturing",
         "issue_title": "Volume 42, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
-        "matched_count": 2,
-        "total_in_issue": 4,
+        "matched_count": 4,
+        "total_in_issue": 6,
         "papers": [
+          {
+            "title_en": "From breakdown to breakthrough: How entrepreneurs craft vulnerability narratives on social media",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106656",
+            "abstract_en": "Entrepreneurial narratives are widely understood as strategic tools for building legitimacy and mobilizing resources. Yet we observed that some entrepreneurs openly share stories of fear, doubt, and struggle on social media - foregrounding emotional exposure rather than demonstrating strategic purpose. We conceptualize these as entrepreneurial vulnerability narratives: a distinct narrative form through which the lived consequences of entrepreneurial uncertainty are publicly shared and opened to social negotiation. These disclosures expose entrepreneurs to interpersonal risks, heightened for women entrepreneurs who contend with gendered biases and less supportive social contexts. To examine this phenomenon, we conducted interviews with 33 women entrepreneurs and a 21-month observation of their Instagram activity. Our analysis reveals that women entrepreneurs hold multiple and coexisting motivations for disclosure - self-oriented, relational, and normative - oscillating between them as needed, while developing narrative-crafting tactics that sustain the benefits of sharing while managing interpersonal risks. Our study contributes by theorizing entrepreneurial vulnerability narratives as a distinct narrative form; by challenging the view that entrepreneurial narratives serve primarily persuasive functions; and by showing how entrepreneurs actively construct precarious holding environments in fragmented digital contexts.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
           {
             "title_en": "Between mission pull and governance burden: Geographic distance and deal realisation in impact investing",
             "title_zh": "",
@@ -1614,6 +1729,16 @@
             "matched_topics": [
               "国际贸易",
               "创新药"
+            ]
+          },
+          {
+            "title_en": "Who will I be? Refugee entrepreneurship and founder identity",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106657",
+            "abstract_en": "We conducted a 27-month field study of 23 North Korean Defector (NKD) founders. Founders responded in three different ways to the disparaging default social identities they encountered by self-categorizing into three “avowed” social identities, which served as aspirations for how they would build their ventures. Founders generated sensemaking narratives that explained their behavior – to themselves and to others – by anchoring on the past, present, or future circumstances and claiming individual capabilities to build their ventures. The resulting ventures were characterized by distinctive missions, branding, and hiring preferences and therefore by patterned differences in the roles founders played. We contribute to scholarly understanding of refugee entrepreneurship by showing that the ways in which refugee founders respond to being in a new country and constructing new identities is more varied – because it is embedded in their responses to local social evaluations – than prior research has portrayed. We contribute to the development of founder identity theory (FIDT) by expanding prior understanding of how social identities drive founder role creation. Overall, we show the extension of refugee founder agency as they move from self-categorizing into avowed social identities to embedding themselves in the concrete social relations required to perform a role.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
             ]
           },
           {
@@ -1671,6 +1796,18 @@
             ]
           },
           {
+            "title_en": "Ambidextrous innovation leap and patent abandonment: A resource orchestration perspective",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103724",
+            "abstract_en": "Patent abandonment can be conceived as a deliberate approach to orchestrate and streamline patent assets, which is often shaped by firms' innovation strategies. This study conceptualizes ambidextrous innovation leap as a strategic reconfiguration of innovation trajectories that redeploys and recombines existing knowledge resources across distinct innovation domains. It investigates how these leaps influence patent abandonment decisions. We propose that such transitions can either disrupt or reinforce the coherence of firms’ knowledge bases, thereby affecting the perceived value and retention of current patent holdings. We distinguish between two types of leaps: upward innovation leap, involving a shift from exploitative to exploratory innovation, and downward innovation leap, denoting the reverse transition. Using panel data on 1623 A-share listed firms in Shanghai and Shenzhen from 2003 to 2021, we find that upward innovation leap has a positive effect on patent abandonment, whilst downward innovation leap negatively affects patent abandonment. We also show that network centrality and knowledge integration capability both negatively moderate the relationship between ambidextrous innovation leaps and patent abandonment. By shedding light on these relationships, this study enriches the research on strategic antecedents of patent abandonment from a resource orchestration perspective, and also has important practical implications for firms making patent abandonment decisions during innovation transitions.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Internal and external design integration, launch strategy proficiency, and new product development performance: The contingent role of market dynamism",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103716",
@@ -1681,14 +1818,24 @@
             ]
           },
           {
-            "title_en": "Ambidextrous innovation leap and patent abandonment: A resource orchestration perspective",
+            "title_en": "Design longevity: Institutional lock-in and the Toyota Crown Comfort taxi",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103724",
-            "abstract_en": "Patent abandonment can be conceived as a deliberate approach to orchestrate and streamline patent assets, which is often shaped by firms' innovation strategies. This study conceptualizes ambidextrous innovation leap as a strategic reconfiguration of innovation trajectories that redeploys and recombines existing knowledge resources across distinct innovation domains. It investigates how these leaps influence patent abandonment decisions. We propose that such transitions can either disrupt or reinforce the coherence of firms’ knowledge bases, thereby affecting the perceived value and retention of current patent holdings. We distinguish between two types of leaps: upward innovation leap, involving a shift from exploitative to exploratory innovation, and downward innovation leap, denoting the reverse transition. Using panel data on 1623 A-share listed firms in Shanghai and Shenzhen from 2003 to 2021, we find that upward innovation leap has a positive effect on patent abandonment, whilst downward innovation leap negatively affects patent abandonment. We also show that network centrality and knowledge integration capability both negatively moderate the relationship between ambidextrous innovation leaps and patent abandonment. By shedding light on these relationships, this study enriches the research on strategic antecedents of patent abandonment from a resource orchestration perspective, and also has important practical implications for firms making patent abandonment decisions during innovation transitions.",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103729",
+            "abstract_en": "While product design is a key driver of organizational success, companies increasingly struggle to sustain relevance in markets with ever-shortening product lifecycles. This study investigates how products achieve longevity without frequent redesign. A historical analysis of the Toyota Crown Comfort taxi, which remained in production for approximately 23-years (1995–2018), is used as a case to examine institutional lock-in as a complementary explanation for design longevity. The results identify three interrelated institutional mechanisms operating at the government-, industry-, and consumer-levels that collectively reinforced the vehicle's enduring market position. Building on these findings, the study proposes a conceptual framework demonstrating how institutional ecosystems can sustain dominant product designs over time. The research contributes to the product design, timeless design, and institutional lock-in literatures by demonstrating that long-term institutional relationships may provide an alternative pathway to design longevity beyond continuous redesign and R&D investment.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Beyond the efficiency trap: Regional AI exposure, AI knowledge, and the asymmetric governance of data-driven value propositions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103730",
+            "abstract_en": "Artificial intelligence (AI) is reshaping corporate strategy, yet how regional AI exposure (RAE), the intensity of local industry peers' AI inventive activities, shapes firms' data-driven value propositions (DDVPs) remains unclear. Using panel data on Chinese listed firms from 2013 to 2023, we examine the mechanism linking RAE to DDVPs. We find that higher RAE is associated with greater subsequent AI knowledge generation, which is more strongly related to efficiency-oriented than product-oriented DDVPs, reflecting an efficiency trap. Dynamic capabilities govern this conversion asymmetrically: sensing and seizing capabilities primarily strengthen efficiency-oriented DDVP, whereas reconfiguring capability is particularly important for elevating product-oriented DDVP. These findings extend DDVP research beyond firm internal explanations by incorporating regional AI environments and show how distinct dynamic capability dimensions shape heterogeneous value-creation orientations.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
-              "企业创新",
               "创新药"
             ]
           },
@@ -1702,6 +1849,17 @@
               "国际贸易",
               "企业创新",
               "创新药"
+            ]
+          },
+          {
+            "title_en": "How team structure shapes technological differentiation: A semantic embedding-based assessment",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103736",
+            "abstract_en": "A firm's research portfolio often faces a tension between reliance on dominant technologies and the pursuit of technological differentiation. This study examines how invention teams generate such differentiation by linking network structure to innovation outcomes. We develop a novel semantic distance measure based on patent text, capturing technological differentiation along a continuous space rather than discrete classification categories. Using this measure, we show that invention teams achieve higher levels of differentiation when they combine strong internal cohesion with diverse external network connections. Specifically, cohesive internal ties facilitate knowledge integration, while external ties spanning structural holes expand access to novel knowledge. These findings highlight the importance of balancing cohesion and brokerage in shaping technological differentiation and offer new insights into the organization of inventive activity.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
             ]
           },
           {
@@ -1733,36 +1891,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
-            ]
-          },
-          {
-            "title_en": "PATTERN-X: Guiding sustainable innovation in intelligent lighting systems through an explainable AI framework for technology convergence forecasting",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103702",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Exploratory versus exploitative innovation in central state-owned enterprises: the role of administrative rank",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103703",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Artificial intelligence and supply chain resilience: The roles of knowledge-based dynamic capabilities and digital leadership",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103717",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
             ]
           }
         ],
@@ -1887,7 +2015,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
         "matched_count": 1,
-        "total_in_issue": 4,
+        "total_in_issue": 6,
         "papers": [
           {
             "title_en": "Do Higher-Cost Settings Deliver Better Outcomes? Post-Acute Care Efficiency in Medicare Skilled Nursing Facilities and Home Health Agencies",
@@ -1907,82 +2035,39 @@
         "query_name": "Health Economics",
         "issn": "1057-9230",
         "resolved_name": "Health Economics",
-        "issue_title": "Volume 35, Issue 10",
+        "issue_title": "Volume 35, Issue 11",
         "issue_url": "https://onlinelibrary.wiley.com/journal/10991050",
-        "matched_count": 7,
-        "total_in_issue": 13,
+        "matched_count": 3,
+        "total_in_issue": 8,
         "papers": [
           {
-            "title_en": "Star Ratings and Willingness to Travel for Hospital Care",
+            "title_en": "How Much Does It Cost the South Korean Public Healthcare System to Produce One Healthy Life Year?",
             "title_zh": "",
-            "url": "https://doi.org/10.1002/hec.70138",
-            "abstract_en": "ABSTRACT Choosing a hospital for elective inpatient care is a complex decision due to pervasive information asymmetries and multidimensional quality attributes. Online reviews provide an accessible and salient source of hospital quality information that could influence patient choices. Using the universe of hospital Yelp reviews and inpatient claims data for elective procedures in Florida (2012–2017), we exploit exogenous variation in online ratings to estimate the causal effect of online reviews on hospital selection. Depending on the underlying condition, we find that patients are willing to travel 7.9% farther for labor and delivery and 33.5% farther for orthopedic surgery for a one‐standard‐deviation increase in a hospital's rating percentile rank within its market, which is roughly a half‐star increase. The larger response for orthopedic procedures is consistent with greater reliance on online information when provider relationships are weaker. Falsification tests on emergency admissions yield null results, confirming that online reviews influence elective rather than urgent decision‐making. Our findings highlight the role of consumer‐generated information in healthcare markets and suggest that online platforms can meaningfully shape provider competition.",
+            "url": "https://doi.org/10.1002/hec.70134",
+            "abstract_en": "ABSTRACT Investigating the impact of healthcare expenditure on health is crucial for optimizing public resource allocation. This can inform the value of expanding healthcare budgets and provide a benchmark for allocations within healthcare systems. However, empirical evidence remains mixed. The potential causes of mixed results—reverse causality and unobservable confounders—need to be addressed through robust empirical methods. This study assesses the South Korean public healthcare cost of producing one quality‐adjusted life year (QALY) by using conversion factors—elements in the pricing formula of healthcare services determined by negotiations—as the instrument, with two‐way fixed effects. Moreover, since morbidity significantly affects health, it is crucial to estimate the impact of healthcare expenditure on morbidity using credible data. We use a unique dataset of directly measured regional EQ‐5D indices from 240 municipalities for the period 2008–2019, which is unavailable in other countries. We estimate that $12,847 of public healthcare expenditure is required to gain one QALY. Sensitivity analyses using alternative calculation methods, data, and models produce estimates ranging from $8850 to $17,674 per QALY. Our findings suggest that the healthcare cost of producing one QALY is substantially lower than the GDP per capita and the willingness‐to‐pay for health in South Korea.",
             "abstract_zh": "",
             "matched_topics": [
-              "创新药"
+              "产业经济"
             ]
           },
           {
-            "title_en": "Threat Effects and Work Incentives: Evidence From a Danish Sick Leave Reform",
+            "title_en": "Walking With Feet Tied to the Past: Childhood Exposure to the 1918 Influenza Pandemic and Later‐Life Male Mortality",
             "title_zh": "",
-            "url": "https://doi.org/10.1002/hec.70126",
-            "abstract_en": "ABSTRACT This paper investigates the effects of a 2014 policy reform on paid sick leave in Denmark. The reform shortened the eligibility period from 56 to 26 weeks for paid sick leave and introduced a mandatory return‐to‐work activation program for individuals whose benefits were not extended. The reform initially led to a temporary increase in returns to employment, as individuals on sick leave resumed work to avoid entering the mandatory activation program. However, this effect fades in the long run, and no sustained employment improvements were observed.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The Impact of Various Tax Bases and Rates on Cannabis Consumption Among US Adults Who use Recreational Cannabis",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/hec.70129",
-            "abstract_en": "ABSTRACT As an increasing number of states legalize recreational cannabis, it is increasingly important to understand the optimal tax design for recreational cannabis. Currently, various tax bases (weight, potency, price) and rates are used. However, the empirical evidence on the impact of tax‐related attributes (pre‐tax prices, tetrahydrocannabinol [THC] levels, tax bases, and tax rates) and their interactions on consumption is limited. To address this evidence gap, this study utilizes a split‐sample volumetric choice experiment to understand the impact of pre‐tax prices, tax bases, tax rates, and THC levels on cannabis consumption and THC intake by US adult users. We further estimated the own‐ and cross‐price elasticities for four cannabis forms (legal flower, illegal flower, edibles, and vaping concentrates). We collected a nationally representative sample of N = 1525 US adults aged 21+ who reported the past 30‐day use of recreational cannabis in June and July 2024. Participants were randomized into seeing one of the three different tax bases, and each person answered 9 choice questions where they were given varying combinations of pre‐tax prices, tax rates, and THC levels of the four cannabis products. Zero‐inflated negative binomial regressions were used to estimate the impacts of varying factors on the cannabis consumption (units and THC) and own‐ and cross‐price elasticities. The interactions between tax bases and their targeted attributes were explored using a linear model accounting for individual fixed effects. Higher pre‐tax prices and tax rates significantly reduce consumption, whereas higher THC levels increase consumption. Compared to a tax rate of 60% of pretax prices or equivalent, an 80% rate does not induce further consumption reduction. The overall price elasticities of cannabis demand range from −0.4 to −0.5, with form‐ or product‐specific price elasticities ranging between −0.2 and −0.4. Illegal and legal flowers are substitutes for each other. Edibles and cartridges are complements for each other. In addition, illegal flowers are substitutes for legal cartridges, and edibles are complements to flowers. While increases in the prices of legal products significantly reduce their consumption, 89% of this reduction may be offset by switching to illegal products. While tax bases do not significantly impact consumption, a potency tax base reduces the consumption of higher potency products, and a price tax base reduces the consumption of higher‐priced products. If the illegal market is restricted, policymakers can expect increasing cannabis prices using excise taxes to reduce both unit and THC consumption, while generating tax revenues. However, given the sizable illegal market, a large portion of the consumption reduction due to taxes may be offset by switching to illegal products. Tax rates reduce consumption in addition to base prices. There is room to increase cannabis tax rates to 60% of pretax prices or equivalent to counter the decreasing prices. While tax bases are not effective in reducing overall consumption, they can shift the preference of products with the attributes that they target (e.g., high potency or high price); therefore, they could be a useful tool to shift product choices. Capping THC levels also has a direct impact on reducing consumption.",
+            "url": "https://doi.org/10.1002/hec.70141",
+            "abstract_en": "ABSTRACT Many previous studies have used cross‐cohort comparisons and a focus on in utero exposure to document the lingering effects of the 1918 influenza pandemic on survivors' outcomes later in life. A subset has examined impacts on old‐age health and mortality, finding mixed results. This paper contributes to the literature by extending the analysis to evaluate early‐life and childhood exposure to the pandemic on old‐age longevity along with a set of candidate mechanisms. We employ Social Security Administration death records linked to the full‐count 1940 census and employ event‐study and difference‐in‐difference regressions to compare longevity of cohorts with different age‐at‐exposure who were born in cities with high versus low exposure based on 1918 influenza‐related mortality. Our treatment‐on‐treated calculations suggest that cohorts with age‐at‐exposure of 0–5 and 6–11 experience 7.2 and 10.9 months reductions in old age longevity; importantly, we note that these cohorts are often used as “controls” in the broader literature. While our main analysis focuses on males due to data constraints, supplementary results suggest similar effects for females. An analysis of census data suggests reductions in health, education and socioeconomic scores as potential mechanisms. The findings of this paper have important policy implications for interventions and identifying the populations at higher risks of adverse long‐term outcomes during major pandemics.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Air Pollution Control and Residents' Weight: Empirical Evidence From China's Action Plan",
+            "title_en": "Economic Preferences Predict COVID‐19 Vaccination Intentions and Behavior",
             "title_zh": "",
-            "url": "https://doi.org/10.1002/hec.70130",
-            "abstract_en": "ABSTRACT Air pollution is a significant environmental issue with widespread impacts on public health. Evidence on the causal effect of air pollution control policies on weight‐related outcomes remains limited. This study fills this gap by leveraging the Air Pollution Prevention and Control Action Plan as a quasi‐natural experiment, combining four waves (2010, 2012, 2014, 2016) of panel data from the China Family Panel Studies (CFPS). Employing a difference‐in‐differences framework, we find that implementing this policy significantly reduces overweight risk among residents. Mechanism analyses indicate that the policy primarily lowers overweight risk by increasing physical exercise frequency and alleviating depressive symptoms. Further heterogeneity analyses show this impact is particularly pronounced among urban residents, young adults, females, and individuals with lower educational attainment. Our findings clarify the causal link between environmental regulation and population health, and provide actionable insights for policymakers to design coordinated interventions that leverage air quality improvements to advance public health goals.",
+            "url": "https://doi.org/10.1002/hec.70136",
+            "abstract_en": "ABSTRACT This study investigates the relationship between economic preferences and COVID‐19 vaccination readiness using two representative samples of the German population ( N > 5000). We elicited altruism, patience, risk‐taking and trust using validated survey questions. We find robust, positive relationships between vaccination readiness and both patience and trust. The positive association between altruism and vaccination readiness vanishes when controlling for the other preference dimensions. No consistent effect emerges for risk‐taking. Our results underscore the importance of accounting for the interrelated nature of economic preferences when analyzing their connection with field behavior.",
             "abstract_zh": "",
             "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Healthcare Costs Following Medical Gender‐Affirmation: Evidence From Whole‐of‐Population Australian Administrative Data",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/hec.70127",
-            "abstract_en": "ABSTRACT Gender incongruence in trans and nonbinary (“trans”) populations is often associated with psychological distress and increased demand for mental healthcare. Gender‐affirming hormone therapy (GAHT) is a key component of care for many trans people, yet long‐term evidence around its cost implications remains limited despite increasing uptake and policy attention worldwide. We provide the first population‐based evidence on the healthcare costs of GAHT initiation using longitudinal administrative data from 32,313 trans Australians who initiated testosterone‐based GAHT (tGAHT) or estradiol‐based GAHT (eGAHT) between 2013 and 2024. Employing a dynamic difference‐in‐differences design, we estimate the impacts on government expenditure and patient out‐of‐pocket costs in the 6 years after initiation, using future initiators as controls. We find that initiating tGAHT leads to an additional AUD$3119 (USD$2246) in government expenditure and AUD$143 (USD$103) in out‐of‐pocket costs over 6 years; corresponding estimates were AUD$8348 (USD$6011) and AUD$1269 (USD$914) for eGAHT recipients. For tGAHT recipients, both government and out‐of‐pocket costs declined after initiation, with mental healthcare reductions exceeding ongoing hormone therapy expenditure after 6 years. For eGAHT recipients, costs also fell but remained above baseline, driven by sustained prescription spending. Taken together with quality‐of‐life benefits, our results suggest GAHT is likely to be cost‐effective.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Health on the Move: The Impact of Poverty Alleviation Relocation on Healthcare Utilization in China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/hec.70124",
-            "abstract_en": "ABSTRACT Limited utilization of healthcare services remains a persistent challenge for poor populations in many countries. This study examines the impact of China's Poverty Alleviation Relocation Program (PARP) on healthcare utilization, utilizing panel data from rural households in 16 counties across eight provinces. Employing a difference‐in‐differences (DID) framework, we find that relocation leads to a 24.6% increase in clinic visits and a 36.9% increase in hospital visits per household, helping prevent minor illnesses from escalating. Despite higher utilization, relocation does not significantly raise total medical expenditure, out‐of‐pocket medical costs, or reimbursement levels, due to reduced per‐visit costs. Mechanism analysis suggests that relocation improves access to healthcare facilities and boosts household income. Our findings highlight the critical role of combining housing mobility with healthcare system improvements to promote healthcare equity, offering important insights for the design of poverty alleviation strategies in other developing country contexts where access to healthcare remains a critical constraint.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "医药产业"
-            ]
-          },
-          {
-            "title_en": "The Effects of Compulsory Licensing: A Case Study of HIV Drugs",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/hec.70123",
-            "abstract_en": "ABSTRACT Compulsory licensing is a legal mechanism that allows governments the use of patented medicines without the owner's consent, subject to conditions and compensation, to meet public‐health needs. Despite its policy relevance and increasing use, empirical evidence on its market effects remains limited. This study examines the association between compulsory licensing and the commercial accessibility and affordability of HIV medications across 11 countries from 2002 to 2022. We combine quarterly data on drug sales and prices from IQVIA with implementation dates from the TRIPS Flexibilities Database, focusing on 21 HIV drugs subject to at least one compulsory license. Using a staggered difference‐in‐differences design, we estimate the average treatment effect on the treated (ATT) of compulsory licensing on drug consumption and prices, under a parallel trends assumption. We find an economically meaningful increase in retail and hospital sales following the implementation of compulsory licenses, amounting to approximately 21% of a standard deviation in the countries that implemented them. In addition, we estimate a reduction in prices of approximately 19% of a standard deviation. These associations are consistent with compulsory licenses having contributed to improved availability of HIV drugs through commercial channels, with meaningful effects on prices. Our estimates do not capture—and therefore cannot rule out—potential additional effects on access via public importation or production, donations, or NGO‐led supply chains.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新",
-              "创新药"
+              "国际贸易"
             ]
           }
         ],
