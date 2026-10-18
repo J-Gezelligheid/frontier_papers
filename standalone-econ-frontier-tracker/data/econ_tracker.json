@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-11 11:19:34",
+  "updated_at": "2026-10-18 09:22:48",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 357,
+    "fail_count": 347,
     "failed_examples": [
       "Who Marries Whom? The Role of Segregation by Race and Class :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "Americans rarely marry outside their race or class group, a pattern with well-do :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
@@ -251,98 +251,98 @@
         "query_name": "Quarterly Journal of Economics",
         "issn": "0033-5533",
         "resolved_name": "The Quarterly Journal of Economics",
-        "issue_title": "Volume 141, Issue 3",
+        "issue_title": "Volume 141, Issue 4",
         "issue_url": "https://academic.oup.com/qje",
         "matched_count": 9,
         "total_in_issue": 15,
         "papers": [
           {
-            "title_en": "Business, Liquidity, and Information Cycles",
+            "title_en": "Busing to Opportunity? The Impacts of the Metco Voluntary School Desegregation Program on Urban Students of Color",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/qje/qjag029",
-            "abstract_en": "Abstract Stock markets play a dual role: they provide information about firms’ fundamentals, which improves resource allocations, and they provide liquidity. We propose a setting in which these two roles interact: if stocks are used more intensively for liquidity, then prices reveal less information about fundamentals. We structurally estimate stock price informativeness for several countries and show that it declines when alternative liquidity sources, such as banks, are in distress. To study the real effects of this mechanism, we devise a strategy to integrate our stock-trading module into a dynamic general equilibrium model with heterogeneous firms. We calibrate the model to the United States and simulate recessions with and without banking distress. In a standalone recession, prices become more informative and allocation improves, mitigating output losses by 4.4%. If the recession coincides with banking distress, agents rely more on stock markets to obtain liquidity, prices become less informative, and allocation deteriorates, magnifying output losses by 22%.",
+            "url": "https://doi.org/10.1093/qje/qjag043",
+            "abstract_en": "Abstract School assignment policies are a key lever for expanding access to high-performing schools and promoting racial and socioeconomic integration. For over 50 years, the Metropolitan Council for Educational Opportunity (METCO) has bussed students of color from Boston, Massachusetts, to relatively wealthier and predominantly white suburbs. I estimate the effects of attending a high-performing suburban school by comparing applicants who receive enrollment offers with applicants who do not. A two-stage least squares approach exploits waitlist assignment priorities and controls for a rich set of characteristics from birth records and application data. Attending a suburban school boosts math and English test scores, reduces dropout, and increases on-time high school graduation. Four-year college aspirations, enrollment, and graduation increase along with earnings in adulthood. Students whose parents did not attend college and boys experience the largest effects. The evidence points to several mechanisms, including access to higher value-added schools, higher-achieving peers, and schools with stronger college-going norms. Participants are more likely to be tracked into lower-performing classes, implying that effects could be larger with access to more advanced coursework. District value-added estimates suggest that students’ educational trajectories shift at least as much as they would from growing up in the suburban districts.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "International Reserve Management Under Rollover Crises",
+            "title_en": "Bringing Work Home: Flexible Work Arrangements as Gateway Jobs for Women in West Bengal",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/qje/qjag025",
-            "abstract_en": "Abstract This article investigates how a government should manage international reserves when it faces the risk of a rollover crisis. We ask: Should the government accumulate reserves or reduce debt to make itself less vulnerable? We show that the optimal policy entails initially reducing debt, followed by a subsequent increase in both debt and reserves as the government approaches a safe zone. Furthermore, we find that issuing additional debt to accumulate reserves can lead to a reduction in sovereign spreads. Evidence from a panel of emerging economies is consistent with these predictions: increases in reserves financed by public external borrowing are associated with lower spreads, and reserve holdings are not systematically drawn down during crisis episodes.",
+            "url": "https://doi.org/10.1093/qje/qjag045",
+            "abstract_en": "Abstract There is a large latent workforce in developing countries that consists of hundreds of millions of women who prefer to have paid work and yet are out of the labor force. Often, available job opportunities are incompatible with traditional gender roles that encourage women to stay at home. In a randomized experiment with 1,670 households, we partner with a jobs platform to offer short-term data work to women who are out of the labor force. We find three main results. First, flexible work-from-home jobs are highly effective at bringing women into paid work. Job flexibility more than triples take-up from 15% for an office job to 48% for a job that women can do from home while multitasking with childcare. Second, these jobs can act as a stepping stone to less flexible work. Trying paid work from home increases take-up of less flexible jobs two to three months later among women without previous work experience. “Gateway jobs” are especially important for women from more traditional households: their labor supply is more likely to be marginal to flexibility, and in turn, work experience shifts their attitudes to become less traditional. Third, from the labor demand side, remote work comes with trade-offs in worker performance. Working from the office increases accuracy by 3% and speed by 18%. However, these performance drawbacks of work-from-home arrangements may be outweighed by the increase in available workers.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Fairness Across the World",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/qje/qjag044",
+            "abstract_en": "Abstract This article provides the first comprehensive global evidence on people’s fairness and efficiency preferences, beliefs about the sources of inequality and the efficiency cost of redistribution, and policy attitudes toward redistribution. Using a globally harmonized consequential experiment with more than 65,000 individuals across 60 countries, we show that the source of inequality plays a substantially larger role for inequality acceptance than the efficiency cost of redistribution. At the global level, implemented inequality increases by 85% when inequality is caused by merit rather than luck, compared with a 14% increase when redistribution entails a 50% efficiency cost. We document substantial heterogeneity in fairness views and beliefs within and across societies. The meritocratic fairness view is most prominent in many richer Western societies, while libertarian and egalitarian fairness views are widespread in many other parts of the world. Globally, people are more likely to believe that inequality reflects luck rather than merit, while beliefs in large efficiency costs of redistribution are relatively weak. Fairness preferences and beliefs are strongly associated with redistribution attitudes and actual redistribution through taxes and transfers across countries. Our findings illustrate how the interaction between fairness views and beliefs may shape redistribution across societies, highlighting the importance of jointly understanding preferences and beliefs in the political economy of redistribution.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/qje/qjag042",
+            "abstract_en": "Abstract We study the causal effects of income on a rich array of employment outcomes, leveraging an experiment in which 1,000 low-income individuals were randomized into receiving $1,000 per month unconditionally for three years, with a control group of 2,000 participants receiving $50/month. We gather detailed survey data, administrative records, and data from a mobile phone app. The transfer caused total individual income excluding the transfers to fall by about $1,900/year relative to the control group and a 4.2 percentage point decrease in labor market participation. Participants reduced their work hours as a result of the transfers by 1–2 hours/week and participants’ partners reduced their work hours by a comparable amount. Among other categories of time use, the greatest increase generated by the transfer was in time spent on leisure. Despite asking detailed questions about amenities, we find no effect on quality of employment, and our confidence intervals can rule out even small improvements. Treated participants broadly increase expenditures, led by spending on nondurable goods and services, with smaller increases in spending on durable goods and human capital. We observe no significant effects on degree attainment, though the magnitudes of the estimated effects generally appear larger among younger participants. Measures of subjective well-being are higher among treated participants in the first year of the transfers but then revert to control-group levels. Overall, our results suggest a moderate labor supply effect that does not appear offset by other productive activities.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "The Power of Proximity to Coworkers",
+            "title_en": "Capital Services in Global Value Chains",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/qje/qjag027",
-            "abstract_en": "Abstract How does proximity to coworkers affect training and productivity? We study software engineers at a Fortune 500 firm from 2019 to 2024, leveraging two shocks to proximity: the office closures in 2020 and the subsequent return-to-office mandates in 2022 and 2023. In both cases, co-located teams experienced bigger changes in proximity than distributed ones, facilitating difference-in-differences designs. We find that sitting near teammates increases coding feedback by 18.3% and improves code quality. Gains are concentrated among less-tenured and younger employees, who are building human capital. However, there is a trade-off: experienced engineers write less code when sitting near teammates. In national U.S. data, we find evidence that the rise of remote work has had scarring effects on young college graduates. In remotable jobs, young graduates’ unemployment rate increased relative to older graduates’ post-pandemic (2022–2024) compared to pre-pandemic (2017–2019), a pattern we do not observe in non-remotable jobs.",
+            "url": "https://doi.org/10.1093/qje/qjag041",
+            "abstract_en": "Abstract This article constructs the first global data set on intersectoral capital service expenditures. I use these data to disaggregate capital services and intermediate inputs in a dynamic multisector trade model. Steady-state allocations and responses to shocks are determined by a capital-augmented global input-output matrix. Two properties of the measured network deliver larger long-run consumption gains from globalization than existing estimates, as well as larger gains in more capital-intensive countries. First, more trade-exposed sectors supply capital to more consumption-influential producers. Second, heterogeneity in the network reallocates sectoral expenditures toward producers with larger declines in capital rental prices. These reallocations raise capital incomes and lower consumption price indices.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Mental Models of the Stock Market",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/qje/qjag039",
+            "abstract_en": "Abstract Investors’ return expectations are pivotal in stock markets, but the reasoning behind these expectations is not well understood. This article explores economic agents’ mental models of what drives returns. We survey the general population, retail investors, financial professionals, and academic experts to investigate how they forecast and explain future returns in scenarios with stale news about future company earnings. We find that investors strongly disagree in their forecasts and reasoning. Most academic experts view markets as efficient. By contrast, most households express a perspective we call “expected earnings reasoning”: they directly equate higher expected earnings with higher expected returns. Professionals are split between market efficiency, mispricing, and expected earnings reasoning. In detailed experiments, we dissect why households adopt expected earnings reasoning. We show that it arises from inattention to how stock price changes affect investor costs—that is, how much investors must pay to acquire a claim to future cash flows—because the typical format and context of investment problems obscure these cost implications. Our results help connect a series of previously documented anomalies in expectation and trading data and highlight the importance of selective attention and context in shaping reasoning and belief formation.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Public Services Under Private Management",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/qje/qjag028",
-            "abstract_en": "Abstract Theory predicts that outsourcing public services to the private sector can reduce costs and improve efficiency but can also induce cost-cutting and compromise quality. We assess the Brazilian Organizações Sociais de Saude model (OSS), which outsources management of public hospital services to the private sector while the state remains the residual claimant. We show that this enhances hospital production and operational efficiency without adverse effects on hospital quality and equity. Increased inpatient production addresses previously unmet demand, expanding local access to hospital care and reducing population mortality. Performance gains arise from improved operational efficiency achieved through increased hospital management capacity. This facilitates staffing adjustments, favoring higher-skilled personnel, dismissing lower-productivity staff, and adopting flexible, performance-tied employment contracts. Effects are larger among private organizations with more management experience, underscoring returns to managerial capacity. Our findings show that incentive-ownership structures can address the quantity-quality trade-off in public service delivery, even when contracts are incomplete and quality is hard to measure.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The Effects of Mandatory Profit-Sharing on Workers and Firms: Evidence from France",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/qje/qjag022",
-            "abstract_en": "Abstract Since 1967, all French firms with more than 100 employees have been required to share a fraction of their excess profits with their employees. Through this scheme, firms with excess profits distribute, on average, 10.5% of their pretax income to workers. In 1990, the eligibility threshold was reduced to 50 employees. We exploit this regulatory change to identify the effects of mandated profit-sharing on firms and their employees. The cost of mandated profit-sharing for firms is evident in the significant bunching at the 100-employee threshold observed prior to the reform, which completely disappears post-reform. Using a difference-in-differences strategy, we find that at the firm level, mandated profit-sharing (i) increases the labor share by 1.8 percentage points, (ii) reduces the profit share by 1.4 percentage points, and (iii) has small to nonexistent effects on investment and productivity. At the employee level, mandated profit-sharing increases lower-skilled workers’ total compensation and leaves high-skilled workers’ total compensation unchanged. Overall, mandated profit-sharing redistributes excess profits to lower-skilled workers in the firm without generating significant distortions or productivity effects.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Collusion with Optimal Information Disclosure",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/qje/qjag020",
-            "abstract_en": "Abstract Motivated by recent concerns surrounding the use of third-party pricing algorithms by competing firms, we study repeated Bertrand competition where market demand or the cost of serving the market is observed by an intermediary (or “algorithm”) that selectively discloses demand or cost information to maximize firms’ collusive profit. We show that an upper censorship disclosure policy is optimal, which leads to price rigidity and supra-monopoly prices in some states. Improving the algorithm’s accuracy reduces expected consumer surplus whenever it does so under monopoly pricing. When the state is positively correlated over time, the algorithm discloses more information when recent demand was lower or costs were higher. The analysis extends to a generalized model that accommodates product differentiation and capacity constraints. We relate our findings to recent antitrust cases.",
-            "abstract_zh": "",
-            "matched_topics": [
               "产业经济"
             ]
           },
           {
-            "title_en": "Codification, Technology Absorption, and the Globalization of the Industrial Revolution",
+            "title_en": "Global Working Hours",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/qje/qjag021",
-            "abstract_en": "Abstract This article examines the global adoption of technology in the late nineteenth century. We construct several novel data sets to test the idea that the codification of technical knowledge in the vernacular was necessary for countries to absorb the technologies of the first Industrial Revolution. We find that comparative advantage shifted to industries that could benefit from these technologies in countries and colonies with access to codified technical knowledge, but not in other regions. Using the rapid and unprecedented codification of technical knowledge in Meiji Japan as a natural experiment, we show that this pattern emerged only after the Japanese government codified vast amounts of technical knowledge. Our findings shed new light on the frictions associated with technological diffusion and offer a novel explanation for why Meiji Japan was unique among non-Western countries in successfully industrializing during the first wave of globalization.",
+            "url": "https://doi.org/10.1093/qje/qjag030",
+            "abstract_en": "Abstract This article uses labor force surveys from 160 countries to build a new microdatabase on hours worked covering 97% of the world population in cross section. We also construct time series spanning over 20 years in 86 countries. Hours worked per adult slightly decline with GDP per capita but are weakly correlated with development overall. Hours worked by the young (aged 15–19) and elderly (aged 60+) fall with development, driven entirely by growing school attendance and public pension coverage. Hours worked among prime-age adults (aged 20–59) are stable with development but undergo a great gender reshuffling: falling hours per male worker have been exactly offset by increases in female labor force participation in many countries. Labor income taxes are strongly negatively related to hours worked across countries. This correlation is attenuated when controlling for social spending and disappears when further controlling for working hours regulations. Both social spending and working hours regulations are associated with lower hours worked.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "“Compensate the Losers?” Economic Policy and the Origins of U.S. Partisan Realignment",
+            "title_en": "Who Pays for Unions?",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/qje/qjag019",
-            "abstract_en": "Abstract We argue that the Democratic Party’s evolution on economic policy helps explain partisan realignment by education. First, we document that educated Americans differentially oppose “predistribution” (e.g., job guarantees, higher minimum wages, protectionism, and stronger unions), while the educational gradient for redistribution (taxes and transfers) is close to zero. These relationships have been largely unchanged since the 1940s. Second, focusing on politicians and donors as key party actors, we show that the Democratic Party has moved away from predistribution since the 1970s. The number of predistribution bills introduced by Democratic House Speakers has declined by half since the 1970s. Unions—the traditional lobbying force for predistribution—see their share of Democratic Party PAC donations decline from 90% to 40% from 1968 to 1980, following 1970s legislation that facilitated corporate PAC donations. From 1980 onward, the Democrats rely increasingly on individual contributions from educated donors relative to the Republicans. We show the increased reliance on corporate PACs and educated donors is driven by the rise of a self-described “New Democrat’’ faction particularly conservative on predistribution and social issues. Finally, we trace the reaction of voters to these changes in the Democratic Party. Less-educated Americans begin to leave the party in the 1970s, after decades of serving as its base. We also show that in the crucial transition period of the 1970s through 1990s, New Democrat candidates outperform other Democrats among more-educated voters in both survey questions and actual Congressional elections. As the New Democrats are more socially conservative than other Democrats, their success with educated voters suggests that social issues alone cannot explain educational realignment.",
+            "url": "https://doi.org/10.1093/qje/qjag034",
+            "abstract_en": "Abstract If unions raise worker wages, who pays? We provide a comprehensive assessment of firm responses to increased unionization, using changes in the tax deductibility of union dues in Norway as a quasi-exogenous source of variation in firm-level union density. In the average private sector firm, higher union density raises labor costs and leads firms to contract employment and production, lowering profits without increasing the labor share. The incidence is shared: consumers bear part of the cost through higher prices, shareholders through lower profits, and the remainder is offset by productivity improvements. The total wage bill falls, with losses concentrated among less attached “outsider” workers. Firm responses vary systematically by the degree of market competition. In manufacturing, where firms operate in less competitive product and labor markets, the response is reversed: the average firm expands employment and production, reduces labor markdowns, and does not experience profit declines. Instead, higher labor costs are largely passed on to consumers through higher prices, with the remainder offset by productivity gains. Workers benefit as both wages and employment rise. These patterns suggest that unions can offset employer monopsony power and that firm responses—and therefore who ultimately bears the cost—depend importantly on market structure. Overall, unionization in this setting primarily redistributes from consumers rather than shareholders and has effects that differ sharply across firms, including a reallocation toward larger and more productive firms. We rationalize these patterns using a partial-equilibrium model of union bargaining with product- and labor-market power.",
             "abstract_zh": "",
             "matched_topics": [
-              "创新药"
+              "国际贸易",
+              "产业经济"
             ]
           },
           {
-            "title_en": "Peer Effects and the Gender Gap in Corporate Leadership: Evidence from MBA Students",
+            "title_en": "What Jobs Come to Mind? Stereotypes About Fields of Study",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/qje/qjag015",
-            "abstract_en": "Abstract Women continue to be underrepresented in corporate leadership positions. This article studies the role of social connections in women’s career advancement. We investigate whether access to a larger share of female peers in business school affects the gender gap in senior managerial positions. Merging administrative data from a top 10 U.S. business school with public LinkedIn profiles, we first document that female MBAs are 24% less likely than male MBAs to enter senior management within 15 years of graduation. Next we use the exogenous assignment of students into sections to show that a larger proportion of female MBA section peers increases the likelihood of entering senior management for women but not for men. This effect is driven by female-friendly firms, such as those with more generous maternity leave policies and greater work-schedule flexibility. A larger proportion of female MBA peers induces women to transition to these firms where they attain senior management roles. A survey of female MBA alumnae reveals three key mechanisms: (i) information sharing, especially related to gender-specific advice, (ii) higher ambitions and self-confidence, and (iii) increasing support from male MBA peers. These findings highlight the role of social connections in reducing the gender gap in senior management positions.",
+            "url": "https://doi.org/10.1093/qje/qjag031",
+            "abstract_en": "Abstract We test for stereotyping—the exaggeration of representative traits—in a high-stakes economic environment. Using surveys administered among undergraduates at the Ohio State University as well as large-scale nationally representative data, we measure how U.S. first-year students perceive the relationship between college majors and occupations. We show that students greatly overestimate the likelihood that majors lead to their representative jobs (e.g., counselor for psychology, journalist for journalism). Using an implicit association test, we show that students associate majors with their representative careers and that these associations strongly predict belief biases, in line with a stereotyping mechanism. A simple equilibrium model of the labor market predicts that stereotyping reduces welfare by increasing misallocation, which we corroborate with correlational evidence on job/major mismatch. In a field experiment, we test a light-touch policy to reduce stereotyping and find significant effects on students’ intentions about what to study as well as the classes and majors they enroll in.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
@@ -396,7 +396,7 @@
             "title_en": "Illiquid Lemon Markets and the Macroeconomy",
             "title_zh": "",
             "url": "https://doi.org/10.1086/742435",
-            "abstract_en": "We study the macroeconomic implications of asymmetric information in capital markets.We build a quantitative capital-accumulation model in which capital is traded in illiquid markets, with sellers having more information about capital quality than buyers.Asymmetric information distorts the terms of trade for sellers of high-quality capital, who list higher prices and are willing to accept lower trading probabilities to signal their type.Led by the model's predictions, we measure the distortions from asymmetric information by studying the relationship between listed prices and trading probabilities in a unique dataset of individual capital units listed for trade.By combining the empirical measurement with the model, we show that information asymmetries can play a quantitatively large role during economic crises when the degree of asymmetric information deteriorates.",
+            "abstract_en": "We study the macroeconomic implications of asymmetric information in capital markets. We build a quantitative capital-accumulation model in which capital is traded in illiquid markets, with sellers having more information about capital quality than buyers. Asymmetric information distorts the terms of trade for sellers of high-quality capital, who list higher prices and are willing to accept lower trading probabilities to signal their type. Led by the model's predictions, we measure the distortions from asymmetric information by studying the relationship between listed prices and trading probabilities in a unique dataset of individual capital units listed for trade. By combining the empirical measurement with the model, we show that information asymmetries can play a quantitatively large role during economic crises when the degree of asymmetric information deteriorates. Institutional subscribers to the NBER working paper series, and residents of developing countries may download this paper without additional charge at www.nber.org.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
@@ -888,10 +888,10 @@
             ]
           },
           {
-            "title_en": "Persistent global growth differences and euro area adjustment: Real activity, trade and the real exchange rate",
+            "title_en": "Keeping up with the Joneses: FDI, supply chain linkages, and industrial emissions",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104313",
-            "abstract_en": "Since the launch of the euro, the Euro Area has combined weak growth with persistent trade surpluses, a rising trade share, and the absence of a real exchange rate trend. In academic and policy debates, the Euro Area's trade surplus is often viewed as reflecting weak domestic aggregate demand. This paper argues that a purely demand-based view of the trade balance is incomplete. Using an estimated two-region framework, we find that slower productivity growth in the Euro Area has been a major driver of the trade surplus since 1999, while demand shocks play an important role in the rising trade balance following the global financial crisis. We further show that real exchange rate dynamics cannot be understood from productivity growth differentials and aggregate demand shocks alone, but also reflect longer-run shifts in trade patterns.",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104343",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -899,10 +899,10 @@
             ]
           },
           {
-            "title_en": "Keeping up with the Joneses: FDI, supply chain linkages, and industrial emissions",
+            "title_en": "Persistent global growth differences and euro area adjustment: Real activity, trade and the real exchange rate",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104343",
-            "abstract_en": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104313",
+            "abstract_en": "Since the launch of the euro, the Euro Area has combined weak growth with persistent trade surpluses, a rising trade share, and the absence of a real exchange rate trend. In academic and policy debates, the Euro Area's trade surplus is often viewed as reflecting weak domestic aggregate demand. This paper argues that a purely demand-based view of the trade balance is incomplete. Using an estimated two-region framework, we find that slower productivity growth in the Euro Area has been a major driver of the trade surplus since 1999, while demand shocks play an important role in the rising trade balance following the global financial crisis. We further show that real exchange rate dynamics cannot be understood from productivity growth differentials and aggregate demand shocks alone, but also reflect longer-run shifts in trade patterns.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -919,8 +919,8 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 8,
-        "total_in_issue": 24,
+        "matched_count": 9,
+        "total_in_issue": 26,
         "papers": [
           {
             "title_en": "Skill certifications and migrant labor market integration: Experimental evidence from Colombia",
@@ -972,6 +972,16 @@
             "matched_topics": [
               "国际贸易",
               "国际经济"
+            ]
+          },
+          {
+            "title_en": "Gas flaring, agricultural productivity and labor reallocation: Evidence from Nigeria",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103947",
+            "abstract_en": "of the Paper This paper investigates the impact of natural gas flaring—a byproduct of oil production—on agricultural productivity in Nigeria. Using a panel dataset of Nigerian households from the Living Standards Measurement Study (LSMS) spanning 2012–2018, combined with geocoded data on monthly gas flaring volumes from oil fields, the study employs variation in the timing of interview surveys to assess effects of gas flaring during harvest and planting seasons. The analysis focuses on southern Nigeria, where oil production is concentrated, and leverages a 2010 policy reform (Local Content Act) that increased local onshore oil activities and thus gas flaring. The empirical strategy includes fixed effects (household, and region-by-month-by-year) to control for unobserved heterogeneity, weather variables (precipitation and temperature), and an instrumental variable approach using global oil price changes interacted with pre-sample flaring intensity to address endogeneity. Key outcomes measured are real crop yield per hectare and labor productivity (real agricultural output divided by worker-days). The findings reveal significant negative effects during the harvest season, particularly in rainy periods, but minimal impacts during planting. Mechanisms are explored through satellite data on air pollutants, showing elevated levels of black carbon, sulfur dioxide, and nitrogen dioxide in flaring areas. Robustness checks confirm the results against various confounders like conflicts, oil spills, and placebo tests. The paper contributes to literature on the impact of air pollution on worker productivity and crop yields and climate change impacts on agriculture, highlighting policy needs to mitigate environmental costs from extractive industries in developing countries.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           },
           {
@@ -1312,8 +1322,8 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 6,
-        "total_in_issue": 12,
+        "matched_count": 7,
+        "total_in_issue": 13,
         "papers": [
           {
             "title_en": "Gatekeepers and the endogenous design of consumer preferences under personalized pricing",
@@ -1334,6 +1344,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "产业经济"
+            ]
+          },
+          {
+            "title_en": "Contested transparency: Digital monitoring technologies and worker voice",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103322",
+            "abstract_en": "Advances in artificial intelligence and data analytics have notably expanded employers' monitoring and surveillance capabilities, facilitating the accurate observability of work effort. There is an ongoing debate among academics and policymakers about the productivity and broader welfare implications of digital monitoring (DM) technologies. In this context, many countries confer information, consultation and codetermination rights to employee representation (ER) bodies on matters related to the workplace governance of these technologies. Using a cross-sectional sample of more than 21000 European establishments, we document a positive association between ER and the utilization of DM technologies. We also find a positive effect of ER on DM utilization in the context of a local-randomization regression discontinuity analysis that exploits size-contingent policy rules governing the operation of ER bodies in Europe. Finally, in an exploratory analysis, we find a positive association between DM and process innovations, particularly in establishments where ER bodies are present and a large fraction of workers perform jobs that require finding solutions to unfamiliar problems. We interpret these findings through the lens of a labor discipline model in which the presence of ER bodies affect employer's decision to invest in DM technologies.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
             ]
           },
           {
@@ -1385,137 +1405,39 @@
         "query_name": "Research Policy",
         "issn": "0048-7333",
         "resolved_name": "Research Policy",
-        "issue_title": "Volume 55, Issue 10",
+        "issue_title": "Volume 56, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 12,
-        "total_in_issue": 14,
+        "matched_count": 3,
+        "total_in_issue": 3,
         "papers": [
           {
-            "title_en": "Can artificial intelligence accelerate technological progress? Researchers' perspectives on AI in manufacturing and materials science",
+            "title_en": "Innovation adoption across regions: psychological openness and the early diffusion of digital platforms",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105598",
-            "abstract_en": "Artificial intelligence (AI) raises expectations of substantial increases in rates of technological progress, but such anticipations are often not connected to detailed ground-level studies of AI use in innovation processes. Accordingly, it remains unclear how and to what extent AI can accelerate innovation. To help to fill this gap, we explore and assess results from 32 interviews with U.S.-based academic manufacturing and materials sciences researchers experienced with AI and machine learning (ML) techniques. We found that AI was primarily used for modeling of materials and manufacturing processes, facilitating cheaper and more rapid search of design spaces for materials and manufacturing processes alike. Benefits included cost, time, and computation savings in technology development. However, AI/ML tools were unreliable outside design spaces for which dense data were already available; they required skilled and judicious application in tandem with older research techniques; and concerns were raised about the potential to detrimentally circumvent opportunities for disruptive theoretical advancement. Based on these results, we suggest there is reason for optimism about acceleration in sustaining innovations through the use of AI/ML; but that support for conventional empirical, computational, and theoretical research is required to maintain the likelihood of further disruptive advances in manufacturing and materials.",
+            "url": "https://doi.org/10.1016/j.respol.2026.105610",
+            "abstract_en": "Early regional adoption is crucial for platform-enabled innovations because their viability depends on enough people within a region adopting them to generate network effects. Existing research on regional innovation diffusion explains early adoption largely through demographic, economic, infrastructural, or institutional conditions, paying limited attention to regional population psychology. We conceptualize regional psychological openness as an invisible social infrastructure that is relevant for understanding early platform adoption. To test this idea, we introduce a newly curated dataset that allows us to trace the initial development of three major platform innovations (i.e., accommodation sharing platforms, ride-sharing platforms, social media platforms) across hundreds of U.S. metropolitan regions. Across all three platform types, regions differ markedly in early adoption. We link these adoption data to large-scale geo-referenced personality information from millions of U.S. residents ( N = 3,234,899). Results show that regional psychological openness consistently predicts earlier uptake even after accounting for demographic, socio-economic, social, infrastructural, geographical, and other psychological characteristics. In sum, the study advances a behavioral perspective on regional innovation adoption by integrating population psychology into explanations of platform diffusion.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
             ]
           },
           {
-            "title_en": "From academic lab to spinoff: How opportunity beliefs evolve from individual to venture during technology-market matching",
+            "title_en": "External collaboration and local knowledge divergence in regional knowledge spaces",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105585",
-            "abstract_en": "Academic labs are central to the creation of radical-generic technologies. Yet translating these inventions into successful innovations poses a significant challenge as academic scientists often struggle to identify and prioritize viable markets in the early stages of commercialization. This study examines how individual scientists' opportunity beliefs evolve into the shared commercialization strategy of an academic spinoff. Using a longitudinal single-case study of the technology-market matching (TMM) process of a radical-generic technology, we analyze individual and team assessments of eight technology-market combinations over 15 years. We show that opportunity beliefs evolve from an initial emphasis on functional aspects of structural similarity toward an increasing emphasis on commercial viability, eventually integrating balanced similarity considerations. Within TMM, three mechanisms – productive cognitive dissonance, expanded similarity awareness, and team reflexivity – explain how heterogeneous individual beliefs evolve and coalesce into the commercialization strategy of the spinoff. We introduce “simmering-with-the-lab” as an organizational strategy through which latent technology-market options are maintained in the academic lab while the spinoff pursues a narrower set of commercial opportunities. The study advances theory on TMM and organizational learning for deep tech academic spinoffs and has practical implications for science entrepreneurship training, innovation policy, and university IP strategy.",
+            "url": "https://doi.org/10.1016/j.respol.2026.105641",
+            "abstract_en": "This study investigates the association between regional collaboration structures and the semantic position of locally produced scientific knowledge. Drawing on the Regional Innovation Systems framework, it distinguishes between intra-regional and inter-regional collaboration as complementary dimensions of scientific knowledge production. Using over nine million Web of Science publications from European regions between 1998 and 2021, this study employs semantic text embeddings to measure local knowledge divergence, defined as the semantic distance between each publication and the established regional knowledge base. Within the same region–field–period, externally collaborated publication groups exhibit slightly higher average local knowledge divergence than internally collaborated groups. However, the estimated difference is substantively negligible and varies across periods. The principal pooled-sample finding is an inverted U-shaped association between external collaboration share and regional local knowledge divergence, with the fitted curve reaching its maximum at an external collaboration share of approximately 45%. The realised magnitude of this association is modest, and heterogeneity analyses show that it is most pronounced in life sciences and biomedicine and after 2010. These findings identify a context-dependent association rather than a causal or universally optimal collaboration structure, demonstrating how regional scientific collaboration portfolios relate to the evolution of publicly disclosed knowledge trajectories.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
             ]
           },
           {
-            "title_en": "Measuring the production of scientific human capital: New data, methods, and evidence on the U.S. scientific training ecosystem",
+            "title_en": "Who Gains from creative destruction? Evidence from high-quality entrepreneurship in the United States",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105605",
-            "abstract_en": "We develop a dissertation-based methodology for measuring PhD populations and use it to present new evidence on who funds STEM PhD training in the United States, how many graduates are trained in areas of strategic national importance, and the effects of public investment in PhD training on PhD production. The U.S. government is by far the largest source of financial and in-kind support for STEM PhD training in America. We identify universities and fields where PhD training has high rates of government, industry, or philanthropic support, and the organizations and universities that fund and train the most PhDs in critical technology areas such as AI, quantum science, and biotechnology. Leveraging variation in government support across agencies and over time, we provide evidence suggesting that increasing government-funded PhD trainees increases PhD production additively or with modest crowd-in. To support further research, we provide public data at multiple levels of aggregation. These data and methods complement existing data collection efforts by national statistics agencies, producing information which is otherwise hard to collect or not systematically observed, and can be extended forward in time and to other countries.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "医药产业",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Old and connected versus young and creative: Networks and the diffusion of new scientific ideas",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105628",
-            "abstract_en": "The adoption of new ideas is essential for progress and involves innovators, potential adopters, and their networks. We apply natural language processing, network analysis, and a novel fixed effects strategy to study how career age affects idea adoption in coauthorship networks in biomedical science. At short network distances (≤3 steps away), young innovators' ideas are adopted the most while, at greater distances, mid-career innovators' ideas have the highest adoption. The main reason for this contrast is that young potential adopters are disproportionately likely to adopt new ideas introduced by nearby young innovators. Simulations show that the aging of innovators and of potential adopters have comparable effects on the adoption of important new ideas.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "From impact to legitimacy: Communicative responsibility and the governance of research impact",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105639",
-            "abstract_en": "Universities face growing pressure to make clearer the public value of research, yet documented impact does not automatically translate into public recognition or legitimacy. This paper develops the concept of Communicative Responsibility, the institutional and ethical obligation to communicate research outcomes in ways that are legible, accessible, and resonant beyond specialist assessment contexts. Drawing on responsible research literatures, including Responsible Research and Innovation (RRI) and Responsible Research in Business and Management (RRBM), we argue that communication should be treated as a core component of research governance and legitimacy. Empirically, we use the UK Research Excellence Framework (REF) 2021 Impact Database to examine the communicative strengths and limitations of existing impact evidence. REF impact case studies are not the only way to understand research impact, nor are they primarily written for public audiences. However, they offer a useful proxy for examining how impact might be perceived and how it could be shared more effectively. Using mixed methods, we combine qualitative content analysis of 119 purposively sampled Business and Management cases with quantitative text analysis of all 504 non-redacted cases in the field. Findings show diverse impacts generated through collaboration, interdisciplinarity, and international partnerships, but also substantial variation in communicability. Cases that identify beneficiaries, pathways to change, and accessible dissemination routes are better positioned to reduce the impact-recognition gap. We contribute to theorizing Communicative Responsibility as a governance-relevant extension of responsible research. Our findings have wider implications for how universities communicate impact beyond assessment systems.",
+            "url": "https://doi.org/10.1016/j.respol.2026.105642",
+            "abstract_en": "The question of who gains from high-quality entrepreneurship is crucial to understanding whether investments in innovative startup firms produce socially beneficial outcomes. Although entrepreneurship is widely viewed as a central driver of economic growth, recent research has raised concerns that it may also exacerbate inequality and other undesirable social outcomes. We bring new evidence to this debate by analyzing the impact of entrepreneurship on a variety of local economic outcomes, including income inequality, average incomes, and income mobility, using IRS and U.S. Census Bureau microdata. We find that entrepreneurship indeed increases income inequality, although this effect fades in the years after firm founding. While entrepreneurship produces statistically significant income gains across the distribution, the economic magnitude of these effects varies dramatically, with benefits concentrated among top earners. We also find that entrepreneurship can serve as a mobility tool for less well-off individuals, increasing their probability of rising to the top of the income distribution. These income and mobility gains, however, are uneven across demographic groups.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
-            ]
-          },
-          {
-            "title_en": "Towards mission theory: A systematic literature review of its critiques and avenues for progress (2010–2025)",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105634",
-            "abstract_en": "During the last 15 years, researchers and practitioners alike showed a newfound interest in the potential of ‘mission-oriented’ innovation policy to tackle current societal challenges. In this period, the approach prompted multiple reflections and critiques from orthodox and heterodox scholars alike. However, a structured appraisal of this debate has been missing. Untangling its analytical complexity, this paper presents a systematic literature review of 224 articles and book chapters published between 2010 and 2025 to appraise the state-of-the-art debate within ‘mission theory’. Using the PRISMA Protocol and abductive thematic analysis, the paper identifies 18 themes mapped across two analytical dimensions: positioning (identifying either ‘external’ challenges or ‘internal’ gaps within mission theory); and layering (identifying challenges and gaps based on a ‘foundational’, ‘theoretical’, or ‘empirical’ ground). Building on the findings, the paper reflects on the sociological conditions preventing the progress of mission theory in contemporary research efforts – ultimately calling for greater epistemological reflexivity in the strategies adopted by researchers and practitioners to develop avenues for its further progress.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Dynamic platform strategies in an interconnected ecosystem: Navigating standards and complements in the emerging smart home ecosystem",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105609",
-            "abstract_en": "Whereas prior platform research has mostly assumed standardized interfaces that are platform-specific, we examine how platform strategies based on third-party standards have become prevalent in a nascent ecosystem. Based on a longitudinal analysis of 97 smart home platforms, we analyze the value creation and capture benefits of four platform modes defined by two dimensions: the source of complements (first- or third-party complements) and the standardized interfaces used to connect these complements (first- or third-party standards). Our analysis demonstrates a trend from closed strategies (only first-party complements based on first-party standards) towards strategies that (also) rely on third-party standards. We find that startups and diversifying entrants make different strategic choices at entry and that firms increasingly combine platform modes over time to leverage their distinct value creation and capture benefits. Our findings contribute insights into the ecosystem conditions and pre-entry capabilities of firms under which strategies relying on third-party standards become viable and how this contributes to the proliferation of standards, platforms, and strategies in an ecosystem. We also theorize the time-dependent strategic choices of entrants navigating a nascent ecosystem and the complex complementary and competitive relations that emerge in an ecosystem with interconnected platforms as a result.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Immigration and firm innovation: Evidence from Finnish manufacturing",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105603",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Bridging the gap: A scalable approach to measuring social innovation capacity",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105629",
-            "abstract_en": "As governments increasingly turn to social innovation to address complex societal and environmental challenges, the lack of robust, scalable measurement frameworks continues to limit the effectiveness of relevant policies. Without such tools, it remains difficult to assess regional capacities, evaluate outcomes, and design targeted interventions that foster societal resilience and adaptability. This paper introduces a novel index of regional social innovation capacity, which is defined as a region's ability to develop, implement, and sustain social innovations. Drawing conceptually from the technological innovation literature, the index integrates multidimensional inputs for social innovation capacity using publicly available data and has been externally validated through an empirical analysis of social innovation activities published on German company websites. By employing regional planning areas as the unit of analysis, our framework enables cross-regional comparison while preserving local specificity. It also advances the measurability, visibility, and accountability of social innovation, offering policymakers an evidence-based tool for strategic resource allocation. From an academic perspective, the index bridges fragmented approaches across disciplines and contributes to a more coherent, comparative, policy-relevant social innovation research agenda.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Combining digital and green technologies in regions: How to close the gap with respect to the frontier?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105636",
-            "abstract_en": "This paper focuses on the combination of green and digital technologies at the regional level. Using patent data, we put forward an original measurement of the regional speed of a new green-digital (i.e. twin) combination: the temporal distance between the time at which a combination is realised for the first time in the frontier region and the time at which this same combination is accomplished in the focal region. We proceed by investigating the drivers and the technological impact related to this speed. We find that the speed of combination is enhanced by dealing with broad twin technologies and by recombining more diverse prior knowledge to do that. The speed at which the gap is closed, also crucially depends on the interdependencies between green and digital local domains, captured by the overlap in their regional knowledge bases. Counterintuitively, the longer their combination paths, the faster regions combine green and digital technologies. Finally, we find that the earlier the first regional green-digital combinations happen, the greater is their impact on subsequent inventions, while the impact of all regional green-digital combinations is apparently lower. Overall, these results are discussed in terms of policy recommendations, given the high attention placed by policymakers on the twin transition.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Between expectations and outcomes: Technology adopters' narratives and technology discourse dynamics",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105622",
-            "abstract_en": "Expectations propel the evolution of emerging technologies, yet existing research generally assumes that expectations are gradually displaced by concrete outcomes as technologies mature and become widely accepted. We revisit this assumption by examining how technology adopters' temporal framings of technology performance, their expressions of concrete outcomes of technology adoption, and the broader technology discourse reflected in trade-press coverage relate to one another over time. We illuminate these patterns by tracing 21 years (2002−2022) of radio-frequency identification (RFID) adoption and analysing adopters' statements in 407 case stories published in The RFID Journal, coupled with a longitudinal corpus of trade-press coverage from the same period. Manual coding of adopters' expressions of concrete realised benefits and challenges in the case stories is combined with a purpose-built dictionary that detects five temporal positions in adopters' framings of RFID performance. We find that associations between concrete outcomes and temporal framings are selective and stage-dependent. Concrete outcomes do not simply replace expectations, instead, they become associated with specific temporal framings over time. We also find that adopters' temporal framings are associated with trade-press coverage in stage-specific ways that change over time, often amplifying but also sometimes tempering broader attention to RFID. We contribute to research on technology framing and expectations dynamics by foregrounding adopters as co-constructors of technology discourse, challenging the displacement assumption with a stage-sensitive explanation of expectation–outcome dynamics, and introducing a replicable, dictionary-based approach for large-scale analysis of temporal framings in technology narratives.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Firms' board diversity and radical innovation: mediation mechanism of firms' attention to digital transformation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105627",
-            "abstract_en": "This study integrates board information processing theory with the attention-based view to examine how board diversity affects radical innovation through an organizational attention pathway. We argue that board diversity shapes firms' attention to digital transformation (FADT), which in turn promotes radical innovation, and that industry competition conditions this process by heightening the urgency of attending to digital opportunities. Using longitudinal data from 2556 publicly listed Chinese firms from 2008 to 2019, we find that board diversity has an inverted U-shaped relationship with FADT and that FADT positively affects radical innovation. FADT thus mediates the inverted U-shaped relationship between board diversity and radical innovation, producing an inverted U-shaped indirect effect. Industry competition strengthens the relationship between board diversity and FADT, making this indirect effect more pronounced in competitive environments. These findings clarify how board diversity contributes to radical innovation by directing organizational attention toward digital transformation and show why moderate diversity is especially valuable when firms face strong competitive pressure.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
             ]
           }
         ],
@@ -1658,17 +1580,6 @@
             ]
           },
           {
-            "title_en": "Does Agglomeration Enhance Property Value?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.02773",
-            "abstract_en": "Does agglomeration within a building and/or neighborhood enhance or weaken property value? The valuation impact is unclear ex ante, given that agglomeration tradesoff enhanced productivity at the expense of a more concentrated tenant base. We find that a value premium exists only when agglomeration at both the building and neighborhood levels consists of firms in the same industry. This premium represents capitalized knowledge spillover externalities. Additionally, we show the stock market rewards real estate investment trusts that transact specialized buildings. The valuation consequences arising from agglomeration in the underlying real estate market are thus consistent with the public real estate market. This paper was accepted by Tomasz Piskorski, finance. Funding: This work was supported by the Real Estate Research Institute. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02773 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
             "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2022.02785",
@@ -1677,6 +1588,17 @@
             "matched_topics": [
               "国际贸易",
               "创新药"
+            ]
+          },
+          {
+            "title_en": "Does Agglomeration Enhance Property Value?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.02773",
+            "abstract_en": "Does agglomeration within a building and/or neighborhood enhance or weaken property value? The valuation impact is unclear ex ante, given that agglomeration tradesoff enhanced productivity at the expense of a more concentrated tenant base. We find that a value premium exists only when agglomeration at both the building and neighborhood levels consists of firms in the same industry. This premium represents capitalized knowledge spillover externalities. Additionally, we show the stock market rewards real estate investment trusts that transact specialized buildings. The valuation consequences arising from agglomeration in the underlying real estate market are thus consistent with the public real estate market. This paper was accepted by Tomasz Piskorski, finance. Funding: This work was supported by the Real Estate Research Institute. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02773 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
             ]
           },
           {
@@ -1711,6 +1633,16 @@
             ]
           },
           {
+            "title_en": "Female Equity Analysts and Corporate Environmental and Social Performance",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.06429",
+            "abstract_en": "This paper examines the impact of female analyst coverage on firms’ environmental and social (E&S) performance. Exploiting broker closures as a quasi-exogenous shock to analyst coverage, we find that firms experiencing an exogenous decline in female analyst coverage subsequently show a significantly larger drop in E&S scores than those experiencing an equivalent decline in male analyst coverage. To explore the underlying mechanisms, we develop novel machine-learning models to analyze more than 2.4 million analyst reports and 120,000 earnings call transcripts. Our analysis shows that, compared with their male counterparts, female analysts are more likely to address E&S issues, particularly those involving regulatory compliance, stakeholders, and the environment, in both research reports and earnings conference calls. They also display distinct cognitive and linguistic patterns when discussing E&S issues. Furthermore, female analysts are more likely to issue lower stock recommendations and target prices (lower stock recommendations) following negative E&S discussions in their reports (E&S incidents) than male analysts. Finally, investors respond more strongly to female analysts’ negative tones when discussing E&S issues. Overall, our findings suggest that gender diversity among analysts plays a significant role in shaping corporate E&S practices and provide new insights into the origins of gender differences in skills within the equity analyst profession. This paper was accepted by Will Cong, finance. Funding: We acknowledge financial support from the Social Sciences and Humanities Research Council of Canada [Grant 435-2022-0285] and the Sauder Exploratory Research Grants Program. K. Li acknowledges financial support from the Canada Research Chair in Corporate Governance. T. Zhang acknowledges data support from the Whitcomb Center for Research in Financial Services at Rutgers University. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06429 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Do Financial Advisors Charge Sustainable Investors a Premium?",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2025.00232",
@@ -1728,16 +1660,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Female Equity Analysts and Corporate Environmental and Social Performance",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.06429",
-            "abstract_en": "This paper examines the impact of female analyst coverage on firms’ environmental and social (E&S) performance. Exploiting broker closures as a quasi-exogenous shock to analyst coverage, we find that firms experiencing an exogenous decline in female analyst coverage subsequently show a significantly larger drop in E&S scores than those experiencing an equivalent decline in male analyst coverage. To explore the underlying mechanisms, we develop novel machine-learning models to analyze more than 2.4 million analyst reports and 120,000 earnings call transcripts. Our analysis shows that, compared with their male counterparts, female analysts are more likely to address E&S issues, particularly those involving regulatory compliance, stakeholders, and the environment, in both research reports and earnings conference calls. They also display distinct cognitive and linguistic patterns when discussing E&S issues. Furthermore, female analysts are more likely to issue lower stock recommendations and target prices (lower stock recommendations) following negative E&S discussions in their reports (E&S incidents) than male analysts. Finally, investors respond more strongly to female analysts’ negative tones when discussing E&S issues. Overall, our findings suggest that gender diversity among analysts plays a significant role in shaping corporate E&S practices and provide new insights into the origins of gender differences in skills within the equity analyst profession. This paper was accepted by Will Cong, finance. Funding: We acknowledge financial support from the Social Sciences and Humanities Research Council of Canada [Grant 435-2022-0285] and the Sauder Exploratory Research Grants Program. K. Li acknowledges financial support from the Canada Research Chair in Corporate Governance. T. Zhang acknowledges data support from the Whitcomb Center for Research in Financial Services at Rutgers University. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06429 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
             ]
           }
         ],
@@ -1788,10 +1710,12 @@
             "title_en": "The judgment-based approach to entrepreneurship: The uncertainty–heterogeneity nexus",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jbusvent.2026.106660",
-            "abstract_en": "",
+            "abstract_en": "The judgment-based approach (JBA) has emerged as an important contemporary perspective in management and entrepreneurship research. The JBA offers a distinctive theoretical account of entrepreneurship, centered on the formation and implementation of subjective theories of value creation under conditions of Knightian uncertainty, which highlights resource ownership, heterogeneous capital structure, organization and the firm, institutions, uncertainty, and the overarching need to appraise and coordinate all these factors using judgment. We present and develop the JBA by articulating the uncertainty–heterogeneity nexus, in which the joint presence of fundamental uncertainty and heterogeneous resources gives rise to the need for entrepreneurial judgment and makes its exercise economically consequential. Because judgment is subjective, tacit, and difficult to communicate or contract upon, entrepreneurs must rely on ownership and residual control rights to create value, linking judgment to the combination and deployment of resources, profit and loss, and organizational structure. The purpose of this article is threefold. First, we provide a systematic statement of the JBA as a theoretical framework, clarifying its core constructs, causal mechanisms, and domain of application. Second, we engage with key critiques and distinguish the JBA from related approaches, including opportunity-based, effectuation, and bricolage perspectives. Third, we outline directions for future research that build on the JBA's emphasis on judgment, ownership, and the organization and deployment of heterogeneous resources under uncertainty. By integrating these elements, we position the JBA as a coherent and distinctive theory of entrepreneurship with broad implications for research in management, organization, and strategy.",
             "abstract_zh": "",
             "matched_topics": [
-              "企业创新"
+              "国际贸易",
+              "企业创新",
+              "创新药"
             ]
           },
           {
@@ -1883,6 +1807,16 @@
             ]
           },
           {
+            "title_en": "Building sustainable futures: The micro-foundational dynamics behind energy community ecosystem",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103743",
+            "abstract_en": "Energy Communities (ECs) are increasingly recognized as collaborative ecosystems that support energy transition. However, existing research has predominantly explained their emergence from macro- and meso-level perspectives, offering limited insight into micro-level mechanisms. Although broader ecosystem research has only recently begun to explain ecosystem-level outcomes from a micro-level perspective, treating individuals as the primary unit of analysis, it has paid limited attention to the relational mechanisms through which individual actions and interactions contribute to ecosystem emergence. To address this gap, this study adopts a microfoundational perspective to examine the creation and development of an energy community ecosystem through an in-depth qualitative case study conducted in Southern Italy. Drawing on semi-structured interviews triangulated with multiple documentary sources analyzed through Reflexive Thematic Analysis, the findings identify three relational microfoundational mechanisms, namely micro-level collaborative initiatives, micro-relational engagement toward cultural change, and relation-driven energy inclusion that explain how energy community ecosystems progressively emerge from individual actions and interactions across the ideation, formalization, and growth phases. The study advances the explanatory capacity of the microfoundational perspective by extending its application to energy community ecosystems, providing actionable insights for designing inclusive, context-sensitive interventions tailored to different phases of ecosystem development.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Design longevity: Institutional lock-in and the Toyota Crown Comfort taxi",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103729",
@@ -1935,16 +1869,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Using leverage points to identify interventions for transitioning the Dutch road infrastructure sector toward sustainability",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103713",
-            "abstract_en": "The transition toward sustainability in infrastructure sectors requires interventions that address systemic lock-ins rather than isolated technological improvements. However, innovation ecosystem research offers only limited guidance on how public-sector-driven ecosystems can be intentionally steered toward sustainability under conditions of structural inertia. This study employs Donella Meadows’ leverage points framework to identify and categorize potential systemic interventions in the Dutch road infrastructure innovation ecosystem. Using an action-oriented research design conducted over 1.5 years with public clients, contractors, and knowledge institutions, the study identifies 25 interventions across five thematic areas. The findings show that interventions predominantly target system design and feedback structures, the strengthening of governance, foresight, and integration capabilities rather than focusing on parameter-level change. This highlights how transformations in public-sector innovation ecosystems emerge through the gradual reconfiguration of rules, information flows, and coordination mechanisms. The study contributes to innovation ecosystem research by demonstrating how leverage points can be used to guide and structure ecosystem-level intervention strategies and support deliberate steering of public-sector-driven innovation ecosystems toward sustainability.",
-            "abstract_zh": "",
-            "matched_topics": [
               "企业创新"
             ]
           }
@@ -2099,9 +2023,20 @@
         "resolved_name": "Journal of Health Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
-        "matched_count": 1,
-        "total_in_issue": 7,
+        "matched_count": 2,
+        "total_in_issue": 10,
         "papers": [
+          {
+            "title_en": "Place-based variation in health care: evidence from mandatory movers in the U.S. military health system",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jhealeco.2026.103192",
+            "abstract_en": "There is increasing evidence on regional variations in US Medicare health care utilization based on older patients who move. Yet moving for the elderly population is typically endogenous, and evidence is limited for younger populations. In this paper, we harness the mandatory migration of military personnel to estimate supply and demand factors in a system of care for younger enrollees in which military physicians are salaried and copayments and deductibles are negligible. Our preferred estimates imply that supply effects explain between one-half and two-thirds of overall regional variation. These variations cannot be explained by differences in quality of care, but appear consistent with location-specific differences in physician beliefs. We are grateful for financial support from the Department of Defense (DoD) (Award HT94022210005) and for very helpful comments from Amy Finkelstein, Robert Kaestner, Edward Norton, two anonymous reviewers, and the editor. The contents, views or opinions expressed in this publication or presentation are those of the author(s) and do not necessarily reflect official policy or position of Uniformed Services University of the Health Sciences, the DoD, or Departments of the Army, Navy, or Air Force. Mention of trade names, commercial products, or organizations does not imply endorsement by the U.S. Government.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
           {
             "title_en": "Do Higher-Cost Settings Deliver Better Outcomes? Post-Acute Care Efficiency in Medicare Skilled Nursing Facilities and Home Health Agencies",
             "title_zh": "",
