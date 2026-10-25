@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-18 09:22:48",
+  "updated_at": "2026-10-25 09:41:03",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 347,
+    "fail_count": 331,
     "failed_examples": [
       "Who Marries Whom? The Role of Segregation by Race and Class :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "Americans rarely marry outside their race or class group, a pattern with well-do :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
@@ -356,50 +356,61 @@
         "query_name": "Journal of Political Economy",
         "issn": "0022-3808",
         "resolved_name": "Journal of Political Economy",
-        "issue_title": "Volume 134, Issue 9",
+        "issue_title": "Volume 134, Issue 10",
         "issue_url": "https://www.journals.uchicago.edu/journals/jpe",
-        "matched_count": 4,
+        "matched_count": 5,
         "total_in_issue": 11,
         "papers": [
           {
-            "title_en": "From Doubt to Devotion: Trials and Learning-Based Pricing",
+            "title_en": "Online Business Models, Digital Ads, and User Welfare",
             "title_zh": "",
-            "url": "https://doi.org/10.1086/742434",
-            "abstract_en": "An informed seller designs a dynamic mechanism to sell an experience good. The seller has partial information about the product match, which affects the buyer's private consumption experience. We characterize equilibrium mechanisms of this dynamic informed principal problem. The belief gap between the informed seller and the uninformed buyer, coupled with the buyer's learning, gives rise to mechanisms that provide the skeptical buyer with limited access to the product and an option to upgrade if the buyer is swayed by a good experience. Depending on the seller's screening technology, this takes the form of free/discounted trials or tiered pricing, which are prevalent in digital markets. In contrast to static environments, having consumer data can reduce sellers' revenue in equilibrium, as they fine-tune the dynamic design with their data forecasting the buyer's learning process.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Markups: A Search-Theoretic Perspective",
-            "title_zh": "",
-            "url": "https://doi.org/10.1086/742420",
-            "abstract_en": "I derive a formula for the equilibrium distribution of markups in the search-theoretic model of imperfect competition of Butters (1977), Varian (1980), and Burdett andJudd (1983).The level of markups and the sign of the relationship between a seller's markup and its size depends on the extent of search frictions, as well as on other deep parameters.Markups are efficient.Markups are positive even though the varieties produced by sellers are perfect substitutes.Markups are heterogeneous even when all sellers operate the same production technology.Markups depend on size, even though the substitutability between a variety and the others does not depend on how much of that variety is consumed.Interpreting these markups through the lens of the monopolistic competition model of Dixit and Stiglitz (1977) would lead one to recover incorrect and unstable buyers' preferences.Interpreting these markups through the lens of the Dixit-Stiglitz model would also leads to incorrect policy recommendations.These results are a cautionary note on recent work in macroeconomics.",
+            "url": "https://doi.org/10.1086/742715",
+            "abstract_en": "We present a model where social media platforms offer plans that intermix entertaining content with digital advertising (“ads”). Users derive utility from entertainment and learn about their valuation for a product from ads. While some users are fully rational, others naïvely perceive digital ads as more informative than they actually are. We characterize the profit-maximizing business model of the platform and show that welfare is lower when the platform monetizes through advertising instead of subscription both for naïfs (because they are targeted by intense digital advertising, which makes them over-optimistic about product quality and over-purchase the product) and for sophisticates (because the inflated demand from naïfs increases the firm’s price). This negative welfare effect is intensified when the platform can offer mixed business models that separate the naïve and sophisticated users into different plans. Our results are robust to firm-level and platform-level competition, because digital ads soften competition between both firms and platforms. We also show how digital ad taxes can improve welfare. Institutional subscribers to the NBER working paper series, and residents of developing countries may download this paper without additional charge at www.nber.org.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Optimal Tests Following Sequential Experiments",
+            "title_en": "The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining",
             "title_zh": "",
-            "url": "https://doi.org/10.1086/742418",
-            "abstract_en": "Recent years have seen tremendous advances in the theory and application of sequential experiments. While these experiments are not always designed with hypothesis testing in mind, researchers may still be interested in performing tests after the experiment is completed. The purpose of this paper is to aid in the development of optimal tests for sequential experiments by analyzing their asymptotic properties. Our key finding is that the asymptotic power function of any test can be matched by a test in a limit experiment where a Gaussian process is observed for each treatment, and inference is made for the drifts of these processes. This result has important implications, including a powerful sufficiency result: any candidate test only needs to rely on a fixed set of statistics, regardless of the type of sequential experiment. These statistics are the number of times each treatment has been sampled by the end of the experiment, along with final value of the score (for parametric models) or efficient influence function (for non-parametric models) process for each treatment. We then characterize asymptotically optimal tests under various restrictions such as unbiasedness, α-spending constraints etc. Finally, we apply our our results to three key classes of sequential experiments: costly sampling, group sequential trials, and bandit experiments, and show how optimal inference can be conducted in these scenarios.",
+            "url": "https://doi.org/10.1086/742712",
+            "abstract_en": "In this paper we provide new estimates of the impact of unions on nonunion wage setting. We allow the presence of unions to affect nonunion wages both through the typically discussed channel of nonunion firms emulating union wages in order to fend off the threat of unionisation and through a bargaining channel in which nonunion workers use the presence of union jobs as part of their outside option. We specify these channels in a search and bargaining model that includes union formation and, in our most complete model, the possibility of nonunion firm responses to the threat of unionisation. Our results indicate an important role played by union wage spillovers in lowering wages over the 1980-2010 period. We find de-unionisation can account for 38% of the decline in the mean hourly wage between 1980 and 2010, with two-thirds of that effect being due to spillovers. Both the traditional threat and bargaining channels are operational, with the bargaining channel being more important.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Illiquid Lemon Markets and the Macroeconomy",
+            "title_en": "Environmental Consequences of Hydrocarbon Infrastructure Policy",
             "title_zh": "",
-            "url": "https://doi.org/10.1086/742435",
-            "abstract_en": "We study the macroeconomic implications of asymmetric information in capital markets. We build a quantitative capital-accumulation model in which capital is traded in illiquid markets, with sellers having more information about capital quality than buyers. Asymmetric information distorts the terms of trade for sellers of high-quality capital, who list higher prices and are willing to accept lower trading probabilities to signal their type. Led by the model's predictions, we measure the distortions from asymmetric information by studying the relationship between listed prices and trading probabilities in a unique dataset of individual capital units listed for trade. By combining the empirical measurement with the model, we show that information asymmetries can play a quantitatively large role during economic crises when the degree of asymmetric information deteriorates. Institutional subscribers to the NBER working paper series, and residents of developing countries may download this paper without additional charge at www.nber.org.",
+            "url": "https://doi.org/10.1086/742713",
+            "abstract_en": "The U.S. shale boom has profoundly increased crude oil movements by both pipelines-the traditional mode of transportation-and railroads.This paper develops a model of how pipeline investment and railroad use are determined in equilibrium, emphasizing how railroads' flexibility allows them to compete with pipelines.We show that policies that address crude-by-rail's environmental externalities by increasing its costs should lead to large increases in pipeline investment and substitution of oil flows from rail to pipe.Similarly, we find that policies enjoining pipeline construction would cause 80-90% of the displaced oil to flow by rail instead.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易"
+              "医药产业",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Why Is Intermediating Houses So Difficult? Evidence from iBuyers",
+            "title_zh": "",
+            "url": "https://doi.org/10.1086/742710",
+            "abstract_en": "We study the frictions in dealer-intermediation in residential real estate through the lens of \"iBuyers,\" technology entrants, who purchase and sell residential real estate through online platforms.iBuyers supply liquidity to households by allowing them to avoid a lengthy sale process.They sell houses quickly and earn a 5% spread.Their prices are well explained by a simple hedonic model, consistent with their use of algorithmic pricing.iBuyers choose to intermediate in markets that are liquid, and in which automated valuation models have low pricing error.These facts suggest that iBuyers' speedy offers may come at the cost of information loss concerning house attributes that are difficult to capture in an algorithm, resulting in adverse selection.We calibrate a dynamic structural search model with adverse selection to understand and quantify the economic forces underlying the tradeoffs of dealer intermediation in this market.The model reveals the central tradeoff to intermediating in residential real estate.To provide valuable liquidity service, transactions must be closed quickly.Yet, the intermediary must also be able to price houses accurately to avoid adverse selection, which is difficult to accomplish quickly.We find that low underlying liquidity exacerbates adverse selection.Our analysis suggests that iBuyers' technology provides a middle ground: they can transact quickly limiting information loss.Even with this technology, intermediation is only profitable in the most liquid and easy to value houses.Therefore, iBuyers' technology allows them to supply liquidity, but only in pockets where it is relatively least valuable.We also find limited scope for dealer intermediation even with improved pricing technology, suggesting that underlying liquidity will be an impediment for intermediation in the future.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Peer Effects and Rank Concerns in the Classroom",
+            "title_zh": "",
+            "url": "https://doi.org/10.1086/742714",
+            "abstract_en": "I examine how disruptions to students' environments propagate to their classmates to understand the mechanisms behind peer interactions in the classroom.I combine administrative and survey data from Chile with detailed measures of housing damages from the 2010 earthquake, one of the most violent ever recorded.Damages to a student's own home reduced achievement and raised self-reported cost of study effort.Average damages among classmates induced schools to reallocate resources towards student support and increased achievement.In contrast, dispersion in classmates' damages had heterogeneous achievement effects across the prior performance distribution, which schools did not appear to mitigate, pointing to peer interactions.Motivated by evidence suggesting students value classroom rank, I show that a game-of-status model of competition for grades rationalizes the findings.The results suggest that, beyond production complementarities and a desire to conform, a desire to compete could shape peer effects on learning.2 Examples of studies using naturally occurring exogenous variation in peer characteristics to account for confounding effects are Hoxby (2000); Angrist and Lang (2004); Hoxby and Weingarth (2005); Lavy, Paserman, and Schlosser (2012); Imberman, Kugler, and Sacerdote (2012).3 I gratefully acknowledge Prof. Sergio Ruiz of the Geology Department at the University of Chile, a leading expert on the seismic vulnerability of Chilean buildings, for feedback on the damage measure.The measure falls within Deterministic Earthquake Loss Estimation, which aims to estimate losses from a specific seismic event.It stands in contrast to Probabilistic Earthquake Loss Estimation, which aims to predict potential losses from many possible seismic events (McGuire (2004)).",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           }
         ],
@@ -815,6 +826,16 @@
             ]
           },
           {
+            "title_en": "Horizontal regulatory barriers in international trade: Evidence from electric plugs",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104312",
+            "abstract_en": "Domestic policies regulating the horizontal dimensions of product differentiation can impede international trade and have become a major concern in contemporary trade negotiations. We estimate trade frictions associated with incompatible designs of electric plugs, a well-known example of a horizontal regulatory barrier. Our findings indicate that fewer electronic devices are exported to destinations with incompatible electric plugs, and this effect operates through both the extensive margin and the intensive margin of exports. These results are further corroborated by an online survey of Chinese electronics exporters. Moreover, incompatible plugs are associated with lower average quality of exported electronic devices, suggesting that horizontal regulatory barriers are linked to variation in the vertical dimension of product differentiation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
             "title_en": "The extensive margin of restructuring: Adoption of new work in a global economy",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104326",
@@ -833,16 +854,6 @@
             "matched_topics": [
               "国际贸易",
               "国际经济"
-            ]
-          },
-          {
-            "title_en": "Horizontal regulatory barriers in international trade: Evidence from electric plugs",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104312",
-            "abstract_en": "Domestic policies regulating the horizontal dimensions of product differentiation can impede international trade and have become a major concern in contemporary trade negotiations. We estimate trade frictions associated with incompatible designs of electric plugs, a well-known example of a horizontal regulatory barrier. Our findings indicate that fewer electronic devices are exported to destinations with incompatible electric plugs, and this effect operates through both the extensive margin and the intensive margin of exports. These results are further corroborated by an online survey of Chinese electronics exporters. Moreover, incompatible plugs are associated with lower average quality of exported electronic devices, suggesting that horizontal regulatory barriers are linked to variation in the vertical dimension of product differentiation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
             ]
           },
           {
@@ -888,10 +899,10 @@
             ]
           },
           {
-            "title_en": "Keeping up with the Joneses: FDI, supply chain linkages, and industrial emissions",
+            "title_en": "Persistent global growth differences and euro area adjustment: Real activity, trade and the real exchange rate",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104343",
-            "abstract_en": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104313",
+            "abstract_en": "Since the launch of the euro, the Euro Area has combined weak growth with persistent trade surpluses, a rising trade share, and the absence of a real exchange rate trend. In academic and policy debates, the Euro Area's trade surplus is often viewed as reflecting weak domestic aggregate demand. This paper argues that a purely demand-based view of the trade balance is incomplete. Using an estimated two-region framework, we find that slower productivity growth in the Euro Area has been a major driver of the trade surplus since 1999, while demand shocks play an important role in the rising trade balance following the global financial crisis. We further show that real exchange rate dynamics cannot be understood from productivity growth differentials and aggregate demand shocks alone, but also reflect longer-run shifts in trade patterns.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -899,10 +910,10 @@
             ]
           },
           {
-            "title_en": "Persistent global growth differences and euro area adjustment: Real activity, trade and the real exchange rate",
+            "title_en": "Keeping up with the Joneses: FDI, supply chain linkages, and industrial emissions",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104313",
-            "abstract_en": "Since the launch of the euro, the Euro Area has combined weak growth with persistent trade surpluses, a rising trade share, and the absence of a real exchange rate trend. In academic and policy debates, the Euro Area's trade surplus is often viewed as reflecting weak domestic aggregate demand. This paper argues that a purely demand-based view of the trade balance is incomplete. Using an estimated two-region framework, we find that slower productivity growth in the Euro Area has been a major driver of the trade surplus since 1999, while demand shocks play an important role in the rising trade balance following the global financial crisis. We further show that real exchange rate dynamics cannot be understood from productivity growth differentials and aggregate demand shocks alone, but also reflect longer-run shifts in trade patterns.",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104343",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -919,9 +930,19 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 9,
-        "total_in_issue": 26,
+        "matched_count": 11,
+        "total_in_issue": 29,
         "papers": [
+          {
+            "title_en": "Educational legacies of christian missions: Evidence from the Democratic Republic of the Congo",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103950",
+            "abstract_en": "This paper investigates the educational legacies of Christian missions established before independence, in the Democratic Republic of the Congo, focusing on contemporary disparities in educational content, quality, access, and outcomes. Using georeferenced data from over 20,000 schools and two million students participating in the Examen National d'État (Exetat) between 2016 and 2019, as well as primary data from a phone survey of 624 school directors, we explore how proximity to Catholic and Protestant missions during the colonial period influences educational opportunities today. We find that schools near historical Christian missions offer a broader and higher-quality curriculum, with increased access to study tracks outside the basic Pedagogy section. Students attending these schools are more likely to pass the Exetat and achieve grades qualifying for university admission, although the magnitude of the effect is modest. Supply-side factors, such as better infrastructure and more conducive school environments, explain half of the missionary proximity premium, while demand-side mechanisms, including students' sorting and selection account for additional variation. Our findings reveal that the strong partnership between missions and the colonial state entrenched spatial inequalities in educational access and quality, inequalities that persist to this day.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
           {
             "title_en": "Skill certifications and migrant labor market integration: Experimental evidence from Colombia",
             "title_zh": "",
@@ -964,6 +985,16 @@
             ]
           },
           {
+            "title_en": "Gas flaring, agricultural productivity and labor reallocation: Evidence from Nigeria",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103947",
+            "abstract_en": "of the Paper This paper investigates the impact of natural gas flaring—a byproduct of oil production—on agricultural productivity in Nigeria. Using a panel dataset of Nigerian households from the Living Standards Measurement Study (LSMS) spanning 2012–2018, combined with geocoded data on monthly gas flaring volumes from oil fields, the study employs variation in the timing of interview surveys to assess effects of gas flaring during harvest and planting seasons. The analysis focuses on southern Nigeria, where oil production is concentrated, and leverages a 2010 policy reform (Local Content Act) that increased local onshore oil activities and thus gas flaring. The empirical strategy includes fixed effects (household, and region-by-month-by-year) to control for unobserved heterogeneity, weather variables (precipitation and temperature), and an instrumental variable approach using global oil price changes interacted with pre-sample flaring intensity to address endogeneity. Key outcomes measured are real crop yield per hectare and labor productivity (real agricultural output divided by worker-days). The findings reveal significant negative effects during the harvest season, particularly in rainy periods, but minimal impacts during planting. Mechanisms are explored through satellite data on air pollutants, showing elevated levels of black carbon, sulfur dioxide, and nitrogen dioxide in flaring areas. Robustness checks confirm the results against various confounders like conflicts, oil spills, and placebo tests. The paper contributes to literature on the impact of air pollution on worker productivity and crop yields and climate change impacts on agriculture, highlighting policy needs to mitigate environmental costs from extractive industries in developing countries.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
             "title_en": "FDI spillovers in history: Interwar Japanese “Zaikabo” investment in China's cotton spinning industry",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103925",
@@ -975,13 +1006,13 @@
             ]
           },
           {
-            "title_en": "Gas flaring, agricultural productivity and labor reallocation: Evidence from Nigeria",
+            "title_en": "Detecting tariff evasion: Evidence from matched container data",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103947",
-            "abstract_en": "of the Paper This paper investigates the impact of natural gas flaring—a byproduct of oil production—on agricultural productivity in Nigeria. Using a panel dataset of Nigerian households from the Living Standards Measurement Study (LSMS) spanning 2012–2018, combined with geocoded data on monthly gas flaring volumes from oil fields, the study employs variation in the timing of interview surveys to assess effects of gas flaring during harvest and planting seasons. The analysis focuses on southern Nigeria, where oil production is concentrated, and leverages a 2010 policy reform (Local Content Act) that increased local onshore oil activities and thus gas flaring. The empirical strategy includes fixed effects (household, and region-by-month-by-year) to control for unobserved heterogeneity, weather variables (precipitation and temperature), and an instrumental variable approach using global oil price changes interacted with pre-sample flaring intensity to address endogeneity. Key outcomes measured are real crop yield per hectare and labor productivity (real agricultural output divided by worker-days). The findings reveal significant negative effects during the harvest season, particularly in rainy periods, but minimal impacts during planting. Mechanisms are explored through satellite data on air pollutants, showing elevated levels of black carbon, sulfur dioxide, and nitrogen dioxide in flaring areas. Robustness checks confirm the results against various confounders like conflicts, oil spills, and placebo tests. The paper contributes to literature on the impact of air pollution on worker productivity and crop yields and climate change impacts on agriculture, highlighting policy needs to mitigate environmental costs from extractive industries in developing countries.",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103952",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "创新药"
+              "国际贸易"
             ]
           },
           {
@@ -1407,24 +1438,37 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 56, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 3,
-        "total_in_issue": 3,
+        "matched_count": 4,
+        "total_in_issue": 7,
         "papers": [
           {
-            "title_en": "Innovation adoption across regions: psychological openness and the early diffusion of digital platforms",
+            "title_en": "Industrial policy in times of market power",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105610",
-            "abstract_en": "Early regional adoption is crucial for platform-enabled innovations because their viability depends on enough people within a region adopting them to generate network effects. Existing research on regional innovation diffusion explains early adoption largely through demographic, economic, infrastructural, or institutional conditions, paying limited attention to regional population psychology. We conceptualize regional psychological openness as an invisible social infrastructure that is relevant for understanding early platform adoption. To test this idea, we introduce a newly curated dataset that allows us to trace the initial development of three major platform innovations (i.e., accommodation sharing platforms, ride-sharing platforms, social media platforms) across hundreds of U.S. metropolitan regions. Across all three platform types, regions differ markedly in early adoption. We link these adoption data to large-scale geo-referenced personality information from millions of U.S. residents ( N = 3,234,899). Results show that regional psychological openness consistently predicts earlier uptake even after accounting for demographic, socio-economic, social, infrastructural, geographical, and other psychological characteristics. In sum, the study advances a behavioral perspective on regional innovation adoption by integrating population psychology into explanations of platform diffusion.",
+            "url": "https://doi.org/10.1016/j.respol.2026.105638",
+            "abstract_en": "We explore the effects of different industrial policies in a macroeconomic agent-based model calibrated to reproduce the decline in US business dynamism over the last half-century. R&D subsidies to innovators raise GDP growth but exacerbate the trend toward rising market power, while financial subsidies to adopters and standard capital-replacement schemes have negligible aggregate effects. A meaningful reversal of market power emerges only when innovation support is paired with adoption-oriented measures that relax the knowledge constraints of small adopters, e.g. the establishment of a National Competence Center providing technology transfer and knowledge upgrading. The effectiveness of each policy is dependent on the underlying technological regime: the growth–dynamism trade-off is sharpest in science-based regimes and attenuated in scale-intensive and supplier-dominated ones.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "产业经济",
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Mobilizing ecosystem support for architectural innovation: Broker-mediated expectation formation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105633",
+            "abstract_en": "Architectural innovators must mobilize coordinated ecosystem support to commercialize unproven technologies, yet research has paid limited attention to how prospective ecosystem participants become convinced that a not-yet-existent ecosystem is likely to emerge. We address this problem by theorizing broker-mediated expectation formation as a mechanism of ecosystem emergence. Rather than simply connecting firms or transferring information, brokers assemble alliance portfolios whose visible pattern of commitments provides evidence that the complementary conditions necessary for ecosystem success are beginning to take shape. We argue that brokers with related technological experience and multiparty alliance experience are better able to assemble alliance portfolios with broad adoption-chain coverage, making distributed commitments more visible to prospective ecosystem participants. As adoption-chain coverage expands, ecosystem members become more willing to ally with the innovator. We test our arguments in the context of Qualcomm's effort to commercialize its unproven CDMA architecture between 1989 and 1999, a preparadigmatic period characterized by substantial uncertainty regarding technological feasibility, ecosystem coordination, and adoption-chain support. Using event-history analysis of alliance formation, we find that broker technological experience and multiparty alliance experience increase adoption-chain coverage, which subsequently increases the likelihood prospective ecosystem members form alliances with Qualcomm. Our findings suggest that prospective ecosystem participants use the visible commitments represented in broker alliance portfolios to infer whether ecosystem-specific commitments are accumulating across the adoption chain, identifying broker-mediated expectation formation as a mechanism through which ecosystem support for architectural innovation broadens.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
             ]
           },
           {
-            "title_en": "External collaboration and local knowledge divergence in regional knowledge spaces",
+            "title_en": "Innovation adoption across regions: psychological openness and the early diffusion of digital platforms",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105641",
-            "abstract_en": "This study investigates the association between regional collaboration structures and the semantic position of locally produced scientific knowledge. Drawing on the Regional Innovation Systems framework, it distinguishes between intra-regional and inter-regional collaboration as complementary dimensions of scientific knowledge production. Using over nine million Web of Science publications from European regions between 1998 and 2021, this study employs semantic text embeddings to measure local knowledge divergence, defined as the semantic distance between each publication and the established regional knowledge base. Within the same region–field–period, externally collaborated publication groups exhibit slightly higher average local knowledge divergence than internally collaborated groups. However, the estimated difference is substantively negligible and varies across periods. The principal pooled-sample finding is an inverted U-shaped association between external collaboration share and regional local knowledge divergence, with the fitted curve reaching its maximum at an external collaboration share of approximately 45%. The realised magnitude of this association is modest, and heterogeneity analyses show that it is most pronounced in life sciences and biomedicine and after 2010. These findings identify a context-dependent association rather than a causal or universally optimal collaboration structure, demonstrating how regional scientific collaboration portfolios relate to the evolution of publicly disclosed knowledge trajectories.",
+            "url": "https://doi.org/10.1016/j.respol.2026.105610",
+            "abstract_en": "Early regional adoption is crucial for platform-enabled innovations because their viability depends on enough people within a region adopting them to generate network effects. Existing research on regional innovation diffusion explains early adoption largely through demographic, economic, infrastructural, or institutional conditions, paying limited attention to regional population psychology. We conceptualize regional psychological openness as an invisible social infrastructure that is relevant for understanding early platform adoption. To test this idea, we introduce a newly curated dataset that allows us to trace the initial development of three major platform innovations (i.e., accommodation sharing platforms, ride-sharing platforms, social media platforms) across hundreds of U.S. metropolitan regions. Across all three platform types, regions differ markedly in early adoption. We link these adoption data to large-scale geo-referenced personality information from millions of U.S. residents ( N = 3,234,899). Results show that regional psychological openness consistently predicts earlier uptake even after accounting for demographic, socio-economic, social, infrastructural, geographical, and other psychological characteristics. In sum, the study advances a behavioral perspective on regional innovation adoption by integrating population psychology into explanations of platform diffusion.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -1580,17 +1624,6 @@
             ]
           },
           {
-            "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.02785",
-            "abstract_en": "Many large cities have adopted a policy of restricting the number of new vehicle licenses in order to address the challenges of traffic and air pollution problems. An important question that then arises is how to allocate these limited new license quotas among a large set of demanders while taking both social efficiency and equality into consideration. Inspired by this practical problem, we study the problem of designing simple and optimal mechanisms to tradeoff between efficiency and equality in a similar public goods allocation problem. We first propose a truthful two-group mechanism framework that is both general and simple and then use it to compute the optimal solution that maximizes social efficiency while guaranteeing a certain level of equality. Interestingly and surprisingly, under some natural conditions regarding the players’ private values, we show that the optimal mechanisms within the proposed framework are always the mechanisms that first run an auction and then run a lottery (ATL for short). In addition, beyond the framework and those conditions, we prove that the ATL mechanism can always guarantee at least [Formula: see text] ([Formula: see text] is the minimum equality level) of the optimal solution efficiency. This approximation ratio can in practice be further improved to near-optimal when resources are scarce and the natural conditions hold. We further establish a theoretical connection between these natural conditions and common value distributions, demonstrating that these conditions are widely satisfied in practice. Finally, we implement several experiments to verify the ATL mechanism’s optimality and robustness. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72401252, 72192830, 72192832, 62472428, 72192804, 72301235, 72394360 and 72394363]; the Public Computing Cloud, Renmin University of China, the fund for building world-class universities (disciplines) of Renmin University of China; the Beijing Natural Science Foundation [Grant Z220001]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.02785 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
             "title_en": "Does Agglomeration Enhance Property Value?",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2023.02773",
@@ -1599,6 +1632,17 @@
             "matched_topics": [
               "国际贸易",
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2022.02785",
+            "abstract_en": "Many large cities have adopted a policy of restricting the number of new vehicle licenses in order to address the challenges of traffic and air pollution problems. An important question that then arises is how to allocate these limited new license quotas among a large set of demanders while taking both social efficiency and equality into consideration. Inspired by this practical problem, we study the problem of designing simple and optimal mechanisms to tradeoff between efficiency and equality in a similar public goods allocation problem. We first propose a truthful two-group mechanism framework that is both general and simple and then use it to compute the optimal solution that maximizes social efficiency while guaranteeing a certain level of equality. Interestingly and surprisingly, under some natural conditions regarding the players’ private values, we show that the optimal mechanisms within the proposed framework are always the mechanisms that first run an auction and then run a lottery (ATL for short). In addition, beyond the framework and those conditions, we prove that the ATL mechanism can always guarantee at least [Formula: see text] ([Formula: see text] is the minimum equality level) of the optimal solution efficiency. This approximation ratio can in practice be further improved to near-optimal when resources are scarce and the natural conditions hold. We further establish a theoretical connection between these natural conditions and common value distributions, demonstrating that these conditions are widely satisfied in practice. Finally, we implement several experiments to verify the ATL mechanism’s optimality and robustness. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72401252, 72192830, 72192832, 62472428, 72192804, 72301235, 72394360 and 72394363]; the Public Computing Cloud, Renmin University of China, the fund for building world-class universities (disciplines) of Renmin University of China; the Beijing Natural Science Foundation [Grant Z220001]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.02785 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
             ]
           },
           {
@@ -1633,16 +1677,6 @@
             ]
           },
           {
-            "title_en": "Female Equity Analysts and Corporate Environmental and Social Performance",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.06429",
-            "abstract_en": "This paper examines the impact of female analyst coverage on firms’ environmental and social (E&S) performance. Exploiting broker closures as a quasi-exogenous shock to analyst coverage, we find that firms experiencing an exogenous decline in female analyst coverage subsequently show a significantly larger drop in E&S scores than those experiencing an equivalent decline in male analyst coverage. To explore the underlying mechanisms, we develop novel machine-learning models to analyze more than 2.4 million analyst reports and 120,000 earnings call transcripts. Our analysis shows that, compared with their male counterparts, female analysts are more likely to address E&S issues, particularly those involving regulatory compliance, stakeholders, and the environment, in both research reports and earnings conference calls. They also display distinct cognitive and linguistic patterns when discussing E&S issues. Furthermore, female analysts are more likely to issue lower stock recommendations and target prices (lower stock recommendations) following negative E&S discussions in their reports (E&S incidents) than male analysts. Finally, investors respond more strongly to female analysts’ negative tones when discussing E&S issues. Overall, our findings suggest that gender diversity among analysts plays a significant role in shaping corporate E&S practices and provide new insights into the origins of gender differences in skills within the equity analyst profession. This paper was accepted by Will Cong, finance. Funding: We acknowledge financial support from the Social Sciences and Humanities Research Council of Canada [Grant 435-2022-0285] and the Sauder Exploratory Research Grants Program. K. Li acknowledges financial support from the Canada Research Chair in Corporate Governance. T. Zhang acknowledges data support from the Whitcomb Center for Research in Financial Services at Rutgers University. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06429 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
             "title_en": "Do Financial Advisors Charge Sustainable Investors a Premium?",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2025.00232",
@@ -1661,6 +1695,16 @@
             "matched_topics": [
               "国际贸易"
             ]
+          },
+          {
+            "title_en": "Female Equity Analysts and Corporate Environmental and Social Performance",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.06429",
+            "abstract_en": "This paper examines the impact of female analyst coverage on firms’ environmental and social (E&S) performance. Exploiting broker closures as a quasi-exogenous shock to analyst coverage, we find that firms experiencing an exogenous decline in female analyst coverage subsequently show a significantly larger drop in E&S scores than those experiencing an equivalent decline in male analyst coverage. To explore the underlying mechanisms, we develop novel machine-learning models to analyze more than 2.4 million analyst reports and 120,000 earnings call transcripts. Our analysis shows that, compared with their male counterparts, female analysts are more likely to address E&S issues, particularly those involving regulatory compliance, stakeholders, and the environment, in both research reports and earnings conference calls. They also display distinct cognitive and linguistic patterns when discussing E&S issues. Furthermore, female analysts are more likely to issue lower stock recommendations and target prices (lower stock recommendations) following negative E&S discussions in their reports (E&S incidents) than male analysts. Finally, investors respond more strongly to female analysts’ negative tones when discussing E&S issues. Overall, our findings suggest that gender diversity among analysts plays a significant role in shaping corporate E&S practices and provide new insights into the origins of gender differences in skills within the equity analyst profession. This paper was accepted by Will Cong, finance. Funding: We acknowledge financial support from the Social Sciences and Humanities Research Council of Canada [Grant 435-2022-0285] and the Sauder Exploratory Research Grants Program. K. Li acknowledges financial support from the Canada Research Chair in Corporate Governance. T. Zhang acknowledges data support from the Whitcomb Center for Research in Financial Services at Rutgers University. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06429 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
           }
         ],
         "error": null
@@ -1672,8 +1716,8 @@
         "resolved_name": "Journal of Business Venturing",
         "issue_title": "Volume 42, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
-        "matched_count": 5,
-        "total_in_issue": 9,
+        "matched_count": 4,
+        "total_in_issue": 10,
         "papers": [
           {
             "title_en": "From breakdown to breakthrough: How entrepreneurs craft vulnerability narratives on social media",
@@ -1717,16 +1761,6 @@
               "企业创新",
               "创新药"
             ]
-          },
-          {
-            "title_en": "Corporate venturing in the digital era",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106653",
-            "abstract_en": "Rapid technological advances in artificial intelligence and other digital technologies play a critical role in enabling established organizations to venture into new entrepreneurial opportunities. These advances present new challenges for corporate venturing (CV): how to organize, transfer information, and execute venturing activities as existing organizational structures and competencies become obsolete. This article introduces a framework for understanding how digital technologies reshape knowledge search in CV contexts under varying levels of environmental complexity, and proposes a typology of human-machine configurations that serves as a diagnostic tool for assessing the degree of machine autonomy in CV decisions. It further explores the opportunities and unintended consequences of these evolving digital venturing practices.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
           }
         ],
         "error": null
@@ -1736,139 +1770,18 @@
         "query_name": "Technovation",
         "issn": "0166-4972",
         "resolved_name": "Technovation",
-        "issue_title": "Published 2026-12",
+        "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 12,
-        "total_in_issue": 17,
+        "matched_count": 1,
+        "total_in_issue": 1,
         "papers": [
           {
-            "title_en": "From policy to practice: Translating mission-oriented innovation policy into responsible innovation governance and employee behavioral outcomes",
+            "title_en": "AI washing in technology markets: The divergent roles of patient capital in innovation signaling distortion",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103734",
-            "abstract_en": "Mission-oriented innovation policy (MOIP) has emerged as a prominent approach for addressing grand societal challenges by directing innovation toward clearly defined public missions. Although prior research has advanced understanding of mission design, policy coordination, and ecosystem governance, limited attention has been paid to how mission-oriented policies are translated into organizational practices. Addressing this gap, this study develops and empirically tests a policy-to-practice translation framework that explains how policy directionality becomes embedded within organizations through responsible innovation (RI) governance and subsequently influences employee behavioral outcomes. Drawing on the literatures on RI, organizational governance, and trust, RI is conceptualized as an organizational governance mechanism that translates external policy expectations into structured innovation practices. Innovation trust functions as the behavioral mechanism linking RI governance to sustainability-oriented behavioral intentions, while organizational ESG capability and individual Anthropocene awareness serve as important boundary conditions. The proposed framework is examined using a theory-testing dominant mixed-method design combining hierarchical linear modeling, structural equation modeling, and comparative qualitative case studies. Survey data from 538 employees across 38 Korean firms are complemented by qualitative evidence from mission-priority industries. The findings indicate that perceived organizational alignment with mission-oriented policy directionality is associated with employee behavioral intentions through RI governance and innovation trust. This study advances mission-oriented innovation research by introducing a policy-to-practice translation perspective and offers practical implications for governments and organizations implementing mission-oriented innovation policies.",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103748",
+            "abstract_en": "As artificial intelligence (AI) becomes a central driver of innovation and competitive advantage, firms increasingly rely on AI-related narratives to signal technological capabilities to external stakeholders. However, such signaling may deviate from actual technological activities, giving rise to AI washing (AIwash), which can distort the interpretation of firms' technological capabilities and undermine the credibility of AI-related signals in emerging technology markets. Drawing on a contract-based perspective, we examine how heterogeneous forms of patient capital are associated with AI signaling distortion. Using a sample of Chinese A-share listed firms from 2007 to 2024, we find that equity-type patient capital (PCS) is negatively associated with AIwash, and this association is related to stronger governance and reputational discipline. In contrast, debt-type patient capital (PCD) is positively associated with AIwash, and this association is related to earnings management. The decomposition of disclosure–activities divergence indicates that PCS is primarily associated with lower levels of AI over-claiming, whereas PCD is associated with higher levels of over-claiming. Moreover, financing constraints positively moderates the relationship between PCD with AIwash. Heterogeneity analyses show that the negative association between PCS and AIwash is stronger in high-technology industries, star firms, and firms in mature and declining stages, whereas the positive association between PCD and AIwash is primarily concentrated in non-high-technology industries, non-star firms, and growth-stage firms. Overall, the findings contribute to the literature on innovation signaling and technology governance by showing that different financial contract structures are systematically associated with the credibility of AI-related technological signaling in emerging technology markets.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Institutionalizing portfolio entrepreneurship: the Venture Studio model",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103699",
-            "abstract_en": "Venture Studios (VSs) are organizations that create start-ups by acting as founders or co-founders and operating through standardized venture creation processes conducted in parallel. To examine this organizational model and delineate its distinctiveness from others, we developed a global database, conducted multiple case studies with twelve European VSs and two international networks, and administered a worldwide survey. Drawing on human capital and organizational learning perspectives, this study identifies the architectural characteristics and mechanisms through which VSs institutionalize portfolio entrepreneurship. Our findings reveal how VSs convert individual entrepreneurial expertise into organizationally codified human capital. In doing so, VSs extend entrepreneurial agency and cognition from individuals to organizations, offering an organizational model for parallel venture creation. Finally, we clarify how VSs complement other entrepreneurial actors by reducing early-stage uncertainty and generating validated, investment-ready ventures.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Leveraging IoT for business model innovation in banking: The role of data-driven decision-making, Fintech innovation and artificial intelligence",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103720",
-            "abstract_en": "Drawing on Resource Orchestration Theory (ROT), this study examines whether data-driven decision-making (DDS) and adoption of Fintech innovations serves as serial mediation mechanisms linking IoT adoption and business model innovation (BMI). Moreover, it examines whether Artificial Intelligence (AI) capability significantly moderates the relationship between IoT adoption, DDS, and BMI. Using Partial Least Squares Structural Equation Modeling (PLS-SEM) on data from 689 bank managers, we found that IoT adoption positive direct relationship with BMI, DDS, and Fintech innovation adoption. Moreover, DDS and Fintech innovation adoption positively affect BMI. DDS and Fintech innovation adoption mediated and serially mediated the relationship between IoT adoption and BMI. Finally, AI capability positively moderates between IoT adoption and BMI, and IoT adoption and DDS. This study advances digital innovation research by explaining how banks transform IoT adoption into business model innovation through data-driven decision-making, Fintech innovation adoption, and AI-enabled resource orchestration. The findings offer practical implications for banking leaders seeking to enhance their innovation capabilities through IoT-driven decision-making and AI-enabled resource management.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Governance and innovation in higher education: The moderating role of vice-chancellors’ professional characteristics",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103722",
-            "abstract_en": "As universities play an increasingly central role in regional innovation, understanding how internal governance influences academic entrepreneurship is becoming essential. While prior research has emphasized external conditions for spin-off generation, this study shifts the focus inward, examining how board size and diversity are associated with the generation of university spin-offs. Further, this study addresses these effects with the consideration of vice-chancellor's professional characteristics. Based on the analysis of a panel dataset of UK universities through time-lagged models, the findings suggest that while board diversity consistently supports spin-off activity, the relationship between board size and spin-offs generation varies across institutional contexts. When adding the factors of leadership characteristics, the findings provide partially robust evidence that these characteristics may condition the effects of board governance: longer vice-chancellor's tenure may dampen entrepreneurial outcomes, whereas a science-based educational background appears to offer short-term advantages but may limit the benefits of board diversity, with the strength of this moderating effect varying across model specifications. This study adds to the literature on university governance and academic entrepreneurship showing how internal governance and leadership characteristics may condition the effectiveness of governance structures in academic spin-off generation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Ambidextrous innovation leap and patent abandonment: A resource orchestration perspective",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103724",
-            "abstract_en": "Patent abandonment can be conceived as a deliberate approach to orchestrate and streamline patent assets, which is often shaped by firms' innovation strategies. This study conceptualizes ambidextrous innovation leap as a strategic reconfiguration of innovation trajectories that redeploys and recombines existing knowledge resources across distinct innovation domains. It investigates how these leaps influence patent abandonment decisions. We propose that such transitions can either disrupt or reinforce the coherence of firms’ knowledge bases, thereby affecting the perceived value and retention of current patent holdings. We distinguish between two types of leaps: upward innovation leap, involving a shift from exploitative to exploratory innovation, and downward innovation leap, denoting the reverse transition. Using panel data on 1623 A-share listed firms in Shanghai and Shenzhen from 2003 to 2021, we find that upward innovation leap has a positive effect on patent abandonment, whilst downward innovation leap negatively affects patent abandonment. We also show that network centrality and knowledge integration capability both negatively moderate the relationship between ambidextrous innovation leaps and patent abandonment. By shedding light on these relationships, this study enriches the research on strategic antecedents of patent abandonment from a resource orchestration perspective, and also has important practical implications for firms making patent abandonment decisions during innovation transitions.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Internal and external design integration, launch strategy proficiency, and new product development performance: The contingent role of market dynamism",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103716",
-            "abstract_en": "Design capabilities have been recognized as drivers of innovation, yet the distinction between internal and external design integration remains largely underexplored, as do the ways through which these integration types contribute to new product development (NPD) performance. Drawing on the dynamic knowledge management view, this study conceptualizes internal and external design integration as distinct loci of market-facing knowledge generation that are associated with launch strategy proficiency and, in turn, with NPD performance. Survey data from 247 U.S. firms show an indirect association between both types of design integration and NPD performance through launch strategy proficiency. Market dynamism reveals a capability reversal. Under stable market conditions, internal design integration is positively associated with launch strategy proficiency, whereas external design integration becomes negatively associated with it at very low levels of dynamism. Under dynamic market conditions, external design integration is positively associated with launch strategy proficiency, whereas the association between internal design integration and launch strategy proficiency is attenuated. The findings connect the design and marketing research streams and offer guidance for decision-makers on aligning the locus of design integration with the level of market dynamism.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Building sustainable futures: The micro-foundational dynamics behind energy community ecosystem",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103743",
-            "abstract_en": "Energy Communities (ECs) are increasingly recognized as collaborative ecosystems that support energy transition. However, existing research has predominantly explained their emergence from macro- and meso-level perspectives, offering limited insight into micro-level mechanisms. Although broader ecosystem research has only recently begun to explain ecosystem-level outcomes from a micro-level perspective, treating individuals as the primary unit of analysis, it has paid limited attention to the relational mechanisms through which individual actions and interactions contribute to ecosystem emergence. To address this gap, this study adopts a microfoundational perspective to examine the creation and development of an energy community ecosystem through an in-depth qualitative case study conducted in Southern Italy. Drawing on semi-structured interviews triangulated with multiple documentary sources analyzed through Reflexive Thematic Analysis, the findings identify three relational microfoundational mechanisms, namely micro-level collaborative initiatives, micro-relational engagement toward cultural change, and relation-driven energy inclusion that explain how energy community ecosystems progressively emerge from individual actions and interactions across the ideation, formalization, and growth phases. The study advances the explanatory capacity of the microfoundational perspective by extending its application to energy community ecosystems, providing actionable insights for designing inclusive, context-sensitive interventions tailored to different phases of ecosystem development.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Design longevity: Institutional lock-in and the Toyota Crown Comfort taxi",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103729",
-            "abstract_en": "While product design is a key driver of organizational success, companies increasingly struggle to sustain relevance in markets with ever-shortening product lifecycles. This study investigates how products achieve longevity without frequent redesign. A historical analysis of the Toyota Crown Comfort taxi, which remained in production for approximately 23-years (1995–2018), is used as a case to examine institutional lock-in as a complementary explanation for design longevity. The results identify three interrelated institutional mechanisms operating at the government-, industry-, and consumer-levels that collectively reinforced the vehicle's enduring market position. Building on these findings, the study proposes a conceptual framework demonstrating how institutional ecosystems can sustain dominant product designs over time. The research contributes to the product design, timeless design, and institutional lock-in literatures by demonstrating that long-term institutional relationships may provide an alternative pathway to design longevity beyond continuous redesign and R&D investment.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Beyond the efficiency trap: Regional AI exposure, AI knowledge, and the asymmetric governance of data-driven value propositions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103730",
-            "abstract_en": "Artificial intelligence (AI) is reshaping corporate strategy, yet how regional AI exposure (RAE), the intensity of local industry peers' AI inventive activities, shapes firms' data-driven value propositions (DDVPs) remains unclear. Using panel data on Chinese listed firms from 2013 to 2023, we examine the mechanism linking RAE to DDVPs. We find that higher RAE is associated with greater subsequent AI knowledge generation, which is more strongly related to efficiency-oriented than product-oriented DDVPs, reflecting an efficiency trap. Dynamic capabilities govern this conversion asymmetrically: sensing and seizing capabilities primarily strengthen efficiency-oriented DDVP, whereas reconfiguring capability is particularly important for elevating product-oriented DDVP. These findings extend DDVP research beyond firm internal explanations by incorporating regional AI environments and show how distinct dynamic capability dimensions shape heterogeneous value-creation orientations.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "How does digital transformation and Global Innovation Network Embedding affect ESG performance of multinational enterprises? Empirical evidence from an Eastern innovation pattern",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103701",
-            "abstract_en": "As an important manifestation of data-driven technological innovation paradigms, digital transformation has become a key pathway through which multinational enterprises reshape their innovation processes, enhance global competitiveness, and achieve sustainable value creation. It not only transforms firms’ modes of knowledge creation, organizational coordination mechanisms, and resource allocation logic, but also creates new opportunities for multinational enterprises to deepen their global innovation network embedding and improve ESG performance. However, existing studies have rarely systematically explored the impact mechanism of digital transformation on ESG performance from the perspective of global innovation network embedding. Grounded in the resource-based theory and social network theory, using panel data of Chinese A-share listed multinational enterprises from 2010 to 2022, the impact and mechanism of digital transformation on ESG performance in multinational enterprises were empirically analyzed by employing the two-way fixed effects model, the mediation effect model and the moderation effect model. Results indicate that, (1) Digital transformation has a significantly positive effect on the ESG performance. (2) The mechanism through which digital transformation enhances ESG performance lies in accelerating the global innovation network embedding of multinational enterprises. (3) Internal control quality strengthens the positive effect of digital transformation on ESG performance, whereas external environmental uncertainty weakens this effect. (4) The digital transformation has a stronger incentive effect on ESG performance for large-scale, manufacturing, and technology and labor-intensive multinational enterprises. The obtained conclusions contribute to fully leveraging the driving effect of digital transformation by multinational enterprises in the global value chain and provide empirical evidence that such firms can enhance their global collaborative innovation capability and sustainable competitive advantage through digital transformation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "From threat to reconfiguration: How content creators reshape occupational identity in AI-driven creative practices",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103738",
-            "abstract_en": "Generative artificial intelligence (GenAI) is disrupting creative work and challenging occupational identities, yet limited research has examined how creators experience and respond to these changes. Drawing on Albert Ellis’s ABC model, this study investigates relationships among GenAI adoption, identity threat, job crafting, and identity consequences. Using a two-stage exploratory mixed-method design with digital content creators in China, we combined BERTopic analysis of 2994 open-ended responses with structural equation modelling of matched survey data from 1698 creators. The findings show that GenAI is widely perceived through coexisting beliefs about threat, opportunity, and the unknown, and that these beliefs give rise to differentiated job crafting behaviours, including approach crafting, avoidance crafting, and identity crafting. Notably, identity crafting plays an important role in fostering a responsible creative identity and self-actualization. This study advances theorizing on AI technological innovation and creative labour by showing how job crafting translates GenAI disruption into responsibility-oriented and meaning-centered identity reshaping. It also offers actionable insights for creators, platforms, and creative communities seeking to support collaborative, sustainable, and ethically grounded human–AI co-creation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "How team structure shapes technological differentiation: A semantic embedding-based assessment",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.technovation.2026.103736",
-            "abstract_en": "A firm's research portfolio often faces a tension between reliance on dominant technologies and the pursuit of technological differentiation. This study examines how invention teams generate such differentiation by linking network structure to innovation outcomes. We develop a novel semantic distance measure based on patent text, capturing technological differentiation along a continuous space rather than discrete classification categories. Using this measure, we show that invention teams achieve higher levels of differentiation when they combine strong internal cohesion with diverse external network connections. Specifically, cohesive internal ties facilitate knowledge integration, while external ties spanning structural holes expand access to novel knowledge. These findings highlight the importance of balancing cohesion and brokerage in shaping technological differentiation and offer new insights into the organization of inventive activity.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
               "企业创新"
             ]
           }
@@ -2023,9 +1936,20 @@
         "resolved_name": "Journal of Health Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
-        "matched_count": 2,
-        "total_in_issue": 10,
+        "matched_count": 3,
+        "total_in_issue": 12,
         "papers": [
+          {
+            "title_en": "Does advertising expand the market for hospital services? Evidence from Medicare",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jhealeco.2026.103191",
+            "abstract_en": "Direct-to-consumer advertising is pervasive in US healthcare markets, but little evidence exists on the effects of advertising by hospitals, second only to drug manufacturers in medical marketing. Advertising may help facilities increase market share by stealing existing patients, expanding the market for hospital care, or both. Regardless, it has important public finance implications due to the large sums of taxpayer funds spent by federal and state governments to subsidize hospital operations and finance care through public insurance programs. This paper provides the first causal evidence on the market expansion effects of hospital advertising. To obtain causal estimates, we leverage the fact that spikes in political advertising significantly crowd out hospital advertising in the same market, motivating an instrumental variables design. Using claims data on the universe of Traditional Medicare beneficiaries, we find that advertising expands aggregate patient volume and spending on inpatient care - though to a modest degree (implied elasticities are 0.06 and 0.05, respectively). Although the overall effect of advertising on hospital outpatient care is small and imprecise, for-profit hospitals obtain higher outpatient Medicare volume and revenue.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
           {
             "title_en": "Place-based variation in health care: evidence from mandatory movers in the U.S. military health system",
             "title_zh": "",
@@ -2098,47 +2022,46 @@
         "query_name": "PharmacoEconomics",
         "issn": "1170-7690",
         "resolved_name": "PharmacoEconomics",
-        "issue_title": "Volume 44, Issue 10",
+        "issue_title": "Volume 44, Issue 11",
         "issue_url": "https://link.springer.com/journal/40273",
-        "matched_count": 7,
-        "total_in_issue": 11,
+        "matched_count": 6,
+        "total_in_issue": 10,
         "papers": [
           {
-            "title_en": "The End of ‘Pay-and-Hope’: Managing Accelerated Approvals with Outcomes-Based Reimbursement in the Era of Routinely Collected Health Data",
+            "title_en": "External Validation of SELECT Trial-Derived Cardiovascular Risk Equations in a UK Population with Overweight or Obesity and Established Cardiovascular Disease Without Diabetes",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01646-9",
-            "abstract_en": "",
+            "url": "https://doi.org/10.1007/s40273-026-01649-6",
+            "abstract_en": "BACKGROUND: Health economic models, many of which rely on risk equations, often play an important role in informing local healthcare decision making for the management of obesity. Risk equations for predicting cardiovascular outcomes have previously been derived from SELECT trial data. Validation of risk equations in real-world populations can provide confidence in the accuracy and reliability of health economic models. OBJECTIVE: The aim of this study was to validate the predicted outcomes of the novel, SELECT trial-derived cardiovascular risk equations in a real-world UK population with overweight or obesity and established CVD without diabetes using the Clinical Practice Research Datalink (CPRD) database. METHODS: and established CVD without diabetes. The risk equations were validated both in their original form, and after re-calibration to the CPRD analysis population. Discrimination and calibration were evaluated to assess the predictive performance of the risk equations. The SELECT risk equations, without recalibration, were also compared with published risk equations in terms of their discrimination and calibration. RESULTS: The discrimination C-indices at 4 years were 0.65 (95% confidence interval [CI] 0.64-0.65) for ACS and 0.71 (95% CI 0.71-0.71) for stroke. After re-calibration, at 4 years calibration, observed/expected ratio was 1.02 (95% CI 1.00-1.03) for ACS and 0.98 (95% CI 0.96-1.00) for stroke. Prediction accuracy was lower for those with a higher baseline risk of stroke, with over-prediction observed in these patients. For both ACS and stroke, the SELECT risk equations showed better discrimination than Framingham (ACS) (C-index 0.68 vs 0.54) and SMART-REACH (stroke) (C-index 0.74 vs 0.50). CONCLUSION: The recalibrated SELECT risk equations showed acceptable discrimination and good calibration when applied to a real-world population of patients with overweight or obesity and established CVD without diabetes from the CPRD database. These risk equations with calibration also demonstrated better predictive performance compared with published risk equations, supporting their use in health economic evaluations in this patient population.",
             "abstract_zh": "",
             "matched_topics": [
-              "医药产业"
+              "国际贸易"
             ]
           },
           {
-            "title_en": "Optimisation or Restriction? Unpacking the Logic Behind NICE Decisions",
+            "title_en": "A Cost-Effectiveness Model of Semaglutide 2.4 mg, Resmetirom 80 mg, and Resmetirom 100 mg Versus Standard of Care for the Treatment of Metabolic Dysfunction-Associated Steatohepatitis in the United States",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01636-x",
-            "abstract_en": "BACKGROUND: The National Institute for Health and Care Excellence (NICE) regularly issues optimised technology appraisal (TA) recommendations, whereby medicines are recommended for a subset of their licensed population. These decisions play a growing role in shaping patient access, yet the underlying drivers and implications of optimisation remain poorly understood. METHODS: We conducted a mixed‑methods analysis of all optimised NICE TAs published in 2023 and 2024. Fifty‑six appraisals met our inclusion criteria for qualitative assessment of committee documentation, while 30 provided sufficient data to estimate the degree of patient access using the established M‑score method. Three case studies were developed to illustrate how optimisation rationales translate into real‑world implications for patients. RESULTS: Of 131 positive decisions in 2023-2024, 50% were optimised. Qualitative thematic analysis identified four interacting drivers of optimisation: (1) match to clinical trial data; (2) match to NHS clinical practice; (3) match to previous NICE guidance; and (4) subgroup only cost effective. Quantitatively, the mean M‑score across optimised decisions was 31%, indicating that, on average, only one‑third of the licensed patient population receives access. Most optimised decisions (77%) granted access to fewer than half of eligible patients. The case studies illustrate how optimisation decisions translate into meaningful consequences for patients, often limiting access to effective treatments and determining the point at which they can receive care. CONCLUSIONS: Optimised decisions constitute a substantial proportion of NICE's positive recommendations and often result in significant restrictions relative to marketing authorisations. Understanding the multifactorial drivers of optimisation is essential for interpreting access and equity implications for patients.",
+            "url": "https://doi.org/10.1007/s40273-026-01647-8",
+            "abstract_en": "BACKGROUND: Given the considerable clinical and economic burden posed by non-cirrhotic metabolic dysfunction-associated steatohepatitis (MASH) with moderate to advanced fibrosis, there is a substantial demand for effective treatment options. Although semaglutide 2.4 mg has demonstrated clinical benefits in this patient population and offers a promising new treatment option, it is also essential for payers to understand the financial impact. This study used a cohort Markov state-transition cost-effectiveness model to evaluate the cost effectiveness of semaglutide 2.4 mg and resmetirom (80 mg and 100 mg), with each treatment compared against standard of care (SoC) in patients with non-cirrhotic MASH with moderate to advanced fibrosis. METHODS: Cost effectiveness was assessed from a United States (US) third-party payer perspective. The impact of semaglutide 2.4 mg on quality-adjusted life years (QALYs), cost, and clinical outcomes was simulated over a lifetime horizon. Mortality rates, treatment discontinuation, and disease transition probabilities were based on published literature and clinical trials (i.e., ESSENCE, MAESTRO-NASH). Costs were adjusted to 2025 US dollars. Costs and health outcomes were discounted at 3% annually. Cost effectiveness was evaluated at willingness-to-pay (WTP) thresholds of $50,000, $100,000, and $150,000 per QALY gained. Sensitivity, subgroup, and scenario analyses were performed by varying model parameters. RESULTS: In the base case analysis, treatment with semaglutide 2.4 mg produced an additional 1.66 QALYs with an incremental cost of US$33,031 compared with SoC. Treatment with resmetirom 80 mg and resmetirom 100 mg produced an additional 1.20 and 1.24 QALYs with incremental costs of US$415,110 and US$245,991, respectively, compared with SoC. In the cost-effectiveness analysis, semaglutide 2.4 mg had an incremental cost-effectiveness ratio of US$19,911 per QALY gained compared with SoC, while corresponding incremental cost-effectiveness ratios were US$346,810 for resmetirom 80 mg and US$198,607 for resmetirom 100 mg. At a WTP threshold of US$150,000, semaglutide 2.4 mg was cost effective in 99.5% of simulations. Sensitivity analyses confirmed the robustness of these findings. In a scenario analysis that used the direct-to-consumer cash price for semaglutide 2.4 mg (US$499 per month), semaglutide 2.4 mg was less costly and more effective than SoC. CONCLUSION: Our model indicates that semaglutide 2.4 mg is clinically favorable and cost effective compared with SoC, while demonstrating more favorable economic outcomes than resmetirom, for patients with non-cirrhotic MASH with moderate to advanced fibrosis. Notably, semaglutide 2.4 mg demonstrates a cost per QALY gain that is significantly lower than commonly accepted WTP thresholds. Overall, our findings suggest that semaglutide 2.4 mg represents an economically viable option for US payers.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Endovascular Treatment for Acute Ischemic Stroke: A Methodological Systematic Review of Health Economic Decision Modeling Studies",
+            "title_en": "Uncertainty in Economic Evaluation: A Pragmatic Guide for Health Technology Assessment (HTA) Agencies in Resource-Constrained Settings",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01640-1",
-            "abstract_en": "BACKGROUND AND OBJECTIVE: Ischemic strokes are one of the main causes for death and disability worldwide and pose a substantial economic burden on healthcare systems. Currently, endovascular treatment is considered one of the most effective therapeutic options for the acute treatment of ischemic strokes. Furthermore, endovascular treatment has increasingly become the focus of health economic evaluations, in which decision modeling is used for the estimation of long-term costs and effects of endovascular treatment. This systematic review aims to assess the methodological quality regarding decision modeling-based health economic evaluations of endovascular treatment for acute ischemic strokes. METHODS: A systematic search was conducted from January 2008 to December 2024 in PubMed, Econ-Lit, CDSR (Cochrane Database of Systematic Reviews), DARE (Database of Abstracts of Reviews of Effectiveness), and NHS EED/HTA (UK National Health Service Economic Evaluation Database/Health Technology Assessment) in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines (search date: January 2025). The review was registered at PROSPERO (international prospective register of systematic reviews, identifier: CRD420251148065). Articles were eligible if they included a cost-effectiveness analysis of endovascular treatment compared to standard care for acute ischemic strokes using discrete event simulation or Markov modeling, and if they were considered original research and were written in English or German. General study characteristics, information on model design, parameter inputs, uncertainty, and validation were extracted and synthesized in tables. Methodological quality assessment was supported using a framework by Ramos et al. RESULTS: Forty-nine articles were finally included. Health states were defined using a stroke disability rating scale (modified Rankin scale) in all articles, although individual modified Rankin scale levels were merged into broader categories in 15 articles. All articles used a short-term decision tree for treatment effectiveness up to 90 days after stroke, of which one article subsequently employed discrete event simulation and one article employed Markov microsimulation to model lifetime outcomes. The remaining 47 articles employed Markov cohort models capturing health state stability and deterioration for long-term results, of which 13 articles additionally modeled an intermediate recovery phase (up to 1 year after stroke), in which health state improvement was possible. Recurrences were modeled in 40 articles. While transition probabilities were primarily taken from high-quality evidence studies (e.g., randomized controlled trials for treatment effectiveness in 44 articles), costs and/or utilities were not country specific in 32 articles. Sensitivity analyses including probabilistic or deterministic/scenario analyses were conducted in almost all articles (45 and 47 articles, respectively). Some form of validation was evident in all articles, although internal validation was reported in only ten articles. CONCLUSIONS: Future modelers should incorporate recovery up to the first year after the stroke, consider recurrences in the models, and define health states by using individual modified Rankin scale levels. Furthermore, costs and utilities plugged into the models should be country specific, probabilistic and deterministic sensitivity and scenario analyses should be assessed for costs, utilities, and transition probabilities, and the model should be internally validated.",
+            "url": "https://doi.org/10.1007/s40273-026-01645-w",
+            "abstract_en": "Understanding the financial and health consequences if economic evaluation assumptions prove incorrect is essential for managing the risk associated with benefit package decisions, particularly in resource-constrained and overburdened healthcare systems. Yet these are also the settings that face the greatest challenges in conducting comprehensive uncertainty analysis, owing to a range of factors including limited skilled staff, data constraints, and short timelines to generate evidence in time to influence policy. This paper takes a pragmatic approach to support health technology assessment agencies in these settings to generate policy-relevant uncertainty analysis, drawing on good practice literature and the authors' collective experience conducting economic evaluation for policy across resource-constrained settings. For each step of the economic evaluation process, we outline the main sources of uncertainty, principles for deciding which uncertainty analysis to prioritise, and approaches to overcome some of the common challenges faced when dealing with constrained timelines, data, and skilled staff. The overarching goal is to support better-informed decisions, by targeting uncertainty analysis to factors that actually affect decisions and by effectively communicating this decision-relevant uncertainty to policymakers.",
             "abstract_zh": "",
             "matched_topics": [
-              "医疗创新",
-              "创新药"
+              "医疗创新"
             ]
           },
           {
-            "title_en": "Use and Outcomes of Cost-Effectiveness Analyses and Additional Considerations in Pharmaceutical Reimbursement in the Netherlands",
+            "title_en": "Cost-Effectiveness and Budget Impact of Lung Cancer Screening: A Systematic Review",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01637-w",
-            "abstract_en": "BACKGROUND AND OBJECTIVE: In the Netherlands, the National Health Care Institute (ZIN) assesses pharmaceuticals and advises the Minister of Health, Welfare, and Sport (MoH) on their reimbursement. Since 2015, two policy reforms-the introduction of willingness-to-pay reference values and the lock procedure, which temporarily withholds high-budget hospital pharmaceuticals from reimbursement pending assessment and price negotiations-have changed the decision-making process and expanded the role of cost-effectiveness analysis (CEA). This study provides a comprehensive overview of the use and outcomes of CEAs in Dutch pharmaceutical reimbursement over the past decade. Additionally, we identify how additional considerations beyond cost-effectiveness were used in reimbursement recommendations. METHODS: We analysed reimbursement dossiers and recommendations published by ZIN between 2015 and 2024. Descriptive methods were used to provide insight into characteristics of assessments, CEA outcomes, and recommendations. For a subset of pharmaceutical indications with a CEA and a recommendation to negotiate, we performed a content analysis of ZIN's appraisal and recommendation letters to identify how additional considerations influenced the reimbursement recommendation alongside cost-effectiveness. RESULTS: ZIN advised the MoH on 330 unique reimbursement dossiers covering a total of 350 pharmaceutical indications in the timeframe. CEAs were conducted for 86 indications, primarily for hospital pharmaceuticals (n = 49), for which assessment became mandatory following the introduction of the lock procedure. Of the 86 indications with CEAs, 27 (31%) were deemed cost-effective and 42 (49%) were not, and cost-effectiveness was classified as unknown for 17 (20%), mostly because these CEAs were judged methodologically insufficient by ZIN. Many cost-ineffective pharmaceutical indications exceeded their reference value substantially. Mean incremental cost-effectiveness ratios (ICERs) reported by ZIN for pharmaceutical indications associated with reference values of €20,000, €50,000, and €80,000 per quality-adjusted life-year (QALY) were €97,300, €81,400, and €278,900 per QALY, respectively. CEA results informed proposed price reductions, by relating the ICER to the relevant reference value. ZIN also frequently based its proposed discount on a more plausible scenario analysis or invoked additional arguments, such as uncertainty in costs or effects, anticipated indication expansions, or ample revenue from earlier indications, to determine a societally acceptable price. CONCLUSIONS: In Dutch pharmaceutical reimbursement decision-making, CEA outcomes directly inform price negotiations, and explicit reference values function primarily as anchors for negotiations rather than as strict cut-off points for reimbursement. Additional considerations, such as uncertainty about long-term effects and anticipated changes in the treatment landscape, were frequently invoked alongside cost-effectiveness to argue for further price reductions.",
+            "url": "https://doi.org/10.1007/s40273-026-01639-8",
+            "abstract_en": "INTRODUCTION: Clinical trials have demonstrated the benefits of early detection of lung cancer (LC); however, the implementation of national LC screening programs remains under consideration. Economic evaluations provide evidence-based insights to support informed policy decisions. OBJECTIVES: This systematic review aims to comprehensively synthesize the health economic evidence on LC screening and examine the methodological challenges. METHODS: We searched six databases from inception to July 31, 2025. Articles were included if evaluating LC screening using a full economic evaluation and/or budget impact analysis (BIA). The Criteria for Health Economic Quality Evaluation (CHEQUE) tool was used for quality assessment of full economic evaluations. The International Society for Pharmacoeconomics and Outcomes Research (ISPOR) guidelines were modified as a quality checklist for BIA studies. Narrative synthesis was conducted to summarize the included studies. RESULTS: Ninety-five articles were identified, representing 93 full economic evaluations and nine BIAs. Seventy-nine full economic evaluations supported the cost-effectiveness of LC screening, while five indicated it was not cost-effective. Seventy studies evaluated low-dose computed tomography (LDCT) screening compared with no screening. Twelve studies considered emerging technologies either as standalone screening modalities or as adjuncts to LDCT screening, including artificial intelligence, genomics, and biomarkers. All BIAs assessed an LDCT-based screening program. Eight studies found that it would increase the budget, while one reported the opposite. All included studies demonstrated substantial methodological variation, including differences in the definition of eligible populations, modeling approaches, assumed uptake rates, cost components, sources of utility values, and equity consideration. CONCLUSION: Our review suggests that LDCT screening is generally cost-effective in high-risk populations, although implementing LC screening programs may entail a substantial budgetary impact. Emerging technologies, novel therapies, and combined screening have the potential to improve screening efficiency. Future economic evaluations are needed to assess these advances, while addressing existing methodological challenges to improve alignment between evidence. This review provides up-to-date economic evidence on LC screening and offers policymakers a clearer understanding of its financial implications.",
             "abstract_zh": "",
             "matched_topics": [
               "医药产业",
@@ -2146,39 +2069,22 @@
             ]
           },
           {
-            "title_en": "Balancing Access and Value in Multi-Indication Medicines: Implications of PD-(L)1 Broad Listings in Australia",
+            "title_en": "Inhaled Levodopa for the Management of OFF Episodes in Parkinson’s Disease: A Cost-Effectiveness Analysis",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01635-y",
-            "abstract_en": "Multi-indication medicines challenge health technology assessment processes as health technology assessment relies on repeated indication-based assessments to determine cost-effective pricing and reimbursement. The reimbursement of programmed death-(ligand) 1 inhibitors is an international example of this. In 2025, Australia's Pharmaceutical Benefits Advisory Committee adopted a novel broad cancer listing on the Pharmaceutical Benefits Schedule for nivolumab, ipilimumab and pembrolizumab. This agreement consolidates all advanced and metastatic cancer indications under a single broad listing per medicine, using a single weighted-average price and utilisation-based rebate caps. This article analyses the economic, policy and clinical practice implications of such an agreement. The broad listing agreement features several characteristics identified in the literature as desirable for a multi-indication reimbursement framework, including facilitating timeliness of access, potentially reducing the health technology assessment workload, mitigation of arbitrage risk and the partial preservation of indication-based pricing principles. However, the agreement also includes some contestable trade-offs and introduces unresolved challenges, such as weakening indication-level value signalling, constraining routine utilisation monitoring and distorting comparator pricing in future economic evaluations. Further, the agreement may alter evidence generation and shift decision-making responsibilities to other actors within the health system. We suggest that while a broad listing represents a pragmatic response to the growing prevalence of multi-indication medicines, it entails important trade-offs between access, transparency and value alignment. These design considerations are likely to be relevant for other jurisdictions considering similar reimbursement reforms.",
+            "url": "https://doi.org/10.1007/s40273-026-01642-z",
+            "abstract_en": "INTRODUCTION: OFF episodes in Parkinson's disease (PD), where symptoms worsen despite symptomatic treatment, are associated with significant burden on patients, carers and healthcare providers. There is an unmet need for an effective, on-demand treatment for OFF episodes that provides fast-acting symptom relief. This study estimated the cost-effectiveness of inhaled levodopa (LD) compared with relevant alternatives from a UK National Health Service and Personal Social Services perspective. METHODS: A Markov model was developed comparing inhaled LD with subcutaneous (SC) apomorphine, sublingual (SL) apomorphine, dispersible LD and no on-demand treatment (no-ODT) in adults with advanced PD treated with LD and carbidopa and experiencing OFF episodes. A lifetime time horizon was adopted. Within-trial and beyond-trial models were applied for initial treatment and subsequent therapy, respectively. Model structure comprised 12 health states: ten 'Off' states, an 'On' state and death. Clinical trials and a network meta-analysis informed clinical inputs, with natural history progression applied from year 3. UK national databases and published literature informed costs (2025) and utility data. A 3.5% yearly discount rate is applied to costs and outcomes. Sensitivity analyses and three scenarios exploring alternative progression through health states, caregiver costs and disutilities, as well as subsequent therapy adverse events, were conducted. RESULTS: In base-case analysis, inhaled LD dominated versus dispersible LD and no-ODT and was associated with lower cost and lower quality-adjusted life years (QALYs) versus SC and SL apomorphine. Nevertheless, inhaled LD resulted in net monetary benefit (NMB) of £14,226 and £25,939 compared with SC and SL apomorphine, respectively, at a £25,000 willingness-to-pay threshold. Key model drivers were subsequent therapy costs, discontinuation rates and health state utility values. The probabilistic sensitivity analysis highlighted uncertainty in the model; however, mean probabilistic sensitivity analysis results, along with two scenario analyses, remained consistent with the base case. CONCLUSIONS: Inhaled LD may be an economically dominant treatment strategy when compared with dispersible LD and no-ODT. When compared with SC and SL apomorphine, cost-savings with inhaled LD may outweigh potentially fewer QALYs, resulting in an NMB.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
-              "产业经济",
-              "医药产业",
-              "医疗创新",
               "创新药"
             ]
           },
           {
-            "title_en": "Applications of Structural Expert Elicitations for Economic Evaluations: A Systematic Review Update",
+            "title_en": "Economic Evaluation of Interventions for Children with Neurodevelopmental Disorders: Practical Guidance",
             "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01628-x",
-            "abstract_en": "BACKGROUND: Structured expert elicitation (SEE) has become increasingly important in health technology assessment and economic evaluations. Complementing previous work, we aimed to synthesize recent developments in published SEE applications within health economics over the past 8 years. METHODS: A systematic literature search was conducted in Medline and Embase databases from April 2017 to February 2026, supplemented with snowball sampling, to identify applications of SEE as part of economic evaluations. Data extraction and synthesis focused on expert selection, elicitation methods, and analytical techniques to identify commonalities and gaps. RESULTS: In total, 28 studies met the inclusion criteria. SEE applications covered diverse health interventions, from rare diseases treatments to diagnostic accuracy assessments. The number of experts recruited through purposive sampling varied from 1 to 18 clinicians per study. SEE processes remain bespoke and diverse, spanning from paper-based to software-assisted remote techniques. The studies used mainly variable and fixed interval methods (29% versus 67%) for encoding. Aggregation methods were mainly mathematical, with some studies using consensus approaches. Most studies (75%) directly incorporated pooled expert distributions into decision models. CONCLUSIONS: While SEE methods vary considerably across applications, suggesting that optimal approaches have yet to emerge, there is growing recognition of their potential for informing healthcare decision-making where empirical data are scarce, particularly in rare diseases and early-stage technology assessment. Future research should prioritize standardizing best practices, validating expert predictions against subsequently available empirical data, and developing enhanced bias mitigation strategies to improve the credibility of expert-informed health economic evaluations.",
+            "url": "https://doi.org/10.1007/s40273-026-01641-0",
+            "abstract_en": "Neurodevelopmental disorders are lifelong conditions with onset in early childhood that impair cognitive, social, behavioural and physical functioning. Their consequences extend beyond healthcare, shaping education, social and community services, and family life. Economic evaluations can guide payers by quantifying the value for money of interventions, but standard methods require adaptation for this context. This paper offers practical guidance for pharmacoeconomic evaluations of interventions for children with neurodevelopmental disorders, synthesising methodological literature and applied experience to articulate core challenges, recommend solutions and highlight emerging opportunities. Evaluations must address five inter-related issues: defining and justifying an analytic perspective that captures multi-sectoral costs and benefits; identifying and valuing direct, indirect and intangible costs across health, education and social domains; selecting outcomes sensitive to changes in child functioning and health-related quality of life that can be economically valued; incorporating spillover effects for caregivers and families; and modelling long-term developmental trajectories amid data scarcity and uncertainty. We recommend adopting a societal perspective; applying comprehensive context-appropriate costing; combining generic and condition-specific outcome measures; explicitly including caregiver and family impacts; integrating equity analyses; and using long time horizons supported by robust modelling such as microsimulation or agent-based approaches. Promising directions include capability-based frameworks and digital biomarkers to enable real-world measurement of function and quality of life. Tailored pharmacoeconomic methods are essential for credible policy-relevant evaluations of neurodevelopmental disorder interventions. Transparent reporting and alignment with international standards will improve comparability, support uptake by decision makers, and promote equitable resource allocation for children and families affected by neurodevelopmental disorders.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
-              "医疗创新",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Community Pharmacist Preferences for Providing a Dose Administration Aid Service in Australia: A Discrete Choice Experiment",
-            "title_zh": "",
-            "url": "https://doi.org/10.1007/s40273-026-01632-1",
-            "abstract_en": "INTRODUCTION: Dose administration aids (DAAs) support medication taking, yet little is known about how pharmacists perceive DAA benefits and challenges. This study aimed to explore community pharmacists' preferences for attributes of a DAA service and how these influence their decision to provide this service. METHODS: A discrete choice experiment (DCE) was conducted to elicit pharmacists' preferences. Participants completed 12 choice questions, each presenting three alternatives: two DAA services and no DAA service. The questions included seven attributes: patient type, patient control over their medicines, impact on patient medication adherence, staff time, patient co-payment, government reimbursement fee and presence of a cap on government funded DAA services per pharmacy. RESULTS: A total of 615 community pharmacists completed the DCE survey. All attributes, except patient type and co-payment, significantly influenced preferences. Pharmacists were more likely to provide a DAA service (compared with no DAA service) when it was associated with higher government funding (pharmacy owners: OR 1.054, 95% CI 1.046-1.063, p < 0.001; non-owners: OR 1.041, 95% CI 1.036-1.046, p < 0.001). Pharmacists were less likely to provide a DAA service if there was a cap on the number of funded DAA services (OR 0.905, 95% CI 0.862-0.950, p < 0.001), or additional staff time was required (OR 0.981, 95% CI 0.976-0.986, p < 0.001). CONCLUSION: This DCE identified two key policy-related barriers to pharmacist provision of DAA services: inadequate government reimbursement and caps on the number of funded DAA services. These findings highlight community pharmacists' preferences and trade-offs, offering valuable guidance to inform future redesign and implementation of more sustainable and equitable DAA services provided via community pharmacy.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
               "医药产业",
               "创新药"
             ]
