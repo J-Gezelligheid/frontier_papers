@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-25 09:41:03",
+  "updated_at": "2026-11-01 11:40:54",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 331,
+    "fail_count": 337,
     "failed_examples": [
-      "Who Marries Whom? The Role of Segregation by Race and Class :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "Americans rarely marry outside their race or class group, a pattern with well-do :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "Racial Promotion Gaps :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "We study racial disparities in promotions in a setting in which promotions are f :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "Fighting for Growth: Labor Scarcity and Technological Progress during the Britis :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
-      "We establish a link between labor scarcity and the adoption of laborsaving techn :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p"
+      "Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Fre :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "How do majority groups respond to narrowing inequality in racially polarized env :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "The Returns to Government R&amp;D: Evidence from US Appropriations Shocks :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "Based on a narrative classification of all significant postwar changes in R&D ap :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "Residential Segregation and Unequal Access to Local Public Services in India: Ev :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
+      "We study residential segregation and access to public services across 1.5 millio :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p"
     ],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
   },
@@ -167,26 +167,26 @@
         "query_name": "American Economic Review",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 10",
+        "issue_title": "Volume 116, Issue 11",
         "issue_url": "https://www.aeaweb.org/journals/aer",
-        "matched_count": 7,
-        "total_in_issue": 10,
+        "matched_count": 6,
+        "total_in_issue": 11,
         "papers": [
           {
-            "title_en": "Who Marries Whom? The Role of Segregation by Race and Class",
+            "title_en": "Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20250115",
-            "abstract_en": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases interclass (high- and low-parent income) marriage but has no detectable effect on interracial (White and Black) marriage. A spatial marriage model predicts that residential segregation—one of many forms of exposure—accounts for more than one-third of marital sorting by class but less than 5 percent by race. (JEL J12, J15, J62, R23)",
+            "url": "https://doi.org/10.1257/aer.20241561",
+            "abstract_en": "How do majority groups respond to narrowing inequality in racially polarized environments? We study this by examining the Freedmen's Bureau, an agency created after the US Civil War to aid former slaves and launch institutional reform in the South. Using new historical records and an event-study approach, we estimate the bureau's impact on political, social, and economic outcomes. Vote shares for Democrats, the party that previously championed slavery and opposed Black civil rights, initially eroded in bureau counties, but these impacts faded as federal oversight weakened. Racial backlash emerged rapidly and persisted, suggesting White majorities sought to offset Black progress. (JEL D63, D72, J15, N31, N41)",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Racial Promotion Gaps",
+            "title_en": "The Returns to Government R&amp;D: Evidence from US Appropriations Shocks",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20231368",
-            "abstract_en": "We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)",
+            "url": "https://doi.org/10.1257/aer.20231684",
+            "abstract_en": "Based on a narrative classification of all significant postwar changes in R&D appropriations for five major federal agencies, we find that an increase in nondefense R&D appropriations leads to increases in various measures of innovative activity and higher business-sector productivity in the long run. We structurally estimate the production function elasticity of nondefense government R&D capital using the SP-IV methodology of Lewis and Mertens (2024) and obtain implied returns of 140 to 210 percent over the postwar period. The estimates indicate that government-funded R&D accounts for one-fifth of business-sector TFP growth since WWII and imply substantial underfunding of nondefense R&D. (JEL D24, E23, H50, O31, O33, O38)",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新",
@@ -194,53 +194,45 @@
             ]
           },
           {
-            "title_en": "Fighting for Growth: Labor Scarcity and Technological Progress during the British Industrial Revolution",
+            "title_en": "Residential Segregation and Unequal Access to Local Public Services in India: Evidence from 1.5 Million Neighborhoods",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20240393",
-            "abstract_en": "We establish a link between labor scarcity and the adoption of laborsaving technology in industrializing England. During the Napoleonic Wars, more than 10 percent of the male population served in the armed forces. Where recruitment was heavy, more machines economizing on labor were adopted. Naval recruitment, instrumented by warships' coastal access, provides exogenous variation in labor scarcity and suggests that the link between labor shortages and adoption is causal. Where mechanical skills were abundant, the impact of labor scarcity on adoption appears to be larger. (JEL J24, N13, N43, N63, N73, O14, O31)",
+            "url": "https://doi.org/10.1257/aer.20240179",
+            "abstract_en": "We study residential segregation and access to public services across 1.5 million urban and rural neighborhoods in India. Muslim and Scheduled Caste segregation in India is high by global standards and only slightly lower than Black-White segregation in the United States. Within cities, public facilities and infrastructure are systematically less available in Muslim and Scheduled Caste neighborhoods. Nearly all regressive allocation is across neighborhoods within cities—at the most informal and least studied form of government. These inequalities are not visible in the aggregate data typically used for research and policy. (JEL H76, J15, O15, O17, O18, R23)",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Knowledge Spillovers, Competition, and Individual Careers",
+            "title_en": "The Unequal Economic Consequences of Carbon Pricing",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20230714",
-            "abstract_en": "Exposure to better peers in the workplace can influence career trajectories through two opposing channels: positively, via knowledge spillovers, and negatively, through competition for advancement. We disentangle these effects by studying untrained labor market entrants and distinguishing between coworkers in the same occupation with whom they are likely to compete versus those with whom they are unlikely to compete. We find robust evidence of persistent knowledge spillovers but also identify countervailing competition effects of comparable magnitude. Both effects are more pronounced for men than for women. (JEL D83, J16, J24, M53, M54, O33)",
+            "url": "https://doi.org/10.1257/aer.20230448",
+            "abstract_en": "This paper studies the economic impacts of carbon pricing. Exploiting institutional features of the European carbon market and high-frequency data, I identify carbon policy shocks and trace their dynamic effects. A restrictive carbon policy shock raises energy prices, reduces emissions, spurs green innovation, but decreases economic activity—disproportionately burdening poorer households. Not only are the poor more affected because of their higher energy spending, but they also experience larger income losses. These indirect, general equilibrium effects via income and employment play an important role in the transmission of carbon pricing policies, accounting for about two-thirds of the aggregate consumption response. (JEL E23, E24, O44, Q41, Q54, Q55, Q58)",
             "abstract_zh": "",
             "matched_topics": [
+              "国际贸易",
+              "产业经济",
               "企业创新"
             ]
           },
           {
-            "title_en": "Truth Elicitation in a Nonstrategic Environment",
+            "title_en": "Union Bargaining Power and the Amenity-Wage Trade-Off",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20251879",
-            "abstract_en": "A principal decides which party deserves a prize. Only the parties observe the state that determines who is deserving. The principal gives each party a text describing the conditions under which that party deserves the prize and asks each to report the state. The parties are nonstrategic. Each activates a known cheating procedure whose outcome depends on the state and on the text. Implementation is achieved if, whenever the parties disagree, the liar is identified by the “one-way cheating principle”: The truthful party is the unique party who could not have produced his story had the rival's story been true. (JEL D82, D91)",
+            "url": "https://doi.org/10.1257/aer.20240766",
+            "abstract_en": "This paper studies how collective bargaining affects wages and amenities. By merging collective bargaining agreements (CBAs) to linked employer-employee data in Brazil, I combine rich contracted amenities with wage information. I implement a difference-in-differences strategy that exploits a court ruling enforcing CBA continuation (i.e., ultra-activity) to estimate the effects of union bargaining power. Strengthening unions raises wages and amenities without reducing employment—increasing retention despite some labor-labor substitution. A revealed-preference approach shows that amenities account for 45 percent of total compensation gains. These findings suggest that collective bargaining can offset monopsony power, but employers retain the right-to-manage workforce composition. (JEL J31, J32, J42, J51, J52, O15)",
             "abstract_zh": "",
             "matched_topics": [
-              "创新药"
+              "国际贸易"
             ]
           },
           {
-            "title_en": "Social Push and the Direction of Innovation",
+            "title_en": "The Causal Effects of Global Supply Chain Disruptions on Macroeconomic Outcomes: Evidence and Theory",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20231417",
-            "abstract_en": "What are the implications of unequal access to innovation careers for the direction of innovation and inequality? Leveraging novel linked datasets in the United States and Finland, we document that innovators create products more likely to be purchased by consumers like them in terms of gender, socioeconomic status, and age. Homophily exists both within narrow product categories and across industries and has been stable in recent decades. Incorporating this “social push” channel into a growth model, we estimate that unequal access to innovation careers has a large effect on cost of living inequality and long-run growth. (JEL D63, J16, L26, M13, O31, O33, O47)",
+            "url": "https://doi.org/10.1257/aer.20250081",
+            "abstract_en": "We study the causal effects of global supply chain disruptions by constructing a new index of real-time port congestion using Automatic Identification System data from container ships and a spatial clustering algorithm. We develop a model with search frictions between producers and retailers that links upstream production slack to downstream supply shortages and captures output and price responses to supply chain shocks. The co-movements of output, prices, spare capacity, and market tightness provide novel identification restrictions. We find that demand and supply shocks drove US disinflation in 2020, while the inflation surge in 2021 was driven mainly by supply chain shocks. (JEL C43, E31, F14, F23, L14, L92)",
             "abstract_zh": "",
             "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Screening and Segmenting: A Consumer Surplus Perspective",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20250206",
-            "abstract_en": "We analyze consumer surplus when a monopolist can adjust both prices and product qualities across segments, engaging in secondand third-degree price discrimination simultaneously. We characterize the consumer-optimal segmentation and show that it has a striking structure: Consumers with the same value receive the same quality in every segment, though prices differ. Under mild conditions, any segmentation harms consumers if and only if demand is sufficiently more elastic than supply. Hence, potential benefits for consumers depend critically on demand and supply elasticities. These findings have implications for regulatory policy regarding price discrimination and market segmentation. (JEL D42, D83, K21, L12, L15)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
+              "国际贸易"
             ]
           }
         ],
@@ -705,36 +697,76 @@
         "query_name": "American Economic Journal: Economic Policy",
         "issn": "1945-7731",
         "resolved_name": "American Economic Journal Economic Policy",
-        "issue_title": "Volume 18, Issue 3",
+        "issue_title": "Volume 18, Issue 4",
         "issue_url": "https://www.aeaweb.org/journals/pol",
-        "matched_count": 7,
+        "matched_count": 9,
         "total_in_issue": 17,
         "papers": [
           {
-            "title_en": "Hurricanes, Climate Change Policies, and Electoral Accountability",
+            "title_en": "Impacts of Corporate Tax Cuts on Firms and Workers: Evidence from Small Businesses",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20230070",
-            "abstract_en": "This paper studies the conditions under which legislators promote policies that may be unpopular in the short term but yield long-term benefits. Using data on the universe of federal disaster declarations from 1989 to 2020, we document that representatives from congressional districts impacted by hurricanes are more inclined to support environmental legislation addressing climate change. However, this response depends on political circumstances: Only those in safe seats can change their political agenda toward policies that involve short-term costs for long-term gains. These results highlight the role of electoral incentives in shaping politicians' attitudes toward farsighted policymaking. (JEL D72, Q54, Q58)",
+            "url": "https://doi.org/10.1257/pol.20240813",
+            "abstract_en": "This paper assesses the effects of corporate tax cuts on small firms and their workers. Following a reform in Quebec, Canada, firms receiving tax cuts expand and their workers’ earnings increase compared to workers and firms without tax cuts. We estimate that overall workers bear 35 percent of the tax burden, with larger incidence falling on those with ownership in the companies they work at, through increased profits. Additionally, workers across each tercile of the within-firm earnings distribution benefit from tax cuts, possibly because fair-wage concerns matter when after-tax profits rise due to close interactions among workers in small corporate environments. (JEL D22, H22, H25, J31, L25)",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Perils of the Paperwork: The Impact of Information and Application Assistance on Social Benefit Take-Up in India",
+            "title_en": "The Role of Race in the Legal Representation of Low-Income Defendants",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20240212",
-            "abstract_en": "Governments worldwide administer social programs for vulnerable groups, yet many eligible citizens fail to benefit. This paper studies barriers to take-up of an unconditional cash transfer program for poor women in Delhi, India, where only one-third of eligible individuals were enrolled. In a randomized experiment with eligible women, providing program information alone increased applications only among the literate. Adding basic or intensive application assistance, however, raised average application rates by 41 percent and 70 percent, respectively, and expanded access among more vulnerable women. These results suggest that application ordeals can limit take-up by those with high need. (JEL D83, I32, I38, J16, O15)",
+            "url": "https://doi.org/10.1257/pol.20240685",
+            "abstract_en": "Little is known about the role of race in the defense of low-income defendants by court-appointed attorneys. Exploiting the quasirandom assignment of court-appointed attorneys to cases, we test whether attorneys secure better deals for same-race defendants. Results indicate that while Black and White attorneys are similarly effective at representing White defendants, Black defendants who are represented by White rather than Black attorneys are 14–16 percent more likely to have their charges dismissed and 15–26 percent less likely to be incarcerated. Moreover, we find no evidence that having a different-race attorney increases the likelihood of reoffending in the future. (JEL H76, J15, K14, K42)",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Racial and Ethnic Inequality and the China Shock",
+            "title_en": "How Effective Are R&amp;D Tax Incentives? Reconciling the Micro and Macro Evidence",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20240478",
-            "abstract_en": "Minority workers tend to be disproportionately harmed by negative economic shocks. Indeed, we show that Hispanic populations experienced worse employment losses, relative to Whites, due to import competition from China largely due to lower education levels. In contrast, Black–White employment and wage gaps actually narrowed due to relative growth in nonmanufacturing sectors. We show that Black workers, compared to Whites, were less attached to manufacturing by 2000 and were therefore more poised to take advantage of China shock–induced reallocation to services. The lasting negative impacts of the China shock on exposed communities were primarily driven by White workers. (JEL F13, F14, F16, J15, J22, J31, R23)",
+            "url": "https://doi.org/10.1257/pol.20240883",
+            "abstract_en": "Recent firm-level studies find R&D tax incentives to be much more effective at stimulating firms’ R&D investment than aggregate analyses suggest. Based on a distributed analysis of official R&D survey and administrative tax relief microdata for 19 OECD countries, we show that two factors can reconcile these contrasting results. First, the limited uptake of R&D tax incentives in most countries makes aggregate studies underestimate the effectiveness of R&D tax incentives. Secondly, R&D tax incentives are (much) less effective for large and R&D-intensive firms, which account for a small share of R&D-performing firms but most aggregate R&D tax relief. (JEL D22, H25, H32, L25, O31)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "The Effect of Deactivating Facebook and Instagram on Users’ Emotional State",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240806",
+            "abstract_en": "We estimate the effect of social media deactivation on users’ emotional state in two large randomized experiments before the 2020 US election. People who deactivated Facebook for the six weeks before the election reported a 0.060 standard deviation improvement in an index of happiness, depression, and anxiety, relative to controls who deactivated for just the first of those six weeks. People who deactivated Instagram for those six weeks reported a 0.041 standard deviation improvement relative to controls. Exploratory analysis suggests that the Facebook effect is driven by people over 35, while the Instagram effect is driven by women under 25. (JEL D12, D91, I31, J16, L82)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Trade Protection along Supply Chains",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240893",
+            "abstract_en": "We study the effects of trade protection along supply chains. We focus on temporary trade barriers against China, which has been the main target of US trade protection during the last decades. To deal with endogeneity concerns, we use an instrumental variable strategy, exploiting changes in the identity of swing states across presidential terms and heterogeneous exposure to these political shocks across industries. We find that politically motivated trade protection generates winners and losers: It fosters employment growth in protected industries but hampers employment growth in downstream industries. Our estimates imply a negative overall impact on US jobs. (JEL D72, F13, F14, L14, O19, P33)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "The Unintended Consequences of Academic Leniency",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240582",
+            "abstract_en": "Education is widely recognized as the primary driver of human capital accumulation. However, policies designed to promote educational attainment often overlook students’ endogenous responses. This paper provides empirical evidence of the causal impact of relaxed academic standards on student effort and achievement. We find that academic leniency results in mechanical GPA increases, but significant reductions in effort among lower ability students based on lower attendance and lower numerical grades. These heterogeneous effects compound and exacerbate gaps in engagement and achievement throughout high school, ultimately worsening deficits in human capital accumulation as measured by ACT scores. (JEL H75, I21, I24, I28, J15)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Childhood Health Shocks and the Intergenerational Transmission of Inequality",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240586",
+            "abstract_en": "This paper documents a socioeconomic gradient in adult labor market penalties stemming from a single chronic and treatable childhood health shock in a country with universal access to health care. Using childhood onset type 1 diabetes, Danish administrative registry data, and causal forests, we estimate substantial variation in the employment and earnings penalties at age 30. These penalties vary systematically with parental income and maternal educational attainment. Our findings help explain the income-health gradient and have important implications for policy discussions related to the design of health care systems. (JEL H51, I12, I13, I18, J16, J23, J31)",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -742,40 +774,21 @@
             ]
           },
           {
-            "title_en": "Estimating the Economic Value of Zoning Reform",
+            "title_en": "China’s Nationwide CO <sub>2</sub> Emissions Trading System: A General Equilibrium Assessment",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20230542",
-            "abstract_en": "We estimate the economic value of zoning reform in São Paulo, which altered maximum permitted construction along transportation corridors. Developers increased filings for multifamily construction in blocks affected by the reform, leading to more housing supply and lower housing prices in neighborhoods that allow more densification. Our equilibrium model of housing markets estimates an aggregate 1.6 percent increase in housing stock and a 0.4 percent reduction in prices, resulting in large housing wealth transfers from current to future homeowners. The reform produced welfare gains of 0.65 percent of city GDP, mostly due to developer profits and consumer gains from the newly built environment. (JEL G51, O18, R11, R23, R31, R41, R52)",
+            "url": "https://doi.org/10.1257/pol.20240652",
+            "abstract_en": "China’s CO 2 emissions trading system, the world’s largest, aims to significantly reduce CO 2 emissions. The system is a tradable performance standard (TPS), differing from cap and trade (C&T). We provide a dynamic general equilibrium assessment that uniquely considers institutional and fiscal features of China that affect policy costs and distributional impacts. Key findings: The TPS’s environmental benefits exceed its costs by a factor of five or more. Interactions with the fiscal system reduce or eliminate the TPS’s cost disadvantage relative to C&T. Introducing auctioning as a complementary source of allowance supply can reduce costs by 30 percent. (JEL D58, O13, P28, Q54, Q58)",
             "abstract_zh": "",
             "matched_topics": [
+              "国际贸易",
               "创新药"
             ]
           },
           {
-            "title_en": "Are Building Codes an Effective Adaptation to Wind Risk? Evidence from Remotely Detected Blue Tarps",
+            "title_en": "Identifying Tax Compliance from Variation in Tax Policy: Theory and Empirics",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20240544",
-            "abstract_en": "Hurricanes cause significant wind and water damage, yet economic research primarily focuses on the latter due to data limitations. We overcome this problem by analyzing photographs taken after Hurricane Irma (2017) to locate blue-tarped homes. Using a regression discontinuity framework, we find the 2001 Florida Building Code impacted wind risk for over 500,000 homeowners. Adopters were 22 percent less likely to experience wind damage and saw a 27 percent reduction in damage severity. Unrepaired properties also sold for 13.3 percent ($29,400) less and were harder to sell, underscoring the importance of building codes in mitigating risk and promoting climate change adaptation. (JEL Q54, R31, R38)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "When the Effects of Informational Interventions Are Driven by Salience—Evidence from School Parents in Brazil",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20220777",
-            "abstract_en": "Do informational interventions work because they lead subjects to merely update beliefs in the right direction or, to a large extent, because they increase the salience of the decision they target? We randomly assign parents to either an information group that receives text messages with weekly data on their child's attendance and school effort or a salience group that receives messages that try to redirect their attention without child-specific information. While information has large impacts on attendance, test scores, and grade promotion relative to the control group, outcomes in the salience group improve by at least as much. (JEL C93, D83, D91, I21, J13, O12)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Flood Risk Mapping and the Distributional Impacts of Climate Information",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20230552",
-            "abstract_en": "This paper examines the provision of official flood risk information in the United States and its distributional impacts on residential flood insurance take-up. Assembling all flood maps produced after Hurricane Katrina, I document that updated maps decreased the number of properties zoned in high-risk floodplains and incorrectly omitted five million properties, primarily in neighborhoods with more Black and Hispanic residents. Leveraging the staggered timing of map updates, I estimate that updated maps decreased flood insurance take-up and exacerbated racial disparities in insurance coverage. While past map updates distorted risk and price signals, correcting flood maps would yield substantial welfare gains. (JEL D83, G22, G52, J15, Q54)",
+            "url": "https://doi.org/10.1257/pol.20240812",
+            "abstract_en": "Governments increasingly use changes in tax rules to combat evasion. We develop a general approach to point-identify tax compliance along with supply and demand elasticities. Identification requires data on prices and quantities, variation in tax policy, and a demand or supply shifter. We illustrate our approach using data on Airbnb collection agreements, where taxes are enforced by shifting the statutory burden away from hosts and onto renters via the platform. We find that taxes are paid on roughly 0 to 1.6 percent of Airbnb transactions prior to enforcement. (JEL H25, H26, H71, K34, L83)",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
@@ -792,13 +805,23 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 12,
-        "total_in_issue": 16,
+        "total_in_issue": 17,
         "papers": [
+          {
+            "title_en": "Love-for-variety: with an application to an Armington model of competitive trade",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104345",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
           {
             "title_en": "Reshaping factory Asia: How did the US-China trade war affect the Asian-Pacific supply chain?",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104327",
-            "abstract_en": "This paper examines how the US-China trade war reshaped supply chains across the Asia-Pacific region. Using self-constructed product-level input-output linkages, we document three key findings. First, US tariff hikes significantly reduced Chinese exports to the US and, through upstream linkages, caused a 6.3% decline in China’s imports from Japan, South Korea, and Taiwan. Second, both China and the US reoriented parts of their supply chains toward ASEAN, Mexico, and India. China's exports to ASEAN rose by 6%, driven by both trade diversion and industrial relocation. Third, a quantitative Armington model shows that countries like ASEAN, Mexico, and India gained in welfare, while upstream suppliers such as Taiwan and South Korea incurred losses. If the trade conflict escalates into a global tariff war, global trade would contract by 5%, and all countries would experience welfare losses. These results underscore how bilateral trade tensions can trigger far-reaching supply chain shifts.",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
@@ -826,26 +849,6 @@
             ]
           },
           {
-            "title_en": "Horizontal regulatory barriers in international trade: Evidence from electric plugs",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104312",
-            "abstract_en": "Domestic policies regulating the horizontal dimensions of product differentiation can impede international trade and have become a major concern in contemporary trade negotiations. We estimate trade frictions associated with incompatible designs of electric plugs, a well-known example of a horizontal regulatory barrier. Our findings indicate that fewer electronic devices are exported to destinations with incompatible electric plugs, and this effect operates through both the extensive margin and the intensive margin of exports. These results are further corroborated by an online survey of Chinese electronics exporters. Moreover, incompatible plugs are associated with lower average quality of exported electronic devices, suggesting that horizontal regulatory barriers are linked to variation in the vertical dimension of product differentiation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "The extensive margin of restructuring: Adoption of new work in a global economy",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104326",
-            "abstract_en": "This paper examines the importance of trade-induced restructuring at the extensive margin, using a novel measure of new work---jobs employing new knowledge, skills, and technologies---based on the emergence of new job titles over time. I show that import competition significantly increases the adoption of new work in US manufacturing industries. The restructuring process, facilitated by offshoring, importantly explains compositional shifts toward non-production activities. These adjustments, amplified through supply chain linkages at the local labor market level, generate positive spillovers to local service industries. Finally, I show that new work is a key mechanism through which trade shocks can increase local wage inequality.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
             "title_en": "The elusive link between FDI and economic growth: Sectoral heterogeneity and global value chains",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104337",
@@ -854,6 +857,16 @@
             "matched_topics": [
               "国际贸易",
               "国际经济"
+            ]
+          },
+          {
+            "title_en": "Horizontal regulatory barriers in international trade: Evidence from electric plugs",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104312",
+            "abstract_en": "Domestic policies regulating the horizontal dimensions of product differentiation can impede international trade and have become a major concern in contemporary trade negotiations. We estimate trade frictions associated with incompatible designs of electric plugs, a well-known example of a horizontal regulatory barrier. Our findings indicate that fewer electronic devices are exported to destinations with incompatible electric plugs, and this effect operates through both the extensive margin and the intensive margin of exports. These results are further corroborated by an online survey of Chinese electronics exporters. Moreover, incompatible plugs are associated with lower average quality of exported electronic devices, suggesting that horizontal regulatory barriers are linked to variation in the vertical dimension of product differentiation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
             ]
           },
           {
@@ -899,10 +912,10 @@
             ]
           },
           {
-            "title_en": "Persistent global growth differences and euro area adjustment: Real activity, trade and the real exchange rate",
+            "title_en": "Keeping up with the Joneses: FDI, supply chain linkages, and industrial emissions",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104313",
-            "abstract_en": "Since the launch of the euro, the Euro Area has combined weak growth with persistent trade surpluses, a rising trade share, and the absence of a real exchange rate trend. In academic and policy debates, the Euro Area's trade surplus is often viewed as reflecting weak domestic aggregate demand. This paper argues that a purely demand-based view of the trade balance is incomplete. Using an estimated two-region framework, we find that slower productivity growth in the Euro Area has been a major driver of the trade surplus since 1999, while demand shocks play an important role in the rising trade balance following the global financial crisis. We further show that real exchange rate dynamics cannot be understood from productivity growth differentials and aggregate demand shocks alone, but also reflect longer-run shifts in trade patterns.",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104343",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -910,10 +923,10 @@
             ]
           },
           {
-            "title_en": "Keeping up with the Joneses: FDI, supply chain linkages, and industrial emissions",
+            "title_en": "Persistent global growth differences and euro area adjustment: Real activity, trade and the real exchange rate",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104343",
-            "abstract_en": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104313",
+            "abstract_en": "Since the launch of the euro, the Euro Area has combined weak growth with persistent trade surpluses, a rising trade share, and the absence of a real exchange rate trend. In academic and policy debates, the Euro Area's trade surplus is often viewed as reflecting weak domestic aggregate demand. This paper argues that a purely demand-based view of the trade balance is incomplete. Using an estimated two-region framework, we find that slower productivity growth in the Euro Area has been a major driver of the trade surplus since 1999, while demand shocks play an important role in the rising trade balance following the global financial crisis. We further show that real exchange rate dynamics cannot be understood from productivity growth differentials and aggregate demand shocks alone, but also reflect longer-run shifts in trade patterns.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -931,8 +944,18 @@
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 11,
-        "total_in_issue": 29,
+        "total_in_issue": 30,
         "papers": [
+          {
+            "title_en": "Relative affluence and mental health: Evidence from quasi-random class assignments",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103954",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
           {
             "title_en": "Educational legacies of christian missions: Evidence from the Democratic Republic of the Congo",
             "title_zh": "",
@@ -1016,16 +1039,6 @@
             ]
           },
           {
-            "title_en": "The security unlock: How rural social pension makes people more entrepreneurial?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103923",
-            "abstract_en": "Previous literature on the determinants of entrepreneurship has not explored the role of social pension. Leveraging variation in the roll-out timing of a universal rural pension program across Chinese counties, our analysis, at both the individual and aggregate levels, reveals that pension provision led to an increase in entrepreneurship among the younger generation. We show that this effect operates through two primary channels: an intergenerational transfer channel and a local demand channel. Specifically, the pension program mitigates upward transfers from adult children to elderly parents, while boosting local consumer demand, which exerts a demand-side “pull” effect on enterprise establishment. Our findings may shed new light on the interplay between pension, intergenerational resource allocation, and entrepreneurial activity.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
             "title_en": "The grass is not always greener: The effects of local labor market information on search and employment",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103915",
@@ -1039,9 +1052,10 @@
             "title_en": "Perceived need and measured well-being: How well do subjective rankings capture relative poverty?",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103943",
-            "abstract_en": "Subjective well-being rankings are increasingly used to target social protection programs, yet their ability to capture relative welfare and wealth remains debated. This study benchmarks self-, peer-, and elite-based poverty rankings against consumption- and wealth-based measures using Ethiopian household survey data, where about 20 households per village were ranked from neediest to least needy by themselves, peers, and community leaders. We assess concordance between subjective and conventional welfare rankings and explore sources of divergence. Subjective rankings align more with relative wealth than consumption and with total rather than per capita welfare, suggesting they overlook household composition. Elite-based rankings best capture conventional measures, followed by peers’ and self-rankings. Subjective rankings also better reflect relative deprivation among households exposed to covariate shocks. A composite index combining all three improves agreement with standard metrics. Information asymmetries, favoritism, and welfare dynamics partly explain discrepancies, offering insights for enhancing targeting in data-scarce settings.",
+            "abstract_en": "Subjective well-being rankings are widely used to target social protection programs, yet their ability to capture relative welfare and wealth remains debated. This study compares three commonly used subjective ranking methods: self-, peer-, and elite-based poverty rankings, against consumption- and wealth-based measures using a large household survey in Ethiopia, where about 20 households per village were ranked from most to least “needy” by themselves, their peers, and community leaders. We assess concordance between subjective and conventional welfare rankings and explore sources of divergence. Subjective rankings align more with relative wealth than consumption and with total rather than per capita welfare, suggesting they overlook household composition. Among the three subjective ranking methods, elite-based rankings best capture conventional measures, although overall concordance between subjective and welfare-based rankings remains weak. Subjective rankings also better reflect relative deprivation among households exposed to covariate shocks. A composite index combining all three modestly improves concordance with standard metrics. We find suggestive evidence that information asymmetry, favoritism, and welfare dynamics partly explain discrepancies between subjective rankings and conventional welfare measures. These findings offer important insights to improve targeting in data-scarce settings.",
             "abstract_zh": "",
             "matched_topics": [
+              "国际贸易",
               "创新药"
             ]
           }
@@ -1353,8 +1367,8 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 7,
-        "total_in_issue": 13,
+        "matched_count": 8,
+        "total_in_issue": 14,
         "papers": [
           {
             "title_en": "Gatekeepers and the endogenous design of consumer preferences under personalized pricing",
@@ -1385,6 +1399,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
+            ]
+          },
+          {
+            "title_en": "Channel coordination on exclusive vs. non-exclusive content under endogenous consumer homing",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103343",
+            "abstract_en": "We analyze competition between two digital platforms selling subscriptions for unlimited access to their content catalogs. An upstream content provider offers additional content and chooses between a per-consumer wholesale price and a non-marginal contract, modeled as revenue sharing. The platforms independently decide whether to buy this additional content, so that exclusive or non-exclusive distribution arises endogenously. With low initial exclusivity, the content provider and both platforms prefer per-consumer wholesale pricing, yielding non-exclusive distribution and full consumer singlehoming. With high initial exclusivity, all parties prefer a non-marginal contract, yielding exclusive distribution and partial multihoming. Allowing contracts contingent on exclusivity does not change these predictions.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
             ]
           },
           {
@@ -1438,9 +1462,31 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 56, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 4,
-        "total_in_issue": 7,
+        "matched_count": 6,
+        "total_in_issue": 10,
         "papers": [
+          {
+            "title_en": "The effects of national security assessments in public procurement on competition, sustainability, innovation, and critical technology procurement",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105657",
+            "abstract_en": "By strategically leveraging public procurement, governments can harness market competition to drive business innovation and sustainable development. It remains unclear, however, how this premise is affected by heightened security awareness due to increasing geopolitical tensions. Focusing on European Union (EU) member states, we examine how security-oriented practices in public procurement affect tender outcomes. Using data from a recent pan-European survey of 1613 procurement projects, coupled with data from the EU's tender platform Tender Electronic Daily, we test the effect of using national security assessments (NSAs) during tender preparation on competition, innovation, sustainability, and critical technology procurement. We find that conducting such assessments has positive effects on innovation and on critical technology procurement, but only for tenders won by domestic suppliers. NSAs can thus create urgency and mobilize resources to innovate through public procurement, but possibly in a way that reinforces national rather than EU-wide technological development. We identify a tension between the need for research and coordination of NSA development at the EU level to avoid market distortions arising from uncontrolled NSA proliferation versus a heightened bureaucratic burden for suppliers. We also argue that stimulating joint cross-border innovation procurement, particularly of critical technologies, is key to fully leveraging the benefits of the EU internal market when pursuing strategic policy goals.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际经济",
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Peer benchmarking and digital upgrading: Field experiments on business websites",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105630",
+            "abstract_en": "Can low-cost comparative information trigger firms to improve the performance of a digital asset they already own? Using two large-scale randomised controlled trials with approximately 7000 UK firms in the distilling and retail sectors, we study whether peer benchmarking of website performance prompts measurable improvement. Firms receiving benchmarked website metrics and targeted recommendations exhibit modest average improvements, with more favourable effects among initially underperforming firms, consistent with partial convergence towards the industry frontier. The catch-up dynamic is strongest on mobile metrics, including as a spillover in the first experiment, in which reports contained desktop metrics only, a pattern consistent with firms focusing improvement efforts where performance gaps are greatest. Treated firms also show suggestive report-aligned increases in the adoption of mobile-optimisation and content-delivery technologies. These patterns are consistent with comparative performance information helping firms identify and respond to performance shortfalls. The findings position peer benchmarking as a scalable, low-cost instrument for narrowing the digital divide among SMEs: informational aspiration cues generate more favourable responses among firms furthest behind than among firms nearer the frontier.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
           {
             "title_en": "Industrial policy in times of market power",
             "title_zh": "",
@@ -1624,17 +1670,6 @@
             ]
           },
           {
-            "title_en": "Does Agglomeration Enhance Property Value?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.02773",
-            "abstract_en": "Does agglomeration within a building and/or neighborhood enhance or weaken property value? The valuation impact is unclear ex ante, given that agglomeration tradesoff enhanced productivity at the expense of a more concentrated tenant base. We find that a value premium exists only when agglomeration at both the building and neighborhood levels consists of firms in the same industry. This premium represents capitalized knowledge spillover externalities. Additionally, we show the stock market rewards real estate investment trusts that transact specialized buildings. The valuation consequences arising from agglomeration in the underlying real estate market are thus consistent with the public real estate market. This paper was accepted by Tomasz Piskorski, finance. Funding: This work was supported by the Real Estate Research Institute. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02773 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "企业创新"
-            ]
-          },
-          {
             "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2022.02785",
@@ -1643,6 +1678,17 @@
             "matched_topics": [
               "国际贸易",
               "创新药"
+            ]
+          },
+          {
+            "title_en": "Does Agglomeration Enhance Property Value?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.02773",
+            "abstract_en": "Does agglomeration within a building and/or neighborhood enhance or weaken property value? The valuation impact is unclear ex ante, given that agglomeration tradesoff enhanced productivity at the expense of a more concentrated tenant base. We find that a value premium exists only when agglomeration at both the building and neighborhood levels consists of firms in the same industry. This premium represents capitalized knowledge spillover externalities. Additionally, we show the stock market rewards real estate investment trusts that transact specialized buildings. The valuation consequences arising from agglomeration in the underlying real estate market are thus consistent with the public real estate market. This paper was accepted by Tomasz Piskorski, finance. Funding: This work was supported by the Real Estate Research Institute. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02773 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
             ]
           },
           {
@@ -1716,19 +1762,9 @@
         "resolved_name": "Journal of Business Venturing",
         "issue_title": "Volume 42, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
-        "matched_count": 4,
-        "total_in_issue": 10,
+        "matched_count": 3,
+        "total_in_issue": 11,
         "papers": [
-          {
-            "title_en": "From breakdown to breakthrough: How entrepreneurs craft vulnerability narratives on social media",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106656",
-            "abstract_en": "Entrepreneurial narratives are widely understood as strategic tools for building legitimacy and mobilizing resources. Yet we observed that some entrepreneurs openly share stories of fear, doubt, and struggle on social media - foregrounding emotional exposure rather than demonstrating strategic purpose. We conceptualize these as entrepreneurial vulnerability narratives: a distinct narrative form through which the lived consequences of entrepreneurial uncertainty are publicly shared and opened to social negotiation. These disclosures expose entrepreneurs to interpersonal risks, heightened for women entrepreneurs who contend with gendered biases and less supportive social contexts. To examine this phenomenon, we conducted interviews with 33 women entrepreneurs and a 21-month observation of their Instagram activity. Our analysis reveals that women entrepreneurs hold multiple and coexisting motivations for disclosure - self-oriented, relational, and normative - oscillating between them as needed, while developing narrative-crafting tactics that sustain the benefits of sharing while managing interpersonal risks. Our study contributes by theorizing entrepreneurial vulnerability narratives as a distinct narrative form; by challenging the view that entrepreneurial narratives serve primarily persuasive functions; and by showing how entrepreneurs actively construct precarious holding environments in fragmented digital contexts.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
           {
             "title_en": "Between mission pull and governance burden: Geographic distance and deal realisation in impact investing",
             "title_zh": "",
@@ -1744,7 +1780,7 @@
             "title_en": "Who will I be? Refugee entrepreneurship and founder identity",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jbusvent.2026.106657",
-            "abstract_en": "We conducted a 27-month field study of 23 North Korean Defector (NKD) founders. Founders responded in three different ways to the disparaging default social identities they encountered by self-categorizing into three “avowed” social identities, which served as aspirations for how they would build their ventures. Founders generated sensemaking narratives that explained their behavior – to themselves and to others – by anchoring on the past, present, or future circumstances and claiming individual capabilities to build their ventures. The resulting ventures were characterized by distinctive missions, branding, and hiring preferences and therefore by patterned differences in the roles founders played. We contribute to scholarly understanding of refugee entrepreneurship by showing that the ways in which refugee founders respond to being in a new country and constructing new identities is more varied – because it is embedded in their responses to local social evaluations – than prior research has portrayed. We contribute to the development of founder identity theory (FIDT) by expanding prior understanding of how social identities drive founder role creation. Overall, we show the extension of refugee founder agency as they move from self-categorizing into avowed social identities to embedding themselves in the concrete social relations required to perform a role.",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -1772,14 +1808,34 @@
         "resolved_name": "Technovation",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 1,
-        "total_in_issue": 1,
+        "matched_count": 3,
+        "total_in_issue": 4,
         "papers": [
           {
             "title_en": "AI washing in technology markets: The divergent roles of patient capital in innovation signaling distortion",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103748",
-            "abstract_en": "As artificial intelligence (AI) becomes a central driver of innovation and competitive advantage, firms increasingly rely on AI-related narratives to signal technological capabilities to external stakeholders. However, such signaling may deviate from actual technological activities, giving rise to AI washing (AIwash), which can distort the interpretation of firms' technological capabilities and undermine the credibility of AI-related signals in emerging technology markets. Drawing on a contract-based perspective, we examine how heterogeneous forms of patient capital are associated with AI signaling distortion. Using a sample of Chinese A-share listed firms from 2007 to 2024, we find that equity-type patient capital (PCS) is negatively associated with AIwash, and this association is related to stronger governance and reputational discipline. In contrast, debt-type patient capital (PCD) is positively associated with AIwash, and this association is related to earnings management. The decomposition of disclosure–activities divergence indicates that PCS is primarily associated with lower levels of AI over-claiming, whereas PCD is associated with higher levels of over-claiming. Moreover, financing constraints positively moderates the relationship between PCD with AIwash. Heterogeneity analyses show that the negative association between PCS and AIwash is stronger in high-technology industries, star firms, and firms in mature and declining stages, whereas the positive association between PCD and AIwash is primarily concentrated in non-high-technology industries, non-star firms, and growth-stage firms. Overall, the findings contribute to the literature on innovation signaling and technology governance by showing that different financial contract structures are systematically associated with the credibility of AI-related technological signaling in emerging technology markets.",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Configuring innovation portfolio management practices in an era of emerging digital technologies",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103752",
+            "abstract_en": "Organizations that innovate with emerging digital technologies increasingly manage portfolios in which activities differ not only in risk and maturity, but in the kind of management they require. Research on innovation portfolio management has often approached the portfolio as a managerial object whose practices can be optimized, offering limited guidance for managing heterogeneous portfolios in contexts shaped by emerging digital technologies. Drawing on interviews with 26 informants in seven incumbent Scandinavian organizations, this study explores how organizations differentiate and configure their innovation portfolio management practices. Through an abductive analysis, we develop a taxonomy comprising three innovation portfolio management practice configurations: the product-developing, platform-mediating, and problem-solving configuration. The taxonomy helps explain portfolio heterogeneity by showing how qualitatively different innovation activities correspond to different configurations of innovation portfolio management practices. By reconceptualizing portfolio heterogeneity as the coexistence of qualitatively different practice configurations, the study extends innovation portfolio management theory and offers a practical framework for managing innovation portfolios in contexts shaped by emerging digital technologies.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "The input value of complementors in digital platform ecosystems: the reverse knowledge spillovers perspective",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103750",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -1936,8 +1992,8 @@
         "resolved_name": "Journal of Health Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
-        "matched_count": 3,
-        "total_in_issue": 12,
+        "matched_count": 4,
+        "total_in_issue": 13,
         "papers": [
           {
             "title_en": "Does advertising expand the market for hospital services? Evidence from Medicare",
@@ -1959,6 +2015,18 @@
             "matched_topics": [
               "国际贸易",
               "创新药"
+            ]
+          },
+          {
+            "title_en": "External reference pricing versus price controls under endogenous product quality",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jhealeco.2026.103195",
+            "abstract_en": "Motivated by the high prices of branded/patented pharmaceuticals in many parts of the world, this paper analyzes price regulations in a two-country (home and foreign) model where a single home firm serves both markets and its R&D investment determines product quality. We study two types of price regulations: direct price controls (PCs) and external reference pricing (ERP) under which the price that the firm is permitted to charge locally depends upon its price abroad. We show that although ERP undermines R&D incentives, its implementation can raise home welfare. However, home’s optimal ERP policy is too restrictive from a joint welfare perspective. Furthermore, if the foreign market is subject to a PC, home prefers ERP to a PC due to strategic considerations that come into play due to the international price linkage created by ERP.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
+              "企业创新",
+              "医药产业"
             ]
           },
           {
