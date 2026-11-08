@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 11:40:54",
+  "updated_at": "2026-11-08 11:32:27",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 337,
+    "fail_count": 362,
     "failed_examples": [
       "Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Fre :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "How do majority groups respond to narrowing inequality in racially polarized env :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
@@ -818,6 +818,19 @@
             ]
           },
           {
+            "title_en": "Input sourcing, trade liberalization, and diversifying mergers",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104347",
+            "abstract_en": "Extensive research has documented how trade liberalization enhances firms’ input-sourcing capabilities and boosts firm performances. Drawing on the resource-based view of firms, this study investigates whether trade liberalization enables firms to expand into industries that use similar inputs. We uncover a novel driver of diversifying mergers: firms strategically leverage their input capabilities. Using China’s WTO entry a natural experiment, which exogenously affects firms’ input sourcing and enhances their input capabilities, we show that firms are more likely to acquire targets from other industries experiencing higher tariff reductions in their common inputs. This effect is more pronounced when the affected inputs are differentiated or innovation-intensive. The main result holds in a global sample covering 73 countries. Our findings extend the core competence theory by highlighting how input-related capabilities shape firm boundaries across industries.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "产业经济",
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Reshaping factory Asia: How did the US-China trade war affect the Asian-Pacific supply chain?",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104327",
@@ -849,6 +862,16 @@
             ]
           },
           {
+            "title_en": "Horizontal regulatory barriers in international trade: Evidence from electric plugs",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104312",
+            "abstract_en": "Domestic policies regulating the horizontal dimensions of product differentiation can impede international trade and have become a major concern in contemporary trade negotiations. We estimate trade frictions associated with incompatible designs of electric plugs, a well-known example of a horizontal regulatory barrier. Our findings indicate that fewer electronic devices are exported to destinations with incompatible electric plugs, and this effect operates through both the extensive margin and the intensive margin of exports. These results are further corroborated by an online survey of Chinese electronics exporters. Moreover, incompatible plugs are associated with lower average quality of exported electronic devices, suggesting that horizontal regulatory barriers are linked to variation in the vertical dimension of product differentiation.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
             "title_en": "The elusive link between FDI and economic growth: Sectoral heterogeneity and global value chains",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104337",
@@ -860,10 +883,10 @@
             ]
           },
           {
-            "title_en": "Horizontal regulatory barriers in international trade: Evidence from electric plugs",
+            "title_en": "Trade shocks and human capital: Evidence from Brazil’s trade liberalization",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104312",
-            "abstract_en": "Domestic policies regulating the horizontal dimensions of product differentiation can impede international trade and have become a major concern in contemporary trade negotiations. We estimate trade frictions associated with incompatible designs of electric plugs, a well-known example of a horizontal regulatory barrier. Our findings indicate that fewer electronic devices are exported to destinations with incompatible electric plugs, and this effect operates through both the extensive margin and the intensive margin of exports. These results are further corroborated by an online survey of Chinese electronics exporters. Moreover, incompatible plugs are associated with lower average quality of exported electronic devices, suggesting that horizontal regulatory barriers are linked to variation in the vertical dimension of product differentiation.",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104334",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
@@ -877,16 +900,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
-            ]
-          },
-          {
-            "title_en": "Trade shocks and human capital: Evidence from Brazil’s trade liberalization",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104334",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
             ]
           },
           {
@@ -912,17 +925,6 @@
             ]
           },
           {
-            "title_en": "Keeping up with the Joneses: FDI, supply chain linkages, and industrial emissions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104343",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "国际经济"
-            ]
-          },
-          {
             "title_en": "Persistent global growth differences and euro area adjustment: Real activity, trade and the real exchange rate",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104313",
@@ -943,8 +945,8 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 11,
-        "total_in_issue": 30,
+        "matched_count": 12,
+        "total_in_issue": 32,
         "papers": [
           {
             "title_en": "Relative affluence and mental health: Evidence from quasi-random class assignments",
@@ -1036,6 +1038,16 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Do black politicians matter? Political leadership and racial composition in top public sector positions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103957",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           },
           {
@@ -1368,7 +1380,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 8,
-        "total_in_issue": 14,
+        "total_in_issue": 15,
         "papers": [
           {
             "title_en": "Gatekeepers and the endogenous design of consumer preferences under personalized pricing",
@@ -1462,8 +1474,8 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 56, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 6,
-        "total_in_issue": 10,
+        "matched_count": 11,
+        "total_in_issue": 15,
         "papers": [
           {
             "title_en": "The effects of national security assessments in public procurement on competition, sustainability, innovation, and critical technology procurement",
@@ -1511,6 +1523,26 @@
             ]
           },
           {
+            "title_en": "Scaling up to the cloud: Cloud technology use and growth rates in small and large firms",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105644",
+            "abstract_en": "Using a unique combination of micro-level data sources on French firms, this paper explores the relationship between cloud technologies and firm growth. Whereas digital technologies have generally been found to disproportionately benefit larger firms, we document that cloud use is positively associated with firm growth and this association is significantly stronger for smaller firms. Distinguishing between Infrastructure-as-a-Service (IaaS) and Software-as-a-Service (SaaS), we find that the size-contingent association is driven entirely by SaaS. Crucially, this small-firm advantage is conditional on complementary assets as it emerges only among firms endowed with ICT capabilities. Our results are robust across a range of specifications, including instrumental variable strategies. SaaS cloud use is further associated with internal workforce reorganisation toward ICT, managerial, and intermediate occupations and away from manual and clerical ones, particularly among smaller firms, consistent with SaaS cloud operating as an organisational innovation enabling digitalisation and scaling. Finally, we present descriptive sectoral evidence of a negative correlation between cloud and industry concentration.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Synergistic gains between high skilled labor and workplace automation: The case of corporate innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105659",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "Innovation adoption across regions: psychological openness and the early diffusion of digital platforms",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105610",
@@ -1521,10 +1553,42 @@
             ]
           },
           {
+            "title_en": "Selective industrial policy for the EU open strategic autonomy: The role of products' relatedness",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105656",
+            "abstract_en": "The European Union has adopted the concept of Open Strategic Autonomy (OSA) to reduce strategic dependencies while preserving openness to international trade. An important policy question is therefore which countries are best positioned to develop new trade advantages in strategic products. Building on the literature on relatedness and export diversification, we address this question by complementing the standard notion of product distance, measuring how close a country is to a product compared to other countries, and how close a product is to a country's productive structure compared to other products. We term these concepts absolute and relative distance advantages. We argue that relative distance advantages reflect countries' incentives to diversify into a product, whereas absolute distance advantages capture their ability to successfully develop new trade advantage in that product. Using trade data for EU countries, we show that both dimensions significantly predict the emergence of new export specializations in products identified by the EU as strategic.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Staying on topic: How research knowledge spills over via university education to regional entrepreneurial activity",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105646",
+            "abstract_en": "Entrepreneurship is an important driver of regional economic development. Universities contribute to this goal by conducting state-of-the-art research and educating talent. The academic and policy debate regarding innovative start-up firms has primarily focused on how the outputs of research can be translated into entrepreneurial activities. In contrast, the role of education in fostering entrepreneurial activity has received comparatively little attention. As such, it remains unknown which task of a university is more important for innovative entrepreneurship in a region: research or education. Further, existing research on academic entrepreneurship has largely focused on Science, Technology, Engineering, and Mathematics (STEM) or the life sciences (LS), but innovative start-up firms in the Social Sciences and Humanities (SSH) domain are understudied. Furthermore, while entrepreneurship education is seen as an important method to promote innovative entrepreneurial activity, little attention has been paid to its effectiveness in achieving this goal. Hence, we pose the following question: What is the influence of university education and research on the level of regional innovative entrepreneurial activities within a given topic? We make education, research, and entrepreneurship data comparable across specific topics in a region, by applying topic models to course descriptions and publication abstracts from two universities in the Netherlands, as well as to innovative start-up firm descriptions from the two regions in which these universities are located.We show that both research and education foster innovative entrepreneurial activity, but that the effect of education is much stronger than that of research. Second, we find that education mediates the positive effect of research on innovative entrepreneurship. Third, we observe that innovative entrepreneurial activities are highest in the SSH domain. Finally, we find evidence that providing practical entrepreneurship education is beneficial for innovative entrepreneurial activity. This effect appears particularly strong in the LS and, to a lesser extent, in the STEM domain. Our findings indicate that more attention to the impact of education and pedagogical approaches is warranted to promote innovative entrepreneurial activity.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新"
+            ]
+          },
+          {
             "title_en": "Who Gains from creative destruction? Evidence from high-quality entrepreneurship in the United States",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105642",
             "abstract_en": "The question of who gains from high-quality entrepreneurship is crucial to understanding whether investments in innovative startup firms produce socially beneficial outcomes. Although entrepreneurship is widely viewed as a central driver of economic growth, recent research has raised concerns that it may also exacerbate inequality and other undesirable social outcomes. We bring new evidence to this debate by analyzing the impact of entrepreneurship on a variety of local economic outcomes, including income inequality, average incomes, and income mobility, using IRS and U.S. Census Bureau microdata. We find that entrepreneurship indeed increases income inequality, although this effect fades in the years after firm founding. While entrepreneurship produces statistically significant income gains across the distribution, the economic magnitude of these effects varies dramatically, with benefits concentrated among top earners. We also find that entrepreneurship can serve as a mobility tool for less well-off individuals, increasing their probability of rising to the top of the income distribution. These income and mobility gains, however, are uneven across demographic groups.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "When the music changes, so must your dance: Technology-forcing regulation and the shifting geography of automotive invention",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105655",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -1624,67 +1688,87 @@
         "query_name": "Management Science",
         "issn": "0025-1909",
         "resolved_name": "Management Science",
-        "issue_title": "Volume 72, Issue 10",
+        "issue_title": "Volume 72, Issue 11",
         "issue_url": "https://pubsonline.informs.org/journal/mnsc",
         "matched_count": 12,
-        "total_in_issue": 12,
+        "total_in_issue": 19,
         "papers": [
           {
-            "title_en": "Do Mutual Funds Respond to Mechanical Changes in ESG Ratings?",
+            "title_en": "Health Shocks and Annuity Choices",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.06184",
-            "abstract_en": "Using a quasi-experimental setting, we study whether mutual fund investors respond to a purely mechanical change in environmental, social, and governance (ESG) ratings—that is, a change independent of concurrent changes in firms’ actual ESG activities. We find that when a firm experiences a mechanical increase in ESG ratings, the probability of being selected by an ESG fund increases (extensive margin). In contrast, if the firm is already in the fund’s portfolio, its holdings do not change (intensive margin), consistent with portfolio weighting being based on market capitalization. The selection effect is observable not only among funds that follow an ESG index but also among active ESG funds, which presumably should have the resources and ability to identify and filter out the mechanical increase in ESG ratings. Among active ESG funds, the selection effect is stronger for funds with less assets under management, larger portfolios of firms, and lower expense ratios, consistent with the notion that resource constraints may impede a fund’s screening ability. Our findings imply that passive investing based on commercial ESG ratings—whether due to resource constraints or portfolio indexing—might result in portfolio allocations that do not reflect the actual ESG activities of firms. This paper was accepted by Suraj Srinivasan, accounting. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06184 .",
+            "url": "https://doi.org/10.1287/mnsc.2025.00682",
+            "abstract_en": "This study examines how a first-time malignant cancer diagnosis, acting as an informational shock to perceived longevity, affects the demand for life annuities. Using a quasi-experimental design and exploiting Swedish administrative data, we show that receiving a cancer diagnosis close to retirement reduces annuitization rates by 5.5%. The diagnosis lowers the money’s worth ratio of a life annuity by 33%, representing a substantial financial loss. Combined with the modest behavioral response, this yields a low demand elasticity of 0.17 with respect to the perceived annuity value. Evidence from a complementary laboratory experiment indicates that this limited adjustment is driven by the influence of a default option that reduces responsiveness to private health information and may disadvantage individuals in poor health. This paper was accepted by Camelia Kuhnen, finance. Funding: This work was supported by The Henry Crown Institute of Business Research in Israel [Grant 08923100], the Israel Science Foundation [Grant 1637/23], the Jeremy Coller Foundation [Grant 0612017581], the Hamrin Foundation [Grant 2023-09], the Solomon Lew Center for Consumer Behavior [Grant 08923200], the Swedish Research Council for Health Working Life and Welfare [Grant 2023-00046], and the Center for Agriculture, Environment and Natural Resource [Grant 0004]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2025.00682 .",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Nudging Green-but-Slow Shipping Choices in Online Retail",
+            "title_en": "The Effects of Personal Data Management on Competition and Welfare",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.00239",
-            "abstract_en": "Faster e-commerce fulfillment often comes at a cost to the environment because of energy-intensive transportation modes and more frequent, less consolidated last-mile deliveries. Despite these environmental implications, most retailers feel pressure to provide fast fulfillment to remain competitive. But what if consumers could be nudged to voluntarily choose green-but-slow shipping? In practice, a variety of information strategies are used to nudge such decisions, but it is unclear which strategy is best and why. This study examines these questions in two logistical contexts, each involving a different type of process change to support green-but-slow shipping: shipping mode and order consolidation. We first introduce a conceptual framework for selecting information strategies based on their influence on customer perceptions related to key stakeholders in each context: delivery convenience (self), environmental impact (society), and sustainability intention (retailer). Then, drawing on behavioral research and industry practices, we identify and test the effect of a comprehensive set of information strategies (i.e., Process, Green Label, Green Process, and Green Outcome) through controlled experiments involving 3,800 participants. Experimental results suggest that different logistical contexts require distinct nudging strategies, aligning with our conceptual framework. We find that including a green label is particularly effective for the shipping mode context, especially when combined with outcome information. In contrast, process information is more promising in the order consolidation context. Also, adding financial incentives can enhance the effectiveness of information strategies without a clear environmental signal, whereas pairing them with a simple green label may be effective for low eco-conscious individuals. This paper was accepted by Elena Katok, operations management. Funding: This work was supported by the Institute on the Environment, University of Minnesota [MF-0009-23]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00239 .",
+            "url": "https://doi.org/10.1287/mnsc.2024.08024",
+            "abstract_en": "This study examines the impact of consumers’ personal data management on firm competition in the data collection and application markets, as well as on welfare outcomes. Consumers purchase products from differentiated firms in these two markets. Initially, in the data collection market, firms compete to collect consumer data to predict preferences in the data application market, enabling them to offer personalized prices to their targeted customers. Before firms set prices in the data application market, targeted consumers can erase their data at a fixed cost, thereby becoming untargeted. We show that personal data management leads to higher prices, lower firm profits, negative externalities among consumers, and reduced consumer surplus in the data application market. In the data collection market, personal data management intensifies competition and improves consumer surplus. Our analysis further explores extended scenarios of personal data management—including the rights to opt out of data collection, data portability, and data ownership—and reveals that firms’ two-market profits and total consumer surplus change nonmonotonically with consumers’ data rights. Specifically, granting consumers data rights beyond simple data erasure can reverse the effects of erasure alone, benefiting firms while harming consumers. Moreover, data management influences cross-market competition quite differently depending on which market consumers exercise their data rights. Finally, we discuss proactive strategies firms can employ to maintain profitability under personal data laws. This paper was accepted by Dmitri Kuksov, marketing. Funding: J. Cong acknowledges the financial support from National Natural Science Foundation of China (Projects 72473024, 72192845) and support from the Shenzhen Research Institute, City University of Hong Kong. The authors gratefully acknowledge the financial support from the Japan Society for the Promotion of Science (JSPS), KAKENHI [Grants JP19H01483, JP20H05631, JP21H00702, JP21K01452, JP21K18430, JP23K20593, and JP23K25515], Nomura Foundation, the International Joint Research Promotion Program at University of Osaka, and the program of the Joint Usage/Research Center for “Behavioral Economics” at ISER, University of Osaka. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2024.08024 .",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Joint Assortment and Inventory Planning Under the Markov Chain Choice Model",
+            "title_en": "Forecasting GDP Growth Rates Using Accounting Earnings: A Large Panel Microdata Approach",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.01322",
-            "abstract_en": "We address the joint assortment and inventory optimization problem for an online retailer facing a set of N substitutable products. The retailer must determine both the assortment and inventories of these products before the start of the selling season to maximize the expected profit. We consider a setting with dynamic SOBS, where consumers’ choices follow the Markov chain choice model. This is a challenging problem, and even computing the expected profit for a given assortment and inventory solution requires solving an intractable dynamic program. We present a sample average approximation-based algorithm for the problem that achieves a regret of [Formula: see text] with respect to an linear program (LP) upper bound. Our algorithm first selects an assortment by balancing the expected revenue (from a single consumer) and the inventory cost. We do this by identifying a subset of products that can pool demand from the universe of substitutable products without significantly cannibalizing the revenue in the presence of dynamic substitution behavior of consumers. We then use a sample average approximation-based LP to decide on the inventory level for each item in the selected assortment. We numerically show that our algorithm considerably improves the performance over standard approaches from the literature on a wide range of instances of the Markov chain choice model and demonstrate that it carefully handles the inventory of products in the long tail (i.e., products with small mean total demand). This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by Amazon [Research Award (V. Goyal and O. El Housni)] and the National Science Foundation [Grants CMMI 1636046 (V. Goyal) and 2226900 (O. El Housni)]. The research was partially supported by RGC from Hong Kong [Grant 16215820 (G. Gallego)]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.01322 .",
+            "url": "https://doi.org/10.1287/mnsc.2025.01549",
+            "abstract_en": "Economists and econometricians typically use aggregate economic and financial variables for gross domestic product (GDP) prediction. However, aggregation often results in a loss of valuable information, diminishing key features such as heterogeneity, interactions, nonlinearity, and structural breaks. We propose a novel microforecasting approach, using large panel data of firm accounting earnings from corporate financial reports to forecast GDP. By employing machine learning methods, we can effectively exploit this large microlevel information set to achieve substantially more accurate GDP forecasts. Our findings highlight the advantages and potential of utilizing microlevel data for macroprediction, diverging from the conventional macroforecasting paradigm that relies on aggregate data to forecast macrovariables. This paper was accepted by Will Cong for the Special Issue on Digital Finance. Funding: Y. Hong is supported by the MOE Social Sciences Innovative Group on Complex Systems Modeling in Economic Management in the Era of Digital Intelligence, University of Chinese Academy of Sciences [Grant E5820801] and the National Science Foundation of China (NSFC) Basic Science Center Project “Econometric Modeling and Economic Policy Studies” [Grant 71988101]. N. Huang is supported by the NSFC [Grant 72473166]. Y. Wang is supported by the Shenzhen Municipal Government, National Natural Science Foundation of China [Grant 20220810114654001]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01549 .",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Start-Up Firms and Corporate Culture: Evidence from Advertised Corporate Culture",
+            "title_en": "The Demand for Government Debt",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.00254",
-            "abstract_en": "I document the advertised corporate culture among start-up firms from an online job board. Two corporate culture types emerge: one that concerns the well-being of employees (worker-centered culture) and another that emphasizes other values, such as customers, firms, and markets (firm-centered culture). The worker-centered culture attracts 20% more applications than the other culture type. Firms advertising the worker-centered culture pay 5% lower salaries than measurably similar jobs. Outcomes do not significantly differ among firms that promote different types of corporate culture. To assess whether a worker-centered culture is adopted to reduce labor costs or enhance productivity, I develop an equilibrium model. The model implies that many firms adopt a worker-centered culture primarily for cost savings. This paper was accepted by Ashish Arora, entrepreneurship and innovation. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00254 .",
+            "url": "https://doi.org/10.1287/mnsc.2025.00332",
+            "abstract_en": "We document that the sectoral composition and marginal buyers of government debt differ notably across jurisdictions and over time. We use instrumental variables derived from monetary policy surprises to estimate the demand elasticities of various sectors. In the United States, commercial banks and mutual funds exhibit the most price-elastic demand, whereas the foreign official sector has a price-inelastic demand. Based on these estimates and under certain assumptions, we find that a 1% increase in the Central Bank holdings of U.S. Treasuries results in an around 8- to 13-basis-point drop in long-term yields depending on the market composition. Elasticities of individual sectors do not differ in a statistically significant manner when the Central Bank share in the Treasury market increases or decreases. However, different market compositions during various quantitative easing (QE) and quantitative tightening (QT) programs have led to an asymmetric effect with the impact of QE on yields being greater than that of QT. Our results suggest that, overall, the demand for U.S. Treasuries is considerably more elastic than for equities, corporate bonds, and emerging market sovereign bonds found in the literature. We also repeat the analysis for other jurisdictions and compare estimates for different sectors. This paper was accepted by Lukas Schmid, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.00332 .",
             "abstract_zh": "",
             "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Tobin Tax Policy, Housing Speculation, and Property Market Dynamics",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2022.00370",
+            "abstract_en": "Hong Kong introduced a Tobin property tax—the Special Stamp Duty (SSD)—in 2010, which substantially increased the selling costs of short-term residential property holders. This study examines the effectiveness of this Tobin tax in curbing speculation and cooling down the housing market. We find that the SSD effectively curtails flippers who hold homes for less than two years and reduces their market presence from 23.2% in 2009% to 2.4% in 2011 and 0.9% in 2013. However, one year after implementing the tax, housing prices grow by 12.64% and 15.76% in the primary and secondary markets, respectively, indicating a lack of a market cooling effect. Flippers strategically defer sales to circumvent the SSD charges, resulting in the sharp bunching of urgent sales immediately after the lock-in period ends. Further, the SSD effectively increases selling costs and prolongs potential sellers’ holding periods, thereby significantly reducing liquidity and driving up prices in the secondary market. The unintended externality is that the unmet housing demand from the secondary market triggers a buying frenzy in the primary market, which increases the prices in the primary market as well. Our findings have policy implications for the viability of Tobin taxes for regulating real estate markets. This paper was accepted by Agostino Capponi, finance. Funding: S. Agarwal was supported by the National Natural Science Foundation of China [Grant 72495154]. Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00370 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Quality Disclosures and Disappointment: Evidence from the Academy Nominations",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.09016",
+            "abstract_en": "This study examines the unintended consequences of quality disclosures, focusing on how Academy Award nominations impact consumer satisfaction in the movie industry. Awards and certifications typically signal high quality and increase consumer expectations. Yet, if the experience falls short of the expectation, they may also lead to disappointment. Using a novel data set from MovieLens, we analyze user ratings for movies surrounding Academy Award nominations from 1995 to 2019. We first implement a difference-in-differences strategy comparing nominated and non-nominated films and then introduce a novel recommendation-based matching approach that leverages vector representations of user preferences trained prior to the nominations. Our analysis removes taste-based selection and isolates changes in user experience: users who rate a movie after its nomination assign significantly lower ratings than similar users who rated the same film earlier. This effect accounts for more than 7% of the prenomination rating gap between nominated and non-nominated films and is most pronounced among less experienced users. Our findings are validated with data from IMDb, where the effect is even more pronounced, likely reflecting differences in the composition of the user base across platforms. Additional textual analysis of user-generated content on both platforms provides further evidence that the postnomination decline in ratings is driven by disappointment, rather than disinterest, deteriorating viewing conditions, or snob effects associated with mainstream popularity. This paper was accepted by Duncan Simester, marketing. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.09016 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Private Equity, Consumers, and Competition: Evidence from the Nursing Home Industry",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.01486",
+            "abstract_en": "This paper studies how product market competition shapes the impact of private equity (PE) acquisitions on consumers. We examine nursing home buyouts and observe that PE-owned facilities exhibit greater competitive sensitivity: competing more aggressively when competitive incentives are strong and exploiting market power more aggressively when competitive incentives are weak. We find that PE-owned facilities are more sensitive to local market competition—even when comparing effects only across facilities purchased as part of the same acquisition—and are more responsive to a pro-competitive policy helping consumers compare facilities. This suggests that regulators should attend to the competitive sensitivity of acquirers and the concentration of markets where acquisitions occur, as well as consider pro-competitive policies to mitigate or even reverse PE’s potentially adverse consequences. This paper was accepted by Carrie Chan, healthcare management. Funding: This work was supported by the UCLA Price Center for Entrepreneurship and Innovation and the UCLA Fink Center for Finance and Investment. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01486 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济",
               "企业创新"
             ]
           },
           {
-            "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
+            "title_en": "Measuring the Driving Forces of Predictive Performance: Application to Credit Scoring",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.02785",
-            "abstract_en": "Many large cities have adopted a policy of restricting the number of new vehicle licenses in order to address the challenges of traffic and air pollution problems. An important question that then arises is how to allocate these limited new license quotas among a large set of demanders while taking both social efficiency and equality into consideration. Inspired by this practical problem, we study the problem of designing simple and optimal mechanisms to tradeoff between efficiency and equality in a similar public goods allocation problem. We first propose a truthful two-group mechanism framework that is both general and simple and then use it to compute the optimal solution that maximizes social efficiency while guaranteeing a certain level of equality. Interestingly and surprisingly, under some natural conditions regarding the players’ private values, we show that the optimal mechanisms within the proposed framework are always the mechanisms that first run an auction and then run a lottery (ATL for short). In addition, beyond the framework and those conditions, we prove that the ATL mechanism can always guarantee at least [Formula: see text] ([Formula: see text] is the minimum equality level) of the optimal solution efficiency. This approximation ratio can in practice be further improved to near-optimal when resources are scarce and the natural conditions hold. We further establish a theoretical connection between these natural conditions and common value distributions, demonstrating that these conditions are widely satisfied in practice. Finally, we implement several experiments to verify the ATL mechanism’s optimality and robustness. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72401252, 72192830, 72192832, 62472428, 72192804, 72301235, 72394360 and 72394363]; the Public Computing Cloud, Renmin University of China, the fund for building world-class universities (disciplines) of Renmin University of China; the Beijing Natural Science Foundation [Grant Z220001]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.02785 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Does Agglomeration Enhance Property Value?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.02773",
-            "abstract_en": "Does agglomeration within a building and/or neighborhood enhance or weaken property value? The valuation impact is unclear ex ante, given that agglomeration tradesoff enhanced productivity at the expense of a more concentrated tenant base. We find that a value premium exists only when agglomeration at both the building and neighborhood levels consists of firms in the same industry. This premium represents capitalized knowledge spillover externalities. Additionally, we show the stock market rewards real estate investment trusts that transact specialized buildings. The valuation consequences arising from agglomeration in the underlying real estate market are thus consistent with the public real estate market. This paper was accepted by Tomasz Piskorski, finance. Funding: This work was supported by the Real Estate Research Institute. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02773 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.02025",
+            "abstract_en": "Because they play an increasingly important role in determining access to credit, credit scoring models are under growing scrutiny from banking supervisors and internal model validators. These authorities need to monitor the model performance and identify its key drivers. To facilitate this, we introduce the explainable performance (XPER) methodology to decompose a performance metric (e.g., area under the curve (AUC), [Formula: see text]) into specific contributions associated with the various features of a forecasting model. XPER is theoretically grounded on Shapley values and is both model-agnostic and performance metric-agnostic. Furthermore, it can be implemented either at the model level or at the individual level. Using a novel data set of car loans, we decompose the AUC of a machine-learning model trained to forecast the default probability of loan applicants. We show that a small number of features can explain a surprisingly large part of the model performance. Notably, the features that contribute the most to the predictive performance of the model may not be the ones that contribute the most to individual forecasts (Shapley additive explanation). Finally, we show how XPER can be used to deal with heterogeneity issues and improve performance. This paper was accepted by Kay Giesecke, finance. Funding: The authors thank the Institut Universitaire de France, the Autorité de contrôle prudentiel et de résolution Chair in Regulation and Systemic Risk, the HEC-Deloitte Chair on Artificial Intelligence for Business Innovation, the Excellence Initiative of Aix-Marseille University [A*MIDEX], and the French National Research Agency [Grants AMSE ANR-17-EURE-0020, Ecodec ANR-11-LABX-0047, and MLEforRisk ANR-21-CE26-0007] for supporting our research. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.02025 .",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -1692,63 +1776,46 @@
             ]
           },
           {
-            "title_en": "Earnings Conference Calls and the SEC Comment Letter Process",
+            "title_en": "Exchange-Traded Funds and the Wash Sale Loophole",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.02065",
-            "abstract_en": "The Securities and Exchange Commission (SEC) reviews firms’ financial reports and issues comment letters to ensure compliance with applicable disclosure and accounting requirements. We explore the nature, determinants, and consequences of SEC comment letters that refer to information disclosed in voluntary earnings conference calls. Using hand-collected data, we document that the SEC primarily references these voluntary disclosures to illustrate insufficiencies and, less commonly, inconsistencies in mandatory filings across a wide range of topics. These letters are more likely to be issued when filing reviews are more complex, SEC staff are less resource constrained, and for firms with more institutional investors and analysts. Conference call–related comments tend to occur during higher-quality review processes and require greater remediation costs than other comments. The SEC’s use of call disclosures also leads to more pronounced changes in firms’ subsequent mandatory filings, particularly when the firm indicates agreement with SEC comments. However, we observe a mixed effect on the overall information environment, consistent with possible unintended consequences for the quality of firms’ voluntary disclosures. This paper was accepted by Suraj Srinivasan, accounting. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02065 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "The Rapid Adoption of Generative AI",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2025.02523",
-            "abstract_en": "Generative artificial intelligence (genAI) is a potentially important new technology, but its impact on the economy depends on the speed and intensity of adoption. This paper reports results from a series of nationally representative U.S. surveys of genAI use at work and at home. As of late 2024, 45% of the U.S. population age 18–64 uses genAI. Among employed respondents, 27% used genAI for work at least once in the previous week: 10% used it every workday and 17% on some but not all workdays. Relative to each technology’s first mass-market product launch, work adoption of genAI has been faster than the personal computer (PC), and overall adoption has outpaced both PCs and the internet by an even wider margin. Between 1% and 7% of all work hours are currently assisted by genAI, and respondents report time savings equivalent to 1.4% of total work hours. Potential productivity gains vary widely by industry, and firm climate and policies play an important role in adoption patterns. This paper was accepted by Alfonso Gambardella, business strategy. Funding: This work was supported by the Walmart Foundation [Grant 252882]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.02523 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Macroeconomic Announcements and the News That Matters Most to Investors",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.07650",
-            "abstract_en": "Studying a large set of macroeconomic announcements (MAs) and disentangling their news content, we show that a portfolio of stocks that pays off around MAs that negatively impact the aggregate stock market commands a positive risk premium. Adding this portfolio to a position in the aggregate market substantially increases Sharpe ratio while reducing MA risk exposure, which implies a rejection of the CAPM. Using state-of-the-art measures of cash flow and discount rate news and consistent with prominent intertemporal CAPM specifications, we argue that the portfolio’s risk premium compensates investors for large reinvestment risk. Thus, we conclude that the MA news that matters most to investors is discount rate news and not cash flows news. This paper was accepted by Lukas Schmid, finance. Funding: This paper is based upon work supported by the Dutch Research Council [NWO Vidi Grant 201005], Fundação para a Ciência e a Tecnologia [UID/ECO/00124/2020], and POR Lisboa and POR Norte [Social Sciences DataLab, Project 22209]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.07650 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Do Financial Advisors Charge Sustainable Investors a Premium?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2025.00232",
-            "abstract_en": "Despite growing regulatory concerns about potential overcharging of sustainable investors, empirical evidence is lacking. In two controlled laboratory-in-the-field experiments with 415 professional financial advisors from Europe and the United States and an incentivized survey, we identify two distinct but interacting effects. First, advisors charge sustainable investors a premium. This premium persists even when accounting for differences in skill, effort, and costs. Second, advisors impose higher fees on clients with low financial literacy. These factors interact. Sustainable investors with low financial literacy are charged the highest fee, whereas those with high financial literacy do not pay a sustainability premium. Our findings suggest that advisors extract additional fees for sustainable investment mandates but avoid overcharging sustainable investors with high financial literacy. This paper was accepted by Camelia Kuhnen, finance. Funding: P. Smeets was supported by the Nederlandse Organisatie voor Wetenschappelijk Onderzoek [Grant VI.Vidi.221E.011]. The experiments were financially supported by the Graduate School of Business and Economics at Maastricht University, Vrije Universiteit Amsterdam, and Radboud University. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.00232 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Dynamic Unraveling",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.02412",
-            "abstract_en": "This paper studies price and liquidity dynamics in the presence of costly short-selling when uninformed traders have limited willingness-to-pay to trade securities. In this setting, unraveling and Bayesian social learning interact to produce a novel mechanism, dynamic unraveling: Unraveling that generates signals that lead to future unraveling. Applying the theory, I show how dynamic unraveling explains low-volume crashes: falls in the prices of securities on low or declining trading volume. In this context, short-selling restrictions can make low-volume crashes more likely by intensifying dynamic unraveling, but liquidity injections have the opposite effect. This paper was accepted by Agostino Capponi, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02412 .",
+            "url": "https://doi.org/10.1287/mnsc.2024.06944",
+            "abstract_en": "Tax wash sale rules prohibit the recognition of capital losses when substantially identical securities are sold and immediately repurchased within short windows. This study examines whether institutional investors use exchange-traded funds (ETFs) to circumvent wash sale rules. Consistent with tax-motivated demand for ETFs, incumbent ETFs both create more shares and experience more trading volume upon the introduction of nearly identical ETFs, particularly when recent returns are negative. We show that tax-sensitive institutions’ investment in highly correlated ETFs has proliferated in recent years, exceeding a quarter of their assets under management. Furthermore, tax-sensitive institutions holding more ETFs are significantly more likely to engage in swapping nearly identical ETFs. This swapping behavior has become widespread, with tax-sensitive institutional investors swapping $417 billion of nearly identical ETFs since 2001. We estimate that tax-sensitive institutions realized more than $84 billion dollars in losses in highly correlated ETFs associated with the swapping activity since 2001. This paper was accepted by Shiva Rajgopal, accounting. Funding: The authors thank their institutions for financial support. M. Dambra thanks the Kenneth W. Colwell endowment for research support, C. M. C. Lee thanks the Kermit O. Hanson endowment for research support, and P. J. Quinn thanks PricewaterhouseCoopers for research support. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06944 .",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Female Equity Analysts and Corporate Environmental and Social Performance",
+            "title_en": "Frozen-State Value Iteration: Faster Reinforcement Learning by Freezing Slow States",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.06429",
-            "abstract_en": "This paper examines the impact of female analyst coverage on firms’ environmental and social (E&S) performance. Exploiting broker closures as a quasi-exogenous shock to analyst coverage, we find that firms experiencing an exogenous decline in female analyst coverage subsequently show a significantly larger drop in E&S scores than those experiencing an equivalent decline in male analyst coverage. To explore the underlying mechanisms, we develop novel machine-learning models to analyze more than 2.4 million analyst reports and 120,000 earnings call transcripts. Our analysis shows that, compared with their male counterparts, female analysts are more likely to address E&S issues, particularly those involving regulatory compliance, stakeholders, and the environment, in both research reports and earnings conference calls. They also display distinct cognitive and linguistic patterns when discussing E&S issues. Furthermore, female analysts are more likely to issue lower stock recommendations and target prices (lower stock recommendations) following negative E&S discussions in their reports (E&S incidents) than male analysts. Finally, investors respond more strongly to female analysts’ negative tones when discussing E&S issues. Overall, our findings suggest that gender diversity among analysts plays a significant role in shaping corporate E&S practices and provide new insights into the origins of gender differences in skills within the equity analyst profession. This paper was accepted by Will Cong, finance. Funding: We acknowledge financial support from the Social Sciences and Humanities Research Council of Canada [Grant 435-2022-0285] and the Sauder Exploratory Research Grants Program. K. Li acknowledges financial support from the Canada Research Chair in Corporate Governance. T. Zhang acknowledges data support from the Whitcomb Center for Research in Financial Services at Rutgers University. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06429 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.00012",
+            "abstract_en": "We study infinite-horizon Markov decision processes (MDPs) with fast–slow structure, in which some state variables evolve rapidly (fast states), whereas others change more gradually (slow states). This structure commonly arises in practice when decisions must be made at high frequencies over long horizons and when slowly changing information still plays a critical role in determining optimal actions. Examples include inventory control under slowly changing demand indicators or dynamic pricing with gradually shifting consumer behavior. Modeling the problem at the natural decision frequency leads to MDPs with discount factors close to one, making them computationally challenging. We propose a novel approximation strategy that freezes slow states during phases of lower level planning and subsequently applies value iteration to an auxiliary upper level MDP that evolves on a slower timescale. Freezing states for short periods of time leads to easier to solve lower level problems, whereas a slower upper level timescale allows for a more favorable discount factor. On the theoretical side, we analyze the regret incurred by our frozen-state approach, and this leads to simple insights on how to trade off regret versus computational cost. Empirically, we benchmark our new frozen-state methods on three domains: (i) inventory control with fixed order costs, (ii) a grid world problem with spatial tasks, and (iii) dynamic pricing with reference price effects. We demonstrate that the new methods produce high-quality policies with significantly less computation, and we show that simply omitting slow states is often a poor heuristic. This paper was accepted by J. George Shanthikumar, data science. Funding: This research is based upon work supported by the U.S. National Science Foundation [Grant 1807536]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00012 .",
             "abstract_zh": "",
             "matched_topics": [
+              "国际贸易",
+              "产业经济",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "The Trade-Offs of Letting Local Managers Make Hiring Decisions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2020.03837",
+            "abstract_en": "Letting managers have more authority over hiring decisions is becoming an increasingly common management practice among business chains worldwide, yet both theoretical and empirical evidence on its effects remains limited. Local manager hiring (LMH) refers to decentralizing hiring decisions to local business unit managers, rather than relying on the headquarters’ human resource department to make decisions. To assess the impacts of LMH on employee recruitment, productivity, and firm performance, we partnered with a large Chinese firm operating 111 retail stores through a twelve-month field experiment. Results show that LMH leads to an increase in both the mean and variance of individual productivity, yielding a boost in store-level sales of approximately 7%–8%. Store-level performance gains were driven by both the direct effects of recruiting higher-performing workers and the indirect effects of positive spillovers from new hires to existing employees. In line with our theory, LMH achieved superior outcomes in stores with better-aligned managerial incentives, more repeat customers, and lower levels of busyness. However, the rise in variance indicates greater inconsistency in hiring outcomes, which led to worse outcomes in some stores. These findings highlight the central trade-off of decentralized hiring: While it can improve average performance by leveraging local knowledge, it also increases the risk of costly hiring mistakes. This paper was accepted by Isabel Fernandez-Mateo, organizations. Funding: This work was supported by The Chiang Ching-Kuo Foundation [Grant DD086-A-18]; Stanford Center at Peking University; Stanford King Center on Global Poverty and Development. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.03837 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "The Hidden Costs of Fairness in Platform Markets: The Dynamics of Lowering Developer Royalty Rates",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.05861",
+            "abstract_en": "Multisided platforms crucially rely on indirect network effects. When trying to strengthen these effects, platform owners face a fundamental challenge, namely, designing incentives to enhance developer effort and simultaneously ensuring the release of high-quality products on the platform. This paper highlights the costs associated with lowering royalty rates to boost developer effort, as such reductions increase the relative supply of lower-quality offerings, worsening information congestion problems and amplifying the importance of visibility-enhancing investments. We leverage the quasi random announcements made by Apple and Google, declaring their intention to reduce the royalty rate applied to small app developers from 30% to 15%. We analyze the implications of these reforms using a difference-in-differences approach, finding a substantial increase in small developers’ likelihood of releasing lower-quality and less original apps on iOS and Android after the announcements. These effects are neither paralleled by a comparable increase in high-quality app releases nor by an increase in small developers’ likelihood of launching venture-backed apps. Consistent with worsening information congestion problems because of an influx of low-quality apps, our findings show an increase in the marginal value of experienced user certifications and developers’ app store optimization efforts post announcement. Additionally, we observe that venture capitalists are increasingly concentrating their investments in ventures with higher (observable) quality. This paper was accepted by Anita McGahan, business strategy. Funding: This work was supported by the Spanish Ministry of Education [Project PID2022-138710NB-I00 funded by MCIU/AEI/10.13039/501100011033/FEDER, UE]. A. Conti acknowledges financial support from the Swiss National Science Foundation [Grant 100013_197807]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.0586 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
               "创新药"
             ]
           }
@@ -1808,9 +1875,29 @@
         "resolved_name": "Technovation",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 3,
-        "total_in_issue": 4,
+        "matched_count": 6,
+        "total_in_issue": 8,
         "papers": [
+          {
+            "title_en": "Organizational design for breakthrough innovation in established firms",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103749",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Designing research for impact: Moving from publication to purpose in innovation scholarship",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103754",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
           {
             "title_en": "AI washing in technology markets: The divergent roles of patient capital in innovation signaling distortion",
             "title_zh": "",
@@ -1826,6 +1913,16 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103752",
             "abstract_en": "Organizations that innovate with emerging digital technologies increasingly manage portfolios in which activities differ not only in risk and maturity, but in the kind of management they require. Research on innovation portfolio management has often approached the portfolio as a managerial object whose practices can be optimized, offering limited guidance for managing heterogeneous portfolios in contexts shaped by emerging digital technologies. Drawing on interviews with 26 informants in seven incumbent Scandinavian organizations, this study explores how organizations differentiate and configure their innovation portfolio management practices. Through an abductive analysis, we develop a taxonomy comprising three innovation portfolio management practice configurations: the product-developing, platform-mediating, and problem-solving configuration. The taxonomy helps explain portfolio heterogeneity by showing how qualitatively different innovation activities correspond to different configurations of innovation portfolio management practices. By reconceptualizing portfolio heterogeneity as the coexistence of qualitatively different practice configurations, the study extends innovation portfolio management theory and offers a practical framework for managing innovation portfolios in contexts shaped by emerging digital technologies.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "How digital dynamic capabilities relate to breakthrough innovation: The role of ambidextrous knowledge integration under organizational inertia",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103772",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -2021,7 +2118,7 @@
             "title_en": "External reference pricing versus price controls under endogenous product quality",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jhealeco.2026.103195",
-            "abstract_en": "Motivated by the high prices of branded/patented pharmaceuticals in many parts of the world, this paper analyzes price regulations in a two-country (home and foreign) model where a single home firm serves both markets and its R&D investment determines product quality. We study two types of price regulations: direct price controls (PCs) and external reference pricing (ERP) under which the price that the firm is permitted to charge locally depends upon its price abroad. We show that although ERP undermines R&D incentives, its implementation can raise home welfare. However, home’s optimal ERP policy is too restrictive from a joint welfare perspective. Furthermore, if the foreign market is subject to a PC, home prefers ERP to a PC due to strategic considerations that come into play due to the international price linkage created by ERP.",
+            "abstract_en": "Motivated by the high prices of branded/patented pharmaceuticals in many parts of the world, this paper analyzes price regulations in a two-country (home and foreign) model where a single home firm serves both markets and its R&D investment determines product quality. We study two types of price regulations: direct price controls (PCs) and external reference pricing (ERP) under which the price that the firm is permitted to charge locally depends upon its price abroad. We show that although ERP undermines R&D incentives, its implementation can raise home welfare. However, home's optimal ERP policy is too restrictive from a joint welfare perspective. Furthermore, if the foreign market is subject to a PC, home prefers ERP to a PC due to strategic considerations that come into play due to the international price linkage created by ERP.",
             "abstract_zh": "",
             "matched_topics": [
               "产业经济",
@@ -2047,39 +2144,49 @@
         "query_name": "Health Economics",
         "issn": "1057-9230",
         "resolved_name": "Health Economics",
-        "issue_title": "Volume 35, Issue 11",
+        "issue_title": "Volume 35, Issue 12",
         "issue_url": "https://onlinelibrary.wiley.com/journal/10991050",
-        "matched_count": 3,
-        "total_in_issue": 8,
+        "matched_count": 4,
+        "total_in_issue": 9,
         "papers": [
           {
-            "title_en": "How Much Does It Cost the South Korean Public Healthcare System to Produce One Healthy Life Year?",
+            "title_en": "The Importance of Treatment Adherence and Long‐Term Outcomes in Health Economic Impact Evaluations",
             "title_zh": "",
-            "url": "https://doi.org/10.1002/hec.70134",
-            "abstract_en": "ABSTRACT Investigating the impact of healthcare expenditure on health is crucial for optimizing public resource allocation. This can inform the value of expanding healthcare budgets and provide a benchmark for allocations within healthcare systems. However, empirical evidence remains mixed. The potential causes of mixed results—reverse causality and unobservable confounders—need to be addressed through robust empirical methods. This study assesses the South Korean public healthcare cost of producing one quality‐adjusted life year (QALY) by using conversion factors—elements in the pricing formula of healthcare services determined by negotiations—as the instrument, with two‐way fixed effects. Moreover, since morbidity significantly affects health, it is crucial to estimate the impact of healthcare expenditure on morbidity using credible data. We use a unique dataset of directly measured regional EQ‐5D indices from 240 municipalities for the period 2008–2019, which is unavailable in other countries. We estimate that $12,847 of public healthcare expenditure is required to gain one QALY. Sensitivity analyses using alternative calculation methods, data, and models produce estimates ranging from $8850 to $17,674 per QALY. Our findings suggest that the healthcare cost of producing one QALY is substantially lower than the GDP per capita and the willingness‐to‐pay for health in South Korea.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Walking With Feet Tied to the Past: Childhood Exposure to the 1918 Influenza Pandemic and Later‐Life Male Mortality",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/hec.70141",
-            "abstract_en": "ABSTRACT Many previous studies have used cross‐cohort comparisons and a focus on in utero exposure to document the lingering effects of the 1918 influenza pandemic on survivors' outcomes later in life. A subset has examined impacts on old‐age health and mortality, finding mixed results. This paper contributes to the literature by extending the analysis to evaluate early‐life and childhood exposure to the pandemic on old‐age longevity along with a set of candidate mechanisms. We employ Social Security Administration death records linked to the full‐count 1940 census and employ event‐study and difference‐in‐difference regressions to compare longevity of cohorts with different age‐at‐exposure who were born in cities with high versus low exposure based on 1918 influenza‐related mortality. Our treatment‐on‐treated calculations suggest that cohorts with age‐at‐exposure of 0–5 and 6–11 experience 7.2 and 10.9 months reductions in old age longevity; importantly, we note that these cohorts are often used as “controls” in the broader literature. While our main analysis focuses on males due to data constraints, supplementary results suggest similar effects for females. An analysis of census data suggests reductions in health, education and socioeconomic scores as potential mechanisms. The findings of this paper have important policy implications for interventions and identifying the populations at higher risks of adverse long‐term outcomes during major pandemics.",
+            "url": "https://doi.org/10.1002/hec.70152",
+            "abstract_en": "ABSTRACT Wydick et al. recently estimated the impact of Ponseti clubfoot treatment on human flourishing in Ethiopia, providing important evidence for scaling clubfoot programs in low‐ and middle‐income countries. However, their definition of “treated” warrants scrutiny. Considering children in the final stages of casting as treated, only captures outcomes during the early stage of a 4‐year treatment course, implicitly assuming full bracing adherence and no relapse. This is inconsistent with relapse rates of 30%–40% and two‐year discontinuation rates exceeding 50% in comparable settings. This choice of definition likely underestimates late‐initiated treatment impact and overestimates early‐initiated treatment impact. Modeling the clubfoot care pathway as a probabilistic value model incorporating dropout, non‐adherence, and relapse, I re‐estimate population‐level functional outcomes at mid‐childhood. In settings without additional surgical care availability the mean level of functionality is estimated at 55.2% of normal function (95% CI 54.6%–55.9%), showing that enrollment expansion alone cannot achieve impact at the scale implied. Achieving clubfoot treatment's full potential at scale requires comprehensive, longitudinal care beyond initial Ponseti treatment, and stronger collaboration between clinical and health‐economics communities to ground future estimates in clinical reality.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
             ]
           },
           {
-            "title_en": "Economic Preferences Predict COVID‐19 Vaccination Intentions and Behavior",
+            "title_en": "Null Effects of the State Pension Age on Mortality in the Netherlands",
             "title_zh": "",
-            "url": "https://doi.org/10.1002/hec.70136",
-            "abstract_en": "ABSTRACT This study investigates the relationship between economic preferences and COVID‐19 vaccination readiness using two representative samples of the German population ( N > 5000). We elicited altruism, patience, risk‐taking and trust using validated survey questions. We find robust, positive relationships between vaccination readiness and both patience and trust. The positive association between altruism and vaccination readiness vanishes when controlling for the other preference dimensions. No consistent effect emerges for risk‐taking. Our results underscore the importance of accounting for the interrelated nature of economic preferences when analyzing their connection with field behavior.",
+            "url": "https://doi.org/10.1002/hec.70149",
+            "abstract_en": "ABSTRACT Increasing the state pension (SP) age in the Netherlands from 65 years in 2012 to 67 in 2024 has been shown to cause individuals to work longer. This study addresses a concern regarding possible adverse health effects of an increased SP‐age, for example, because individuals trade health investments for working time. We empirically investigated the effects of individuals' SP‐age on their annual probability of dying (mortality)—our health measure—by using data for the period 2012–2022 of 1.6 million individuals born in the years 1950–1957. For estimating causal effects we used a regression discontinuity framework which exploited that individuals' SP‐age depends on their year and month of birth. Our empirical findings show negative associations of mortality with the SP‐age and work, and do not support a causal effect of the SP‐age on mortality, nor a causal effect of work on mortality. These findings hold for both genders, across socioeconomic groups, and for different causes of death. Hence, our findings suggest null effects of the SP‐age on mortality.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易"
+            ]
+          },
+          {
+            "title_en": "The Fertility Reduction Effects of the Colorado Family Planning Initiative by Age and Parity",
+            "title_zh": "",
+            "url": "https://doi.org/10.1002/hec.70147",
+            "abstract_en": "ABSTRACT We use restricted‐access birth records from the National Vital Statistics System (NVSS) to document the full age and parity fertility effects of the Colorado Family Planning Initiative (CFPI). The CFPI provided access to every FDA approved method of contraception for free to anyone living below approximately 200% of the federal poverty line from 2009 to 2015. Previous research has demonstrated important effects on fertility at ages 15–29. We estimate the statewide fertility effect of the CFPI for all age groups (15–44) and for all births and for first and non‐first births using the synthetic control method. We find large and statistically significant reductions in birth rates for 15–24‐year‐olds that largely line up with other recent studies, but we find important heterogeneity across parity. For teenagers, we find reductions in first birth rates of about 9%, but much larger reductions in non‐first birth rates of 17%–25%. We also find reductions in overall fertility for 20–24 and 25–29‐year‐olds, but these are entirely driven by reductions of 5%–9% in non‐first birth rates, with no significant changes in first births. For 30–39‐year‐olds, we find small but statistically significant reductions in fertility of 3%–7% across parity levels, and we find a 6% reduction in fertility for 40–44‐year‐olds. We also conduct inference using synthetic difference‐in‐differences (SDID) and placebo‐based methods. When we do this, our coefficient estimates are similar, though confidence intervals are wider, with specifications on older age groups no longer statistically significant.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "What Can Providers' Motivations Tell Us About Healthcare Quality?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1002/hec.70144",
+            "abstract_en": "ABSTRACT Agency theory suggests that variation in providers' quality of care may be explained by their heterogeneous motivations. We provide novel empirical evidence on the links between different sources of provider motivation and quality of care by combining a unique 4‐year survey dataset on Danish general practitioners' motivations with quality indicators and control variables from rich register data. Using a within‐between regression specification, we estimate the associations between two key sources of motivation (financial motivation and non‐paternalistic altruism toward patients) and seven quality indicators related to accreditation standards in general practice. We find that providers' financial motivation is associated with high‐quality care that relates to remunerated services. We further find that non‐paternalistic altruism toward patients associates with lower‐quality prescribing for drugs that may be highly demanded by patients and fewer annual control visits for chronic disease. These links are mostly found when we compare heterogeneously motivated practices (between estimates) rather than when we look at changes within the same practices over time (within estimates). The findings can help policymakers address agency problems that may arise from patient demands and design policies that motivate delivery of high‐quality care.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           }
         ],
@@ -2241,36 +2348,87 @@
         "query_name": "Health Affairs",
         "issn": "0278-2715",
         "resolved_name": "Health Affairs",
-        "issue_title": "Volume 45, Issue 10",
+        "issue_title": "Volume 45, Issue 11",
         "issue_url": "https://www.healthaffairs.org/journal/hlthaff",
-        "matched_count": 5,
-        "total_in_issue": 19,
+        "matched_count": 10,
+        "total_in_issue": 21,
         "papers": [
           {
-            "title_en": "Dementia Care Patterns In The US Vary By Clinician Type: Evidence From A National Workforce Study, 2024–25",
+            "title_en": "Not-For-Profit Hospitals’ Patient Financial Assistance And Alignment With Community Need: A National Study",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01424",
-            "abstract_en": "The prevalence of Alzheimer's disease and related dementias (ADRD) is increasing. Amid specialist shortages and growing reliance on advanced practice providers, high-quality dementia care across clinician types is a public health priority in the US, with important implications for workforce and care delivery policy. However, little is known about how dementia care varies by clinician type. Using novel, nationally representative data from 4,699 clinicians in the 2024-25 Community Clinician survey of the National Dementia Workforce Study, we conducted multivariable analyses to compare diagnostic confidence, assessment practices, and care delivery among advanced practice providers, primary care physicians, and specialists. Compared with primary care physicians, specialists reported greater confidence in diagnosing dementia and mild cognitive impairment among patients younger than age sixty-five and among those with Alzheimer's dementia, whereas advanced practice providers reported lower diagnostic confidence and were less likely to order or perform most advanced diagnostic testing and cognitive assessments. Specialists were more likely to focus on screening and managing behavioral symptoms, whereas advanced practice providers were more likely to prescribe anti-amyloid therapy. These findings highlight the importance of payment and workforce policies that support team-based dementia care and effectively integrate clinicians with different roles and training.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易"
-            ]
-          },
-          {
-            "title_en": "Health Care Use Among Children With Hispanic Parents Declined After Shifts In US Immigration Policy In 2018",
-            "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01752",
-            "abstract_en": "Anti-immigrant rhetoric, changes in US immigration policy, and increased enforcement have been linked to poor health outcomes among Hispanic populations, but less is known about how these shifts have affected children's health care use. Using 2012-22 data from the Medical Expenditure Panel Survey, we examined patterns of health care use among children after changes to the federal public charge rule were announced in 2018. Compared to children without Hispanic parents, children with at least one Hispanic immigrant parent experienced a 6.5-percentage-point decrease in the probability of having at least one medical visit and a 6.8-percentage-point decrease in the probability of having at least one dental visit after 2018. These effects represent relative declines of 9.9 percent and 15.3 percent, respectively, compared with pre-2018 utilization levels. Children with a Hispanic US-born parent experienced similar but smaller effects. Because most children in the sample, including those with Hispanic immigrant parents, were US-born citizens, these findings suggest that shifts in the immigration policy environment may reduce access to care for US citizen children through parental fear, documentation concerns, and broader chilling effects on families. Rebuilding trust between immigrant and Hispanic populations and health care institutions is essential to protecting access to care.",
+            "url": "https://doi.org/10.1377/hlthaff.2026.00268",
+            "abstract_en": "Not-for-profit hospitals receive tax exemptions in exchange for providing community benefits and are legally required to establish financial assistance policies that determine eligibility for free or discounted care. Yet little is known about whether income-based eligibility for these policies aligns with community need or how it relates to charity care and bad debt. Using hospital-level data from the period 2013-22, we examined variation in financial assistance policy eligibility and its association with charity care and bad debt. Hospitals in high-need communities maintained eligibility thresholds similar to those in lower-need areas, but they devoted a larger share of operating expenses to charity care. Higher eligibility thresholds were associated with greater charity care spending and less bad debt, particularly in high-need communities. These findings suggest that although financial assistance policy eligibility thresholds may signal charitable intent, realized charity care is driven largely by community demand. Thus, aligning financial assistance policy standards with local need may better achieve the goal of this Internal Revenue Service financial assistance requirement.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Charting A Path Forward For Medicare Advantage: Expert Consensus On Policy Priorities And Trade-Offs",
+            "title_en": "Opening The Black Box Of Medicaid Physician Payment: Medicaid Managed Care And State-Directed Payments",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01724",
-            "abstract_en": "More than half of Medicare beneficiaries are enrolled in Medicare Advantage (MA), yet concerns persist about overpayments to MA plans, inadequate plan oversight, and limits on beneficiaries' access to care. To identify MA reform options, we conducted a two-round e-Delphi panel with thirty-nine experts, including researchers, industry representatives, patient advocates, and former policy makers. Panelists rated fifteen policy reform ideas on their impact on beneficiaries, the federal government, and MA plans. Experts agreed that six policy ideas would benefit beneficiaries, three would benefit the government, and one would benefit plans. The most feasible near-term options are standardizing supplemental benefits, limiting the number of MA plans that insurers can offer, and reforming agent commissions. These incremental reforms could improve beneficiaries' decision making and financial protections without harming the government or plans and could be implemented through Centers for Medicare and Medicaid Services administrative action. Nonetheless, achieving the cost savings critical for Medicare's long-term financial sustainability will require policies that may cause market disruption and negatively impact MA plans.",
+            "url": "https://doi.org/10.1377/hlthaff.2026.00382",
+            "abstract_en": "Provider payment rates in Medicaid are often assessed by comparing Medicaid fee-for-service rates with Medicare rates. However, this approach may poorly approximate payments in Medicaid managed care, where most enrollees receive coverage. State-directed payments (SDPs)-requirements that managed care plans increase Medicaid payments-have become a major means of increasing provider payment in Medicaid managed care. We used Centers for Medicare and Medicaid Services preprints from the period 2023-25 to estimate Medicaid managed care payments for primary care services and professional services at academic medical centers. For primary care services not performed in academic medical centers, most SDPs raised Medicaid managed care payment levels toward Medicare rates. In contrast, SDPs for services performed at academic medical centers varied widely across states and often raised payments well above Medicare rates, placing them above the caps established by the One Big Beautiful Bill Act. These patterns suggest that SDPs are being used both to bolster primary care payment and to deliver large supplemental payments to academic medical centers, underscoring a need for monitoring and policy guardrails to align SDPs with access and value in Medicaid.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Financial, Environmental, And Health Benefits Of Environmental Sustainability Strategies For Hospitals",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01691",
+            "abstract_en": "Many environmental sustainability strategies are available to hospitals and health systems, but their full impacts are not well understood. We modeled the financial, health, and environmental impacts of eleven commonly recommended hospital sustainability strategies for five common hospital profiles and all US hospitals. Results showed large differences between interventions across all outcome measures. Eight of the interventions showed positive or neutral financial impacts on the hospital level, with one intervention saving an estimated $5.2 billion across all US hospitals over the course of ten years. Moreover, implementing all interventions across the US would lead to a nearly 12 percent reduction in all health system greenhouse gas emissions and avoid nearly 70,000 worldwide deaths annually. These results show that meaningful reductions in the negative environmental and health impacts of hospitals are achievable through financially sustainable interventions.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Challenges In Weathering The Storm: The Mismatch Between Climate-Health Burdens And Social Protection Policies",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2025.01657",
+            "abstract_en": "Climate change adaptation has historically been defined narrowly, emphasizing actions such as built environment and early warning system improvements. The integration of social protection policies into climate change adaptation policies has the potential to reduce climate-health risks, but no prior study has investigated social protection policies within an adaptation context. Our study examined how climate-health burdens have affected US states and the extent to which social protection policies have positioned states to adapt to climate change. We assessed and ranked states by climate-health burdens (2005-24), as well as the maturity of twenty-one social protection policies (2019-25) across five domains. Our analysis also included a qualitative policy review (2019-25) of climate risks and social protection policy implementation in ten states. Results showed a mismatch between regions with the greatest climate-health burdens and those with the most mature social protection policies, with higher burdens accumulated in southern and southeastern states and more mature policies clustered on the western and northeastern coasts. None of the ten states in our policy reviews had developed a comprehensive approach to social protection to reduce the climate-health burden. These findings suggest that climate adaptation frameworks should be broadened to include social protection policies, which strengthen climate resilience across sectors.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Removal Of Medicare Advantage Broker Commissions Associated With A 21 Percent Enrollment Decline, 2025–26",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2026.00910",
+            "abstract_en": "Brokers can help Medicare beneficiaries navigate complex insurance choices. However, brokers may also be influenced by financial incentives. In 2025 and 2026, some Medicare Advantage plans announced that they would stop paying broker commissions for new enrollments. These decisions may have been motivated by the desire to retain existing enrollees while not attracting new enrollees who may be less profitable for insurers. Yet removing commissions would only reduce enrollment if brokers responded by steering beneficiaries away from these plans. Plan-level data indicate that 16 percent of plans removed commissions for brokers in late 2025 and early 2026. Using a difference-in-differences design, we found that the removal of broker commissions led to a 21 percent decline in enrollment from mid-2025 to January 2026. Our results suggest that broker responses to financial incentives play an important role in driving beneficiaries' enrollment decisions.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Medicare Increased Reimbursement Values For 10 Percent Of Physician Services After Public Comments, 2023–25",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2026.00531",
+            "abstract_en": "The process that the Centers for Medicare and Medicaid Services (CMS) uses to determine relative values for each physician service has been critiqued for undervaluing primary care relative to specialty care. CMS assigns a relative value unit (RVU) to each service, with higher RVU values leading to higher payment. CMS frequently relies on RVU recommendations from the American Medical Association/Specialty Society Relative Value Scale Update Committee (RUC), but little is known about the impact of CMS's interaction with other stakeholders during the public notice-and-comment process for RVUs. In this analysis of CMS's work RVU (wRVU) valuations for 2023-25, we found that CMS increased wRVUs for 10 percent of services after public comments. These changes increased CMS's agreement with the RUC from 68 percent to 74 percent. Current Procedural Terminology codes for procedures were more likely to have their wRVUs increased after public comments than evaluation and management codes. These findings suggest that the public comment process may be biased toward increasing valuations for specialty services, which the commenters perceive to be undervalued, while not addressing the larger issue of overvaluations of specialty services and the corresponding undervaluations of evaluation and management services. These findings underscore the need for a more objective payment-setting process.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医药产业",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "System-Affiliated Outpatient Mental Health Sites Linked To Clinical And Community Supports",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2026.00420",
+            "abstract_en": "National evidence on the vertical integration of outpatient mental health facilities within health systems is limited. We linked the Agency for Healthcare Research and Quality Compendium of U.S. Health Systems and the Substance Abuse and Mental Health Services Administration's National Directory of Mental Health Treatment Facilities to characterize health system affiliation among outpatient mental health facilities and compared treatment and services by system affiliation. We found minimal integration.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业经济"
+            ]
+          },
+          {
+            "title_en": "Public Comment Moves CMS Toward AMA Relative Value Scale Update Committee Values: The Case For Independent Data",
+            "title_zh": "",
+            "url": "https://doi.org/10.1377/hlthaff.2026.01463",
+            "abstract_en": "Medicare's Physician Fee Schedule sets prices for roughly 9,000 services, and those prices ripple through the entire US health system. The analysis by Sarah Tingley, Sanket Dhruva, and Rita Redberg of 2023-25 fee schedule rulemaking fills an important gap in our understanding of what happens after the American Medical Association/Specialty Society Relative Value Scale Update Committee (RUC) makes recommendations and how the Centers for Medicare and Medicaid Services (CMS) addresses public comments on those values. The authors show that stakeholder engagement is high when CMS proposes reductions but that comments and subsequent revisions tend to raise valuations and move CMS back toward RUC recommendations. Although notice-and-comment rulemaking, beginning in 2016, made the process more open and accountable, the greatest technical capacity and financial stake in preserving higher values remain with groups opposing valuation reductions. I suggest reforms that would give CMS independent data, broader stakeholder input, and stronger technical capacity when it evaluates physician work values.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -2278,24 +2436,24 @@
             ]
           },
           {
-            "title_en": "Provider-Sponsored Health Plans Negotiated Lower Prices For Health Services Compared With Traditional Insurers, 2024",
+            "title_en": "Orphan Blockbuster Drug Development: The Authors Reply",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01531",
-            "abstract_en": "Although hospitals and insurers have traditionally operated as separate organizations, an increasing number of health systems have begun offering vertically integrated insurance plans, known as provider-sponsored health plans. We examined differences in negotiated prices for forty-six mandatory reported health care services between provider-sponsored health plans and nonintegrated insurance plans, using hospital price transparency data. Of the 639 health systems in the United States in 2023, 179 (28.0 percent) offered an insurance plan, most often Medicare Advantage plans. Across health care services, forty-four of forty-six had negotiated prices that were significantly lower for provider-sponsored health plans compared with those for nonintegrated insurance plans. These findings offer evidence that provider-sponsored health plans negotiate health care prices with their health systems differently than nonintegrated insurers do, but greater transparency in pricing and ownership is essential to fully assess the risks and benefits that provider-sponsored health plans may have for health care prices.",
+            "url": "https://doi.org/10.1377/hlthaff.2026.01425",
+            "abstract_en": "Topics : Pharmaceuticals Prescription drug costs Clinical trials Prescription drugs Costs and spending Diseases Markets Cost reduction Government programs and policies",
             "abstract_zh": "",
             "matched_topics": [
-              "产业经济",
+              "医药产业",
               "创新药"
             ]
           },
           {
-            "title_en": "Real-World Brinkmanship In Hospital-Insurer Negotiations",
+            "title_en": "For Emergency Medical Services, An Old Threat Resurfaces: Medicaid Cuts",
             "title_zh": "",
-            "url": "https://doi.org/10.1377/hlthaff.2025.01663",
-            "abstract_en": "Hospital prices for Americans with commercial health insurance are determined through thousands of negotiations between hospitals and insurers. Threats of network departicipation (brinkmanship) in these negotiations may help parties secure more favorable terms. We studied 14,918 relationships between 3,772 unique hospitals and 92 unique in-market insurers to better understand the relationships among organizational characteristics (including market conditions), public brinkmanship, and departicipation. We documented 1,249 episodes of public brinkmanship, corresponding to about 8 percent of hospital-insurer relationships, for contracts ending between August 2021 and July 2025. About 28 percent of these public threats culminated in withdrawal. Profitable hospitals, for-profit hospitals, and hospitals commanding relatively high prices were most likely to engage in public brinkmanship; national insurers were more likely to engage in brinkmanship than single-state or regional insurers. We observed brinkmanship in about 16 percent of relationships where the hospital system and insurer each controlled roughly 25-45 percent and 30-45 percent of local beds and commercial lives, respectively. Our findings emphasize the importance of local contexts in shaping hospital-insurer relationships. Policy makers should assess the effectiveness of aggressive negotiations as a means to control costs and the impact of brinkmanship and departicipation on consumers' access and experiences.",
+            "url": "https://doi.org/10.1377/hlthaff.2026.01419",
+            "abstract_en": "Local communities expect H.R. 1 and subsequent Centers for Medicare and Medicaid Services rules to place financial strain on a system already struggling with inadequate reimbursement.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易"
+              "医药产业"
             ]
           }
         ],
