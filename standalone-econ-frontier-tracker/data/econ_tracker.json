@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 11:32:27",
+  "updated_at": "2026-11-15 12:09:13",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 362,
+    "fail_count": 375,
     "failed_examples": [
       "Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Fre :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
       "How do majority groups respond to narrowing inequality in racially polarized env :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, p",
@@ -477,87 +477,127 @@
         "query_name": "Review of Economic Studies",
         "issn": "0034-6527",
         "resolved_name": "The Review of Economic Studies",
-        "issue_title": "Volume 93, Issue 5",
+        "issue_title": "Volume 93, Issue 6",
         "issue_url": "https://academic.oup.com/restud",
-        "matched_count": 8,
+        "matched_count": 12,
         "total_in_issue": 18,
         "papers": [
           {
-            "title_en": "Latent Heterogeneity in the Marginal Propensity to Consume",
+            "title_en": "Unpacking Aggregate Welfare in a Spatial Economy",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/restud/rdaf102",
-            "abstract_en": "Abstract We estimate the unconditional distribution of the marginal propensity to consume (MPC) using clustering regression applied to the 2008 economic stimulus payments. By deviating from the standard approach of estimating MPC heterogeneity using interactions with observables, we can recover the full distribution of MPCs. We find households spent between 4 and 133% of the rebate within a quarter, and individual households used rebates for different goods. While many observable characteristics correlate individually with our estimated MPCs, most of these relationships disappear when tested jointly. Notable exceptions are income and the average propensity to consume, which correlate positively with the MPC. Household observable characteristics explain only 8% of MPC variation, highlighting the role of latent heterogeneity.",
+            "url": "https://doi.org/10.1093/restud/rdag021",
+            "abstract_en": "Abstract How do regional productivity shocks or transportation infrastructure improvements affect aggregate welfare? In a general class of spatial equilibrium models, we provide a formula for aggregate welfare changes, decomposed into terms associated with (i) technology [Fogel (1964), Railroads and American Economic Growth (Baltimore: Johns Hopkins Press), Hulten (1978) “Growth Accounting with Intermediate Inputs”, The Review of Economic Studies, 45, 511–518], (ii) spatial dispersion of marginal utility, (iii) fiscal externalities, (iv) technological externalities, and (v) redistribution. We further use this decomposition to derive a general formula for optimal spatial transfers and show that, whenever optimal transfers are in place, the technology term alone captures the aggregate welfare effects of technological shocks. We apply our framework to study welfare gains from improving the US highway network. We find that changes in the spatial dispersion of marginal utility are as important as technological externalities in accounting for the deviations from the Fogel-Hulten benchmark to assess welfare gains.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "De Gustibus and Disputes about Reference Dependence",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdag023",
+            "abstract_en": "Abstract Existing tests of reference-dependent preferences assume universal loss aversion. This paper examines the implications of heterogeneity in gain-loss attitudes for such tests. In experiments on labour supply and exchange behaviour, we first measure gain-loss attitudes and then study a canonical treatment effect that distinguishes different models of reference dependence. We document substantial heterogeneity in gain-loss attitudes and evidence against universal loss aversion. Moreover, we find heterogeneous treatment effects over gain-loss attitudes consistent with formulations of expectations-based reference points. Assuming homogeneous preferences would lead to different and potentially incorrect conclusions in these tests. Our findings provide foundational support for reference points derived from expectations and help reconcile inconsistencies in prior empirical exercises.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Patent Term, Innovation, and the Role of Technology Disclosure Externalities",
+            "title_en": "Identification of Time-Inconsistent Models: The Case of Insecticide-Treated Nets",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/restud/rdag005",
-            "abstract_en": "Abstract I examine the impact of patent term on R&D and innovation in the presence of policy anticipation, common in real-world settings. Using a difference-in-difference design, I exploit quasi-experimental variation in US patent term across technological fields due to the ratification of TRIPs agreements in 1995. Despite a general increase in average patent term, in most fields innovators faced a considerable probability of patent term reduction for future innovations. Three key findings emerge: (1) R&D and innovation accelerate more in fields with a higher probability of patent term reduction, i.e. a shorter average patent term extension, before implementation. (2) This heightened activity persists for at least 5 years postimplementation, driven by indirect effects where the news-related acceleration fosters further innovation through technological externalities linked to cumulative knowledge creation. (3) Conversely, the direct effect of a shorter extension in patent term would stimulate relatively less innovation, absent the indirect effects of anticipation.",
+            "url": "https://doi.org/10.1093/restud/rdag018",
+            "abstract_en": "Abstract Time-inconsistency may play a central role in explaining inter-temporal behaviour, particularly among poor households. However, little is known about the distribution of time-inconsistent agents, and time-preference parameters are typically not identified in standard dynamic choice models. We formulate a dynamic discrete choice model in an unobservedly heterogeneous population of possibly time-inconsistent agents. We provide conditions under which all population type probabilities and preferences for both time-consistent and sophisticated agents are point-identified and sharp set-identification results for naïve and partially sophisticated agents. Estimating the model using data from a health intervention providing insecticide-treated nets (ITNs) in rural Odisha, India, we find that about two-thirds of our sample comprises time-inconsistent agents and that both sophisticated and naïve agents are considerably present-biased. Counterfactuals show that the under-investment in ITNs attributable to present-bias leads to substantial costs that are about four times the price of an ITN.",
             "abstract_zh": "",
             "matched_topics": [
-              "企业创新"
+              "创新药"
             ]
           },
           {
-            "title_en": "Markups Across Space and Time",
+            "title_en": "Optimal Decision Rules When Payoffs are Partially Identified",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/restud/rdaf098",
-            "abstract_en": "Abstract In this article, we provide direct evidence on the behaviour of markups in the retail sector across space and time. Markups are measured using gross margins. We consider three levels of aggregation: the retail sector as a whole, the firm, and the product level. We find that: (1) markups are relatively stable over time and mildly procyclical; (2) there is a large regional dispersion in markups; (3) there is a positive cross-sectional correlation between local income and local markups; and (4) differences in markups across regions result from differences in the assortment of goods sold in different regions, not from deviations from uniform pricing. We propose a simple model consistent with these facts.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业经济"
-            ]
-          },
-          {
-            "title_en": "Costly Multidimensional Screening",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/restud/rdaf105",
-            "abstract_en": "Abstract A screening instrument is costly if it is socially wasteful and productive otherwise. A principal screens an agent with multidimensional private information and quasilinear preferences that are additively separable across two components: a one-dimensional productive component and a multidimensional costly component. Can the principal improve upon simple one-dimensional mechanisms by also using the costly instruments? We show that if the agent has preferences between the two components that are positively correlated in a suitably defined sense, then simply screening the productive component is optimal. The result holds for general type and allocation spaces, and allows for nonlinear and interdependent valuations. We discuss applications to monopoly pricing, bundling, and labour market screening.",
+            "url": "https://doi.org/10.1093/restud/rdag017",
+            "abstract_en": "Abstract We derive asymptotically optimal statistical decision rules for discrete choice problems when payoffs depend on a partially-identified parameter θ and the decision maker can use a point-identified parameter μ to deduce restrictions on θ. Examples include treatment choice under partial identification and pricing with rich unobserved heterogeneity. Our notion of optimality combines a minimax approach to handle the ambiguity from partial identification of θ given μ with an average risk minimization approach for μ. We show how to implement optimal decision rules using the bootstrap and (quasi-)Bayesian methods in both parametric and semiparametric settings. We provide detailed applications to treatment choice and optimal pricing. Our asymptotic approach is well suited for realistic empirical settings in which the derivation of finite-sample optimal rules is intractable.",
             "abstract_zh": "",
             "matched_topics": [
               "产业经济"
             ]
           },
           {
-            "title_en": "Devaluations, Deposit Dollarization, and Household Heterogeneity",
+            "title_en": "Jumpstarting an International Currency",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/restud/rdaf109",
-            "abstract_en": "Abstract We study the aggregate and redistributive effects of currency devaluations in a small open economy model with leverage-constrained banks and heterogeneous households. Our framework captures three stylized facts about financial dollarization in emerging economies: (1) a sizable share of domestic deposits is denominated in foreign currency; (2) these deposits represent significant foreign currency liabilities for local banks; and (3) dollar deposits are mainly held by wealthier households. A devaluation increases the real burden of foreign currency debt, causing an erosion of banks’ net worth, which depresses credit supply and economic activity. While richer households are partially insulated through their dollar deposits, poorer households cut consumption sharply in response to rising borrowing costs and falling real labor income. In our model deposit, dollarization amplifies the contractionary effects of a devaluation on output, investment, and consumption, in line with new empirical evidence for emerging economies. To achieve this result, both constrained intermediaries and heterogeneous households are crucial. In our framework, regulating dollarization can result in widespread welfare gains, especially for poorer households.",
+            "url": "https://doi.org/10.1093/restud/rdag011",
+            "abstract_en": "Abstract While the USD dominates cross-border transactions today, a few other currencies are also used internationally. This paper shows that central bank policies that reduce the volatility of borrowing costs for foreign firms in domestic currency can trigger a jumpstart of the currency’s international status, because firms’ choices of the currency of their working capital complement their sales invoicing. Empirically, the creation of swap lines by the People’s Bank of China between 2009 and 2018 supports this theoretical claim. Signing a swap line with a country is associated with an increase in the probability that the country would use the RMB at all by 12%, and a four-fold increase in the value of the country’s RMB payments.",
             "abstract_zh": "",
             "matched_topics": [
               "国际经济"
             ]
           },
           {
-            "title_en": "Choice and Opportunity Costs",
+            "title_en": "Do The Effects of Nudges Persist? Theory and Evidence from 38 Natural Field Experiments",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/restud/rdaf101",
-            "abstract_en": "Abstract We define the (physical) opportunity cost of a choice x as the alternative that would be chosen if x were not available, and the opportunity cost of any unchosen alternative as x itself. The agent has preferences over pairs consisting of alternatives and their opportunity costs. Because costs affect choice and vice-versa, choice results from an intrapersonal equilibrium rather than from simple maximisation. In spite of significant rationality assumptions, the resulting behaviour can be highly non-standard, allowing intransitive choices. Rational utility maximisation is ensured by an additional new consistency condition on preferences. However, we argue that the maximised utility cannot be straightforwardly interpreted as a welfare relevant “revealed preference”. A generalisation of our model accommodates additional departures from standard rationality in the form of menu effects.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Firm Quality Dynamics and the Slippery Slope of Credit Intervention",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/restud/rdaf100",
-            "abstract_en": "Abstract A salient trend in crisis intervention has emerged in recent decades: government and central banks have offered funding directly to nonfinancial firms, bypassing banks and other credit intermediaries. We analyse the long-term consequences of such policies by focussing on firm quality dynamics. In a laissez-faire economy, firms with high productivity are more likely to survive crises than those with low productivity. The government funding support saves more firms but cannot be customized based on firm productivity, dampening the cleansing effect of crises. The policy distortion is self-perpetuating: a downward bias in the firm quality distribution necessitates larger interventions in future crises. Our mechanism is quantitatively important: we show that if policymakers ignore such distortionary effects on firm quality dynamics, the resultant credit intervention would almost double the optimal amount.",
+            "url": "https://doi.org/10.1093/restud/rdag012",
+            "abstract_en": "Abstract We formalize a research design to uncover the mechanisms underlying long-term reductions in energy consumption caused by a widely implemented nudge. We consider two channels: technology adoption and habit formation. Using data from 38 natural field experiments, we isolate the role of technology adoption by comparing treatment and control homes after the initial resident moves, which discontinues the treatment for a home. We find that fully half of energy reductions persist in the home after treatment ends and show this persistence is consonant with a technology adoption channel. The role of technology in creating persistent behaviour change has important implications for designing behavioural interventions and evaluating their long-term social impacts.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
+              "企业创新"
+            ]
+          },
+          {
+            "title_en": "Coarse Bayesian Updating",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdag016",
+            "abstract_en": "Abstract Studies have shown that the standard law of belief updating—Bayes’ rule—is descriptively invalid in various settings. In this paper, I introduce and analyse a generalization of Bayes’ rule—Coarse Bayesian updating—accommodating much of the empirical evidence. I characterize the model axiomatically, show how it generates several well-known biases, and derive its main implications in static and dynamic settings. Each axiom expresses a property of Bayes’ rule but, conditional on the others, stops just short of making the agent fully Bayesian. The model employs standard primitives, making it suitable for applications; I demonstrate this by applying it to a standard setting of decision under risk, leading to a close relationship with the Blackwell information ordering and comparative measures of cognitive sophistication and bias.",
+            "abstract_zh": "",
+            "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Diversification, Market Entry, and the Global Internet Backbone",
+            "title_en": "Narratives about the Macroeconomy",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/restud/rdaf097",
-            "abstract_en": "Abstract In many industries, buyers diversify their supplier base to manage supplier disruption risk. We investigate the importance of such diversification as a determinant of demand and supplier entry in the context of the internet backbone, the worldwide network of undersea fibre-optic cables that underpins the internet. We specify a model of international bandwidth demand and cable operators’ dynamic entry and supply choices. The model is estimated using novel data on cross-border data flows, prices, cable characteristics, and disruptions. Counterfactual analysis reveals that supplier diversification accounts for a large share of entry and surplus created between 2005 and 2021. Relative to the socially optimal level of entry, distortions due to suppliers’ inability to capture fully the social benefits of diversity are as large as distortions due to business stealing.",
+            "url": "https://doi.org/10.1093/restud/rdag014",
+            "abstract_en": "Abstract We study narratives about the macroeconomy—the stories people tell to explain macroeconomic phenomena—in the context of a historic surge in inflation. In our empirical analysis, we field surveys with more than 10,000 U.S. households and 100 academic experts, measure economic narratives in open-ended questions, and represent them as directed acyclic graphs. Households’ narratives are strongly heterogeneous, coarser than experts’ narratives, focus more on the supply than the demand side, and often feature politically charged explanations. Moreover, narratives shape how households form inflation expectations and interpret new information, which we demonstrate in a series of experiments. Informed by these findings, our theoretical analysis incorporates narratives into an otherwise conventional New Keynesian model and demonstrates their importance for aggregate outcomes through their effect on agents’ expectations.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Decision Theory for Treatment Choice Problems with Partial Identification",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdag015",
+            "abstract_en": "Abstract We apply classical statistical decision theory to a large class of treatment choice problems with partial identification. We show that, in a general class of problems with Gaussian likelihood, all decision rules are admissible; it is maximin-welfare optimal to ignore all data; and, for severe enough partial identification, there are infinitely many minimax-regret optimal decision rules, all of which sometimes randomize the policy recommendation. We uniquely characterize the minimax-regret optimal rule that least frequently randomizes, and show that, in some cases, it can outperform other minimax-regret optimal rules in terms of what we call profiled regret. We analyse the implications of our results in the aggregation of experimental estimates for policy adoption, extrapolation of Local Average Treatment Effects, and policy making in the presence of omitted variable bias.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Organizational Change and Reference-Dependent Preferences",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdag009",
+            "abstract_en": "Abstract Reference-dependent preferences can explain several puzzling observations about organizational change. We introduce a dynamic model in which a firm bargains with loss-averse workers about organizational change and wages. We show that change is often stagnant or slow for many periods, followed by a sudden boost in productivity triggered by a crisis. In a crisis, workers concede to organizational change but resist nominal wage reductions. In addition, the model explains why different firms in the same industry often have significant productivity differences. Finally, the model demonstrates the importance of expectations management even if all parties have rational expectations.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
+            ]
+          },
+          {
+            "title_en": "Dynamic Regulation with Firm Linkages: Evidence from Texas",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdag013",
+            "abstract_en": "Abstract We evaluate the efficiency of dynamic linked environmental regulation. Linked regulation allows inspectors who uncover violations at one plant to increase future enforcement at other plants that share a common owner. When compliance costs are correlated, regulators can then target scarce enforcement resources towards bad actors without inspecting everyone. We develop an empirical framework of dynamic moral hazard under linked regulation that allows for large portfolios of plants and for choices to be interdependent within the portfolio of plants and across time. Using the framework we evaluate a linked regulation scheme in Texas and find that linked regulation performs substantially better than both unlinked regulation and untargeted regulation. We test two alternative theoretical mechanisms that underpin the benefit—a “firm-wide moral hazard mechanism” and a “correlated targeting mechanism”—and find that a large share of the value of linked regulation is due to the former.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Destabilizing Capital Flows amid Global Inflation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdag007",
+            "abstract_en": "Abstract Over the latest monetary policy tightening cycle, capital has been flowing from low-inflation countries to high-inflation countries. This pattern of capital flows is consistent with the predictions of an open-economy model with nominal rigidities where cost-push shocks generate an inflationary episode and capital flows freely across countries. Yet, by raising demand for domestic non-tradable goods and services, capital inflows cause unwelcome upward pressure on firms’ costs in countries most severely hit by these shocks. We find that a reverse pattern of capital flows would have improved the output-inflation trade-off globally, hence requiring a less aggressive monetary tightening in the most severely hit countries and delivering overall welfare gains.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -821,7 +861,7 @@
             "title_en": "Input sourcing, trade liberalization, and diversifying mergers",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104347",
-            "abstract_en": "Extensive research has documented how trade liberalization enhances firms’ input-sourcing capabilities and boosts firm performances. Drawing on the resource-based view of firms, this study investigates whether trade liberalization enables firms to expand into industries that use similar inputs. We uncover a novel driver of diversifying mergers: firms strategically leverage their input capabilities. Using China’s WTO entry a natural experiment, which exogenously affects firms’ input sourcing and enhances their input capabilities, we show that firms are more likely to acquire targets from other industries experiencing higher tariff reductions in their common inputs. This effect is more pronounced when the affected inputs are differentiated or innovation-intensive. The main result holds in a global sample covering 73 countries. Our findings extend the core competence theory by highlighting how input-related capabilities shape firm boundaries across industries.",
+            "abstract_en": "We show that a firm’s expertise in managing specific inputs—its core competence—is a key driver of diversifying mergers. While prior work shows that such capabilities drive organic, within-firm product expansion, we demonstrate that they also motivate firms’ inorganic growth through acquisition of external firms. Using China’s 2001 WTO accession as a natural experiment, we find that a reduction in tariffs on common inputs of two industries significantly increases the likelihood of a diversifying merger between these two industries. The effect is concentrated in differentiated and innovation-intensive inputs, indicating that the valuable capability lies in mastering complex, knowledge-intensive inputs rather than in sourcing generic ones. The main result holds in a global sample covering 71 economies. Our findings extend the core competence theory by highlighting how input-related capabilities shape firm boundaries across industries.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -896,7 +936,7 @@
             "title_en": "Transportation networks, technology adoption, and structural transformation",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104325",
-            "abstract_en": "We examine how transportation influences agricultural technology adoption and structural transformation. Our empirical findings show that better transportation network reducing non-labor input prices, promoting less labor-intensive technologies, which in turn enhancing productivity and supporting structural transformation. Our model reveals that improved transportation alone accounts for 3.3 percentage points reduction in India's agricultural employment share, representing 24% of the observed decline. The model also highlights mechanism complementarity that lowering fixed adoption costs amplifies the effect of reduced non-labor costs, further promotes modern technology adoption. The counterfactual analysis indicates that eliminating farmers' ability to select technology types decreases structural transformation by 67%.",
+            "abstract_en": "We investigate how transportation networks influence agricultural technology adoption and structural transformation. Our empirical results show that improved transport networks lower non-labor input prices relative to wages and promote the adoption of more productive labor-saving technologies. These changes increase agricultural labor productivity and facilitate structural transformation. In our calibrated model, transportation improvements alone account for a 2.2–2.5 percentage-point decline in India’s agricultural employment share, representing approximately 16–18 percent of the total decline observed in the data. A counterfactual exercise in which farmers cannot choose their technology results in a smaller structural transformation, highlighting the role of farmers’ adoption decision in the process of structural transformation.",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -917,7 +957,7 @@
             "title_en": "Global production networks and imperfect competition",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jinteco.2026.104315",
-            "abstract_en": "How do global production networks and market structure interact to shape the gains from trade and competition policy? We develop a quantifiable model with two-sided firm heterogeneity, matching frictions, and imperfect competition. More productive buyers match with more suppliers, which spurs tougher competition, lowers input costs, and raises profits. Reduced-form evidence confirms that larger French and Chilean firms import higher quantities at lower prices as more Chinese suppliers enter, and that suppliers charge diversified buyers lower markups. We estimate the model by extending recent methods for combinatorial discrete-choice problems. Counterfactuals reveal that entry upstream benefits primarily high-productivity buyers, while lower trade or matching costs favor mid-productivity firms. Moreover, the interaction between endogenous networks and markups significantly amplifies the welfare gains from entry upstream, as well as from packaging trade liberalization with reductions in matching or entry costs.",
+            "abstract_en": "How do global production networks and market structure interact to shape the welfare effects of trade and competition policy? We develop a model with two-sided firm heterogeneity, matching frictions, and imperfect supplier competition. More productive buyers match with more suppliers, inducing tougher competition among them, lower input costs, and higher profits. Entry upstream thus benefits primarily high-productivity buyers, while lower trade or matching costs favor mid-productivity buyers. Reduced-form evidence confirms that larger French and Chilean firms import higher quantities at lower prices as more Chinese suppliers enter, and that suppliers charge diversified buyers lower markups. We estimate the model by adapting recent methods for combinatorial, discrete-choice problems. Counterfactuals reveal that the interaction of endogenous networks and markups significantly amplifies the gains from policies that facilitate supplier entry or firm matching, as well as from modern trade agreements that combine trade cost cuts with such policies.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -946,7 +986,7 @@
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 12,
-        "total_in_issue": 32,
+        "total_in_issue": 34,
         "papers": [
           {
             "title_en": "Relative affluence and mental health: Evidence from quasi-random class assignments",
@@ -962,7 +1002,7 @@
             "title_en": "Educational legacies of christian missions: Evidence from the Democratic Republic of the Congo",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103950",
-            "abstract_en": "This paper investigates the educational legacies of Christian missions established before independence, in the Democratic Republic of the Congo, focusing on contemporary disparities in educational content, quality, access, and outcomes. Using georeferenced data from over 20,000 schools and two million students participating in the Examen National d'État (Exetat) between 2016 and 2019, as well as primary data from a phone survey of 624 school directors, we explore how proximity to Catholic and Protestant missions during the colonial period influences educational opportunities today. We find that schools near historical Christian missions offer a broader and higher-quality curriculum, with increased access to study tracks outside the basic Pedagogy section. Students attending these schools are more likely to pass the Exetat and achieve grades qualifying for university admission, although the magnitude of the effect is modest. Supply-side factors, such as better infrastructure and more conducive school environments, explain half of the missionary proximity premium, while demand-side mechanisms, including students' sorting and selection account for additional variation. Our findings reveal that the strong partnership between missions and the colonial state entrenched spatial inequalities in educational access and quality, inequalities that persist to this day.",
+            "abstract_en": "This paper investigates the educational legacies of Christian missions established before independence, in the Democratic Republic of the Congo, focusing on contemporary disparities in educational content, quality, access, and outcomes. Using georeferenced data from over 20,000 schools and two million students participating in the Examen National d’État ( Exetat ) between 2016 and 2019, as well as primary data from a phone survey of 624 school directors, we explore how proximity to Catholic and Protestant missions during the colonial period influences educational opportunities today. We find that schools near historical Christian missions offer a broader and higher-quality curriculum, with increased access to study tracks outside the basic Pedagogy section. Students attending these schools are more likely to pass the Exetat and achieve grades qualifying for university admission, although the magnitude of the effect is modest. Observable school-environment and quality characteristics attenuate the Catholic missionary-proximity coefficient by about half, while demand-side patterns point to additional differences in student composition. Our findings reveal that the strong partnership between missions and the colonial state entrenched spatial inequalities in educational access and quality, inequalities that persist to this day.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
@@ -1010,16 +1050,6 @@
             ]
           },
           {
-            "title_en": "Gas flaring, agricultural productivity and labor reallocation: Evidence from Nigeria",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103947",
-            "abstract_en": "of the Paper This paper investigates the impact of natural gas flaring—a byproduct of oil production—on agricultural productivity in Nigeria. Using a panel dataset of Nigerian households from the Living Standards Measurement Study (LSMS) spanning 2012–2018, combined with geocoded data on monthly gas flaring volumes from oil fields, the study employs variation in the timing of interview surveys to assess effects of gas flaring during harvest and planting seasons. The analysis focuses on southern Nigeria, where oil production is concentrated, and leverages a 2010 policy reform (Local Content Act) that increased local onshore oil activities and thus gas flaring. The empirical strategy includes fixed effects (household, and region-by-month-by-year) to control for unobserved heterogeneity, weather variables (precipitation and temperature), and an instrumental variable approach using global oil price changes interacted with pre-sample flaring intensity to address endogeneity. Key outcomes measured are real crop yield per hectare and labor productivity (real agricultural output divided by worker-days). The findings reveal significant negative effects during the harvest season, particularly in rainy periods, but minimal impacts during planting. Mechanisms are explored through satellite data on air pollutants, showing elevated levels of black carbon, sulfur dioxide, and nitrogen dioxide in flaring areas. Robustness checks confirm the results against various confounders like conflicts, oil spills, and placebo tests. The paper contributes to literature on the impact of air pollution on worker productivity and crop yields and climate change impacts on agriculture, highlighting policy needs to mitigate environmental costs from extractive industries in developing countries.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
             "title_en": "FDI spillovers in history: Interwar Japanese “Zaikabo” investment in China's cotton spinning industry",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103925",
@@ -1028,6 +1058,16 @@
             "matched_topics": [
               "国际贸易",
               "国际经济"
+            ]
+          },
+          {
+            "title_en": "Gas flaring, agricultural productivity and labor reallocation: Evidence from Nigeria",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103947",
+            "abstract_en": "of the Paper This paper investigates the impact of natural gas flaring—a byproduct of oil production—on agricultural productivity in Nigeria. Using a panel dataset of Nigerian households from the Living Standards Measurement Study (LSMS) spanning 2012–2018, combined with geocoded data on monthly gas flaring volumes from oil fields, the study employs variation in the timing of interview surveys to assess effects of gas flaring during harvest and planting seasons. The analysis focuses on southern Nigeria, where oil production is concentrated, and leverages a 2010 policy reform (Local Content Act) that increased local onshore oil activities and thus gas flaring. The empirical strategy includes fixed effects (household, and region-by-month-by-year) to control for unobserved heterogeneity, weather variables (precipitation and temperature), and an instrumental variable approach using global oil price changes interacted with pre-sample flaring intensity to address endogeneity. Key outcomes measured are real crop yield per hectare and labor productivity (real agricultural output divided by worker-days). The findings reveal significant negative effects during the harvest season, particularly in rainy periods, but minimal impacts during planting. Mechanisms are explored through satellite data on air pollutants, showing elevated levels of black carbon, sulfur dioxide, and nitrogen dioxide in flaring areas. Robustness checks confirm the results against various confounders like conflicts, oil spills, and placebo tests. The paper contributes to literature on the impact of air pollution on worker productivity and crop yields and climate change impacts on agriculture, highlighting policy needs to mitigate environmental costs from extractive industries in developing countries.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
             ]
           },
           {
@@ -1051,23 +1091,22 @@
             ]
           },
           {
-            "title_en": "The grass is not always greener: The effects of local labor market information on search and employment",
+            "title_en": "Machine learning and heterogeneity in food aid impacts: Foundations for improved targeting",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103915",
-            "abstract_en": "We examine how information about local labor market conditions shapes search and employment outcomes for Indian job seekers. Participants were randomly shown information about either job postings, job applicants, or both from a popular job portal for their preferred city and occupation. Treated respondents are more likely to be employed seven months later. This overall effect varies considerably by baseline employment status. Among the initially employed , treatments reduce search off the portal and increase employment, with suggestive evidence of higher persistence in baseline jobs. In contrast, among the initially unemployed , treatments increase search activity but do not raise employment. Employment gains are concentrated among job seekers with less optimistic beliefs about labor market conditions. These findings suggest that limited information about labor market fundamentals may contribute to job churn in lower-income countries. • An RCT provides real-time local labor market information to urban job seekers. • Information raises employment by 12% after seven months. • Employment gains are concentrated among initially employed job seekers. • Employed workers retain jobs; unemployed search more but don’t find jobs. • Suggestive evidence shows largest gains for workers with lower expectations.",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103926",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Perceived need and measured well-being: How well do subjective rankings capture relative poverty?",
+            "title_en": "The grass is not always greener: The effects of local labor market information on search and employment",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103943",
-            "abstract_en": "Subjective well-being rankings are widely used to target social protection programs, yet their ability to capture relative welfare and wealth remains debated. This study compares three commonly used subjective ranking methods: self-, peer-, and elite-based poverty rankings, against consumption- and wealth-based measures using a large household survey in Ethiopia, where about 20 households per village were ranked from most to least “needy” by themselves, their peers, and community leaders. We assess concordance between subjective and conventional welfare rankings and explore sources of divergence. Subjective rankings align more with relative wealth than consumption and with total rather than per capita welfare, suggesting they overlook household composition. Among the three subjective ranking methods, elite-based rankings best capture conventional measures, although overall concordance between subjective and welfare-based rankings remains weak. Subjective rankings also better reflect relative deprivation among households exposed to covariate shocks. A composite index combining all three modestly improves concordance with standard metrics. We find suggestive evidence that information asymmetry, favoritism, and welfare dynamics partly explain discrepancies between subjective rankings and conventional welfare measures. These findings offer important insights to improve targeting in data-scarce settings.",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103915",
+            "abstract_en": "We examine how information about local labor market conditions shapes search and employment outcomes for Indian job seekers. Participants were randomly shown information about either job postings, job applicants, or both from a popular job portal for their preferred city and occupation. Treated respondents are more likely to be employed seven months later. This overall effect varies considerably by baseline employment status. Among the initially employed , treatments reduce search off the portal and increase employment, with suggestive evidence of higher persistence in baseline jobs. In contrast, among the initially unemployed , treatments increase search activity but do not raise employment. Employment gains are concentrated among job seekers with less optimistic beliefs about labor market conditions. These findings suggest that limited information about labor market fundamentals may contribute to job churn in lower-income countries. • An RCT provides real-time local labor market information to urban job seekers. • Information raises employment by 12% after seven months. • Employment gains are concentrated among initially employed job seekers. • Employed workers retain jobs; unemployed search more but don’t find jobs. • Suggestive evidence shows largest gains for workers with lower expectations.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
               "创新药"
             ]
           }
@@ -1379,7 +1418,7 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 8,
+        "matched_count": 7,
         "total_in_issue": 15,
         "papers": [
           {
@@ -1401,16 +1440,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "产业经济"
-            ]
-          },
-          {
-            "title_en": "Contested transparency: Digital monitoring technologies and worker voice",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103322",
-            "abstract_en": "Advances in artificial intelligence and data analytics have notably expanded employers' monitoring and surveillance capabilities, facilitating the accurate observability of work effort. There is an ongoing debate among academics and policymakers about the productivity and broader welfare implications of digital monitoring (DM) technologies. In this context, many countries confer information, consultation and codetermination rights to employee representation (ER) bodies on matters related to the workplace governance of these technologies. Using a cross-sectional sample of more than 21000 European establishments, we document a positive association between ER and the utilization of DM technologies. We also find a positive effect of ER on DM utilization in the context of a local-randomization regression discontinuity analysis that exploits size-contingent policy rules governing the operation of ER bodies in Europe. Finally, in an exploratory analysis, we find a positive association between DM and process innovations, particularly in establishments where ER bodies are present and a large fraction of workers perform jobs that require finding solutions to unfamiliar problems. We interpret these findings through the lens of a labor discipline model in which the presence of ER bodies affect employer's decision to invest in DM technologies.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
             ]
           },
           {
@@ -1437,7 +1466,7 @@
             "title_en": "Netflix and chilling effect? The impact of streaming video licenses on paid digital downloads",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.ijindorg.2026.103324",
-            "abstract_en": "Digital distribution has expanded monetization opportunities for media firms, but it also introduces complex tradeoffs across channels. A central challenge for studios and networks is negotiating fixed-fee licensing deals with bundled subscription video-on-demand (SVOD) platforms like Netflix, whose flat-rate access model may cannibalize à la carte sales on transactional platforms such as iTunes.We exploit the natural experiment of Netflix’s launch in Australia to estimate the causal effect of licensing a film to the service on its digital sales. On average, licensing reduces à la carte downloads by 52.5%, with effects that persist even after titles are removed from Netflix – evidence that temporary bundling can have durable effects on competing transactional channels.Crucially, we show that this treatment effect is heterogeneous: the direction and magnitude of the effect vary systematically with a film’s à la carte price and its latent demand. Lower-priced titles exhibit positive treatment effects following Netflix inclusion, while higher-priced titles experience substantial declines. Though prices are not exogenously assigned, these patterns are consistent with theoretical models in which exposure on an SVOD platform can generate promotional spillovers, sampling, or word-of-mouth for lower-cost titles.Our findings offer rare revealed-preference evidence on how SVOD bundling interacts with underlying demand, addressing classic questions in industrial organization around bundling and channel conflict.",
+            "abstract_en": "Digital distribution has expanded monetization opportunities for media firms, but it also introduces complex tradeoffs across channels. A central challenge for studios and networks is negotiating fixed-fee licensing deals with bundled subscription video-on-demand (SVOD) platforms like Netflix, whose flat-rate access model may cannibalize à la carte sales on transactional platforms such as iTunes. We exploit the natural experiment of Netflix’s launch in Australia to estimate the causal effect of licensing a film to the service on its digital sales. On average, licensing reduces à la carte downloads by 52.5%, with effects that persist even after titles are removed from Netflix – evidence that temporary bundling can have durable effects on competing transactional channels. Crucially, we show that this treatment effect is heterogeneous: the direction and magnitude of the effect vary systematically with a film’s à la carte price and its latent demand. Lower-priced titles exhibit positive treatment effects following Netflix inclusion while higher-priced titles experience substantial declines, consistent with a framework in which subscriber substitution and cross-segment exposure operate in opposite directions and are differently moderated by the à la carte price. Our findings offer rare revealed-preference evidence on how SVOD bundling interacts with underlying demand, addressing classic questions in industrial organization around bundling and channel conflict.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
@@ -1475,7 +1504,7 @@
         "issue_title": "Volume 56, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 11,
-        "total_in_issue": 15,
+        "total_in_issue": 18,
         "papers": [
           {
             "title_en": "The effects of national security assessments in public procurement on competition, sustainability, innovation, and critical technology procurement",
@@ -1553,6 +1582,18 @@
             ]
           },
           {
+            "title_en": "Staying on topic: How research knowledge spills over via university education to regional entrepreneurial activity",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105646",
+            "abstract_en": "Innovative entrepreneurship is an important driver of regional economic development. According to the Knowledge Spillover Theory of Entrepreneurship (KSTE), universities contribute directly to innovative entrepreneurship by conducting state-of-the-art research and educating talent. A key assumption of the KSTE is that human interactions play a pivotal role in transferring knowledge from universities to entrepreneurship, implying that educating students on research topics provides an indirect route for knowledge to spill over into innovative entrepreneurship. Yet this mechanism has not been tested at the level of knowledge specificity where such human interactions actually occur. In this paper, we introduce topics as a novel level of analysis to examine these processes empirically. We define topics as knowledge organized around a coherent theme or problem orientation, making them understandable, transmittable, and usable across institutional contexts through human interaction. Using this topic-level approach, we answer the following question: What is the direct and indirect influence of the amount of university research and education on the level of regional innovative entrepreneurial activity on a topic? We apply Latent Dirichlet Allocation to different documents to extract the amount of educational, research, and entrepreneurial activity per topic in two university regions in the Netherlands. We then connect these activities on a topic through a series of regression models. Our results show that education on a topic has a strong direct effect and largely mediates the positive effect of research on innovative entrepreneurial activity on that topic. Our results further suggest that spillovers to innovative entrepreneurial activity mostly take place within topics rather than between them. Finally, we find evidence that research on related topics can pull talent away from innovative entrepreneurship on a topic. In practical terms, our results suggest that education on state-of-the-art research topics is an important mechanism for promoting innovative entrepreneurship.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
             "title_en": "Selective industrial policy for the EU open strategic autonomy: The role of products' relatedness",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105656",
@@ -1564,14 +1605,15 @@
             ]
           },
           {
-            "title_en": "Staying on topic: How research knowledge spills over via university education to regional entrepreneurial activity",
+            "title_en": "When the music changes, so must your dance: Technology-forcing regulation and the shifting geography of automotive invention",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105646",
-            "abstract_en": "Entrepreneurship is an important driver of regional economic development. Universities contribute to this goal by conducting state-of-the-art research and educating talent. The academic and policy debate regarding innovative start-up firms has primarily focused on how the outputs of research can be translated into entrepreneurial activities. In contrast, the role of education in fostering entrepreneurial activity has received comparatively little attention. As such, it remains unknown which task of a university is more important for innovative entrepreneurship in a region: research or education. Further, existing research on academic entrepreneurship has largely focused on Science, Technology, Engineering, and Mathematics (STEM) or the life sciences (LS), but innovative start-up firms in the Social Sciences and Humanities (SSH) domain are understudied. Furthermore, while entrepreneurship education is seen as an important method to promote innovative entrepreneurial activity, little attention has been paid to its effectiveness in achieving this goal. Hence, we pose the following question: What is the influence of university education and research on the level of regional innovative entrepreneurial activities within a given topic? We make education, research, and entrepreneurship data comparable across specific topics in a region, by applying topic models to course descriptions and publication abstracts from two universities in the Netherlands, as well as to innovative start-up firm descriptions from the two regions in which these universities are located.We show that both research and education foster innovative entrepreneurial activity, but that the effect of education is much stronger than that of research. Second, we find that education mediates the positive effect of research on innovative entrepreneurship. Third, we observe that innovative entrepreneurial activities are highest in the SSH domain. Finally, we find evidence that providing practical entrepreneurship education is beneficial for innovative entrepreneurial activity. This effect appears particularly strong in the LS and, to a lesser extent, in the STEM domain. Our findings indicate that more attention to the impact of education and pedagogical approaches is warranted to promote innovative entrepreneurial activity.",
+            "url": "https://doi.org/10.1016/j.respol.2026.105655",
+            "abstract_en": "Technology-forcing regulations can compel incumbent firms to develop capabilities in technologies that lie outside their established knowledge bases. We examine how firms respond to this challenge by reconfiguring the geography and organization of invention. Focusing on the automotive industry's transition toward low-emissions technologies, we investigate whether more stringent environmental policies increase incumbent firms' reliance on technological hotspots—locations with specialized knowledge in low-emissions vehicle technologies. We examine two mechanisms through which firms can access this geographically concentrated knowledge: locating inventive activity in hotspots and collaborating with hotspot inventors. Using a comprehensive panel dataset covering more than half a million patent families from incumbent automotive manufacturers and their first-tier suppliers across 311 regions from 1990 to 2020, we find that technology-forcing regulation increases firms' propensity both to locate invention in low-emissions technology hotspots and to collaborate with inventors located there. These findings reveal an important spatial dimension of technology-forcing policy: by increasing firms' need to access specialized knowledge, regulation can reshape not only the direction of technological change but also where and with whom incumbent firms innovate.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
-              "企业创新"
+              "企业创新",
+              "创新药"
             ]
           },
           {
@@ -1579,16 +1621,6 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105642",
             "abstract_en": "The question of who gains from high-quality entrepreneurship is crucial to understanding whether investments in innovative startup firms produce socially beneficial outcomes. Although entrepreneurship is widely viewed as a central driver of economic growth, recent research has raised concerns that it may also exacerbate inequality and other undesirable social outcomes. We bring new evidence to this debate by analyzing the impact of entrepreneurship on a variety of local economic outcomes, including income inequality, average incomes, and income mobility, using IRS and U.S. Census Bureau microdata. We find that entrepreneurship indeed increases income inequality, although this effect fades in the years after firm founding. While entrepreneurship produces statistically significant income gains across the distribution, the economic magnitude of these effects varies dramatically, with benefits concentrated among top earners. We also find that entrepreneurship can serve as a mobility tool for less well-off individuals, increasing their probability of rising to the top of the income distribution. These income and mobility gains, however, are uneven across demographic groups.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "When the music changes, so must your dance: Technology-forcing regulation and the shifting geography of automotive invention",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105655",
-            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "企业创新"
@@ -1602,82 +1634,39 @@
         "query_name": "Strategic Management Journal",
         "issn": "0143-2095",
         "resolved_name": "Strategic Management Journal",
-        "issue_title": "Volume 47, Issue 11",
+        "issue_title": "Volume 47, Issue 13",
         "issue_url": "https://onlinelibrary.wiley.com/journal/10970266",
-        "matched_count": 7,
-        "total_in_issue": 8,
+        "matched_count": 3,
+        "total_in_issue": 7,
         "papers": [
           {
-            "title_en": "Entrepreneurship training and entrepreneurs' perceptions of ability: A randomized control trial in Tanzania",
+            "title_en": "Designing for unanticipated uses: How product attributes shape community‐led exaptation",
             "title_zh": "",
-            "url": "https://doi.org/10.1002/smj.70117",
-            "abstract_en": "Abstract Research Summary This study examines whether training entrepreneurs to apply systematic approaches to strategic decision‐making influences their self‐perception of ability. Using a field experiment in which 151 entrepreneurs in Tanzania were randomly assigned to two different versions of entrepreneurial training (an evidence‐based vs. a theory‐and‐evidence‐based approach), we find entrepreneurs in the theory‐and‐evidence‐based condition experience a larger and more persistent increase in their self‐perception of ability to deal with challenges compared to the evidence‐based condition. Additionally, entrepreneurs across the two conditions respond differently to the training depending on their initial levels of perceived ability. By integrating insights from social cognitive psychology, this study contributes to research on entrepreneurial experimentation by uncovering the effect of strategic decision‐making training on individuals themselves, not just their ventures' outcomes. Managerial Summary Entrepreneurs' self‐perceptions of ability are critical for how they engage with learning opportunities and respond to challenges that arise as they develop their businesses. To explore how different versions of training on strategic decision‐making impact entrepreneurs' self‐perceived abilities to deal with such challenges, we conducted a field experiment with Tanzanian agribusiness entrepreneurs. Results show that entrepreneurs who learn to develop a theory‐of‐value before engaging in experimentation experience a larger increase in self‐perceived ability compared to those who experiment without such a theory‐of‐value, and this effect persists for longer. Our results have practical value for entrepreneurs and support organizations offering training programs and point to self‐perception of ability as an important factor to help entrepreneurs follow the behavioral advice they receive during those trainings.",
+            "url": "https://doi.org/10.1002/smj.70132",
+            "abstract_en": "Abstract Research Summary Users often discover new uses for products that firms may later commercialize, which we call community‐led exaptation. We examine how product attributes shape users' discovery of new functions versus new functionalities. Using 1925 IKEA product hacks, we find that modularity increases the likelihood of new functions. This effect strengthens when product components are compatible across product lines but weakens when esthetic product variants exist. Visual simplicity, conversely, increases the likelihood of new functionalities. These findings suggest that firms can structure the opportunity space for discovery through product design. Exploratory analysis of archival data and interviews further illustrates how IKEA responds to these discoveries. We contribute to exaptation, user innovation, and design research by showing how product attributes shape the types of new uses communities discover. Managerial Summary How can firms design products to facilitate community‐led exaptation? We find that product attributes can shape what users discover. Modular products enable users to find new functions (i.e., applications), while visually simple products enable users to find new functionalities (i.e., new product capabilities). Firms' decisions to offer components that are compatible across product lines and esthetic product variants can influence the likelihood of new functions. Additionally, firms can capitalize on these new uses by showcasing promising community‐discovered functions on official channels or incorporate them as complements to existing product lines. However, functional modifications can raise safety concerns and may require additional development. Firms should therefore design for intended use, and for the kinds of new uses they are willing to seed and commercialize.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
               "企业创新"
             ]
           },
           {
-            "title_en": "ESG investing and pollution outsourcing",
+            "title_en": "Accommodation in the vertical supply chain: Implications of manufacturer dual tracking",
             "title_zh": "",
-            "url": "https://doi.org/10.1002/smj.70115",
-            "abstract_en": "Abstract Research Summary Can environmental, social, and governance (ESG) investors hold businesses accountable for their environmental impact? Extending institutional theory and analyzing a global sample of firms from 2006 to 2019, we argue that, in response to ESG investors' institutional pressures, firms may intensify pollution outsourcing to suppliers as a sophisticated form of corporate decoupling. We further theorize and find suggestive evidence that this effect is less salient and sometimes reversed when ESG investors can help firms access green technologies and when they have more direct purview of firms' suppliers. We employ investor‐level acquisitions as quasi‐exogenous shocks and additionally analyze a separate firm–supplier sample to support the hypotheses with largely consistent results. Managerial Summary Environmental, social, and governance (ESG) investors are increasingly expected to act as private regulators, using ownership stakes to steer companies toward sustainability. Yet, looking only at whether a focal firm cleans up its own operations can be misleading because it ignores what happens in the broader supply chain. Using global firm data from 2006 to 2019, we find that companies under strong ESG investor pressure generate lower direct emissions but may shift pollution to suppliers, leaving the combined emissions unchanged. We also provide suggestive evidence that this outsourcing is reduced and sometimes can become reduced when investors can help firms adopt green technologies and directly oversee supplier practices.",
+            "url": "https://doi.org/10.1002/smj.70123",
+            "abstract_en": "Abstract Research Summary The prevalence of dual tracking, in which upstream manufacturers simultaneously produce branded and private‐label products for downstream retailers, has increased substantially in recent years, driven by growing consumer demand for private‐label products. This paper examines the implications of manufacturer dual tracking by exploiting a setting in the ready‐to‐eat breakfast cereal industry where a leading branded manufacturer began supplying both products to retailers. We find that, because of this change in the vertical relationship, private‐label product introductions and advertising declined for products that directly imitated the dual‐tracking manufacturer's branded products. Changes in retailer behavior suggest that retailers accommodated the dual‐tracking manufacturer by selectively adjusting their private‐label portfolios. Dual tracking can therefore improve a manufacturer's bargaining position against retailers and reduce downstream imitation. Managerial Summary Manufacturers have increasingly produced not only their own branded products but also private‐label products for retailers that compete with those brands. This phenomenon, known as dual tracking, carries benefits and risks for manufacturers. While producing private‐label products can utilize excess capacity, these products directly compete with the branded counterpart. We study the implications for firms engaging in dual tracking and show that doing so gives manufacturers greater bargaining power in their relationships with retailers. Firms can leverage this change in bargaining power to reduce imitation by retailers' private‐label products, lessening competition concerns. Our results show that retailers reduced the introduction and advertising of private‐label products that directly compete with the dual‐tracking manufacturer.",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
-              "创新药"
+              "国际贸易"
             ]
           },
           {
-            "title_en": "Shifting standards due to social class? The role of social class background in <scp>CEO</scp> career outcomes",
+            "title_en": "Does innovation success need advocacy? Stakeholder involvement in firm innovation",
             "title_zh": "",
-            "url": "https://doi.org/10.1002/smj.70113",
-            "abstract_en": "Abstract Research Summary This study investigates how social class background shapes CEO career outcomes. Extending the shifting standards model to post‐appointment evaluation, we theorize that CEOs from lower‐class backgrounds face persistently high confirmatory standards, producing asymmetric consequences. When their performance is strong, the high confirmatory standards amplify their success, resulting in higher initial and subsequent compensation compared to their higher‐class counterparts. When performance falters, the same bar makes shortfalls more readily read as falling short of expectations, resulting in lower compensation and higher dismissal risk. We test these predictions using a novel dataset on CEO social class backgrounds from 1992 to 2018, supplemented with board interviews. The findings support our hypotheses, demonstrating how social class background operates as a double‐edged sword by increasing rewards for success and penalties for failure. Managerial Summary Does social class background affect how a CEO is evaluated? Drawing on compensation and dismissal outcomes for U.S. CEOs from 1992 to 2018, along with interviews with directors, we show that CEOs' social class backgrounds shape how their performance is interpreted. CEOs from lower social class backgrounds receive higher initial compensation and are rewarded more when their firms perform well. But when performance weakens, these same CEOs face steeper pay cuts and higher dismissal risk than their higher‐class peers. The same background that generates recognition when things go well makes shortfalls easier to interpret as underperformance. For boards, this suggests that background can quietly shape evaluations at the highest levels. For CEOs, perceptions of exceptional mobility and capability can become a liability when performance turns.",
+            "url": "https://doi.org/10.1002/smj.70127",
+            "abstract_en": "Abstract Research Summary Prior research documents that firms often collaborate with advocacy groups to mitigate stakeholder contention. Integrating stakeholder theory into a performance model of collaborative innovation, we propose an overlooked explanation for such collaborations: to enhance the adoption of firms' innovations. We argue that advocacy groups influence the adoption of innovations through a distinct, role‐based legitimacy mechanism. Because advocacy groups are expected to scrutinize firms' conduct, their willingness to collaborate provides a credible signal that a firm's innovation is socially appropriate. These signals become particularly valuable when firms have previously faced media criticism for socially irresponsible products or services and in industries characterized by high variation in corporate social performance. Using a unique dataset on firms' innovation collaborations in Germany, we find support for our conjectures. Managerial Summary Research indicates that firms collaborate with advocacy groups to avoid boycotts or protests. We introduce a largely overlooked additional rationale for such collaborations: to enhance the adoption of a firm's innovations. We suggest that advocacy groups can lend legitimacy to innovations and argue that firms benefit most from such collaborations when their products and services received bad press in the past and when there is considerable variation in corporate social performance across firms in the industry. Based on unique data on innovation collaborations between firms and advocacy groups, we find that these conditions matter in determining when firms can significantly benefit from involving advocacy groups in their innovation projects.",
             "abstract_zh": "",
             "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Simulating strategic interactions with AI agents",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/smj.70112",
-            "abstract_en": "Abstract Research Summary We explore how Large Language Models (LLMs) can serve as synthetic subjects to inform strategy research. We introduce a framework for designing and running simulated experiments with LLM‐powered agents. We argue that this approach is useful for rapid, low‐cost prototyping of human experiments and for generating novel hypotheses. We apply the framework to the exploration–exploitation dilemma and show that LLM‐based experiments reproduce patterns observed among human participants. We then vary parameters and boundary conditions to illustrate how the same setup can support design iteration and surface hypotheses about when and why established results change. In the conclusion, we discuss the promise and limitations of artificial intelligence agents as “model organisms” for strategy. Managerial Summary Artificial intelligence (AI) agents are beginning to enter firms as tools that can execute work, from writing code to coordinating complex tasks across systems. This article argues that their value for strategy extends beyond task automation: AI agents can also be used to simulate strategic interactions and assess how strategies perform under alternative assumptions. In our exploration–exploitation application, these simulations reproduce core patterns from prior human experiments and reveal where those patterns weaken or reverse. Used this way, AI agents can help firms prototype strategic choices, stress‐test assumptions, and direct managerial attention toward promising leads before larger commitments of time and effort.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Disentangling contract and law: Legal specificity and contractual governance in public–private partnerships",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/smj.70111",
-            "abstract_en": "Abstract Research Summary This study examines how legal design shapes contractual governance in public–private partnership (PPP). We argue that PPP‐specific laws do not simply strengthen institutional safeguards; by varying in detail, they also alter the flexibility available for project‐level contracting. Highly specific laws better constrain governmental discretion but raise adaptation costs, making user‐pay contracts, where private partners bear demand risk and rely on market‐responsive adjustment, less attractive. Less specific laws preserve greater contractual discretion and are therefore associated with more user‐pay arrangements. We also show that countries with weaker political constraints adopt more specific PPP laws, suggesting that legal design compensates for weaker institutional checks. Using 3986 PPP projects in 53 countries from 1997 to 2021, we find support for these claims. Managerial Summary Governments often pass public–private partnership (PPP) laws to attract private capital into infrastructure projects. This study shows that what matters is not only whether such laws exist, but how detailed they are. Highly specific laws can make government commitments more credible, especially where political checks and balances are weak, but they can also limit the flexibility private partners need when revenues depend on users, such as tolls or fees. Across 3986 PPP projects in 53 countries, we find that more detailed laws are linked to fewer user‐pay projects, while less detailed laws are linked to greater use of user‐pay arrangements. Our analysis suggests that legal certainty and flexibility must be balanced: specific legal regimes can protect private investment while narrowing the range of viable investment models.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Revisiting industry effects: The assignment of firms to industries",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/smj.70106",
-            "abstract_en": "Abstract Research Summary Strategy research examines the drivers of firm performance. Variance decomposition studies have analyzed industry's impact, with little attention paid to the industry to which a firm is assigned. This study investigates how industry assignment affects the findings about industry's impact. We analyze existing industry classification schemes and introduce a machine learning‐based scheme that leverages an embedding model to process text from annual reports. We find that industry assignment differs substantially across schemes, and that certain firms are more consistently grouped together. Schemes that group more similar firms together exhibit stronger industry effects. Given the literature's frequent reliance on the criticized Standard Industrial Classification scheme, industry's role in firm performance has likely been systematically underestimated. Managerial Summary Understanding what drives a company's success is crucial. Prior research has surprisingly found that a firm's industry plays little role in explaining a firm's performance. However, this study suggests that industry's importance is likely understated due to how firms are grouped into industries. Comparing several existing industry classification schemes alongside a new one we built using machine learning, we find that grouping similar firms in the same industry increases reported industry importance and decreases firm importance. Being more precise about industry membership reveals that industry matters more than previously thought. The implication is that understanding the industry is more important for a firm's performance and could be key to understanding sustained success.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "国际贸易",
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Deepening the real options debate: Real options as dynamic optimization",
-            "title_zh": "",
-            "url": "https://doi.org/10.1002/smj.70109",
-            "abstract_en": "Abstract Research Summary Is real option theory useful for management research? This topic was hotly debated two decades ago. Real options were said to be inapplicable to management research and to lack conceptual distinctiveness. Whereas responses to the claim about the non‐distinctiveness of real options were disparate, the concern about the theory's non‐applicability was considered remediable. Such responses left the impression that real options lost the debate, and the use of real options in management research started to stagnate. This paper reviews the opposing positions in the debate, establishes the conceptual distinctiveness of real options, and outlines responses to concerns about the theory's applicability to management research, thereby underscoring the promise of real option theory as a key pillar for research in strategic management. Managerial Summary Managers often face decisions about whether to invest, wait, expand, switch the use of resources, or exit a market under uncertainty. This paper explains why real options remain a valuable way to think about such decisions despite earlier criticism of the approach. It argues that the core strength of real options is not only in valuing investments but also in helping managers make better sequences of decisions over time by considering how today's choices affect tomorrow's opportunities. The paper also shows how real options can accommodate learning, changing information, organizational constraints, and behavioral biases rather than ignoring them. By viewing strategy as a dynamic process of optimizing decisions under uncertainty, managers can better preserve flexibility, allocate resources, and improve long‐term value creation in changing environments.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
+              "企业创新"
             ]
           }
         ],
@@ -1829,8 +1818,8 @@
         "resolved_name": "Journal of Business Venturing",
         "issue_title": "Volume 42, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
-        "matched_count": 3,
-        "total_in_issue": 11,
+        "matched_count": 5,
+        "total_in_issue": 13,
         "papers": [
           {
             "title_en": "Between mission pull and governance burden: Geographic distance and deal realisation in impact investing",
@@ -1840,6 +1829,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "The judgment-based approach to entrepreneurship: The uncertainty–heterogeneity nexus",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106660",
+            "abstract_en": "The judgment-based approach (JBA) has emerged as an important contemporary perspective in management and entrepreneurship research. The JBA offers a distinctive theoretical account of entrepreneurship, centered on the formation and implementation of subjective theories of value creation under conditions of Knightian uncertainty, which highlights resource ownership, heterogeneous capital structure, organization and the firm, institutions, uncertainty, and the overarching need to appraise and coordinate all these factors using judgment. We present and develop the JBA by articulating the uncertainty–heterogeneity nexus, in which the joint presence of fundamental uncertainty and heterogeneous resources gives rise to the need for entrepreneurial judgment and makes its exercise economically consequential. Because judgment is subjective, tacit, and difficult to communicate or contract upon, entrepreneurs must rely on ownership and residual control rights to create value, linking judgment to the combination and deployment of resources, profit and loss, and organizational structure. The purpose of this article is threefold. First, we provide a systematic statement of the JBA as a theoretical framework, clarifying its core constructs, causal mechanisms, and domain of application. Second, we engage with key critiques and distinguish the JBA from related approaches, including opportunity-based, effectuation, and bricolage perspectives. Third, we outline directions for future research that build on the JBA's emphasis on judgment, ownership, and the organization and deployment of heterogeneous resources under uncertainty. By integrating these elements, we position the JBA as a coherent and distinctive theory of entrepreneurship with broad implications for research in management, organization, and strategy.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易",
+              "企业创新",
               "创新药"
             ]
           },
@@ -1854,15 +1855,23 @@
             ]
           },
           {
-            "title_en": "The judgment-based approach to entrepreneurship: The uncertainty–heterogeneity nexus",
+            "title_en": "Understanding multi-level dynamics in rural entrepreneurial ecosystems: A conceptual framework and research agenda",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jbusvent.2026.106660",
-            "abstract_en": "The judgment-based approach (JBA) has emerged as an important contemporary perspective in management and entrepreneurship research. The JBA offers a distinctive theoretical account of entrepreneurship, centered on the formation and implementation of subjective theories of value creation under conditions of Knightian uncertainty, which highlights resource ownership, heterogeneous capital structure, organization and the firm, institutions, uncertainty, and the overarching need to appraise and coordinate all these factors using judgment. We present and develop the JBA by articulating the uncertainty–heterogeneity nexus, in which the joint presence of fundamental uncertainty and heterogeneous resources gives rise to the need for entrepreneurial judgment and makes its exercise economically consequential. Because judgment is subjective, tacit, and difficult to communicate or contract upon, entrepreneurs must rely on ownership and residual control rights to create value, linking judgment to the combination and deployment of resources, profit and loss, and organizational structure. The purpose of this article is threefold. First, we provide a systematic statement of the JBA as a theoretical framework, clarifying its core constructs, causal mechanisms, and domain of application. Second, we engage with key critiques and distinguish the JBA from related approaches, including opportunity-based, effectuation, and bricolage perspectives. Third, we outline directions for future research that build on the JBA's emphasis on judgment, ownership, and the organization and deployment of heterogeneous resources under uncertainty. By integrating these elements, we position the JBA as a coherent and distinctive theory of entrepreneurship with broad implications for research in management, organization, and strategy.",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106664",
+            "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易",
-              "企业创新",
               "创新药"
+            ]
+          },
+          {
+            "title_en": "The Penrosean spinout: A new spin on the theory of the entrepreneurial firm",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jbusvent.2026.106663",
+            "abstract_en": "We integrate Penrose's (1959) theory of firm growth with the spinout literature to identify a previously overlooked type of new venture: the Penrosean spinout. Penrose identified the accumulation of managerial capacity as a natural byproduct of routine firm operations and a catalyst of firm growth. However, managerial capacity may also accumulate in non-managerial employees, particularly in low-tech sectors such as the trades, where workers readily observe and absorb the full range of activities required to run an enterprise. When it does accumulate, excess managerial capacity may catalyze not firm growth but new firm formation — a spinout. In a pure Penrosean spinout, employer and employee need not disagree about the product, the market, or the production process; they disagree about whether to expand the business, and on what terms. Our framework makes three contributions. First, it identifies an endogenous mechanism of entrepreneurial entry: the seeds of new firm formation are sown continuously in the normal course of business, not only in response to technological disruption or novel market insight. Second, it explains persistent industry fragmentation in low-tech sectors as a structural consequence of the routine leakage of managerial capacity through spinouts. Third, it offers a novel account of why noncompete agreements and occupational licensing are prevalent among low-wage workers who possess little proprietary technical knowledge. By extending spinout theory beyond high-tech contexts, we contribute to a more comprehensive understanding of the emergence of entrepreneurial firms.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "国际贸易"
             ]
           }
         ],
@@ -1875,9 +1884,20 @@
         "resolved_name": "Technovation",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/technovation",
-        "matched_count": 6,
-        "total_in_issue": 8,
+        "matched_count": 8,
+        "total_in_issue": 11,
         "papers": [
+          {
+            "title_en": "Design principles for entrepreneurial validation: An integrative review from a design science perspective",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103753",
+            "abstract_en": "Entrepreneurial validation is a central activity in entrepreneurship through which entrepreneurs collect and analyse information to validate assumptions about a potential market's needs, the appropriateness of the proposed solution, and/or the viability of the business model. Although research on entrepreneurial validation is developing, knowledge remains fragmented across scholarly and practitioner literatures, resulting in limited coherence and a lack of evidence-based guidance for entrepreneurs. Drawing on design science, we employ the Context-Agency-Mechanism-Outcome (CAMO) framework to integrate research on entrepreneurial validation from different fields and synthesise the empirical findings into four design principles. We contribute by organising concepts that prior literature has tended to conflate or treat interchangeably, setting a new research agenda, and extending design knowledge through the development of evidence-based design principles of entrepreneurial validation. Overall, we advance evidence-based entrepreneurship by strengthening entrepreneurial validation's theoretical foundations and offering practitioners an initial, provisional step towards a more actionable, empirically grounded validation practice.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
           {
             "title_en": "Organizational design for breakthrough innovation in established firms",
             "title_zh": "",
@@ -1922,6 +1942,17 @@
             "title_en": "How digital dynamic capabilities relate to breakthrough innovation: The role of ambidextrous knowledge integration under organizational inertia",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.technovation.2026.103772",
+            "abstract_en": "In the context of accelerating digital transformation and technological turbulence, firms increasingly rely on digital dynamic capabilities (DDC) to achieve breakthrough technological innovation (BKTI). However, the mechanisms through which DDC are associated with such innovation outcomes remain insufficiently specified, particularly regarding how digitally enabled capabilities translate into knowledge processes. Drawing on dynamic capability theory and the knowledge-based view, we develop and test a theoretical framework in which ambidextrous knowledge integration, exploratory and exploitative, mediates the relationship between DDC and BKTI. Furthermore, we theorize organizational inertia as a critical boundary condition that may constrain the efficacy of this capability to innovation pathway. Using a multi-source dataset from firms across diverse industries in China, we find that DDC's primary impact on BKTI occurs through AKI, with XKI exerting a stronger mediating effect than EKI. Organizational inertia significantly weakens these effects, particularly for XKI, highlighting the contingent nature of capability-driven innovation. This study contributes to the literature in three ways. First, it clarifies how the “digital” dimension of dynamic capabilities relates to knowledge integration processes. Second, it refines the ambidexterity perspective by specifying how EKI and XKI jointly support BKTI without assuming rigid sequencing. Third, it introduces a more contingent view of capability-innovation relationships by incorporating organizational inertia. Given the China-based sample, the findings should be interpreted as contextually embedded, particularly in digitally intensive environments.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Innovation profile mismatch and innovation communication responsiveness",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.technovation.2026.103776",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -2089,8 +2120,8 @@
         "resolved_name": "Journal of Health Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
-        "matched_count": 4,
-        "total_in_issue": 13,
+        "matched_count": 5,
+        "total_in_issue": 15,
         "papers": [
           {
             "title_en": "Does advertising expand the market for hospital services? Evidence from Medicare",
@@ -2124,6 +2155,16 @@
               "产业经济",
               "企业创新",
               "医药产业"
+            ]
+          },
+          {
+            "title_en": "Subsidies for innovative technology adoption: Experimental evidence on malaria in Burkina Faso",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jhealeco.2026.103193",
+            "abstract_en": "We evaluated both the demand for and impact of a prevention tool against malaria that requires repeated purchase and overcomes the limits of mosquito bed nets. We used a randomized experiment to examine the effects of subsidies for a mosquito repellent ointment that protects against mosquito bites and malaria on product use and malaria cases in Burkina Faso. Around 3100 households were randomly allocated to one of the three experimental groups defined by level of subsidy: 0, 50 or 100%. Subsidies strongly and significantly increase the probability of acquiring a jar of mosquito repellent ointment and using it regularly during the rainy season. We find no substitution with bed nets, but a strong effect on the use of mosquito coils. The treatment effects on usage are heterogeneous, including more positive outcomes for young children as reported by their caregiver. The impact on use continues even after the end of the subsidy, with effects on demand and willingness to pay elicited through a Becker-DeGroot-Marschak approach eight months after the end of the intervention. Our intervention induces a significant reduction in declared malaria occurrence during the rainy season, but no effect at the very end of the rainy season when blood tests were taken. The seemingly discrepancy will be partly explained by timing and sample size.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "企业创新"
             ]
           },
           {
@@ -2272,71 +2313,103 @@
         "query_name": "Value in Health",
         "issn": "1098-3015",
         "resolved_name": "Value in Health",
-        "issue_title": "Volume 29, Issue 10",
+        "issue_title": "Volume 29, Issue 11",
         "issue_url": "https://www.valueinhealthjournal.com/",
-        "matched_count": 6,
-        "total_in_issue": 23,
+        "matched_count": 9,
+        "total_in_issue": 24,
         "papers": [
           {
-            "title_en": "The Application of Food and Drug Administration Patient-Focused Drug Development Guidance in Rare Patient Populations: Innovation and Flexibility",
+            "title_en": "Exploratory Economic Evaluation of a Genome Precision Report in Kidney and Liver Transplantation Care",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.09.001",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "企业创新"
-            ]
-          },
-          {
-            "title_en": "Development and Validation of a Brief Healthcare Insecurity Scale in a Sample of US Adults Living With and Without HIV",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.05.017",
-            "abstract_en": "OBJECTIVES: Healthcare insecurity is pervasive in the United States and abroad, with implications for health, particularly among people living with chronic conditions. Yet, a common definition is lacking and current measures are limited. METHODS: We developed and validated an 8-item healthcare insecurity scale (HCIS) using cross-sectional data collected from 2021 to 2022 from individuals living with and without HIV in the United States (n = 2513). Psychometric properties were assessed through confirmatory factor analysis and item response theory models, and measurement invariance was tested. Criterion and convergent validity were evaluated by examining associations between HCIS scores and health insurance status, socioeconomic factors, perceived stress, and self-reported physical, mental, and general health, adjusting for income and demographics. RESULTS: The unidimensional scale demonstrated good local fit and sufficient global fit. Each item was strongly correlated with the latent trait of healthcare insecurity (standardized factor loadings ranging from 0.69 to 0.90). The scale showed strong measurement invariance across groups defined by HIV serostatus and gender. Mean (SD) HCIS scores were 1.2 (2.5). Higher scores among those with no health insurance demonstrated criterion validity. Higher scores among those with lower income, unemployment, or disability, as well as strong positive associations between HCIS scores and perceived stress and self-reported health supported convergent validity. CONCLUSIONS: The HCIS is a psychometrically sound tool for comprehensively assessing healthcare insecurity in people living with or vulnerable to HIV, even in a sample highly linked to care. The brevity and scope of HCIS support its applicability in research on healthcare insecurity beyond access to health insurance.",
+            "url": "https://doi.org/10.1016/j.jval.2026.06.013",
+            "abstract_en": "OBJECTIVES: To investigate the impact of including 4 domains of kidney and liver transplantation care (tacrolimus optimization, postoperative complications prevention, screening, and familial testing) on the cost-effectiveness of a genome precision report and identify key parameters driving the cost-effectiveness. METHODS: A decision tree model-based cost-utility analysis comparing a genome precision report with standard nongenomic practice from the Australian healthcare system perspective was conducted, using data from the literature (lifetime costs and quality-adjusted life-years [QALYs] discounted at 3% to 5%, following the source studies) and the Clinical Change Project study. Costs were in 2024 Australian dollars (US dollar values converted using purchasing power parities). We conducted a stepped evaluation that sequentially added each domain, and deterministic and probabilistic sensitivity analyses. RESULTS: With only the tacrolimus optimization and the postoperative complication prevention domains included, the incremental cost and QALY compared with standard practice were AU$2030 (US$1471) and 0.0003, respectively (incremental cost-effectiveness ratio: AU$6.2 million [US$4.5 million] per QALY gained). Including all 4 domains reduced the incremental cost to AU$1800 (US$1300) and increased the QALYs gained to 0.0170 (incremental cost-effectiveness ratio: AU$106 000 [US$77 000] per QALY gained). Results were sensitive to genomic test cost, incremental cost and QALY after germline cancer and cardiovascular conditions screening, rejection rates, and cascade-testing uptake. The probability of cost-effectiveness was 0.14 to 0.79 at AU$50 000 to 150 000 (US$36 234-108 701) per QALY thresholds. CONCLUSION: Considering wider benefits of genomic medicine can materially change its estimated cost-effectiveness. Lower genomic test cost and better quantification of genotype-guided tacrolimus dosing benefits could improve its cost-effectiveness in Australia.",
             "abstract_zh": "",
             "matched_topics": [
               "创新药"
             ]
           },
           {
-            "title_en": "Patient Preferences, Perceptions, and Influencing Factors in Weight Loss Pharmacotherapy and Bariatric Surgery: A Systematic Literature Review",
+            "title_en": "Developing Best Practice for Analyzing Individual Patient Utility Data in Health Technology Assessment: A Modified Delphi Study",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.04.001",
-            "abstract_en": "OBJECTIVES: Understanding features of weight loss treatments that matter most to patients can inform clinical, reimbursement, and policy decisions. This systematic review synthesizes qualitative and quantitative evidence to characterize treatment attributes patients consider most important in weight loss pharmacotherapy and bariatric surgery. METHODS: We conducted a systematic search of PubMed, Embase, and the Cochrane Library. Studies were included if they assessed patient perspectives or preferences for weight loss pharmacotherapy or bariatric surgery among adults with overweight or obesity. Data extraction covered study characteristics, methodological features, and key findings. A narrative synthesis was conducted because of methodological heterogeneity. Study quality was assessed using 3 validated tools. RESULTS: Of the 965 articles identified, 14 met inclusion criteria (5 discrete choice experiments [DCEs], 4 surveys, and 5 qualitative studies) from 9 countries. Most were published after 2017. Sample sizes ranged from 10 to 2500. Treatment effectiveness (eg, percentage weight loss, comorbidity resolution) consistently emerged as the most valued attribute, followed by cost and safety (notably gastrointestinal adverse effects). Willingness-to-pay estimates from DCEs showed patients were willing to pay more for greater weight loss, fewer adverse effects, and improved comorbidity outcomes. However, DCE methodologies varied considerably in design and analysis. Qualitative and survey studies further highlighted the influence of social support, stigma, and long-term risk perceptions. CONCLUSIONS: Patients prioritize effectiveness, cost, and safety in weight management and are willing to make meaningful trade-offs among these attributes. As the obesity treatment landscape evolves, preference studies using more standardized methods are critical for advancing patient-centered weight management.",
+            "url": "https://doi.org/10.1016/j.jval.2026.05.016",
+            "abstract_en": "OBJECTIVES: Accurate health utilities are critical for health economic models because quality-adjusted life-years combine health utilities and life-years. Individual patient utility data are an important source of these inputs because they are used to calculate health-state utility values; yet, no dedicated best practice guidance exists for analyzing patient-level utility data. This research aimed to develop guidance for analyzing such data and identify gaps. METHODS: We conducted a scoping survey, literature and National Institute for Health and Care Excellence technology appraisal reviews, and a modified Delphi process to generate consensus-based recommendations. The research examined key analysis considerations including utility distributions (eg, upper bounded), data characteristics (eg, missing data, repeated collection), and associated analytical methods (eg, regression models). It also examined post-hoc adjustments required to address specific data properties. The derivation of individual patient utility data was out of scope. RESULTS: Thirty-one participants-predominantly health economists, alongside statisticians-from academia, industry, consultancies, and National Institute for Health and Care Excellence contributed to the Delphi process. Thirteen topics were discussed, covering 3 stages of analysis: core methods, potential adjustments, and sensitivity analyses. Although no new recommendations emerged, the panel refined wording, added clarifications, and expanded recommendations. Broad consensus across all recommendations was achieved by the end of round 3. CONCLUSION: The research informed the development of best practice guidance for analyzing individual patient utility data. Important evidence gaps remain in the published literature, particularly regarding optimal methods for responding to data characteristics. These findings support health technology assessment agencies in providing clearer, more consistent instructions for robust and transparent analysis of these data.",
             "abstract_zh": "",
             "matched_topics": [
               "国际贸易",
+              "医疗创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "The Costs, Cost-Effectiveness, and Methods for Evaluating Clinical Registries: A Systematic Scoping Review",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.05.002",
+            "abstract_en": "OBJECTIVES: Clinical registries are critical components of digital health infrastructure, supporting quality improvement, research, and system performance monitoring. The economic value and cost-effectiveness of registries across clinical areas remain poorly understood. This systematic scoping review aimed to synthesize evidence on the costs, cost-effectiveness, and methods in economic evaluation of clinical registries. METHODS: Medline, Embase, CINAHL, and the Cochrane Library were searched from inception to February 2025, for economic evaluations or costing analyses of clinical registries. Eligible studies included full economic evaluations, cost-only studies, and gray literature reporting registry costs. Data were extracted and summarized descriptively. Methodological quality was assessed using the Consolidated Health Economic Evaluation Reporting Standards, the Joanna Briggs Institute checklist for economic evaluations, and the cost-of-illness checklist for cost analyses. RESULTS: Twenty-two primary studies and 11 gray literature sources were included. Six full economic evaluations demonstrated registries were cost-effective or cost-saving, with reported returns on investment, derived from costs and estimated cost savings, ranging from 1.5 to over 2250 per £1 invested. Sixteen cost-only studies and 11 gray literature reports provided costs across diverse registry types. Cost patterns showed economies of scale, with higher per-patient costs in smaller registries and greater efficiencies in larger or national programs. Equity-focused analyses were rare, only 1 study examined subgroup impacts. CONCLUSIONS: Clinical registries represent strategic, cost-effective investments in digital health systems. Their economic benefits and efficiencies support ongoing national and international investment. Future evaluations should adopt standardized costing methods, integrating equity and distributional analyses to enhance comparability.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Physician-Led Switching From Reference Biologics to Biosimilars: What Is the Effect on Selected Health-Related Outcomes and Costs for Patients With Inflammatory Bowel Disease in Germany?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.06.006",
+            "abstract_en": "OBJECTIVES: Biologics have broadened the therapeutic options for many diseases, but their high costs have raised concerns about long-term affordability for patients and health systems. A potential cost-containment strategy is physician-led switching from originator (ie, reference) biologics to biosimilars. We assessed the effect of this form of switching on selected health-related outcomes and costs in patients with inflammatory bowel disease. METHODS: We analyzed German claims data from 2014 to 2022 for patients with inflammatory bowel disease (ICD K50, K51, and K52.3) who received infliximab (ATC L04AB02) or adalimumab (ATC L04AB04) during the observation period. Patients who did not switch to a biosimilar were reweighed to resemble those who did. We then estimated the effect of switching for a follow-up period of up to 4 years using difference-in-differences regression. Additionally, we analyzed treatment persistence using a 2-period difference-in-differences regression. RESULTS: We identified 3464 patients who met our inclusion criteria, including 914 who switched from an originator biologic to a biosimilar (infliximab: 445; adalimumab: 469). Although most health-related outcomes appeared unaffected by the switch, we observed significantly higher treatment persistence among patients who switched to a biosimilar compared with those who continued treatment with the originator biologic. The switch reduced costs by lowering pharmaceutical spending, with significant reductions observed during the first 2 years. CONCLUSIONS: Our results indicate that physician-led switching from originator biologics to biosimilars does not lead to worse health-related outcomes and results in lower costs. Thus, it appears to be an effective cost-containment strategy in the management of inflammatory bowel disease.",
+            "abstract_zh": "",
+            "matched_topics": [
               "医药产业",
               "创新药"
             ]
           },
           {
-            "title_en": "Eliciting a Conceptual Model for a New Patient-Reported Outcome Measure to Assess Patients’ Perception of Treatment Goal Achievement in Interdisciplinary Multimodal Pain Treatment",
+            "title_en": "Stakeholder Perspectives on Potential Open-Label Bias in Patient-Reported Outcome Results From Cancer Clinical Trials: Evidence From the IMPROvE Project",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.05.014",
-            "abstract_en": "OBJECTIVES: The study aimed to develop a content-valid conceptual model to capture patients' perceptions of therapy goal achievement within interdisciplinary multimodal pain treatment (IMPT) programs. This model serves as the theoretical foundation for a new patient-reported outcome measure designed to evaluate IMPT effectiveness from the patient perspective. METHODS: Concept elicitation followed the concept mapping approach, combining qualitative and quantitative techniques. A total of 61 patients with primary chronic pain participated in focus groups and online surveys. Patient-generated treatment goals were collected, categorized, and analyzed by the multidimensional scaling method and a subsequent hierarchical cluster analysis. Finally, the data were validated by an interdisciplinary expert panel to ensure conceptual accuracy and relevance for the conceptual model. RESULTS: A total of 210 therapy goals were collected. Of these, 127 were retained for the final model after a reduction process. Fifteen coherent clusters emerged from the analysis, representing 3 overarching domains: functional restoration, therapy-related competence development, and psychological growth. This multidimensional structure reflects the biopsychosocial complexity of chronic pain and emphasizes that successful therapy is perceived as enhanced autonomy, regained participation, and self-empowerment rather than mere pain reduction. CONCLUSIONS: The developed conceptual model provides a content-valid, patient-centered basis for assessing treatment goal achievement in IMPT. By integrating functional, cognitive, and emotional dimensions, it enables a differentiated assessment of patient-relevant treatment outcomes. Future work should focus on developing a conceptual framework and item generation, cognitive debriefing and validation, and psychometric evaluation in larger and more diverse samples ensuring reliability, validity, and applicability of the final patient-reported outcome measure across clinical and research settings.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新药"
-            ]
-          },
-          {
-            "title_en": "Interpreting the Economic Value of Docetaxel, Platinum, and Cetuximab in Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma: The Importance of Decision Context, Utility Timing, and Treatment Burden",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.03.2265",
+            "url": "https://doi.org/10.1016/j.jval.2026.06.002",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "国际贸易"
+              "创新药"
             ]
           },
           {
-            "title_en": "Development and Validation of an Artificial Intelligence Tool for Automated Population, Intervention, Comparator, Outcome Scoping for the European Joint Clinical Assessment: A Proof of Concept",
+            "title_en": "Modeling Systemic Lupus Erythematosus Treatment Cost-Effectiveness Based on a Novel Lupus Low Disease Activity State Treat-to-Target Approach",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jval.2026.05.009",
-            "abstract_en": "OBJECTIVES: The European Union Health Technology Assessment regulation (EU-HTAR) requires laborious population, intervention, comparator, outcome (PICO) scoping and consolidation across member states during joint clinical assessments. We developed a tool to automate PICO extraction from health technology assessment (HTA) documents and clinical guidelines. METHODS: We developed a proof-of-concept artificial intelligence (AI) pipeline using retrieval-augmented generation and large language models to process documents, translate to English, extract PICOs, and consolidate findings. The system was validated using 2 oncology cases from nonsmall cell lung cancer (NSCLC) and hepatocellular carcinoma (HCC). We curated data sets for both cases, comprising 49 reports totaling 5463 pages from 16 unique countries. Performance was assessed using recall (sensitivity) and precision (positive predictive value) and compared with human data extraction. RESULTS: The AI system demonstrated strong recall performance, achieving 0.807 for NSCLC and 0.837 for HCC. The AI outperformed human extraction in the NSCLC case (0.81 vs 0.71 recall) while matching human performance in HCC (0.84 vs 0.81). Extraction of the comparator element showed high recall (0.911 NSCLC; 0.967 HCC). The AI pipeline required 96 minutes of computational time beyond translation, saving approximately 25 hours of human screening work. CONCLUSIONS: We showed that AI-based PICO extraction was feasible and valuable in 2 use-cases. The system showed good recall and had the potential to reduce workload in the joint clinical assessment. It may be useful for the assessors and coassessors in the EU-HTAR process, the industry in gaining insight into PICO expectations, and national HTA bodies in understanding the expected PICO wishes of other nations.",
+            "url": "https://doi.org/10.1016/j.jval.2026.06.014",
+            "abstract_en": "OBJECTIVES: To demonstrate a new cost-effectiveness modeling approach in systemic lupus erythematosus (SLE), using treat-to-target health states defined by Lupus Low Disease Activity State (LLDAS). METHODS: A Markov Cohort State Transition Model evaluated the cost-effectiveness of anifrolumab plus standard of care (SOC) versus SOC in patients with moderate to severe SLE, by integrating the effects of disease activity and oral corticosteroid use on organ damage and mortality into 24 health states defined by LLDAS (\"in LLDAS\" or \"Not in LLDAS\") and Systemic Lupus International Collaborating Clinics/American College of Rheumatology Damage Index scores (SDI 0 to ≥5). Transition probabilities, costs, and utilities were derived from observational cohort studies and phase 3 TULIP trial data. Quality-adjusted life-years (QALYs) and incremental cost-effectiveness ratios (ICERs) were calculated (Australian dollars, 2023 prices), and supported by sensitivity analyses. RESULTS: Anifrolumab base-case results were $298 031 for discounted total costs and 9.099 for discounted total QALYs; SOC values were $280 426 and 8.952, respectively. There were incremental costs of $17 605 and QALYs of 0.147 with anifrolumab, leading to an ICER of $119 841/QALY. Probabilistic sensitivity analyses supported these findings. One-way sensitivity analyses identified LLDAS attainment rates at week 24 with anifrolumab vs SOC as the most influential parameter to the ICER, followed by mortality for patients \"Not in LLDAS\" vs \"in LLDAS.\" Health-related quality of life and flares also influenced the ICER. CONCLUSIONS: Our model offers a simple and robust approach to assessing the cost-effectiveness of SLE treatments using validated and recommended treatment targets for patients with SLE.",
             "abstract_zh": "",
             "matched_topics": [
-              "医药产业",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "A Competency Framework for Health Technology Assessment Expertise: Results From a Delphi Study",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.06.007",
+            "abstract_en": "OBJECTIVES: Competencies for health technology assessment (HTA) professionals can guide development of tailored training development and capacity building. Therefore, the aim of this study was to define new competencies and competency domains for HTA professionals, define competencies on 3 levels of expertise, and build international consensus on the competency descriptions using a Delphi approach. METHODS: We updated an existing framework by defining the existing competencies on 3 levels of expertise. New competencies and competency domains were added to the framework. A 2-round Delphi survey was conducted to build consensus on the relevance and description of the updated competencies, new competencies, and competency domains. RESULTS: The first Delphi survey included 100 panelists. No consensus was reached on 6 out of 69 competencies. Consensus was reached on the relevance and description of competencies within the competency domains of Environmental aspects and Artificial Intelligence use in HTA. No consensus was reached on the relevance of including competencies related to performance and achievements, except for the competency of Scientific principles. These outcomes were used as input for the second Delphi survey, which included 74 panelists. The level of agreement on the renewed competency descriptions did not differ significantly between rounds 1 and 2. CONCLUSIONS: A comprehensive competency framework for HTA professionals on competent, proficient, and expert level was developed. The competency framework facilitates capacity building on individual, organizational, and environmental level.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "医疗创新",
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Psychometric Properties of the Experimental and Modified EQ-HWB and EQ-HWB-9 in Patients with Anxiety and/or Depression in China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.06.004",
+            "abstract_en": "OBJECTIVES: We aimed to examine the psychometric properties of the EuroQol Health and Wellbeing (EQ-HWB) and its short form (EQ-HWB-9) in patients with anxiety and/or depression. A secondary objective was to assess the performance of item modifications proposed by the EQ-HWB developers after the initial version was published. METHODS: A multicenter cross-sectional study included 900 patients with anxiety and/or depression in China. The survey included the modified 25-item EQ-HWB and the 12 experimental items that differ between the experimental (2022) and modified (2024) versions. EQ-HWB-9 responses were derived from the EQ-HWB (modified version, 2024). Psychometric evaluation included distributional characteristics, convergent validity (correlations with EQ-5D-5L, Generalized Anxiety Disorder Scale-7, Patient Health Questionnaire-9, Recovering Quality of Life-10, and Short Warwick-Edinburgh Mental Well-being Scale), known-groups validity, test-retest reliability, and exploratory cross-instrument dimensionality (principal component analysis). RESULTS: No ceiling effect was observed (0.8% EQ-HWB, 2.4% EQ-HWB-9). The sleep (9.0%), anxiety (9.4%), and exhaustion (13.4%) items had the lowest ceilings. Convergent validity was strong, particularly with Patient Health Questionnaire-9 and Generalized Anxiety Disorder Scale-7 (items ≤ 0.78; scale ≤ 0.90). Known-groups validity showed large effect sizes across anxiety and depression severity groups. Test-retest reliability was good (item-level Gwet's AC2 0.60-0.97; instrument-level intraclass correlation coefficient 0.72-0.73). EQ-HWB items loaded on 5 factors (mental health and cognition, positive well-being, physical health, pain and discomfort, and social relationships). The differences in psychometric performance between the modified and experimental items varied across items. CONCLUSION: The EQ-HWB/EQ-HWB-9 demonstrate good validity and reliability for assessing health and well-being in Chinese patients with anxiety and/or depression. Results support the potential usefulness of the 2 instruments for cross-sectoral decision making in anxiety and/or depression.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新药"
+            ]
+          },
+          {
+            "title_en": "Official Digital Health Technology Assessment Guidelines: An International Comparative Review and Analysis",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jval.2026.04.010",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
               "医疗创新"
             ]
           }
